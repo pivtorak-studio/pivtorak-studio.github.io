@@ -1,20 +1,15 @@
 baseURL = 'https://pivtorak.studio/'
 languageCode = 'uk-ua'
 title = 'Pivtorak.Studio'
-theme = 'book'
+theme = ["github.com/alex-shpak/hugo-book"]
 
 [params]
-  # Налаштування вигляду
   BookLogo = 'logo.png'
   BookMenuBundle = '/menu'
-  BookRepo = 'https://github.com/pivtorak-studio/pivtorak-studio.github.io'
-  
-  # Ваша нова ідентичність
   author = 'Anna Pivtorak'
-  description = 'Digital Archive & Research Hub | Political Cybernetics | Art Expertise'
+  description = 'Digital Archive & Research Hub | Independent Researcher'
 
 [menu]
-  # Головне меню зліва
   [[menu.after]]
     name = "ORCID Profile"
     url = "https://orcid.org/0000-0002-7271-5166"

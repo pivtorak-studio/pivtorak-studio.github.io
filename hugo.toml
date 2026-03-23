@@ -3,12 +3,7 @@ languageCode = 'uk-ua'
 title = 'Pivtorak.Studio'
 theme = 'hugo-book'
 
-[module]
-  [[module.imports]]
-    path = 'github.com/alex-shpak/hugo-book'
-
 [params]
   BookLogo = 'logo.png'
   BookMenuBundle = '/menu'
   author = 'Anna Pivtorak'
-  description = 'Digital Archive & Research Hub'

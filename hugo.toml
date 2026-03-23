@@ -1,16 +1,14 @@
 baseURL = 'https://pivtorak.studio/'
 languageCode = 'uk-ua'
 title = 'Pivtorak.Studio'
-theme = ["github.com/alex-shpak/hugo-book"]
+theme = 'hugo-book'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/alex-shpak/hugo-book'
 
 [params]
   BookLogo = 'logo.png'
   BookMenuBundle = '/menu'
   author = 'Anna Pivtorak'
   description = 'Digital Archive & Research Hub | Independent Researcher'
-
-[menu]
-  [[menu.after]]
-    name = "ORCID Profile"
-    url = "https://orcid.org/0000-0002-7271-5166"
-    weight = 10

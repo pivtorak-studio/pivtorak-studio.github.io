@@ -4,7 +4,8 @@ title = 'Pivtorak.Studio'
 theme = 'hugo-book'
 
 [params]
-  BookLogo = 'logo.png'
-  BookMenuBundle = '/menu'
   author = 'Anna Pivtorak'
   description = 'Digital Archive & Research Hub'
+  # Вимикаємо ручне меню, щоб уникнути помилок шляхів
+  BookMenuBundle = false
+  BookSectionEnumerable = true

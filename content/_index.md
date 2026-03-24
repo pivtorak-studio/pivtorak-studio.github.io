@@ -1,7 +1,10 @@
 ---
-type: menu
+title: "Pivtorak.Studio"
+type: "docs"
 ---
 
-- [**Головна**]({{< relref "/" >}})
-- [**Фонди**]({{< relref "/docs" >}})
-  - [#ShieldOfNation]({{< relref "/docs/shield-of-nation" >}})
+# Вітаємо у Pivtorak.Studio
+
+Цифровий архів та дослідницький хаб Анни Півторак. 
+
+Використовуйте меню зліва для перегляду фондів.

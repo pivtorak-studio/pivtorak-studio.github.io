@@ -7,12 +7,4 @@ theme = 'hugo-book'
   BookLogo = 'logo.png'
   BookMenuBundle = '/menu'
   author = 'Anna Pivtorak'
-  description = 'Digital Archive & Research Hub | Independent Researcher'
-  # Дозволяє автоматично нумерувати розділи в меню
-  BookSectionEnumerable = true
-
-[module]
-  # Цей рядок каже Hugo: "Шукай тему в папці themes/hugo-book, яку ми створили"
-  [[module.mounts]]
-    source = "themes/hugo-book"
-    target = "themes/hugo-book"
+  description = 'Digital Archive & Research Hub'

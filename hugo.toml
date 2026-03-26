@@ -1,11 +1,30 @@
 baseURL = 'https://pivtorak.studio/'
-languageCode = 'uk-ua'
+defaultContentLanguage = 'uk'
 title = 'Pivtorak.Studio'
 theme = 'hugo-book'
 
+[languages]
+  [languages.uk]
+    languageName = 'UA'
+    contentDir = 'content/uk'
+    weight = 1
+  [languages.en]
+    languageName = 'EN'
+    contentDir = 'content/en'
+    weight = 2
+  [languages.pt]
+    languageName = 'PT'
+    contentDir = 'content/pt'
+    weight = 3
+  [languages.ru]
+    languageName = 'RU'
+    contentDir = 'content/ru'
+    weight = 4
+
 [params]
+  BookLogo = 'logo.png'
   author = 'Anna Pivtorak'
   description = 'Digital Archive & Research Hub'
-  # Вимикаємо ручне меню, щоб уникнути помилок шляхів
-  BookMenuBundle = false
   BookSectionEnumerable = true
+  # Вмикає перемикач мов
+  BookTranslate = true

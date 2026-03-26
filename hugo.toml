@@ -22,9 +22,7 @@ theme = 'hugo-book'
     weight = 4
 
 [params]
-  BookLogo = 'logo.png'
   author = 'Anna Pivtorak'
   description = 'Digital Archive & Research Hub'
   BookSectionEnumerable = true
-  # Вмикає перемикач мов
   BookTranslate = true

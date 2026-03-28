@@ -16,7 +16,7 @@ theme = 'hugo-book'
     languageName = 'PT'
     contentDir = 'content/pt'
     weight = 3
-  [languages.ru]
+  #[languages.ru]
     languageName = 'RU'
     contentDir = 'content/ru'
     weight = 4

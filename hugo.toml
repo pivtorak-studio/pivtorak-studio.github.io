@@ -17,9 +17,9 @@ theme = 'hugo-book'
     contentDir = 'content/pt'
     weight = 3
   #[languages.ru]
-    languageName = 'RU'
-    contentDir = 'content/ru'
-    weight = 4
+    #languageName = 'RU'
+    #contentDir = 'content/ru'
+    #weight = 4
 
 [params]
   author = 'Anna Pivtorak'

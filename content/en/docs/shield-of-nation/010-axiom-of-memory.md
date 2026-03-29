@@ -6,7 +6,7 @@ weight: 1
 **Shield Of The Nation**
 ## Axiom Of Memory 🕯️📚🏰 Historian — Keeper Of Time
 
-_Axiom Of Memory: is the shield of a nation that prevents truth from being erased and restores the voice of those silenced.
+_Axiom Of Memory: where the enemy tries to erase the past, truth arises and restores the voice.
 The one who returns the voice of the dead to teach the living._  
 _His pen is sharper than any sword, restoring the truth that others tried to erase._
 

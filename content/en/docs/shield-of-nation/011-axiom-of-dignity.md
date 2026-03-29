@@ -6,7 +6,7 @@ weight: 1
 **Shield Of The Nation**
 ## Axiom Of Dignity 🧭🕊️💎 Citizen — Stoic Warrior
 
-_Axiom Of Dignity: is the inner shield of a person that sustains a nation when no one betrays themselves.
+_Axiom Of Dignity: where a person is forced to break, an inner shield arises that refuses to kneel.
 The shield is held not by hands, but by the heart._  
 _Dignity is the silence in which a person never betrays themselves._
 

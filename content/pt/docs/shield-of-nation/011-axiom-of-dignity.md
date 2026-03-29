@@ -5,7 +5,7 @@ weight: 1
 
 **Escudo Da Nação**
 ## Axioma Da Dignidade 🧭🕊️💎 Cidadão — Guerreiro Estoico
-_Axioma Da Dignidade: é o escudo interior da pessoa que sustenta a nação quando ninguém trai a si mesmo.
+_Axioma Da Dignidade: onde a pessoa é pressionada a quebrar, surge um escudo interior que se recusa a ajoelhar.
 O escudo não é sustentado pelas mãos, mas pelo coração._  
 _A dignidade é o silêncio em que a pessoa nunca trai a si mesma._
 

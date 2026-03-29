@@ -6,7 +6,7 @@ weight: 1
 **Escudo Da Nação**
 ## Axioma Da Fé ✨🙏🕊️ Guardiã Do Espírito
 
-_Axioma Da Fé: é a luz da nação que gera força onde todas as possibilidades terminam.
+_Axioma Da Fé: onde a escuridão parece infinita, surge uma luz que conduz à vitória.
 O silêncio em que nasce a vitória._  
 _A fé não é um pedido, mas uma luz que nunca se apaga._
 

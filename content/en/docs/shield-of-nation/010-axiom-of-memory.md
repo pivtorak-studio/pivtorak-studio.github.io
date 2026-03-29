@@ -1,6 +1,13 @@
+---
+title: "010 Axiom Of Memory"
+weight: 1
+---
+
 **Shield Of The Nation**
 ## Axiom Of Memory 🕯️📚🏰 Historian — Keeper Of Time
-_The one who returns the voice of the dead to teach the living._  
+
+_Axiom Of Memory: is the shield of a nation that prevents truth from being erased and restores the voice of those silenced.
+The one who returns the voice of the dead to teach the living._  
 _His pen is sharper than any sword, restoring the truth that others tried to erase._
 
 A historian is not just a witness to the past. He is a guardian at the gates of time, preventing falsehood from invading the nation’s memory. He collects fragments of facts, letters, and words — and from them, he revives the truth that holds the nation together.

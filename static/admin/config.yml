@@ -1,8 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
   repo: pivtorak-studio/pivtorak-studio.github.io
-  branch: main # або master
-base_url: https://api.netlify.com # Це важливо для Netlify
+  branch: main
 
 media_folder: "static/images"
 public_folder: "/images"
@@ -16,3 +15,12 @@ collections:
       - {label: "Заголовок", name: "title", widget: "string"}
       - {label: "Вага (порядок)", name: "weight", widget: "number", default: 10}
       - {label: "Текст статті", name: "body", widget: "markdown"}
+
+  - name: "shield_en"
+    label: "Shield of Nation (EN)"
+    folder: "content/en/docs/shield-of-nation"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Weight", name: "weight", widget: "number", default: 10}
+      - {label: "Body", name: "body", widget: "markdown"}

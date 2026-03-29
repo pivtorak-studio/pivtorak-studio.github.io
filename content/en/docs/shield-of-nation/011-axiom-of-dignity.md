@@ -1,6 +1,13 @@
+---
+title: "011 Axiom Of Dignity"
+weight: 1
+---
+
 **Shield Of The Nation**
 ## Axiom Of Dignity 🧭🕊️💎 Citizen — Stoic Warrior
-_The shield is held not by hands, but by the heart._  
+
+_Axiom Of Dignity: is the inner shield of a person that sustains a nation when no one betrays themselves.
+The shield is held not by hands, but by the heart._  
 _Dignity is the silence in which a person never betrays themselves._
 
 The Stoic Warrior is every citizen who stands firm against injustice, even when the world pressures them to yield. It is not armor of steel, but an inner order that keeps a person upright in the vertical of honor. Dignity is not a slogan but a state of soul — where truth is stronger than fear.

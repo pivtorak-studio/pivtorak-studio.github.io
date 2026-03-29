@@ -5,7 +5,7 @@ weight: 1
 
 **Escudo Da Nação**
 ## Axioma Da Memória 🕯️📚🏰 Historiador — Guardião Do Tempo
-_Axioma Da Memória: é o escudo de uma nação que impede que a verdade seja apagada e devolve a voz a quem foi silenciado.
+_Axioma Da Memória: onde o inimigo tenta apagar o passado, surge a verdade que devolve a voz.
 Aquele que devolve a voz dos mortos para ensinar os vivos._  
 _Sua pena é mais afiada que qualquer espada, pois restaura a verdade que tentaram apagar._
 

@@ -6,7 +6,7 @@ weight: 1
 **Shield Of The Nation**
 ## Axiom Of Faith ✨🙏🕊️ Guardian Of Spirit
 
-_Axiom Of Faith: is the light of a nation that creates strength where all possibilities end.
+_Axiom Of Faith: where darkness seems endless, a light arises that leads to victory.
 Silence in which victory is born._  
 _Faith is not a request but a light that never fades._
 

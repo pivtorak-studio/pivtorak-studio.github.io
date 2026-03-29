@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: pivtorak-studio/pivtorak-studio.github.io
   branch: main # або master
 base_url: https://api.netlify.com # Це важливо для Netlify

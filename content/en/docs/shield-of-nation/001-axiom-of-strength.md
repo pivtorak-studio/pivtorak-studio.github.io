@@ -19,4 +19,4 @@ Image of a Ukrainian warrior in armor. He stands on the frontline, holding a shi
 
 #Ukraine #Defenders #ShieldOfNation #WarriorsOfLight #Resilience #Freedom #Heroes #Army #Strength #Fight #Will #Courage #Honor #MilitaryDefense #Frontline #Protection #Nation #Independence #GloryToUkraine #PivtorakStudio #MemoryOn #Shield
 
-_Shield Of The Nation. Military Defense. Pivtorak.Studio. 01.10.2025_  
+_Shield Of The Nation. Axiom Of Strength (Military Defense). Pivtorak.Studio. 01.10.2025_  

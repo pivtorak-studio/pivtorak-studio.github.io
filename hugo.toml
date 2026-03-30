@@ -26,3 +26,6 @@ theme = 'hugo-book'
   description = 'Digital Archive & Research Hub'
   BookSectionEnumerable = true
   BookTranslate = true
+
+[params]
+  BookLogo = 'logo.png'

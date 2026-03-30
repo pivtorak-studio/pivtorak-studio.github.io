@@ -7,6 +7,7 @@ weight: 1
 ## Axiom Of Independence ⚡️💡🛠️ Energy Worker — Blacksmith Of Light
 
 _Axiom of independence: where darkness tries to break the people, light is born.  
+
 The spark in the hands of an energy worker is a ray of freedom.  
 The fire that keeps the nation’s heart alive._
 

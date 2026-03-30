@@ -1,3 +1,8 @@
+---
+title: "005 Axiom Of Resilience"
+weight: 1
+---
+
 **Shield Of The Nation**
 ## Axiom Of Resilience 🩺🌱🚑 Medic — Steel Root
 

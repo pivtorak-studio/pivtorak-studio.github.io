@@ -1,3 +1,8 @@
+---
+title: "008 Axiom of Revival"
+weight: 1
+---
+
 **Shield Of The Nation**
 ## Axiom of Revival 🌾🚜☀️ Farmer — Guardian Of Bread
 

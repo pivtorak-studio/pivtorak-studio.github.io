@@ -1,3 +1,8 @@
+---
+title: "002 Axiom Of Life"
+weight: 1
+---
+
 **Shield Of The Nation**
 
 ## Axiom Of Life 👶🏽💡🛡️ Midwife-Bearer Of Light

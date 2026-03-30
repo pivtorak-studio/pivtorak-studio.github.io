@@ -1,3 +1,8 @@
+---
+title: "001 Axiom Of Strength"
+weight: 1
+---
+
 **Shield Of The Nation**
 ## Axiom Of Strength 🪖🛡️⚓️ Military Defense
 

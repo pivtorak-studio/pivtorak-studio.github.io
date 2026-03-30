@@ -1,5 +1,5 @@
 ---
-title: "006 Axioma Da Força"
+title: "006 Аксіома Єдності"
 weight: 1
 ---
 

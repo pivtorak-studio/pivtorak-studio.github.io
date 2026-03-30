@@ -1,3 +1,8 @@
+---
+title: "003 Axiom Of Independence"
+weight: 1
+---
+
 **Shield Of The Nation**
 ## Axiom Of Independence ⚡️💡🛠️ Energy Worker — Blacksmith Of Light
 

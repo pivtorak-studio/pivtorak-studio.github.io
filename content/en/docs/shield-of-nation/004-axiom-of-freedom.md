@@ -1,3 +1,8 @@
+---
+title: "004 Axiom Of Freedom"
+weight: 1
+---
+
 **Shield Of The Nation**
 ## Axiom Of Freedom 🧠🔭📖 Teacher — Photon Of Knowledge
 

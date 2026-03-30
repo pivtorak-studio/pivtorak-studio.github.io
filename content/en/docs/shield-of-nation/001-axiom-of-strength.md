@@ -7,7 +7,6 @@ weight: 1
 ## Axiom Of Strength 🪖🛡️⚓️ Military Defense
 
 _Axiom of strength: where the enemy comes with weapons, a warrior rises.  
-
 Unbreakable as armor. Invisible as prayer. Inevitable as dawn._
 
 Military defense is the foundation of the nation’s shield.  

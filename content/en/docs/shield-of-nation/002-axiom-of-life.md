@@ -8,7 +8,6 @@ weight: 1
 ## Axiom Of Life 👶🏽💡🛡️ Midwife-Bearer Of Light
 
 _Axiom of life: where the first cry of a newborn is heard, an unbreakable lantern rises.  
-
 Light that conquers the darkness of war.  
 Protection stronger than fear._
 

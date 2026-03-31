@@ -3,6 +3,12 @@ title: "001 Архітектура Резонансу"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Архітектура Резонансу](/images/IndependentResearcherManifesto_001_TheArchitectureOfResonance_PivtorakStudio_2026.webp)
+
+</div>
+
 ## Маніфест Незалежного Дослідника: Архітектура Резонансу
 
 ### 1. Точка відліку: Від спостереження до проектування

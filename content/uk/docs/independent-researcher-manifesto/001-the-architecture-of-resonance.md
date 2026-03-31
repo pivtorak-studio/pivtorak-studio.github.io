@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Архітектура Резонансу](/images/Manifesto-001.webp)
+![Архітектура Резонансу](/images/manifesto-001.webp)
 
 </div>
 

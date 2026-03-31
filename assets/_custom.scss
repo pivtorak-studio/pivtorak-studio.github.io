@@ -1,5 +1,28 @@
+/* Збільшуємо логотип */
+.book-logo {
+    height: 4rem !important; /* Збільште до 5rem, якщо треба ще більше */
+    width: auto;
+    margin-bottom: 1rem;
+}
+
+/* Обтікання текстом для фото */
 .float-right {
     float: right;
-    margin: 0 0 1rem 1rem;
-    max-width: 300px;
+    margin: 0 0 1.5rem 1.5rem;
+    max-width: 350px;
+    
+    img {
+        border-radius: 8px; /* Опціонально: додасть м'які кути вашим фото */
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Додасть легку тінь */
+    }
+}
+
+/* Налаштування для мобільних пристроїв */
+@media screen and (max-width: 600px) {
+    .float-right {
+        float: none;
+        margin: 0 auto 1rem;
+        max-width: 100%;
+        display: block;
+    }
 }

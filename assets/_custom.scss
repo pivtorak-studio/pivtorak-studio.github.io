@@ -1,36 +1,30 @@
-/* ЛОГОТИП */
-.book-brand img {
-    height: 70px !important;
-    width: auto !important;
-    max-height: 70px !important;
-}
-
-/* ФОТО У СТАТТІ */
+/* Універсальне правило для всіх фото збоку */
 .float-right {
     float: right !important;
     clear: right;
     margin: 10px 0 20px 20px !important;
-    width: 250px !important; /* Фіксуємо ширину */
+    width: 280px !important; /* Встановіть ширину, яка вам подобається */
 }
 
-.float-right img, 
-article img[alt="Аксіома Сили"] { /* Прямий вплив на фото */
-    width: 250px !important;
+.float-right img {
+    width: 100% !important; /* Фото завжди заповнює 280px контейнера */
     height: auto !important;
     display: block;
     border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-/* Виправляємо відображення на головній */
-article {
-    line-height: 1.6;
+/* Логотип */
+.book-brand img {
+    height: 55px !important;
+    width: auto !important;
 }
 
+/* Мобільна адаптація */
 @media screen and (max-width: 600px) {
     .float-right {
         float: none !important;
-        margin: 0 auto 1rem !important;
+        margin: 0 auto 1.5rem !important;
         width: 100% !important;
     }
-    .float-right img { width: 100% !important; }
 }

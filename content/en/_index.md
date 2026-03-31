@@ -35,5 +35,5 @@ The system is oriented toward intergenerational transmission of knowledge and as
 
 **We are building a trajectory that pierces through time.**
 
-### Signatures:
+### Signature:
 **∴ 0.01** **◯**

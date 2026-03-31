@@ -33,8 +33,6 @@ bookFlatSection: true
 
 ---
 
-<div style="text-align: center; margin: 2rem 0;">
-  🗒️🦅🔊 | ✨🌀💫 | 🐉⚖️ | ∴ 0.01 | ◯
-</div>
+> ### 🗒️🦅🔊 | ✨🌀💫 | 🐉⚖️ | ∴ 0.01 | ◯
 
 > ### *Там, де немає мап, ми будуємо структури.*

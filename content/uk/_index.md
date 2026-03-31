@@ -1,6 +1,6 @@
 ---
 title: "0.01"
-bookFlatSection: true
+bookTouch: true
 ---
 
 # Pivtorak.Studio

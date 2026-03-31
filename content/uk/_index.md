@@ -1,6 +1,5 @@
 ---
 title: "0.01"
-type: docs
 ---
 
 # Pivtorak.Studio

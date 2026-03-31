@@ -1,28 +1,32 @@
 /* Збільшуємо логотип */
 .book-logo {
-    height: 4rem !important; /* Збільште до 5rem, якщо треба ще більше */
-    width: auto;
+    height: 4.5rem !important; /* Ще трохи збільшив */
+    width: auto !important;
+    max-width: none !important; /* Прибираємо обмеження теми */
     margin-bottom: 1rem;
 }
 
-/* Обтікання текстом для фото */
+/* Обтікання та розмір фото */
 .float-right {
     float: right;
     margin: 0 0 1.5rem 1.5rem;
-    max-width: 350px;
+    width: 300px !important; /* Жорстко обмежуємо ширину на сайті */
     
     img {
-        border-radius: 8px; /* Опціонально: додасть м'які кути вашим фото */
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Додасть легку тінь */
+        width: 100% !important; /* Фото займає всю ширину контейнера (300px) */
+        height: auto !important;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
 }
 
-/* Налаштування для мобільних пристроїв */
+/* На мобільних фото стає по центру і на всю ширину */
 @media screen and (max-width: 600px) {
     .float-right {
-        float: none;
-        margin: 0 auto 1rem;
-        max-width: 100%;
+        float: none !important;
+        margin: 0 auto 1.5rem !important;
+        width: 100% !important;
+        max-width: 400px;
         display: block;
     }
 }

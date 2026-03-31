@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Архітектура Резонансу](/images/IndependentResearcherManifesto_001_TheArchitectureOfResonance_PivtorakStudio_2026.webp)
+![Архітектура Резонансу](/images/Manifesto-001.webp)
 
 </div>
 

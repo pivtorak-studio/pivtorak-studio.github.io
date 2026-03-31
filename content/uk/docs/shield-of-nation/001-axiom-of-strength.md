@@ -3,6 +3,12 @@ title: "001 Аксіома Cили"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Аксіома Сили](/images/ShieldOfNation_001_Axiom-Of-Strength_PivtorakStudio_2025.webp)
+
+</div>
+
 **Щит Нації**
 ## Аксіома Cили 🪖🛡️⚓️ Військовий Захист
 

@@ -4,7 +4,9 @@ weight: 1
 ---
 
 <div class="float-right">
-  <img src="/images/ShieldOfNation_001_Axiom-Of-Strength_PivtorakStudio_2025.webp" alt="Аксіома Сили">
+
+![Аксіома Сили](/images/ShieldOfNation_001_Axiom-Of-Strength_PivtorakStudio_2025.webp)
+
 </div>
 
 **Щит Нації**

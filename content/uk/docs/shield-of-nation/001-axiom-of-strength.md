@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Аксіома Сили](/images/ShieldOfNation_001_Axiom Of Strength_PivtorakStudio_2025.webp)
+![Аксіома Сили](/images/shield-001.webp)
 
 </div>
 

@@ -1,32 +1,33 @@
-/* Збільшуємо логотип */
-.book-logo {
-    height: 4.5rem !important; /* Ще трохи збільшив */
+/* ЛОГОТИП: діємо на посилання, картинку та контейнер */
+.book-brand img, 
+.book-logo, 
+aside nav img {
+    height: 60px !important; /* Чіткий розмір у пікселях */
     width: auto !important;
-    max-width: none !important; /* Прибираємо обмеження теми */
-    margin-bottom: 1rem;
+    max-height: 60px !important;
+    max-width: none !important;
 }
 
-/* Обтікання та розмір фото */
+/* ФОТО У СТАТТІ: обтікання та розмір */
 .float-right {
-    float: right;
-    margin: 0 0 1.5rem 1.5rem;
-    width: 300px !important; /* Жорстко обмежуємо ширину на сайті */
-    
-    img {
-        width: 100% !important; /* Фото займає всю ширину контейнера (300px) */
-        height: auto !important;
-        border-radius: 8px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    }
+    float: right !important;
+    margin: 0 0 1.5rem 1.5rem !important;
+    width: 300px !important; /* Це змусить фото бути акуратним */
+    display: block !important;
 }
 
-/* На мобільних фото стає по центру і на всю ширину */
+.float-right img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Для мобільних: фото стає на всю ширину */
 @media screen and (max-width: 600px) {
     .float-right {
         float: none !important;
-        margin: 0 auto 1.5rem !important;
+        margin: 0 auto 1rem !important;
         width: 100% !important;
-        max-width: 400px;
-        display: block;
     }
 }

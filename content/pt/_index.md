@@ -33,7 +33,18 @@ O valor não existe fora do contexto. No âmbito do Studio, o valor é o resulta
 ### V. Declaração de Continuidade
 O sistema é orientado para a transmissão intergeracional de conhecimentos e ativos. Cada elemento funciona como um transportador de valor acumulado dentro de um sistema de coordenadas unificado.
 
-**Estamos a construir uma trajetória que atravessa o tempo.**
+### VI. Estado dos Objetos (Object Status / Market Position)
+Os objetos no âmbito do Sistema não funcionam como produtos concluídos.  
+Encontram-se num estado de integração controlada.
+Estado atual:
+- introdução inicial no Sistema
+- acumulação de contexto
+- formação de uma interpretação de longo prazo
+
+A atividade de mercado não constitui o objetivo primário, mas é admitida como derivada do nível alcançado de intensidade semântica.
+Cada objeto pode ser ativado como lote apenas após atingir a densidade de contexto necessária.
+
+**Foi estabelecida uma trajetória que se desenvolve no tempo.**
 
 ### Assinatura:
 **∴ 0.01** **◯**

@@ -1,38 +1,19 @@
-/* ЛОГОТИП */
-.book-brand img {
-    height: 60px !important;
-    width: auto !important;
-    max-height: 60px !important;
-}
-
-/* УНІВЕРСАЛЬНЕ ПРАВИЛО ДЛЯ ФОТО ЗБОКУ */
+/* Контейнер для фото */
 .float-right {
     float: right !important;
-    clear: right !important;
     margin: 10px 0 20px 20px !important;
-    width: 300px !important; /* Бажана ширина */
-    max-width: 40% !important;
+    width: 280px !important; /* Саме тут ми задаємо ширину! */
 }
 
-/* Це правило діє безпосередньо на картинку */
+/* Сама картинка */
 .float-right img {
     width: 100% !important;
     height: auto !important;
-    display: block !important;
     border-radius: 8px !important;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
 }
 
-/* МОБІЛЬНА ВЕРСІЯ: фото стає по центру на всю ширину */
-@media screen and (max-width: 600px) {
-    .float-right {
-        float: none !important;
-        margin: 0 auto 1.5rem !important;
-        width: 100% !important;
-        max-width: 100% !important;
-    }
-    .float-right img {
-        max-width: 400px !important; /* Щоб не було надто великим на телефонах */
-        margin: 0 auto;
-    }
+/* Збільшений логотип */
+.book-brand img {
+    height: 60px !important; 
+    width: auto !important;
 }

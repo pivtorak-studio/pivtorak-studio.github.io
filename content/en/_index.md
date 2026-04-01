@@ -33,7 +33,18 @@ Value does not exist outside of context. Within the Studio, value is the result 
 ### V. Continuity Statement
 The system is oriented toward intergenerational transmission of knowledge and assets. Each element functions as a carrier of accumulated value within a unified coordinate framework.
 
-**We are building a trajectory that pierces through time.**
+### VI. Object Status (Object Status / Market Position)
+Objects within the System do not function as completed products.  
+They exist in a state of controlled integration.
+Current status:
+- initial entry into the System
+- accumulation of context
+- formation of long-term interpretation
+
+Market activity is not the primary objective, but is permitted as a derivative of the achieved level of semantic intensity.
+Each object may be activated as a lot only upon reaching the required density of context.
+
+**A trajectory unfolding over time has been established.**
 
 ### Signature:
 **∴ 0.01** **◯**

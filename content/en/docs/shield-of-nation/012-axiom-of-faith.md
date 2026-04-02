@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Axiom Of Faith](/images/manifesto-012.webp)
+![Axiom Of Faith](/images/shield-012.webp)
 
 </div>
 

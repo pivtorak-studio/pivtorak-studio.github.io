@@ -3,6 +3,12 @@ title: "005 Axiom Of Resilience"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Resilience](/images/manifesto-005.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Resilience 🩺🌱🚑 Medic — Steel Root
 

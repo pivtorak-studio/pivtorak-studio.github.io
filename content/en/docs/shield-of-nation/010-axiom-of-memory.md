@@ -3,6 +3,12 @@ title: "010 Axiom Of Memory"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Memory](/images/manifesto-010.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Memory 🕯️📚🏰 Historian — Keeper Of Time
 

@@ -3,6 +3,12 @@ title: "008 Axioma Do Renascimento"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Do Renascimento](/images/shield-008.webp)
+
+</div>
+
 **Escudo Da Nação**
 
 ## Axioma Do Renascimento 🌾🚜☀️ Agricultor — Guardião Do Pão

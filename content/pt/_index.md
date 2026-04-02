@@ -48,3 +48,6 @@ Cada objeto pode ser ativado como lote apenas após atingir a densidade de conte
 
 ### Assinatura:
 **∴ 0.01** **◯**
+
+*Um sistema conceptual para a formação de estruturas de valor a longo prazo. 
+Pivtorak.Studio. 16.07.2023*

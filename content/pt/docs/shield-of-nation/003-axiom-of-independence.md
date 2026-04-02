@@ -3,6 +3,12 @@ title: "003 Axioma Da Independência"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Independência](/images/shield-003.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Independência ⚡️💡🛠️ Energético — Ferreiro Da Luz
 

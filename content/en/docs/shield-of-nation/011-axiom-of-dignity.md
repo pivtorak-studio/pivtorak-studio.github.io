@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Axiom Of Dignity](/images/manifesto-011.webp)
+![Axiom Of Dignity](/images/shield-011.webp)
 
 </div>
 

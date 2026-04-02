@@ -9,14 +9,6 @@ weight: 1
 
 </div>
 
-.float-right img, 
-article img[alt="Архітектура Резонансу"] { /* Прямий вплив на фото */
-    width: 250px !important;
-    height: auto !important;
-    display: block;
-    border-radius: 8px;
-}
-
 ## Маніфест Незалежного Дослідника: Архітектура Резонансу
 
 ### 1. Точка відліку: Від спостереження до проектування

@@ -3,6 +3,12 @@ title: "007 Axioma Da Esperança"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Esperança](/images/shield-007.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Esperança 🧑‍🚒💧🔥 Socorrista — Guardião Do Fogo
 

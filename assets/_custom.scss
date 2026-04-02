@@ -8,12 +8,12 @@
 .float-right {
     float: right;
     width: 30%;
-    max-width: 300px;
-    margin: 0 0 1rem 1.5rem;
+    margin-left: 1.5rem;
 }
 
-.book-page .float-right img {
-    width: 100% !important;
+.float-right figcaption {
+    font-size: 0.85rem;
+    color: #666;
 }
 
 /* Мобільна адаптація */

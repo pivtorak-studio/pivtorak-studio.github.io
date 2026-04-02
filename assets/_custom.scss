@@ -19,6 +19,12 @@
     height: auto !important;
 }
 
+.float-right {
+    float: right;
+    width: 30%; /* або 25% */
+    margin: 0 0 1rem 1.5rem;
+}
+
 /* Мобільна адаптація */
 @media screen and (max-width: 600px) {
     .float-right {

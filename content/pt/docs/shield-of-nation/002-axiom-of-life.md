@@ -3,6 +3,12 @@ title: "002 Axioma Da Vida"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Vida](/images/shield-002.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Vida 👶🏽💡🛡️ Parteira-Portadora Da Luz
 

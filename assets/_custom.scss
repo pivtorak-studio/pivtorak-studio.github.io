@@ -96,8 +96,6 @@
         margin: 1rem 0 !important;
     }
     
-}
-
-.book-page .markdown p:has(img) {
-    display: block;
+.book-page .markdown p {
+    overflow: visible !important;
 }

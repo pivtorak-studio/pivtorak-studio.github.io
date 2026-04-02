@@ -3,11 +3,10 @@ title: "001 Аксіома Cили"
 weight: 1
 ---
 
-<div class="float-right">
-
-![Аксіома Сили](/images/shield-001.webp)
-
-</div>
+<figure class="float-right">
+  <img src="/images/shield-001.webp" alt="Аксіома Cили">
+  <figcaption>Аксіома Cили</figcaption>
+</figure>
 
 **Щит Нації**
 ## Аксіома Cили 🪖🛡️⚓️ Військовий Захист

@@ -9,18 +9,6 @@ weight: 1
 
 </div>
 
-<div class="float-right">
-
-![Аксіома Cили](/images/shield-001.webp)
-
-</div>
-
-<div class="float-right">
-
-![Аксіома Cили](/images/shield-001.webp)
-
-</div>
-
 **Щит Нації**
 ## Аксіома Cили 🪖🛡️⚓️ Військовий Захист
 

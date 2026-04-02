@@ -48,3 +48,6 @@ Each object may be activated as a lot only upon reaching the required density of
 
 ### Signature:
 **∴ 0.01** **◯**
+
+*A conceptual system for the formation of long-term value structures. 
+Pivtorak.Studio. 16.07.2023*

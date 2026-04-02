@@ -3,6 +3,12 @@ title: "001 Axioma Da Força"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Força](/images/shield-001.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Força 🪖🛡️⚓️ Defesa Militar
 

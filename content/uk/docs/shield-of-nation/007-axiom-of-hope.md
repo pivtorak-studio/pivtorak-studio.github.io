@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Аксіома Надії](/images/shield-0057.webp)
+![Аксіома Надії](/images/shield-007.webp)
 
 </div>
 

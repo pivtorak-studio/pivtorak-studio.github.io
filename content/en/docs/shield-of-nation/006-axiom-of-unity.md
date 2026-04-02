@@ -3,6 +3,12 @@ title: "006 Axiom Of Unity"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Unity](/images/manifesto-006.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Unity 🫂📦🕊️ Volunteer — Invisible Shield
 

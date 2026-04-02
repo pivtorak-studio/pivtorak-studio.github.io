@@ -3,6 +3,12 @@ title: "007 Axiom Of Hope"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Hope](/images/manifesto-007.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Hope 🧑‍🚒💧🔥 Rescuer — Guardian Of Fire
 

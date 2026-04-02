@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Axiom Of Unity](/images/manifesto-006.webp)
+![Axiom Of Unity](/images/shield-006.webp)
 
 </div>
 

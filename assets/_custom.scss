@@ -1,92 +1,38 @@
-/* =========================
-   GLOBAL IMAGE RESET
-   ========================= */
-
-/* перебиваємо стандарт Hugo Book */
-.book-page .markdown img {
-    max-width: 100%;
-    height: auto;
+/* ЛОГОТИП (вже ідеальний) */
+.book-brand img {
+    height: 70px !important;
+    width: auto !important;
 }
 
-/* =========================
-   FLOAT RIGHT (як Wikipedia)
-   ========================= */
-
-.book-page .markdown .float-right {
+/* ФОТО У ПУБЛІКАЦІЯХ */
+.float-right {
     float: right !important;
-    width: 30% !important;
-    max-width: 300px !important;
-    margin: 0 0 1rem 1.5rem !important;
-}
-
-/* критично: перебиваємо саме IMG */
-.book-page .markdown .float-right img {
-    width: 100% !important;
-    max-width: 100% !important;
+    clear: right;
+    margin: 10px 0 20px 20px !important;
+    /* На комп'ютері ширина буде 280px */
+    width: 280px !important; 
     display: block !important;
 }
 
-/* підпис */
-.book-page .markdown .float-right figcaption {
-    font-size: 0.85rem;
-    color: #666;
-    line-height: 1.4;
-    margin-top: 0.3rem;
+/* Звертаємося прямо до картинки всередині блоку */
+.float-right img, 
+article img {
+    max-width: 100% !important;
+    height: auto !important;
 }
 
-/* =========================
-   FLOAT LEFT
-   ========================= */
-
-.book-page .markdown .float-left {
-    float: left !important;
-    width: 30% !important;
-    max-width: 300px !important;
-    margin: 0 1.5rem 1rem 0 !important;
+/* Спеціальне правило: якщо екран великий, обмежуємо блок */
+@media screen and (min-width: 600px) {
+    .float-right {
+        width: 280px !important;
+    }
 }
 
-.book-page .markdown .float-left img {
-    width: 100% !important;
-}
-
-/* =========================
-   FULL WIDTH IMAGE
-   ========================= */
-
-.book-page .markdown .full-width {
-    width: 100% !important;
-    margin: 1.5rem 0;
-}
-
-.book-page .markdown .full-width img {
-    width: 100% !important;
-}
-
-/* =========================
-   CENTER IMAGE
-   ========================= */
-
-.book-page .markdown .center-image {
-    display: block;
-    margin: 1.5rem auto;
-    max-width: 600px;
-}
-
-.book-page .markdown .center-image img {
-    width: 100%;
-}
-
-/* =========================
-   MOBILE
-   ========================= */
-
-@media screen and (max-width: 768px) {
-
-    .book-page .markdown .float-right,
-    .book-page .markdown .float-left {
+/* Для мобільних - на всю ширину (як нам подобається) */
+@media screen and (max-width: 600px) {
+    .float-right {
         float: none !important;
+        margin: 0 auto 1.5rem !important;
         width: 100% !important;
-        max-width: 100% !important;
-        margin: 1rem 0 !important;
     }
 }

@@ -4,28 +4,34 @@
     width: auto !important;
 }
 
-/* ФОТО У ПУБЛІКАЦІЯХ */
+/* ФОТО У СТАТТІ */
 .float-right {
     float: right !important;
     clear: right;
     margin: 10px 0 20px 20px !important;
-    /* На комп'ютері ширина буде 280px */
-    width: 280px !important; 
-    display: block !important;
+    width: 250px !important; /* Фіксуємо ширину */
 }
 
-/* Звертаємося прямо до картинки всередині блоку */
 .float-right img, 
-article img {
-    max-width: 100% !important;
+article img[alt="Аксіома Сили"] { /* Прямий вплив на фото */
+    width: 250px !important;
     height: auto !important;
+    display: block;
+    border-radius: 8px;
 }
 
-/* Спеціальне правило: якщо екран великий, обмежуємо блок */
-@media screen and (min-width: 600px) {
+/* Виправляємо відображення на головній */
+article {
+    line-height: 1.6;
+}
+
+@media screen and (max-width: 600px) {
     .float-right {
-        width: 280px !important;
+        float: none !important;
+        margin: 0 auto 1rem !important;
+        width: 100% !important;
     }
+    .float-right img { width: 100% !important; }
 }
 
 /* Для мобільних - на всю ширину (як вам подобається) */

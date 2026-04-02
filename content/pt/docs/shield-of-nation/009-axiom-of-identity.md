@@ -3,6 +3,12 @@ title: "009 Axioma Da Identidade"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Identidade](/images/shield-009.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Identidade 🎨🎙️📜 Artista — Voz Da Verdade
 

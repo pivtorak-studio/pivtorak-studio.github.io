@@ -6,33 +6,7 @@
 
 /* ФОТО У ПУБЛІКАЦІЯХ */
 .float-right {
-    float: right !important;
-    clear: right;
-    margin: 10px 0 20px 20px !important;
-    /* На комп'ютері ширина буде 280px */
-    width: 280px !important; 
-    display: block !important;
-}
-
-/* Звертаємося прямо до картинки всередині блоку */
-.float-right img, 
-article img {
-    max-width: 100% !important;
-    height: auto !important;
-}
-
-/* Спеціальне правило: якщо екран великий, обмежуємо блок */
-@media screen and (min-width: 600px) {
-    .float-right {
-        width: 280px !important;
-    }
-}
-
-/* Для мобільних - на всю ширину (як нам подобається) */
-@media screen and (max-width: 600px) {
-    .float-right {
-        float: none !important;
-        margin: 0 auto 1.5rem !important;
-        width: 100% !important;
-    }
+    float: right;
+    width: 200px;
+    margin-left: 20px;
 }

@@ -4,23 +4,95 @@
     width: auto !important;
 }
 
-/* ФОТО У ПУБЛІКАЦІЯХ */
-.float-right {
-    float: right;
-    width: 30%;
-    margin-left: 1.5rem;
+/* =========================
+   GLOBAL IMAGE RESET
+   ========================= */
+
+/* перебиваємо стандарт Hugo Book */
+.book-page .markdown img {
+    max-width: 100%;
+    height: auto;
 }
 
-.float-right figcaption {
+/* =========================
+   FLOAT RIGHT (як Wikipedia)
+   ========================= */
+
+.book-page .markdown .float-right {
+    float: right !important;
+    width: 30% !important;
+    max-width: 300px !important;
+    margin: 0 0 1rem 1.5rem !important;
+}
+
+/* критично: перебиваємо саме IMG */
+.book-page .markdown .float-right img {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: block !important;
+}
+
+/* підпис */
+.book-page .markdown .float-right figcaption {
     font-size: 0.85rem;
     color: #666;
+    line-height: 1.4;
+    margin-top: 0.3rem;
 }
 
-/* Мобільна адаптація */
-@media screen and (max-width: 600px) {
-    .float-right {
+/* =========================
+   FLOAT LEFT
+   ========================= */
+
+.book-page .markdown .float-left {
+    float: left !important;
+    width: 30% !important;
+    max-width: 300px !important;
+    margin: 0 1.5rem 1rem 0 !important;
+}
+
+.book-page .markdown .float-left img {
+    width: 100% !important;
+}
+
+/* =========================
+   FULL WIDTH IMAGE
+   ========================= */
+
+.book-page .markdown .full-width {
+    width: 100% !important;
+    margin: 1.5rem 0;
+}
+
+.book-page .markdown .full-width img {
+    width: 100% !important;
+}
+
+/* =========================
+   CENTER IMAGE
+   ========================= */
+
+.book-page .markdown .center-image {
+    display: block;
+    margin: 1.5rem auto;
+    max-width: 600px;
+}
+
+.book-page .markdown .center-image img {
+    width: 100%;
+}
+
+/* =========================
+   MOBILE
+   ========================= */
+
+@media screen and (max-width: 768px) {
+
+    .book-page .markdown .float-right,
+    .book-page .markdown .float-left {
         float: none !important;
-        margin: 0 auto 1.5rem !important;
         width: 100% !important;
+        max-width: 100% !important;
+        margin: 1rem 0 !important;
     }
 }

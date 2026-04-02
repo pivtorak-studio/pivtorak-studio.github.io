@@ -3,6 +3,12 @@ title: "011 Axioma Da Dignidade"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Dignidade](/images/shield-011.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Dignidade 🧭🕊️💎 Cidadão — Guerreiro Estoico
 _Axioma Da Dignidade: onde a pessoa é pressionada a quebrar, surge um escudo interior que se recusa a ajoelhar.

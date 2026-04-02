@@ -4,9 +4,28 @@
     width: auto !important;
 }
 
-/* ФОТО У ПУБЛІКАЦІЯХ */
-.float-right {
-    float: right;
-    width: 200px;
-    margin-left: 20px;
+
+/* =========================
+   ВСІ ЗОБРАЖЕННЯ В СТАТТЯХ
+   ========================= */
+
+.book-page article img {
+    width: 260px !important;
+    height: auto !important;
+    float: right !important;
+    margin: 0 0 1rem 1.5rem !important;
+    display: block;
+    border-radius: 8px;
+}
+
+/* =========================
+   МОБІЛЬНА ВЕРСІЯ
+   ========================= */
+
+@media screen and (max-width: 600px) {
+    .book-page article img {
+        width: 100% !important;
+        float: none !important;
+        margin: 1rem 0 !important;
+    }
 }

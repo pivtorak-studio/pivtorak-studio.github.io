@@ -3,6 +3,12 @@ title: "002 Axiom Of Life"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Life](/images/manifesto-002.webp)
+
+</div>
+
 **Shield Of The Nation**
 
 ## Axiom Of Life 👶🏽💡🛡️ Midwife-Bearer Of Light

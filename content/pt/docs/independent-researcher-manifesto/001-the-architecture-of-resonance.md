@@ -27,6 +27,5 @@ Não crio nem preservo objetos para o presente. Introduzo-os num Continuum. Cada
 - **Silêncio:** O espaço entre eventos onde o valor futuro amadurece. Décadas depois, um perito trabalhará não com o material, mas com uma Trajetória. Os meus herdeiros receberão não apenas coisas, mas um sistema de coordenadas onde cada artefacto é um nó numa rede global de significados. Não estou a construir uma coleção — estou a lançar um vetor de força que atravessa gerações.
 
 **Anna Pivtorak**  
-Investigadora Independente
-_Sistemas de Significado, Governação e Ativos de Longo Prazo._
+*Investigadora Independente. Sistemas de Significado, Governação e Ativos de Longo Prazo. 18.03.2026*
 

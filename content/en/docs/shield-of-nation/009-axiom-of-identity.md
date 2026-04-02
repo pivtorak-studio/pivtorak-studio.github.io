@@ -3,6 +3,12 @@ title: "009 Axiom Of Identity"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Identity](/images/manifesto-009.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Identity 🎨🎙️📜 Artist — Voice Of Truth
 

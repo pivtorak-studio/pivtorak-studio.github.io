@@ -3,6 +3,12 @@ title: "005 Axioma Da Resiliência"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Resiliência](/images/shield-005.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Resiliência 🩺🌱🚑 Médico — Raiz De Aço
 

@@ -3,6 +3,12 @@ title: "008 Axiom of Revival"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom of Revival](/images/manifesto-008.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom of Revival 🌾🚜☀️ Farmer — Guardian Of Bread
 

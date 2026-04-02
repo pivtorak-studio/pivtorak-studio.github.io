@@ -3,6 +3,12 @@ title: "001 Аксиома Cилы"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Аксиома Cилы](/images/shield-001.webp)
+
+</div>
+
 **Щит Нации**
 ## Аксиома Cилы 🪖🛡️⚓️ Военная Защита
 

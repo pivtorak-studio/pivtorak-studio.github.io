@@ -3,6 +3,12 @@ title: "001 Axiom Of Strength"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Strength](/images/shield-001.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Strength 🪖🛡️⚓️ Military Defense
 

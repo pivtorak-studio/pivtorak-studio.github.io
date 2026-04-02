@@ -1,27 +1,34 @@
-/* Збільшуємо логотип */
+/* ЛОГОТИП (вже ідеальний) */
 .book-brand img {
     height: 70px !important;
     width: auto !important;
-    max-height: 70px !important;
 }
 
-/* Обмежуємо фото у статтях */
+/* ФОТО У ПУБЛІКАЦІЯХ */
 .float-right {
     float: right !important;
     clear: right;
     margin: 10px 0 20px 20px !important;
-    width: 250px !important; /* Фіксована ширина */
+    /* На комп'ютері ширина буде 280px */
+    width: 280px !important; 
+    display: block !important;
 }
 
-.float-right img {
-    width: 100% !important;
+/* Звертаємося прямо до картинки всередині блоку */
+.float-right img, 
+article img {
+    max-width: 100% !important;
     height: auto !important;
-    display: block;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-/* Адаптація для телефонів */
+/* Спеціальне правило: якщо екран великий, обмежуємо блок */
+@media screen and (min-width: 600px) {
+    .float-right {
+        width: 280px !important;
+    }
+}
+
+/* Для мобільних - на всю ширину (як вам подобається) */
 @media screen and (max-width: 600px) {
     .float-right {
         float: none !important;

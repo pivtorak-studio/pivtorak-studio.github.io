@@ -12,6 +12,10 @@
     margin: 0 0 1rem 1.5rem;
 }
 
+.book-page .float-right img {
+    width: 100% !important;
+}
+
 /* Мобільна адаптація */
 @media screen and (max-width: 600px) {
     .float-right {

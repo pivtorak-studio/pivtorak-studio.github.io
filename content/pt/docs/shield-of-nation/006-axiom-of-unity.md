@@ -3,6 +3,12 @@ title: "006 Axioma Da Unidade"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axioma Da Unidade](/images/shield-006.webp)
+
+</div>
+
 **Escudo Da Nação**
 ## Axioma Da Unidade 🫂📦🕊️ Voluntário — Escudo Invisível
 

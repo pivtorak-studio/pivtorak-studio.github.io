@@ -3,6 +3,12 @@ title: "004 Axiom Of Freedom"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Freedom](/images/manifesto-004.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Freedom 🧠🔭📖 Teacher — Photon Of Knowledge
 

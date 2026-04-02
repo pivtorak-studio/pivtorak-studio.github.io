@@ -27,4 +27,4 @@ I do not create or preserve objects for the present. I introduce them into a Con
 - **Silence:** The space between events where future value matures. Decades later, an expert will work not with material, but with a Trajectory. My heirs will receive not just things, but a coordinate system where every artifact is a node in a global network of meanings. I am not building a collection — I am launching a vector of force that pierces through generations.
 
 **Anna Pivtorak**  
-*Investigadora Independente. Sistemas de Significado, Governação e Ativos de Longo Prazo. 18.03.2026*
+*Independent Researcher. Architect of Meaning Systems and Long-Term Cultural Assets. 18.03.2026*

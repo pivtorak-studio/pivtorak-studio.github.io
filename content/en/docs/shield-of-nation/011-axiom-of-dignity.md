@@ -3,6 +3,12 @@ title: "011 Axiom Of Dignity"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Dignity](/images/manifesto-011.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Dignity 🧭🕊️💎 Citizen — Stoic Warrior
 

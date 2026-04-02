@@ -6,20 +6,6 @@
 
 /* ФОТО У ПУБЛІКАЦІЯХ */
 .float-right {
-    float: right !important;
-    clear: right;
-    margin: 10px 0 20px 20px !important;
-    width: 280px !important;
-    display: block !important;
-}
-
-/* ТІЛЬКИ для картинки всередині float */
-.float-right img {
-    width: 100% !important;
-    height: auto !important;
-}
-
-.float-right {
     float: right;
     width: 30%; /* або 25% */
     margin: 0 0 1rem 1.5rem;

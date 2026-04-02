@@ -3,6 +3,12 @@ title: "001 A Arquitetura da Ressonância"
 weight: 1
 ---
 
+<div class="float-right">
+
+![A Arquitetura da Ressonância](/images/manifesto-001.webp)
+
+</div>
+
 ## Manifesto do Investigador Independente: A Arquitetura da Ressonância
 
 ### 1. Ponto de Referência: Da Observação ao Projeto. 

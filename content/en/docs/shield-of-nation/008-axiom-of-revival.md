@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Axiom of Revival](/images/manifesto-008.webp)
+![Axiom of Revival](/images/shield-008.webp)
 
 </div>
 

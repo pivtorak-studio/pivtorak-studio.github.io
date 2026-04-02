@@ -3,6 +3,12 @@ title: "003 Axiom Of Independence"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Independence](/images/manifesto-003.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Independence ⚡️💡🛠️ Energy Worker — Blacksmith Of Light
 

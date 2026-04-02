@@ -3,6 +3,12 @@ title: "012 Axiom Of Faith"
 weight: 1
 ---
 
+<div class="float-right">
+
+![Axiom Of Faith](/images/manifesto-012.webp)
+
+</div>
+
 **Shield Of The Nation**
 ## Axiom Of Faith ✨🙏🕊️ Guardian Of Spirit
 

@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Axiom Of Memory](/images/manifesto-010.webp)
+![Axiom Of Memory](/images/shield-010.webp)
 
 </div>
 

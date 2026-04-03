@@ -5,7 +5,13 @@ weight: 1
 
 <div class="float-right">
 
-![Armadilha da Dívida - O Próximo Arquiteto](/images/political-design-01-09.webp)
+![Armadilha da Dívida - O Próximo Arquiteto](/images/political-design-01-09b.webp)
+
+</div>
+
+<div class="float-right">
+
+![Armadilha da Dívida - O Próximo Arquiteto](/images/political-design-01-09a.webp)
 
 </div>
 

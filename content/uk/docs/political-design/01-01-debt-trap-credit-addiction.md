@@ -1,11 +1,11 @@
 ---
-title: "01-01 Debt Trap - Кредитна Залежність"
+title: "01-01 Боргова пастка - Кредитна Залежність"
 weight: 1
 ---
 
 <div class="float-right">
 
-![Debt Trap - Кредитна Залежність](/images/political-design-01-01.webp)
+![Боргова пастка - Кредитна Залежність](/images/political-design-01-01.webp)
 
 </div>
 

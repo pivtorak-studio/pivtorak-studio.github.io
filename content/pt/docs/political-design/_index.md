@@ -1,4 +1,4 @@
 ---
-title: "_Design Político"
+title: "Design Político"
 bookCollapseSection: true
 ---

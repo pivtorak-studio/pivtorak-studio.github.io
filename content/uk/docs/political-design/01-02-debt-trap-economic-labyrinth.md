@@ -1,11 +1,11 @@
 ---
-title: "01-02 Debt Trap - Економічний Лабіринт"
+title: "01-02 Боргова пастка - Економічний Лабіринт"
 weight: 1
 ---
 
 <div class="float-right">
 
-![Debt Trap - Економічний Лабіринт](/images/political-design-01-02.webp)
+![Боргова пастка - Економічний Лабіринт](/images/political-design-01-02.webp)
 
 </div>
 

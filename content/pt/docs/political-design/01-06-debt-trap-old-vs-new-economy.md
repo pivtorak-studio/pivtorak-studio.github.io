@@ -1,5 +1,5 @@
 ---
-title: "01-061 Armadilha da Dívida - Velha vs Nova Economia"
+title: "01-06 Armadilha da Dívida - Velha vs Nova Economia"
 weight: 1
 ---
 

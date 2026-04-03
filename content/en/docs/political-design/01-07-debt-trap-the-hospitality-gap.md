@@ -26,9 +26,9 @@ The grotesque dynamic is that both sides think they are the ones being wronged. 
 **Cooperation = Trust × Transparency**
 
 **Symbols:**  
-– 🚧 police tape — barrier of mistrust  
-– State as a police officer — symbol of punitive authority  
-– business house — protected private sphere
+– **🚧 police tape** — barrier of mistrust  
+– **State as a police officer** — symbol of punitive authority  
+– **business house** — protected private sphere
 
 **Alt-text:**  
 A police tape is stretched across the Business House entrance. The Father-State, dressed as a police officer, is already standing within the designated zone. The Business-Child gestures for help, showing deep distrust of the controlling authority. The police officer appears surprised. The atmosphere is tense, yet drawn in a childlike comic-grotesque style.

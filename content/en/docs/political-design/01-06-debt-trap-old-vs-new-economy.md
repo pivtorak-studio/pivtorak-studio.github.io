@@ -26,9 +26,9 @@ The grotesque imbalance appears clearly: the one creating the delay demands paym
 **Progress = Innovation ÷ Historical Weight**
 
 **Symbols:**  
-– 🐌 snail — slow legacy economy  
-– heavy wooden cart — industrial-era burden  
-– e-scooter — new value creation
+– **🐌 snail** — slow legacy economy  
+– **heavy wooden cart** — industrial-era burden  
+– **e-scooter** — new value creation
 
 **Alt-text:**  
 A father-like State figure drags an old wooden industrial cart labeled “Coal” and “Heavy Industry.” Next to him, business-children speed ahead on an e-scooter marked “IT” and “Innovation.” Their movements are fluid; his is strained and heavy.

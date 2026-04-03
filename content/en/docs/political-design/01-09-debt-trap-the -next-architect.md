@@ -5,13 +5,13 @@ weight: 1
 
 <div class="float-right">
 
-![Debt Trap - The Next Architect](/images/political-design-01-09a.webp)
+![Debt Trap - The Next Architect](/images/political-design-01-09b.webp)
 
 </div>
 
 <div class="float-right">
 
-![Debt Trap - The Next Architect](/images/political-design-01-09b.webp)
+![Debt Trap - The Next Architect](/images/political-design-01-09a.webp)
 
 </div>
 

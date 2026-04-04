@@ -362,6 +362,10 @@ _“Народе мій, до тебе я ще верну...”_
 
 </div>
 
+<a href="/library/expertise/theology-canonization-stus-uk.pdf" class="pdf-button" target="_blank">
+    📄 Download PDF
+</a>
+
  <div class="float-right">
 
 ![Василь Стус](/images/stus-001.webp)

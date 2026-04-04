@@ -372,21 +372,3 @@ _“Народе мій, до тебе я ще верну...”_
     📄 Download PDF
 </a>
 
-.pdf-button {
-    display: inline-block;
-    margin: 1.5rem 0;
-    padding: 0.6rem 1rem;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    text-decoration: none;
-    font-size: 0.9rem;
-    transition: all 0.2s ease;
-}
-
-.pdf-button:hover {
-    background: #f5f5f5;
-}
-
-<span style="font-size: 0.85rem; color: #666;">
-    (version 1.0, 2026)
-</span>

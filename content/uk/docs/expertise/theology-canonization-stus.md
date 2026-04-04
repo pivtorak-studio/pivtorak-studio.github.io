@@ -344,25 +344,25 @@ _“Народе мій, до тебе я ще верну...”_
 
  ## **001.13. ДОДАТОК. ІКОНОГРАФІЧНИЙ КОРПУС**
 
- <div class="float-right">
+ <div class="float-left">
 
 ![Василь Стус](/images/stus-004.webp)
 
 </div>
 
- <div class="float-right">
+ <div class="float-left">
 
 ![Василь Стус](/images/stus-003.webp)
 
 </div>
 
- <div class="float-right">
+ <div class="float-left">
 
 ![Василь Стус](/images/stus-002.webp)
 
 </div>
 
- <div class="float-right">
+ <div class="float-left">
 
 ![Василь Стус](/images/stus-001.webp)
 

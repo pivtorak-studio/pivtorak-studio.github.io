@@ -55,8 +55,8 @@ Pivtorak.Studio. 16.07.2023*
 ## 🔍 Навігатор по архівах
 
 {{< details "📂 Серії досліджень (натисніть, щоб розгорнути)" >}}
-* **[Маніфест Дослідника]({{< relref "docs/independent-researcher-manifesto/_index.md" >}})**
-* **[Щит Нації]({{< relref "docs/shield-of-nation/_index.md" >}})**
-* **[Політичний Дизайн]({{< relref "docs/political-design/_index.md" >}})**
+* [Маніфест Дослідника]({{< relref "docs/independent-researcher-manifesto" >}})
+* [Щит Нації]({{< relref "docs/shield-of-nation" >}})
+* [Политичний Дизайн]({{< relref "docs/political-design" >}})
 {{< /details >}}
 

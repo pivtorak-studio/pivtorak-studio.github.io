@@ -60,3 +60,6 @@ Pivtorak.Studio. 16.07.2023*
 * [Политичний Дизайн]({{< relref "docs/political-design" >}})
 {{< /details >}}
 
+{{< details "🔬 Експертиза та Атрибуція" >}}
+* **[Expertise]({{< relref "docs/expertise/_index.md" >}})** — Нумізматика, іконопис, теологія.
+{{< /details >}}

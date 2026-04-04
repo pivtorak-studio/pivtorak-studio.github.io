@@ -55,15 +55,15 @@ Pivtorak.Studio. 16.07.2023*
 ## 🔍 Навігатор по архівах
 
 {{< details "📂 Серії досліджень (натисніть, щоб розгорнути)" >}}
-* **[Маніфест Дослідника]({{< relref "content/uk/docs/independent-researcher-manifesto" >}})** — Етика та метод.
-* **[Щит Нації]({{< relref "content/uk/docs/shield-of-nation" >}})** — 12 аксіом сили.
-* **[Політичний Дизайн]({{< relref "content/uk/docs/political-design" >}})** — Геополітичні конфігурації.
+* **[Маніфест Дослідника]({{< relref "docs/independent-researcher-manifesto/_index.md" >}})**
+* **[Щит Нації]({{< relref "docs/shield-of-nation/_index.md" >}})**
+* **[Політичний Дизайн]({{< relref "docs/political-design/_index.md" >}})**
 {{< /details >}}
 
 {{< details "📚 Академічні публікації" >}}
-* **[Academic Research]({{< relref "static/library" >}})** — Публікації та PDF-архів.
+* **[Academic Research]({{< relref "static/library/_index.md" >}})** — Публікації та PDF-архів.
 {{< /details >}}
 
 {{< details "🔍 Експертиза та Атрибуція" >}}
-* **[Expertise]({{< relref "docs/expertise" >}})** — Нумізматика, іконопис, теологія.
+* **[Expertise]({{< relref "docs/expertise/_index.md" >}})** — Нумізматика, іконопис, теологія.
 {{< /details >}}

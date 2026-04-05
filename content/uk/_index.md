@@ -60,6 +60,7 @@ Pivtorak.Studio. 16.07.2023*
   <li><a href="/docs/independent-researcher-manifesto/">Маніфест Дослідника</a></li>
   <li><a href="/docs/shield-of-nation/">Щит Нації</a></li>
   <li><a href="/docs/political-design/">Політичний Дизайн</a></li>
+  <li><a href="/docs/process-diary/">Щоденник Процесу</a></li>
 </ul>
 
 {{< /details >}}

@@ -11,25 +11,25 @@ weight: 1
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903.webp)
-
-</div>
-
-<div class="float-right">
-
 ![New Reality. SCO](/images/process-diary-20250903-02.webp)
 
 </div>
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
+![New Reality. SCO](/images/process-diary-20250903.webp)
 
 </div>
 
 <div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-05.webp)
+
+</div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
 
 </div>
 

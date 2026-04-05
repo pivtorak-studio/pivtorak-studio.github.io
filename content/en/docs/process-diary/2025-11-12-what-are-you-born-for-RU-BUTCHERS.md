@@ -1,5 +1,5 @@
 ---
-title: "20250903 WhatAreYouBornFor. RU-BUTCHERS"
+title: "20251112 WhatAreYouBornFor. RU-BUTCHERS"
 weight: 1
 ---
 

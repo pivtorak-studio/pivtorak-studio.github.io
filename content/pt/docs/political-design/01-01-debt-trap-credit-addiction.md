@@ -10,8 +10,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. Armadilha da Dívida
-### 💉 Dependência do Crédito
+# 💣 I. Armadilha da Dívida. 💉 Dependência do Crédito
 
 _Quando o Estado pede emprestado em vez de construir, torna-se dependente da agulha externa._
 

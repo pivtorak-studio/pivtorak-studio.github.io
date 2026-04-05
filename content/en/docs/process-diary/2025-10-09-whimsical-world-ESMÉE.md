@@ -28,12 +28,12 @@ Not perfect. Not finished. But true.
 **Alt-text:**  
 Collage of six artworks from the *#WhimsicalWorld* series:  
 1. “Birth of Libra — The Primordial Balance”  
-2. “Light Irony — The Dragon Who Laughs”  
-3. “Discipline of Balance — The Silence That Holds Wings”  
+2. “Discipline of Balance — The Silence That Holds Wings”
+3. “Light Irony — The Dragon Who Laughs”    
 4. “Peaceful Presence — When the Dragon Sleeps, the World Grows”  
 5. “The Released Phantoms — Alchemy of Memory”  
 6. “The Invisible Bridge — Scales of New Destiny”  
-Center text: “Process Diary. 09.10.2025.”  
+Center text: “Process Diary. 09.10.2025.”    
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #Transformation #CreativeMyth #PeacefulPresence #AlchemyOfMemory #ConfidenceAndCalm #WhimsicalFuture #MajesticDiscipline #LivingMyth #InnerBalance #ProcessDiary #HarmonyInAction #TrustThePath #Pivtorak  
 

@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20251009.webp)
+![WhimsicalWorld. ESMÉE](/images/process-diary-20251009.webp)
 
 </div>
 

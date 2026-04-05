@@ -1,5 +1,5 @@
 ---
-title: "01-01 Armadilha da Dívida - Labirinto Económico"
+title: "01-02 Armadilha da Dívida - Labirinto Económico"
 weight: 1
 ---
 

@@ -37,4 +37,4 @@ Centro: “Process Diary. 09.10.2025.”
 
 #MundoCaprichoso #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #Transformação #MitoVivo #ForçaSuave #AlquimiaDaMemória #PresençaPacífica #DisciplinaMajestosa #Confiança #CaminhoDaLuz #FuturoHarmonioso #DiárioDoProcesso #EquilíbrioInterior #Pivtorak  
 
-_Diário do Processo. MundoCaprichoso. 🐉⚖️ ESMÉE. AP | Pivtorak.Studio. 09.10.2025_  
+_Diário do Processo. Mundo Caprichoso. 🐉⚖️ ESMÉE. AP | Pivtorak.Studio. 09.10.2025_  

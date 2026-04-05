@@ -55,23 +55,23 @@ Pivtorak.Studio. 16.07.2023*
 
 📧 research@pivtorak.studio
 
-## 🔍 Navegador de Ficheiros
+## 🔍 Навигатор по Архивам
 
-{{< details "📂 Série de Investigação" >}}
+{{< details "📂 Серии Исследований" >}}
 
 <ul>
-  <li><a href="/docs/independent-researcher-manifesto/">Manifesto do Investigador</a></li>
-  <li><a href="/docs/shield-of-nation/">Escudo Da Nação</a></li>
-  <li><a href="/docs/political-design/">Design Político</a></li>
-  <li><a href="/docs/process-diary/">Diário De Processo</a></li>
+  <li><a href="/docs/independent-researcher-manifesto/">Манифест Исследователя</a></li>
+  <li><a href="/docs/shield-of-nation/">Щит Нации</a></li>
+  <li><a href="/docs/political-design/">Политический дизайн</a></li>
+  <li><a href="/docs/process-diary/">Дневник Процесса</a></li>
 </ul>
 
 {{< /details >}}
 
-{{< details "🔬 Especialização e Atribuição" >}}
+{{< details "🔬 Экспертиза и Атрибуция" >}}
 
 <ul>
-  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Numismática, Joalharia, Iconografia, Teologia</li>
+  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Нумизматика, ювелирное искусство, иконопись, теология</li>
 </ul>
 
 {{< /details >}}

@@ -9,22 +9,9 @@ weight: 1
 
 </div>
 
-**Process Diary**  
-# 2025 09 03 🌐 New Reality. SCO
-
-Today I felt an unexpected unease — on 01.09.2025 the SCO summit took place in China, and I had no ready symbols to respond.  
-It seemed I hadn’t managed to prepare.  
-Then came the diagrams — comparisons, the “triangle of power,” strategies and counter-strategies. And suddenly, a pause: the realization of its scale.
-
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903-05.webp)
-
-</div>
-
-<div class="float-right">
-
-![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
+![New Reality. SCO](/images/process-diary-20250903-01.webp)
 
 </div>
 
@@ -36,9 +23,22 @@ Then came the diagrams — comparisons, the “triangle of power,” strategies 
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903-01.webp)
+![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
 
 </div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-05.webp)
+
+</div>
+
+**Process Diary**  
+# 2025 09 03 🌐 New Reality. SCO
+
+Today I felt an unexpected unease — on 01.09.2025 the SCO summit took place in China, and I had no ready symbols to respond.  
+It seemed I hadn’t managed to prepare.  
+Then came the diagrams — comparisons, the “triangle of power,” strategies and counter-strategies. And suddenly, a pause: the realization of its scale.
 
 But then the shift happened. We began to **rewrite the mistakes of the world order**.  
 We highlighted the conflicts and dishonesty within the SCO.  

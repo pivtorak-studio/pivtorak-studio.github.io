@@ -1,5 +1,5 @@
 ---
-title: "20251009 Mundo Caprichoso. ESMÉE"
+title: "20251009 MundoCaprichoso. ESMÉE"
 weight: 1
 ---
 

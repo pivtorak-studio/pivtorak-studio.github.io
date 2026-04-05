@@ -33,7 +33,7 @@ weight: 1
 
 </div>
 
-**Process Diary**  
+**🪶 Process Diary**  
 # 2025 09 03 🌐 New Reality. SCO
 
 Today I felt an unexpected unease — on 01.09.2025 the SCO summit took place in China, and I had no ready symbols to respond.  

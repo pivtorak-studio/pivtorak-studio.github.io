@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Political Design**
-## 💣 I. Debt Trap
-
-### ⌛ Bonded Future
+# 💣 I. Debt Trap. ⌛ Bonded Future
 
 _The future isn’t delayed — it is collateralized._
 

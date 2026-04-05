@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. A Armadilha da Dívida
-
-### 🚧 A Lacuna da Hospitalidade
+# 💣 I. A Armadilha da Dívida. 🚧 A Lacuna da Hospitalidade
 
 _A confiança desaparece quando a autoridade entra como suspeita._
 

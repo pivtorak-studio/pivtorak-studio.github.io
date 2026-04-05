@@ -54,16 +54,20 @@ Pivtorak.Studio. 16.07.2023*
 
 ## 🔍 Навігатор по архівах
 
-{{< details "📂 Серії досліджень (натисніть, щоб розгорнути)" >}}
+{{< details "📂 Серії досліджень" >}}
 
-* [Маніфест Дослідника]({{< relref "docs/independent-researcher-manifesto" >}})
-* [Щит Нації]({{< relref "docs/shield-of-nation" >}})
-* [Політичний Дизайн]({{< relref "docs/political-design" >}})
+<ul>
+  <li><a href="/docs/independent-researcher-manifesto/">Маніфест Дослідника</a></li>
+  <li><a href="/docs/shield-of-nation/">Щит Нації</a></li>
+  <li><a href="/docs/political-design/">Політичний Дизайн</a></li>
+</ul>
 
 {{< /details >}}
 
 {{< details "🔬 Експертиза та Атрибуція" >}}
 
-* **[Expertise]({{< relref "docs/expertise" >}})** — Нумізматика, іконопис, теологія.
+<ul>
+  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Нумізматика, іконопис, теологія</li>
+</ul>
 
 {{< /details >}}

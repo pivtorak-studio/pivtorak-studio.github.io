@@ -1,11 +1,11 @@
 ---
-title: "20250903 MundoCaprichoso. ESMÉE"
+title: "20250903 Mundo Caprichoso. ESMÉE"
 weight: 1
 ---
 
 <div class="float-right">
 
-![MundoCaprichoso. ESMÉE](/images/process-diary-20251009.webp)
+![Mundo Caprichoso. ESMÉE](/images/process-diary-20251009.webp)
 
 </div>
 

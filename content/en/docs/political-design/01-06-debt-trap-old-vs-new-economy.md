@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Political Design**
-## 💣 I. Debt Trap
-
-### 🐌 Old vs New Economy
+# 💣 I. Debt Trap. 🐌 Old vs New Economy
 
 _The past demands tribute from the future._
 

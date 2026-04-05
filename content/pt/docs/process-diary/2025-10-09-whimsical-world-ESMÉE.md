@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **🪶 Diário do Processo**  
-# 2025 10 09 ✨ MundoCaprichoso 🐉⚖️ ESMÉE 
+# 2025 10 09 ✨ Mundo Caprichoso 🐉⚖️ ESMÉE 
 
 **Esmée — o equilíbrio que já não sonha.**
 _Ela não procura mais a harmonia — ela respira-a._

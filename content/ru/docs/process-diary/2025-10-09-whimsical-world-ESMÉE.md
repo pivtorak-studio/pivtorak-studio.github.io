@@ -1,11 +1,11 @@
 ---
-title: "20250903 ПричудливыйМир. ESMÉE"
+title: "20250903 Причудливый Мир. ESMÉE"
 weight: 1
 ---
 
 <div class="float-right">
 
-![ПричудливыйМир. ESMÉE](/images/process-diary-20251009.webp)
+![Причудливый Мир. ESMÉE](/images/process-diary-20251009.webp)
 
 </div>
 

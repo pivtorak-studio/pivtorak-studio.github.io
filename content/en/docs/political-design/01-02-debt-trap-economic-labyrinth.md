@@ -11,9 +11,7 @@ weight: 1
 
  **Political Design**
 
-## 💣 I. Debt Trap
-
-### 🕸️ Economic Labyrinth
+# 💣 I. Debt Trap. 🕸️ Economic Labyrinth
 
 _When bureaucracy grows faster than the economy, investment becomes prey._
 

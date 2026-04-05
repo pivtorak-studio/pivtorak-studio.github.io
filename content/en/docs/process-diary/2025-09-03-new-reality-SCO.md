@@ -1,5 +1,5 @@
 ---
-title: "20250903 New Reality. SCO"
+title: "20250903 NewReality. SCO"
 weight: 1
 ---
 

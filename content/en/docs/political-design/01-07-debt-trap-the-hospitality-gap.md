@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Political Design**
-## 💣 I. Debt Trap
-
-### 🚧 The Hospitality Gap
+# 💣 I. Debt Trap. 🚧 The Hospitality Gap
 
 _Trust dissolves when authority arrives as suspicion._
 

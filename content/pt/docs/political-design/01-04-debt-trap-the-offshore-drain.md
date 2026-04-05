@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. Armadilha da Dívida
-
-### 🕳️ A Fuga de Capitais
+# 💣 I. Armadilha da Dívida. 🕳️ A Fuga de Capitais
 
 _O capital não foge dos impostos — foge da incerteza._
 

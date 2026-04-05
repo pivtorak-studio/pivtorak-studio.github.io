@@ -10,8 +10,7 @@ weight: 1
 </div>
 
 **Political Design**
-## 💣 I. Debt Trap   
-**💉 Credit Addiction**
+# 💣 I. Debt Trap. 💉 Credit Addiction
 
 _When a state borrows instead of building, it becomes addicted to the external needle._
 

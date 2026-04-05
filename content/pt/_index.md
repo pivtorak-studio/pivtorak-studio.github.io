@@ -59,10 +59,10 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "📂 Série de Investigação" >}}
 
 <ul>
-  <li><a href="/docs/independent-researcher-manifesto/">Manifesto do Investigador</a></li>
-  <li><a href="/docs/shield-of-nation/">Escudo Da Nação</a></li>
-  <li><a href="/docs/political-design/">Design Político</a></li>
-  <li><a href="/docs/process-diary/">Diário De Processo</a></li>
+  <li><a href="/pt/docs/independent-researcher-manifesto/">Manifesto do Investigador</a></li>
+  <li><a href="/pt/docs/shield-of-nation/">Escudo Da Nação</a></li>
+  <li><a href="/pt/docs/political-design/">Design Político</a></li>
+  <li><a href="/pt/docs/process-diary/">Diário De Processo</a></li>
 </ul>
 
 {{< /details >}}

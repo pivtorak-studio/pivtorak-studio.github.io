@@ -28,8 +28,8 @@ Não perfeita. Não concluída. Mas autêntica.
 **Alt-text:**  
 Colagem das seis obras da série *#MundoCaprichoso*:  
 1. “Nascimento da Balança — O Equilíbrio Primordial”  
-2. “Ironia de Luz — O Dragão que Sorri”  
-3. “Disciplina do Equilíbrio — O Silêncio que Sustém as Asas”  
+2. “Disciplina do Equilíbrio — O Silêncio que Sustém as Asas”
+3. “Ironia de Luz — O Dragão que Sorri”    
 4. “Presença Pacífica — Quando o Dragão Dorme e o Mundo Cresce”  
 5. “Fantasmas Libertados — Alquimia da Memória”  
 6. “A Ponte Invisível — Balanças do Novo Destino”  

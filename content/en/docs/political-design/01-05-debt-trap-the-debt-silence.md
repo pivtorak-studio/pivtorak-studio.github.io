@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Political Design**
-## 💣 I. Debt Trap
-
-## 🙊 The Debt Silence
+# 💣 I. Debt Trap. 🙊 The Debt Silence
 
 _When truth becomes dangerous, even the walls start speaking louder than politicians._
 

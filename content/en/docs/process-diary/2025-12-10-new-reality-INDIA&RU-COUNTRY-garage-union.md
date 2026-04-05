@@ -1,11 +1,11 @@
 ---
-title: "20251210 NewReality. INDIA&RU-COUNTRY. 🏴‍☠️ GarageUnion"
+title: "20251210 NewReality. INDIA&RU-COUNTRY. GarageUnion"
 weight: 1
 --- 
 
 <div class="float-right">
 
-![NewReality. INDIA&RU-COUNTRY. 🏴‍☠️ GarageUnion](/images/process-diary-20251210.webp)
+![NewReality. INDIA&RU-COUNTRY. GarageUnion](/images/process-diary-20251210.webp)
 
 </div>
 

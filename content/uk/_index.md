@@ -67,7 +67,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "🔬 Експертиза та Атрибуція" >}}
 
 <ul>
-  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Нумізматика, іконопис, теологія</li>
+  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Нумізматика, ювелірне мистецтво, іконопис, теологія</li>
 </ul>
 
 {{< /details >}}

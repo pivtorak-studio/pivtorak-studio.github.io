@@ -51,3 +51,26 @@ Cada objeto pode ser ativado como lote apenas após atingir a densidade de conte
 
 *Um sistema conceptual para a formação de estruturas de valor a longo prazo. 
 Pivtorak.Studio. 16.07.2023*
+
+📧 research@pivtorak.studio
+
+## 🔍 Navegador de Ficheiros
+
+{{< details "📂 Série de Investigação" >}}
+
+<ul>
+  <li><a href="/docs/independent-researcher-manifesto/">Manifesto do Investigador</a></li>
+  <li><a href="/docs/shield-of-nation/">Escudo Da Nação</a></li>
+  <li><a href="/docs/political-design/">Design Político</a></li>
+  <li><a href="/docs/process-diary/">Diário De Processo</a></li>
+</ul>
+
+{{< /details >}}
+
+{{< details "🔬 Especialização e Atribuição" >}}
+
+<ul>
+  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Numismática, Joalharia, Iconografia, Teologia</li>
+</ul>
+
+{{< /details >}}

@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. A Armadilha da Dívida
-
-### 🐌 Velha vs Nova Economia
+# 💣 I. A Armadilha da Dívida. 🐌 Velha vs Nova Economia
 
 _O passado exige tributo ao futuro._
 

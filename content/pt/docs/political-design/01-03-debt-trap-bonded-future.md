@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. Armadilha da Dívida
-
-### ⌛ Futuro Acorrentado
+# 💣 I. Armadilha da Dívida. ⌛ Futuro Acorrentado
 
 _O futuro não é adiado — é empenhado._
 

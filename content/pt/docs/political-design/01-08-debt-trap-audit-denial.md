@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. A Armadilha da Dívida
-
-### 🦯 Negação de Auditoria
+# 💣 I. A Armadilha da Dívida. 🦯 Negação de Auditoria
 
 _Os problemas crescem no escuro — sobretudo aqueles que ninguém quer medir._
 

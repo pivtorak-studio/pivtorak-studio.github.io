@@ -1,5 +1,5 @@
 ---
-title: "20250903 Nova Realidade. OCS"
+title: "20250903 NovaRealidade. OCS"
 weight: 1
 ---
 

@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. Armadilha da Dívida
-
-## 🙊 O Silêncio da Dívida
+# 💣 I. Armadilha da Dívida. 🙊 O Silêncio da Dívida
 
 _Quando a verdade se torna perigosa, até as paredes começam a falar mais alto do que os políticos._
 

@@ -1,11 +1,11 @@
 ---
-title: "20250903 WhimsicalWorld. ESMÉE"
+title: "20250903 Whimsical World. ESMÉE"
 weight: 1
 ---
 
 <div class="float-right">
 
-![WhimsicalWorld. ESMÉE](/images/process-diary-20251009.webp)
+![Whimsical World. ESMÉE](/images/process-diary-20251009.webp)
 
 </div>
 

@@ -10,9 +10,7 @@ weight: 1
 </div>
 
  **Design Político**
-## 💣 I. Armadilha da Dívida
-
-### 🕸️ Labirinto Económico
+# 💣 I. Armadilha da Dívida. 🕸️ Labirinto Económico
 
 _Quando a burocracia substitui a lógica, o investimento deixa de avançar._
 

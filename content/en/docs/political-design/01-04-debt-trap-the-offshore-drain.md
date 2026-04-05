@@ -10,9 +10,7 @@ weight: 1
 </div>
 
 **Political Design**
-## 💣 I. Debt Trap
-
-### 🕳️ The Offshore Drain
+# 💣 I. Debt Trap. 🕳️ The Offshore Drain
 
 _Capital doesn’t flee taxes — it flees uncertainty._
 

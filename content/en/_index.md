@@ -51,3 +51,26 @@ Each object may be activated as a lot only upon reaching the required density of
 
 *A conceptual system for the formation of long-term value structures. 
 Pivtorak.Studio. 16.07.2023*
+
+📧 research@pivtorak.studio
+
+## 🔍 Archive Navigator
+
+{{< details "📂 Research Series" >}}
+
+<ul>
+  <li><a href="/docs/independent-researcher-manifesto/">Researcher Manifesto</a></li>
+  <li><a href="/docs/shield-of-nation/">Shield of Nation</a></li>
+  <li><a href="/docs/political-design/">Political Design</a></li>
+  <li><a href="/docs/process-diary/">Process Diary</a></li>
+</ul>
+
+{{< /details >}}
+
+{{< details "🔬 Expertise and Attribution" >}}
+
+<ul>
+  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Numismatics, Jewelry, Iconography, Theology</li>
+</ul>
+
+{{< /details >}}

@@ -16,9 +16,7 @@ weight: 1
 </div>
 
 **Design Político**
-## 💣 I. A Armadilha da Dívida
-
-### 🏗️ O Próximo Arquiteto
+# 💣 I. A Armadilha da Dívida. 🏗️ O Próximo Arquiteto
 
 _Os sistemas envelhecem mais depressa do que quem os gere — só um novo arquiteto consegue travar o desperdício do tempo._
 

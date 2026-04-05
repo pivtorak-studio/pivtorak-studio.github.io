@@ -11,9 +11,7 @@ weight: 1
 
 **Political Design**
 
-## 💣 I. Debt Trap
-
-### 🦯 Audit Denial
+# 💣 I. Debt Trap. 🦯 Audit Denial
 
 _Problems grow in the dark — especially the ones no one wants to measure._
 

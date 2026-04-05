@@ -1,5 +1,5 @@
 ---
-title: "20251009 Whimsical World. ESMÉE"
+title: "20251009 WhimsicalWorld. ESMÉE"
 weight: 1
 ---
 

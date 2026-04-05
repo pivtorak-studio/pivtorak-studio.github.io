@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **🪶 Process Diary**  
-# 2025 10 09 ✨ WhimsicalWorld 🐉⚖️ ESMÉE 
+# 2025 10 09 ✨ Whimsical World 🐉⚖️ ESMÉE 
 
 **Esmée — the balance that dreams no more.**
 _She no longer seeks harmony — she breathes it._

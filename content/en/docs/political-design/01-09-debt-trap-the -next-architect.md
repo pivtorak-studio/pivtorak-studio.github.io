@@ -16,9 +16,7 @@ weight: 1
 </div>
 
 **Political Design**
-## 💣 I. Debt Trap
-
-### 🏗️ The Next Architect
+# 💣 I. Debt Trap. 🏗️ The Next Architect
 
 _Systems age faster than their managers — only a new architect can stop the leakage of time._
 

@@ -60,10 +60,10 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "📂 Серии Исследований" >}}
 
 <ul>
-  <li><a href="/docs/independent-researcher-manifesto/">Манифест Исследователя</a></li>
-  <li><a href="/docs/shield-of-nation/">Щит Нации</a></li>
-  <li><a href="/docs/political-design/">Политический дизайн</a></li>
-  <li><a href="/docs/process-diary/">Дневник Процесса</a></li>
+  <li><a href="/ru/docs/independent-researcher-manifesto/">Манифест Исследователя</a></li>
+  <li><a href="/ru/docs/shield-of-nation/">Щит Нации</a></li>
+  <li><a href="/ru/docs/political-design/">Политический дизайн</a></li>
+  <li><a href="/ru/docs/process-diary/">Дневник Процесса</a></li>
 </ul>
 
 {{< /details >}}

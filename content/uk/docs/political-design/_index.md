@@ -43,3 +43,5 @@ VI. Zero External Debt — модель держави як самодостат
   }
 }
 </script>
+
+<link rel="canonical" href="https://pivtorak.studio/docs/political-design/">

@@ -30,9 +30,6 @@ bookCollapseSection: true
 
 <link rel="canonical" href="https://pivtorak.studio/docs/political-design/">
 
----
-{{< section >}}
-
 # #PoliticalDesign — Архітектура політики як дизайн системи
 *Дослідницька серія #PoliticalDesign: політика як система, інтерфейс і архітектура рішень. Аналіз боргу, виборів, влади та держави як продукту.*
 
@@ -58,4 +55,5 @@ VI. Zero External Debt — модель держави як самодостат
 
 #PoliticalDesign — це спроба переосмислити державу як продукт, а політику — як дисципліну дизайну.
 
-
+---
+{{< section >}}

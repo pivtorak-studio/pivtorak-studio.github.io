@@ -30,7 +30,9 @@ True creativity requires hermeticism. My energy is fueled by silence and interna
 I do not create or preserve objects for the present. I introduce them into a Continuum. Every piece of jewelry, every text, every captured sense is not a finished product, but an autonomous carrier of time. An object’s value is not static; it accumulates through a managed field of meanings:
 - **Context:** The system in which the object was legalized.
 - **Interpretation:** The intellectual tension that the object holds around itself.
-- **Silence:** The space between events where future value matures. Decades later, an expert will work not with material, but with a Trajectory. My heirs will receive not just things, but a coordinate system where every artifact is a node in a global network of meanings. I am not building a collection — I am launching a vector of force that pierces through generations.
+- **Silence:** The space between events where future value matures.
+
+Decades later, an expert will work not with material, but with a Trajectory. My heirs will receive not just things, but a coordinate system where every artifact is a node in a global network of meanings. I am not building a collection — I am launching a vector of force that pierces through generations.
 
 **Anna Pivtorak**  
 *Independent Researcher. Architect of Meaning Systems and Long-Term Cultural Assets. 18.03.2026*

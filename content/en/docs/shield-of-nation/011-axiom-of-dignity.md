@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **Shield Of The Nation**
-## Axiom Of Dignity 🧭🕊️💎 Citizen — Stoic Warrior
+# Axiom Of Dignity 🧭🕊️💎 Citizen — Stoic Warrior
 
 _Axiom Of Dignity: where a person is forced to break, an inner shield arises that refuses to kneel.
 The shield is held not by hands, but by the heart._  

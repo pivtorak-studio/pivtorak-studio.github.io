@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **Shield Of The Nation**
-## Axiom Of Independence ⚡️💡🛠️ Energy Worker — Blacksmith Of Light
+# Axiom Of Independence ⚡️💡🛠️ Energy Worker — Blacksmith Of Light
 
 _Axiom of independence: where darkness tries to break the people, light is born.  
 The spark in the hands of an energy worker is a ray of freedom.  

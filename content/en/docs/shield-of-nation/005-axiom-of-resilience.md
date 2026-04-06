@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **Shield Of The Nation**
-## Axiom Of Resilience 🩺🌱🚑 Medic — Steel Root
+# Axiom Of Resilience 🩺🌱🚑 Medic — Steel Root
 
 _Axiom of resilience: where the body is wounded, the hand of healing arises.  
 The medic is the root that holds life through the fiercest storm.  

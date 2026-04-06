@@ -30,7 +30,9 @@ A verdadeira criatividade exige hermetismo. A minha energia é alimentada pelo s
 Não crio nem preservo objetos para o presente. Introduzo-os num Continuum. Cada joia, cada texto, cada sentido capturado não é um produto acabado, mas um transportador autónomo do tempo. O valor de um objeto não é estático; acumula-se através de um campo de significados gerido:
 - **Contexto:** O sistema no qual o objeto foi legalizado.
 - **Interpretação:** A tensão intelectual que o objeto mantém ao seu redor.
-- **Silêncio:** O espaço entre eventos onde o valor futuro amadurece. Décadas depois, um perito trabalhará não com o material, mas com uma Trajetória. Os meus herdeiros receberão não apenas coisas, mas um sistema de coordenadas onde cada artefacto é um nó numa rede global de significados. Não estou a construir uma coleção — estou a lançar um vetor de força que atravessa gerações.
+- **Silêncio:** O espaço entre eventos onde o valor futuro amadurece.
+
+Décadas depois, um perito trabalhará não com o material, mas com uma Trajetória. Os meus herdeiros receberão não apenas coisas, mas um sistema de coordenadas onde cada artefacto é um nó numa rede global de significados. Não estou a construir uma coleção — estou a lançar um vetor de força que atravessa gerações.
 
 **Anna Pivtorak**  
 *Investigadora Independente. Sistemas de Significado, Governação e Ativos de Longo Prazo. 18.03.2026*

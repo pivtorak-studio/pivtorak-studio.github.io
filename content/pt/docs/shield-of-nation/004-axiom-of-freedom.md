@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **Escudo Da Nação**
-## Axioma Da Liberdade 🧠🔭📖 Professor — Fóton Do Conhecimento
+# Axioma Da Liberdade 🧠🔭📖 Professor — Fóton Do Conhecimento
 
 _Axioma da liberdade: onde a escuridão da opressão ameaça o povo, surge a luz do conhecimento.  
 O professor é o raio que corta a escuridão.  

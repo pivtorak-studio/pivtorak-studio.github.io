@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **🧭 Process Diary**
-# 2025 11 21 TheMajesticDiscipline 🇪🇺🐻EuropeanBear
+# 2025 11 21 💯 TheMajesticDiscipline 🇪🇺🐻EuropeanBear
 
 The turning point began not with a major event but with a subtle inner shift that appeared in the middle of working on something entirely different. At first it was barely noticeable — a change in the direction of air. The bear archetype, long tied to the ru-state, suddenly no longer fit it: not in scale, not in energy, not in meaning. And at the same moment it became clear that the EU had already been living inside this archetype — quietly, consistently — without yet naming it.
 

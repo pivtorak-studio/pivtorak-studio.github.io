@@ -11,7 +11,7 @@ weight: 1
 
 **🧭 Diário do Processo**
 
-# 2025 11 21 ADisciplinaMajestosa 🇪🇺🐻UrsoEuropeu
+# 2025 11 21 💯 ADisciplinaMajestosa 🇪🇺🐻UrsoEuropeu
 
 A viragem começou não com um acontecimento, mas com uma sensação leve, quase imperceptível, que surgiu no meio de outro trabalho. Era como se o ar tivesse mudado de direção. O arquétipo do urso, durante décadas associado ao estado ru, deixou de lhe pertencer — não pela escala, nem pela energia, nem pelo significado. E nesse instante tornou-se evidente que a UE há muito vivia dentro dessa força, embora ainda não a tivesse nomeado.
 

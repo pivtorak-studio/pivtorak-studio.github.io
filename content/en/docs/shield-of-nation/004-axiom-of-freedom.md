@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **Shield Of The Nation**
-## Axiom Of Freedom 🧠🔭📖 Teacher — Photon Of Knowledge
+# Axiom Of Freedom 🧠🔭📖 Teacher — Photon Of Knowledge
 
 _Axiom of freedom: where the darkness of oppression threatens the people, the light of knowledge arises.  
 The teacher is a ray cutting through the gloom.  

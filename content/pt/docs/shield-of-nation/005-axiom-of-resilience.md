@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **Escudo Da Nação**
-## Axioma Da Resiliência 🩺🌱🚑 Médico — Raiz De Aço
+# Axioma Da Resiliência 🩺🌱🚑 Médico — Raiz De Aço
 
 _Axioma da resiliência: onde o corpo está ferido, surge a mão da cura.  
 O médico é a raiz que sustenta a vida na tempestade mais feroz.  

@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **Escudo Da Nação**
-## Axioma Da Independência ⚡️💡🛠️ Energético — Ferreiro Da Luz
+# Axioma Da Independência ⚡️💡🛠️ Energético — Ferreiro Da Luz
 
 _Axioma da independência: onde a escuridão tenta quebrar o povo, nasce a luz.  
 A faísca nas mãos do energético é um raio de liberdade.  

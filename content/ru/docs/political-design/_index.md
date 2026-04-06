@@ -2,6 +2,11 @@
 title: "Политический Дизайн"
 bookCollapseSection: true
 ---
+title: 
+# #PoliticalDesign — Политика как архитектура систем и дизайн
+description: 
+*Серия #PoliticalDesign: политика как система и дизайн. Анализ долга, выборов, власти и государства как продукта и архитектуры.*
+<link rel="canonical" href="https://pivtorak.studio/docs/political-design/">
 
 #PoliticalDesign — это исследовательская и визуальная серия, посвящённая анализу современных политических систем как спроектированных сред.
 
@@ -19,3 +24,22 @@ VI. Zero External Debt — модель государства как самод
 Каждая статья сочетает текст, символику и визуальный образ, формируя целостный язык политического дизайна.
 
 #PoliticalDesign — это попытка переосмыслить государство как продукт, а политику — как дисциплину дизайна.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "#PoliticalDesign — Политика как архитектура систем и дизайн",
+  "description": "Исследовательская серия о политических системах как спроектированных средах, анализ власти, экономики и государства.",
+  "inLanguage": "ru",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pivtorak Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>

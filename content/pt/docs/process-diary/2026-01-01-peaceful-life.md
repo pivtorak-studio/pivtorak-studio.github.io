@@ -10,7 +10,7 @@ weight: 1
 </div>
 
 **🧭 Diário do Processo**
-# 2026 01 01 Vida Pacífica
+# 2026 01 01 🌞 Vida Pacífica
 
 Não surgiu como uma ideia.  
 Surgiu como a necessidade de manter algo estável enquanto o mundo se deslocava.

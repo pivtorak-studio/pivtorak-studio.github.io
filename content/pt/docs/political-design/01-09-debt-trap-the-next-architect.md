@@ -1,6 +1,7 @@
 ---
 title: "01-09 Armadilha da Dívida - O Próximo Arquiteto"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -9,13 +9,16 @@
 <meta property="og:description" content="{{ .Params.description }}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:image" content="{{ (index .Params.images 0) | absURL }}">
+
+{{ with .Params.images }}
+<meta property="og:image" content="{{ (index . 0) | absURL }}">
+<meta name="twitter:image" content="{{ (index . 0) | absURL }}">
+{{ end }}
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ .Params.description }}">
-<meta name="twitter:image" content="{{ (index .Params.images 0) | absURL }}">
 
 <!-- 🌍 Hreflang mapping -->
 {{ $langMap := dict
@@ -25,58 +28,20 @@
   "ru" "ru"
 }}
 
-<!-- Current page -->
 <link rel="alternate"
       hreflang="{{ index $langMap .Language.Lang }}"
       href="{{ .Permalink }}">
 
-<!-- Translations -->
 {{ range .Translations }}
 <link rel="alternate"
       hreflang="{{ index $langMap .Language.Lang }}"
       href="{{ .Permalink }}">
 {{ end }}
 
-<!-- 🌐 x-default (ставимо EN як глобальну) -->
 {{ with .Site.GetPage (printf "/en%s" .RelPermalink) }}
 <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
 {{ end }}
 
-
 {{ if eq .Language.Lang "ru" }}
 <meta name="robots" content="noindex, nofollow">
 {{ end }}
-
-
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-{{ $langMap := dict
-  "uk" "uk-UA"
-  "en" "en"
-  "pt" "pt-PT"
-  "ru" "ru"
-}}
-
-{{ range .Site.RegularPages }}
-  <url>
-    <loc>{{ .Permalink }}</loc>
-    <lastmod>{{ .Lastmod.Format "2006-01-02" }}</lastmod>
-
-    <!-- Self -->
-    <xhtml:link rel="alternate"
-                hreflang="{{ index $langMap .Language.Lang }}"
-                href="{{ .Permalink }}" />
-
-    <!-- Translations -->
-    {{ range .Translations }}
-    <xhtml:link rel="alternate"
-                hreflang="{{ index $langMap .Language.Lang }}"
-                href="{{ .Permalink }}" />
-    {{ end }}
-
-  </url>
-{{ end }}
-
-</urlset>

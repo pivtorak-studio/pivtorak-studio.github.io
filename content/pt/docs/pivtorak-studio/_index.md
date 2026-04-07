@@ -1,8 +1,30 @@
 ---
 title: "Pivtorak.Studio — A Fórmula da Transformação"
-description: "Série autoral da Pivtorak.Studio sobre transformação, vocação e construção de um novo sistema através da presença."
+description: "Série autoral sobre transformação: vocação, saída de sistemas antigos e construção de uma nova arquitetura de vida."
+keywords: ["transformação", "vocação", "desenvolvimento pessoal", "sistemas", "arquitetura de vida", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
+
+images: ["/images/pivtorak-studio-cover.webp"]
 ---
+
+<link rel="canonical" href="https://pivtorak.studio/pt/docs/pivtorak-studio/">
+
+<meta name="robots" content="index, follow">
+
+<!-- OpenGraph -->
+<meta property="og:title" content="Pivtorak.Studio — A Fórmula da Transformação">
+<meta property="og:description" content="Uma série sobre vocação, saída do sistema e criação de uma nova realidade.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pivtorak.studio/pt/docs/pivtorak-studio/">
+<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pivtorak.Studio — A Fórmula da Transformação">
+<meta name="twitter:description" content="Transformação como sistema: da vocação à presença.">
+<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+
+<meta name="googlebot" content="max-image-preview:large">
 
 <script type="application/ld+json">
 {

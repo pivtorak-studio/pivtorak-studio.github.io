@@ -1,6 +1,7 @@
 ---
 title: "008 Axioma Do Renascimento"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -35,3 +35,15 @@ Ilustração digital: uma mulher com jeans, camiseta e ténis bege caminha ao lo
 #DesignMoments #OnTheRedCarpet #WalkingTowardsCreativity #CreativeJourney #RedPath #DesignHealing #UrbanInspiration #NewBeginning #ArtAsPath #InnerShift #VisualStorytelling #LifeDesign #DesignReflection #DailyInspiration #DesignResilience #MindfulMovement #CreativeFreedom #PivtorakStudio #AnnaPivtorak #ArtistLife #WalkingAndThinking #CreativePower #DesignAsLife #SymbolicArt #SelfDirectedPath #DesignPhilosophy #TransformationInMotion #EverydayCourage #DesignStatement #NoReturn
 
 _No Tapete Vermelho . AP | Pivtorak.Studio. 07.07.2025_
+
+<div class="float-right">
+
+![No Tapete Vermelho ](/images/pivtorak-studio-02-01.webp)
+
+</div>
+
+<div class="float-right">
+
+![No Tapete Vermelho ](/images/pivtorak-studio-02-02.webp)
+
+</div>

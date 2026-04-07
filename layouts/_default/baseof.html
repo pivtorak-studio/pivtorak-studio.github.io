@@ -1,1 +1,9 @@
-{{ partial "seo.html" . }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  {{ partial "seo.html" . }}
+</head>
+<body>
+  {{ block "main" . }}{{ end }}
+</body>
+</html>

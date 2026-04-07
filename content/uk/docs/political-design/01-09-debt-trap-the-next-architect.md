@@ -1,6 +1,7 @@
 ---
 title: "01-09 Боргова пастка - Наступний Архітектор"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

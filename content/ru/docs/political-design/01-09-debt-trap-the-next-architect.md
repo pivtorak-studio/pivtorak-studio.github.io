@@ -1,6 +1,7 @@
 ---
 title: "01-09 Долговая ловушка - Следующий Архитектор"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

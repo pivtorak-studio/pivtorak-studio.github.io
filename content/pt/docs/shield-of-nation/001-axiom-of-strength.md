@@ -1,6 +1,7 @@
 ---
 title: "001 Axioma Da Força"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -1,5 +1,6 @@
 baseURL = 'https://pivtorak.studio/'
 defaultContentLanguage = 'uk'
+defaultContentLanguageInSubdir = true
 title = 'Pivtorak.Studio'
 theme = 'hugo-book'
 
@@ -27,3 +28,5 @@ theme = 'hugo-book'
   BookSectionEnumerable = true
   BookTranslate = true
   BookLogo = 'logo.webp'
+
+

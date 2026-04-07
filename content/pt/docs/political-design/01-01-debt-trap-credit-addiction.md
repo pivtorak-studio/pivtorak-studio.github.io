@@ -1,6 +1,7 @@
 ---
 title: "01-01 Armadilha da Dívida - Dependência do Crédito"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

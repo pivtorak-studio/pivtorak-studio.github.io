@@ -1,6 +1,7 @@
 ---
 title: "009 Axioma Da Identidade"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

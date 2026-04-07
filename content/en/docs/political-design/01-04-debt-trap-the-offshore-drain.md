@@ -1,6 +1,7 @@
 ---
 title: "01-04 Debt Trap - The Offshore Drain"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

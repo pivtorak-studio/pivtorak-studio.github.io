@@ -1,6 +1,7 @@
 ---
 title: "01-01 Боргова пастка - Кредитна Залежність"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

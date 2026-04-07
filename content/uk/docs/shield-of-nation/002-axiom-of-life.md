@@ -1,6 +1,7 @@
 ---
 title: "002 Аксіома Життя"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

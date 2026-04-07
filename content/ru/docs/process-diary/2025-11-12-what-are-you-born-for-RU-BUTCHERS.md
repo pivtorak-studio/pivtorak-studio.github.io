@@ -1,6 +1,7 @@
 ---
 title: "20251112 ДляЧегоТыРождён. RU-БОЙНИ"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

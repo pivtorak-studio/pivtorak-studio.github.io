@@ -1,8 +1,30 @@
 ---
 title: "Pivtorak.Studio — Формула трансформации"
-description: "Авторская серия Pivtorak.Studio о трансформации, призвании и переходе к новой системе через присутствие."
+description: "Авторская серия о трансформации: призвание, выход из старой системы и создание новой архитектуры жизни."
+keywords: ["трансформация", "призвание", "личностный рост", "системы", "архитектура жизни", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
+
+images: ["/images/pivtorak-studio-cover.webp"]
 ---
+
+<link rel="canonical" href="https://pivtorak.studio/ru/docs/pivtorak-studio/">
+
+<meta name="robots" content="index, follow">
+
+<!-- OpenGraph -->
+<meta property="og:title" content="Pivtorak.Studio — Формула трансформации">
+<meta property="og:description" content="Серия о призвании, выходе из системы и создании новой реальности.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pivtorak.studio/ru/docs/pivtorak-studio/">
+<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pivtorak.Studio — Формула трансформации">
+<meta name="twitter:description" content="Трансформация как система: от призвания к присутствию.">
+<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+
+<meta name="googlebot" content="max-image-preview:large">
 
 <script type="application/ld+json">
 {

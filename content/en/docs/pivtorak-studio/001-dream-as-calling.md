@@ -46,13 +46,13 @@ _Dream as Calling. AP | Pivtorak.Studio. 07.07.2025_
 
 <div class="float-right">
 
-![Dream as Calling](/images/pivtorak-studio-02.webp)
+![Dream as Calling](/images/pivtorak-studio-01-02.webp)
 
 </div>
 
 <div class="float-right">
 
-![Dream as Calling](/images/pivtorak-studio-03.webp)
+![Dream as Calling](/images/pivtorak-studio-01-03.webp)
 
 </div>
 

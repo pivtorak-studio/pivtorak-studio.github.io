@@ -41,3 +41,7 @@
 {{ with .Site.GetPage (printf "/en%s" .RelPermalink) }}
 <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
 {{ end }}
+
+{{ if eq .Language.Lang "ru" }}
+<meta name="robots" content="noindex, nofollow">
+{{ end }}

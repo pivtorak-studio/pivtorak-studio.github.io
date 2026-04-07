@@ -1,8 +1,35 @@
 ---
 title: "Pivtorak.Studio — Формула трансформації"
-description: "Авторська серія Pivtorak.Studio про внутрішню трансформацію, покликання та побудову нової системи через досвід, символи та архітектуру присутності."
+description: "Авторська серія про трансформацію: покликання, вихід зі старої системи та створення нової архітектури життя."
+keywords: ["трансформація", "покликання", "особистісний розвиток", "система", "архітектура життя", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
+
+# OpenGraph
+images: ["/images/pivtorak-studio-01.webp"]
+images: ["/images/pivtorak-studio-01-01.webp"]
+images: ["/images/pivtorak-studio-01-02.webp"]
+images: ["/images/pivtorak-studio-01-03.webp"]
 ---
+
+<link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
+
+<meta name="robots" content="index, follow">
+
+<!-- OpenGraph -->
+<meta property="og:title" content="Pivtorak.Studio — Формула трансформації">
+<meta property="og:description" content="Серія про покликання, вихід із системи та створення нової реальності.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pivtorak.studio/docs/pivtorak-studio/">
+<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.jpg">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pivtorak.Studio — Формула трансформації">
+<meta name="twitter:description" content="Трансформація як система: від покликання до нової присутності.">
+<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.jpg">
+
+<!-- Google Discover optimization -->
+<meta name="googlebot" content="max-image-preview:large">
 
 <script type="application/ld+json">
 {

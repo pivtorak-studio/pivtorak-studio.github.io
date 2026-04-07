@@ -27,7 +27,7 @@ bookCollapseSection: true
 
 # #PoliticalDesign — Politics as System Architecture and Design
 
-*#PoliticalDesign is a research and visual series dedicated to understanding modern political systems as designed environments.
+*#PoliticalDesign is a research and visual series dedicated to understanding modern political systems as designed environments.*
 
 Rather than treating politics as a collection of events or personalities, this series approaches it as an architecture of processes, interfaces, and decisions. Each work functions as a module — a conceptual unit that reveals hidden mechanisms of power, economy, and social interaction.
 

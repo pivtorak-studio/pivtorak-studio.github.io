@@ -59,6 +59,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "📂 Research Series" >}}
 
 <ul>
+  <li><a href="/en/docs/pivtorak-studio/">Pivtorak.Studio</a></li>
   <li><a href="/en/docs/independent-researcher-manifesto/">Researcher Manifesto</a></li>
   <li><a href="/en/docs/shield-of-nation/">Shield of Nation</a></li>
   <li><a href="/en/docs/political-design/">Political Design</a></li>

@@ -6,9 +6,6 @@ bookCollapseSection: true
 
 # OpenGraph
 images: ["/images/pivtorak-studio-01.webp"]
-images: ["/images/pivtorak-studio-01-01.webp"]
-images: ["/images/pivtorak-studio-01-02.webp"]
-images: ["/images/pivtorak-studio-01-03.webp"]
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">

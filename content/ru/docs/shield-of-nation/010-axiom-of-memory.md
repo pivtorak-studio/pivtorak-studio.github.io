@@ -1,6 +1,7 @@
 ---
 title: "010 Аксиома Памяти"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

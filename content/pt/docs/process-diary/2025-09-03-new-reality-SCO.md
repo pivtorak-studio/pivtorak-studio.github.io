@@ -1,6 +1,7 @@
 ---
 title: "20250903 NovaRealidade. OCS"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

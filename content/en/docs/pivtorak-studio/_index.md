@@ -1,8 +1,30 @@
 ---
 title: "Pivtorak.Studio — The Formula of Transformation"
-description: "An original Pivtorak.Studio series exploring transformation through calling, system exit, and the architecture of presence."
+description: "An original series about transformation: calling, exiting old systems, and building a new architecture of life."
+keywords: ["transformation", "calling", "personal growth", "systems thinking", "life architecture", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
+
+images: ["/images/pivtorak-studio-cover.webp"]
 ---
+
+<link rel="canonical" href="https://pivtorak.studio/en/docs/pivtorak-studio/">
+
+<meta name="robots" content="index, follow">
+
+<!-- OpenGraph -->
+<meta property="og:title" content="Pivtorak.Studio — The Formula of Transformation">
+<meta property="og:description" content="A series about calling, system exit, and building a new reality.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pivtorak.studio/en/docs/pivtorak-studio/">
+<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pivtorak.Studio — The Formula of Transformation">
+<meta name="twitter:description" content="Transformation as a system: from calling to presence.">
+<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+
+<meta name="googlebot" content="max-image-preview:large">
 
 <script type="application/ld+json">
 {

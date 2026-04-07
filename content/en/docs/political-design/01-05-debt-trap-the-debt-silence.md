@@ -1,6 +1,7 @@
 ---
 title: "01-05 Debt Trap - The Debt Silence"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

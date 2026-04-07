@@ -1,6 +1,7 @@
 ---
 title: "01-08 Armadilha da Dívida - Negação de Auditoria"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

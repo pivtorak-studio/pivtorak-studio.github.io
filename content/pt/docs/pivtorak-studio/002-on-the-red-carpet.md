@@ -10,10 +10,6 @@ translationKey: pivtorak-studio
 
 </div>
 
-[[PivtorakStudio_index_PT]]  
-[[PivtorakStudio_02_🟥_OnTheRedCarpet_PivtorakStudio_2025_PT]]  
-[[PivtorakStudio_02_🟥_OnTheRedCarpet_2025_PT]]
-
 # 🟥 No Tapete Vermelho 
 *O meu caminho — já começou.* <br>
 

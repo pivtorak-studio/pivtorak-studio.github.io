@@ -1,6 +1,7 @@
 ---
 title: "20251009 WhimsicalWorld. ESMÉE"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

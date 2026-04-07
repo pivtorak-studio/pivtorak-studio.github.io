@@ -1,6 +1,7 @@
 ---
 title: "001 A Arquitetura da Ressonância"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

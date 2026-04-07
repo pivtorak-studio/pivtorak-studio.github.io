@@ -1,6 +1,7 @@
 ---
 title: "01-07 Armadilha da Dívida - A Lacuna da Hospitalidade"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

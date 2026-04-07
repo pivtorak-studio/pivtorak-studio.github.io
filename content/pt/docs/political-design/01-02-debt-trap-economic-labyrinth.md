@@ -1,6 +1,7 @@
 ---
 title: "01-02 Armadilha da Dívida - Labirinto Económico"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

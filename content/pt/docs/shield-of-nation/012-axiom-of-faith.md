@@ -1,6 +1,7 @@
 ---
 title: "012 Axioma Da Fé"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

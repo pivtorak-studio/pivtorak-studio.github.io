@@ -1,6 +1,7 @@
 ---
 title: "01-07 Debt Trap - The Hospitality Gap"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

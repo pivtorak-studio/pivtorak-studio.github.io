@@ -4,7 +4,7 @@ description: "An original series about transformation: calling, exiting old syst
 keywords: ["transformation", "calling", "personal growth", "systems thinking", "life architecture", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
 
-images: ["/images/pivtorak-studio-cover.webp"]
+images: ["/images/pivtorak-studio-01.webp"]
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/en/docs/pivtorak-studio/">

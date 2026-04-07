@@ -33,3 +33,6 @@ theme = 'hugo-book'
   changefreq = "weekly"
   priority = 0.7
   filename = "sitemap.xml"
+
+  [languages.ru]
+  disabled = true

@@ -29,4 +29,7 @@ theme = 'hugo-book'
   BookTranslate = true
   BookLogo = 'logo.webp'
 
-
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.7
+  filename = "sitemap.xml"

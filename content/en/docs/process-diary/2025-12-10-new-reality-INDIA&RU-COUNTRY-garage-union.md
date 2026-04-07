@@ -1,6 +1,7 @@
 ---
 title: "20251210 NewReality. INDIA&RU-COUNTRY. GarageUnion"
 weight: 1
+translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

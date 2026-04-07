@@ -1,6 +1,7 @@
 ---
 title: "01-01 Долговая ловушка - Кредитная Зависимость"
 weight: 1
+translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

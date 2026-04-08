@@ -1,7 +1,6 @@
 ---
 title: "004 Axioma Da Liberdade"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

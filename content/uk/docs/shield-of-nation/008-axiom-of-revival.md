@@ -1,7 +1,6 @@
 ---
 title: "008 Аксіома Відродження"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

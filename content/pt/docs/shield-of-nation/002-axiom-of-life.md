@@ -1,7 +1,6 @@
 ---
 title: "002 Axioma Da Vida"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

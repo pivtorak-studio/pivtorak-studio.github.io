@@ -1,7 +1,6 @@
 ---
 title: "20251210 НоваРеальність. ІНДІЯіRU-КРАЇНА. ГаражнийСоюз"
 weight: 1
-translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

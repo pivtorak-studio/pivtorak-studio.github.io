@@ -4,7 +4,7 @@ description: "Série autoral sobre transformação: vocação, saída de sistema
 keywords: ["transformação", "vocação", "desenvolvimento pessoal", "sistemas", "arquitetura de vida", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
 
-images: ["/images/pivtorak-studio-cover.webp"]
+images: ["/images/pivtorak-studio-03.webp"]
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/pt/docs/pivtorak-studio/">

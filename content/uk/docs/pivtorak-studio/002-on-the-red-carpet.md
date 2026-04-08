@@ -1,7 +1,6 @@
 ---
 title: "002 На Червоній Доріжці"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

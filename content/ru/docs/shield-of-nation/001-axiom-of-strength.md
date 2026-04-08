@@ -1,7 +1,6 @@
 ---
 title: "001 Аксиома Cилы"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

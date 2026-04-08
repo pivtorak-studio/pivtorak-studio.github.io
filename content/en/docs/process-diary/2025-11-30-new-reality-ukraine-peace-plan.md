@@ -1,7 +1,6 @@
 ---
 title: "20251130 NewReality. Ukraine. PeacePlan"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -1,7 +1,6 @@
 ---
 title: "01-04 Долговая ловушка - Утечка Капитала"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

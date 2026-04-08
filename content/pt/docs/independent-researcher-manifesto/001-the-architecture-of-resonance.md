@@ -1,7 +1,6 @@
 ---
 title: "001 A Arquitetura da Ressonância"
 weight: 1
-translationKey: irm
 ---
 
 <div class="float-right">

@@ -1,7 +1,6 @@
 ---
 title: "003 Присутствие"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

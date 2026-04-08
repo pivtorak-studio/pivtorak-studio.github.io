@@ -1,7 +1,6 @@
 ---
 title: "01-06 Боргова пастка - Стара vs Нова Економіка"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

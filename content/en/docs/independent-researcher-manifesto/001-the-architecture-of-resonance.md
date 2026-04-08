@@ -1,7 +1,7 @@
 ---
 title: "001 The Architecture of Resonance"
 weight: 1
-translationKey: pivtorak-studio
+translationKey: irm
 ---
 
 <div class="float-right">

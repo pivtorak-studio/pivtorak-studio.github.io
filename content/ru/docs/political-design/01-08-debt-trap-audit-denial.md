@@ -1,7 +1,6 @@
 ---
 title: "01-08 Долговая ловушка - Отказ в Аудите"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

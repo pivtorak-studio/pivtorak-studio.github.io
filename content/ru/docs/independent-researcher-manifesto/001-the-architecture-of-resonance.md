@@ -1,7 +1,6 @@
 ---
 title: "001 Архитектура Резонанса"
 weight: 1
-translationKey: irm
 ---
 
 <div class="float-right">

@@ -1,7 +1,6 @@
 ---
 title: "20260101 Vida Pacífica"
 weight: 1
-translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

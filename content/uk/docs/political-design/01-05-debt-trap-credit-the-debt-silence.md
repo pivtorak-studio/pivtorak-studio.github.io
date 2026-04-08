@@ -1,7 +1,6 @@
 ---
 title: "01-05 Боргова пастка - Тиша Боргу"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

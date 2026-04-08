@@ -1,7 +1,6 @@
 ---
 title: "01-06 Debt Trap - Old vs New Economy"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

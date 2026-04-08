@@ -1,7 +1,6 @@
 ---
 title: "01-04 Armadilha da Dívida - A Fuga de Capitais"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

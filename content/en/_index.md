@@ -1,6 +1,5 @@
 ---
 title: "0.01"
-translationKey: pivtorak-studio
 ---
 
 **0.01 | Pivtorak.Studio**

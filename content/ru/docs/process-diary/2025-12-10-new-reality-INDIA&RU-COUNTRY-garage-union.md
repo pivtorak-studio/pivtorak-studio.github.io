@@ -1,7 +1,6 @@
 ---
 title: "20251210 НоваяРеальность. ИНДИЯиRU-СТРАНА. ГаражныйСоюз"
 weight: 1
-translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

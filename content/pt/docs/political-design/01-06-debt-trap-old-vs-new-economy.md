@@ -1,7 +1,6 @@
 ---
 title: "01-06 Armadilha da Dívida - Velha vs Nova Economia"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

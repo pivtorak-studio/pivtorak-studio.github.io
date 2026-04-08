@@ -1,7 +1,6 @@
 ---
 title: "01-05 Долговая ловушка - Тишина Долга"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

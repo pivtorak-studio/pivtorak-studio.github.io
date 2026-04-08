@@ -1,5 +1,5 @@
 ---
-title: "Pivtorak Studio Standard"
+title: "0.01 Pivtorak Studio Standard"
 description: "A system of standards defining methodology for expert dossiers, research, and institutional documentation."
 bookCollapseSection: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: "20251210 NovaRealidade. ÍNDIA&RU-PAÍS. UniãoDeGaragem"
 weight: 1
-translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

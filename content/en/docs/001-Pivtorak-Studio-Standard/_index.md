@@ -25,28 +25,22 @@ bookCollapseSection: true
 
 <link rel="canonical" href="https://pivtorak.studio/en/docs/pivtorak-studio-standard/">
 
-# 🏛️ Pivtorak Studio Standard
-
-*An open system of methods, structures, and requirements for expert and research documentation.*
-
+# 🏛️ Pivtorak Studio Standard  
+*An open system of methods, structures, and requirements for expert and research documentation.*  
 This section defines not just internal rules.  
 It defines **how knowledge becomes a document.**
 
 ---
 
-## Principle
-
-A standard emerges where there is consistency, precision, and responsibility.
-
-Each document is part of a **coherent system of thinking and structure.**
+## Principle  
+A standard emerges where there is consistency, precision, and responsibility.  
+Each document is part of a **coherent system of thinking and structure.**  
 
 ---
 
-## Openness
-
-All standards are publicly available.
-
-They may be used by:
+## Openness  
+All standards are publicly available.  
+They may be used by:  
 – students  
 – researchers  
 – academics  
@@ -54,10 +48,8 @@ They may be used by:
 
 ---
 
-## Structure
-
-Each standard defines:
-
+## Structure  
+Each standard defines:  
 – purpose  
 – structure  
 – evidence requirements  
@@ -65,24 +57,20 @@ Each standard defines:
 
 ---
 
-## Current Standards
-
-– **PSS-01: Theological Expert Dossier**
+## Current Standards  
+– **PSS-01: Theological Expert Dossier**  
 
 ---
 
-## Role
-
-A standard is:
-
+## Role  
+A standard is:  
 – methodology  
 – quality system  
 – knowledge protocol  
 
 ---
 
-## Definition
-
+## Definition  
 **A standard is not a limitation.  
 It is a form of precision.**
 

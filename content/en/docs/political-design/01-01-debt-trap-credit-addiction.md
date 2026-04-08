@@ -1,7 +1,6 @@
 ---
 title: "01-01 Debt Trap - Credit Addiction"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

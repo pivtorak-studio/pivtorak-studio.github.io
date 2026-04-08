@@ -1,7 +1,6 @@
 ---
 title: "20251130 НоваРеальність. Україна. МирнийПлан"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -1,7 +1,6 @@
 ---
 title: "01-03 Debt Trap - Bonded Future"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -1,7 +1,6 @@
 ---
 title: "20251121 ВеличнаДисципліна. ВедмідьЄвропи"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

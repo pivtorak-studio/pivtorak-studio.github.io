@@ -1,7 +1,6 @@
 ---
 title: "006 Аксіома Єдності"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

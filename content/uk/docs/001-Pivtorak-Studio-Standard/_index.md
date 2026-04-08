@@ -1,5 +1,5 @@
 ---
-title: "Pivtorak Studio Standard"
+title: "0.01 Pivtorak Studio Standard"
 description: "Система стандартів Pivtorak Studio: методологія створення експертних досьє, досліджень та інституційних документів."
 bookCollapseSection: true
 ---

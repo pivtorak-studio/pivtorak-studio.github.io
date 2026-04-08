@@ -1,7 +1,6 @@
 ---
 title: "006 Axioma Da Unidade"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

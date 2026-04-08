@@ -1,7 +1,6 @@
 ---
 title: "01-08 Боргова пастка - Відмова В Аудиті"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -1,7 +1,6 @@
 ---
 title: "20251112 ParaQueNasceu. RU-CARNEFICINAS"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

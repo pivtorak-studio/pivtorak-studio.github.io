@@ -1,7 +1,6 @@
 ---
 title: "20251009 ПричудливыйМир. ESMÉE"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

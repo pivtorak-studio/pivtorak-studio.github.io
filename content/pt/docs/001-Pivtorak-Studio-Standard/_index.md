@@ -4,44 +4,38 @@ description: "Sistema de normas para dossiês periciais, investigação e docume
 bookCollapseSection: true
 ---
 
-# 🏛️ Pivtorak Studio Standard
-
-*Sistema aberto de normas e metodologias.*
-
----
-
-## Princípio
-
-O padrão surge da precisão e consistência.
+# 🏛️ Pivtorak Studio Standard  
+*Sistema aberto de normas e metodologias.*  
 
 ---
 
-## Abertura
+## Princípio  
+O padrão surge da precisão e consistência.  
 
-Uso livre para:
+---
+
+## Abertura  
+Uso livre para:  
 – estudantes  
 – investigadores  
 – especialistas  
 
 ---
 
-## Estrutura
-
-– objetivo  
+## Estrutura  
+– objetivo   
 – método  
 – evidência  
 – forma  
 
 ---
 
-## Normas atuais
-
+## Normas atuais  
 – PSS-01: Dossiê Teológico  
 
 ---
 
-## Definição
-
+## Definição  
 **Um padrão é uma forma de rigor.**
 
 ---

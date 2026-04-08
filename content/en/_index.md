@@ -4,7 +4,7 @@ title: "0.01"
 
 **0.01 | Pivtorak.Studio**
 
-# **A conceptual system for the formation of long-term value structures.**
+# A conceptual system for the formation of long-term value structures.
 
 ## I. System Attribution
 - **Name:** Pivtorak.Studio (est. 2023)

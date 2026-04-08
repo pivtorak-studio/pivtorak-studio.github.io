@@ -1,7 +1,6 @@
 ---
 title: "20260109 Nova Realidade. Intelecto e Responsabilidade"
 weight: 1
-translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

@@ -2,7 +2,6 @@
 title: "Design Político"
 description: "Série #PoliticalDesign: análise da política como design de sistemas. Dívida, eleições, poder e Estado reinterpretados como produto e arquitetura."
 bookCollapseSection: true
-translationKey: pivtorak-studio
 ---
 
 <script type="application/ld+json">

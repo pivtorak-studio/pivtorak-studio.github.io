@@ -1,7 +1,6 @@
 ---
 title: "01-05 Armadilha da Dívida - O Silêncio da Dívida"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -91,4 +91,6 @@ It is a form of precision.**
 *Pivtorak Studio Standard. 
 Pivtorak.Studio. 07.01.2026*
 
+---
+
 {{< section >}}

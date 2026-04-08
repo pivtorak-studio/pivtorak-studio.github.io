@@ -91,4 +91,9 @@ Pivtorak Studio Standard — це:
 
 ---
 
+*Pivtorak Studio Standard. 
+Pivtorak.Studio. 07.01.2026*
+
+---
+
 {{< section >}}

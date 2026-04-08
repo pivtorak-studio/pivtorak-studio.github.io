@@ -1,7 +1,6 @@
 ---
 title: "001 Сон как Призвание"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

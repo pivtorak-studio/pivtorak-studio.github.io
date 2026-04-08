@@ -1,7 +1,6 @@
 ---
 title: "20251112 WhatAreYouBornFor. RU-BUTCHERS"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

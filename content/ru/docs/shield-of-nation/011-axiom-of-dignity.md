@@ -1,7 +1,6 @@
 ---
 title: "011 Аксиома Достоинства"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

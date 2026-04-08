@@ -1,7 +1,6 @@
 ---
 title: "Теологія. Громадянське Прославлення. Василь Стус"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

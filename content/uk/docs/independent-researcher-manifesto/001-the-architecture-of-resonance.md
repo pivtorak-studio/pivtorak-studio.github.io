@@ -1,7 +1,7 @@
 ---
 title: "001 Архітектура Резонансу"
 weight: 1
-translationKey: pivtorak-studio
+translationKey: irm
 ---
 
 <div class="float-right">

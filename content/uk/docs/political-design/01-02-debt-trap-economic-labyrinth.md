@@ -1,7 +1,6 @@
 ---
 title: "01-02 Боргова пастка - Економічний Лабіринт"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

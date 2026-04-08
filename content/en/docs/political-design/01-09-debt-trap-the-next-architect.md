@@ -1,7 +1,6 @@
 ---
 title: "01-09 Debt Trap - The Next Architect"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

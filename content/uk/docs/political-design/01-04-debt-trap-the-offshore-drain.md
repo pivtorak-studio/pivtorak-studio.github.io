@@ -1,7 +1,6 @@
 ---
 title: "01-04 Боргова пастка - Витік Капіталу"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

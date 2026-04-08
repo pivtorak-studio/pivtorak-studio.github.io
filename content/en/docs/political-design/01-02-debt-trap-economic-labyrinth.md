@@ -1,7 +1,6 @@
 ---
 title: "01-02 Debt Trap - Economic Labyrinth"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

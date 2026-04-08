@@ -1,7 +1,6 @@
 ---
 title: "010 Axioma Da Memória"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

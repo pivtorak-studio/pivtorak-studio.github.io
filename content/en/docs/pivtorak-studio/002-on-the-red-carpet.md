@@ -1,7 +1,6 @@
 ---
 title: "002 On the Red Carpet"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

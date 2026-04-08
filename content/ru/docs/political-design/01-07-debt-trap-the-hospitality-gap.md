@@ -1,7 +1,6 @@
 ---
 title: "01-07 Долговая ловушка - Разрыв Гостеприимства"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

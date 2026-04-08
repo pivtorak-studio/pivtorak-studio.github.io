@@ -1,7 +1,6 @@
 ---
 title: "20260109 NewReality. IntellectAndResponsibility"
 weight: 1
-translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

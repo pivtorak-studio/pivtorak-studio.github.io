@@ -1,7 +1,6 @@
 ---
 title: "002 No Tapete Vermelho "
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

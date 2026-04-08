@@ -1,7 +1,6 @@
 ---
 title: "01-08 Debt Trap - Audit Denial"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

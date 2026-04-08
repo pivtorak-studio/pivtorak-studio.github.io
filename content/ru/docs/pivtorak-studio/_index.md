@@ -4,7 +4,7 @@ description: "Авторская серия о трансформации: пр�
 keywords: ["трансформация", "призвание", "личностный рост", "системы", "архитектура жизни", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
 
-images: ["/images/pivtorak-studio-01.webp"]
+images: ["/images/pivtorak-studio-03.webp"]
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/ru/docs/pivtorak-studio/">

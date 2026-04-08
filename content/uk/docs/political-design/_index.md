@@ -2,7 +2,6 @@
 title: "Політичний Дизайн"
 description: "Дослідницька серія #PoliticalDesign: політика як система, інтерфейс і архітектура рішень. Аналіз боргу, виборів, влади та держави як продукту."
 bookCollapseSection: true
-translationKey: pivtorak-studio
 ---
 
 <script type="application/ld+json">

@@ -1,7 +1,6 @@
 ---
 title: "01-03 Боргова пастка - Продане Майбутнє"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

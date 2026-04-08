@@ -1,7 +1,6 @@
 ---
 title: "20260109 НоваяРеальность. ИнтеллектИОтветственность"
 weight: 1
-translationKey: pivtorak-studio
 --- 
 
 <div class="float-right">

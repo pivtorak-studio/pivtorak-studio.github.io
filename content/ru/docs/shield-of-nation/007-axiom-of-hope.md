@@ -1,7 +1,6 @@
 ---
 title: "007 Аксиома Надежды"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

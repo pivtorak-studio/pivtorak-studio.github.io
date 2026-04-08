@@ -1,7 +1,6 @@
 ---
 title: "01-07 Боргова пастка - Розрив Гостинності"
 weight: 1
-translationKey: pivtorak-studio
 ---
 
 <div class="float-right">

@@ -24,7 +24,7 @@ description: "Відкритий стандарт формування експ�
 {{< details "📜 Приклади застосування стандарту" >}}
 
 <ul>
-  <li><a href="/uk/docs/expertise/theology-canonization-stus.md"><strong>ЕКСПЕРТНЕ ДОСЬЄ ГРОМАДЯНСЬКОГО ПРОСЛАВЛЕННЯ</strong></a></li>
+  <li><a href="/uk/docs/expertise">ЕКСПЕРТНЕ ДОСЬЄ ГРОМАДЯНСЬКОГО ПРОСЛАВЛЕННЯ</a></li>
 </ul>
 
 {{< /details >}}

@@ -90,7 +90,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "📚 Академічні Публікації" >}}
 
 <ul>
-  <li><a href="/uk/docs/Academic-Publications/"><strong>Академічні Публікації</strong></a> — Фундамент</li>
+  <li><a href="/uk/docs/Academic-Publications/"><strong>Академічні Публікації</strong></a></li>
 </ul>
 
 {{< /details >}}

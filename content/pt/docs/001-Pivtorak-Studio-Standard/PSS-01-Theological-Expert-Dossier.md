@@ -19,3 +19,12 @@ Este padrão define a arquitetura para a criação de um documento analítico pa
 * **Instituições**: Como garantia da profundidade da verificação do objeto.
 
 *PSS-01: Dossier de Especialista Teológico. Pivtorak.Studio. 07.01.2026*
+
+
+{{< details "📜 Exemplos de Aplicação do Padrão" >}}
+
+<ul>
+  <li><a href="/pt/docs/expertise">Peritagem e Atribuição</a></li>
+</ul>
+
+{{< /details >}}

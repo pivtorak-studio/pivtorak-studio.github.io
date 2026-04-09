@@ -63,4 +63,9 @@ Documento preparado para uso externo.
 
 ---
 
+*Peritagem e Atribuição. 
+Pivtorak.Studio. 07.01.2026*
+
+---
+
 {{< section >}}

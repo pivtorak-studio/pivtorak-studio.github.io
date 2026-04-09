@@ -72,7 +72,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "🏛️ Pivtorak Studio Standard" >}}
 
 <ul>
-  <li><a href="/pt/docs/001-Pivtorak-Studio-Standard/"><strong>0.01 Pivtorak Studio Standard </strong></a> — Sistema de Normas</li>
+  <li><a href="/pt/docs/001-pivtorak-studio-standard/"><strong>0.01 Pivtorak Studio Standard </strong></a> — Sistema de Normas</li>
 </ul>
 
 {{< /details >}}
@@ -90,7 +90,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "📚 Publicações Académicas" >}}
 
 <ul>
-  <li><a href="/pt/docs/Academic-Publications/"><strong>Publicações Académicas</strong></a></li>
+  <li><a href="/pt/docs/academic-publications/"><strong>Publicações Académicas</strong></a></li>
 </ul>
 
 {{< /details >}}

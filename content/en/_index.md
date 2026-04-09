@@ -81,7 +81,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "🔬 Expertise and Attribution" >}}
 
 <ul>
-  <li><a href="/en/docs/expertise/"><strong>Expertise</strong></a> — Numismatics, Jewelry Art, Fine Art, Iconography, Theology</li>
+  <li><a href="/en/docs/expertise/_index.md"><strong>Expertise</strong></a> — Numismatics, Jewelry Art, Fine Art, Iconography, Theology</li>
 </ul>
 
 {{< /details >}}
@@ -89,7 +89,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "📚 Academic Publications" >}}
 
 <ul>
-  <li><a href="/en/docs/Academic-Publications/"><strong>Academic Publications</strong></a></li>
+  <li><a href="/en/docs/Academic-Publications/_index.md"><strong>Academic Publications</strong></a></li>
 </ul>
 
 {{< /details >}}

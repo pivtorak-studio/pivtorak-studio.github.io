@@ -20,10 +20,11 @@ description: "Відкритий стандарт формування експ�
 
 *PSS-01: Теологічне Експертне Досьє. Pivtorak.Studio. 07.01.2026*
 
-## 📜 Приклад застосування стандарту:
+
+{{< details "📜 Приклади застосування стандарту" >}}
 
 <ul>
-  <li><a href="/uk/docs/expertise/theology-canonization-stus.md/">ЕКСПЕРТНЕ ДОСЬЄ ГРОМАДЯНСЬКОГО ПРОСЛАВЛЕННЯ</a></li>
+  <li><a href="/uk/docs/expertise/theology-canonization-stus.md"><strong>ЕКСПЕРТНЕ ДОСЬЄ ГРОМАДЯНСЬКОГО ПРОСЛАВЛЕННЯ</strong></a></li>
 </ul>
 
-> **Приклад застосування стандарту:** > [ЕКСПЕРТНЕ ДОСЬЄ ГРОМАДЯНСЬКОГО ПРОСЛАВЛЕННЯ]({{< relref "uk/docs/expertise/theology-canonization-stus.md" >}})
+{{< /details >}}

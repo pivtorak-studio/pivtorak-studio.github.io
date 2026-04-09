@@ -38,5 +38,5 @@ Décadas depois, um perito trabalhará não com o material, mas com uma Trajetó
 *Investigadora Independente. Sistemas de Significado, Governação e Ativos de Longo Prazo. 18.03.2026*
 
 ---
-**Alt-text:**
+**Alt-text:**  
 Uma composição geométrica de energia pura: um tetraedro transparente com arestas azuis brilhantes inscrito num cubo prateado, onde as arestas do tetraedro coincidem com as diagonais das faces do cubo. Dentro do tetraedro encontra-se um octaedro azul escuro. Os números 3, 3, 6 estão gravados nas faces do cubo. A composição situa-se num espaço escuro trespassado por vetores de força, simbolizando a estruturação do caos e a continuidade da energia através das gerações.

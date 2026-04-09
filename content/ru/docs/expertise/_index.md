@@ -45,4 +45,9 @@ bookCollapseSection: true
 
 ---
 
+*Экспертиза и Атрибуция. 
+Pivtorak.Studio. 07.01.2026*
+
+---
+
 {{< section >}}

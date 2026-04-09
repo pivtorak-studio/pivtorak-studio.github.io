@@ -19,3 +19,12 @@ This standard defines the architecture for creating an analytical document for o
 * **Institutions**: As a guarantee of the depth of object verification.
 
 *PSS-01: Theological Expert Dossier. Pivtorak.Studio. 07.01.2026*
+
+
+{{< details "📜 Standard Application Examples" >}}
+
+<ul>
+  <li><a href="/en/docs/expertise">Expertise & Attribution</a></li>
+</ul>
+
+{{< /details >}}

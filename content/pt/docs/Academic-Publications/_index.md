@@ -42,10 +42,14 @@ Constituem um corpo académico coerente que pode ser reinterpretado e expandido 
 
 ---
 ## 🧩 Estrutura  
-### I. Fundamentos Teóricos e Metodológicos    
+### I. Fundamentos Teóricos e Metodológicos 
+Estruturas conceptuais para analisar os mercados de trabalho e definir as categorias principais.
 ### II. Mecanismos de Regulação Institucional    
-### III. Processos de Transformação   
+Política estatal, instrumentos económico-organizacionais e modelos de governação.
+### III. Processos de Transformação 
+Mudanças impulsionadas por dinâmicas demográficas, económicas e sociais.
 ### IV. Dimensão Territorial  
+Características específicas dos mercados de trabalho nas zonas rurais e desenvolvimento regional.
 
 ---
 ## 🌍 Potencial de Desenvolvimento  

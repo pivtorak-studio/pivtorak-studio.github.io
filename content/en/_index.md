@@ -72,7 +72,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "🏛️ Pivtorak Studio Standard" >}}
 
 <ul>
-  <li><a href="/en/docs/001-Pivtorak-Studio-Standard/"><strong>0.01 Pivtorak Studio Standard </strong></a> — A system of standards</li>
+  <li><a href="/en/docs/001-Pivtorak-Studio-Standard/"><strong>0.01 Pivtorak Studio Standard</strong></a> — A system of standards</li>
 </ul>
 
 {{< /details >}}

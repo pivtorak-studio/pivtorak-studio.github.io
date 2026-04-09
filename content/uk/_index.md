@@ -68,6 +68,7 @@ Pivtorak.Studio. 16.07.2023*
 
 {{< /details >}}
 
+
 {{< details "🏛️ Pivtorak Studio Standard" >}}
 
 <ul>
@@ -76,13 +77,15 @@ Pivtorak.Studio. 16.07.2023*
 
 {{< /details >}}
 
-{{< /details >}}
 
 {{< details "🔬 Експертиза та Атрибуція" >}}
 
 <ul>
   <li><a href="/uk/docs/expertise/"><strong>Експертиза та Атрибуція</strong></a> — Нумізматика, ювелірне мистецтво, іконопис, теологія</li>
 </ul>
+
+{{< /details >}}
+
 
 {{< details "📚 Академічні Публікації" >}}
 

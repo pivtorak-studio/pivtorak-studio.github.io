@@ -18,3 +18,4 @@ This standard defines the architecture for creating an analytical document for o
 * **Students**: As a benchmark structure for academic work.
 * **Institutions**: As a guarantee of the depth of object verification.
 
+*PSS-01: Theological Expert Dossier. Pivtorak.Studio. 07.01.2026*

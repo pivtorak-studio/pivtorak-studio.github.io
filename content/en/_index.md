@@ -68,10 +68,28 @@ Pivtorak.Studio. 16.07.2023*
 
 {{< /details >}}
 
+
+{{< details "🏛️ Pivtorak Studio Standard" >}}
+
+<ul>
+  <li><a href="/en/docs/001-Pivtorak-Studio-Standard/"><strong>0.01 Pivtorak Studio Standard </strong></a> — A system of standards</li>
+</ul>
+
+{{< /details >}}
+
+
 {{< details "🔬 Expertise and Attribution" >}}
 
 <ul>
-  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Numismatics, Jewelry, Iconography, Theology</li>
+  <li><a href="/en/docs/expertise/"><strong>Expertise</strong></a> — Numismatics, Jewelry Art, Fine Art, Iconography, Theology</li>
+</ul>
+
+{{< /details >}}
+
+{{< details "📚 Academic Publications" >}}
+
+<ul>
+  <li><a href="/en/docs/Academic-Publications/"><strong>Academic Publications</strong></a></li>
 </ul>
 
 {{< /details >}}

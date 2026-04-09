@@ -56,22 +56,38 @@ Pivtorak.Studio. 16.07.2023*
 
 ## 🔍 Навігатор по архівах
 
-{{< details "📂 Серії досліджень" >}}
+{{< details "📂 Серії Досліджень" >}}
 
 <ul>
-  <li><a href="/docs/pivtorak-studio/">Pivtorak.Studio</a></li>
-  <li><a href="/docs/independent-researcher-manifesto/">Маніфест Дослідника</a></li>
-  <li><a href="/docs/shield-of-nation/">Щит Нації</a></li>
-  <li><a href="/docs/political-design/">Політичний Дизайн</a></li>
-  <li><a href="/docs/process-diary/">Щоденник Процесу</a></li>
+  <li><a href="/uk/docs/pivtorak-studio/">Pivtorak.Studio</a></li>
+  <li><a href="/uk/docs/independent-researcher-manifesto/">Маніфест Дослідника</a></li>
+  <li><a href="/uk/docs/shield-of-nation/">Щит Нації</a></li>
+  <li><a href="/uk/docs/political-design/">Політичний Дизайн</a></li>
+  <li><a href="/uk/docs/process-diary/">Щоденник Процесу</a></li>
 </ul>
+
+{{< /details >}}
+
+{{< details "🏛️ Pivtorak Studio Standard" >}}
+
+<ul>
+  <li><a href="/uk/docs/001-Pivtorak-Studio-Standard/"><strong>0.01 Pivtorak Studio Standard </strong></a> — Система стандартів</li>
+</ul>
+
+{{< /details >}}
 
 {{< /details >}}
 
 {{< details "🔬 Експертиза та Атрибуція" >}}
 
 <ul>
-  <li><a href="/docs/expertise/"><strong>Expertise</strong></a> — Нумізматика, ювелірне мистецтво, іконопис, теологія</li>
+  <li><a href="/uk/docs/expertise/"><strong>Експертиза та Атрибуція</strong></a> — Нумізматика, ювелірне мистецтво, іконопис, теологія</li>
+</ul>
+
+{{< details "📚 Академічні Публікації" >}}
+
+<ul>
+  <li><a href="/uk/docs/Academic-Publications/"><strong>Expertise</strong></a> — Фундамент</li>
 </ul>
 
 {{< /details >}}

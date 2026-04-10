@@ -2,6 +2,7 @@
 title: "📚 Academic Publications"
 description: "Academic research by Anna Pivtorak in labour economics, demography, social policy, and territorial development. A foundation for further interdisciplinary research."
 bookCollapseSection: true
+weight: 30
 ---
 
 <script type="application/ld+json">

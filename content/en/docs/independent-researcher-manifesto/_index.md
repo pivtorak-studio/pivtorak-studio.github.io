@@ -1,7 +1,8 @@
 ---
-title: "Independent Researcher Manifesto"
+title: "📃 Independent Researcher Manifesto"
 description: "A series of documents defining the methodology of the Independent Researcher: systems thinking, architecture of meaning, and long-term value models."
 bookCollapseSection: true
+weight: 40
 ---
 
 <script type="application/ld+json">

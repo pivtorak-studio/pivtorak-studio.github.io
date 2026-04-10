@@ -34,6 +34,7 @@ Esmée is not a hero or a guide.
 She is a **presence** in which illusion can no longer survive.
 
 **Series structure:**  
+
 * I. **The Arrival** — three foundational scenes:  
   * “She arrived. And that is enough.”  
   * “Where she steps, flowers grow.”  

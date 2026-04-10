@@ -1,7 +1,8 @@
 ---
-title: "Manifesto do Investigador Independente"
+title: "📃 Manifesto do Investigador Independente"
 description: "Série de documentos que definem a metodologia do Investigador Independente: pensamento sistémico, arquitetura de sentido e modelos de valor a longo prazo."
 bookCollapseSection: true
+weight: 40
 ---
 
 <script type="application/ld+json">

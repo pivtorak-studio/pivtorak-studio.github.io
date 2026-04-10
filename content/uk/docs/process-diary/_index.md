@@ -2,7 +2,7 @@
 title: "🧭 Щоденник Процесу"
 description: "Серія #ProcessDiary: фіксація дослідницького процесу, рішень, помилок і трансформацій як основа довготривалого провенансу."
 bookCollapseSection: true
-weight: 50
+weight: 70
 ---
 
 <script type="application/ld+json">

@@ -2,7 +2,7 @@
 title: "🔬 Peritagem e Atribuição"
 description: "Peritagem profissional e atribuição de objetos culturais e artísticos. Criação de dossiês completos para bancos, leilões e instituições."
 bookCollapseSection: true
-weight: 10
+weight: 20
 ---
 
 # 🔬 Peritagem e Atribuição

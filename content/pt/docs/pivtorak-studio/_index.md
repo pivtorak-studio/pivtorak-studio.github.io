@@ -1,5 +1,5 @@
 ---
-title: "Pivtorak.Studio — A Fórmula da Transformação"
+title: "🪙 Pivtorak.Studio — A Fórmula da Transformação"
 description: "Série autoral sobre transformação: vocação, saída de sistemas antigos e construção de uma nova arquitetura de vida."
 keywords: ["transformação", "vocação", "desenvolvimento pessoal", "sistemas", "arquitetura de vida", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true

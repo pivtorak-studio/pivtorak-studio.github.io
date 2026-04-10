@@ -1,5 +1,5 @@
 ---
-title: "Publicações Académicas"
+title: "📚 Publicações Académicas"
 description: "Investigação académica de Anna Pivtorak nas áreas de economia do trabalho, demografia, políticas sociais e desenvolvimento territorial."
 bookCollapseSection: true
 ---

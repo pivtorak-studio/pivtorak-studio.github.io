@@ -1,7 +1,8 @@
 ---
-title: "Дневник Процесса"
+title: "🧭 Дневник Процесса"
 description: "Серия #ProcessDiary: фиксация исследовательского процесса, решений, ошибок и трансформаций как основа долгосрочного провенанса."
 bookCollapseSection: true
+weight: 50
 ---
 
 <script type="application/ld+json">

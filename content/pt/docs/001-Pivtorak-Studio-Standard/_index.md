@@ -1,7 +1,8 @@
 ---
-title: "0.01 Pivtorak Studio Standard"
+title: "🏛️ Pivtorak Studio Standard"
 description: "Sistema de normas para dossiês periciais, investigação e documentação institucional."
 bookCollapseSection: true
+weight: 10
 ---
 
 # 🏛️ Pivtorak Studio Standard  

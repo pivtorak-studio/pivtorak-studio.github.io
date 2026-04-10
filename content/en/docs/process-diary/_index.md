@@ -2,7 +2,7 @@
 title: "🧭 Process Diary"
 description: "Series #ProcessDiary: documentation of research process, decisions, errors, and transformations as the foundation of long-term provenance."
 bookCollapseSection: true
-weight: 50
+weight: 70
 ---
 
 <script type="application/ld+json">

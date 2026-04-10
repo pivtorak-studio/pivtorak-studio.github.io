@@ -2,7 +2,7 @@
 title: "🔬 Expertise & Attribution"
 description: "Professional expertise and attribution of cultural and art objects. Full-scale dossier creation for banks, auctions, and institutions."
 bookCollapseSection: true
-weight: 10
+weight: 20
 ---
 
 <script type="application/ld+json">

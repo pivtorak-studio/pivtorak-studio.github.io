@@ -1,11 +1,12 @@
 ---
-title: "Pivtorak.Studio — Формула трансформації"
+title: "🪙 Pivtorak.Studio — Формула трансформації"
 description: "Авторська серія про трансформацію: покликання, вихід зі старої системи та створення нової архітектури життя."
 keywords: ["трансформація", "покликання", "особистісний розвиток", "система", "архітектура життя", "Pivtorak Studio", "Anna Pivtorak"]
 bookCollapseSection: true
+weight: 60
 
 # OpenGraph
-images: ["/images/pivtorak-studio-01.webp"]
+images: ["/images/pivtorak-studio-logo.webp"]
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">

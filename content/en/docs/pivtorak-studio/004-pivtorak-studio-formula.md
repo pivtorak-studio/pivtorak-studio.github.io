@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![Формула Pivtorak.Studio](/images/pivtorak-studio-logo.webp)
+![Pivtorak.Studio Formula](/images/pivtorak-studio-logo.webp)
 
 </div>
 

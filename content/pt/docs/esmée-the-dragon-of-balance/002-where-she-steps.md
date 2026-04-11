@@ -9,7 +9,7 @@ weight: 1
 
 </div>
 
-✨ MundoCaprichoso
+**✨ MundoCaprichoso**
 # 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores.
 *Ela não salva. Ela semeia.*
 

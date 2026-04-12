@@ -6,7 +6,7 @@ weight: 1
 
 <div class="float-right">
 
-![Право на Творчість](/images/independent-researcher-manifesto-003-the-right-to-creativity-pivtorak-studi-2026.webp)
+![Право на Творчість](/images/independent-researcher-manifesto-003-the-right-to-creativity-pivtorak-studio-2026.webp)
 
 </div>
 

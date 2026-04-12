@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow](/images/whimsical-world-esmée-002-where-she-steps-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
 
 </div>
 

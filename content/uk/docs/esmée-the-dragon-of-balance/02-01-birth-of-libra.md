@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![🐉⚖️ ESMÉE. 🌀 Народження Ваги](/images/whimsical-world-esmée-004_birth-of-libra-pivtorakstudio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Народження Ваги](/images/whimsical-world-esmée-02-01_birth-of-libra-pivtorakstudio-2025.webp)
 
 </div>
 

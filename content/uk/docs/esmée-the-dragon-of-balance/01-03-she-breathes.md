@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється](/images/whimsical-world-esmée-003-she-breathes-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
 
 </div>
 

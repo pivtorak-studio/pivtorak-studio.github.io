@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![🐉⚖️ ESMÉE. 📍She arrived. And that is enough](/images/whimsical-world-esmée-001-she-arrived-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 📍She arrived. And that is enough](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
 
 </div>
 

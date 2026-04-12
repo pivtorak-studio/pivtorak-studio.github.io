@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece](/images/whimsical-world-esmée-003-she-breathes-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
 
 </div>
 

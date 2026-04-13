@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги](/images/whimsical-world-esmée-02-01-discipline-of-balance-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
 
 </div>
 

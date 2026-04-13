@@ -25,4 +25,4 @@ Esmée стоїть на вітрі, з розправленими крилам�
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #DisciplineOfBalance #InnerStrength #CalmPower #HarmonyInMotion #Pivtorak #CreativeMyth #AirAndFire #LivingDiscipline #Balance #GraceInControl #MajesticCalm
 
-_Esmée 🐉⚖️. Pivtorak.Studio. Дисципліна Рівноваги. 09.10.2025_  
+_🐉⚖️ ESMÉE. Pivtorak.Studio. Дисципліна Рівноваги. 09.10.2025_  

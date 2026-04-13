@@ -43,5 +43,5 @@ I do not create objects for consumption. I design systems that change the way of
 **Anna Pivtorak**
 *Independent Researcher. Architect of Meaning Systems, Influence Structures, and Cognitive Models. 12.04.2026*
 
-**Alt-text:**
+**Alt-text:**  
 A high-tech cybernetic composition on a deep Midnight Blue background. At the center lies a transparent tetrahedron with glowing edges, acting as the source of cognitive energy. Around it, a cold platinum cybernetic matrix forms with 9 nodes (9 Manifesto points). From the center of this matrix, cybernetic lines transform into the fluid, living contours of a European-style Dragon of Balance (Esmée). Its scales are materialized architectural blueprints and codes. A soft amber light emanates from the dragon's eyes, symbolizing the presence of creativity that breathes life into the structure. A symbol of "The Right to Creativity": the transition from analysis to living cognitive modeling.

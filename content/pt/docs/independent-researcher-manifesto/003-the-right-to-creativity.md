@@ -42,5 +42,5 @@ Não crio objetos para consumo. Projeto sistemas que alteram o modo de pensar. O
 **Anna Pivtorak**
 *Investigadora Independente. Arquiteta de Sistemas de Significado, Estruturas de Influência e Modelos Cognitivos. 12.04.2026* 
 
-**Alt-text:**
+**Alt-text:**  
 Uma composição cibernética de alta tecnologia sobre um fundo Midnight Blue profundo. No centro, jaz um tetraedro transparente com arestas brilhantes, atuando como fonte de energia cognitiva. Ao seu redor, forma-se uma matriz cibernética de platina fria com 9 nós (9 pontos do Manifesto). Do centro desta matriz, linhas cibernéticas transformam-se nos contornos fluídos e vivos de um Dragão do Equilíbrio de estilo europeu (Esmée). As suas escamas são plantas arquitetónicas e códigos materializados. Uma luz âmbar suave emana dos olhos do dragão, simbolizando a presença da criatividade que insufla vida na estrutura. Um símbolo do "Direito à Criatividade": a transição da análise para a modelação cognitiva viva.

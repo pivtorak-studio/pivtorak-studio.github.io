@@ -32,6 +32,15 @@ Não crio nem preservo objetos para o presente. Introduzo-os num Continuum. Cada
 - **Interpretação:** A tensão intelectual que o objeto mantém ao seu redor.
 - **Silêncio:** O espaço entre eventos onde o valor futuro amadurece.
 
+## 7. Filtragem: A Matemática da Escolha ($\forall, \exists$)  
+A ressonância é impossível sem seleção. Utilizando a linguagem da lógica matemática, introduzo quantificadores na análise de valor: **$\forall$ (para todos)** — as regras gerais do mercado, e **$\exists$ (existe)** — um objeto único que cria um precedente. A minha tarefa é identificar esse elemento singular ($\exists$) que altera as propriedades de todo o conjunto. É aqui que a perícia atinge a precisão matemática.
+
+## 8. Transfronteirismo: O Protocolo (Scanning Global)
+A verdadeira ressonância não conhece fronteiras estatais. Os projetos (passaportes, digitalização global) são símbolos da mobilidade de sentidos. Eu projeto valor que permanece válido em qualquer jurisdição: das bolsas de diamantes da Índia às instituições académicas europeias. Trata-se da criação de um "passaporte intelectual" para ativos que exigem legalização num contexto global.
+
+## 9. Consequência: Capitalização do Não-Óbvio
+O objetivo final da Ressonância é transformar o "invisível" (ideia, história, contexto) em algo "altamente líquido". Quando uma estrutura vibra corretamente, o valor de um objeto deixa de depender do material e passa a depender da profundidade do seu envolvimento num sistema de significados. Eu não apenas investigo o valor — eu ativo o mecanismo do seu crescimento inevitável através da arquitetura de campos ressonantes.  
+
 Décadas depois, um perito trabalhará não com o material, mas com uma Trajetória. Os meus herdeiros receberão não apenas coisas, mas um sistema de coordenadas onde cada artefacto é um nó numa rede global de significados. Não estou a construir uma coleção — estou a lançar um vetor de força que atravessa gerações.
 
 **Anna Pivtorak**  

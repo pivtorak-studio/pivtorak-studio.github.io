@@ -32,8 +32,8 @@ Não crio nem preservo objetos para o presente. Introduzo-os num Continuum. Cada
 - **Interpretação:** A tensão intelectual que o objeto mantém ao seu redor.
 - **Silêncio:** O espaço entre eventos onde o valor futuro amadurece.
 
-## 7. Filtragem: A Matemática da Escolha ($\forall, \exists$)  
-A ressonância é impossível sem seleção. Utilizando a linguagem da lógica matemática, introduzo quantificadores na análise de valor: **$\forall$ (para todos)** — as regras gerais do mercado, e **$\exists$ (existe)** — um objeto único que cria um precedente. A minha tarefa é identificar esse elemento singular ($\exists$) que altera as propriedades de todo o conjunto. É aqui que a perícia atinge a precisão matemática.
+## 7. Filtragem: A Matemática da Escolha (∀, ∃) 
+A ressonância é impossível sem seleção. Utilizando a linguagem da lógica matemática, introduzo quantificadores na análise de valor: **∀** (para todos) — as regras gerais do mercado, e **∃** (existe) — um objeto único que cria um precedente. A minha tarefa é identificar esse elemento singular (**∃**) que altera as propriedades de todo o conjunto. É aqui que a perícia atinge a precisão matemática.
 
 ## 8. Transfronteirismo: O Protocolo (Scanning Global)
 A verdadeira ressonância não conhece fronteiras estatais. Os projetos (passaportes, digitalização global) são símbolos da mobilidade de sentidos. Eu projeto valor que permanece válido em qualquer jurisdição: das bolsas de diamantes da Índia às instituições académicas europeias. Trata-se da criação de um "passaporte intelectual" para ativos que exigem legalização num contexto global.

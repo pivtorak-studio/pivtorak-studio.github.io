@@ -69,7 +69,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< /details >}}
 
 
-{{< details "🜂 Смислові Конструкції" >}}
+{{< details "🜂 Meaning Constructs" >}}
 
 <ul>
   <li><a href="/en/docs/esmée-the-dragon-of-balance/">ESMÉE — The Dragon of Balance</a></li>

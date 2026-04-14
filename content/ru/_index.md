@@ -79,6 +79,15 @@ Pivtorak.Studio. 16.07.2023*
 {{< /details >}}
 
 
+{{< details "∀ ◉ ∃ Архитектура Ценности" >}}
+
+<ul>
+  <li><a href="/ru/docs/001-pivtorak-studio-standard/"><strong>∀ ◉ ∃ Архитектура Ценности</strong></a> — Протоколы конструирования стоимости, контекста и будущих активов</li>
+</ul>
+
+{{< /details >}}
+
+
 {{< details "🜂 Смысловые Конструкции" >}}
 
 <ul>

@@ -87,6 +87,15 @@ Pivtorak.Studio. 16.07.2023*
 {{< /details >}}
 
 
+{{< details "∀ ◉ ∃ Arquitetura de Valor" >}}
+
+<ul>
+  <li><a href="/pt/docs/architecture-of-value/"><strong>∀ ◉ ∃ Arquitetura de Valor</strong></a> — Protocolos para a construção de valor, contexto e ativos futuros.</li>
+</ul>
+
+{{< /details >}}
+
+
 {{< details "🔬 Peritagem e Atribuição" >}}
 
 <ul>

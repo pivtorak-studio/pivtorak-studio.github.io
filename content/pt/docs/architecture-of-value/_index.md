@@ -35,7 +35,7 @@ Cada protocolo funciona como um módulo que descreve como o valor emerge, se est
 **Princípio base:**
 > O valor não existe fora do contexto. O contexto não é dado — é construído.
 
-## Estrutura  
+**Estrutura**  
 
 * I. **Value Construction Protocol** — arquitetura do contexto e base axiológica  
 * II. **Provenance Engineering** — transformar arquivos em ativos  

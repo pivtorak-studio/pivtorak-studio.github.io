@@ -37,7 +37,7 @@ Structure defines not only space but also pace. Slow systems defeat fast ones if
 ## 8. Resonance Energy    
 A structure without tension is merely a diagram. A true system feeds on the resonance between an idea and its realization. I create such a density of meaning that reality begins to synchronize with my rhythm.
 
-## 9. Consequence (Sovereignty)  
+## 9. Consequence: Sovereignty  
 I do not enter existing systems. I create conditions in which others begin to enter them. I do not ask for a seat at the table — I design the space where the table appears.
 
 **Anna Pivtorak**  

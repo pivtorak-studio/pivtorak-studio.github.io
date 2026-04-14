@@ -2,6 +2,7 @@
 title: "∀ ◉ ∃ Arquitetura de Valor"
 description: "Série de investigação #ArchitectureOfValue: protocolos para a construção de valor, contexto e ativos futuros."
 bookCollapseSection: true
+weight: 15
 ---
 
 <script type="application/ld+json">

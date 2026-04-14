@@ -35,7 +35,7 @@ Each protocol functions as a modular system describing how value emerges, stabil
 **Core principle:**
 > Value does not exist outside of context. Context is not given — it is constructed.
 
-## Structure
+**Structure**
 
 * I. **Value Construction Protocol** — context architecture and axiomatic foundation  
 * II. **Provenance Engineering** — transforming archives into assets  

@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено](/images/whimsical-world-esmée-02-05-released-phantoms-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
 
 </div>
 

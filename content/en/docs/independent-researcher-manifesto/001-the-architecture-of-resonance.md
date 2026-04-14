@@ -32,6 +32,15 @@ I do not create or preserve objects for the present. I introduce them into a Con
 - **Interpretation:** The intellectual tension that the object holds around itself.
 - **Silence:** The space between events where future value matures.
 
+## 7. Filtration: The Mathematics of Choice ($\forall, \exists$)
+Resonance is impossible without selection. Using the language of mathematical logic, I introduce quantifiers into value analysis: **$\forall$ (for all)** — general market rules, and **$\exists$ (there exists)** — a unique object that creates a precedent. My task is to identify that singular element ($\exists$) that alters the properties of the entire set. This is where expertise attains mathematical precision.
+
+## 8. Transboundariness: (Global Scanning)
+True resonance knows no state borders. The projects (passports, global scanning) serve as symbols of the mobility of meanings. I design value that remains valid in any jurisdiction: from India’s diamond exchanges to European academic institutions. This is the creation of an "intellectual passport" for assets requiring legalization within a global context.
+
+## 9. Consequence: Capitalization of the Non-Obvious
+The ultimate goal of Resonance is to transform the "invisible" (idea, history, context) into the "highly liquid." When a structure vibrates correctly, an object's value ceases to depend on its material and begins to depend on the depth of its engagement within a system of meanings. I do not merely research value—I trigger the mechanism of its inevitable growth through the architecture of resonating fields.
+
 Decades later, an expert will work not with material, but with a Trajectory. My heirs will receive not just things, but a coordinate system where every artifact is a node in a global network of meanings. I am not building a collection — I am launching a vector of force that pierces through generations.
 
 **Anna Pivtorak**  

@@ -81,7 +81,15 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "🏛️ Pivtorak Studio Standard" >}}
 
 <ul>
-  <li><a href="/uk/docs/001-pivtorak-studio-standard/"><strong>0.01 Pivtorak Studio Standard </strong></a> — Система стандартів</li>
+  <li><a href="/uk/docs/001-pivtorak-studio-standard/"><strong>0.01 Pivtorak Studio Standard</strong></a> — Система стандартів</li>
+</ul>
+
+{{< /details >}}
+
+{{< details "∀ ◉ ∃ Архітектура Цінностей" >}}
+
+<ul>
+  <li><a href="/uk/docs/architecture-of-value/"><strong>∀ ◉ ∃ Архітектура Цінностей</strong></a> — Протоколи конструювання вартості, контексту та майбутніх активів</li>
 </ul>
 
 {{< /details >}}

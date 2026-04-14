@@ -69,6 +69,15 @@ Pivtorak.Studio. 16.07.2023*
 {{< /details >}}
 
 
+{{< details "🜂 Смислові Конструкції" >}}
+
+<ul>
+  <li><a href="/uk/docs/esmée-the-dragon-of-balance/">🐉⚖️ ESMÉE — Дракон Рівноваги</a></li>
+</ul>
+
+{{< /details >}}
+
+
 {{< details "🏛️ Pivtorak Studio Standard" >}}
 
 <ul>

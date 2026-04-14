@@ -32,8 +32,8 @@ I do not create or preserve objects for the present. I introduce them into a Con
 - **Interpretation:** The intellectual tension that the object holds around itself.
 - **Silence:** The space between events where future value matures.
 
-## 7. Filtration: The Mathematics of Choice ($\forall, \exists$)
-Resonance is impossible without selection. Using the language of mathematical logic, I introduce quantifiers into value analysis: **$\forall$ (for all)** — general market rules, and **$\exists$ (there exists)** — a unique object that creates a precedent. My task is to identify that singular element ($\exists$) that alters the properties of the entire set. This is where expertise attains mathematical precision.
+## 7. Filtration: The Mathematics of Choice (∀, ∃) 
+Resonance is impossible without selection. Using the language of mathematical logic, I introduce quantifiers into value analysis: **∀** (for all) — general market rules, and **∃** (there exists) — a unique object that creates a precedent. My task is to identify that singular element (**∃**) that alters the properties of the entire set. This is where expertise attains mathematical precision.
 
 ## 8. Transboundariness: (Global Scanning)
 True resonance knows no state borders. The projects (passports, global scanning) serve as symbols of the mobility of meanings. I design value that remains valid in any jurisdiction: from India’s diamond exchanges to European academic institutions. This is the creation of an "intellectual passport" for assets requiring legalization within a global context.

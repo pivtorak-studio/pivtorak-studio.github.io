@@ -2,6 +2,7 @@
 title: "∀ ◉ ∃  Архітектура Цінностей"
 description: "Дослідницька серія #ArchitectureOfValue: протоколи конструювання вартості, контексту та майбутніх активів."
 bookCollapseSection: true
+weight: 15
 ---
 
 <script type="application/ld+json">
@@ -34,7 +35,7 @@ bookCollapseSection: true
 **Базовий принцип:**
 > Вартість не існує поза контекстом. Контекст не даний — він створюється.
 
-## **Структура серії**  
+## Структура  
 
 * I. **Value Construction Protocol** — Архітектура контексту та базова аксіоматика цінності  
 * II. **Provenance Engineering** — перетворення архіву в актив  

@@ -86,6 +86,13 @@ Pivtorak.Studio. 16.07.2023*
 
 {{< /details >}}
 
+{{< details "∀ ◉ ∃ Architecture of Value" >}}
+
+<ul>
+  <li><a href="/uk/docs/architecture-of-value/"><strong>∀ ◉ ∃ Architecture of Value</strong></a> — Formalizing context, passportization, and future asset design</li>
+</ul>
+
+{{< /details >}}
 
 {{< details "🔬 Expertise and Attribution" >}}
 

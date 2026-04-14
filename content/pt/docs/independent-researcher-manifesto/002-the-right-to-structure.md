@@ -36,7 +36,7 @@ A estrutura define não apenas o espaço, mas também o ritmo. Sistemas lentos v
 ## 8. Energia de Ressonância  
 Uma estrutura sem tensão é apenas um diagrama. Um sistema verdadeiro alimenta-se da ressonância entre a ideia e a sua realização. Crio uma densidade de significado tal que a realidade começa a sincronizar-se com o meu ritmo.
 
-## 9. Consequência (Soberania)  
+## 9. Consequência: Soberania    
 Eu não entro em sistemas existentes. Crio condições nas quais outros começam a entrar neles. Não peço um lugar à mesa — projeto o espaço onde essa mesa aparece.
 
 **Anna Pivtorak**  

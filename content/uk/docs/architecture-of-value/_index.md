@@ -1,5 +1,5 @@
 ---
-title: "∀ ◉ ∃  Архітектура Цінностей"
+title: "∀ ◉ ∃  Архітектура Цінності"
 description: "Дослідницька серія #ArchitectureOfValue: протоколи конструювання вартості, контексту та майбутніх активів."
 bookCollapseSection: true
 weight: 15
@@ -9,7 +9,7 @@ weight: 15
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "#ArchitectureOfValue — Архітектура Цінностей",
+  "name": "#ArchitectureOfValue — Архітектура Цінності",
   "description": "Дослідницька серія про конструювання вартості як системного процесу. Формалізація контексту, паспортизації та створення майбутніх активів.",
   "inLanguage": "uk",
   "isPartOf": {
@@ -26,7 +26,7 @@ weight: 15
 
 <link rel="canonical" href="https://pivtorak.studio/docs/architecture-of-value/">
 
-# ∀ ◉ ∃ Архітектура Цінностей  
+# ∀ ◉ ∃ Архітектура Цінності  
 *#ArchitectureOfValue — це дослідницька та прикладна серія, присвячена конструюванню вартості як архітектурної системи.*
 
 Ця серія розглядає вартість не як властивість об’єкта, а як результат спроєктованого контексту.  

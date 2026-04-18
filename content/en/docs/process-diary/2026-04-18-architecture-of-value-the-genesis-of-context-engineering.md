@@ -32,7 +32,7 @@ The emergence of the "Context Architecture" concept. Transitioning from market o
 Birth of the text: **"Context Engineering in Value Construction: An Architectural and Mathematical-Logical Model for Cultural and Jewelry Assets"**.
 
 - **Key equation:** 
-**V_total = f(M, T, C, A)**
+**V_total = f(M, T, C, A)**  
 where Context (C) and Authorship (A) become controllable factors.
 
 ## 6. Validation: The Dream with the Scientist Father and the "Heavy Meanings" Metaphor 

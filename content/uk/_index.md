@@ -89,7 +89,7 @@ Pivtorak.Studio. 16.07.2023*
 {{< details "∀ ◉ ∃ Архітектура Цінності" >}}
 
 <ul>
-  <li><a href="/uk/docs/architecture-of-value/"><strong>∀ ◉ ∃ Архітектура Цінностей</strong></a> — Протоколи конструювання вартості, контексту та майбутніх активів</li>
+  <li><a href="/uk/docs/architecture-of-value/"><strong>∀ ◉ ∃ Архітектура Цінності</strong></a> — Протоколи конструювання вартості, контексту та майбутніх активів</li>
 </ul>
 
 {{< /details >}}

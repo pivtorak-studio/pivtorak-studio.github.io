@@ -32,7 +32,7 @@ A emergência do conceito de "Arquitetura de Contexto". Transição da observaç
 Nascimento do texto: **"Engenharia de Contexto na Construção de Valor: Um Modelo Arquitetónico e Matemático-Lógico para Ativos Culturais e de Joalharia"**.
 
 - **Equação-chave:** 
-**V_total = f(M, T, C, A)**
+**V_total = f(M, T, C, A)**  
 onde o Contexto (C) e a Autoria (A) tornam-se fatores controláveis.
 
 ## 6. Validação: O Sonho com o Pai Cientista e a Metáfora dos "Sentidos Pesados" 

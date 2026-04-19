@@ -2,6 +2,12 @@
 title: "0.01"
 ---
 
+<div class="float-right">
+
+![A conceptual system for the formation of long-term value structures](/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp)
+
+</div>
+
 **0.01 | Pivtorak.Studio**
 
 # A conceptual system for the formation of long-term value structures.

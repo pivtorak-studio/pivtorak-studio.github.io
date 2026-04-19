@@ -20,7 +20,7 @@ The process began not with formulas, but with a metaphysical confirmation. A dre
 ## 2. Foundation: Quantifiers, Calculus, and the Magic of Logic  
 Returning to the roots — notes on economic cybernetics. Recalling a calculus professor who "breathed" theorems, dictating proofs from memory.
 
-- **Decision:** Use the language of formal logic (quantifiers $\forall$ and $\exists$) to move expert judgment from the plane of "subjective impression" to the plane of "verified proof" .
+- **Decision:** Use the language of formal logic (quantifiers ∀ and ∃) to move expert judgment from the plane of "subjective impression" to the plane of "verified proof" .
 
 ## 3. Synthesis: Art History & Expertise   
 Combining cybernetic thinking with a subtle analysis of art objects. The realization that the material component (M) is only part of the equation, while true capitalization occurs through the management of the semantic field .
@@ -31,9 +31,9 @@ The emergence of the "Context Architecture" concept. Transitioning from market o
 ## 5. Formalization: Research Paper 
 Birth of the text: **"Context Engineering in Value Construction: An Architectural and Mathematical-Logical Model for Cultural and Jewelry Assets"**.
 
-- **Key equation:** 
-**V_total = f(M, T, C, A)**  
-where Context (C) and Authorship (A) become controllable factors.
+- **Key equation:**   
+**V_total = f(M, T, C, A)**     
+where Context (C) and Authorship (A) become controllable factors.   
 
 ## 6. Validation: The Dream with the Scientist Father and the "Heavy Meanings" Metaphor 
 This stage became a symbolic conclusion of the internal work, splitting into two distinct lines:

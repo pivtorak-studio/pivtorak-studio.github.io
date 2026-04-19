@@ -20,7 +20,7 @@ O processo começou não com fórmulas, mas com uma confirmação metafísica. U
 ## 2. Fundamentação: Quantificadores, Cálculo e a Magia da Lógica
 Regresso às raízes — notas sobre cibernética económica. Recordar um professor de cálculo que "respirava" teoremas, ditando provas de memória.
 
-- **Decisão:** Utilizar a linguagem da lógica formal (quantificadores $\forall$ e $\exists$) para mover o julgamento pericial do plano da "impressão subjetiva" para o plano da "prova verificada" .
+- **Decisão:** Utilizar a linguagem da lógica formal (quantificadores ∀ e ∃) para mover o julgamento pericial do plano da "impressão subjetiva" para o plano da "prova verificada" .
 
 ## 3. Síntese: História da Arte e Perícia 
 Combinar o pensamento cibernético com uma análise subtil de objetos de arte. A compreensão de que a componente material (M) é apenas parte da equação, enquanto a verdadeira capitalização ocorre através da gestão do campo semântico .
@@ -45,7 +45,7 @@ Esta fase tornou-se a conclusão simbólica do trabalho interno, dividindo-se em
 Entrada no espaço digital aberto. Publicação num recurso próprio como um ato de fixação irreversível e integração na rede científica global sem intermediários.
 
 **Alt-text:**  
-O primeiro trabalho **Engenharia de Contexto na Construção de Valor: Um Modelo Arquitetónico e Matemático-Lógico para Ativos Culturais e Joalharia** da série **∀ ◉ ∃ Arquitetura de Valor**. No centro: _Process Diary. 18.04.2026._
+A primeira obra **Engenharia de Contexto na Construção de Valor: Um Modelo Arquitetónico e Matemático-Lógico para Ativos Culturais e Joalharia** da série **∀ ◉ ∃ Arquitetura de Valor**. No centro: _Process Diary. 18.04.2026._
 
 #EngenhariaDeContexto #ConstruçãoDeValor #BensCulturais #SegurançaEconómica #Valorização #AtivosIntangíveis #PivtorakStudio #ArquiteturaDoPensamento 
 

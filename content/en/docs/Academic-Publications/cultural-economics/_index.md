@@ -26,7 +26,8 @@ Each paper represents a formalization of a specific protocol and combines:
 
 ## 🧭 Scientific Approach  
 Core assumption:  
-> Value is a function of context that can be designed, formalized, and scaled.  
+> Value is a function of context that can be designed, formalized, and scaled.   
+
 This enables:  
 - shifting from asset evaluation to value system design  
 - integrating cultural, economic, and semantic dimensions  

@@ -27,6 +27,7 @@ Cada artigo representa a formalização de um protocolo específico e integra:
 ## 🧭 Abordagem Científica  
 Pressuposto central:  
 > O valor é uma função do contexto, que pode ser projetado, formalizado e escalado.  
+
 Isto permite:  
 - passar da avaliação de ativos para o design de sistemas de valor  
 - integrar dimensões culturais, económicas e semânticas  

@@ -152,6 +152,8 @@ weight: 1
 - **Throsby D.** (2001). Economics and Culture. Cambridge University Press.
 - **Zadeh L. A.** (1965). Fuzzy Sets. Information and Control, 8(3), 338–353.
 
+---
+
 **Anna Pivtorak**  
 **Independent Researcher, Portugal**  
 **ORCID: 0000-0002-7271-5166**

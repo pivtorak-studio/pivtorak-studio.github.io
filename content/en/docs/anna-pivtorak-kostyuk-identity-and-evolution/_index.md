@@ -40,6 +40,12 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 }
 </script>
 
+<div class="float-right">
+
+![🎓 Anna Pivtorak (Kostyuk) — Identity & Evolution](/images/anna-pivtorak-kostyuk-identity-and-evolution.webp)
+
+</div>
+
 # 🎓 Anna Pivtorak (Kostyuk) — Identity & Evolution  
 *This section is a documented timeline of identity, thinking, and the research system behind the author.*
 

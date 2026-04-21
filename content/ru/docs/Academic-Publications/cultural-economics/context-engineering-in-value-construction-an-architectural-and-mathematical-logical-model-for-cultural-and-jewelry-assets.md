@@ -4,6 +4,23 @@ descriptions: Исследование предлагает новую пара�
 weight: 1
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Контекстная инженерия в построении ценности: Архитектурная и математико-логическая модель для культурных и ювелирных активов",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "keywords": "JEL: Z11, G32, cultural assets, value engineering",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak Studio"
+  }
+}
+</script>
+
 <div class="float-right">
 
 ![Контекстная инженерия в построении ценности: Архитектурная и математико-логическая модель для культурных и ювелирных активов](/images/anna-pivtorak-сontext-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026.webp)

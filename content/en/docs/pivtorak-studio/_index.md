@@ -48,7 +48,7 @@ images: ["/images/pivtorak-studio-logo.webp"]
 
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
-# Pivtorak.Studio — The Formula of Transformation
+# 🪙 Pivtorak.Studio — The Formula of Transformation
 
 *Pivtorak.Studio is an original series exploring transformation as a transition into a new system.*
 

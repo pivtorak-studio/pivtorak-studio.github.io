@@ -3,7 +3,7 @@ title: "🎓 Anna Pivtorak (Kostyuk) — Identidade & Evolução"
 description: "Arquivo documentado da identidade, formação e desenvolvimento intelectual por trás da Pivtorak Studio."
 keywords: ["Anna Pivtorak", "Anna Kostyuk", "identidade", "evolução", "investigadora", "história da arte"]
 bookCollapseSection: true
-weight: 10
+weight: 65
 
 images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 ---

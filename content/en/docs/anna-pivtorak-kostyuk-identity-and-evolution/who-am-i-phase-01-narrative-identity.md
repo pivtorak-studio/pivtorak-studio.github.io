@@ -123,7 +123,7 @@ for professionalism in covering global jewelry fashion trends.
 ### 🎖️ "National Business Leader" Medal 
 for significant information contribution to the development of the jewelry business in Ukraine.
 
-    «Все, що ви робите, робіть з любов’ю, або не робіть зовсім». 
+    «Everything you do, do it with love, or don't do it at all». 
 
 ## Visual Designer | Digital Art & Branding
 

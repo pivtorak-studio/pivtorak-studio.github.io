@@ -4,6 +4,23 @@ descriptions: Este estudo propõe um novo paradigma para a formação de valor e
 weight: 1
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Engenharia de Contexto na Construção de Valor: Um Modelo Arquitetónico e Matemático-Lógico para Ativos Culturais e Joalheiros",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "keywords": "JEL: Z11, G32, cultural assets, value engineering",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak Studio"
+  }
+}
+</script>
+
 <div class="float-right">
 
 ![Engenharia de Contexto na Construção de Valor: Um Modelo Arquitetónico e Matemático-Lógico para Ativos Culturais e Joalheiros](/images/anna-pivtorak-сontext-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026.webp)

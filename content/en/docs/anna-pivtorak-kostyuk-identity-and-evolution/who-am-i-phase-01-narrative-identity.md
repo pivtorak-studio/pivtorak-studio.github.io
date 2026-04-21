@@ -57,10 +57,10 @@ And ahead lie new horizons. Because her path is that of those who dare to walk t
 
 ## Basic Information
 
-### Basic Information  
+### Occupation  
 Public figure  
 
-### Дата народження  
+### Date of birth  
 🐉⚖️ 09 October 1976  
 
 ### Family
@@ -103,7 +103,7 @@ Taras Shevchenko National University of Kyiv
 **Economic cybernetics**
 Taras Shevchenko National University of Kyiv
 
-## Нагороди і відзнаки    
+## Awards and Distinctions    
 
 ### 🥇 Gold Medal and Master's Degree with Honors 
 National Academy of Culture and Arts Management.

@@ -3,7 +3,7 @@ title: "🎓 Анна Півторак (Костюк) — Ідентичніст
 description: "Архів ідентичності та еволюції Анни Півторак: шлях, корені, освіта та інтелектуальна основа Pivtorak Studio."
 keywords: ["Anna Pivtorak", "Anna Kostyuk", "ідентичність", "еволюція", "Pivtorak Studio", "мистецтвознавець", "дослідник", "архів"]
 bookCollapseSection: true
-weight: 10
+weight: 65
 
 images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 ---

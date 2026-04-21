@@ -45,11 +45,11 @@ Anna knows how to wrap up projects so that everything continues to run smoothly 
 
 Symbols play a crucial role in her life.   
 
-🦅 The bald eagle represents sharp vision, speed, and determination. 
-🪶 The Canadian goose symbolizes collective strategy, knowledge transfer, and system stability. 
-🐅 The tiger stands for independence and strength. 
-🦚 The peacock embodies dignity and the ability to command attention effortlessly.
-Each stage of her life marks a new chapter with a new symbol. 
+🦅 The bald eagle represents sharp vision, speed, and determination.    
+🪶 The Canadian goose symbolizes collective strategy, knowledge transfer, and system stability.    
+🐅 The tiger stands for independence and strength.    
+🦚 The peacock embodies dignity and the ability to command attention effortlessly.   
+Each stage of her life marks a new chapter with a new symbol.    
 
 She builds her strategy just as she builds a visual image—thoughtfully, precisely, and with a clear goal in mind.
 
@@ -70,7 +70,7 @@ Five children
 ### Parents and relatives  
 Father: [Kostyuk Anatoly Ivanovich (1948-2015)](https://memoryon.net/s/lijWG7pPh8)  
 Mother: [Kostyuk (Dovbysh) Nadezhda Nikolaevna (1947-2021)](https://memoryon.net/s/xgKFwEK6Bp)  
-Brother: [Kostyuk Alexander Anatolyevich, born 02/24/1971](https://memoryon.net/s/yFqF5I7awO
+Brother: [Kostyuk Alexander Anatolyevich, born 02/24/1971](https://memoryon.net/s/yFqF5I7awO)
    
 Grandfather: [Ivan Antonovych Kostyuk (1924–2007)](https://memoryon.net/s/UzN5Wpl9E_)  
 Grandmother: Oleksandra Vasylivna Kostyuk (Frolovycheva), passed away in 1949  

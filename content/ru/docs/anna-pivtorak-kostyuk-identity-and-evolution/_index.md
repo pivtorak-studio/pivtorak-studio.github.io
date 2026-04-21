@@ -5,7 +5,7 @@ keywords: ["Anna Pivtorak", "Anna Kostyuk", "идентичность", "эво�
 bookCollapseSection: true
 weight: 65
 
-images: ["/images/anna-pivtorak-cover.jpg"]
+images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/">

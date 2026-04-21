@@ -71,8 +71,6 @@ A continuous line of formation.
 - **Ancestors: Generations of Integrity**  
 - **The Formation: University & PhD Years**  
 
----
-
 ### → Founder's Archive  
 A documentary layer of thinking.  
 - **The Laboratory of Thought**  

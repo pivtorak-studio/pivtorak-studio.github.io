@@ -4,6 +4,23 @@ descriptions: This study introduces a new paradigm for value formation in unique
 weight: 1
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Context Engineering in Value Construction: An Architectural and Mathematical-Logical Model for Cultural and Jewelry Assets",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "keywords": "JEL: Z11, G32, cultural assets, value engineering",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak Studio"
+  }
+}
+</script>
+
 <div class="float-right">
 
 ![Context Engineering in Value Construction: An Architectural and Mathematical-Logical Model for Cultural and Jewelry Assets](/images/anna-pivtorak-сontext-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026.webp)

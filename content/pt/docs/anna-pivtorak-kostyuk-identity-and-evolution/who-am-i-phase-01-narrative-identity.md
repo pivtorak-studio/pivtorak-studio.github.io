@@ -86,47 +86,48 @@ Bisavô: Oleksii Halushko (1895–1944)
 Bisavó: Varvara Halushko (Hudenko) (1899–1992)   
 Trisavô: Konon Halushko  
 Trisavô: Kalenyk Hudenko   
+
 ## Educação
 
-### Pós-graduação
-**Economia**
-Academia do Trabalho, Relações Sociais e Turismo
+### Pós-graduação   
+**Economia**   
+Academia do Trabalho, Relações Sociais e Turismo   
 
-### Mestre
-**História da arte, perícia, avaliação de objetos culturais e artísticos**
-Academia Nacional de Quadros de Gestão de Cultura e Artes
+### Mestre  
+**História da arte, perícia, avaliação de objetos culturais e artísticos**  
+Academia Nacional de Quadros de Gestão de Cultura e Artes   
 
-### Especialista
-**Gestão de organizações**
-Universidade Nacional Taras Shevchenko de Kyiv
+### Especialista  
+**Gestão de organizações**   
+Universidade Nacional Taras Shevchenko de Kyiv   
 
-### Bacharel
-**Cibernética econômica**
-Universidade Nacional Taras Shevchenko de Kyiv
+### Bacharel  
+**Cibernética econômica**  
+Universidade Nacional Taras Shevchenko de Kyiv  
 
 ## Prêmios e distinções    
 
-### 🥇 Medalha de Ouro e Diploma de Mestrado com Distinção
-Academia Nacional de Gestão de Quadros de Cultura e Artes.
+### 🥇 Medalha de Ouro e Diploma de Mestrado com Distinção  
+Academia Nacional de Gestão de Quadros de Cultura e Artes.  
 
-### 🏆 Diploma de Laureado
-pela contribuição significativa para o desenvolvimento da Ucrânia e elevada excelência jornalística.
+### 🏆 Diploma de Laureado  
+pela contribuição significativa para o desenvolvimento da Ucrânia e elevada excelência jornalística.  
 
-### 🏅 Distintivo de Honra "Glória do Trabalho"
-pela cobertura e promoção da indústria da joalharia.
+### 🏅 Distintivo de Honra "Glória do Trabalho"  
+pela cobertura e promoção da indústria da joalharia.  
 
-### 📜 Certificado de Mérito do Ministério da Cultura e Turismo
-pela criação de valores espirituais e elevado domínio profissional.
+### 📜 Certificado de Mérito do Ministério da Cultura e Turismo  
+pela criação de valores espirituais e elevado domínio profissional.  
 
-### 💎 Diploma de Qualidade
-pelo profissionalismo na cobertura das tendências mundiais da moda de joias.
+### 💎 Diploma de Qualidade  
+pelo profissionalismo na cobertura das tendências mundiais da moda de joias.  
 
-### 🎖️ Medalha "Líder de Negócios Nacional"
-pela importante contribuição informativa para o desenvolvimento do negócio de joalharia na Ucrânia.
+### 🎖️ Medalha "Líder de Negócios Nacional"  
+pela importante contribuição informativa para o desenvolvimento do negócio de joalharia na Ucrânia.  
 
-    "Tudo o que fizer, faça com amor, ou não o faça de todo." 
+    "Tudo o que fizer, faça com amor, ou não o faça de todo."   
 
-## Visual Designer | Digital Art & Branding
+## Visual Designer | Digital Art & Branding  
 
 🔹 Artista de Manifesto 🔮 | Ético Visual 🧭 |    
 Leitor de Sinais 📡 | Arquiteto da Verdade 🛡️ | ∴ 0.01   

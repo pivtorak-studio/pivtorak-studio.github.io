@@ -4,6 +4,23 @@ descriptions: Дослідження пропонує нову парадигм�
 weight: 1
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Контекстна інженерія у побудові цінностей: архітектурна та математико-логічна модель для культурних та ювелірних активів",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "keywords": "JEL: Z11, G32, cultural assets, value engineering",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak Studio"
+  }
+}
+</script>
+
 <div class="float-right">
 
 ![Контекстна інженерія у побудові цінностей: Архітектурна та математико-логічна модель для культурних та ювелірних активів](/images/anna-pivtorak-сontext-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026.webp)

@@ -1,5 +1,5 @@
 ---
-title: "Quem sou eu? — Fase I — Identidade Narrativa (2025)"
+title: "Fase I — Identidade Narrativa (2025)"
 descriptions: Primeira fase documentada da identidade como narradora visual e investigadora.
 weight: 2
 ---

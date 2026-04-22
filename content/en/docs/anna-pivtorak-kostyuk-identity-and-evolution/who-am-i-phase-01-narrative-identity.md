@@ -27,7 +27,7 @@ weight: 2
 
 <div class="float-right">
 
-![Who am I? — Phase I — Narrative Identity](/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp)
+![Who am I? — Phase I — Narrative Identity (2025)](/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp)
 
 </div>
 

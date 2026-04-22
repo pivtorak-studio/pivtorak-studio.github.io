@@ -37,7 +37,7 @@ weight: 3
 
 </div>
 
-# 🌐 Anna Pivtorak (Kostyuk) – After the formation of Pivtorak Studio as a structured system  
+# 🌐 Anna Pivtorak (Kostyuk) – After the formation of Pivtorak.Studio as a structured system  
 
 ## Who am I? — Phase II — Structural Identity (2026)
 
@@ -80,4 +80,4 @@ If not — it disappears.
 I am not building a collection of works.  
 I am building a thinking system that can exist beyond me.
 
-*Anna Pivtorak (Kostyuk) – After the formation of Pivtorak Studio as a structured system. Who am I? — Phase II — Structural Identity. Pivtorak.Studio. 26.02.2026*
+*Anna Pivtorak (Kostyuk) – After the formation of Pivtorak.Studio as a structured system. Who am I? — Phase II — Structural Identity. Pivtorak.Studio. 26.02.2026*

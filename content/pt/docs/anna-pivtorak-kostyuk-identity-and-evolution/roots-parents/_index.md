@@ -1,11 +1,11 @@
 ---
-title: "Roots: Parents"
+title: "Raízes: Pais"
 description: "A influência dos pais como fonte do pensamento, princípios e estrutura interna."
 keywords: ["Anna Pivtorak", "pais", "raízes", "valores", "formação"]
 weight: 20
 ---
 
-# Roots: Parents
+# Raízes: Pais
 
 *As primeiras estruturas do pensamento não se formam através da teoria, mas através do ambiente.*
 
@@ -21,10 +21,10 @@ mas do que foi diretamente transmitido:
 
 ## Linhas de influência
 
-- **The Father’s Legacy**  
+- **O Legado do Pai**  
   Princípios de ação, responsabilidade e visão estrutural.
 
-- **The Mother’s Wisdom**  
+- **A Sabedoria da Mãe**  
   Profundidade intelectual, base ética e precisão interna.
 
 Estas duas linhas não existem separadamente.  

@@ -1,5 +1,5 @@
 ---
-title: "02.01 🐉⚖️ Nascimento da Balança"
+title: "02.01 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança"
 weight: 1
 ---
 

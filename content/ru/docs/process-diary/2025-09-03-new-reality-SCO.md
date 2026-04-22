@@ -5,31 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903-01.webp)
-
-</div>
-
-<div class="float-right">
-
-![New Reality. SCO](/images/process-diary-20250903-02.webp)
-
-</div>
-
-<div class="float-right">
-
 ![New Reality. SCO](/images/process-diary-20250903.webp)
-
-</div>
-
-<div class="float-right">
-
-![New Reality. SCO](/images/process-diary-20250903-05.webp)
-
-</div>
-
-<div class="float-right">
-
-![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
 
 </div>
 
@@ -44,6 +20,30 @@ weight: 1
 Мы подсветили конфликты и ложь внутри ШОС.  
 Мы показали ЕС, Украину и США сильными и самодостаточными, усилили их друзьями демократии.  
 Мы дали Глобальному Югу не поле битвы, а поле роста и возможностей.
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-02.webp)
+
+</div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-01.webp)
+
+</div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-05.webp)
+
+</div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
+
+</div>
 
 Этот день стал моментом перерисовки мира.  
 И он породил три образа: 

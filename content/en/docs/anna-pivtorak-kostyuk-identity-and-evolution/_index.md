@@ -67,8 +67,8 @@ A continuous line of formation.
 - **The Core: Who am I?**   
   A dynamic series of identity definitions across time.  
 - **Roots: Parents**   
-       – The Father’s Legacy  
-       – The Mother’s Wisdom    
+  – The Father’s Legacy  
+  - The Mother’s Wisdom    
 - **Ancestors: Generations of Integrity**  
 - **The Formation: University & PhD Years**  
 

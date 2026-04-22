@@ -38,7 +38,7 @@ Rather than treating politics as a collection of events or personalities, this s
 * III. **Political Theatre** — politics as performance, where roles override reality
 * IV. **Lessons for Politicians** — systemic insights for effective governance
 * V. **The Competence License** — qualification, responsibility, and access to power
-* VI. Zero External Debt — a model of the state as a self-sufficient ethical system
+* VI. **Zero External Debt** — a model of the state as a self-sufficient ethical system
 
 Each article combines text, symbolism, and visual language, forming a coherent framework of political design.
 

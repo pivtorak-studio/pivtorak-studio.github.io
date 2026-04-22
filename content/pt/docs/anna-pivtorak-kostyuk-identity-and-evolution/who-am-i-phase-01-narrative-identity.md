@@ -1,14 +1,14 @@
 ---
-title: "Quem sou eu? — Fase I — Identidade Narrativa"
+title: "Quem sou eu? — Fase I — Identidade Narrativa (2025)"
 descriptions: Primeira fase documentada da identidade como narradora visual e investigadora.
-weight: 1
+weight: 2
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Quem sou eu? — Fase I — Identidade Narrativa",
+  "headline": "Quem sou eu? — Fase I — Identidade Narrativa (2025)",
   "description": "Primeira fase documentada da identidade como narradora visual e investigadora.",
   "author": {
     "@type": "Person",
@@ -33,7 +33,7 @@ weight: 1
 
 # ✨ Anna Pivtorak (Kostyuk) – Histórias em Imagens   
 
-## Quem sou eu? — Fase I — Identidade Narrativa   
+## Quem sou eu? — Fase I — Identidade Narrativa (2025)   
 
 Anna Pivtorak é diretora de arte, contadora de histórias visuais, exploradora e jornalista. Ela encontra significado onde outros veem apenas detalhes e transforma estratégias em imagens que falam sem palavras.     
 
@@ -134,5 +134,5 @@ Leitor de Sinais 📡 | Arquiteto da Verdade 🛡️ | ∴ 0.01
 🔹 Transformando clareza em presença   
 🔹 Chego onde não há mapas      
 
-*Anna Pivtorak (Kostyuk) – Histórias em Imagens. Who am I? — Phase I — Narrative Identity. Pivtorak.Studio. 12.03.2025*
+*Anna Pivtorak (Kostyuk) – Histórias em Imagens. Who am I? — Phase I — Narrative Identity (2025). Pivtorak.Studio. 12.03.2025*
 

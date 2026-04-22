@@ -53,15 +53,15 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 Последовательная линия становления.
 - **The Core: Who am I?** 
 Динамическая серия определений идентичности в разные периоды.
-- **Roots: Parents
-  - The Father’s Legacy 
-Воздействие отца и переданные принципы.
-  - The Mother’s Wisdom 
-Интеллектуальная и нравственная основа, сформированная матерью.
-- **Ancestors: Generations of Integrity** 
-Семейная наследственность и ценности поколений.
-- **The Formation: University & PhD Years** 
-Образование, академический опыт и формирование исследовательского подхода.
+- **Roots: Parents  
+  - The Father’s Legacy   
+Воздействие отца и переданные принципы.  
+  - The Mother’s Wisdom   
+Интеллектуальная и нравственная основа, сформированная матерью.  
+- **Ancestors: Generations of Integrity**   
+Семейная наследственность и ценности поколений.  
+- **The Formation: University & PhD Years**   
+Образование, академический опыт и формирование исследовательского подхода.  
 
 ### → Founder's Archive
 Документальная база мышления.

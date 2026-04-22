@@ -5,7 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903-01.webp)
+![New Reality. SCO](/images/process-diary-20250903.webp)
 
 </div>
 
@@ -28,7 +28,7 @@ We gave the Global South not a battlefield, but a field of growth and opportunit
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903.webp)
+![New Reality. SCO](/images/process-diary-20250903-01.webp)
 
 </div>
 

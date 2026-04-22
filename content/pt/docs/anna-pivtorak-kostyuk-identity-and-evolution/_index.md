@@ -47,8 +47,9 @@ Não é uma biografia tradicional.
 Uma linha contínua de formação.  
 - **O Núcleo: Quem sou eu?**  
 Uma série dinâmica de definições de identidade ao longo do tempo.  
-- **Raízes: O Legado do Pai**  
-- **Raízes: A Sabedoria da Mãe**  
+- **Raízes: Pais**
+  - O Legado do Pai  
+  - A Sabedoria da Mãe  
 - **Ancestrais: Gerações de Integridade**  
 - **A Formação: Anos de Universidade e Doutoramento**  
 

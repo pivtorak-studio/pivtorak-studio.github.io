@@ -1,5 +1,5 @@
 ---
-title: "Quem sou eu? — Fases da Identidade"
+title: "O Núcleo: Quem sou eu? — Fases da Identidade"
 description: "Sequência de fases documentadas que refletem a evolução do pensamento e da construção do sistema."
 keywords: ["Anna Pivtorak", "identidade", "evolução", "fases", "pensamento sistémico"]
 weight: 10

@@ -1,5 +1,5 @@
 ---
-title: "Who am I? — Phases of Identity"
+title: "The Core: Who am I? — Phases of Identity"
 description: "A sequence of documented identity phases reflecting the evolution of thought and system formation."
 keywords: ["Anna Pivtorak", "identity", "evolution", "phases", "system thinking"]
 weight: 10

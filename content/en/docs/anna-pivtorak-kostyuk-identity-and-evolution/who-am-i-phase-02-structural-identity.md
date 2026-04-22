@@ -1,5 +1,6 @@
 ---
 title: "Who am I? — Phase II — Structural Identity (2026)"
+description: The second phase of identity: transition from narrative to system thinking and structural construction.
 weight: 3
 ---
 

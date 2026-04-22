@@ -1,5 +1,5 @@
 ---
-title: "Who am I? — Phase I — Narrative Identity (2025)"
+title: "Phase I — Narrative Identity (2025)"
 descriptions: The first documented phase of identity as a visual storyteller and researcher.
 weight: 2
 ---

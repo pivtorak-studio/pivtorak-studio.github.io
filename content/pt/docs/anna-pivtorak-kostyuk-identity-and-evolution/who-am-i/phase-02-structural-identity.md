@@ -1,5 +1,5 @@
 ---
-title: "Quem sou eu? — Fase I — Identidade Estrutural (2026)"
+title: "Quem sou eu? — Fase II — Identidade Estrutural (2026)"
 description: Segunda fase da identidade – transição da narrativa para o pensamento sistémico e construção estrutural.
 weight: 3
 ---
@@ -8,7 +8,7 @@ weight: 3
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Quem sou eu? — Fase I — Identidade Estrutural (2026)",
+  "headline": "Quem sou eu? — Fase II — Identidade Estrutural (2026)",
   "description": "Segunda fase da identidade: transição da narrativa para o pensamento sistémico e construção estrutural.",
   "author": {
     "@type": "Person",
@@ -33,7 +33,7 @@ weight: 3
 
 <div class="float-right">
 
-![Quem sou eu? — Fase I — Identidade Estrutural (2026)](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i-phase-02-іtructural-identity.webp)
+![Quem sou eu? — Fase II — Identidade Estrutural (2026)](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i-phase-02-іtructural-identity.webp)
 
 </div>
 
@@ -80,4 +80,4 @@ Se não — desaparece.
 Não estou a construir uma coleção de obras.    
 Estou a construir um sistema de pensamento que pode existir para além de mim.  
 
-*Anna Pivtorak (Kostyuk) – Após a formação da Pivtorak.Studio como um sistema estruturado. Quem sou eu? — Fase I — Identidade Estrutural (2026). Pivtorak.Studio. 26.02.2026*
+*Anna Pivtorak (Kostyuk) – Após a formação da Pivtorak.Studio como um sistema estruturado. Quem sou eu? — Fase II — Identidade Estrutural (2026). Pivtorak.Studio. 26.02.2026*

@@ -1,5 +1,5 @@
 ---
-title: "Кто Я? — Фаза II — Структурная Идентичность (2026)"
+title: "Фаза II — Структурная Идентичность (2026)"
 description: The second phase of identity – transition from narrative to system thinking and structural construction.
 weight: 3
 ---

@@ -66,8 +66,9 @@ All materials are preserved in their original temporal context and are not retro
 A continuous line of formation.  
 - **The Core: Who am I?**   
   A dynamic series of identity definitions across time.  
-- **Roots: The Father’s Legacy**  
-- **Roots: The Mother’s Wisdom**  
+- **Roots: Parents**
+       – The Father’s Legacy
+       – The Mother’s Wisdom 
 - **Ancestors: Generations of Integrity**  
 - **The Formation: University & PhD Years**  
 

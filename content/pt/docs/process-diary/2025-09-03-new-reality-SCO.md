@@ -5,31 +5,7 @@ weight: 1
 
 <div class="float-right">
 
-![New Reality. SCO](/images/process-diary-20250903-01.webp)
-
-</div>
-
-<div class="float-right">
-
-![New Reality. SCO](/images/process-diary-20250903-02.webp)
-
-</div>
-
-<div class="float-right">
-
 ![New Reality. SCO](/images/process-diary-20250903.webp)
-
-</div>
-
-<div class="float-right">
-
-![New Reality. SCO](/images/process-diary-20250903-05.webp)
-
-</div>
-
-<div class="float-right">
-
-![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
 
 </div>
 
@@ -44,6 +20,30 @@ Mas depois aconteceu a mudança. Começámos a **reescrever os erros da ordem mu
 Destacámos os conflitos e a desonestidade dentro da OCS.  
 Mostrámos a UE, a Ucrânia e os EUA como fortes e autossuficientes, acompanhados pelos amigos das democracias.  
 Demos ao Sul Global não um campo de batalha, mas um campo de crescimento e oportunidades.
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-02.webp)
+
+</div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-01.webp)
+
+</div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-05.webp)
+
+</div>
+
+<div class="float-right">
+
+![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
+
+</div>
 
 Este dia tornou-se um momento de redesenhar o mundo.  
 E deu origem a três imagens: 

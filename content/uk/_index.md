@@ -66,11 +66,12 @@ Pivtorak.Studio. 16.07.2023*
 
 <ul>
   <li><a href="/uk/docs/pivtorak-studio/">Pivtorak.Studio</a></li>
+  <li><a href="/uk/docs/process-diary/">Анна Півторак (Костюк)</a></li>
   <li><a href="/uk/docs/independent-researcher-manifesto/">Маніфест Дослідника</a></li>
+  <li><a href="/uk/docs/process-diary/">Щоденник Процесу</a></li>
   <li><a href="/uk/docs/shield-of-nation/">Щит Нації</a></li>
   <li><a href="/uk/docs/political-design/">Політичний Дизайн</a></li>
-  <li><a href="/uk/docs/process-diary/">Щоденник Процесу</a></li>
-</ul>
+  </ul>
 
 {{< /details >}}
 

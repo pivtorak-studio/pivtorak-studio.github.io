@@ -1,7 +1,7 @@
 ---
 title: "Хто Я? — Фаза I — Наративна Ідентичність (2025)"
 descriptions: Перша зафіксована фаза ідентичності Анни Півторак як візуального сторітелера та дослідниці.
-weight: 1
+weight: 2
 ---
 
 <script type="application/ld+json">
@@ -27,7 +27,7 @@ weight: 1
 
 <div class="float-right">
 
-![Хто Я? — Фаза I — Наративна Ідентичність](/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp)
+![Хто Я? — Фаза I — Наративна Ідентичність (2025)](/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp)
 
 </div>
 

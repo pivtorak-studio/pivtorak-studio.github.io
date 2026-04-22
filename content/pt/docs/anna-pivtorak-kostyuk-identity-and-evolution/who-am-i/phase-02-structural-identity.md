@@ -1,5 +1,5 @@
 ---
-title: "Quem sou eu? — Fase II — Identidade Estrutural (2026)"
+title: "Fase II — Identidade Estrutural (2026)"
 description: Segunda fase da identidade – transição da narrativa para o pensamento sistémico e construção estrutural.
 weight: 3
 ---

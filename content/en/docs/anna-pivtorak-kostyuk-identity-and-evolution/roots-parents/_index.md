@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "parents", "roots", "values", "formation"]
 weight: 20
 ---
 
+<div class="float-right">
+
+![Roots: Parents](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
+
+</div>
+
 # Roots: Parents
 
 *The first structures of thinking are not formed through theory, but through environment.*

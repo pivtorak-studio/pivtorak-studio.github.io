@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "батьки", "корені", "цінності", 
 weight: 20
 ---
 
+<div class="float-right">
+
+![Коріння: Батьки](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
+
+</div>
+
 # Коріння: Батьки
 
 *Перші структури мислення формуються не через теорію, а через середовище.*

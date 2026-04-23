@@ -48,8 +48,17 @@ Academia do Trabalho, Relações Sociais e Turismo
 
 ## Significado
 
-Este percurso resulta numa forma de pensar  
-baseada em estrutura, análise e consistência.
+Este caminho combina:  
+- precisão matemática  
+- gestão estrutural  
+- análise cultural  
+
+Resulta em:  
+
+*uma forma de pensar que opera em diversos sistemas e significados*
+
+Esta secção não documenta a educação como uma lista,
+mas sim a **formação do pensamento estruturado**.
 
 ---
 {{< section >}}

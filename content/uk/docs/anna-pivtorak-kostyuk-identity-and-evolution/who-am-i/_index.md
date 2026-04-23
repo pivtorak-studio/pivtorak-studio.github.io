@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "ідентичність", "еволюція", "ф�
 weight: 10
 ---
 
+<div class="float-right">
+
+![Ядро: Хто Я? — Фази Ідентичності](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i.webp)
+
+</div>
+
 # Хто Я?
 
 *Ідентичність не є сталою. Вона спостерігається, фіксується і переосмислюється у часі.*

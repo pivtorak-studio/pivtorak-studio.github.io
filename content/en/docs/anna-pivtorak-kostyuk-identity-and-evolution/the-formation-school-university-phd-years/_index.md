@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "education", "formation", "thinking", "university", 
 weight: 50
 ---
 
+<div class="float-right">
+
+![The Formation: School, University & PhD Years](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp)
+
+</div>
+
 # The Formation: School, University & PhD Years
 
 *Thinking does not emerge as a system instantly. It is formed through repeated encounters with precision.*
@@ -65,6 +71,15 @@ It results in:
 
 This section documents not education as a list,  
 but the **formation of structured thinking**.
+
+**Alt-text:**    
+To visualize the formation of thinking, a complex composition is used, combining stages of learning, repetition, and systematization of knowledge.  
+At the center is a geometric structure symbolizing the formation of structured thinking and the ability to operate across systems. It connects all elements into a unified logic.  
+The left side represents the early stage — encounters with precision and error. Books, notes, and rewriting processes illustrate repetition, correction, and manual reconstruction of structure, forming the principle: precision is achieved through repetition and control.  
+Below, the mathematical foundation is depicted through logical scheme, representing structural thinking and the ability to manage complexity.  
+The right side represents academic education and cultural context: economics, management, art history, and expertise. Visual elements include books, archives, artworks, and symbols of time.  
+At the bottom, key outcomes are presented: precision, control, logical thinking, and cultural understanding.  
+The composition represents not education as a list, but the formation of a structured way of thinking.  
 
 ---
 {{< section >}}

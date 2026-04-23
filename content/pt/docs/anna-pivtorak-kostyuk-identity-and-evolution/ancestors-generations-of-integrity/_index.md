@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "antepassados", "linhagem", "valores", "integridade"
 weight: 45
 ---
 
+<div class="float-right">
+
+![Ancestrais: Gerações de Integridade](/images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp)
+
+</div>
+
 # Ancestrais: Gerações de Integridade
 
 *Nem tudo o que forma um sistema pode ser diretamente identificado.*
@@ -33,6 +39,15 @@ Mas a maior parte da influência permanece sem nome.
 
 Esta secção não documenta histórias,  
 mas a **presença das gerações no pensamento**.
+
+**Alt-text:**    
+Para visualizar a influência dos antepassados, utiliza-se a metáfora de uma árvore que combina raízes, estrutura e pensamento.  
+No centro encontra-se uma árvore com raízes profundas e ramificações, simbolizando a transmissão de qualidades ao longo das gerações. Não representa indivíduos, mas um campo de linhagem onde o pensamento é formado.  
+O tronco contém qualidades fundamentais: integridade interna, capacidade de suportar carga, atitude perante o trabalho e a distinção entre o aceitável e o inaceitável.  
+Na base, um livro aberto com a inscrição “unnamed influence” representa a influência invisível mas determinante dos antepassados.  
+A copa integra elementos lógicos e estruturais, mostrando como essa influência se torna parte do pensamento atual.
+No centro, uma forma geométrica com a inscrição “generations within thinking” representa a presença das gerações na estrutura do pensamento.  
+A imagem apresenta os antepassados não como história, mas como uma estrutura que existe antes da experiência individual e molda a tomada de decisões.  
 
 ---
 {{< section >}}

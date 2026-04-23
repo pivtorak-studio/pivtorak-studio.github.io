@@ -36,5 +36,12 @@ but about what was directly transmitted:
 These two lines do not exist separately.  
 They form a system that later manifests as coherent thinking.
 
+**Alt-text:**    
+The central element is the Tree of Being, visualizing the metaphor of “roots” and “structure.”
+The trunk is formed by two intertwined yet clearly differentiated lines, symbolizing the unity of paternal and maternal inheritance.   
+Father’s Legacy: the left branch is composed of architectural elements, gears, and cubes, referencing structural thinking (Phase II) and embodying principles of action, responsibility, and system vision. It supports a scroll with an architectural plan and a compass.   
+Mother’s Wisdom: the right branch features flowing, calligraphic lines, bookshelf motifs, and a luminous book, symbolizing intellectual depth and ethical foundation. It also includes a radiant eye and geometric star, referencing the level of system presence (Phase III).   
+Synthesis: the roots, deeply embedded in the ground, nourish a unified system that forms “coherent thinking” at the center as the result of transmitted experience.   
+
 ---
 {{< section >}}

@@ -7,7 +7,7 @@ weight: 25
 
 <div class="float-right">
 
-![Irmão: O Primeiro Aliado](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
+![Irmão: O Primeiro Aliado](/images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp)
 
 </div>
 

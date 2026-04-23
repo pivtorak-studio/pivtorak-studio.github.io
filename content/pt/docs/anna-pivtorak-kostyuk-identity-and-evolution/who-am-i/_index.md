@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "identidade", "evolução", "fases", "pensamento sis
 weight: 10
 ---
 
+<div class="float-right">
+
+![O Núcleo: Quem sou eu? — Fases da Identidade](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i.webp)
+
+</div>
+
 # Quem sou eu?
 
 *A identidade não é fixa. É observada, registada e redefinida ao longo do tempo.*  

@@ -37,5 +37,12 @@ Os materiais não são editados retroativamente.
 Esta sequência reflete não uma mudança de papéis,  
 mas uma transformação do pensamento.
 
+**Alt-text:**  
+Para visualizar a evolução da identidade, são utilizados quatro arcos simbólicos que formam um sistema unificado:  
+Phase 0 (2008) — Implicit Identity: um arco orgânico feito de ramos e raízes, simbolizando uma base natural, intuitiva e um início inconsciente.  
+Phase I (2025) — Narrative Identity: um arco clássico com símbolos de conhecimento (um livro e uma pena), representando a fase em que a identidade começa a formar-se através de papéis, símbolos e narrativa.  
+Phase II (2026) — Structural Identity: um arco mecânico e geométrico com engrenagens e um diagrama de geometria sagrada, visualizando a transição para o pensamento sistémico e a construção estrutural.  
+Phase III — System Presence: um arco final que combina elementos orgânicos e geométricos, contendo um sistema esférico — símbolo de existência autónoma e independente.  
+
 ---
 {{< section >}}

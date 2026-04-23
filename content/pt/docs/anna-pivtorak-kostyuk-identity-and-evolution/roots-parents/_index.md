@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "pais", "raízes", "valores", "formação"]
 weight: 20
 ---
 
+<div class="float-right">
+
+![Raízes: Pais](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
+
+</div>
+
 # Raízes: Pais
 
 *As primeiras estruturas do pensamento não se formam através da teoria, mas através do ambiente.*

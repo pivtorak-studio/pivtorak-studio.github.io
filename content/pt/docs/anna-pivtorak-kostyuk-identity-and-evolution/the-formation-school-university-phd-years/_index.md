@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "educação", "formação", "pensamento"]
 weight: 50
 ---
 
+<div class="float-right">
+
+![A Formação: Anos Escolares, Universitários e de Doutoramento](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp)
+
+</div>
+
 # A Formação: Anos Escolares, Universitários e de Doutoramento
 
 *O pensamento não surge como sistema de imediato. Forma-se através do confronto com a precisão.*
@@ -59,6 +65,15 @@ Resulta em:
 
 Esta secção não documenta a educação como uma lista,
 mas sim a **formação do pensamento estruturado**.
+
+**Alt-text:**    
+Para visualizar a formação do pensamento, utiliza-se uma composição complexa que combina etapas de aprendizagem, repetição e sistematização do conhecimento.  
+No centro encontra-se uma estrutura geométrica que simboliza a formação do pensamento estruturado e a capacidade de operar entre sistemas, conectando todos os elementos numa lógica unificada.  
+A parte esquerda representa a fase inicial — o confronto com a precisão e o erro. Livros, anotações e processos de reescrita ilustram repetição, correção e reconstrução manual da estrutura, formando o princípio: a precisão é alcançada através da repetição e do controlo.  
+Na parte inferior, a base matemática é representada por esquema lógico, refletindo o desenvolvimento do pensamento estrutural e a capacidade de lidar com complexidade.  
+A parte direita representa a educação académica e o contexto cultural: economia, gestão, história da arte e perícia. Elementos visuais incluem livros, arquivos, obras de arte e símbolos do tempo.  
+Na base, surgem os resultados principais: precisão, controlo, pensamento lógico e compreensão cultural.  
+A composição representa não a educação como lista, mas a formação de um modo estruturado de pensar.  
 
 ---
 {{< section >}}

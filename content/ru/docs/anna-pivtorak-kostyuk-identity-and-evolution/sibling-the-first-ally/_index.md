@@ -7,7 +7,7 @@ weight: 25
 
 <div class="float-right">
 
-![Брат: Первый Союзник](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
+![Брат: Первый Союзник](/images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp)
 
 </div>
 

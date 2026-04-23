@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "identity", "evolution", "phases", "system thinking"
 weight: 10
 ---
 
+<div class="float-right">
+
+![The Core: Who am I? — Phases of Identity](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i.webp)
+
+</div>
+
 # Who am I?
 
 *Identity is not fixed. It is observed, recorded, and redefined over time.*  

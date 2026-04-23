@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "родители", "корни", "ценности"
 weight: 20
 ---
 
+<div class="float-right">
+
+![Корни: Родители](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
+
+</div>
+
 # Корни: Родители
 
 *Первые структуры мышления формируются не через теорию, а через среду.*

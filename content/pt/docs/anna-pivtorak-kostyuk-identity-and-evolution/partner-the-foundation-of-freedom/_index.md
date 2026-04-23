@@ -5,6 +5,12 @@ keywords: ["Anna Pivtorak", "parceiro", "liberdade", "apoio", "sistema", "famíl
 weight: 30
 ---
 
+<div class="float-right">
+
+![Parceiro: Fundação da Liberdade](/images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp)
+
+</div>
+
 # Parceiro: Fundação da Liberdade
 
 *Alguns sistemas não podem surgir sem um ambiente que os sustente.*
@@ -28,6 +34,16 @@ Dentro desta estrutura:
 
 Esta influência nem sempre é visível,  
 mas determina se o sistema pode existir e evoluir.
+
+**Alt-text:**    
+Para visualizar a metáfora “o parceiro como fundamento da liberdade”, utiliza-se uma estrutura arquitetónica monumental — um arco que sustenta o sistema.  
+No centro da composição encontra-se um arco maciço construído a partir de blocos e cubos, remetendo ao pensamento estrutural. Não é apenas suporte, mas a estrutura principal que torna o sistema possível.  
+Os dois pilares do arco estão claramente diferenciados.  
+O pilar esquerdo representa a responsabilidade pela estabilidade e a capacidade de suportar carga, identificado como “TAKING RESPONSIBILITY FOR STABILITY” e “ABILITY TO CARRY LOAD”.  
+O pilar direito representa a criação de espaço para foco e a confiança no processo, identificado como “CREATING SPACE FOR FOCUS” e “TRUST IN THE PROCESS”.  
+A viga horizontal que liga os pilares está marcada como “FOUNDATION OF FREEDOM” e funciona como o elemento estrutural que sustenta o sistema.  
+Acima dela encontra-se um dodecaedro luminoso — símbolo da realização do sistema (“SYSTEM REALIZATION”), contendo a expressão “DEEP WORK POSSIBLE”, que indica a possibilidade de trabalho profundo.  
+O arco, identificado como “PARTNER”, sustenta toda a estrutura, permitindo a “FREEDOM” — a liberdade de realização e desenvolvimento do sistema.  
 
 ---
 {{< section >}}

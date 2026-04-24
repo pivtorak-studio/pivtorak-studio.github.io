@@ -123,25 +123,17 @@ Patentes / Invenções
 ## 4. Presença   
 
 Anatoly Ivanovich Kostyuk foi um homem de profunda erudição, elevada cultura profissional e rara dignidade humana. Cientista, engenheiro, inventor, pai e esposo — sabia unir racionalidade e cuidado, disciplina científica e calor humano.   
-
 Sua trajetória de vida abrangeu várias épocas — desde a engenharia aeronáutica até as tecnologias de ponta na ciência dos materiais, dos laboratórios de pesquisa aos escritórios de design técnico.   
-
 Autor de inúmeras inovações técnicas e laureado com o Prêmio Estatal da Ucrânia, deixou um legado não apenas de realizações de engenharia, mas também de integridade, coerência e força interior.   
-
 Na família, foi atencioso e afetuoso. Ensinava, apoiava e estabelecia regras com uma gentileza inesquecível. Com sua esposa Nadezhda, criou um ambiente de silêncio, respeito e apoio mútuo — que se tornou um exemplo para as gerações futuras.   
-
 Tudo o que Anatoly Ivanovich fazia era preciso e profundo — desde um esboço técnico até uma caminhada com os filhos, de um relatório científico a uma exposição canina. É lembrado não apenas como um especialista, mas como alguém que sabia “respirar presença” — e transmitir essa sensação àqueles que amava.   
 
 ## 5. Transmissão   
 
 Anatoly Ivanovich possuía um senso sutil de harmonia e sempre encontrava uma forma de tocar o belo.   
-
 Na infância de seus filhos, deixou memórias calorosas das noites com violão — quando o silêncio do entardecer se preenchia com música suave e a presença do pai.   
-
 Junto com as crianças, revelava filmes fotográficos no escuro do banheiro, ensinava a imprimir as imagens, a observar a luz e a forma. Não era apenas técnica — eram lições de atenção à vida.   
-
 Seu espírito criativo também se manifestava nas experiências científicas: sabia despertar o interesse pelo complexo, revelar a essência e acender a curiosidade.   
-
 Ele não era apenas alguém que explicava — criava um espaço onde nascia a compreensão.   
 
 ## 6. Princípios Transmitidos   

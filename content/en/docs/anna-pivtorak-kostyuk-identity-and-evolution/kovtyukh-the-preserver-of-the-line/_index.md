@@ -1,11 +1,17 @@
 ---
-title: "Kovtyukh — The Preserver of the Line"
+title: "Kovtyukh — Continuity Under Renunciation"
 description: "Epifan Kovtyukh as a figure who preserved the lineage: memory, responsibility, and transmission across generations."
 keywords: ["Kovtyukh", "Epifan Kovtyukh", "lineage", "memory", "history"]
 weight: 40
 ---
 
-# Kovtyukh — The Preserver of the Line
+<div class="float-right">
+
+![Kovtyukh — Continuity Under Renunciation](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
+
+</div>
+
+# Kovtyukh "Continuity Under Renunciation"
 
 *Some figures do not form a system. They preserve the possibility of its existence.*
 
@@ -50,6 +56,13 @@ It is a **point where the continuity of existence is preserved**.
 
 This section is part of the process of restoring the name  
 and fixing its place in both family and broader history.
+
+**Alt-text:**    
+To visualize Kovtyukh’s role, an abstract composition is used to represent a critical decision that preserved the continuity of a lineage.  
+At the center is a map or structural layout of resources, where parts are crossed out, removed, or erased. This symbolizes the voluntary renunciation of property as a condition for survival.  
+A thin but continuous line runs through the composition, representing lineage continuity. It remains unbroken despite the loss of material foundation.  
+The image does not focus on a person, but on the decision itself — an action that altered the trajectory and prevented the system from disappearing.  
+It marks a point where renunciation became the condition for existence.  
 
 ---
 {{< section >}}

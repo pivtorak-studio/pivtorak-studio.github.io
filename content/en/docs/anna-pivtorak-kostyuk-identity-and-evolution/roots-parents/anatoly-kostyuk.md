@@ -95,34 +95,34 @@ Grandchildren: Six
     4. Resonant vibrosieve  
     5. High-frequency vibratory screen with energy-saving resonant drive for drilling fluid cleaning and sludge drying   
     6. Resonant vibratory screen for drilling fluid purification   
-    7. Energy-saving vibration screen for cleaning drilling fluid and drill sludge
-    8. Flexible mesh cartridge on a rigid frame for vibration screens
-    9. Method of excitation and regulation of resonant mechanical oscillations and device for its implementation
-    10. Method of excitation and maintenance of resonant mechanical oscillations and device for its implementation
-    11. Method of generating resonant mechanical oscillations and device for its realization
-    12. Screw tension-compression spring for resonant mechanical vibration systems
-    13. Device for generating inertial force
-    14. Method for obtaining inertial force and device for its implementation
-    15. Energy-saving method for generating stable directional resonant oscillations excited by a centrifugal vibrator based on an asynchronous electric motor
+    7. Energy-saving vibration screen for cleaning drilling fluid and drill sludge  
+    8. Flexible mesh cartridge on a rigid frame for vibration screens  
+    9. Method of excitation and regulation of resonant mechanical oscillations and device for its implementation  
+    10. Method of excitation and maintenance of resonant mechanical oscillations and device for its implementation  
+    11. Method of generating resonant mechanical oscillations and device for its realization  
+    12. Screw tension-compression spring for resonant mechanical vibration systems  
+    13. Device for generating inertial force  
+    14. Method for obtaining inertial force and device for its implementation  
+    15. Energy-saving method for generating stable directional resonant oscillations excited by a centrifugal vibrator based on an asynchronous electric motor  
  
-**🛠️ Metal-Cutting and Technological Devices**
-    16. High-precision metal-cutting machine tool
-    17. Method of burnisher grinding
-    18. Method for shaping the working surface of steel or cast iron components
-    19. Method for obtaining an anti-friction surface
-    20. Device for supplying lubricant-coolant to a grinding wheel
-    21. Hydrostatic support
+**🛠️ Metal-Cutting and Technological Devices**  
+    1. High-precision metal-cutting machine tool  
+    2. Method of burnisher grinding  
+    3. Method for shaping the working surface of steel or cast iron components  
+    4. Method for obtaining an anti-friction surface  
+    5. Device for supplying lubricant-coolant to a grinding wheel  
+    6. Hydrostatic support  
  
-**🚀 Space and Futuristic Projects**
-    22. Method for protecting the Earth against asteroid-comet hazards
-    23. Spacecraft for interplanetary and intergalactic flight
+**🚀 Space and Futuristic Projects**  
+    1. Method for protecting the Earth against asteroid-comet hazards  
+    2. Spacecraft for interplanetary and intergalactic flight  
 
-**🎯 Other**
-    24. Device for recording the results of sports exercises
-    25. Track-link for caterpillar chains
+**🎯 Other**  
+    24. Device for recording the results of sports exercises  
+    25. Track-link for caterpillar chains  
 
-Patents / Inventions
-(according to Google Patents, including under the name Anatoly Kostyuk / A. Kostyuk)
+Patents / Inventions  
+(according to Google Patents, including under the name Anatoly Kostyuk / A. Kostyuk)   
 
 ## 4. Presence
 

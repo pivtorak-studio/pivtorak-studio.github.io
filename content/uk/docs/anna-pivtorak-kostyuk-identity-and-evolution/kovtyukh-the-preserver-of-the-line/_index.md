@@ -7,11 +7,11 @@ weight: 40
 
 <div class="float-right">
 
-!["Ковтюх: "Збереження Тяглості Через Відмову"](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
+![Ковтюх: "Збереження Тяглості Через Відмову"](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
 
 </div>
 
-# "Ковтюх: "Збереження Тяглості Через Відмову"
+# Ковтюх: "Збереження Тяглості Через Відмову"
 
 *Деякі постаті не формують систему. Вони зберігають можливість її існування.*
 

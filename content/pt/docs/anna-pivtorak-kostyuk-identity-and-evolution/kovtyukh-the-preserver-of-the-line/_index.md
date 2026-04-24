@@ -1,11 +1,17 @@
 ---
-title: "Kovtyukh — O Conservador da Linha"
+title: "Kovtyukh — Continuidade sob Renúncia"
 description: "Epifan Kovtyukh como figura que preservou a linhagem: memória, responsabilidade e transmissão entre gerações."
 keywords: ["Kovtyukh", "Epifan Kovtyukh", "linhagem", "memória", "história"]
 weight: 40
 ---
 
-# Kovtyukh — Kovtyukh — O Conservador da Linha
+<div class="float-right">
+
+![Kovtyukh "Continuidade sob Renúncia"](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
+
+</div>
+
+# Kovtyukh "Continuidade sob Renúncia"
 
 *Algumas figuras não formam um sistema. Preservam a possibilidade da sua existência.*
 
@@ -53,6 +59,13 @@ Não é apenas memória.
 
 Esta secção faz parte do processo de restituição do nome  
 e da fixação do seu lugar na história.
+
+**Alt-text:**    
+Para visualizar o papel de Kovtyukh, utiliza-se uma composição abstrata que representa uma decisão crítica que preservou a continuidade de uma linhagem.  
+No centro encontra-se um mapa ou estrutura de recursos, onde partes estão riscadas, removidas ou apagadas. Isto simboliza a renúncia voluntária à propriedade como condição de sobrevivência.  
+Uma linha fina, mas contínua, atravessa a composição, representando a continuidade da linhagem. Apesar da perda da base material, essa linha não se interrompe.  
+A imagem não se centra na figura de uma pessoa, mas na decisão em si — uma ação que alterou a trajetória e impediu o desaparecimento do sistema.  
+É um ponto em que a renúncia se torna condição de existência.  
 
 ---
 {{< section >}}

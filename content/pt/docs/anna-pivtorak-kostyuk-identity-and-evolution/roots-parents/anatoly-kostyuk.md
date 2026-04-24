@@ -14,7 +14,6 @@ weight: 10
 
 # Anatoly Ivanovich Kostyuk. Legado do Pai — Identidade e Princípios  
 *Princípios de ação, responsabilidade e visão estrutural.*  
-
 ## 1. Identidade  
 
 *Cientista, Inventor, Racionalizador, Doutor em Ciências Técnicas (equivalente a PhD), Laureado com o Prêmio Estatal da Ucrânia em Ciência e Tecnologia (1994), Especialista em tecnologia de vibração, materiais superduros e engenharia mecânica, Líder de laboratórios científicos, autor de soluções técnicas originais, Projetista com pensamento visionário de escala espacial*  
@@ -85,7 +84,7 @@ Russian Federation
 Pela criação dos fundamentos científicos de uma nova geração de materiais e tecnologias baseados em materiais superduros  
 
 ### Patentes / Invenções   
-🔩 Tecnologia de Vibração e Sistemas de Ressonância   
+**🔩 Tecnologia de Vibração e Sistemas de Ressonância**   
     1. Vibrador de ação ressonante com acionamento eletromagnético   
     2. Vibrador eletromagnético   
     3. Vibrador economizador de energia com oscilações direcionais de ação ressonante para tecnologia de vibração  

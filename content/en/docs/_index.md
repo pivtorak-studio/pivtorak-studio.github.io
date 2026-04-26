@@ -21,6 +21,8 @@ It includes:
 - cultural memory  
 - symbolic structures of power
 
+---
+
 {{< section >}}
 
 ---

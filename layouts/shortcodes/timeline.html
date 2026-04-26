@@ -1,8 +1,10 @@
-<ul>
-  {{ range sort (where .Site.Pages "Params.event_date" "!=" nil) "Params.event_date" "asc" }}
-    <li>
-      <strong>{{ .Params.event_date }}</strong> — 
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+<ul style="list-style-type: none; padding-left: 0;">
+  {{ range sort (where .Site.RegularPages "Params.event_date" "!=" nil) "Params.event_date" "asc" }}
+    <li style="margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 5px;">
+      <span style="color: #555;">📅</span>
+      <strong style="color: #d2a679;">{{ dateFormat "2006" .Params.event_date }}</strong> 
+      <small style="color: #888;">({{ dateFormat "02.01" .Params.event_date }})</small> 
+      — <a href="{{ .RelPermalink }}" style="text-decoration: none; font-weight: 500;">{{ .Title }}</a>
     </li>
   {{ end }}
 </ul>

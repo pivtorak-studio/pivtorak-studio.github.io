@@ -26,14 +26,13 @@ weight: 5
 
 {{< details "Натисніть, щоб переглянути події за роками" >}}
 <ul>
-{{ range (sort .Site.RegularPages "Params.event_date" "asc") }}
-  {{ if .Params.event_date }}
-    <li>
-      <strong>{{ dateFormat "2006" .Params.event_date }}</strong> — 
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
-      <small>({{ dateFormat "02.01" .Params.event_date }})</small>
-    </li>
+  {{ range (sort .Site.RegularPages "Params.event_date" "asc") }}
+    {{ if .Params.event_date }}
+      <li>
+        <strong>{{ .Params.event_date }}</strong> — 
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
   {{ end }}
-{{ end }}
 </ul>
 {{< /details >}}

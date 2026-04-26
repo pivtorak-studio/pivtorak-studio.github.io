@@ -1,6 +1,7 @@
 ---
 title: "⏳ Хронологія: Шлях та Еволюція"
 description: "Історична реконструкція подій, що сформували ідентичність Anna Pivtorak. Від витоків до створення Pivtorak.Studio."
+weight: 5
 ---
 
 <script type="application/ld+json">

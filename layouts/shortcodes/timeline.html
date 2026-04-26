@@ -1,11 +1,8 @@
 <ul>
-  {{ range (sort .Site.RegularPages "Params.event_date" "asc") }}
-    {{ if .Params.event_date }}
-      <li>
-        <strong>{{ dateFormat "2006" .Params.event_date }}</strong> — 
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
-        <small>({{ dateFormat "02.01" .Params.event_date }})</small>
-      </li>
-    {{ end }}
+  {{ range sort (where .Site.Pages "Params.event_date" "!=" nil) "Params.event_date" "asc" }}
+    <li>
+      <strong>{{ .Params.event_date }}</strong> — 
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
   {{ end }}
 </ul>

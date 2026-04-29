@@ -13,9 +13,29 @@ event_type: concept
 
 </div>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Diamond Code of Conduct — Pivtorak.Studio",
+  "description": "Operational principles defining how projects are initiated, structured, and completed within Pivtorak.Studio.",
+  "datePublished": "2026-04-29",
+  "dateCreated": "2026-04-29",
+  "creator": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  }
+}
+</script>
+
 # Pivtorak.Studio
 
 ## 💎 005 Код поведінки — Pivtorak.Studio  
+Резонанс → Форма → Відповідальність  
 
 ### 1. Безкомпромісна якість  
 

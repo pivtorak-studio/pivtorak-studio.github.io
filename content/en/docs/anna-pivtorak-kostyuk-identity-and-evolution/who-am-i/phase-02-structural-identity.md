@@ -80,4 +80,20 @@ If not — it disappears.
 I am not building a collection of works.  
 I am building a thinking system that can exist beyond me.
 
+## 🧭 Code of Conduct
+(synthesis: Father + Mother → Me)
+### System → Form → Action  
+- I act through understanding, not pressure
+- I maintain form with the same precision as content
+- I make decisions independently and carry them through
+- I create environments that support development
+- I choose quality over display
+- I think systemically, but act concretely
+- I do not allow chaos — neither in thought nor in form
+- I look beyond the immediate situation
+- I am always ready to meet
+- I am responsible not only for actions, but for my state
+- I work with reality, not with assumptions
+- I refine to precision — even in details  
+
 *Anna Pivtorak (Kostyuk) – After the formation of Pivtorak.Studio as a structured system. Who am I? — Phase II — Structural Identity. Pivtorak.Studio. 26.02.2026*

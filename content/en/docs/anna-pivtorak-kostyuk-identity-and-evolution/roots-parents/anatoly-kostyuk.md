@@ -3,6 +3,9 @@ title: Father’s Legacy — Identity and Principles
 description: The influence of a father as a source of structured thinking, responsibility, and decision-making. Not a biography, but a transmitted system.
 keywords: father, legacy, thinking, structure, responsibility, principles, engineering, science, influence, family
 weight: 10
+event_date: 2015-06-14 # Date of the event mentioned in the article (for Timeline)
+publication_date: 2025-06-14 # Date the article was published
+event_type: life_node
 ---
 
 <div class="float-right">

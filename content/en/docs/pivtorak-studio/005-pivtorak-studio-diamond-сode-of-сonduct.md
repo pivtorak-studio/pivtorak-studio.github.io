@@ -70,4 +70,4 @@ And that signature carries responsibility.
 **Alt-text:**    
 An illustration titled “Diamond Code of Conduct — Pivtorak.Studio”. At the center, a white bird in flight is inscribed within a geometric polyhedral structure resembling a diamond, symbolizing system, harmony, and precision. Around it are four principles: resonance as the minimum standard, discipline of thought in form, structure over effect, and personal responsibility. The composition combines engineering geometry with soft symbolism, emphasizing the balance between system and presence.  
 
-_Pivtorak.Studio. Код поведінки. AP | Pivtorak.Studio. 29.04.2026_  
+_Pivtorak.Studio. Code of Conduct. AP | Pivtorak.Studio. 29.04.2026_  

@@ -109,16 +109,16 @@ Grandchildren: Six
     15. Energy-saving method for generating stable directional resonant oscillations excited by a centrifugal vibrator based on an asynchronous electric motor  
  
 **🛠️ Metal-Cutting and Technological Devices**  
-    1. High-precision metal-cutting machine tool  
-    2. Method of burnisher grinding  
-    3. Method for shaping the working surface of steel or cast iron components  
-    4. Method for obtaining an anti-friction surface  
-    5. Device for supplying lubricant-coolant to a grinding wheel  
-    6. Hydrostatic support  
+    16. High-precision metal-cutting machine tool  
+    17. Method of burnisher grinding  
+    18. Method for shaping the working surface of steel or cast iron components  
+    19. Method for obtaining an anti-friction surface  
+    20. Device for supplying lubricant-coolant to a grinding wheel  
+    21. Hydrostatic support  
  
 **🚀 Space and Futuristic Projects**  
-    1. Method for protecting the Earth against asteroid-comet hazards  
-    2. Spacecraft for interplanetary and intergalactic flight  
+    22. Method for protecting the Earth against asteroid-comet hazards  
+    23. Spacecraft for interplanetary and intergalactic flight  
 
 **🎯 Other**  
     24. Device for recording the results of sports exercises  

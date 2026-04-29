@@ -149,4 +149,54 @@ Ele não era apenas alguém que explicava — criava um espaço onde nascia a co
 - A responsabilidade não se delega   
 - A presença é uma forma de atenção   
 - A compreensão surge no momento do pensamento partilhado   
-- Aprender não é transmitir conhecimento, mas criar um espaço de compreensão    
+- Aprender não é transmitir conhecimento, mas criar um espaço de compreensão
+
+## 7. Cenas de Formação  
+
+### ⚙️ 1. A ressonância como método  
+*Configurações do sistema*  
+O mundo não é estático — ele vibra.    
+A decisão correta não é pressão, mas encontrar a ressonância.  
+Quando a frequência do esforço coincide com a das possibilidades, a resistência desaparece.  
+O sistema começa a funcionar por si.   
+A energia não se gasta — multiplica-se.  
+
+### 📝 2. Traçar o destino  
+*Precisão da linha*   
+Um desenho não é uma imagem — é um documento.    
+Cada linha deve ser justificada.  
+Um erro no papel torna-se um erro na realidade.    
+A atenção na fase de projeto salva sistemas.  
+A disciplina da mão é a disciplina do pensamento.  
+
+### 🎸 3. Silêncio e som  
+*Harmonia da presença*  
+A guitarra soa quando as cordas estão afinadas com precisão.  
+Mas a música nasce no silêncio entre as notas.  
+A presença não exige palavras.   
+É estar no mesmo campo.  
+Uma noite silenciosa vale mais do que um discurso alto.  
+
+### 🎞️ 4. Luz da escuridão  
+*Manifestação da essência*  
+Na escuridão, a imagem surge.   
+É um processo que não pode ser apressado.  
+A forma aparece gradualmente.   
+É preciso paciência para a ver.  
+A investigação é trazer a verdade à luz.  
+
+### 🔭 5. Escala cósmica  
+*Horizonte do pensamento*  
+É preciso olhar para além da própria vida.   
+A escala dos problemas define a escala da pessoa.  
+Somos responsáveis por sistemas que nos sobreviverão.   
+O pensamento vai além do presente.  
+
+### 🛡️ 6. Responsabilidade não delegada  
+*Último recurso*  
+Podes consultar muitos.   
+Mas a decisão é tua.  
+Uma assinatura é um nome.   
+E traz consequências.  
+A responsabilidade não se transfere.  
+ 

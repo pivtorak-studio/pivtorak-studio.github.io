@@ -131,7 +131,7 @@ The environment determines development.
 And it is chosen consciously.   
 What appears as an opportunity is not always the right path.  
 
-### 💍 4. Ethics of Appearance   
+### 💍 4. Priority of the basis   
 *Foundation Before Accent*  
 External emphasis cannot replace the foundation.    
 First — condition, then — decoration.  

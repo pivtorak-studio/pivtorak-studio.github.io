@@ -3,6 +3,9 @@ title: Legado do Pai — Identidade e Princípios
 description: A influência do pai como fonte de pensamento estruturado, responsabilidade e capacidade de decisão. Não é uma biografia, mas um sistema transmitido.
 keywords: pai, legado, pensamento, estrutura, responsabilidade, princípios, engenharia, ciência, influência, família
 weight: 10
+event_date: 2015-06-14 # Data do evento mencionado no artigo (para a Timeline)
+publication_date: 2025-06-14 # Data de publicação do artigo
+event_type: life_node
 ---
 
 <div class="float-right">

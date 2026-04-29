@@ -16,7 +16,7 @@ weight: 5
 
 # ⏳ Cronologia: Caminho e Evolução
 
-Esta secção reúne automaticamente todos os eventos do seu percurso.  
+Esta secção reúne automaticamente todos os eventos do percurso.  
 **Historical Date** — data do evento. **Publication Date** — data do registo.
 
 {{< details "Clique para expandir a lista completa" >}}

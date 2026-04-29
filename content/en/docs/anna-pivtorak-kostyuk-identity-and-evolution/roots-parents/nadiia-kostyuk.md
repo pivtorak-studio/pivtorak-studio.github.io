@@ -19,7 +19,7 @@ event_type: life_node
 
 ## 1. Identity   
 
-Engineer, specialist in administrative and documentation support for scientific institutions, teacher by education (French language)   
+*Engineer, specialist in administrative and documentation support for scientific institutions, teacher by education (French language)*   
 
 ## 2. Life Path  
  

@@ -153,5 +153,55 @@ He wasn’t just someone who explained things — he created a space where under
 - Responsibility cannot be delegated   
 - Presence is a form of attention   
 - Understanding emerges in the moment of shared thinking  
-- Learning is not the transfer of knowledge, but the creation of a space for understanding   
+- Learning is not the transfer of knowledge, but the creation of a space for understanding
+
+## 7. Formative Scenes  
+
+### ⚙️ 1. Resonance as a method  
+*System settings*  
+The world is not static — it vibrates.  
+The right decision is not pressure, but finding resonance.  
+When the frequency of effort matches the frequency of possibility, resistance disappears.   
+The system begins to work on its own.    
+Energy is not spent — it multiplies.  
+
+### 📝 2. Drawing fate  
+*Line accuracy*  
+A drawing is not an image — it is a document.    
+Every line must be justified.  
+An error on paper becomes an error in reality.    
+Attention at the design stage saves systems.  
+Discipline of the hand is discipline of thought.  
+
+### 🎸 3. Silence and sound  
+*Harmony of presence*   
+A guitar sounds when the strings are tuned precisely.   
+But music is born in the silence between notes.  
+Presence does not require words.   
+It is being within the same field.   
+A quiet evening weighs more than a loud speech.  
+
+### 🎞️ 4. Light from darkness  
+*Manifestation of essence*   
+In darkness, the image appears.  
+It is a process that cannot be rushed.   
+Form emerges gradually.    
+Patience is required to see it.  
+Research is bringing truth into the light.  
+
+### 🔭 5. Cosmic scale  
+*Thinking horizon*  
+One must look beyond one’s own lifetime.    
+The scale of problems defines the scale of a person.  
+We are responsible for systems that will outlive us.    
+Thinking extends beyond the present.  
+
+### 🛡️ 6. Undelegated responsibility  
+*Last resort*   
+You may consult many.    
+But the decision is yours.  
+A signature is a name.    
+And it carries consequences.  
+Responsibility cannot be transferred.  
+
 

@@ -2,6 +2,9 @@
 title: "Fase II — Identidade Estrutural (2026)"
 description: Segunda fase da identidade – transição da narrativa para o pensamento sistémico e construção estrutural.
 weight: 3
+event_date: 2026-02-26 # Data do evento mencionado no artigo (para cronologia)
+publication_date: 2026-02-26 # Data de publicação do artigo (para compreensão do evento)
+event_type: life_node
 ---
 
 <script type="application/ld+json">
@@ -79,5 +82,21 @@ Se não — desaparece.
 
 Não estou a construir uma coleção de obras.    
 Estou a construir um sistema de pensamento que pode existir para além de mim.  
+
+## 🧭 Código de Conduta  
+(síntese: Pai + Mãe → Eu)  
+### Sistema → Forma → Ação    
+- Ajo através da compreensão, não da pressão  
+- Mantenho a forma com a mesma precisão que o conteúdo  
+- Tomo decisões de forma independente e levo-as até ao fim  
+- Crio ambientes que sustentam o desenvolvimento  
+- Escolho qualidade em vez de exibição  
+- Penso de forma sistémica, mas ajo de forma concreta  
+- Não permito caos — nem no pensamento nem na forma  
+- Olho para além da situação imediata  
+- Estou sempre pronta para o encontro  
+- Sou responsável não só pelas ações, mas pelo meu estado  
+- Trabalho com a realidade, não com suposições  
+- Aperfeiçoo até à precisão — mesmo nos detalhes  
 
 *Anna Pivtorak (Kostyuk) – Após a formação da Pivtorak.Studio como um sistema estruturado. Quem sou eu? — Fase II — Identidade Estrutural (2026). Pivtorak.Studio. 26.02.2026*

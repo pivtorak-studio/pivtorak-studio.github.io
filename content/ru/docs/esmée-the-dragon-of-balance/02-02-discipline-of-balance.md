@@ -1,6 +1,9 @@
 ---
 title: "02.02 🐉⚖️ ESMÉE. 🌀 Дисциплина Равновесия"
-weight: 1
+weight: 5
+event_date: 2025-10-09T11:00:00 # Дата события 
+publication_date: 2025-10-09 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

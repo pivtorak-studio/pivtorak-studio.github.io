@@ -1,6 +1,9 @@
 ---
 title: "02.04 🐉⚖️ ESMÉE. 🌀 Presença Pacífica"
-weight: 1
+weight: 7
+event_date: 2025-10-09T13:00:00 # Data do evento
+publication_date: 2025-10-09 # Data de publicação
+event_type: transformation
 ---
 
 <div class="float-right">

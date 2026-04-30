@@ -1,6 +1,9 @@
 ---
 title: "02.05 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados"
-weight: 1
+weight: 8
+event_date: 2025-10-09T14:00:00 # Data do evento 
+publication_date: 2025-10-09 # Data de publicação
+event_type: transformation
 ---
 
 <div class="float-right">

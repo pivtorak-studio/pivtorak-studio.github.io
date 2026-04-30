@@ -3,7 +3,7 @@ title: "002 На Червоній Доріжці"
 weight: 2
 event_date: 2023-07-19 # Дата події (формулювання контуру реалізації)
 publication_date: 2025-07-07 # Дата публікації
-event_type: concept
+event_type: transformation
 ---
 
 <div class="float-right">

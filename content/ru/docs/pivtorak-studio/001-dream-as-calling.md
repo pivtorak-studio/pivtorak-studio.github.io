@@ -3,7 +3,7 @@ title: "001 Сон как Призвание"
 weight: 1
 event_date: 2023-07-16 # Дата события (формулирование контура)
 publication_date: 2025-07-07 # Дата публикации
-event_type: concept
+event_type: transformation
 ---
 
 <div class="float-right">

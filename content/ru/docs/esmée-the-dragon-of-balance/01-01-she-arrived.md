@@ -1,6 +1,9 @@
 ---
 title: "01.01 🐉⚖️ ESMÉE. 📍Она прибыла. И этого достаточно"
 weight: 1
+event_date: 2025-05-16T10:00:00 # Дата события (формулирование контура)
+publication_date: 2025-05-16 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

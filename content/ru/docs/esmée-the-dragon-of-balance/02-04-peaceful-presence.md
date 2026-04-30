@@ -1,6 +1,9 @@
 ---
 title: "02.04 🐉⚖️ ESMÉE. 🌀 Мирное Присутствие"
-weight: 1
+weight: 7
+event_date: 2025-10-09T13:00:00 # Дата события 
+publication_date: 2025-10-09 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

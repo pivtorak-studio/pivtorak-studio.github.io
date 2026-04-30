@@ -1,6 +1,9 @@
 ---
 title: "001 Dream as Calling"
 weight: 1
+event_date: 2023-07-16 # Date of the event (framework formulation)
+publication_date: 2025-07-07 # Publication date
+event_type: concept
 ---
 
 <div class="float-right">

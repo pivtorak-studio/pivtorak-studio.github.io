@@ -1,6 +1,9 @@
 ---
 title: "01.03 🐉⚖️ ESMÉE. 🌈 She doesn’t open the Gate. She breathes — and it appears"
-weight: 1
+weight: 3
+event_date: 2025-05-16T12:00:00 # Date of the event (framework formulation)
+publication_date: 2025-05-16 # Publication date
+event_type: transformation
 ---
 
 <div class="float-right">

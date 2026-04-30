@@ -1,6 +1,9 @@
 ---
 title: "02.06 🐉⚖️ ESMÉE. 🌀 Невидимый Мост"
-weight: 1
+weight: 9
+event_date: 2025-10-09T15:00:00 # Дата события 
+publication_date: 2025-10-09 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

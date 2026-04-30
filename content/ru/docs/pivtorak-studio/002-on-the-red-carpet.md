@@ -1,6 +1,9 @@
 ---
 title: "002 На Красной Дорожке"
 weight: 1
+event_date: 2023-07-19 # Дата события (формулирование контура)
+publication_date: 2025-07-07 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

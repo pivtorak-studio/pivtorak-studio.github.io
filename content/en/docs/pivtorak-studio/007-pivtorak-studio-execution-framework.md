@@ -67,4 +67,4 @@ It marks completion and the beginning of impact.
 **Alt-text:**  
 An illustration titled “Execution Framework — Pivtorak.Studio”. At the center is a geometric polyhedral structure resembling a diamond with an inner star, symbolizing the core of the system. Surrounding it is a circular contour representing an autonomous execution loop — from internal impulse to publication. Six principles are arranged around the structure: internal commission, self-defined task, autonomous process, no external pressure, closed cycle, and publication as completion. The composition emphasizes continuity and direct entry of results into the world without intermediaries.
 
-_Pivtorak.Studio. Контур реалізації. AP | Pivtorak.Studio. 30.04.2026_
+_Pivtorak.Studio. Execution Framework. AP | Pivtorak.Studio. 30.04.2026_

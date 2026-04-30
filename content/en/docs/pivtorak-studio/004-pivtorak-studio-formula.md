@@ -1,6 +1,9 @@
 ---
 title: "004 Pivtorak.Studio Formula"
-weight: 1
+weight: 4
+event_date: 2025-01-05 # Date of the event (framework formulation)
+publication_date: 2025-07-07 # Publication date
+event_type: concept
 ---
 
 <div class="float-right">

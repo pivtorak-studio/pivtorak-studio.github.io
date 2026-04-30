@@ -1,6 +1,9 @@
 ---
 title: "02.01 🐉⚖️ ESMÉE. 🌀 Рождение Весов"
-weight: 1
+weight: 4
+event_date: 2025-10-09T10:00:00 # Дата события (формулирование контура)
+publication_date: 2025-10-09 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

@@ -1,6 +1,9 @@
 ---
 title: "003 Присутність"
-weight: 1
+weight: 3
+event_date: 2023-08-10 # Дата події (формулювання контуру реалізації)
+publication_date: 2025-07-07 # Дата публікації
+event_type: transformation
 ---
 
 <div class="float-right">

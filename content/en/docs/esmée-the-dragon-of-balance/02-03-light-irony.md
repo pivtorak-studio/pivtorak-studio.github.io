@@ -1,6 +1,9 @@
 ---
 title: "02.03 🐉⚖️ ESMÉE. 🌀 Light Irony"
-weight: 1
+weight: 6
+event_date: 2025-10-09T12:00:00 # Date of the event (framework formulation)
+publication_date: 2025-10-09 # Publication date
+event_type: transformation
 ---
 
 <div class="float-right">

@@ -1,6 +1,9 @@
 ---
 title: "01.03 🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются"
-weight: 1
+weight: 3
+event_date: 2025-05-16T12:00:00 # Дата события (формулирование контура)
+publication_date: 2025-05-16 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

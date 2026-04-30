@@ -1,6 +1,9 @@
 ---
 title: "001 Sonho como Chamado"
 weight: 1
+event_date: 2023-07-16 # Data do evento (formulação da estrutura)
+publication_date: 2025-07-07 # Data de publicação
+event_type: concept
 ---
 
 <div class="float-right">

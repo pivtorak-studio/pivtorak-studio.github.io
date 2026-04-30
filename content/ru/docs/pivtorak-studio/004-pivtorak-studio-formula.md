@@ -1,6 +1,9 @@
 ---
 title: "004 Формула Pivtorak.Studio"
-weight: 1
+weight: 4
+event_date: 2025-01-05 # Дата события (формулирование контура)
+publication_date: 2025-07-07 # Дата публикации
+event_type: concept
 ---
 
 <div class="float-right">

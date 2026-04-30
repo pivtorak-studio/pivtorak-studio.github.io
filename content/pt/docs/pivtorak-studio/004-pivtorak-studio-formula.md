@@ -1,6 +1,9 @@
 ---
 title: "004 Fórmula da Pivtorak.Studio"
-weight: 1
+weight: 4
+event_date: 2025-01-05 # Data do evento (formulação da estrutura)
+publication_date: 2025-07-07 # Data de publicação
+event_type: concept
 ---
 
 <div class="float-right">

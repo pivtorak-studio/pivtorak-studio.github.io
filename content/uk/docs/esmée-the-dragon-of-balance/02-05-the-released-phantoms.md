@@ -1,6 +1,9 @@
 ---
 title: "02.05 🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено"
-weight: 1
+weight: 8
+event_date: 2025-10-09T14:00:00 # Дата події, про яку йдеться (для Хронології)
+publication_date: 2025-10-09 # Дата, коли стаття була опублікована
+event_type: transformation
 ---
 
 <div class="float-right">

@@ -1,6 +1,9 @@
 ---
 title: "003 A Presença"
-weight: 1
+weight: 3
+event_date: 2023-08-10 # Data do evento (formulação da estrutura)
+publication_date: 2025-07-07 # Data de publicação
+event_type: transformation
 ---
 
 <div class="float-right">

@@ -3,7 +3,7 @@ title: "002 No Tapete Vermelho "
 weight: 2
 event_date: 2023-07-19 # Data do evento (formulação da estrutura)
 publication_date: 2025-07-07 # Data de publicação
-event_type: concept
+event_type: transformation
 ---
 
 <div class="float-right">

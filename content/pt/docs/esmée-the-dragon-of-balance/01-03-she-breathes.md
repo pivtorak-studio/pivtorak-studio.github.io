@@ -1,6 +1,9 @@
 ---
 title: "01.03 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece"
-weight: 1
+weight: 3
+event_date: 2025-05-16T12:00:00 # Data do evento (formulação da estrutura)
+publication_date: 2025-05-16 # Data de publicação
+event_type: transformation
 ---
 
 <div class="float-right">

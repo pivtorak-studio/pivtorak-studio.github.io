@@ -1,6 +1,9 @@
 ---
 title: "02.02 🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio"
-weight: 1
+weight: 5
+event_date: 2025-10-09T11:00:00 # Data do evento (formulação da estrutura)
+publication_date: 2025-10-09 # Data de publicação
+event_type: transformation
 ---
 
 <div class="float-right">

@@ -1,6 +1,9 @@
 ---
 title: "003 Присутствие"
-weight: 1
+weight: 3
+event_date: 2023-08-10 # Дата события (формулирование контура)
+publication_date: 2025-07-07 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

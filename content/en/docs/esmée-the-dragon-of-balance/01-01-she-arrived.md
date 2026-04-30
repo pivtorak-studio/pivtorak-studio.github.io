@@ -1,6 +1,9 @@
 ---
 title: "01.01 🐉⚖️ ESMÉE. 📍She arrived. And that is enough"
 weight: 1
+event_date: 2025-05-16T10:00:00 # Date of the event (framework formulation)
+publication_date: 2025-05-16 # Publication date
+event_type: transformation
 ---
 
 <div class="float-right">

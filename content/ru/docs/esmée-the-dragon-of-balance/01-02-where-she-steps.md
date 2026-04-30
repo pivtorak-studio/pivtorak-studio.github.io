@@ -1,6 +1,9 @@
 ---
 title: "01.02 🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы"
-weight: 1
+weight: 2
+event_date: 2025-05-16T11:00:00 # Дата события (формулирование контура)
+publication_date: 2025-05-16 # Дата публикации
+event_type: transformation
 ---
 
 <div class="float-right">

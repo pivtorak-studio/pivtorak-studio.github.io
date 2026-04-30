@@ -1,5 +1,5 @@
 ---
-title: Código de Conduta — Pivtorak.Studio
+title: 005 Código de Conduta — Pivtorak.Studio
 description: O código operacional do estúdio. Princípios pelos quais os projetos são iniciados, avaliados e concluídos.
 weight: 5
 event_date: 2026-04-29 # Data do evento (formulação do código)

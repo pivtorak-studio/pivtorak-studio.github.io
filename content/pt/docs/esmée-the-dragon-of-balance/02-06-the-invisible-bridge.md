@@ -1,6 +1,9 @@
 ---
 title: "02.06 🐉⚖️ ESMÉE. 🌀 A Ponte Invisível"
-weight: 1
+weight: 9
+event_date: 2025-10-09T15:00:00 # Data do evento 
+publication_date: 2025-10-09 # Data de publicação
+event_type: transformation
 ---
 
 <div class="float-right">

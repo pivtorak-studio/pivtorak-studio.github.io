@@ -1,6 +1,9 @@
 ---
 title: "02.03 🐉⚖️ ESMÉE. 🌀 Світла Іронія"
-weight: 1
+weight: 6
+event_date: 2025-10-09T12:00:00 # Дата події, про яку йдеться (для Хронології)
+publication_date: 2025-10-09 # Дата, коли стаття була опублікована
+event_type: transformation
 ---
 
 <div class="float-right">

@@ -1,10 +1,33 @@
-<ul style="list-style-type: none; padding-left: 0;">
-  {{ range sort (where .Site.RegularPages "Params.event_date" "!=" nil) "Params.event_date" "asc" }}
-    <li style="margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 5px;">
-      <span style="color: #555;">📅</span>
-      <strong style="color: #d2a679;">{{ dateFormat "2006" .Params.event_date }}</strong> 
-      <small style="color: #888;">({{ dateFormat "02.01" .Params.event_date }})</small> 
-      — <a href="{{ .RelPermalink }}" style="text-decoration: none; font-weight: 500;">{{ .Title }}</a>
-    </li>
+<div class="timeline-list">
+  {{ $pages := (where .Site.RegularPages "Params.event_date" "!=" nil) }}
+  {{ range $pages.GroupByPublishDate "2006" "desc" }}
+    <h2 style="border-bottom: 2px solid #d2a679; padding-top: 20px;">{{ .Key }} рік</h2>
+    <ul style="list-style-type: none; padding-left: 0;">
+      {{ range sort .Pages "Params.event_date" "desc" }}
+        <li style="margin-bottom: 15px; border-bottom: 1px dashed #eee; padding-bottom: 8px; display: flex; align-items: baseline;">
+          <span style="min-width: 80px; color: #d2a679; font-weight: bold;">
+            {{ dateFormat "02.01" .Params.event_date }}
+          </span>
+          
+          <div style="flex-grow: 1;">
+            <a href="{{ .RelPermalink }}" style="text-decoration: none; font-weight: 500; color: var(--color-link);">
+              {{ .Title }}
+            </a>
+            
+            {{ if .Params.series }}
+              <span style="font-size: 0.8rem; background: #f0f0f0; padding: 2px 6px; border-radius: 4px; margin-left: 8px; color: #666;">
+                #{{ .Params.series }}
+              </span>
+            {{ end }}
+
+            {{ if and .Params.publication_date (ne (dateFormat "2006-01-02" .Params.event_date) (dateFormat "2006-01-02" .Params.publication_date)) }}
+              <small style="color: #999; display: block; font-size: 0.75rem;">
+                📝 Опубліковано: {{ dateFormat "02.01.2006" .Params.publication_date }}
+              </small>
+            {{ end }}
+          </div>
+        </li>
+      {{ end }}
+    </ul>
   {{ end }}
-</ul>
+</div>

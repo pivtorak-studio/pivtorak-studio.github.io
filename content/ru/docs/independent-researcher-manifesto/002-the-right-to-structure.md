@@ -6,7 +6,7 @@ weight: 1
 
 <div class="float-right">
 
-![Право структурировать](/images/manifesto-002.webp)
+![Право структурировать](/images/independent-researcher-manifesto-002-the-right-to-structure-pivtorak-studio-2026.webp)
 
 </div>
 

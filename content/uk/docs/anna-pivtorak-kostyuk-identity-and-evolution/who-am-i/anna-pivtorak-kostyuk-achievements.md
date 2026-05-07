@@ -26,6 +26,7 @@ event_type: life_node
   
 {{< details "**Батьки і родичі**" >}}
 
+<ul>
 Батько: [Костюк Анатолій Іванович (1948-2015)](https://memoryon.net/s/Onj5VlVZGZ)   
 Мати: [Костюк (Довбиш) Надія Миколаївна (1947-2021)](https://memoryon.net/s/PKyouCoFJ2)   
 Брат: [Костюк Олександр Анатолійович, 24.02.1971 р.н.](https://memoryon.net/s/nODFeN_cID)   
@@ -44,6 +45,8 @@ event_type: life_node
 ПраПраДід: Галушко Конон   
 ПраПраДід: Гуденко Каленик   
 
+  </ul>
+  
 {{< /details >}}
 
 ---

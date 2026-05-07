@@ -1,6 +1,25 @@
 ---
+id: anna-pivtorak
+language: uk
 title: "0.01 Pivtorak.Studio — Офіційний Вебсайт | Анна Півторак (Костюк)"
 description: "Офіційний сайт Анни Півторак (Костюк) — дослідниці, авторки та творця культурних проєктів."
+weight: 1
+event_date: 2023-07-116 
+publication_date: 2026-03-18 
+event_type: concept
+tags:
+  - Anna Pivtorak
+  - Анна Півторак
+  - Anna Kostyuk
+  - Анна Костюк
+  - Pivtorak Studio
+country: UA
+status: published
+featured: true
+image: "/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp"
+alt: "Концептуальна система формування довгострокових структур цінності"
+related:
+  - /chronology/
 ---
 
 <script type="application/ld+json">

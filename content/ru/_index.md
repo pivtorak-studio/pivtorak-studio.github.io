@@ -10,10 +10,14 @@ event_type: concept
 tags:
   - Anna Pivtorak
   - Анна Півторак
+  - Анна Пивторак
   - Anna Kostyuk
   - Анна Костюк
-  - Анна Пивторак
+  - Anna Pivtorak Kostyuk
+  - Анна Півторак Костюк
+  - Анна Пивторак Костюк
   - Pivtorak Studio
+  - Півторак Студія
   - Пивторак Студия
 country: UA
 status: published
@@ -23,6 +27,11 @@ alt: "Концептуальная система формирования до�
 related:
   - /chronology/
 ---
+
+<link rel="alternate" hreflang="uk" href="https://pivtorak.studio/anna-pivtorak">
+<link rel="alternate" hreflang="en" href="https://pivtorak.studio/en/anna-pivtorak">
+<link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/anna-pivtorak">
+<link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/anna-pivtorak">
 
 <script type="application/ld+json">
 {
@@ -34,7 +43,8 @@ related:
     "Анна Костюк",
     "Anna Kostyuk",
     "Anna Pivtorak Kostyuk",
-    "Анна Пивторак"
+    "Анна Пивторак",
+    "Анна Пивторак Костюк"
   ],
   "url": "https://pivtorak.studio",
   "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
@@ -99,11 +109,17 @@ related:
 **∴ 0.01** **◯**
 *Концептуальная система формирования долгосрочных структур ценности. 
 Pivtorak.Studio. 16.07.2023*
+<p>© Анна Пивторак (Костюк)</p>
 
 ---
 # Анна Пивторак (Костюк) 
 Анна Пивторак (Anna Pivtorak, Анна Костюк, Anna Kostyuk, Анна Півторак) – исследователь, автор и создатель культурно-аналитических проектов.  
-Офіційний Вебсайт: **pivtorak.studio**  
+
+Profile: 
+<a href="https://pivtorak.studio/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Анна Пивторак (Костюк) </a>   
+
+Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>    
+
 📧 research@pivtorak.studio
 
 ## 🔍 Навигатор по Архивам

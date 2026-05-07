@@ -115,10 +115,10 @@ Pivtorak.Studio. 16.07.2023*
 # Анна Пивторак (Костюк) 
 Анна Пивторак (Anna Pivtorak, Анна Костюк, Anna Kostyuk, Анна Півторак) – исследователь, автор и создатель культурно-аналитических проектов.  
 
-Profile: 
+Профиль: 
 <a href="https://pivtorak.studio/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Анна Пивторак (Костюк) </a>   
 
-Офіційний Вебсайт: <a href="https://pivtorak.studio/ru/docs/">pivtorak.studio</a>    
+Официальный Вебсайт: <a href="https://pivtorak.studio/ru/docs/">pivtorak.studio</a>    
 
 📧 research@pivtorak.studio
 

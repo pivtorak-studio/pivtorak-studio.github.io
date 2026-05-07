@@ -118,7 +118,7 @@ Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, �
 Profile: 
 <a href="https://pivtorak.studio/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Anna Pivtorak (Kostyuk)</a>   
 
-Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>    
+Офіційний Вебсайт: <a href="https://pivtorak.studio/pt/docs/">pivtorak.studio</a>    
 
 📧 research@pivtorak.studio
 

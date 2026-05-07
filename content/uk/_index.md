@@ -106,6 +106,7 @@ Profile:
 <a href="[/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution]">Anna Pivtorak (Kostyuk)</a>
 </p>
 Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>  
+
 📧 research@pivtorak.studio
 
 ---

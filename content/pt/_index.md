@@ -10,10 +10,14 @@ event_type: concept
 tags:
   - Anna Pivtorak
   - Анна Півторак
+  - Анна Пивторак
   - Anna Kostyuk
   - Анна Костюк
-  - Анна Пивторак
+  - Anna Pivtorak Kostyuk
+  - Анна Півторак Костюк
+  - Анна Пивторак Костюк
   - Pivtorak Studio
+  - Півторак Студія
   - Пивторак Студия
 country: UA
 status: published
@@ -23,6 +27,11 @@ alt: "Um sistema conceptual para a formação de estruturas de valor a longo pra
 related:
   - /chronology/
 ---
+
+<link rel="alternate" hreflang="uk" href="https://pivtorak.studio/anna-pivtorak">
+<link rel="alternate" hreflang="en" href="https://pivtorak.studio/en/anna-pivtorak">
+<link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/anna-pivtorak">
+<link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/anna-pivtorak">
 
 <script type="application/ld+json">
 {
@@ -34,7 +43,8 @@ related:
     "Анна Костюк",
     "Anna Kostyuk",
     "Anna Pivtorak Kostyuk",
-    "Анна Пивторак"
+    "Анна Пивторак",
+    "Анна Пивторак Костюк"
   ],
   "url": "https://pivtorak.studio",
   "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
@@ -99,11 +109,17 @@ Cada objeto pode ser ativado como lote apenas após atingir a densidade de conte
 **∴ 0.01** **◯**
 *Um sistema conceptual para a formação de estruturas de valor a longo prazo. 
 Pivtorak.Studio. 16.07.2023*
+<p>© Anna Pivtorak (Kostyuk)</p>
 
 ---
 # Anna Pivtorak (Kostyuk) 
 Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) é investigadora, autora e criadora de projetos culturais e analíticos.  
-Site Oficial: **pivtorak.studio**  
+
+Profile: 
+<a href="https://pivtorak.studio/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Anna Pivtorak (Kostyuk)</a>   
+
+Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>    
+
 📧 research@pivtorak.studio
 
 ---

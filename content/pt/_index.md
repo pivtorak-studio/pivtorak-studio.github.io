@@ -1,5 +1,25 @@
 ---
-title: "0.01"
+id: anna-pivtorak
+language: pt
+title: "0.01 Pivtorak.Studio — Site Oficial | Anna Pivtorak (Kostyuk)"
+description: "Official website of Anna Pivtorak (Kostyuk) — investigadora, autora e criadora de projetos culturais."
+weight: 1
+event_date: 2023-07-16 
+publication_date: 2026-03-18 
+event_type: concept
+tags:
+  - Anna Pivtorak
+  - Анна Півторак
+  - Anna Kostyuk
+  - Анна Костюк
+  - Pivtorak Studio
+country: UA
+status: published
+featured: true
+image: "/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp"
+alt: "Um sistema conceptual para a formação de estruturas de valor a longo prazo"
+related:
+  - /chronology/
 ---
 
 <div class="float-right">
@@ -8,7 +28,7 @@ title: "0.01"
 
 </div>
 
-**0.01 | Pivtorak.Studio**
+**0.01 | Pivtorak.Studio — Site Oficial | Anna Pivtorak (Kostyuk)**
 
 # Um sistema conceptual para a formação de estruturas de valor a longo prazo.
 
@@ -54,11 +74,16 @@ Cada objeto pode ser ativado como lote apenas após atingir a densidade de conte
 
 ### Assinatura:
 **∴ 0.01** **◯**
-
 *Um sistema conceptual para a formação de estruturas de valor a longo prazo. 
 Pivtorak.Studio. 16.07.2023*
 
+---
+# Anna Pivtorak (Kostyuk) 
+Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) é investigadora, autora e criadora de projetos culturais e analíticos.  
+Site Oficial: **pivtorak.studio**  
 📧 research@pivtorak.studio
+
+---
 
 ## 🔍 Navegador de Ficheiros
 

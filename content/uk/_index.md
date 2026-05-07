@@ -108,6 +108,7 @@ Profile:
 <a href="/anna-pivtorak">Anna Pivtorak (Kostyuk)</a>
 </p>
 Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>  
+
 📧 research@pivtorak.studio
 
 ---

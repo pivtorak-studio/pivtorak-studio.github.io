@@ -1,6 +1,47 @@
 ---
-title: "0.01"
+id: anna-pivtorak
+language: en
+title: "0.01 Pivtorak.Studio — Official Website | Anna Pivtorak (Kostyuk)"
+description: "Official website of Anna Pivtorak (Kostyuk) — researcher, author, and creator of cultural projects."
+weight: 1
+event_date: 2023-07-16 
+publication_date: 2026-03-18 
+event_type: concept
+tags:
+  - Anna Pivtorak
+  - Анна Півторак
+  - Anna Kostyuk
+  - Анна Костюк
+  - Pivtorak Studio
+country: UA
+status: published
+featured: true
+image: "/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp"
+alt: "A conceptual system for the formation of long-term value structures"
+related:
+  - /chronology/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anna Pivtorak (Kostyuk)",
+  "alternateName": [
+    "Анна Півторак",
+    "Анна Костюк",
+    "Anna Kostyuk",
+    "Anna Pivtorak Kostyuk",
+    "Анна Пивторак"
+  ],
+  "url": "https://pivtorak.studio",
+  "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
+  "birthDate": "1976-10-09",
+  "sameAs": [
+    "https://pivtorak.studio/anna-pivtorak"
+  ]
+}
+</script>
 
 <div class="float-right">
 
@@ -8,7 +49,7 @@ title: "0.01"
 
 </div>
 
-**0.01 | Pivtorak.Studio**
+**0.01 | Pivtorak.Studio – Official Website | Anna Pivtorak (Kostyuk)**
 
 # A conceptual system for the formation of long-term value structures.
 
@@ -54,11 +95,16 @@ Each object may be activated as a lot only upon reaching the required density of
 
 ## Signature:
 **∴ 0.01** **◯**
-
 *A conceptual system for the formation of long-term value structures. 
 Pivtorak.Studio. 16.07.2023*
 
+---
+# Anna Pivtorak (Kostyuk) 
+Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) is a researcher, author, and creator of cultural and analytical projects. 
+Official Websiteт: **pivtorak.studio**  
 📧 research@pivtorak.studio
+
+---
 
 ## 🔍 Archive Navigator
 

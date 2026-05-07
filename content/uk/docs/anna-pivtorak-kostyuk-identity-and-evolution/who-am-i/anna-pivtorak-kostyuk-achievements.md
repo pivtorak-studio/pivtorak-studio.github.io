@@ -91,7 +91,7 @@ event_type: life_node
 {{< /details >}}
 
 ---
-## 5. Відомі варіації імені:
+## 5. Відомі варіації імені
 
 - Anna Pivtorak  
 - Anna Kostyuk  

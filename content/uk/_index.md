@@ -22,6 +22,18 @@ related:
   - /chronology/
 ---
 
+<p><strong>Анна Півторак (Костюк)</strong> — дослідниця, авторка культурних та аналітичних проєктів.</p>
+
+<p>
+Також відома як: 
+Anna Pivtorak, Анна Пивторак, Anna Kostyuk, Анна Костюк
+</p>
+
+<p>
+Офіційний сайт: 
+<a href="https://pivtorak.studio">pivtorak.studio</a>
+</p>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

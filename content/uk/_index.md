@@ -10,9 +10,15 @@ event_type: concept
 tags:
   - Anna Pivtorak
   - Анна Півторак
+  - Анна Пивторак
   - Anna Kostyuk
   - Анна Костюк
+  - Anna Pivtorak Kostyuk
+  - Анна Півторак Костюк
+  - Анна Пивторак Костюк
   - Pivtorak Studio
+  - Півторак Студія
+  - Пивторак Студия
 country: UA
 status: published
 featured: true
@@ -102,14 +108,14 @@ related:
 **∴ 0.01** **◯**   
 *Концептуальна система формування довгострокових структур цінності.   
 Pivtorak.Studio. 16.07.2023*  
-<p>© Anna Pivtorak (Kostyuk)</p>
+<p>© Анна Півторак (Костюк)</p>
 
 ---
 # Анна Півторак (Костюк) 
 Анна Півторак (Anna Pivtorak, Анна Костюк, Anna Kostyuk, Анна Пивторак) – дослідниця, автор культурологічних та аналітичних проектів.   
 
 Profile: 
-<a href="https://pivtorak.studio/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Anna Pivtorak (Kostyuk)</a>   
+<a href="https://pivtorak.studio/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Анна Півторак (Костюк)</a>   
 
 Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>    
 

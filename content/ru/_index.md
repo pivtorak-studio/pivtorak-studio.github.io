@@ -118,7 +118,7 @@ Pivtorak.Studio. 16.07.2023*
 Profile: 
 <a href="https://pivtorak.studio/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Анна Пивторак (Костюк) </a>   
 
-Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>    
+Офіційний Вебсайт: <a href="https://pivtorak.studio/ru/docs/">pivtorak.studio</a>    
 
 📧 research@pivtorak.studio
 

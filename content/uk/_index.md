@@ -22,8 +22,6 @@ related:
   - /chronology/
 ---
 
-<p><strong>Анна Півторак (Костюк)</strong> — дослідниця, авторка культурних та аналітичних проєктів.</p>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -35,6 +33,7 @@ related:
     "Anna Kostyuk",
     "Anna Pivtorak Kostyuk",
     "Анна Пивторак"
+    "Анна Пивторак Костюк"
   ],
   "url": "https://pivtorak.studio",
   "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp",

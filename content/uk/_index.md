@@ -19,7 +19,7 @@ featured: true
 image: "/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp"
 alt: "Концептуальна система формування довгострокових структур цінності"
 related:
-  - /chronology/
+  - /timeline/
 ---
 
 <script type="application/ld+json">

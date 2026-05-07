@@ -10,17 +10,28 @@ event_type: concept
 tags:
   - Anna Pivtorak
   - Анна Півторак
+  - Анна Пивторак
   - Anna Kostyuk
   - Анна Костюк
+  - Anna Pivtorak Kostyuk
+  - Анна Півторак Костюк
+  - Анна Пивторак Костюк
   - Pivtorak Studio
+  - Півторак Студія
+  - Пивторак Студия
 country: UA
 status: published
 featured: true
 image: "/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp"
 alt: "A conceptual system for the formation of long-term value structures"
 related:
-  - /chronology/
+  - /timeline/
 ---
+
+<link rel="alternate" hreflang="uk" href="https://pivtorak.studio/anna-pivtorak">
+<link rel="alternate" hreflang="en" href="https://pivtorak.studio/en/anna-pivtorak">
+<link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/anna-pivtorak">
+<link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/anna-pivtorak">
 
 <script type="application/ld+json">
 {
@@ -28,11 +39,12 @@ related:
   "@type": "Person",
   "name": "Anna Pivtorak (Kostyuk)",
   "alternateName": [
-    "Анна Півторак",
+   "Анна Півторак",
     "Анна Костюк",
     "Anna Kostyuk",
     "Anna Pivtorak Kostyuk",
-    "Анна Пивторак"
+    "Анна Пивторак",
+    "Анна Пивторак Костюк"
   ],
   "url": "https://pivtorak.studio",
   "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
@@ -97,11 +109,17 @@ Each object may be activated as a lot only upon reaching the required density of
 **∴ 0.01** **◯**
 *A conceptual system for the formation of long-term value structures. 
 Pivtorak.Studio. 16.07.2023*
+<p>© Anna Pivtorak (Kostyuk)</p>
 
 ---
 # Anna Pivtorak (Kostyuk)  
 Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) is a researcher, author, and creator of cultural and analytical projects.     
-Official Websiteт: **pivtorak.studio**    
+
+Profile: 
+<a href="https://pivtorak.studio/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/anna-pivtorak-kostyuk-achievements/">Anna Pivtorak (Kostyuk)</a>   
+
+Офіційний Вебсайт: <a href="https://pivtorak.studio">pivtorak.studio</a>    
+
 📧 research@pivtorak.studio  
 
 ---

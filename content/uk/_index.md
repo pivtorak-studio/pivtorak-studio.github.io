@@ -22,6 +22,11 @@ related:
   - /timeline/
 ---
 
+<link rel="alternate" hreflang="uk" href="https://pivtorak.studio/anna-pivtorak">
+<link rel="alternate" hreflang="en" href="https://pivtorak.studio/en/anna-pivtorak">
+<link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/anna-pivtorak">
+<link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/anna-pivtorak">
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

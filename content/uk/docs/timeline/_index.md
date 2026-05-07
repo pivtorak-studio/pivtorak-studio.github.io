@@ -4,6 +4,16 @@ description: "Історична реконструкція подій, що с�
 weight: 5
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWorkSeries",
+  "name": "Хронологія: Шлях та Еволюція — Anna Pivtorak",
+  "description": "Автоматична реконструкція подій.",
+  "author": { "@type": "Person", "name": "Anna Pivtorak" }
+}
+</script>
+
 <div style="border: 1px solid #f2c94c; background-color: #fff8e1; padding: 16px; border-radius: 10px; margin: 20px 0;">
 
   <p style="margin: 0 0 10px 0; font-weight: 600;">
@@ -15,16 +25,6 @@ weight: 5
   </p>
 
 </div>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "CreativeWorkSeries",
-  "name": "Хронологія: Шлях та Еволюція — Anna Pivtorak",
-  "description": "Автоматична реконструкція подій.",
-  "author": { "@type": "Person", "name": "Anna Pivtorak" }
-}
-</script>
 
 # ⏳ Хронологія: Шлях та Еволюція
 

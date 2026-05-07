@@ -36,3 +36,6 @@ theme = 'hugo-book'
 
   [languages.ru]
   disabled = true
+
+  [markup.goldmark.renderer]
+  unsafe = true

@@ -14,6 +14,18 @@ weight: 5
 }
 </script>
 
+<div style="border: 1px solid #f2c94c; background-color: #fff8e1; padding: 16px; border-radius: 10px; margin: 20px 0;">
+
+  <p style="margin: 0 0 10px 0; font-weight: 600;">
+    🚧 Página em atualização
+  </p>
+
+  <p style="margin: 0;">
+    Este site está a ser desenvolvido de forma independente e encontra-se atualmente em construção. Algumas secções podem não funcionar corretamente ou estar temporariamente indisponíveis. Obrigado pela compreensão.
+  </p>
+
+</div>
+
 # ⏳ Cronologia: Caminho e Evolução
 
 Esta secção reúne automaticamente todos os eventos do percurso.  

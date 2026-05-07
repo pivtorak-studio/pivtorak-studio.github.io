@@ -99,10 +99,10 @@ Each object may be activated as a lot only upon reaching the required density of
 Pivtorak.Studio. 16.07.2023*
 
 ---
-# Anna Pivtorak (Kostyuk) 
-Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) is a researcher, author, and creator of cultural and analytical projects.   
-Official Websiteт: **pivtorak.studio**  
-📧 research@pivtorak.studio
+# Anna Pivtorak (Kostyuk)  
+Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) is a researcher, author, and creator of cultural and analytical projects.     
+Official Websiteт: **pivtorak.studio**    
+📧 research@pivtorak.studio  
 
 ---
 

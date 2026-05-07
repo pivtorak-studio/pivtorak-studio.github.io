@@ -29,7 +29,7 @@ weight: 5
 # ⏳ Timeline: Path & Evolution
 
 This section automatically gathers all events of the journey.  
-**Historical Date** — the date the event occurred. **Publication Date** — the date of the record.
+**Event Date** — the date the event occurred. **Publication Date** — the date of the record.
 
 {{< details "Click to expand the full list" >}}
 

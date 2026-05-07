@@ -2,6 +2,27 @@
 title: "0.01"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anna Pivtorak (Kostyuk)",
+  "alternateName": [
+    "Анна Півторак",
+    "Анна Костюк",
+    "Anna Kostyuk",
+    "Anna Pivtorak Kostyuk",
+    "Анна Пивторак"
+  ],
+  "url": "https://pivtorak.studio",
+  "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp",
+  "birthDate": "1976-10-09",
+  "sameAs": [
+    "https://pivtorak.studio/anna-pivtorak"
+  ]
+}
+</script>
+
 <div class="float-right">
 
 ![Концептуальна система формування довгострокових структур цінності](/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp)

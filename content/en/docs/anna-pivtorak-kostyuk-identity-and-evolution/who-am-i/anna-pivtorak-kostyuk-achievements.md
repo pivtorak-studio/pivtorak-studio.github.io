@@ -124,7 +124,7 @@ Five children
 
 <ul>
 <li><a href="https://memoryon.net/s/lijWG7pPh8">Father: Anatoly Ivanovych Kostyuk</a></li>  
-<li><a href="https://memoryon.net/s/xgKFwEK6Bp">Nadiia Mykolaivna (Dovbysh) Kostyuk (1947-2021)</a></li>  
+<li><a href="https://memoryon.net/s/xgKFwEK6Bp">Mother: Nadiia Mykolaivna (Dovbysh) Kostyuk (1947-2021)</a></li>  
 <li><a href="https://memoryon.net/s/yFqF5I7awO">Brother: Oleksandr Anatoliyovych Kostyuk, born 02/24/1971</a></li>   
 --
 <li><a href="https://memoryon.net/s/UzN5Wpl9E_">Grandfather: Ivan Antonovych Kostyuk (1924–2007)</a></li>    

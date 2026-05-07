@@ -5,7 +5,14 @@ weight: 1
 event_date: 2021-05-11 
 publication_date: 2026-03-16 
 event_type: life_node
+image: "/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp"
 ---
+
+<div class="float-right">
+
+![Анна Півторак (Костюк) – Досягнення](/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp)
+
+</div>
 
 # 🏆 Анна Півторак (Костюк) – Досягнення
 

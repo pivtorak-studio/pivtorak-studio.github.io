@@ -32,7 +32,7 @@ related:
     "Анна Костюк",
     "Anna Kostyuk",
     "Anna Pivtorak Kostyuk",
-    "Анна Пивторак"
+    "Анна Пивторак",
     "Анна Пивторак Костюк"
   ],
   "url": "https://pivtorak.studio",

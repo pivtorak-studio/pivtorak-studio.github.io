@@ -1,6 +1,49 @@
 ---
-title: "0.01"
+id: anna-pivtorak
+language: ru
+title: "0.01 Pivtorak.Studio — Официальный Вебсайт | Анна Пивторак (Костюк)"
+description: "Офіційний сайт Анни Півторак (Костюк) — дослідниці, авторки та творця культурних проєктів."
+weight: 1
+event_date: 2023-07-16 
+publication_date: 2026-03-18 
+event_type: concept
+tags:
+  - Anna Pivtorak
+  - Анна Півторак
+  - Anna Kostyuk
+  - Анна Костюк
+  - Анна Пивторак
+  - Pivtorak Studio
+  - Пивторак Студия
+country: UA
+status: published
+featured: true
+image: "/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp"
+alt: "Концептуальная система формирования долгосрочных структур ценности"
+related:
+  - /chronology/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anna Pivtorak (Kostyuk)",
+  "alternateName": [
+    "Анна Півторак",
+    "Анна Костюк",
+    "Anna Kostyuk",
+    "Anna Pivtorak Kostyuk",
+    "Анна Пивторак"
+  ],
+  "url": "https://pivtorak.studio",
+  "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
+  "birthDate": "1976-10-09",
+  "sameAs": [
+    "https://pivtorak.studio/anna-pivtorak"
+  ]
+}
+</script>
 
 <div class="float-right">
 
@@ -8,7 +51,7 @@ title: "0.01"
 
 </div>
 
-**0.01 | Pivtorak.Studio**
+**0.01 | Pivtorak.Studio — Официальный Вебсайт | Анна Пивторак (Костюк)**
 
 # Концептуальная система формирования долгосрочных структур ценности.
 
@@ -59,6 +102,10 @@ title: "0.01"
 *Концептуальная система формирования долгосрочных структур ценности. 
 Pivtorak.Studio. 16.07.2023*
 
+---
+# Анна Пивторак (Костюк) 
+Анна Пивторак (Anna Pivtorak, Анна Костюк, Anna Kostyuk, Анна Півторак) – исследователь, автор и создатель культурно-аналитических проектов.  
+Офіційний Вебсайт: **pivtorak.studio**  
 📧 research@pivtorak.studio
 
 ## 🔍 Навигатор по Архивам

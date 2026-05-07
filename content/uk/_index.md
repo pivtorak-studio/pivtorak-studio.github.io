@@ -84,6 +84,8 @@ Pivtorak.Studio. 16.07.2023*
 Офіційний Вебсайт: **pivtorak.studio**  
 📧 research@pivtorak.studio
 
+---
+
 ## 🔍 Навігатор по архівах
 
 {{< details "📂 Серії Досліджень" >}}

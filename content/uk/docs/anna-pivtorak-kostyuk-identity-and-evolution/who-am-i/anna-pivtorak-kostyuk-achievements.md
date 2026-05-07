@@ -25,8 +25,9 @@ event_type: life_node
 {{< details "**Батьки і родичі**" >}}
 
 <ul>
-<li>**Батько**: [Костюк Анатолій Іванович (1948-2015)](https://memoryon.net/s/Onj5VlVZGZ)</li>   
-<li>**Мати**: [Костюк (Довбиш) Надія Миколаївна (1947-2021)](https://memoryon.net/s/PKyouCoFJ2)</li> 
+<li><a href="[/uk/docs/pivtorak-studio/](https://memoryon.net/s/Onj5VlVZGZ)">Костюк Анатолій Іванович (1948-2015)</a></li>
+<li>Батько: [Костюк Анатолій Іванович (1948-2015)](https://memoryon.net/s/Onj5VlVZGZ)</li>   
+<li>Мати: [Костюк (Довбиш) Надія Миколаївна (1947-2021)](https://memoryon.net/s/PKyouCoFJ2)</li> 
 <li>**Брат**: [Костюк Олександр Анатолійович, 24.02.1971 р.н.](https://memoryon.net/s/nODFeN_cID)</li>   
 
 <li>**Дід**: [Костюк Іван Антонович (1924-2007)](https://memoryon.net/s/AEBBZldh-U)</li>   

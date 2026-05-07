@@ -1,6 +1,10 @@
 ---
 title: "Анна Півторак (Костюк) – Досягнення"
-weight: 1
+description: Анна Півторак (Костюк) – Досягнення
+weight: 3
+event_date: 2021-05-11 
+publication_date: 2026-03-16 
+event_type: life_node
 ---
 
 # 🏆 Анна Півторак (Костюк) – Досягнення

@@ -4,7 +4,7 @@ language: uk
 title: "0.01 Pivtorak.Studio — Офіційний Вебсайт | Анна Півторак (Костюк)"
 description: "Офіційний сайт Анни Півторак (Костюк) — дослідниці, авторки та творця культурних проєктів."
 weight: 1
-event_date: 2023-07-116 
+event_date: 2023-07-16 
 publication_date: 2026-03-18 
 event_type: concept
 tags:

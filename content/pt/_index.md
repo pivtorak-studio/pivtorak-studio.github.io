@@ -12,7 +12,9 @@ tags:
   - Анна Півторак
   - Anna Kostyuk
   - Анна Костюк
+  - Анна Пивторак
   - Pivtorak Studio
+  - Пивторак Студия
 country: UA
 status: published
 featured: true
@@ -21,6 +23,27 @@ alt: "Um sistema conceptual para a formação de estruturas de valor a longo pra
 related:
   - /chronology/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anna Pivtorak (Kostyuk)",
+  "alternateName": [
+    "Анна Півторак",
+    "Анна Костюк",
+    "Anna Kostyuk",
+    "Anna Pivtorak Kostyuk",
+    "Анна Пивторак"
+  ],
+  "url": "https://pivtorak.studio",
+  "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
+  "birthDate": "1976-10-09",
+  "sameAs": [
+    "https://pivtorak.studio/anna-pivtorak"
+  ]
+}
+</script>
 
 <div class="float-right">
 

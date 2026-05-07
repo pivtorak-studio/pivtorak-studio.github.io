@@ -19,7 +19,7 @@ featured: true
 image: "/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp"
 alt: "Анна Півторак у мантії випускника біля Червоного корпусу КНУ імені Тараса Шевченка, Київ"
 related:
-  - /chronology/
+  - /timeline/
 ---
 
 <script type="application/ld+json">
@@ -34,8 +34,8 @@ related:
     "Анна Костюк",
     "Анна Пивторак"
   ],
-  "url": "https://pivtorak.studio/anna-pivtorak",
-  "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
+  "url": "https://pivtorak.studio/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/",
+  "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp",
   "birthDate": "1976-10-09",
   "nationality": "Ukrainian",
   "jobTitle": "Дослідниця, автор, громадський діяч",

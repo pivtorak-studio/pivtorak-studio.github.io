@@ -22,7 +22,7 @@
 
             {{ if and .Params.publication_date (ne (dateFormat "2006-01-02" .Params.event_date) (dateFormat "2006-01-02" .Params.publication_date)) }}
               <small style="color: #999; display: block; font-size: 0.75rem;">
-                📝 Опубліковано: {{ dateFormat "02.01.2006" .Params.publication_date }}
+                📝 Published: {{ dateFormat "02.01.2006" .Params.publication_date }}
               </small>
             {{ end }}
           </div>

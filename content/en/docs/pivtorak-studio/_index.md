@@ -48,6 +48,32 @@ images: ["/images/pivtorak-studio-logo.webp"]
 
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Анна Півторак (Костюк)",
+  "alternateName": [
+    "Anna Pivtorak", "Anna Kostyuk", "Анна Костюк", 
+    "Anna Pivtorak Kostyuk", "Анна Півторак Костюк", 
+    "Анна Пивторак", "Анна Пивторак Костюк"
+  ],
+  "url": "https://pivtorak.studio",
+  "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp",
+  "jobTitle": "Researcher, Author, Cultural Project Creator",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "sameAs": [
+    "https://www.instagram.com/pivtorak.studio/",
+    "https://www.facebook.com/anna.pivtorak.jb.expert/",
+    "https://memoryon.net/s/eOKTKuOc9l",
+    "https://memoryon.net/s/U6oLQBN9rF",
+    "https://memoryon.net/s/BItTLsxdTx",
+    "https://memoryon.net/s/aM5A-eOTR1"
+  ]
+}
+
 # 🪙 Pivtorak.Studio — The Formula of Transformation
 
 *Pivtorak.Studio is an original series exploring transformation as a transition into a new system.*

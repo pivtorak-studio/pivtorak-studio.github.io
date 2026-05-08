@@ -16,12 +16,12 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 <meta property="og:description" content="The path, roots, and intellectual architecture behind Pivtorak Studio.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://pivtorak.studio/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
-<meta property="og:image" content="https://pivtorak.studio/images/anna-pivtorak-cover.jpg">
+<meta property="og:image" content="https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolution.webp">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Anna Pivtorak — Identity & Evolution">
 <meta name="twitter:description" content="A documented evolution of thought, experience, and system.">
-<meta name="twitter:image" content="https://pivtorak.studio/images/anna-pivtorak-cover.jpg">
+<meta name="twitter:image" content="https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolution.webp">
 
 <meta name="googlebot" content="max-image-preview:large">
 

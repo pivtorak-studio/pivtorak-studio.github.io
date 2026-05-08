@@ -28,10 +28,10 @@ related:
   - /chronology/
 ---
 
-<link rel="alternate" hreflang="uk" href="https://pivtorak.studio/anna-pivtorak">
-<link rel="alternate" hreflang="en" href="https://pivtorak.studio/en/anna-pivtorak">
-<link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/anna-pivtorak">
-<link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/anna-pivtorak">
+<link rel="alternate" hreflang="uk" href="https://pivtorak.studio/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
+<link rel="alternate" hreflang="en" href="https://pivtorak.studio/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
+<link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
+<link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
 
 <script type="application/ld+json">
 {

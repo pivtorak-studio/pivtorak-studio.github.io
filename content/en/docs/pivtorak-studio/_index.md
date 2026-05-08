@@ -70,7 +70,11 @@ images: ["/images/pivtorak-studio-logo.webp"]
     "https://memoryon.net/s/eOKTKuOc9l",
     "https://memoryon.net/s/U6oLQBN9rF",
     "https://memoryon.net/s/BItTLsxdTx",
-    "https://memoryon.net/s/aM5A-eOTR1"
+    "https://memoryon.net/s/aM5A-eOTR1",
+    "https://memoryon.net/s/_Ajj8ATCYs",
+    "https://memoryon.net/s/cUfRDpK2Yg",
+    "https://memoryon.net/s/NkrkrzikAm",
+    "https://memoryon.net/s/Dpq38fkT7W"
   ]
 }
 

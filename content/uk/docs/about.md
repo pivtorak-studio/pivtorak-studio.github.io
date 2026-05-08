@@ -19,6 +19,7 @@ image: "/images/anna-pivtorak-identity.webp"
 alt: "Анна Півторак (Костюк) — дослідниця та засновник Pivtorak.Studio"
 related:
   - /uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/
+weight: 1
 ---
 
 <script type="application/ld+json">

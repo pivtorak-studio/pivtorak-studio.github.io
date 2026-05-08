@@ -15,7 +15,7 @@ tags:
 country: UA
 status: published
 featured: true
-image: "/images/anna-pivtorak-identity.webp"
+image: "/images/anna-pivtorak-kostyuk-identity.webp"
 alt: "Анна Півторак (Костюк) — дослідниця та засновник Pivtorak.Studio"
 related:
   - /uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/

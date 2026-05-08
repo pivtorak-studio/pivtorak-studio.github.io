@@ -57,9 +57,6 @@ related:
 
 <div class="float-right">
 
-<img src="/imagesanna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp" 
-     alt="Anna Pivtorak (Kostyuk) біля Червоного корпусу КНУ">
-
 ![Анна Півторак (Костюк) – Досягнення](/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp)
 
 </div>

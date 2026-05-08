@@ -17,13 +17,13 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 <meta property="og:description" content="Шлях, корені, освіта та інтелектуальна архітектура автора Pivtorak Studio.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://pivtorak.studio/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
-<meta property="og:image" content="https://pivtorak.studio/images/anna-pivtorak-cover.jpg">
+<meta property="og:image" content="https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolution.webp">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Anna Pivtorak — Ідентичність та Еволюція">
 <meta name="twitter:description" content="Документована еволюція мислення, досвіду та системи автора.">
-<meta name="twitter:image" content="https://pivtorak.studio/images/anna-pivtorak-cover.jpg">
+<meta name="twitter:image" content="https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolution.webp">
 
 <meta name="googlebot" content="max-image-preview:large">
 

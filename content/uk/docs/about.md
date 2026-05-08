@@ -4,7 +4,7 @@ language: uk
 translation_of: about-anna-pivtorak
 title: "Анна Півторак (Костюк) — Офіційна сторінка"
 description: "Офіційна сторінка Анни Півторак (Костюк) — дослідниці, авторки культурних проєктів та засновниці Pivtorak.Studio."
-event_date: 2024-05-08
+event_date: 2026-05-08
 publication_date: 2026-05-08
 tags:
   - Анна Півторак
@@ -71,3 +71,6 @@ weight: 1
 * **EN:** Anna Pivtorak, Anna Kostyuk, Anna Pivtorak Kostyuk.
 
 [Докладніше про шлях та досягнення](/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/)
+
+*Анна Півторак (Костюк) — Офіційна сторінка.Pivtorak.Studio. 08.05.2026*  
+<p>© Анна Півторак (Костюк)</p>

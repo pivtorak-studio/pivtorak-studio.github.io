@@ -9,6 +9,13 @@ weight: 60
 images: ["/images/pivtorak-studio-logo.webp"]
 ---
 
+"@type": "Organization",
+"name": "Pivtorak.Studio",
+"founder": {
+  "@type": "Person",
+  "name": "Anna Pivtorak (Kostyuk)"
+}
+
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
 <meta name="robots" content="index, follow">

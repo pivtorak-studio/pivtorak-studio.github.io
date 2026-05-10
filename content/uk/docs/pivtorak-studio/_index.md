@@ -9,13 +9,6 @@ weight: 60
 images: ["/images/pivtorak-studio-logo.webp"]
 ---
 
-"@type": "Organization",
-"name": "Pivtorak.Studio",
-"founder": {
-  "@type": "Person",
-  "name": "Anna Pivtorak (Kostyuk)"
-}
-
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
 <meta name="robots" content="index, follow">
@@ -39,19 +32,22 @@ images: ["/images/pivtorak-studio-logo.webp"]
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Pivtorak.Studio — Формула трансформації",
-  "description": "Серія про трансформацію через покликання, вихід зі старої системи та формування нової присутності.",
-  "inLanguage": "uk",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Pivtorak Studio",
-    "url": "https://pivtorak.studio/"
-  },
-  "author": {
+  "@type": "Organization",
+  "name": "Pivtorak.Studio",
+  "url": "https://pivtorak.studio",
+  "logo": "https://pivtorak.studio/images/logo.png",
+  "founder": {
     "@type": "Person",
-    "name": "Anna Pivtorak"
-  }
+    "name": "Анна Півторак (Костюк)",
+    "url": "https://pivtorak.studio/uk/docs/about/",
+    "sameAs": "https://www.wikidata.org/wiki/Q139713547"
+  },
+  "description": "Креативна студія та дослідницький центр, що спеціалізується на архітектурі цінностей та культурному проєктуванні.",
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q139736172",
+    "https://www.instagram.com/pivtorak.studio/",
+    "https://www.facebook.com/anna.pivtorak.jb.expert/"
+  ]
 }
 </script>
 

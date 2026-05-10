@@ -17,13 +17,13 @@ images: ["/images/pivtorak-studio-logo.webp"]
 <meta property="og:description" content="Uma série sobre vocação, saída do sistema e criação de uma nova realidade.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://pivtorak.studio/pt/docs/pivtorak-studio/">
-<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-logo.webp">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Pivtorak.Studio — A Fórmula da Transformação">
 <meta name="twitter:description" content="Transformação como sistema: da vocação à presença.">
-<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-cover.webp">
+<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-logo.webp">
 
 <meta name="googlebot" content="max-image-preview:large">
 
@@ -33,7 +33,7 @@ images: ["/images/pivtorak-studio-logo.webp"]
   "@type": "Organization",
   "name": "Pivtorak.Studio",
   "url": "https://pivtorak.studio",
-  "logo": "https://pivtorak.studio/images/logo.png",
+  "logo": "https://pivtorak.studio/images/pivtorak-studio-logo.webp",
   "founder": {
     "@type": "Person",
     "name": "Анна Півторак (Костюк)",

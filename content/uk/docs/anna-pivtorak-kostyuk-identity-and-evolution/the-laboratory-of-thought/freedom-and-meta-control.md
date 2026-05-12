@@ -29,6 +29,38 @@ related:
 weight: 100
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "inLanguage": "uk",
+  "headline": "Свобода та Мета-Контроль",
+  "description": "Філософське дослідження свободи, внутрішньої відповідальності та системності без жорсткого контролю.",
+  "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-freedom-and-meta-control.webp",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak Kostyuk"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "datePublished": "2026-05-12T15:00:00",
+  "dateCreated": "2026-05-07T10:00:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/"
+  },
+  "keywords": [
+    "свобода",
+    "мета-контроль",
+    "автономне мислення",
+    "резонанс",
+    "Zenith"
+  ]
+}
+</script>
+
 <div class="float-right">
 
 ![Свобода та Мета-Контроль](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-freedom-and-meta-control.webp)

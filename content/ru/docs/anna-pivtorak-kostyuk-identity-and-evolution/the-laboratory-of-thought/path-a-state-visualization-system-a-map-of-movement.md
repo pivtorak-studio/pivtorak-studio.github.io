@@ -55,9 +55,10 @@ weight: "101"
 
 <div class="float-right">
 
-![Path: Система визуализации состояний. Карта движения](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp)
+![Path: Система визуализации состояний. Карта движения.](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp)
 
 </div>
+
 # Path: Система визуализации состояний. Карта движения    
 _Ясность сильнее мотивации_   
 
@@ -79,6 +80,12 @@ _Ясность сильнее мотивации_
 
 - **Path** показывает структуру и направление.   
 - **Done.** (Факт) подтверждает реальность движения.  
+
+<div class="float-right">
+
+![Path: Система визуализации состояний. Карта движения. Таблица](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement-table.webp)
+
+</div>
 
 **Alt-text:**   
 Минималистичная матрица прогресса Path с тремя визуальными состояниями: ◯ определено, ⊙ в процессе, ⨁ верифицировано. Структура показывает движение к долгосрочной цели без давления и дедлайнов.   

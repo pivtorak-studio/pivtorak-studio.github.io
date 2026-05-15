@@ -58,7 +58,8 @@ weight: "101"
 ![Path: Система візуалізації станів. Карта руху](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp)
 
 </div>
-# Path: Система візуалізації станів. Карта руху  
+
+# Path: Система візуалізації станів. Карта руху    
 *Ясність сильніша за мотивацію*  
 
 ## Path   
@@ -79,6 +80,12 @@ weight: "101"
 
 - **Path** показує структуру та напрямок.  
 - **Done.** (Факт) підтверджує реальність руху.  
+
+<div class="float-right">
+
+![Path: Система візуалізації станів. Карта руху. Таблиця](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement-table.webp)
+
+</div>
 
 **Alt-text:**  
 Мінімалістична матриця прогресу Path з трьома візуальними станами: ◯ — визначено, ⊙ — в процесі, ⨁ — верифіковано. Таблиця відображає етапи руху до довгострокової мети без дедлайнів і перевантаження.  

@@ -58,7 +58,8 @@ weight: "101"
 ![Path: Sistema de Visualização de Estados. Mapa de Movimento](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp)
 
 </div>
-# Path: Sistema de Visualização de Estados. Mapa de Movimento   
+
+# Path: Sistema de Visualização de Estados. Mapa de Movimento     
 _A clareza é mais forte do que a motivação_   
 
 ## Path   
@@ -79,6 +80,12 @@ Não se força através da vontade. Simplesmente observa-se a sua posição. Nã
 
 - **Path** mostra a estrutura e a direção.   
 - **Done.** (O Facto) confirma a realidade do movimento.   
+
+<div class="float-right">
+
+![Path: Sistema de Visualização de Estados. Mapa de Movimento. Tabela](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement-table.webp)
+
+</div>
 
 **Alt-text:**  
 Matriz minimalista de progresso Path com três estados visuais: ◯ definido, ⊙ em progresso, ⨁ verificado. A estrutura mostra o movimento em direção a um objetivo de longo prazo sem pressão nem prazos rígidos.  

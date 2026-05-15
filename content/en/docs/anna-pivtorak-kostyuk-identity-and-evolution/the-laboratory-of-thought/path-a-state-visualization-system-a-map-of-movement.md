@@ -58,7 +58,8 @@ weight: "101"
 ![Path: A State Visualization System. A Map of Movement](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp)
 
 </div>
-# Path: A State Visualization System. A Map of Movement   
+
+# Path: A State Visualization System. A Map of Movement      
 _Clarity is stronger than motivation_  
 
 ## Path   
@@ -78,6 +79,12 @@ You don't push yourself through willpower. You simply see your position. There a
 
 - **Path** shows structure and direction.  
 - **Done.** (The Fact) confirms the reality of movement.  
+
+<div class="float-right">
+
+![Path: A State Visualization System. A Map of Movement. Table](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement-table.webp)
+
+</div>
 
 **Alt-text:**  
 Minimalist Path progress matrix with three visual states: ◯ defined, ⊙ in progress, ⨁ verified. The structure visualizes movement toward a long-term goal without deadlines or pressure.   

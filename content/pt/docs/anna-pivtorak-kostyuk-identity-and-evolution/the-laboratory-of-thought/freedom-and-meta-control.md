@@ -96,6 +96,6 @@ Resta apenas a ressonância pura.
 **Alt-text**: 
 Cena conceptual sobre liberdade e meta-controlo: uma pessoa num espaço luminoso e limpo, sem listas de tarefas nem estruturas rígidas. Linhas geométricas e luz simbolizam estrutura interna, direção para Zenith e ressonância pura.
 
-*A Liberdade e o Meta-Controlo. Pivtorak.Studio. 07.05.2026*
-© Anna Pivtorak (Kostyuk)  
-© Oleksandr Kostyuk  
+*A Liberdade e o Meta-Controlo. Pivtorak.Studio. 07.05.2026*   
+© Anna Pivtorak (Kostyuk)    
+© Oleksandr Kostyuk    

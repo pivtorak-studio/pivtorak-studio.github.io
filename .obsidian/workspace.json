@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
+                "file": "content/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
+                "file": "content/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
+                "file": "content/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
+                "file": "content/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +185,11 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
-    "content/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/path-a-state-visualization-system-a-map-of-movement.md",
-    "content/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
-    "content/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/the-movement-matrix-one-case-one-dimension.md",
     "content/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
+    "content/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
+    "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
+    "content/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/path-a-state-visualization-system-a-map-of-movement.md",
+    "content/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/the-movement-matrix-one-case-one-dimension.md",
     "content/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
     "content/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/path-a-state-visualization-system-a-map-of-movement.md",
     "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/the-movement-matrix-one-case-one-dimension.md",
@@ -197,7 +198,6 @@
     "content/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/path-a-state-visualization-system-a-map-of-movement.md",
     "static/images/Unconfirmed 866372.crdownload",
     "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/path-a-state-visualization-system-a-map-of-movement.md",
-    "content/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/the-laboratory-of-thought/freedom-and-meta-control.md",
     "static/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-the-movement-matrix-one-case-one-dimension.webp",
     "static/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-the-movement-matrix-one-case-one-dimension.webp.webp"
   ]

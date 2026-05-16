@@ -97,3 +97,5 @@ Only pure Resonance remains.
 Conceptual scene about freedom and meta-control: a person standing in a clean luminous space without task lists or rigid frameworks. Geometric lines and light symbolize internal structure, direction toward Zenith, and pure resonance.
 
 *Freedom and Meta-Control. Pivtorak.Studio. 07.05.2026*
+© Anna Pivtorak (Kostyuk)  
+© Oleksandr Kostyuk  

@@ -22,7 +22,7 @@ image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-th
 alt: "Минималистичная матрица прогресса Path с тремя визуальными состояниями: ◯ определено, ⊙ в процессе, ⨁ верифицировано. Структура показывает движение к долгосрочной цели без давления и перегрузки."
 related:
   - freedom-and-meta-control
-weight: "101"
+weight: "102"
 ---
 <script type="application/ld+json">
 {
@@ -80,12 +80,6 @@ _Ясность сильнее мотивации_
 
 - **Path** показывает структуру и направление.   
 - **Done.** (Факт) подтверждает реальность движения.  
-
-<div class="float-right">
-
-![Path: Система визуализации состояний. Карта движения. Таблица](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement-table.webp)
-
-</div>
 
 **Alt-text:**   
 Минималистичная матрица прогресса Path с тремя визуальными состояниями: ◯ определено, ⊙ в процессе, ⨁ верифицировано. Структура показывает движение к долгосрочной цели без давления и дедлайнов.   

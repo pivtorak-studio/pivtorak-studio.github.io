@@ -94,6 +94,6 @@ The matrix is not maintained indefinitely. It is deployed locally, limiting spac
 **Alt-text:**  
 Futuristic intellectual movement matrix with five dimensions: Base, Action, Context, Expression, and Status. The visual system illustrates the transition from chaos to clarity through the ◯, ⊙, and ⨁ states.  
 
-_The Movement Matrix: One Case — One Dimension. Pivtorak.Studio. 09.05.2026_    
+_The Movement Matrix: One Case — One Dimension. Pivtorak.Studio. 16.05.2026_    
 © Anna Pivtorak (Kostyuk)  
 © Oleksandr Kostyuk  

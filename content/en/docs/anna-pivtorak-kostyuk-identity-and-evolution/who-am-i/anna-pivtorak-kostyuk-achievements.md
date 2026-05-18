@@ -67,6 +67,8 @@ related:
 
 Public figure, researcher, author of projects in the field of culture, systems thinking and visual narratives.  
 
+
+---
     «Everything you do, do it with love, or don't do it at all.» 
     
 ---

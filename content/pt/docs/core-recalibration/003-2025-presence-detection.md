@@ -48,8 +48,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "Detecção de Presença",
-  "name": "Detecção de Presença",
+  "headline": "003-2025-Detecção de Presença",
+  "name": "003-2025-Detecção de Presença",
   "description": "Um momento em que corpo, tempo e movimento se sincronizam num único sistema, e a presença se torna um ritmo reconhecido.",
   "inLanguage": "pt",
   "dateCreated": "2025-06-21T17:00:00+01:00",

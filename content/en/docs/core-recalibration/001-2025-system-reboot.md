@@ -47,8 +47,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "System Reboot",
-  "name": "System Reboot",
+  "headline": "001-2025-System Reboot",
+  "name": "001-2025-System Reboot",
   "description": "A moment of silent internal activation where the system is already running and presence no longer requires announcements.",
   "inLanguage": "en",
   "dateCreated": "2025-06-21T15:00:00+01:00",

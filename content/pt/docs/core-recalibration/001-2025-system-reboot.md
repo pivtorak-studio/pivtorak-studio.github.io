@@ -47,8 +47,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "Reinicialização do Sistema",
-  "name": "Reinicialização do Sistema",
+  "headline": "001-2025-Reinicialização do Sistema",
+  "name": "001-2025-Reinicialização do Sistema",
   "description": "Um momento de ativação interior silenciosa, onde o sistema já está em funcionamento e a presença já não precisa de anúncios.",
   "inLanguage": "pt",
   "dateCreated": "2025-06-21T15:00:00+01:00",

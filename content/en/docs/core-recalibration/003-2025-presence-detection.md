@@ -48,8 +48,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "Presence Detection",
-  "name": "Presence Detection",
+  "headline": "003-2025-Presence Detection",
+  "name": "003-2025-Presence Detection",
   "description": "A moment where body, time, and movement synchronize into one system, and presence becomes a rhythm that has been detected.",
   "inLanguage": "en",
   "dateCreated": "2025-06-21T17:00:00+01:00",
@@ -120,7 +120,6 @@ The signal is active.
 The space responds.
 
 **Alt-text:**
-
 Digital illustration in minimalist technical style: a dark background, a soft-glowing wristwatch shape, a subtle pulse graph, a breathing circle, and a hovering gesture — like a finger nearing a wrist sensor. The atmosphere conveys calm focus and silent readiness.
 
 #PresenceDetection #DesignMoments #SystemAwareness #RhythmRecognized #SignalInMotion #PulseIsSignal #BreathInLoop #SpaceResponds #FocusWithoutEffort #ScanComplete #NoPauseNeeded #LivingInterface #SubtlePresence #AttentionAligned #ArchitectureOfNow #DetectionInStillness #SignalConfirmed #LiveMonitoring #InvisibleMotion #ConsciousEnvironment #MinimalGesture #BreathAsTiming #ActivatedFocus #SilentFunction #SystemIsLive #AwarenessDesign #NoDisruption #RealTimeFlow #PresenceHasWeight #AttentionIsStructure

@@ -47,8 +47,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "Padrões Elevados",
-  "name": "Padrões Elevados",
+  "headline": "000-2024-Padrões Elevados",
+  "name": "000-2024-Padrões Elevados",
   "description": "O momento em que superar os próprios padrões deixa de ser um desafio e se torna um ritmo natural de crescimento interior.",
   "inLanguage": "pt",
   "dateCreated": "2024-10-18T15:00:00+01:00",

@@ -48,8 +48,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "Second Language, First Voice",
-  "name": "Second Language, First Voice",
+  "headline": "002-2025-Second Language, First Voice",
+  "name": "002-2025-Second Language, First Voice",
   "description": "Language as a channel of presence: a daily practice that transforms from learning into connection with rhythms, cultures, and human flow.",
   "inLanguage": "en",
   "dateCreated": "2025-06-21T16:00:00+01:00",

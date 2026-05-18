@@ -67,6 +67,8 @@ related:
 
 Figura pública, investigadora, autora de projetos na área da cultura, pensamento sistémico e narrativas visuais.  
 
+---
+
     «Tudo o que fizer, faça com amor, ou não o faça de todo.» 
     
 ---

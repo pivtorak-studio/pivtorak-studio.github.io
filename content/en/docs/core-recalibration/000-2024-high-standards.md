@@ -47,8 +47,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "High Standards",
-  "name": "High Standards",
+  "headline": "000-2024-High Standards",
+  "name": "000-2024-High Standards",
   "description": "The moment when surpassing your own standards stops being a challenge and becomes a natural rhythm of inner growth.",
   "inLanguage": "en",
   "dateCreated": "2024-10-18T15:00:00+01:00",

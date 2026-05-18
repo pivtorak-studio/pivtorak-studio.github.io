@@ -2,7 +2,7 @@
 id: core-recalibration-002-2025-second-language-first-voice
 language: en
 translation_of: core-recalibration-002-2025-second-language-first-voice
-title: "Second Language, First Voice"
+title: 002-2025-Second Language, First Voice
 description: "Language as a channel of presence: a daily practice that transforms from learning into connection with rhythms, cultures, and human flow."
 event_date: 2025-06-21T16:00:00
 publication_date: 2025-06-21T16:00:00

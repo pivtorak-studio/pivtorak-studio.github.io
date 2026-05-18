@@ -2,8 +2,8 @@
 id: core-recalibration-003-2025-presence-detection
 language: en
 translation_of: core-recalibration-003-2025-presence-detection
-title: "Presence Detection"
-description: "A moment where body, time, and movement synchronize into one system, and presence becomes a rhythm that has been detected."
+title: 003-2025-Presence Detection
+description: A moment where body, time, and movement synchronize into one system, and presence becomes a rhythm that has been detected.
 event_date: 2025-06-21T17:00:00
 publication_date: 2025-06-21T17:00:00
 tags:

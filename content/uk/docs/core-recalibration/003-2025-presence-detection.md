@@ -2,8 +2,8 @@
 id: core-recalibration-003-2025-presence-detection
 language: uk
 translation_of: core-recalibration-003-2025-presence-detection
-title: "Виявлення Присутності"
-description: "Момент, коли тіло, час і рух синхронізуються в єдиній системі, а присутність стає ритмом, який вловлено."
+title: 003-2025-Виявлення Присутності
+description: Момент, коли тіло, час і рух синхронізуються в єдиній системі, а присутність стає ритмом, який вловлено.
 event_date: 2025-06-21T17:00:00
 publication_date: 2025-06-21T17:00:00
 tags:

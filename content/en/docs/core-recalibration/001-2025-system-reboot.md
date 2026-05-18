@@ -2,8 +2,8 @@
 id: core-recalibration-001-2025-system-reboot
 language: en
 translation_of: core-recalibration-001-2025-system-reboot
-title: "System Reboot"
-description: "A moment of silent internal activation where the system is already running and presence no longer requires announcements."
+title: 001-2025-System Reboot
+description: A moment of silent internal activation where the system is already running and presence no longer requires announcements.
 event_date: 2025-06-21T15:00:00
 publication_date: 2025-06-21T15:00:00
 tags:

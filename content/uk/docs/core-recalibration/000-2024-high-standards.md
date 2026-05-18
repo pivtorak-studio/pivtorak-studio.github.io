@@ -84,7 +84,7 @@ keywords:
 
 <div class="float-right">
 
-![Високі Стандарти](/images/core-recalibration/000-2024-high-standards.webp)
+![Високі Стандарти](/images/core-recalibration-000-2024-high-standards.webp)
 
 </div>
 

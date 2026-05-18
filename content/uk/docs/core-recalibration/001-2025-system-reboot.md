@@ -82,6 +82,11 @@ keywords:
 }
 </script>
 
+<div class="float-right">
+
+![Перезавантаження Системи](/images/core-recalibration-001-2025-system-reboot.webp)
+
+</div>
 
 # Перезавантаження Системи  
 _Новий рівень — без оголошень_  

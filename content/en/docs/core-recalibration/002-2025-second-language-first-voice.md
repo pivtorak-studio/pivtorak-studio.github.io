@@ -48,8 +48,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "002-2025 Second Language, First Voice",
-  "name": "002-2025 Second Language, First Voice",
+  "headline": "Second Language, First Voice",
+  "name": "Second Language, First Voice",
   "description": "Language as a channel of presence: a daily practice that transforms from learning into connection with rhythms, cultures, and human flow.",
   "inLanguage": "en",
   "dateCreated": "2025-06-21T16:00:00+01:00",
@@ -94,45 +94,27 @@ keywords:
 _Not learning._
 _Tuning into currents._
 
-The same ritual, repeated daily — 667 days and counting.
+The same ritual, repeated daily — 667 days and counting.  
+The sequence begins with Sanskrit.  
+Followed by Portuguese, Spanish, English, Polish, French.  
 
-The sequence begins with Sanskrit.
+Not about vocabulary. About the wave.  
 
-Followed by Portuguese, Spanish, English, Polish, French.
+An inner voice emerges through rhythm, resonating in different tones — always pointing to presence.  
 
-Not about vocabulary.
+At times, thoughts drift toward other languages.  
+Italian — echo of the Etruscans.  
+German — sound remembered through ancestry.  
+Hindi — a bond that speaks without words.  
 
-About the wave.
+A sense of reverence extends further.  
+Bulgarian. Croatian.  
+A gesture held in quiet readiness — waiting for the moment.  
 
-An inner voice emerges through rhythm,
+Language is not a number. Language is a channel.  
+A rhythm. A structure of attention.  
 
-resonating in different tones — always pointing to presence.
-
-At times, thoughts drift toward other languages.
-
-Italian — echo of the Etruscans.
-
-German — sound remembered through ancestry.
-
-Hindi — a bond that speaks without words.
-
-A sense of reverence extends further.
-
-Bulgarian. Croatian.
-
-A gesture held in quiet readiness — waiting for the moment.
-
-Language is not a number.
-
-Language is a channel.
-
-A rhythm.
-
-A structure of attention.
-
-Not a study.
-
-A design of presence — already functioning.
+Not a study. A design of presence — already functioning.
 
 **Alt-text:**   
 Digital illustration in architectural style: fluid waves composed of Sanskrit, Latin, and Cyrillic characters intersect and merge. A stylus meets a digital surface at the center, where the lines converge into motion. The atmosphere evokes calm focus, intuitive learning, and quiet connection.

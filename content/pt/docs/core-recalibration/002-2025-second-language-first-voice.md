@@ -48,8 +48,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "002-2025 Segunda Língua, Primeira Voz",
-  "name": "002-2025 Segunda Língua, Primeira Voz",
+  "headline": "Segunda Língua, Primeira Voz",
+  "name": "Segunda Língua, Primeira Voz",
   "description": "A língua como canal de presença: uma prática diária que deixa de ser estudo e se transforma em ligação com ritmos, culturas e fluxos humanos.",
   "inLanguage": "pt",
   "dateCreated": "2025-06-21T16:00:00+01:00",
@@ -95,44 +95,26 @@ keywords:
 _Não é aprendizagem._
 _É sintonia com os fluxos._
 
-O mesmo ritual, repetido diariamente — há 667 dias.
+O mesmo ritual, repetido diariamente — há 667 dias.  
+A sequência começa com sânscrito.  
+Segue-se o português, espanhol, inglês, polaco, francês.  
 
-A sequência começa com sânscrito.
-
-Segue-se o português, espanhol, inglês, polaco, francês.
-
-Não se trata de vocabulário.
-
-Mas de onda.
-
-Uma voz interior emerge através do ritmo,
-
-ressonando em diferentes tons — sempre apontando para a presença.
+Não se trata de vocabulário. Mas de onda.  
+Uma voz interior emerge através do ritmo, ressonando em diferentes tons — sempre apontando para a presença.  
 
 Às vezes, surgem pensamentos sobre outras línguas.
-
 Italiano — eco dos etruscos.
-
 Alemão — som herdado pelos ancestrais.
-
 Hindi — ligação que fala sem palavras.
 
 O gesto de reverência estende-se mais longe.
-
 Búlgaro. Croata.
 
 Um movimento mantido em silêncio — à espera do momento.
 
-Língua não é número.
-
-Língua é canal.
-
-É ritmo.
-
-É estrutura da atenção.
+Língua não é número. Língua é canal. É ritmo. É estrutura da atenção.
 
 Não é estudo.
-
 É design da presença — já em funcionamento.
 
 **Alt-text:**

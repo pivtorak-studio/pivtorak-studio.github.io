@@ -51,7 +51,7 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "004-2026 Анатомия ритма: Duolingo Max как полигон стратегического мышления",
+  "headline": "Анатомия ритма: Duolingo Max как полигон стратегического мышления",
   "alternativeHeadline": "Ритм как разминка перед кодом",
   "description": "Размышление о том, как Duolingo Max стал когнитивным тренажёром перед переходом к архитектуре сайтов, системному мышлению и работе с кодом.",
   "inLanguage": "ru",

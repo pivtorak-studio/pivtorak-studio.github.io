@@ -47,8 +47,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "000-2024 Padrões Elevados",
-  "name": "000-2024 Padrões Elevados",
+  "headline": "Padrões Elevados",
+  "name": "Padrões Elevados",
   "description": "O momento em que superar os próprios padrões deixa de ser um desafio e se torna um ritmo natural de crescimento interior.",
   "inLanguage": "pt",
   "dateCreated": "2024-10-18T15:00:00+01:00",
@@ -113,6 +113,6 @@ O design enfatiza o crescimento autodirigido e a calibração interior.
 
 #CoreRecalibration #HighStandards #InnerDrive #KeepRaisingTheBar #SelfDiscipline #CreativeGrowth #DigitalIllustration #MindfulDesign #VisualMotivation #SelfLeadership #NextLevel #NoLimits #ClarityInAction #DesignSeries #ArtWithMeaning #StudioWork #MotionWithin #RiseAbove #GraphicInspiration #ArtistMindset #CreativeJourney #StrategicDesign #EmpoweredPresence #LongTermVision #DailyProgress #SelfSystem #FocusedGrowth #BeyondLimits #CreativeMomentum #LevelUpArt
 
-_The Movement Matrix: One Case — One Dimension. AP | Pivtorak.Studio. 18.10.2024_  
+_Padrões Elevados. AP | Pivtorak.Studio. 18.10.2024_  
 © Anna Pivtorak (Kostyuk) 
 

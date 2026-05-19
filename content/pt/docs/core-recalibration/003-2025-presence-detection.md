@@ -48,8 +48,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "003-2025 Detecção de Presença",
-  "name": "003-2025 Detecção de Presença",
+  "headline": "Detecção de Presença",
+  "name": "Detecção de Presença",
   "description": "Um momento em que corpo, tempo e movimento se sincronizam num único sistema, e a presença se torna um ritmo reconhecido.",
   "inLanguage": "pt",
   "dateCreated": "2025-06-21T17:00:00+01:00",
@@ -94,28 +94,16 @@ _Consciência não é silêncio._
 _É ritmo — reconhecido._
 
 Não se trata de buscar calma.
-
 Nem de entrar em modo de pausa.
 
-Mas de detectar o momento exato
+Mas de detectar o momento exato em que corpo, tempo e movimento estão alinhados.
 
-em que corpo, tempo e movimento estão alinhados.
+Pulso — sem interferência. Notificações — não interrompem.
+Respiração — contínua. Cada sinal é indicador.
 
-Pulso — sem interferência.
+Cada traço — confirmação de processo. Tudo já foi escaneado.
 
-Notificações — não interrompem.
-
-Respiração — contínua.
-
-Cada sinal é indicador.
-
-Cada traço — confirmação de processo.
-
-Tudo já foi escaneado.
-
-O sinal está ativo.
-
-O espaço responde.
+O sinal está ativo. O espaço responde.
 
 **Alt-text:**
 Ilustração digital em estilo minimalista técnico: fundo escuro, forma de relógio de pulso com brilho suave, gráfico de pulso, círculo de respiração e um gesto sutil — como um dedo aproximando-se do sensor. A atmosfera transmite foco calmo, prontidão silenciosa e presença real.

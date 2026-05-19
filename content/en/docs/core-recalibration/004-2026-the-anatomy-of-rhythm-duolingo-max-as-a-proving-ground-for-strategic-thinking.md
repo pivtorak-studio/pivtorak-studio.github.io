@@ -51,7 +51,7 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "004-2026 The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking",
+  "headline": "The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking",
   "alternativeHeadline": "Rhythm as a Warm-Up Before Code",
   "description": "An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking.",
   "inLanguage": "en",

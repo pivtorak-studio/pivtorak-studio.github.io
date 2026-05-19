@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: ru
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004-2026 — Анатомия ритма: Duolingo Max как полигон стратегического мышления"
+title: "004-2026 Анатомия ритма: Duolingo Max как полигон стратегического мышления"
 description: Размышление о том, как Duolingo Max стал когнитивным тренажёром перед переходом к архитектуре сайтов, системному мышлению и работе с кодом.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -51,7 +51,7 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "004-2026 — Анатомия ритма: Duolingo Max как полигон стратегического мышления",
+  "headline": "004-2026 Анатомия ритма: Duolingo Max как полигон стратегического мышления",
   "alternativeHeadline": "Ритм как разминка перед кодом",
   "description": "Размышление о том, как Duolingo Max стал когнитивным тренажёром перед переходом к архитектуре сайтов, системному мышлению и работе с кодом.",
   "inLanguage": "ru",

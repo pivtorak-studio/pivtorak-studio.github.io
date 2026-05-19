@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: pt
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004-2026 — A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico"
+title: "004-2026 A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico"
 description: Uma reflexão sobre como o Duolingo Max se tornou um simulador cognitivo antes da transição para código, arquitetura digital e pensamento sistémico.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -51,7 +51,7 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "004-2026 — A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico",
+  "headline": "004-2026 A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico",
   "alternativeHeadline": "O Ritmo como Aquecimento Antes do Código",
   "description": "Uma reflexão sobre como o Duolingo Max se tornou um simulador cognitivo antes da transição para código, arquitetura digital e pensamento sistémico.",
   "inLanguage": "pt",

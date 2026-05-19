@@ -2,7 +2,7 @@
 id: core-recalibration-001-2025-system-reboot
 language: pt
 translation_of: core-recalibration-001-2025-system-reboot
-title: 001-2025-Reinicialização do Sistema
+title: 001-2025 — Reinicialização do Sistema
 description: Um momento de ativação interior silenciosa, onde o sistema já está em funcionamento e a presença já não precisa de anúncios.
 event_date: 2025-06-21T15:00:00
 publication_date: 2025-06-21T15:00:00
@@ -47,8 +47,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "001-2025-Reinicialização do Sistema",
-  "name": "001-2025-Reinicialização do Sistema",
+  "headline": "001-2025 — Reinicialização do Sistema",
+  "name": "001-2025 — Reinicialização do Sistema",
   "description": "Um momento de ativação interior silenciosa, onde o sistema já está em funcionamento e a presença já não precisa de anúncios.",
   "inLanguage": "pt",
   "dateCreated": "2025-06-21T15:00:00+01:00",

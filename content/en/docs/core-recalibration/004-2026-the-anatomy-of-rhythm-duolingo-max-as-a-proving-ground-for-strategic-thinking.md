@@ -2,8 +2,8 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: en
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004-2026-The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking"
-description: "An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking."
+title: "004-2026 — The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking"
+description: An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
 tags:
@@ -21,7 +21,7 @@ country: PT
 status: published
 featured: true
 image: /images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp
-alt: "A futuristic digital composition showing the transition from Duolingo Max learning rhythms into code architecture, systems thinking, and indexed websites."
+alt: A futuristic digital composition showing the transition from Duolingo Max learning rhythms into code architecture, systems thinking, and indexed websites.
 related:
   - /en/docs/core-recalibration/001-2025-system-reboot/
   - /en/docs/core-recalibration/002-2025-second-language-first-voice/
@@ -51,7 +51,7 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "004-2026-The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking",
+  "headline": "004-2026 — The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking",
   "alternativeHeadline": "Rhythm as a Warm-Up Before Code",
   "description": "An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking.",
   "inLanguage": "en",

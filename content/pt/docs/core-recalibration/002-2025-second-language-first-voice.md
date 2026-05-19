@@ -2,7 +2,7 @@
 id: core-recalibration-002-2025-second-language-first-voice
 language: pt
 translation_of: core-recalibration-002-2025-second-language-first-voice
-title: 002-2025-Segunda Língua, Primeira Voz
+title: 002-2025 — Segunda Língua, Primeira Voz
 description: "A língua como canal de presença: uma prática diária que deixa de ser estudo e se transforma em ligação com ritmos, culturas e fluxos humanos."
 event_date: 2025-06-21T16:00:00
 publication_date: 2025-06-21T16:00:00
@@ -48,8 +48,8 @@ keywords:
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "headline": "002-2025-Segunda Língua, Primeira Voz",
-  "name": "002-2025-Segunda Língua, Primeira Voz",
+  "headline": "002-2025 — Segunda Língua, Primeira Voz",
+  "name": "002-2025 — Segunda Língua, Primeira Voz",
   "description": "A língua como canal de presença: uma prática diária que deixa de ser estudo e se transforma em ligação com ritmos, culturas e fluxos humanos.",
   "inLanguage": "pt",
   "dateCreated": "2025-06-21T16:00:00+01:00",

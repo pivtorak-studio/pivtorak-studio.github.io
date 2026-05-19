@@ -108,7 +108,7 @@ O lançamento do segundo sítio foi tecnicamente mais complexo, obrigando-me a i
 Isto não é apenas o lançamento de dois sítios web. É uma transição evolutiva para a formação de um ecossistema autónomo.   
 A conquista máxima é o desaparecimento total do conflito interno entre arte, análise, lógica e tecnologia. Já não são "vidas diferentes". Doravante, constituem um sistema único e soberano da minha presença no mundo.
 
-**Alt-text:**
+**Alt-text:**   
 O sistema duplo de soberania: Pivtorak.Studio e TheJewelry.Business como arquiteturas cognitivas de criatividade, lógica, versionamento GitHub e espaço digital autónomo.
 
 _Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania. AP | Pivtorak.Studio. 19.05.2026_  

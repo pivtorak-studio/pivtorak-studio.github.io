@@ -50,6 +50,7 @@ keywords:
   - knowledge management
   - independent publishing
 ---
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
@@ -80,10 +81,11 @@ keywords:
     "url": "https://pivtorak.studio"
   }
 }
+</script>
 
 <div class="float-right">
 
-![Pivtorak.Studio & TheJewelry.Business: Code Ownership as a Cognitive Node of Sovereignty
+![Pivtorak.Studio&TheJewelry.Business. Code Ownership as a Cognitive Node of Sovereignty
 ](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive -node-of-sovereignty.webp)
 
 </div>

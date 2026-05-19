@@ -50,6 +50,7 @@ keywords:
   - knowledge management
   - independent publishing
 ---
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
@@ -80,10 +81,11 @@ keywords:
     "url": "https://pivtorak.studio"
   }
 }
+</script>
 
 <div class="float-right">
 
-![Анатомія ритму: Duolingo Max як полігон стратегічного мислення](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive -node-of-sovereignty.webp)
+![Pivtorak.Studio & TheJewelry.Business: Володіння кодом як когнітивний вузол суверенності](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive -node-of-sovereignty.webp)
 
 </div>
 

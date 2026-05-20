@@ -4,9 +4,8 @@ language: pt
 translation_of: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
 title: "006 O Protocolo Simurg: A Filosofia de uma Investigadora Independente"
 description: Um manifesto da ciência soberana e da investigação independente. Um estudo sobre a transição da legitimação institucional para uma arquitetura autónoma do conhecimento, onde o website se torna laboratório, o arquivo digital se torna sistema de registo e a disciplina se torna garantia de qualidade.
-event_date: 2026-05-20T10:00:00
-publication_date: 2026-05-20T10:00:00
-lastmod: 2026-05-20T10:00:00
+event_date: 2026-05-20T15:00:00
+publication_date: 2026-05-20T15:00:00
 tags:
   - CoreRecalibration
   - SimurghProtocol

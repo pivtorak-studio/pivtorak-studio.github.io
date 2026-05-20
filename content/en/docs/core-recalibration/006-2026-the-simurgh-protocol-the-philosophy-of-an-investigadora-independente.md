@@ -4,9 +4,8 @@ language: en
 translation_of: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
 title: "006 The Simurgh Protocol: The Philosophy of an Investigadora Independente"
 description: A manifesto of sovereign science and independent research. An exploration of the transition from institutional legitimation toward autonomous knowledge architecture, where the website becomes a laboratory, the digital archive becomes the system of record, and discipline becomes the guarantor of quality.
-event_date: 2026-05-20T10:00:00
-publication_date: 2026-05-20T10:00:00
-lastmod: 2026-05-20T10:00:00
+event_date: 2026-05-20T15:00:00
+publication_date: 2026-05-20T15:00:00
 tags:
   - CoreRecalibration
   - SimurghProtocol

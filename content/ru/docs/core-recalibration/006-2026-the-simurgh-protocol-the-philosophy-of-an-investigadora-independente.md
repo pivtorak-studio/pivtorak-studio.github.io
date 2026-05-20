@@ -57,7 +57,7 @@ keywords:
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/ru/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/",
-  "headline": "006 Протокол Симурга: Философия Investigadora Independente",
+  "headline": "Протокол Симурга: Философия Investigadora Independente",
   "alternativeHeadline": "Манифест суверенной науки",
   "description": "Манифест суверенной науки и независимого исследования. Статья о переходе от институциональной легитимации к автономной архитектуре знания, где сайт становится лабораторией, цифровой архив — системой фиксации, а дисциплина — гарантом качества.",
   "image": [

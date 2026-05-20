@@ -57,7 +57,7 @@ keywords:
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/",
-  "headline": "006 The Simurgh Protocol: The Philosophy of an Investigadora Independente",
+  "headline": "The Simurgh Protocol: The Philosophy of an Investigadora Independente",
   "alternativeHeadline": "A Manifesto for Sovereign Science",
   "description": "A manifesto of sovereign science and independent research exploring the transition from institutional legitimation toward autonomous knowledge architecture.",
   "image": [

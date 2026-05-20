@@ -57,7 +57,7 @@ keywords:
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/",
-  "headline": "006 O Protocolo Simurg: A Filosofia de uma Investigadora Independente",
+  "headline": "O Protocolo Simurg: A Filosofia de uma Investigadora Independente",
   "alternativeHeadline": "UM Manifesto pela Ciência Soberana",
   "description": "Um manifesto da ciência soberana e da investigação independente. Um estudo sobre a transição da legitimação institucional para uma arquitetura autónoma do conhecimento, onde o website se torna laboratório, o arquivo digital se torna sistema de registo e a disciplina se torna garantia de qualidade.",
   "image": [

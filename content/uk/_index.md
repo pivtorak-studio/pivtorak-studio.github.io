@@ -133,6 +133,7 @@ Pivtorak.Studio. 16.07.2023*
   <li><a href="/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/">Анна Півторак (Костюк)</a></li>
   <li><a href="/uk/docs/independent-researcher-manifesto/">Маніфест Дослідника</a></li>
   <li><a href="/uk/docs/process-diary/">Щоденник Процесу</a></li>
+  <li><a href="/uk/docs/core-recalibration/">Перекалібрування Ядра</a></li>
   <li><a href="/uk/docs/shield-of-nation/">Щит Нації</a></li>
   <li><a href="/uk/docs/political-design/">Політичний Дизайн</a></li>
   </ul>

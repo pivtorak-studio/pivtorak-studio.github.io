@@ -134,6 +134,7 @@ Site Oficial: <a href="https://pivtorak.studio/pt/docs/">pivtorak.studio</a>
   <li><a href="/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/">Anna Pivtorak (Kostyuk)</a></li>
   <li><a href="/pt/docs/independent-researcher-manifesto/">Manifesto do Investigador</a></li>
   <li><a href="/pt/docs/process-diary/">Diário De Processo</a></li>
+   <li><a href="/pt/docs/core-recalibration/">Recalibração Do Núcleo</a></li>
   <li><a href="/pt/docs/shield-of-nation/">Escudo Da Nação</a></li>
   <li><a href="/pt/docs/political-design/">Design Político</a></li>
   </ul>

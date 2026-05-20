@@ -157,6 +157,7 @@ Pivtorak.Studio. 16.07.2023*
   <li><a href="/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/">Анна Пивторак (Костюк)</a></li>
   <li><a href="/ru/docs/independent-researcher-manifesto/">Манифест Исследователя</a></li>
   <li><a href="/ru/docs/process-diary/">Дневник Процесса</a></li>
+  <li><a href="/ru/docs/core-recalibration/">Перекалибровка Ядра</a></li>
   <li><a href="/ru/docs/shield-of-nation/">Щит Нации</a></li>
   <li><a href="/ru/docs/political-design/">Политический дизайн</a></li>
   </ul>

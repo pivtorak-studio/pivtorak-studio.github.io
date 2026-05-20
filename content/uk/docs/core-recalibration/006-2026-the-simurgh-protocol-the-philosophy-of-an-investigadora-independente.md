@@ -6,19 +6,6 @@ title: "006 Протокол Симурга: Філософія Investigadora In
 description: Маніфест суверенної науки та незалежного дослідження. Стаття про перехід від інституційної легітимації до автономної архітектури знання, де сайт стає лабораторією, цифровий архів — системою фіксації, а дисципліна — гарантом якості.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
-tags:
-  - CoreRecalibration
-  - SimurghProtocol
-  - InvestigadoraIndependente
-  - SovereignScience
-  - IndependentResearch
-  - DigitalArchitecture
-  - KnowledgeSystems
-  - EconomicCybernetics
-  - ArtHistory
-  - GoogleScholar
-  - SystemsThinking
-  - ResearchInfrastructure
 country: PT
 status: published
 featured: true

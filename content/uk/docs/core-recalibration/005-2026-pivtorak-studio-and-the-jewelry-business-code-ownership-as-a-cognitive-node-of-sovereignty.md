@@ -1,7 +1,7 @@
 ---
-id: core-recalibration-005-2026-uk
+id: core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty
 language: uk
-translation_of: core-recalibration-005-2026-en
+translation_of: core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty
 title: "005 Pivtorak.Studio & TheJewelry.Business: Володіння кодом як когнітивний вузол суверенності"
 description: Стаття про створення автономної цифрової екосистеми через Pivtorak.Studio та TheJewelry.Business, когнітивну суверенність, GitHub-архітектуру, SEO, кібернетичне мислення та перехід від присутності на чужих платформах до володіння власним кодом і середовищем.
 event_date: 2026-05-19T15:00:00

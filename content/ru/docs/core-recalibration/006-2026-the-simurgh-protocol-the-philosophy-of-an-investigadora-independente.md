@@ -1,7 +1,7 @@
 ---
-id: core-recalibration-006-2026-simurgh-protocol
+id: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
 language: ru
-translation_of: core-recalibration-006-2026-simurgh-protocol
+translation_of: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
 title: "006 Протокол Симурга: Философия Investigadora Independente"
 description: Манифест суверенной науки и независимого исследования. Статья о переходе от институциональной легитимации к автономной архитектуре знания, где сайт становится лабораторией, цифровой архив — системой фиксации, а дисциплина — гарантом качества.
 event_date: 2026-05-20T15:00:00

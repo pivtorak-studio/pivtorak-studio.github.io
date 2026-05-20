@@ -2,7 +2,7 @@
 id: core-recalibration-000-2024-high-standards
 language: en
 translation_of: core-recalibration-000-2024-high-standards
-title: 000-2024 High Standards
+title: 000 High Standards
 description: The moment when surpassing your own standards stops being a challenge and becomes a natural rhythm of inner growth.
 event_date: 2024-10-18T15:00:00
 publication_date: 2024-10-18T15:00:00

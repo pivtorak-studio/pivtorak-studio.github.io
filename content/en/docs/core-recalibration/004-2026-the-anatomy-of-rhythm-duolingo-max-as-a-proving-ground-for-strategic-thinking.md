@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: en
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004-2026 The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking"
+title: "004 The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking"
 description: An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -23,9 +23,9 @@ featured: true
 image: /images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp
 alt: A futuristic digital composition showing the transition from Duolingo Max learning rhythms into code architecture, systems thinking, and indexed websites.
 related:
-  - /en/docs/core-recalibration/001-2025-system-reboot/
-  - /en/docs/core-recalibration/002-2025-second-language-first-voice/
-  - /en/docs/core-recalibration/003-2025-presence-detection/
+  - /en/docs/timeline/
+  - /en/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
+  - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
 weight: 5
 draft: false
 toc: true

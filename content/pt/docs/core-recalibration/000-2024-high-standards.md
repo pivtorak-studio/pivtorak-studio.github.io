@@ -2,7 +2,7 @@
 id: core-recalibration-000-2024-high-standards
 language: pt
 translation_of: core-recalibration-000-2024-high-standards
-title: 000-2024 Padrões Elevados
+title: 000 Padrões Elevados
 description: O momento em que superar os próprios padrões deixa de ser um desafio e se torna um ritmo natural de crescimento interior.
 event_date: 2024-10-18T15:00:00
 publication_date: 2024-10-18T15:00:00

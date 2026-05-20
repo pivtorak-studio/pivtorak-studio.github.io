@@ -2,7 +2,7 @@
 id: core-recalibration-002-2025-second-language-first-voice
 language: ru
 translation_of: core-recalibration-002-2025-second-language-first-voice
-title: 002-2025 Второй язык, Первый голос
+title: 002 Второй язык, Первый голос
 description: "Язык как канал присутствия: ежедневная практика, превращающаяся не в изучение, а в подключение к ритмам, культурам и человеческим потокам."
 event_date: 2025-06-21T16:00:00
 publication_date: 2025-06-21T16:00:00

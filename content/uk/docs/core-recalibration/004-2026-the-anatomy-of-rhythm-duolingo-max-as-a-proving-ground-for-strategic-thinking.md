@@ -23,9 +23,9 @@ featured: true
 image: /images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp
 alt: "Футуристична цифрова композиція: перехід від Duolingo Max та ритму навчання до архітектури коду, системного мислення та індексації власного сайту."
 related:
-  - /uk/docs/core-recalibration/001-2025-system-reboot/
-  - /uk/docs/core-recalibration/002-2025-second-language-first-voice/
-  - /uk/docs/core-recalibration/003-2025-presence-detection/
+  - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
+  - /uk/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
+  - /uk/docs/timeline/
 weight: 5
 draft: false
 toc: true

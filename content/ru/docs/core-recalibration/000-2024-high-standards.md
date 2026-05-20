@@ -2,7 +2,7 @@
 id: core-recalibration-000-2024-high-standards
 language: ru
 translation_of: core-recalibration-000-2024-high-standards
-title: 000-2024 Высокие Стандарты
+title: 000 Высокие Стандарты
 description: Момент, когда превосходить собственные стандарты перестаёт быть вызовом и становится естественным ритмом внутреннего роста.
 event_date: 2024-10-18T15:00:00
 publication_date: 2024-10-18T15:00:00

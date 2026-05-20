@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: ru
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004-2026 Анатомия ритма: Duolingo Max как полигон стратегического мышления"
+title: "004 Анатомия ритма: Duolingo Max как полигон стратегического мышления"
 description: Размышление о том, как Duolingo Max стал когнитивным тренажёром перед переходом к архитектуре сайтов, системному мышлению и работе с кодом.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -23,9 +23,9 @@ featured: true
 image: /images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp
 alt: Футуристическая цифровая композиция, показывающая переход от ритма Duolingo Max к архитектуре кода, системному мышлению и индексируемым сайтам.
 related:
-  - /ru/docs/core-recalibration/001-2025-system-reboot/
-  - /ru/docs/core-recalibration/002-2025-second-language-first-voice/
-  - /ru/docs/core-recalibration/003-2025-presence-detection/
+  - /ru/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
+  - /ru/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
+  - /ru/docs/timeline/
 weight: 5
 draft: false
 toc: true

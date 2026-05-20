@@ -25,9 +25,8 @@ featured: true
 image: /images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp
 alt: "Подвійна система суверенності: Pivtorak.Studio та TheJewelry.Business як когнітивні архітектури творчості, логіки, GitHub-версійності та автономного цифрового простору."
 related:
-  - /uk/docs/core-recalibration/001-2025-the-calling/
-  - /uk/docs/core-recalibration/002-2025-the-exit/
-  - /uk/docs/core-recalibration/003-2025-presence-detection/
+  - /uk/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
+  - /uk/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /uk/docs/timeline/
 weight: 6
 draft: false

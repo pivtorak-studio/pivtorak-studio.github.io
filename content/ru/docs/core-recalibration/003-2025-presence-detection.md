@@ -2,7 +2,7 @@
 id: core-recalibration-003-2025-presence-detection
 language: ru
 translation_of: core-recalibration-003-2025-presence-detection
-title: 003-2025 Обнаружение Присутствия
+title: 003 Обнаружение Присутствия
 description: Момент, когда тело, время и движение синхронизируются в единую систему, а присутствие становится ритмом, который удалось уловить.
 event_date: 2025-06-21T17:00:00
 publication_date: 2025-06-21T17:00:00

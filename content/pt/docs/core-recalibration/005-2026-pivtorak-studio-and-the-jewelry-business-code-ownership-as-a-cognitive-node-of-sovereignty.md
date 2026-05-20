@@ -2,7 +2,7 @@
 id: core-recalibration-005-2026-pt
 language: pt
 translation_of: core-recalibration-005-2026-en
-title: "005-2026 Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania"
+title: "005 Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania"
 description: Um ensaio sobre a criação de um ecossistema digital autónomo através do Pivtorak.Studio e do TheJewelry.Business, soberania cognitiva, arquitetura GitHub, SEO, pensamento cibernético e a transição de existir em plataformas alheias para possuir o código e a arquitetura do próprio espaço.
 event_date: 2026-05-19T15:00:00
 publication_date: 2026-05-19T15:00:00
@@ -25,9 +25,8 @@ featured: true
 image: /images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp
 alt: "O sistema duplo de soberania: Pivtorak.Studio e TheJewelry.Business como arquiteturas cognitivas de criatividade, lógica, versionamento GitHub e espaço digital autónomo."
 related:
-  - /pt/docs/core-recalibration/001-2025-the-calling/
-  - /pt/docs/core-recalibration/002-2025-the-exit/
-  - /pt/docs/core-recalibration/003-2025-presence-detection/
+  - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
+  - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /pt/docs/timeline/
 weight: 6
 draft: false
@@ -103,7 +102,7 @@ Quando o sítio web `pivtorak.studio` ficou ativo, comecei a estruturá-lo como 
 
 Contudo, a verdadeira reviravolta cognitiva deu-se quando surgiu o segundo sítio web — `thejewelry.business`. Para mim, isto não é apenas um regresso a uma época de sucesso passado. É uma reabilitação mental completa: a perceção de que não sou quem "destrói" o negócio, mas quem o reanima. Foi uma felicidade avassaladora que celebrei durante dias.
 
-O lançamento do segundo sítio foi tecnicamente mais complexo, obrigando-me a instalar o GitHub Desktop. E aqui, ocorreu um milagre cibernético — a nova estrutura estabilizou a anterior, e o caos transformou-se em ordem controlada. Graças ao controlo de versões do GitHub, o medo de perder dados desapareceu, a necessidade de duplicação manual de arquivos foi eliminada e o tempo foi libertado. Além disso, a configuração consciente do segundo sítio iluminou e alinhou a arquitetura do primeiro. Ferramentas como matrizes de movimento, calculadoras e cronologias são agora implementadas para ambos os recursos em paralelo.
+O lançamento do segundo sítio foi tecnicamente mais complexo, obrigando-me a instalar o GitHub Desktop. E aqui, ocorreu um milagre cibernético — a nova estrutura estabilizou a anterior, e o caos transformou-se em ordem controlada. Graças ao controlo de versões do GitHub, o medo de perder dados desapareceu, a necessidade de duplicação manual de arquivos foi eliminada e o tempo foi libertado. Além disso, a configuração consciente do segundo sítio iluminou e alinhou a arquitetura do primeiro. Ferramentas como matrizes de movimento, calculadoras, conversores e cronologias são agora implementadas para ambos os recursos em paralelo.
 
 Isto não é apenas o lançamento de dois sítios web. É uma transição evolutiva para a formação de um ecossistema autónomo.   
 A conquista máxima é o desaparecimento total do conflito interno entre arte, análise, lógica e tecnologia. Já não são "vidas diferentes". Doravante, constituem um sistema único e soberano da minha presença no mundo.

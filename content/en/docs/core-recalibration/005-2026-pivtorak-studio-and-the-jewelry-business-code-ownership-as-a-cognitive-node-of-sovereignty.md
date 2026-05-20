@@ -2,7 +2,7 @@
 id: core-recalibration-005-2026-en
 language: en
 translation_of:
-title: "005-2026 — Pivtorak.Studio & TheJewelry.Business: Code Ownership as a Cognitive Node of Sovereignty"
+title: "005 Pivtorak.Studio & TheJewelry.Business: Code Ownership as a Cognitive Node of Sovereignty"
 description: An essay about building an autonomous digital ecosystem through Pivtorak.Studio and TheJewelry.Business, cognitive sovereignty, GitHub architecture, SEO, cybernetic thinking, and the transition from existing inside чужих platforms to owning the code and architecture of one’s own environment.
 event_date: 2026-05-19T15:00:00
 publication_date: 2026-05-19T15:00:00
@@ -25,9 +25,8 @@ featured: true
 image: /images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp
 alt: "The dual system of sovereignty: Pivtorak.Studio and TheJewelry.Business as cognitive architectures of creativity, logic, GitHub versioning, and autonomous digital space."
 related:
-  - /en/docs/core-recalibration/001-2025-the-calling/
-  - /en/docs/core-recalibration/002-2025-the-exit/
-  - /en/docs/core-recalibration/003-2025-presence-detection/
+  - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
+  - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /en/docs/timeline/
 weight: 6
 draft: false
@@ -104,7 +103,7 @@ When the `pivtorak.studio` website went live, I began designing it as an expert 
 
 Yet, the true cognitive breakthrough occurred when the second website emerged — `thejewelry.business`. For me, this is not just a return to a period of past success. It is a complete mental rehabilitation: the realization that I am not the one who "breaks" a business, but the one who resuscitates it. It was an overwhelming happiness that I celebrated for days.
 
-Launching the second site was technically more challenging, forcing me to install GitHub Desktop. And here, a cybernetic miracle occurred — the new structure stabilized the previous one, and chaos transformed into controlled order. Thanks to GitHub’s version control, the fear of losing data vanished, the need for manual archive duplication disappeared, and time was liberated. Furthermore, the conscious configuration of the second site illuminated and aligned the architecture of the first. Tools like movement matrices, calculators, and chronologies are now deployed for both resources in parallel.
+Launching the second site was technically more challenging, forcing me to install GitHub Desktop. And here, a cybernetic miracle occurred — the new structure stabilized the previous one, and chaos transformed into controlled order. Thanks to GitHub’s version control, the fear of losing data vanished, the need for manual archive duplication disappeared, and time was liberated. Furthermore, the conscious configuration of the second site illuminated and aligned the architecture of the first. Tools like movement matrices, calculators, converters and chronologies are now deployed for both resources in parallel.
 
 This is not simply the launch of two websites. It is an evolutionary transition to the formation of an autonomous ecosystem. 
 The ultimate achievement is the total dissolution of the internal conflict between art, analytics, logic, and technology. They are no longer "different lives." From now on, they form a single, sovereign system of my presence in the world.

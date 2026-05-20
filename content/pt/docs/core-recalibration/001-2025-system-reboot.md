@@ -2,7 +2,7 @@
 id: core-recalibration-001-2025-system-reboot
 language: pt
 translation_of: core-recalibration-001-2025-system-reboot
-title: 001-2025 Reinicialização do Sistema
+title: 001 Reinicialização do Sistema
 description: Um momento de ativação interior silenciosa, onde o sistema já está em funcionamento e a presença já não precisa de anúncios.
 event_date: 2025-06-21T15:00:00
 publication_date: 2025-06-21T15:00:00

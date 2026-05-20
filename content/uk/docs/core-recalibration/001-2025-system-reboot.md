@@ -2,7 +2,7 @@
 id: core-recalibration-001-2025-system-reboot
 language: uk
 translation_of: core-recalibration-001-2025-system-reboot
-title: 001-2025 Перезавантаження Системи
+title: 001 Перезавантаження Системи
 description: Момент тихого внутрішнього запуску, коли система вже працює, а присутність не потребує оголошень.
 event_date: 2025-06-21T15:00:00
 publication_date: 2025-06-21T15:00:00

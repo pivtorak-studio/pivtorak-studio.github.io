@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: uk
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004-2026 Анатомія ритму: Duolingo Max як полігон стратегічного мислення"
+title: "004 Анатомія ритму: Duolingo Max як полігон стратегічного мислення"
 description: Роздуми про те, як Duolingo Max став когнітивним тренажером перед переходом до архітектури сайтів, системного мислення та роботи з кодом.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00

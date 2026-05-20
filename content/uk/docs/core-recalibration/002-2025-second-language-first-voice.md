@@ -2,7 +2,7 @@
 id: core-recalibration-002-2025-second-language-first-voice
 language: uk
 translation_of: core-recalibration-002-2025-second-language-first-voice
-title: 002-2025 Друга мова, Перший голос
+title: 002 Друга мова, Перший голос
 description: "Мова як канал присутності: щоденна практика, що перетворюється не на вивчення, а на підключення до ритмів і потоків світу."
 event_date: 2025-06-21T16:00:00
 publication_date: 2025-06-21T16:00:00

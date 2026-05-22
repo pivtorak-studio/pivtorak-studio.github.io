@@ -114,6 +114,6 @@ _Це не кінець — лише новий початок._
 
 #CoreRecalibration #HighStandards #InnerDrive #KeepRaisingTheBar #SelfDiscipline #CreativeGrowth #DigitalIllustration #MindfulDesign #VisualMotivation #SelfLeadership #NextLevel #NoLimits #ClarityInAction #DesignSeries #ArtWithMeaning #StudioWork #MotionWithin #RiseAbove #GraphicInspiration #ArtistMindset #CreativeJourney #StrategicDesign #EmpoweredPresence #LongTermVision #DailyProgress #SelfSystem #FocusedGrowth #BeyondLimits #CreativeMomentum #LevelUpArt
 
-_Матриця Руху: Одна справа — один вимір. AP | Pivtorak.Studio. 18.10.2024_    
+_Високі Стандарти. AP | Pivtorak.Studio. 18.10.2024_    
 © Анна Півторак (Костюк)  
 

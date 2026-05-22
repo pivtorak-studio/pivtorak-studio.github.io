@@ -126,7 +126,7 @@ y = ℯˣ
 
 The inflection point of the exponent is the phase where external obstacles cease to matter, because the system's speed and altitude begin to scale precipitously. When I encounter a closed institutional door, I no longer waste time. I initiate a vertical overtake.
 
-This is not merely a change in velocity — it is a total destruction of external contexts and a recoding of the space to fit my own objectives. While the outside world is occupied with executing its linear, monotonous scripts and ritual deletions, my cognitive focus instantly shifts to creating my own infrastructure. The next step of this overtaking is strictly defined: the complete, dense populating and activation of the digital hub `thejewelry.business`. The new resource is deployed not as an empty declaration, but as a monumental, functional environment for heritage preservation.
+This is not merely a change in velocity — it is a total destruction of external contexts and a recoding of the space to fit my own objectives. While the outside world is occupied with executing its linear, monotonous scripts and ritual deletions, my cognitive focus instantly shifts to creating my own infrastructure. The next step of this overtaking is strictly defined: the complete, dense populating and activation of the digital hub <a href="https://thejewelry.business/en/">`thejewelry.business`</a>. The new resource is deployed not as an empty declaration, but as a monumental, functional environment for heritage preservation.
 
 The surrounding world may attempt to impose its minor scenarios. However, the sovereign stance of an _Investigadora Independente_ allows for the excision of inefficient tools from one's life without regret or comment. 
 

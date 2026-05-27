@@ -2,7 +2,7 @@
 id: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
 language: ru
 translation_of: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
-title: "Публичная незавершенность: Архитектура живой суверенной системы"
+title: "008 Публичная незавершенность: Архитектура живой суверенной системы"
 description: Философское и архитектурное размышление о структурированной незавершенности, прозрачной разработке и суверенных цифровых экосистемах, развивающихся публично без сокрытия черновиков, нестабильности или процессов реконструкции.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-26T21:00:00

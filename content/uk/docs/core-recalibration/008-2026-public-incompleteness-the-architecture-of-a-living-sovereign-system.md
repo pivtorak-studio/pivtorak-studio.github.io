@@ -2,7 +2,7 @@
 id: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
 language: uk
 translation_of: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
-title: "Публічна незавершеність: Архітектура живої суверенної системи"
+title: "008 Публічна незавершеність: Архітектура живої суверенної системи"
 description: Філософське та архітектурне осмислення структурованої незавершеності, прозорої розробки та суверенних цифрових екосистем, які розвиваються публічно без приховування чернеток, нестабільності чи процесів реконструкції.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-26T21:00:00

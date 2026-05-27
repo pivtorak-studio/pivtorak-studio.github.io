@@ -2,7 +2,7 @@
 id: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
 language: en
 translation_of: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
-title: "Public Incompleteness: The Architecture of a Living Sovereign System"
+title: "008 Public Incompleteness: The Architecture of a Living Sovereign System"
 description: A philosophical and architectural reflection on structured incompleteness, transparent development, and sovereign digital ecosystems that evolve publicly without hiding drafts, instability, or reconstruction processes.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-26T21:00:00

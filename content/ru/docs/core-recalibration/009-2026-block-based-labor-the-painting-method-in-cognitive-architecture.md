@@ -2,8 +2,8 @@
 id: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
 language: ru
 translation_of: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
-title: "Работа блоками: Метод живописи в когнитивной архитектуре"
-description: "Исследование фазовой целостности, модульного мышления и работы блоками как суверенного операционного метода, происходящего из классической живописи и перенесённого в цифровую архитектуру, многоязычные системы и когнитивную инфраструктуру."
+title: "009 Работа блоками: Метод живописи в когнитивной архитектуре"
+description: Исследование фазовой целостности, модульного мышления и работы блоками как суверенного операционного метода, происходящего из классической живописи и перенесённого в цифровую архитектуру, многоязычные системы и когнитивную инфраструктуру.
 event_date: 2026-05-26T22:00:00
 publication_date: 2026-05-27T12:00:00
 tags:
@@ -21,7 +21,7 @@ country: PT
 status: published
 featured: true
 image: /images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp
-alt: "Футуристическое пространство когнитивной архитектуры, демонстрирующее художественные микроциклы, модульное построение систем, цифровые интерфейсы и суверенную работу блоками через этапы живописи и кибернетические структуры."
+alt: Футуристическое пространство когнитивной архитектуры, демонстрирующее художественные микроциклы, модульное построение систем, цифровые интерфейсы и суверенную работу блоками через этапы живописи и кибернетические структуры.
 related:
   - /ru/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /ru/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/

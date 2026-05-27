@@ -85,7 +85,9 @@ keywords:
     "Arquitetura Cognitiva",
     "Ultrapassagem Vertical",
     "Investigadora Independente",
-    "thejewelry.business"
+    "thejewelry.business",
+    "WIKIDATA",
+    "WIKIMEDIA"
   ],
   "about": [
     {

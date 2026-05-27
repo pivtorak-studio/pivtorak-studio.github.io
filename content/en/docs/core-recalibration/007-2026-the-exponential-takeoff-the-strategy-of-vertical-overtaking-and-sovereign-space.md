@@ -85,7 +85,9 @@ keywords:
     "Cognitive Architecture",
     "Vertical Overtaking",
     "Investigadora Independente",
-    "thejewelry.business"
+    "thejewelry.business",
+    "WIKIDATA",
+    "WIKIMEDIA"
   ],
   "about": [
     {

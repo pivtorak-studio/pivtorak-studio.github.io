@@ -85,7 +85,9 @@ keywords:
     "Когнитивная архитектура",
     "Вертикальный обгон",
     "Investigadora Independente",
-    "thejewelry.business"
+     "thejewelry.business",
+    "WIKIDATA",
+    "WIKIMEDIA"
   ],
   "about": [
     {

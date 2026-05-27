@@ -115,5 +115,5 @@ This is the concept of phased integrity. Modular cognition allows me to maintain
 **Alt-text:**    
 A futuristic cognitive architecture workspace showing phased artistic microcycles, modular system construction, digital interfaces, and sovereign block-based labor visualized through painting stages and cybernetic structures.
 
-_Block-Based Labor: The Painting Method in Cognitive Architecture. AP | Pivtorak.Studio. 26.05.2026_
+_Block-Based Labor: The Painting Method in Cognitive Architecture. AP | Pivtorak.Studio. 26.05.2026_  
 © Anna Pivtorak (Kostyuk)

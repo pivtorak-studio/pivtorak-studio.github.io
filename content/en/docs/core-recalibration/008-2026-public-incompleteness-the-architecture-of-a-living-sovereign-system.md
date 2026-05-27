@@ -114,5 +114,5 @@ Such a model builds a fundamentally new type of trust. It arises not from the il
 **Alt-text:**    
 A futuristic sovereign digital ecosystem evolving in real time through transparent modular reconstruction, glowing interface systems, ethical development notices, and living architectural structures.
 
-_Public Incompleteness: The Architecture of a Living Sovereign System. AP | Pivtorak.Studio. 26.05.2026_
+_Public Incompleteness: The Architecture of a Living Sovereign System. AP | Pivtorak.Studio. 26.05.2026_   
 © Anna Pivtorak (Kostyuk)

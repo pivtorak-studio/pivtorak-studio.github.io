@@ -115,5 +115,5 @@ Este é o conceito de integridade por fases (phased integrity). O pensamento mod
 **Alt-text:**    
 Um espaço futurista de arquitetura cognitiva mostrando microciclos artísticos faseados, construção modular de sistemas, interfaces digitais e trabalho soberano por blocos visualizado através de etapas de pintura e estruturas cibernéticas.
 
-_Trabalho por Blocos: O Método da Pintura na Arquitetura Cognitiva. AP | Pivtorak.Studio. 26.05.2026_
+_Trabalho por Blocos: O Método da Pintura na Arquitetura Cognitiva. AP | Pivtorak.Studio. 26.05.2026_  
 © Anna Pivtorak (Kostyuk)

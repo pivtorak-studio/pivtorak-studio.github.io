@@ -114,5 +114,5 @@ Este modelo constrói um tipo de confiança fundamentalmente novo. Esta não bro
 **Alt-text:**   
 Um ecossistema digital soberano futurista evoluindo em tempo real através de reconstrução modular transparente, sistemas de interface luminosos, avisos éticos de desenvolvimento e estruturas arquitetónicas vivas.
 
-_Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo. AP | Pivtorak.Studio. 26.05.2026_ 
+_Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo. AP | Pivtorak.Studio. 26.05.2026_    
 © Anna Pivtorak (Kostyuk)

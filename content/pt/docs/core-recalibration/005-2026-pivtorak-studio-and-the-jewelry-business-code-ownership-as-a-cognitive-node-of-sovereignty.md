@@ -92,7 +92,7 @@ keywords:
 
 _Epígrafe: Quando dominas o código do teu espaço, já não precisas de intermediários_  
 
-Parecia que a disciplina e a elevada concentração sempre tinham sido a base da minha atividade criativa. Contudo, a presença em plataformas digitais alheias tinha uma limitação crucial: não permitia a escala. É possível ser ativa e visível dentro de um ambiente que não é seu, mas se a arquitetura não lhe pertence, continua a ser apenas uma "criadora de conteúdos". A tensão interna aumentava: "Estou a investir energia, mas o sistema não é meu".
+Parecia que a disciplina e a elevada concentração sempre tinham sido a base da minha atividade criativa. Contudo, a presença em plataformas digitais (ex: Instagram, Facebook, Threads, X, YouTube) alheias tinha uma limitação crucial: não permitia a escala. É possível ser ativa e visível dentro de um ambiente que não é seu, mas se a arquitetura não lhe pertence, continua a ser apenas uma "criadora de conteúdos". A tensão interna aumentava: "Estou a investir energia, mas o sistema não é meu".
 
 Simultaneamente, surgiu uma clareza inequívoca: não posso e não quero trabalhar em equipa. Coordenar outras pessoas, aceitar compromissos e alinhamentos constantes consomem mais recursos do que a implementação direta do meu próprio pensamento numa realidade funcional. Era necessário criar o meu próprio campo.
 

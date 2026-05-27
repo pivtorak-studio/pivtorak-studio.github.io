@@ -93,7 +93,7 @@ keywords:
 
 _When you own the code of your space, you no longer need intermediaries_
 
-It would seem that discipline and high concentration have always been the core of my creative work. However, being present on third-party digital platforms carried a critical limitation: it offered no scaling. One can be active and visible inside someone else's environment, but if the architecture does not belong to you, you remain merely a "content creator." The internal tension grew: "I am investing energy, but the system is not mine."
+It would seem that discipline and high concentration have always been the core of my creative work. However, being present on third-party digital platforms (ex: Instagram, Facebook, Threads, X, YouTube) carried a critical limitation: it offered no scaling. One can be active and visible inside someone else's environment, but if the architecture does not belong to you, you remain merely a "content creator." The internal tension grew: "I am investing energy, but the system is not mine."
 
 Simultaneously, a clear realization emerged: I cannot and do not want to work in a team. Coordinating other people, negotiating compromises, and constant alignments consume more resources than the direct deployment of my own thinking into a functional reality. It was time to  build my own field.
 

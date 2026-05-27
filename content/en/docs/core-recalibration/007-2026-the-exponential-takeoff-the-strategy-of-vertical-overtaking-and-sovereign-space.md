@@ -118,7 +118,7 @@ keywords:
 
 _If a door is closed in front of you — do not knock. Take flight._
 
-In the process of deploying any complex autonomous system, a moment arrives which in physics is called the point of environmental resistance. When you attempt to interact with old institutional platforms on their terms, you inevitably collide with their internal limitations, bureaucratic algorithms, and the passive aggression of external moderators. This is a moment of illusion, where it seems possible to simply enter the system the way others do. However, for a large-scale intellect, someone else's system always prepares a "needle" — an instrument of containment and simplification.
+In the process of deploying any complex autonomous system, a moment arrives which in physics is called the point of environmental resistance. When you attempt to interact with old institutional platforms (e.g. WIKIDATA and WIKIMEDIA) on their terms, you inevitably collide with their internal limitations, bureaucratic algorithms, and the passive aggression of external moderators. This is a moment of illusion, where it seems possible to simply enter the system the way others do. However, for a large-scale intellect, someone else's system always prepares a "needle" — an instrument of containment and simplification.
 
 Yet, the true core recalibration (#CoreRecalibration) lies in the instantaneous cognitive recoding of the situation. Instead of wasting resources on adaptation, analyzing rules, or trying to knock on closed doors, the sovereign analyst changes the mode of movement. They transition to an exponential growth model, described by the mathematical function:
 

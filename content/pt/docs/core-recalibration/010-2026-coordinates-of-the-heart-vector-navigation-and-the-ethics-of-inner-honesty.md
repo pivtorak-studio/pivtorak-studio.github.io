@@ -2,17 +2,12 @@
 id: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
 language: pt
 translation_of: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
-
 title: "010 Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna"
-
-description: "Um modelo soberano de tomada de decisão onde o coração define a direção e a mente constrói a rota. Uma reflexão sobre honestidade radical, integridade interna e a distinção entre função de sobrevivência e identidade autêntica."
-
-summary: "O coração responde à pergunta 'Para onde?'. A mente responde à pergunta 'Como?'. A Recalibração Central começa quando a falta de energia é reconhecida como um sinal sistémico e não como uma falha pessoal."
-
+description: Um modelo soberano de tomada de decisão onde o coração define a direção e a mente constrói a rota. Uma reflexão sobre honestidade radical, integridade interna e a distinção entre função de sobrevivência e identidade autêntica.
+summary: O coração responde à pergunta 'Para onde?'. A mente responde à pergunta 'Como?'. A Recalibração Central começa quando a falta de energia é reconhecida como um sinal sistémico e não como uma falha pessoal.
 event_date: 2026-05-30T18:00:00
 publication_date: 2026-05-30T18:00:00
 lastmod: 2026-05-30T18:00:00
-
 tags:
   - Core Recalibration
   - Vetor do Coração
@@ -24,7 +19,6 @@ tags:
   - Autenticidade
   - Transformação Pessoal
   - Ética
-
 keywords:
   - coordenadas do coração
   - navegação vetorial
@@ -36,33 +30,29 @@ keywords:
   - recalibração
   - arquitetura das decisões
   - impossibilidade de não fazer
-
 categories:
   - Core Recalibration
   - Filosofia
   - Arquitetura de Sistemas
   - Evolução Pessoal
-
 series:
   - Core Recalibration
   - Caminho e Evolução
-
 country: PT
 status: published
 featured: true
-
 image: /images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp
-
-alt: "Diagrama da arquitetura soberana de decisão mostrando o coração como vetor de direção, a mente como engenharia de rota, a honestidade radical como protocolo de recalibração e a transição da racionalidade distorcida para a soberania interior."
-
+alt: Diagrama da arquitetura soberana de decisão mostrando o coração como vetor de direção, a mente como engenharia de rota, a honestidade radical como protocolo de recalibração e a transição da racionalidade distorcida para a soberania interior.
 related:
-  - core-recalibration-001
-  - core-recalibration-008
-  - timeline-path-and-evolution
-
+  - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
+  - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
+  - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
+  - /pt/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
+  - /pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
+  - /pt/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
+  - /pt/docs/timeline/
 authors:
   - Anna Pivtorak
-
 weight: 10
 draft: false
 toc: true

@@ -2,17 +2,12 @@
 id: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
 language: en
 translation_of: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
-
 title: "010 Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty"
-
-description: "A sovereign model of decision-making where the heart determines direction and the mind designs the route. An exploration of radical honesty, internal integrity, and the distinction between survival functions and authentic identity."
-
-summary: "The heart answers 'Where?'. The mind answers 'How?'. Core Recalibration begins when absence of energy is recognized as a system signal rather than a personal failure."
-
+description: A sovereign model of decision-making where the heart determines direction and the mind designs the route. An exploration of radical honesty, internal integrity, and the distinction between survival functions and authentic identity.
+summary: The heart answers 'Where?'. The mind answers 'How?'. Core Recalibration begins when absence of energy is recognized as a system signal rather than a personal failure.
 event_date: 2026-05-30T18:00:00
 publication_date: 2026-05-30T18:00:00
 lastmod: 2026-05-30T18:00:00
-
 tags:
   - Core Recalibration
   - Heart Vector
@@ -24,7 +19,6 @@ tags:
   - Authenticity
   - Personal Transformation
   - Ethics
-
 keywords:
   - coordinates of the heart
   - vector navigation
@@ -36,33 +30,29 @@ keywords:
   - recalibration
   - architecture of decisions
   - impossibility of not doing
-
 categories:
   - Core Recalibration
   - Philosophy
   - Systems Architecture
   - Personal Evolution
-
 series:
   - Core Recalibration
   - Path and Evolution
-
 country: PT
 status: published
 featured: true
-
 image: /images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp
-
-alt: "Diagram of sovereign decision architecture showing the heart as vector navigation, the mind as route engineering, radical honesty as recalibration protocol, and the transition from distorted rationality to internal sovereignty."
-
+alt: Diagram of sovereign decision architecture showing the heart as vector navigation, the mind as route engineering, radical honesty as recalibration protocol, and the transition from distorted rationality to internal sovereignty.
 related:
-  - core-recalibration-001
-  - core-recalibration-008
-  - timeline-path-and-evolution
-
+  - /en/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
+  - /en/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
+  - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
+  - /en/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
+  - /en/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
+  - /en/docs/timeline/
+  - /en/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
 authors:
   - Anna Pivtorak
-
 weight: 10
 draft: false
 toc: true

@@ -2,17 +2,12 @@
 id: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
 language: ru
 translation_of: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
-
 title: "010 Координаты сердца: Навигация вектора и этика внутренней честности"
-
-description: "Суверенная модель принятия решений, в которой сердце определяет направление, а разум проектирует маршрут. Исследование радикальной честности, внутренней целостности и различия между функцией выживания и подлинной идентичностью."
-
-summary: "Сердце отвечает на вопрос «Куда?». Разум отвечает на вопрос «Как?». Core Recalibration начинается тогда, когда отсутствие энергии воспринимается как системный сигнал, а не как личная слабость."
-
+description: Суверенная модель принятия решений, в которой сердце определяет направление, а разум проектирует маршрут. Исследование радикальной честности, внутренней целостности и различия между функцией выживания и подлинной идентичностью.
+summary: Сердце отвечает на вопрос «Куда?». Разум отвечает на вопрос «Как?». Core Recalibration начинается тогда, когда отсутствие энергии воспринимается как системный сигнал, а не как личная слабость.
 event_date: 2026-05-30T18:00:00
 publication_date: 2026-05-30T18:00:00
 lastmod: 2026-05-30T18:00:00
-
 tags:
   - Core Recalibration
   - Вектор сердца
@@ -24,7 +19,6 @@ tags:
   - Подлинность
   - Личная трансформация
   - Этика
-
 keywords:
   - координаты сердца
   - навигация вектора
@@ -36,33 +30,30 @@ keywords:
   - перекалибровка
   - архитектура решений
   - невозможность не делать
-
 categories:
   - Core Recalibration
   - Философия
   - Архитектура систем
   - Личная эволюция
-
 series:
   - Core Recalibration
   - Путь и Эволюция
-
 country: PT
 status: published
 featured: true
-
 image: /images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp
-
-alt: "Диаграмма суверенной архитектуры принятия решений, где сердце выступает вектором направления, разум — инженером маршрута, а радикальная честность служит протоколом перекалибровки."
-
+alt: Диаграмма суверенной архитектуры принятия решений, где сердце выступает вектором направления, разум — инженером маршрута, а радикальная честность служит протоколом перекалибровки.
 related:
-  - core-recalibration-001
-  - core-recalibration-008
-  - timeline-path-and-evolution
-
+  - /ru/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
+  - /ru/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
+  - /ru/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
+  - /en/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
+  - /ru/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
+  - /ru/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
+  - /ru/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
+  - /ru/docs/timeline/
 authors:
   - Anna Pivtorak
-
 weight: 10
 draft: false
 toc: true

@@ -3,7 +3,7 @@ id: core-recalibration-007-2026-exponential-takeoff
 language: pt
 translation_of: core-recalibration-007-2026-exponential-takeoff
 title: "007 A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano"
-description: "Uma reflexão analítica sobre crescimento cognitivo exponencial, infraestrutura digital soberana e a transição estratégica da resistência institucional para a expansão vertical autónoma."
+description: Uma reflexão analítica sobre crescimento cognitivo exponencial, infraestrutura digital soberana e a transição estratégica da resistência institucional para a expansão vertical autónoma.
 event_date: 2026-05-22T14:00:00
 publication_date: 2026-05-22T14:00:00
 tags:
@@ -21,13 +21,13 @@ country: PT
 status: published
 featured: true
 image: /images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp
-alt: "Uma figura soberana ascendendo exponencialmente ao longo de uma curva luminosa enquanto deixa para trás estruturas institucionais fechadas e ativa uma infraestrutura digital autónoma."
+alt: Uma figura soberana ascendendo exponencialmente ao longo de uma curva luminosa enquanto deixa para trás estruturas institucionais fechadas e ativa uma infraestrutura digital autónoma.
 related:
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /pt/docs/timeline/
-weight: 7
+weight: 8
 draft: false
 toc: true
 categories:

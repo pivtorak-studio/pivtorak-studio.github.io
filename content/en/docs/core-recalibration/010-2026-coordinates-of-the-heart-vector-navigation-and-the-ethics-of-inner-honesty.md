@@ -53,7 +53,7 @@ related:
   - /en/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
 authors:
   - Anna Pivtorak
-weight: 10
+weight: 11
 draft: false
 toc: true
 ---

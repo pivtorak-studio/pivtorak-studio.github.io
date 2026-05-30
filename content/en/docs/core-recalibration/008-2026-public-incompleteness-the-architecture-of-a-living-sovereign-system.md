@@ -28,7 +28,7 @@ related:
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /en/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /en/docs/timeline/
-weight: 8
+weight: 9
 draft: false
 toc: true
 categories:

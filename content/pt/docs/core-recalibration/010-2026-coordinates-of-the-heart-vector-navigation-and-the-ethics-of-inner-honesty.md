@@ -53,7 +53,7 @@ related:
   - /pt/docs/timeline/
 authors:
   - Anna Pivtorak
-weight: 10
+weight: 11
 draft: false
 toc: true
 ---
@@ -137,6 +137,5 @@ Quando o coração dita um vetor intransigente e a mente atua como engenheira da
 **Alt-text:**    
 Diagrama da arquitetura soberana de decisão mostrando o coração como vetor de direção, a mente como engenharia de rota, a honestidade radical como protocolo de recalibração e a transição da racionalidade distorcida para a soberania interior.
 
-_Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna
-. AP | Pivtorak.Studio. 30.05.2026_    
+_Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna. AP | Pivtorak.Studio. 30.05.2026_    
 © Anna Pivtorak (Kostyuk)

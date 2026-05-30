@@ -95,7 +95,7 @@ toc: true
 
 # Mudança de Dimensão: A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas
 
-_O projeto está orientado para um resultado temporário.
+_O projeto está orientado para um resultado temporário.   
 O sistema foca-se na reprodução e evolução infinitas._
 
 No espaço sociocultural e empresarial, a palavra "projeto" tornou-se um marcador universal de atividade. Contudo, na sua essência arquitetónica, qualquer projeto é profundamente limitado: está sempre enclausurado nas balizas lineares de "um início e um fim", orientado exclusivamente para um resultado final e exige a atenção contínua e desgastante do seu criador. O projeto termina, deixando o autor perante a necessidade de recomeçar tudo do zero. Trata-se de uma corrida de curta distância que retém o intelecto na armadilha de horizontes temporais de curto prazo.

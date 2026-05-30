@@ -95,7 +95,7 @@ toc: true
 
 ## A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems
 
-_A project is oriented toward a temporary result.
+_A project is oriented toward a temporary result.   
 A system is designed for infinite reproduction and evolution._
 
 Within the socio-cultural and business landscape, the word "project" has become a universal marker of activity. Yet, in its architectural essence, any project is deeply limited: it is always trapped within the linear boundaries of a "beginning and an end," focused solely on a final result, and demands the continuous, exhausting attention of its creator. A project concludes, leaving the author with the necessity of starting over from scratch. This is a short-distance race that keeps the intellect imprisoned within short-term time horizons.

@@ -1,104 +1,53 @@
 ---
-id: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking  
-language: pt  
+id: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking
+language: pt
 translation_of: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking
-
 title: "012 A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano"
-
-description: "A recalibração final que explora a arquitetura como disciplina de criação de ambientes de sentido resilientes através dos princípios vitruvianos de utilidade, resiliência e ressonância."
-
-summary: "A construção cria objetos. A arquitetura projeta os ambientes onde esses objetos se tornam possíveis. Este artigo apresenta a arquitetura dos ambientes de sentido como uma disciplina de pensamento sistémico soberano."
-
-event_date: 2026-05-31T23:00:00+01:00  
-publication_date: 2026-05-31T23:00:00+01:00  
+description: A recalibração final que explora a arquitetura como disciplina de criação de ambientes de sentido resilientes através dos princípios vitruvianos de utilidade, resiliência e ressonância.
+summary: A construção cria objetos. A arquitetura projeta os ambientes onde esses objetos se tornam possíveis. Este artigo apresenta a arquitetura dos ambientes de sentido como uma disciplina de pensamento sistémico soberano.
+event_date: 2026-05-31T23:00:00+01:00
+publication_date: 2026-05-31T23:00:00+01:00
 lastmod: 2026-05-31T23:00:00+01:00
-
 tags:
-
-- CoreRecalibration
-    
-- Arquitetura
-    
-- PensamentoSistémico
-    
-- PensamentoSoberano
-    
-- AmbientesDeSentido
-    
-- TriadeVitruviana
-    
-- Cibernética
-    
-- Resiliência
-    
-- Estruturas
-    
-- Filosofia
-    
-
+  - CoreRecalibration
+  - Arquitetura
+  - PensamentoSistémico
+  - PensamentoSoberano
+  - AmbientesDeSentido
+  - TriadeVitruviana
+  - Cibernética
+  - Resiliência
+  - Estruturas
+  - Filosofia
 keywords:
-
-- arquitetura dos ambientes de sentido
-    
-- pensamento soberano
-    
-- tríade vitruviana
-    
-- arquitetura de sistemas
-    
-- estruturas cibernéticas
-    
-- sistemas resilientes
-    
-- design de sentido
-    
-- arquitetura conceptual
-    
-- ambientes resilientes
-    
-- core recalibration
-    
-
+  - arquitetura dos ambientes de sentido
+  - pensamento soberano
+  - tríade vitruviana
+  - arquitetura de sistemas
+  - estruturas cibernéticas
+  - sistemas resilientes
+  - design de sentido
+  - arquitetura conceptual
+  - ambientes resilientes
+  - core recalibration
 categories:
-
-- Filosofia
-    
-- Design de Sistemas
-    
-- Cibernética
-    
-- Arquitetura do Sentido
-    
-
+  - Filosofia
+  - Design de Sistemas
+  - Cibernética
+  - Arquitetura do Sentido
 series:
-
-- Core Recalibration
-    
-
+  - Core Recalibration
 country: PT
-
-status: published  
+status: published
 featured: true
-
 image: /images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp
-
-alt: "Uma arquiteta diante de uma estrutura geométrica luminosa inspirada em Vitrúvio, simbolizando Utilidade, Resiliência e Beleza."
-
+alt: Uma arquiteta diante de uma estrutura geométrica luminosa inspirada em Vitrúvio, simbolizando Utilidade, Resiliência e Beleza.
 related:
-
-- /pt/docs/core-recalibration/
-    
-- /pt/docs/timeline/
-    
-
+  - /pt/docs/core-recalibration/
+  - /pt/docs/timeline/
 authors:
-
-- Anna Pivtorak
-    
-
+  - Anna Pivtorak
 weight: 13
-
-## draft: false  
 toc: true
 ---
 <script type="application/ld+json">

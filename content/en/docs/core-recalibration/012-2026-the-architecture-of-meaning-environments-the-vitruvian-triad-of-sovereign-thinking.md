@@ -1,104 +1,53 @@
 ---
-id: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking  
-language: en  
+id: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking
+language: en
 translation_of: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking
-
 title: "012 The Architecture of Meaning Environments: The Vitruvian Triad of Sovereign Thinking"
-
-description: "A final core recalibration exploring architecture as the design of resilient meaning environments through the Vitruvian principles of utility, resilience, and resonance."
-
-summary: "Construction creates objects. Architecture designs the environments in which those objects become possible. This article marks the final stage of Core Recalibration and introduces the architecture of meaning environments as a sovereign systems-thinking discipline."
-
-event_date: 2026-05-31T23:00:00+01:00  
-publication_date: 2026-05-31T23:00:00+01:00  
+description: A final core recalibration exploring architecture as the design of resilient meaning environments through the Vitruvian principles of utility, resilience, and resonance.
+summary: Construction creates objects. Architecture designs the environments in which those objects become possible. This article marks the final stage of Core Recalibration and introduces the architecture of meaning environments as a sovereign systems-thinking discipline.
+event_date: 2026-05-31T23:00:00+01:00
+publication_date: 2026-05-31T23:00:00+01:00
 lastmod: 2026-05-31T23:00:00+01:00
-
 tags:
-
-- CoreRecalibration
-    
-- Architecture
-    
-- SystemsThinking
-    
-- SovereignThinking
-    
-- MeaningEnvironments
-    
-- VitruvianTriad
-    
-- Cybernetics
-    
-- StructuralDesign
-    
-- Resilience
-    
-- Philosophy
-    
-
+  - CoreRecalibration
+  - Architecture
+  - SystemsThinking
+  - SovereignThinking
+  - MeaningEnvironments
+  - VitruvianTriad
+  - Cybernetics
+  - StructuralDesign
+  - Resilience
+  - Philosophy
 keywords:
-
-- architecture of meaning environments
-    
-- sovereign thinking
-    
-- vitruvian triad
-    
-- systems architecture
-    
-- cybernetic structures
-    
-- resilient systems
-    
-- meaning design
-    
-- architectural thinking
-    
-- environment design
-    
-- core recalibration
-    
-
+  - architecture of meaning environments
+  - sovereign thinking
+  - vitruvian triad
+  - systems architecture
+  - cybernetic structures
+  - resilient systems
+  - meaning design
+  - architectural thinking
+  - environment design
+  - core recalibration
 categories:
-
-- Philosophy
-    
-- Systems Design
-    
-- Cybernetics
-    
-- Architecture of Meaning
-    
-
+  - Philosophy
+  - Systems Design
+  - Cybernetics
+  - Architecture of Meaning
 series:
-
-- Core Recalibration
-    
-
+  - Core Recalibration
 country: PT
-
-status: published  
+status: published
 featured: true
-
 image: /images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp
-
-alt: "An architect standing within a luminous Vitruvian-inspired geometric structure representing Utility, Strength, and Beauty as pillars of sovereign systems thinking."
-
+alt: An architect standing within a luminous Vitruvian-inspired geometric structure representing Utility, Strength, and Beauty as pillars of sovereign systems thinking.
 related:
-
-- /en/docs/core-recalibration/
-    
-- /en/docs/timeline/
-    
-
+  - /en/docs/core-recalibration/
+  - /en/docs/timeline/
 authors:
-
-- Anna Pivtorak
-    
-
+  - Anna Pivtorak
 weight: 13
-
-## draft: false  
 toc: true
 ---
 <script type="application/ld+json">

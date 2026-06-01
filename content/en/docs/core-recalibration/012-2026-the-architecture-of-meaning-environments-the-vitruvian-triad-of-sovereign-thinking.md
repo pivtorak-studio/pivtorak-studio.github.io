@@ -96,8 +96,8 @@ toc: true
 
 # The Architecture of Meaning Environments: The Vitruvian Triad of Sovereign Thinking
 
-_Construction creates objects.
-Architecture designs the environments in which those objects become possible._
+_Construction creates objects.     
+Architecture designs the environments in which those objects become possible._   
 
 Historically, the concept of "architecture" was firmly anchored to the physical world—the design of structures, cities, or landscapes. However, within contemporary informational and cybernetic realities, we witness not an expansion of this word's meaning, but a return to its foundational essence. Architecture is the art and practice of creating resilient environments wherein people, ideas, processes, or systems can sustainably exist, interact, and evolve. A physical building is merely one of countless possible vessels for this discipline. 
 

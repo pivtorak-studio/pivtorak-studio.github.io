@@ -107,8 +107,8 @@ toc: true
 
 # Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty
 
-_The heart determines the direction and answers the question "Where?".
-The mind constructs the route and answers the question "How?"._
+_The heart determines the direction and answers the question "Where?".   
+The mind constructs the route and answers the question "How?"._    
 
 Within the classical model of social success, a distorted rationality of the mind dominates. Its main postulate resounds as an uncompromising: "If it is correct, then it is necessary." If a position is promising, it must be developed; if an industry yields income, it must be scaled; if the external space approves of an action, it should be continued, dedicating years of life to it. Within this linear logic, an individual imperceptibly shifts from realizing their own potential to serving a system of external arguments. One can possess flawless status, stable financial metrics, and successful analytical projects, yet remain internally hollow day after day.
 

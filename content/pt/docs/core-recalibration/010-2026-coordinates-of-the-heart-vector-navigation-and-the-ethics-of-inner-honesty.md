@@ -107,8 +107,8 @@ toc: true
 
 # Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna
 
-_O coração determina a direção e responde à pergunta "Para onde?".
-A mente constrói a rota e responde à pergunta "Como?"._
+_O coração determina a direção e responde à pergunta "Para onde?".   
+A mente constrói a rota e responde à pergunta "Como?"._   
 
 No modelo clássico de sucesso social, predomina uma racionalidade distorcida da mente. O seu postulado principal ressoa como um intransigente: "Se é correto, então é necessário". Se uma posição é promissora, deve ser desenvolvida; se um setor gera rendimento, deve ser escalado; se o espaço externo aprova uma ação, esta deve ser continuada, dedicando-lhe anos de vida. Nesta lógica linear, o indivíduo transita impercetivelmente da realização do seu próprio potencial para o serviço de um sistema de argumentos externos. Pode-se possuir um estatuto impecável, métricas financeiras estáveis e projetos analíticos de sucesso, e ainda assim permanecer internamente vazio dia após dia.
 

@@ -96,7 +96,7 @@ toc: true
 
 # A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano
 
-_A construção cria objetos.   
+_A construção cria objetos.    
 A arquitetura projeta os ambientes nos quais esses objetos se tornam possíveis._
 
 Historicamente, o conceito de "arquitetura" esteve solidamente ancorado ao mundo físico — o projeto de edifícios, cidades ou paisagens. Contudo, na realidade informacional e cibernética contemporânea, não se assiste a uma expansão do significado desta palavra, mas um retorno à sua essência fundamental. A arquitetura é a arte e a prática de criar ambientes resilientes nos quais pessoas, ideias, processos ou sistemas possam existir, interagir e evoluir de forma sustentável. Um edifício físico é apenas um de inúmeros suportes possíveis para esta disciplina. 

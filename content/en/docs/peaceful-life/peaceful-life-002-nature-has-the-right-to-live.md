@@ -105,7 +105,7 @@ Alive.
 
 And we — we are the ones who can protect that silence.
 
-**Alt-text:**
+**Alt-text:**   
 At the center of the image is a forest clearing. In the foreground stands a calm deer, gazing forward. Around it — soft light amidst a misty landscape. The grey zone remains outside the frame; nature is untouched and whole.
 
 #NatureHasTheRightToLive #ForestsAreNotATarget #SilenceOfTheForest #ProtectNature #LightInTheWoods #LivingWorld #WildlifeMatters #GuardedEnvironment #CalmAmongTrees #FieldWithoutFear #PeaceForForests #LifeBeyondThreats #SilenceAsStrength #GreenSanctuary #TheForestIsHome #UndestroyedNature #DeerInTheLight #HarmonyWithNature #NewReality #PlaceThatLives #TreesAndLight #ObserveAndProtect #AllDeserveToLive #LivingField #PeacefulLife #JuneOfNature #FieldOfSilence #NoTargetsHere #PowerOfTheUntouched #UnbrokenWorld

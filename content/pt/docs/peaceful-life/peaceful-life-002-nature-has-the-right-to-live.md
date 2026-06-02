@@ -105,7 +105,7 @@ Viva.
 
 E nós — somos aqueles que podem proteger esse silêncio.
 
-**Alt-text:**
+**Alt-text:**   
 No centro da imagem — uma clareira na floresta. Em primeiro plano, um cervo tranquilo olha para a frente. Ao redor — luz suave num ambiente enevoado. A zona cinzenta fica fora do enquadramento; a natureza permanece intacta, íntegra.
 
 #ANaturezaTemDireitoÀVida #FlorestasNãoSãoAlvos #SilêncioDaFloresta #ProtegerANatureza #LuzNaMata #MundoVivo #NaturezaSelvagem #AmbienteProtegido #CalmaEntreÁrvores #CampoSemMedo #PazParaAsFlorestas #VidaSemAmeaças #SilêncioComoForça #RefúgioVerde #AFlorestaÉCasa #NaturezaIntocada #CervoNaLuz #HarmoniaComANatureza #NovaRealidade #LugarQueVive #ÁrvoresELuz #ObservarEProteger #TodosMerecemViver #CampoVivo #VidaPacífica #JunhoDaNatureza #CampoDoSilêncio #SemAlvosAqui #ForçaDoIntocado #MundoInquebrável

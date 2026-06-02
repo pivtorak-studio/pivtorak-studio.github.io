@@ -84,7 +84,7 @@ weight: 4
 }
 </script>
 
-![Безпечна ніч. Туристичне коло](/images/peaceful-life-004-safe-night.webp)
+![Безпечна ніч. Туристичне коло](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
 
 # 🪵🔥🌌 Безпечна ніч. Коло довіри
 

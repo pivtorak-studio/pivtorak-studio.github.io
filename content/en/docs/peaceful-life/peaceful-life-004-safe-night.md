@@ -84,7 +84,7 @@ weight: 4
 }
 </script>
 
-![Safe Night. Circle of Trust](/images/peaceful-life-004-safe-night.webp)
+![Safe Night. Circle of Trust](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
 
 # 🪵🔥🌌 Safe Night. Circle of Trust
 

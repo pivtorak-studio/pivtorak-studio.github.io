@@ -1,4 +1,90 @@
+---
+id: peaceful-life-004-safe-night
+language: ru
+translation_of: peaceful-life-004-safe-night
+title: Безопасная ночь
+description: Мирная ночь на природе должна быть наполнена дружбой, разговорами и чувством безопасности. Размышление о доверии, сообществе и праве отдыхать без страха.
+summary: У костра люди делятся историями, смехом и тишиной. Эта статья исследует право чувствовать себя в безопасности ночью и значение доверия в мирной жизни.
+event_date: 2025-07-01T11:00:00
+publication_date: 2025-07-01T11:00:00
+lastmod: 2025-07-01T11:00:00
+slug: safe-night
+tags:
+  - Мирная Жизнь
+  - Безопасная Ночь
+  - Туризм
+  - Доверие
+  - Сообщество
+  - Дружба
+  - Мир
+  - Лето
+keywords:
+  - безопасная ночь
+  - круг доверия
+  - отдых на природе
+  - летний вечер
+  - дружба
+  - мирная жизнь
+categories:
+  - Мирная Жизнь
+series:
+  - Мирная Жизнь
+series_index: 4
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-004-safe-night.webp
+alt: Люди сидят у костра под спокойным летним небом, проводя вечер в атмосфере доверия и безопасности.
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/ru/docs/peaceful-life/004-safe-night/
+toc: true
+weight: 4
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/peaceful-life/004-safe-night/",
+  "headline": "Безопасная ночь",
+  "description": "Мирная ночь на природе должна быть наполнена дружбой, разговорами и чувством безопасности. Размышление о доверии, сообществе и праве отдыхать без страха.",
+  "inLanguage": "ru",
+  "datePublished": "2025-07-01T11:00:00+01:00",
+  "dateModified": "2025-07-01T11:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-004-safe-night.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/peaceful-life/004-safe-night/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирная Жизнь"
+  },
+  "keywords": [
+    "Безопасная Ночь",
+    "Круг Доверия",
+    "Туризм",
+    "Дружба",
+    "Сообщество",
+    "Мир",
+    "Лето"
+  ]
+}
+</script>
 
+![Безопасная ночь. Туристический круг](/images/peaceful-life-004-safe-night.webp)
 
 # 🪵🔥🌌 Безопасная ночь. Туристический круг
 

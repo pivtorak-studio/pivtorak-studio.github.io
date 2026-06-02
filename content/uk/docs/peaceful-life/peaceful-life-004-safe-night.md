@@ -1,4 +1,90 @@
+---
+id: peaceful-life-004-safe-night
+language: uk
+translation_of: peaceful-life-004-safe-night
+title: Безпечна ніч
+description: Мирна ніч на природі має бути наповнена дружбою, розмовами та відчуттям безпеки. Роздуми про довіру, спільноту та право відпочивати без страху.
+summary: Біля вогнища люди діляться історіями, сміхом і тишею. Ця стаття досліджує право почуватися в безпеці вночі та значення довіри в мирному житті.
+event_date: 2025-07-01T11:00:00
+publication_date: 2025-07-01T11:00:00
+lastmod: 2025-07-01T11:00:00
+slug: safe-night
+tags:
+  - Мирне Життя
+  - Безпечна Ніч
+  - Туризм
+  - Довіра
+  - Спільнота
+  - Дружба
+  - Мир
+  - Літо
+keywords:
+  - безпечна ніч
+  - коло довіри
+  - відпочинок на природі
+  - літній вечір
+  - дружба
+  - мирне життя
+categories:
+  - Мирне Життя
+series:
+  - Мирне Життя
+series_index: 4
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-004-safe-night.webp
+alt: Люди сидять біля вогнища під спокійним літнім небом, проводячи вечір в атмосфері довіри та безпеки.
+related:
+  - /uk/docs/peaceful-life/
+  - /uk/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/uk/docs/peaceful-life/004-safe-night/
+toc: true
+weight: 4
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/uk/docs/peaceful-life/004-safe-night/",
+  "headline": "Безпечна ніч",
+  "description": "Мирна ніч на природі має бути наповнена дружбою, розмовами та відчуттям безпеки. Роздуми про довіру, спільноту та право відпочивати без страху.",
+  "inLanguage": "uk",
+  "datePublished": "2025-07-01T11:00:00+01:00",
+  "dateModified": "2025-07-01T11:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-004-safe-night.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/uk/docs/peaceful-life/004-safe-night/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирне Життя"
+  },
+  "keywords": [
+    "Безпечна Ніч",
+    "Коло Довіри",
+    "Туризм",
+    "Дружба",
+    "Спільнота",
+    "Мир",
+    "Літо"
+  ]
+}
+</script>
 
+![Безпечна ніч. Туристичне коло](/images/peaceful-life-004-safe-night.webp)
 
 # 🪵🔥🌌 Безпечна ніч. Туристичне коло
 

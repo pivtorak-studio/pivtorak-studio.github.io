@@ -43,6 +43,7 @@ draft: false
 canonical:
   - https://pivtorak.studio/en/docs/peaceful-life/003-the-right-to-work/
 toc: true
+weight: 3
 ---
 <script type="application/ld+json">
 {

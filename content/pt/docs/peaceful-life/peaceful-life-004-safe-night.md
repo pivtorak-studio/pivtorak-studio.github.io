@@ -1,4 +1,90 @@
+---
+id: peaceful-life-004-safe-night
+language: pt
+translation_of: peaceful-life-004-safe-night
+title: Noite Segura. Círculo de Confiança
+description: Uma noite tranquila ao ar livre deve ser vivida com amizade, conversa e segurança. Uma reflexão sobre confiança, comunidade e liberdade de descansar sem medo.
+summary: À volta de uma fogueira, as pessoas partilham histórias, risos e silêncio. Este artigo explora o direito de sentir segurança durante a noite e o valor da confiança na vida pacífica.
+event_date: 2025-07-01T11:00:00
+publication_date: 2025-07-01T11:00:00
+lastmod: 2025-07-01T11:00:00
+slug: safe-night
+tags:
+  - Vida Pacífica
+  - Noite Segura
+  - Campismo
+  - Confiança
+  - Comunidade
+  - Amizade
+  - Paz
+  - Verão
+keywords:
+  - noite segura
+  - círculo de confiança
+  - campismo pacífico
+  - noite de verão
+  - amizade
+  - vida pacífica
+categories:
+  - Vida Pacífica
+series:
+  - Vida Pacífica
+series_index: 4
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-004-safe-night.webp
+alt: Pessoas sentadas à volta de uma fogueira sob um céu tranquilo de verão, partilhando uma noite de confiança e segurança.
+related:
+  - /pt/docs/peaceful-life/
+  - /pt/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/pt/docs/peaceful-life/004-safe-night/
+toc: true
+weight: 4
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/pt/docs/peaceful-life/004-safe-night/",
+  "headline": "Noite Segura. Círculo de Confiança",
+  "description": "Uma noite tranquila ao ar livre deve ser vivida com amizade, conversa e segurança. Uma reflexão sobre confiança, comunidade e liberdade de descansar sem medo.",
+  "inLanguage": "pt-PT",
+  "datePublished": "2025-07-01T11:00:00+01:00",
+  "dateModified": "2025-07-01T11:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-004-safe-night.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/pt/docs/peaceful-life/004-safe-night/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Vida Pacífica"
+  },
+  "keywords": [
+    "Noite Segura",
+    "Círculo de Confiança",
+    "Campismo",
+    "Amizade",
+    "Comunidade",
+    "Paz",
+    "Verão"
+  ]
+}
+</script>
 
+![Noite Segura. Círculo de Confiança](/images/peaceful-life-004-safe-night.webp)
 
 # 🪵🔥🌌 Noite Segura. Círculo de Confiança
 

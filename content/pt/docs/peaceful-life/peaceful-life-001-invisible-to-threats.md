@@ -42,6 +42,7 @@ authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/001-invisible-to-threats/
 toc: true
+weight: 1
 ---
 <script type="application/ld+json">
 {

@@ -1,6 +1,83 @@
+---
+id: peaceful-life-006-self-care-time
+language: pt
+translation_of: peaceful-life-006-self-care-time
+title: 006 Cuidar de Si
+description: Descansar não é uma recompensa. Uma reflexão sobre equilíbrio, momentos de silêncio e a importância de cuidar de si numa vida pacífica.
+summary: Por vezes, a ação mais importante é fazer uma pausa. Este artigo explora o autocuidado como forma de respeito, renovação e sustentabilidade pessoal.
+event_date: 2025-07-01T13:00:00
+publication_date: 2025-07-01T13:00:00
+lastmod: 2025-07-01T13:00:00
+slug: self-care-time
+tags:
+  - Vida Pacífica
+  - Autocuidado
+  - Bem-Estar
+  - Equilíbrio
+  - Descanso
+  - Paz
+  - Reflexão
+  - Atenção Plena
+keywords:
+  - cuidar de si
+  - vida pacífica
+  - bem-estar
+  - equilíbrio
+  - momentos tranquilos
+  - renovação pessoal
+categories:
+  - Vida Pacífica
+series:
+  - Vida Pacífica
+series_index: 6
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-006-self-care-time.webp
+alt: Uma mulher sentada tranquilamente numa varanda com vista para um campo florido, desfrutando de um momento de silêncio e contemplação.
+related:
+  - /pt/docs/peaceful-life/
+  - /pt/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/pt/docs/peaceful-life/006-self-care-time/
+toc: true
+weight: 6
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/pt/docs/peaceful-life/006-self-care-time/",
+  "headline": "Cuidar de Si",
+  "description": "Descansar não é uma recompensa. Uma reflexão sobre equilíbrio, momentos de silêncio e a importância de cuidar de si numa vida pacífica.",
+  "inLanguage": "pt-PT",
+  "datePublished": "2025-07-01T13:00:00+01:00",
+  "dateModified": "2025-07-01T13:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-006-self-care-time.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/pt/docs/peaceful-life/006-self-care-time/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Vida Pacífica"
+  }
+}
+</script>
 
+![Cuidar de Si](/images/peaceful-life-006-self-care-time.webp)
 
-# ☕🌿🏡 Cuidar de Si Mesma
+# ☕🌿🏡 Cuidar de Si
 
 *Quando o silêncio fala mais alto do que os planos*
 
@@ -27,5 +104,5 @@ Uma mulher senta-se numa cadeira de vime na varanda de uma casa de campo. Ao lon
 
 #VidaPacífica #CuidarDeSi #ViverSemPressa #SilêncioNaVaranda #EspaçoSemCorreria #ViverComGentileza #VidaNosDetalhes #TempoParaSi #QuandoNinguémChama #PazInterior #CuraSemRuído #SábadoNaChávena #SilêncioDeJulho #NãoSeEsgote #RespostaSemPalavras #HumanidadeEmAção #TempoQueCura #ViverSemExplicar #SolENaVaranda #CampoAoLonge #CalmaDaManhã #SemPressa #DescansoNaVida #JulhoParaSi #CalmanteNatural #DireitoAoSilêncio #EstarSozinha #DiaSimples #FelicidadeTranquila
 
-_Vida Pacífica. Cuidar de Si Mesma. AP | Pivtorak.Studio. 01.07.2025_    
+_Vida Pacífica. Cuidar de Si. AP | Pivtorak.Studio. 01.07.2025_    
 © Anna Pivtorak (Kostyuk) 

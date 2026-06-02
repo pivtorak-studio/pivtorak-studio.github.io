@@ -1,5 +1,81 @@
+---
+id: peaceful-life-006-self-care-time
+language: uk
+translation_of: peaceful-life-006-self-care-time
+title: 006 Турбота про себе
+description: Відпочинок — це не нагорода. Роздуми про баланс, тихі миті та важливість турботи про себе в мирному житті.
+summary: Іноді найважливіша дія — це зупинитися. Ця стаття досліджує турботу про себе як форму поваги, відновлення та сталого способу життя.
+event_date: 2025-07-01T13:00:00
+publication_date: 2025-07-01T13:00:00
+lastmod: 2025-07-01T13:00:00
+slug: self-care-time
+tags:
+  - Мирне Життя
+  - Турбота Про Себе
+  - Добробут
+  - Баланс
+  - Відпочинок
+  - Мир
+  - Роздуми
+  - Усвідомленість
+keywords:
+  - турбота про себе
+  - мирне життя
+  - добробут
+  - баланс
+  - тихі миті
+  - відновлення
+categories:
+  - Мирне Життя
+series:
+  - Мирне Життя
+series_index: 6
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-006-self-care-time.webp
+alt: Жінка спокійно сидить на веранді з видом на квітуче поле, насолоджуючись тишею та роздумами про майбутнє.
+related:
+  - /uk/docs/peaceful-life/
+  - /uk/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/uk/docs/peaceful-life/006-self-care-time/
+toc: true
+weight: 6
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/uk/docs/peaceful-life/006-self-care-time/",
+  "headline": "Турбота про себе",
+  "description": "Відпочинок — це не нагорода. Роздуми про баланс, тихі миті та важливість турботи про себе в мирному житті.",
+  "inLanguage": "uk",
+  "datePublished": "2025-07-01T13:00:00+01:00",
+  "dateModified": "2025-07-01T13:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-006-self-care-time.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/uk/docs/peaceful-life/006-self-care-time/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирне Життя"
+  }
+}
+</script>
 
-
+![Турбота про себе](/images/peaceful-life-006-self-care-time.webp)
 
 # ☕🌿🏡 Турбота про себе
 

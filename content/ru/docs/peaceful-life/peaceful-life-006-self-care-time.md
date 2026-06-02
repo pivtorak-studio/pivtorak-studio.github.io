@@ -1,4 +1,81 @@
+---
+id: peaceful-life-006-self-care-time
+language: ru
+translation_of: peaceful-life-006-self-care-time
+title: 006 Забота о себе
+description: Отдых — это не награда. Размышление о балансе, тихих моментах и важности заботы о себе в мирной жизни.
+summary: Иногда самое важное действие — остановиться. Эта статья исследует заботу о себе как форму уважения, восстановления и устойчивой жизни.
+event_date: 2025-07-01T13:00:00
+publication_date: 2025-07-01T13:00:00
+lastmod: 2025-07-01T13:00:00
+slug: self-care-time
+tags:
+  - Мирная Жизнь
+  - Забота О Себе
+  - Благополучие
+  - Баланс
+  - Отдых
+  - Мир
+  - Размышление
+  - Осознанность
+keywords:
+  - забота о себе
+  - мирная жизнь
+  - благополучие
+  - баланс
+  - тихие моменты
+  - восстановление
+categories:
+  - Мирная Жизнь
+series:
+  - Мирная Жизнь
+series_index: 6
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-006-self-care-time.webp
+alt: Женщина спокойно сидит на веранде с видом на цветущее поле, наслаждаясь тишиной и размышляя о будущем.
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/ru/docs/peaceful-life/006-self-care-time/
+toc: true
+weight: 6
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/peaceful-life/006-self-care-time/",
+  "headline": "Забота о себе",
+  "description": "Отдых — это не награда. Размышление о балансе, тихих моментах и важности заботы о себе в мирной жизни.",
+  "inLanguage": "ru",
+  "datePublished": "2025-07-01T13:00:00+01:00",
+  "dateModified": "2025-07-01T13:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-006-self-care-time.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/peaceful-life/006-self-care-time/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирная Жизнь"
+  }
+}
+</script>
 
+![Забота о себе](/images/peaceful-life-006-self-care-time.webp)
 
 # ☕🌿🏡 Забота о себе
 

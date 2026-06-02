@@ -1,88 +1,46 @@
 ---
-id: peaceful-life  
-language: en  
+id: peaceful-life
+language: en
 translation_of: peaceful-life
-
 title: Invisible to Threats
-
 description: Children and animals should remain outside the zone of danger. A reflection on peaceful life, safety, and the right to grow without fear.
-
 summary: Peace begins where childhood and wildlife are protected from harm. This article explores the idea that the most vulnerable should remain invisible to threats.
-
-event_date: 2025-06-01T11:00:00  
-publication_date: 2025-06-01T11:00:00  
+event_date: 2025-06-01T11:00:00
+publication_date: 2025-06-01T11:00:00
 lastmod: 2025-06-01T11:00:00
-
 slug: invisible-to-threats
-
 tags:
-
-- Peaceful Life
-    
-- Children
-    
-- Animals
-    
-- Safety
-    
-- Peace
-    
-- Childhood
-    
-- Nature
-    
-- Protection
-    
-
+  - Peaceful Life
+  - Children
+  - Animals
+  - Safety
+  - Peace
+  - Childhood
+  - Nature
+  - Protection
 keywords:
-
-- invisible to threats
-    
-- peaceful life
-    
-- children and animals
-    
-- right to safety
-    
-- childhood protection
-    
-- peaceful future
-    
-
+  - invisible to threats
+  - peaceful life
+  - children and animals
+  - right to safety
+  - childhood protection
+  - peaceful future
 categories:
-
-- Peaceful Life
-    
-
+  - Peaceful Life
 series:
-
-- Peaceful Life
-    
-
+  - Peaceful Life
 series_index: 1
-
 country: PT
-
-status: published  
+status: published
 featured: true
-
 image: /images/peaceful-life-001-invisible-to-threats.webp
-
 alt: Children and animals resting peacefully in nature, protected from danger and surrounded by calm summer light.
-
 related:
-
-- /en/docs/peaceful-life/
-    
-- /en/docs/timeline/
-    
-
+  - /en/docs/peaceful-life/
+  - /en/docs/timeline/
 authors: Anna Pivtorak
-
 draft: false
-
-canonical: [https://pivtorak.studio/en/docs/peaceful-life/001-invisible-to-threats/](https://pivtorak.studio/en/peaceful-life/001-invisible-to-threats/)
-
+canonical: https://pivtorak.studio/en/docs/peaceful-life/001-invisible-to-threats/
 toc: true
 weight: 1
 ---

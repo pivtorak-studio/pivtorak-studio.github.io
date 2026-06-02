@@ -2,7 +2,7 @@
 id: peaceful-life
 language: en
 translation_of: peaceful-life
-title: Invisible to Threats
+title: 001 Invisible to Threats
 description: Children and animals should remain outside the zone of danger. A reflection on peaceful life, safety, and the right to grow without fear.
 summary: Peace begins where childhood and wildlife are protected from harm. This article explores the idea that the most vulnerable should remain invisible to threats.
 event_date: 2025-06-01T11:00:00
@@ -44,8 +44,46 @@ canonical: https://pivtorak.studio/en/docs/peaceful-life/001-invisible-to-threat
 toc: true
 weight: 1
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/en/docs/peaceful-life/001-invisible-to-threats/",
+  "headline": "Invisible to Threats",
+  "description": "Children and animals should remain outside the zone of danger. A reflection on peaceful life, safety, and the right to grow without fear.",
+  "inLanguage": "en",
+  "datePublished": "2025-06-01T11:00:00+01:00",
+  "dateModified": "2025-06-01T11:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-001-invisible-to-threats.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/en/docs/peaceful-life/001-invisible-to-threats/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Peaceful Life"
+  },
+  "keywords": [
+    "Peaceful Life",
+    "Children",
+    "Animals",
+    "Safety",
+    "Peace",
+    "Childhood",
+    "Nature"
+  ]
+}
+</script>
 
-
+![Invisible to Threats](/images/peaceful-life-001-invisible-to-threats.webp)
 
 # 🧒🏻🕊️🛡️Invisible to Threats
 

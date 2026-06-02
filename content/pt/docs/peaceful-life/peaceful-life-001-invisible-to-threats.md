@@ -1,4 +1,88 @@
+---
+id: peaceful-life
+language: pt
+translation_of: peaceful-life
+title: 001 Invisíveis às Ameaças
+description: As crianças e os animais devem permanecer fora da zona de perigo. Uma reflexão sobre vida pacífica, segurança e o direito de crescer sem medo.
+summary: A paz começa quando a infância e a vida selvagem são protegidas. Este artigo explora a ideia de que os mais vulneráveis devem permanecer invisíveis às ameaças.
+event_date: 2025-06-01T11:00:00
+publication_date: 2025-06-01T11:00:00
+lastmod: 2025-06-01T11:00:00
+slug: invisible-to-threats
+tags:
+  - Vida Pacífica
+  - Crianças
+  - Animais
+  - Segurança
+  - Paz
+  - Infância
+  - Natureza
+  - Proteção
+keywords:
+  - invisíveis às ameaças
+  - vida pacífica
+  - crianças e animais
+  - direito à segurança
+  - proteção da infância
+  - futuro pacífico
+categories:
+  - Vida Pacífica
+series:
+  - Vida Pacífica
+series_index: 1
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-001-invisible-to-threats.webp
+alt: Crianças e animais descansam tranquilamente na natureza, protegidos do perigo e rodeados pela luz suave do verão.
+related:
+  - /pt/docs/peaceful-life/
+  - /pt/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical: https://pivtorak.studio/pt/docs/peaceful-life/001-invisible-to-threats/
+toc: true
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/pt/docs/peaceful-life/001-invisible-to-threats/",
+  "headline": "Invisíveis às Ameaças",
+  "description": "As crianças e os animais devem permanecer fora da zona de perigo. Uma reflexão sobre vida pacífica, segurança e o direito de crescer sem medo.",
+  "inLanguage": "pt-PT",
+  "datePublished": "2025-06-01T11:00:00+01:00",
+  "dateModified": "2025-06-01T11:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-001-invisible-to-threats.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/pt/docs/peaceful-life/001-invisible-to-threats/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Vida Pacífica"
+  },
+  "keywords": [
+    "Vida Pacífica",
+    "Crianças",
+    "Animais",
+    "Segurança",
+    "Paz",
+    "Infância",
+    "Natureza"
+  ]
+}
+</script>
 
+![Invisíveis às Ameaças](/images/peaceful-life-001-invisible-to-threats.webp)
 
 # 🧒🏻🕊️🛡️ Invisíveis às Ameaças
 

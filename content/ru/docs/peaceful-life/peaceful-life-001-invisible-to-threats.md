@@ -1,4 +1,88 @@
+---
+id: peaceful-life
+language: ru
+translation_of: peaceful-life
+title: 001 Невидимы для угроз
+description: Дети и животные должны оставаться вне зоны опасности. Размышление о мирной жизни, безопасности и праве расти без страха.
+summary: Мир начинается там, где детство и природа защищены. Эта статья исследует идею о том, что самые уязвимые должны оставаться невидимыми для угроз.
+event_date: 2025-06-01T11:00:00
+publication_date: 2025-06-01T11:00:00
+lastmod: 2025-06-01T11:00:00
+slug: invisible-to-threats
+tags:
+  - Мирная Жизнь
+  - Дети
+  - Животные
+  - Безопасность
+  - Мир
+  - Детство
+  - Природа
+  - Защита
+keywords:
+  - невидимы для угроз
+  - мирная жизнь
+  - дети и животные
+  - право на безопасность
+  - защита детства
+  - мирное будущее
+categories:
+  - Мирная Жизнь
+series:
+  - Мирная Жизнь
+series_index: 1
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-001-invisible-to-threats.webp
+alt: Дети и животные спокойно отдыхают на природе, защищённые от опасности и окружённые мягким летним светом.
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical: https://pivtorak.studio/ru/peaceful-life/001-invisible-to-threats/
+toc: true
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/peaceful-life/001-invisible-to-threats/",
+  "headline": "Невидимы для угроз",
+  "description": "Дети и животные должны оставаться вне зоны опасности. Размышление о мирной жизни, безопасности и праве расти без страха.",
+  "inLanguage": "ru",
+  "datePublished": "2025-06-01T11:00:00+01:00",
+  "dateModified": "2025-06-01T11:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-001-invisible-to-threats.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/peaceful-life/001-invisible-to-threats/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирная Жизнь"
+  },
+  "keywords": [
+    "Мирная Жизнь",
+    "Дети",
+    "Животные",
+    "Безопасность",
+    "Мир",
+    "Детство",
+    "Природа"
+  ]
+}
+</script>
 
+![Невидимы для угроз](/images/peaceful-life-001-invisible-to-threats.webp)
 
 # 🧒🏻🕊️🛡️ Невидимы для угроз
 

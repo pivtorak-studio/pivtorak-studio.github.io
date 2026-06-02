@@ -2,7 +2,7 @@
 id: peaceful-life-004-safe-night
 language: en
 translation_of: peaceful-life-004-safe-night
-title: Safe Night. Circle of Trust
+title: 004 Safe Night. Circle of Trust
 description: A peaceful night outdoors should be filled with friendship, conversation, and safety. A reflection on trust, community, and the freedom to rest without fear.
 summary: Around a campfire, people share stories, laughter, and silence. This article explores the right to feel safe at night and the importance of trust in peaceful life.
 event_date: 2025-07-01T11:00:00

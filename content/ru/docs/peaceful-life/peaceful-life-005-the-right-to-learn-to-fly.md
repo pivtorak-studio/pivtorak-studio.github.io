@@ -1,4 +1,90 @@
+---
+id: peaceful-life-005-the-right-to-learn-to-fly
+language: ru
+translation_of: peaceful-life-005-the-right-to-learn-to-fly
+title: 005 Право учиться летать
+description: Каждое живое существо заслуживает безопасного пространства для обучения, роста и ошибок. Размышление о первых попытках, доверии и свободе развития.
+summary: Молодые птицы учатся летать через практику, неуверенность и смелость. Эта статья исследует универсальное право учиться, безопасно ошибаться и открывать собственные крылья.
+event_date: 2025-07-01T12:00:00
+publication_date: 2025-07-01T12:00:00
+lastmod: 2025-07-01T12:00:00
+slug: the-right-to-learn-to-fly
+tags:
+  - Мирная Жизнь
+  - Обучение
+  - Рост
+  - Молодые Птицы
+  - Природа
+  - Свобода
+  - Смелость
+  - Развитие
+keywords:
+  - право учиться летать
+  - обучение
+  - молодые птицы
+  - развитие личности
+  - безопасные ошибки
+  - мирная жизнь
+categories:
+  - Мирная Жизнь
+series:
+  - Мирная Жизнь
+series_index: 5
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-005-the-right-to-learn-to-fly.webp
+alt: Молодая птица расправляет крылья на краю ветки, готовясь к одному из первых полётов в спокойном летнем пейзаже.
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/ru/docs/peaceful-life/005-the-right-to-learn-to-fly/
+toc: true
+weight: 5
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/peaceful-life/005-the-right-to-learn-to-fly/",
+  "headline": "Право учиться летать",
+  "description": "Каждое живое существо заслуживает безопасного пространства для обучения, роста и ошибок. Размышление о первых попытках, доверии и свободе развития.",
+  "inLanguage": "ru",
+  "datePublished": "2025-07-01T12:00:00+01:00",
+  "dateModified": "2025-07-01T12:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-005-the-right-to-learn-to-fly.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/peaceful-life/005-the-right-to-learn-to-fly/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирная Жизнь"
+  },
+  "keywords": [
+    "Обучение",
+    "Рост",
+    "Молодые Птицы",
+    "Свобода",
+    "Смелость",
+    "Развитие",
+    "Мирная Жизнь"
+  ]
+}
+</script>
 
+![Право учиться летать](/images/peaceful-life-005-the-right-to-learn-to-fly.webp)
 
 # 🕊️🌿🪽 Право учиться летать
 

@@ -2,7 +2,7 @@
 id: peaceful-life-004-safe-night
 language: pt
 translation_of: peaceful-life-004-safe-night
-title: Noite Segura. Círculo de Confiança
+title: 004 Noite Segura. Círculo de Confiança
 description: Uma noite tranquila ao ar livre deve ser vivida com amizade, conversa e segurança. Uma reflexão sobre confiança, comunidade e liberdade de descansar sem medo.
 summary: À volta de uma fogueira, as pessoas partilham histórias, risos e silêncio. Este artigo explora o direito de sentir segurança durante a noite e o valor da confiança na vida pacífica.
 event_date: 2025-07-01T11:00:00

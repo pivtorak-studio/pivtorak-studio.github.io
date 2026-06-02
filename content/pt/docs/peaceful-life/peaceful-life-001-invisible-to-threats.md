@@ -108,7 +108,7 @@ Silencioso como um coração que vê tudo.
 Porque todos têm o direito de viver.
 E viver — com alegria.
 
-**Alt-text:**
+**Alt-text:**   
 Crianças sentadas na relva, sob um raio de luz quente. Com elas — um cão, um pintainho e um gatinho. Estão rodeados por uma esfera transparente que separa o espaço da zona cinzenta e ansiosa à volta. Dentro — luz suave, confiança e silêncio.
 
 #CriançasPrimeiro #ProtegerOsInocentes #InvisíveisÀsAmeaças #EspaçoSilencioso #EsferaDeLuz #InfânciaSegura #ProteçãoRural #CriançasEAnimais #CorDaCalma #ProteçãoTransparente #DireitoÀVida #ForaDaZonaDaDor #SilêncioInterior #CampoDePaz #ArteComoRefúgio #LuzESilêncio #NovaRealidade #CampoVivo #TodosMerecemViver #JunhoDeLuz #InfânciaProtegida #CalorEConfiança #MundoGentil #RefúgioDaPaz #SilêncioQueCura #ForçaDoInvisível #ViverComAlegria #CampoSemMedo #OndeNãoChegaODano #ArquiteturaDaPaz

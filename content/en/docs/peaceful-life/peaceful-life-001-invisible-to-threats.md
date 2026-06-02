@@ -108,7 +108,7 @@ Silent, like a heart that sees it all.
 Because every being has the right to live.
 And to live — joyfully.
 
-**Alt-text:**
+**Alt-text:**   
 Children sit on grass in a warm beam of light, surrounded by a dog, a chick, and a kitten. A transparent energy sphere encircles them, shielding their space from the grey, tense outer zone. Inside — gentle light, trust, and peace.
 
 #ChildrenFirst #ProtectTheInnocent #InvisibleToThreats #QuietSpace #LightSphere #SafeChildhood #RuralSafety #ChildrenAndAnimals #ColorOfCalm #TransparentProtection #RightToLive #BeyondThePainZone #CalmWithin #FieldOfPeace #ArtAsSanctuary #LightAndSilence #NewReality #LivingField #AllDeserveToLive #JuneOfLight #GuardedChildhood #WarmthAndTrust #GentleWorld #SanctuaryOfPeace #SoothingSilence #StrengthOfTheUnseen #LiveJoyfully #FieldWithoutFear #WhereNoHarmReaches #PeaceArchitecture

@@ -42,6 +42,7 @@ authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/002-nature-has-the-right-to-live/
 toc: true
+weight: 2
 ---
 <script type="application/ld+json">
 {

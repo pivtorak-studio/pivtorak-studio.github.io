@@ -2,7 +2,7 @@
 id: peaceful-life-002-nature-has-the-right-to-live
 language: pt
 translation_of: peaceful-life-002-nature-has-the-right-to-live
-title: A Natureza Tem Direito à Vida
+title: 002 A Natureza Tem Direito à Vida
 description: As florestas, os animais e os ecossistemas não são alvos. Uma reflexão sobre o direito da natureza de existir, crescer e prosperar em paz.
 summary: A natureza não é um campo de batalha. Este artigo explora a ideia de que as florestas e a vida selvagem merecem proteção, continuidade e liberdade para florescer.
 event_date: 2025-06-01T12:00:00

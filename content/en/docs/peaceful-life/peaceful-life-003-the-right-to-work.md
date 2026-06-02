@@ -1,5 +1,90 @@
+---
+id: peaceful-life-003-the-right-to-work
+language: en
+translation_of: peaceful-life-003-the-right-to-work
+title: 003 The Right to Work
+description: Earning a living is not a luxury. A reflection on the dignity of work, peaceful economic life, and the right to contribute to society.
+summary: Work is more than income. It is participation, creativity, responsibility, and independence. This article explores the right to work as a foundation of peaceful life.
+event_date: 2025-06-01T13:00:00
+publication_date: 2025-06-01T13:00:00
+lastmod: 2025-06-01T13:00:00
+slug: the-right-to-work
+tags:
+  - Peaceful Life
+  - Work
+  - Employment
+  - Human Dignity
+  - Economy
+  - Peace
+  - Responsibility
+  - Community
+keywords:
+  - the right to work
+  - peaceful life
+  - human dignity
+  - meaningful work
+  - economic stability
+  - peaceful society
+categories:
+  - Peaceful Life
+series:
+  - Peaceful Life
+series_index: 3
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-003-the-right-to-work.webp
+alt: Young people working together in a peaceful environment, contributing to their community through meaningful work and cooperation.
+related:
+  - /en/docs/peaceful-life/
+  - /en/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/en/docs/peaceful-life/003-the-right-to-work/
+toc: true
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/en/docs/peaceful-life/003-the-right-to-work/",
+  "headline": "The Right to Work",
+  "description": "Earning a living is not a luxury. A reflection on the dignity of work, peaceful economic life, and the right to contribute to society.",
+  "inLanguage": "en",
+  "datePublished": "2025-06-01T13:00:00+01:00",
+  "dateModified": "2025-06-01T13:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-003-the-right-to-work.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/en/docs/peaceful-life/003-the-right-to-work/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Peaceful Life"
+  },
+  "keywords": [
+    "Work",
+    "Employment",
+    "Human Dignity",
+    "Economy",
+    "Peace",
+    "Responsibility",
+    "Community"
+  ]
+}
+</script>
 
 
+![The Right to Work](/images/peaceful-life-003-the-right-to-work.webp)
 # 🧑🏽‍🌾🌾🔧 The Right to Work
 
 _Earning a living is not a luxury_

@@ -1,4 +1,91 @@
+---
+id: peaceful-life-003-the-right-to-work
+language: ru
+translation_of: peaceful-life-003-the-right-to-work
+title: 003 Право на труд
+description: Возможность зарабатывать на жизнь — не роскошь. Размышление о достоинстве труда, мирной экономике и праве приносить пользу обществу.
+summary: Труд — это больше, чем доход. Это участие, творчество, ответственность и независимость. Эта статья исследует право на труд как основу мирной жизни.
+event_date: 2025-06-01T13:00:00
+publication_date: 2025-06-01T13:00:00
+lastmod: 2025-06-01T13:00:00
+slug: the-right-to-work
+tags:
+  - Мирная Жизнь
+  - Труд
+  - Работа
+  - Человеческое Достоинство
+  - Экономика
+  - Мир
+  - Ответственность
+  - Сообщество
+keywords:
+  - право на труд
+  - мирная жизнь
+  - достоинство труда
+  - полезная работа
+  - экономическая стабильность
+  - мирное общество
+categories:
+  - Мирная Жизнь
+series:
+  - Мирная Жизнь
+series_index: 3
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-003-the-right-to-work.webp
+alt: Молодые люди работают вместе в мирной обстановке, создавая ценность для общества через сотрудничество и труд.
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/ru/docs/peaceful-life/003-the-right-to-work/
+toc: true
+weight: 3
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/peaceful-life/003-the-right-to-work/",
+  "headline": "Право на труд",
+  "description": "Возможность зарабатывать на жизнь — не роскошь. Размышление о достоинстве труда, мирной экономике и праве приносить пользу обществу.",
+  "inLanguage": "ru",
+  "datePublished": "2025-06-01T13:00:00+01:00",
+  "dateModified": "2025-06-01T13:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-003-the-right-to-work.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/peaceful-life/003-the-right-to-work/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирная Жизнь"
+  },
+  "keywords": [
+    "Труд",
+    "Работа",
+    "Человеческое Достоинство",
+    "Экономика",
+    "Мир",
+    "Ответственность",
+    "Сообщество"
+  ]
+}
+</script>
 
+
+![Право на труд](/images/peaceful-life-003-the-right-to-work.webp)
 
 # 🧑🏽‍🌾🌾🔧 Право на труд
 

@@ -85,7 +85,7 @@ weight: 28
 }
 </script>
 
-![O Direito de Não Ouvir um Hino de Agressão](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
+![O Direito de Não Ouvir um Hino de Agressão](/images/peaceful-life-028-the-right-no-to-listen-to-an-anthem-of-aggression.webp)
 
 # 🎧🧍‍♀️🤍 O Direito de Não Ouvir um Hino de Agressão
 

@@ -85,7 +85,7 @@ weight: 28
 }
 </script>
 
-![Право Не Слушать Гимн Агрессии](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
+![Право Не Слушать Гимн Агрессии](/images/peaceful-life-028-the-right-no-to-listen-to-an-anthem-of-aggression.webp)
 
 # 🎧🧍‍♀️🤍 Право Не Слушать Гимн Агрессии
 

@@ -1,7 +1,7 @@
 ---
-id: peaceful-life
+id: peaceful-life-001-invisible-to-threats
 language: uk
-translation_of: peaceful-life
+translation_of: peaceful-life-001-invisible-to-threats
 title: 001 Невидимі для загроз
 description: Діти й тварини мають залишатися поза зоною небезпеки. Роздуми про мирне життя, безпеку та право зростати без страху.
 summary: Мир починається там, де захищені дитинство й природа. Ця стаття досліджує ідею того, що найвразливіші мають залишатися невидимими для загроз.

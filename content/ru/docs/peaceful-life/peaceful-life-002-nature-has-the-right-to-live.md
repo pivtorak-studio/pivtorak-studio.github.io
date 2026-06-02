@@ -1,4 +1,88 @@
+---
+id: peaceful-life-002-nature-has-the-right-to-live
+language: ru
+translation_of: peaceful-life-002-nature-has-the-right-to-live
+title: Природа имеет право жить
+description: Леса, животные и экосистемы не являются целями. Размышление о праве природы существовать, развиваться и процветать в мире.
+summary: Природа — не поле боя. Эта статья исследует идею того, что леса и дикая природа заслуживают защиты, сохранения и возможности жить без разрушения.
+event_date: 2025-06-01T12:00:00
+publication_date: 2025-06-01T12:00:00
+lastmod: 2025-06-01T12:00:00
+slug: nature-has-the-right-to-live
+tags:
+  - Мирная Жизнь
+  - Природа
+  - Леса
+  - Дикая Природа
+  - Мир
+  - Экология
+  - Защита
+  - Биоразнообразие
+keywords:
+  - природа имеет право жить
+  - мирная жизнь
+  - защита лесов
+  - охрана природы
+  - экологический мир
+  - биоразнообразие
+categories:
+  - Мирная Жизнь
+series:
+  - Мирная Жизнь
+series_index: 2
+country: PT
+status: published
+featured: true
+image: /images/peaceful-life-002-nature-has-the-right-to-live.webp
+alt: Спокойный лесной пейзаж с животными, свободно живущими среди деревьев, защищёнными от разрушения и окружёнными мягким светом начала лета.
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
+authors: Anna Pivtorak
+draft: false
+canonical: https://pivtorak.studio/ru/docs/peaceful-life/002-nature-has-the-right-to-live/
+toc: true
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/peaceful-life/002-nature-has-the-right-to-live/",
+  "headline": "Природа имеет право жить",
+  "description": "Леса, животные и экосистемы не являются целями. Размышление о праве природы существовать, развиваться и процветать в мире.",
+  "inLanguage": "ru",
+  "datePublished": "2025-06-01T12:00:00+01:00",
+  "dateModified": "2025-06-01T12:00:00+01:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/peaceful-life-002-nature-has-the-right-to-live.webp",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/peaceful-life/002-nature-has-the-right-to-live/"
+  },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Мирная Жизнь"
+  },
+  "keywords": [
+    "Природа",
+    "Леса",
+    "Дикая Природа",
+    "Экология",
+    "Мир",
+    "Биоразнообразие",
+    "Защита"
+  ]
+}
+</script>
 
+![Природа имеет право жить](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
 # 🌳🦌🌿 Природа имеет право жить
 

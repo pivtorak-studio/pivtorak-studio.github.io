@@ -1,7 +1,7 @@
 ---
-id: peaceful-life
+id: peaceful-life-001-invisible-to-threats
 language: ru
-translation_of: peaceful-life
+translation_of: peaceful-life-001-invisible-to-threats
 title: 001 Невидимы для угроз
 description: Дети и животные должны оставаться вне зоны опасности. Размышление о мирной жизни, безопасности и праве расти без страха.
 summary: Мир начинается там, где детство и природа защищены. Эта статья исследует идею о том, что самые уязвимые должны оставаться невидимыми для угроз.

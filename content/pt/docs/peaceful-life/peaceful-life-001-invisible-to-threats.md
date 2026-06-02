@@ -1,7 +1,7 @@
 ---
-id: peaceful-life
+id: peaceful-life-001-invisible-to-threats
 language: pt
-translation_of: peaceful-life
+translation_of: peaceful-life-001-invisible-to-threats
 title: 001 Invisíveis às Ameaças
 description: As crianças e os animais devem permanecer fora da zona de perigo. Uma reflexão sobre vida pacífica, segurança e o direito de crescer sem medo.
 summary: A paz começa quando a infância e a vida selvagem são protegidas. Este artigo explora a ideia de que os mais vulneráveis devem permanecer invisíveis às ameaças.

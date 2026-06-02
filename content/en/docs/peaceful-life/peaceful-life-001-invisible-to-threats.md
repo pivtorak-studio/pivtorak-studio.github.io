@@ -1,7 +1,7 @@
 ---
-id: peaceful-life
+id: peaceful-life-001-invisible-to-threats
 language: en
-translation_of: peaceful-life
+translation_of: peaceful-life-001-invisible-to-threats
 title: 001 Invisible to Threats
 description: Children and animals should remain outside the zone of danger. A reflection on peaceful life, safety, and the right to grow without fear.
 summary: Peace begins where childhood and wildlife are protected from harm. This article explores the idea that the most vulnerable should remain invisible to threats.

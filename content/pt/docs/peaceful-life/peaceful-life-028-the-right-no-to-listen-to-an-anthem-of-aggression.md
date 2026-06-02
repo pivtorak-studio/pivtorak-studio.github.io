@@ -138,7 +138,7 @@ Nem sempre podemos escolher os sons que existem à nossa volta.
 Mas podemos escolher quais deles deixamos entrar no nosso coração.
 Por vezes, essa escolha torna-se a primeira vitória silenciosa da paz sobre a guerra.
 
-**Alt-text:**   
+**Alt-text:**     
 Uma jovem atleta encontra-se no pódio de medalhas. Ela estava com auscultadores Bluetooth. Os olhos estão fechados e protegidos pelas mãos. À sua volta decorre uma cerimónia oficial, mas uma suave cúpula luminosa de silêncio envolve a sua figura. Fora dessa cúpula permanecem as bandeiras, os altifalantes e o ruído da cerimónia. Dentro dela vivem a paz, a dignidade e a liberdade interior.
 
 _Vida Pacífica. O Direito de Não Ouvir um Hino de Agressão. AP | Pivtorak.Studio. 02.06.2026_

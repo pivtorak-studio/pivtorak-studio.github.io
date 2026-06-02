@@ -137,7 +137,7 @@ We cannot always choose the sounds that exist around us.
 But we can choose which of them we allow into our hearts.
 Sometimes that choice becomes the first quiet victory of peace over war.
 
-**Alt-text:**   
+**Alt-text:**     
 A young athlete stands on a medal podium. Bluetooth headphones in her ears. Her eyes are closed and hidden behind her hands. An official award ceremony continues around her, yet a soft luminous dome of silence surrounds her figure. Beyond the dome remain flags, loudspeakers, and ceremonial noise. Within it are peace, dignity, and inner freedom.
 
 _Peaceful Life. The Right Not to Listen to an Anthem of Aggression. AP | Pivtorak.Studio. 02.06.2026_

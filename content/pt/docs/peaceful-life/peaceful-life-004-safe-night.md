@@ -8,7 +8,7 @@ summary: À volta de uma fogueira, as pessoas partilham histórias, risos e sil�
 event_date: 2025-07-01T11:00:00
 publication_date: 2025-07-01T11:00:00
 lastmod: 2025-07-01T11:00:00
-slug: safe-night
+slug: 004-safe-night
 tags:
   - Vida Pacífica
   - Noite Segura

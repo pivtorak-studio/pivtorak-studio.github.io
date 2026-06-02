@@ -8,7 +8,7 @@ summary: A natureza não é um campo de batalha. Este artigo explora a ideia de 
 event_date: 2025-06-01T12:00:00
 publication_date: 2025-06-01T12:00:00
 lastmod: 2025-06-01T12:00:00
-slug: nature-has-the-right-to-live
+slug: 002-nature-has-the-right-to-live
 tags:
   - Vida Pacífica
   - Natureza

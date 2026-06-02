@@ -8,7 +8,7 @@ summary: Вдохновлённое поступком украинских ги
 event_date: 2026-06-02T21:00:00+01:00
 publication_date: 2026-06-02T21:00:00+01:00
 lastmod: 2026-06-02T21:00:00+01:00
-slug: pravo-ne-slushat-gimn-agressii
+slug: 028-the-right-not-to-listen-to-an-anthem-of-aggression
 tags:
   - мирная-жизнь
   - мир
@@ -45,15 +45,14 @@ related:
   - /ru/docs/timeline/
 authors: Anna Pivtorak
 draft: false
-canonical:
-  - https://pivtorak.studio/ru/docs/peaceful-life/pravo-ne-slushat-gimn-agressii/
+canonical: https://pivtorak.studio/uk/docs/peaceful-life/the-right-not-to-listen-to-an-anthem-of-aggression/
 weight: 28
 ---
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "@id": "https://pivtorak.studio/ru/docs/peaceful-life/pravo-ne-slushat-gimn-agressii/",
+  "@id": "[https://pivtorak.studio/ru/docs/peaceful-life/pravo-ne-slushat-gimn-agressii/](https://pivtorak.studio/en/docs/peaceful-life/the-right-not-to-listen-to-an-anthem-of-aggression/)",
   "headline": "Право Не Слушать Гимн Агрессии",
   "description": "Размышление о внутренних границах, памяти, достоинстве и праве сохранять внутренний мир во времена войны.",
   "inLanguage": "ru",

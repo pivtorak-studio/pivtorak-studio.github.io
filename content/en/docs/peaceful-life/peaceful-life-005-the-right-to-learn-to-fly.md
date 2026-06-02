@@ -8,7 +8,7 @@ summary: Young birds learn to fly through practice, uncertainty, and courage. Th
 event_date: 2025-07-01T12:00:00
 publication_date: 2025-07-01T12:00:00
 lastmod: 2025-07-01T12:00:00
-slug: the-right-to-learn-to-fly
+slug: 005-the-right-to-learn-to-fly
 tags:
   - Peaceful Life
   - Learning

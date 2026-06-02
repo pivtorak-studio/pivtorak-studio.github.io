@@ -8,7 +8,7 @@ summary: Мир починається там, де захищені дитин�
 event_date: 2025-06-01T11:00:00
 publication_date: 2025-06-01T11:00:00
 lastmod: 2025-06-01T11:00:00
-slug: invisible-to-threats
+slug: 001-invisible-to-threats
 tags:
   - Мирне Життя
   - Діти

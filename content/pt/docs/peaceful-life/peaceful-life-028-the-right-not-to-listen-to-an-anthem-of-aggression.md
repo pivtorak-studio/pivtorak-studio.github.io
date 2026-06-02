@@ -8,7 +8,7 @@ summary: Inspirado pelo gesto das ginastas ucranianas durante o Campeonato da Eu
 event_date: 2026-06-02T21:00:00+01:00
 publication_date: 2026-06-02T21:00:00+01:00
 lastmod: 2026-06-02T21:00:00+01:00
-slug: o-direito-de-nao-ouvir-um-hino-de-agressao
+slug: 028-the-right-not-to-listen-to-an-anthem-of-aggression
 tags:
   - vida-pacifica
   - paz
@@ -53,7 +53,7 @@ weight: 28
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "@id": "https://pivtorak.studio/pt/docs/peaceful-life/o-direito-de-nao-ouvir-um-hino-de-agressao/",
+  "@id": "https://pivtorak.studio/pt/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/",
   "headline": "O Direito de Não Ouvir um Hino de Agressão",
   "description": "Uma reflexão sobre limites interiores, memória, dignidade e o direito de proteger a paz interior em tempos de guerra.",
   "inLanguage": "pt-PT",
@@ -81,11 +81,11 @@ weight: 28
     "guerra",
     "memória"
   ],
-  "url": "https://pivtorak.studio/pt/docs/peaceful-life/o-direito-de-nao-ouvir-um-hino-de-agressao/"
+  "url": "https://pivtorak.studio/pt/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/"
 }
 </script>
 
-![O Direito de Não Ouvir um Hino de Agressão](/images/peaceful-life-028-the-right-no-to-listen-to-an-anthem-of-aggression.webp)
+![O Direito de Não Ouvir um Hino de Agressão](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
 
 # 🎧🧍‍♀️🤍 O Direito de Não Ouvir um Hino de Agressão
 

@@ -8,7 +8,7 @@ summary: Труд — это больше, чем доход. Это участ�
 event_date: 2025-06-01T13:00:00
 publication_date: 2025-06-01T13:00:00
 lastmod: 2025-06-01T13:00:00
-slug: the-right-to-work
+slug: 003-the-right-to-work
 tags:
   - Мирная Жизнь
   - Труд

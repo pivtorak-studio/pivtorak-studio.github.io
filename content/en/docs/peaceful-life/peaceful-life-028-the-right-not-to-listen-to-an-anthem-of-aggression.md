@@ -8,7 +8,7 @@ summary: Inspired by the actions of Ukrainian rhythmic gymnasts during the 2026 
 event_date: 2026-06-02T21:00:00+01:00
 publication_date: 2026-06-02T21:00:00+01:00
 lastmod: 2026-06-02T21:00:00+01:00
-slug: the-right-not-to-listen-to-an-anthem-of-aggression
+slug: 028-the-right-not-to-listen-to-an-anthem-of-aggression
 tags:
   - peacefullife
   - peace
@@ -85,7 +85,7 @@ weight: 28
 }
 </script>
 
-![The Right Not to Listen to an Anthem of Aggression](/images/peaceful-life-028-the-right-no-to-listen-to-an-anthem-of-aggression.webp)
+![The Right Not to Listen to an Anthem of Aggression](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
 # 🎧🧍‍♀️🤍 The Right Not to Listen to an Anthem of Aggression
 
 _Sometimes peace begins not with words. Sometimes it begins with the decision not to listen to what brings pain._

@@ -8,7 +8,7 @@ summary: Натхненне вчинком українських гімнаст
 event_date: 2026-06-02T21:00:00+01:00
 publication_date: 2026-06-02T21:00:00+01:00
 lastmod: 2026-06-02T21:00:00+01:00
-slug: pravo-ne-slukhaty-himn-ahresii
+slug: 028-the-right-not-to-listen-to-an-anthem-of-aggression
 tags:
   - peacefullife
   - мирне-життя

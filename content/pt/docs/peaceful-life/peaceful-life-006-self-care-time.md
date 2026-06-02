@@ -8,7 +8,7 @@ summary: Por vezes, a ação mais importante é fazer uma pausa. Este artigo exp
 event_date: 2025-07-01T13:00:00
 publication_date: 2025-07-01T13:00:00
 lastmod: 2025-07-01T13:00:00
-slug: self-care-time
+slug: 006-self-care
 tags:
   - Vida Pacífica
   - Autocuidado

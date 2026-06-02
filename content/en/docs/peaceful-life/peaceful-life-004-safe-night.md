@@ -8,7 +8,7 @@ summary: Around a campfire, people share stories, laughter, and silence. This ar
 event_date: 2025-07-01T11:00:00
 publication_date: 2025-07-01T11:00:00
 lastmod: 2025-07-01T11:00:00
-slug: safe-night
+slug: 004-safe-night
 tags:
   - Peaceful Life
   - Safe Night

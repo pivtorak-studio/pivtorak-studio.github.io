@@ -8,7 +8,7 @@ summary: Иногда самое важное действие — остано�
 event_date: 2025-07-01T13:00:00
 publication_date: 2025-07-01T13:00:00
 lastmod: 2025-07-01T13:00:00
-slug: self-care-time
+slug: 006-self-care
 tags:
   - Мирная Жизнь
   - Забота О Себе

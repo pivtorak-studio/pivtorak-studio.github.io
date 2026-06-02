@@ -8,7 +8,7 @@ summary: Work is more than income. It is participation, creativity, responsibili
 event_date: 2025-06-01T13:00:00
 publication_date: 2025-06-01T13:00:00
 lastmod: 2025-06-01T13:00:00
-slug: the-right-to-work
+slug: 003-the-right-to-work
 tags:
   - Peaceful Life
   - Work

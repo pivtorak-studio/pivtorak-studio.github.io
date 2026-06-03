@@ -153,5 +153,5 @@ E existe sempre alguém que escolhe escutá-la.
 **Alt-text:**   
 Uma mulher encontra-se sentada num quarto pouco iluminado durante uma sirene noturna. Está vestida e preparada para qualquer eventualidade. Grandes auscultadores cobrem-lhe os ouvidos e as suas mãos tapam-lhe o rosto. Ao longe permanecem os clarões e os ruídos da cidade, enquanto uma suave cúpula luminosa de paz se forma à sua volta. A atmosfera combina vulnerabilidade, dignidade e força interior.
 
-_Vida Pacífica. Uma Canção Mais Forte do Que o Ruído. AP | Pivtorak.Studio. 03.06.2026_
+_Vida Pacífica. Uma Canção Mais Forte do Que o Ruído. AP | Pivtorak.Studio. 03.06.2026_   
 © Anna Pivtorak (Kostyuk)

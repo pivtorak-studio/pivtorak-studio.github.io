@@ -150,5 +150,5 @@ And there is always someone who chooses to listen to it.
 **Alt-text:**   
 A woman sits in a dimly lit room during a night air raid. She is fully dressed and prepared for uncertainty. Large headphones cover her ears and her hands cover her face. Distant flashes and city noise remain outside, while a gentle luminous dome of peace surrounds her. The atmosphere combines vulnerability, dignity, and inner strength.
 
-_Peaceful Life. A Song Stronger Than Noise. AP | Pivtorak.Studio. 03.06.2026_
+_Peaceful Life. A Song Stronger Than Noise. AP | Pivtorak.Studio. 03.06.2026_   
 © Anna Pivtorak (Kostyuk)

@@ -90,7 +90,8 @@ weight: 29
 }
 </script>
 
-![Безпечне Місце Навіть у Найгучнішу Ніч](/images/peaceful-life-029-a-safe-place-even-in-the-loudest night.webp)
+
+![Безпечне Місце Навіть у Найгучнішу Ніч](/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp)
 
 # 🚗🦌🌿 Безпечне Місце Навіть у Найгучнішу Ніч
 _Коли світ навколо стає занадто гучним, кожна жива істота починає шукати місце, де можна перечекати страх._

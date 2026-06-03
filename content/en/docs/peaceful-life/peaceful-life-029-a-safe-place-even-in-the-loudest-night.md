@@ -90,7 +90,9 @@ weight: 29
 }
 </script>
 
-![A Safe Place Even in the Loudest Night](/images/peaceful-life-029-a-safe-place-even-in-the-loudest night.webp)
+
+![A Safe Place Even in the Loudest Night](/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp)
+
 
 # 🚗🦌🌿 A Safe Place Even in the Loudest Night
 

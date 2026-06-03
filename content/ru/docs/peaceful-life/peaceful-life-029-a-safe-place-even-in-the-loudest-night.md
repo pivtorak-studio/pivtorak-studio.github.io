@@ -90,7 +90,8 @@ weight: 29
 }
 </script>
 
-![Безопасное Место Даже в Самую Шумную Ночь](/images/peaceful-life-029-a-safe-place-even-in-the-loudest night.webp)
+
+![Безопасное Место Даже в Самую Шумную Ночь](/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp)
 
 # 🚗🦌🌿 Безопасное Место Даже в Самую Шумную Ночь
 

@@ -143,7 +143,7 @@ Para alguns, é a sua casa. Para outros, é o abraço de alguém querido.
 Para uma jovem corça, numa manhã difícil, foi o espaço por baixo de um automóvel.
 E talvez a paz comece precisamente no momento em que alguém ajuda outro ser vivo a encontrar uma saída.
 
-**Alt-text:**
+**Alt-text:**   
 Uma jovem corça esconde-se debaixo de um automóvel estacionado numa rua da cidade após uma noite de explosões. A luz suave da manhã ilumina a cena enquanto socorristas levantam cuidadosamente o veículo para libertar o animal assustado. A atmosfera transmite vulnerabilidade, compaixão e a procura universal por segurança.
 
 _Vida Pacífica. Um Lugar Seguro Mesmo na Noite Mais Barulhenta. AP | Pivtorak.Studio. 03.06.2026_

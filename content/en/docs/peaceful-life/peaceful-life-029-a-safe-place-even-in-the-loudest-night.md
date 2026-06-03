@@ -139,7 +139,7 @@ For others, it is the embrace of loved ones.
 For one young roe deer, it became the space beneath a car.
 And perhaps peace begins the moment someone helps another living being find a way out.
 
-**Alt-text:**
+**Alt-text:**   
 A young roe deer hides beneath a parked car on a city street after a night of explosions. Early morning light surrounds the scene while rescuers carefully lift the vehicle to free the frightened animal. The atmosphere conveys vulnerability, compassion, and the universal search for safety.
 
 _Peaceful Life. A Safe Place Even in the Loudest Night. AP | Pivtorak.Studio. 03.06.2026_

@@ -89,7 +89,8 @@ weight: 28
 
 # 🎧🧍‍♀️🤍 O Direito de Não Ouvir um Hino de Agressão
 
-_Por vezes, a paz não começa com palavras. Por vezes, começa com a decisão de não ouvir aquilo que traz dor._
+_Por vezes, a paz não começa com palavras.    
+Por vezes, começa com a decisão de não ouvir aquilo que traz dor._
 
 ## Observação
 

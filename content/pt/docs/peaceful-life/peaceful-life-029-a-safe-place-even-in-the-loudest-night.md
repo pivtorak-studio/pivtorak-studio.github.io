@@ -90,7 +90,7 @@ weight: 29
 }
 </script>
 
-![Um Lugar Seguro Mesmo na Noite Mais Barulhenta](/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp)
+![Um Lugar Seguro Mesmo na Noite Mais Barulhenta](/images/peaceful-life-029-a-safe-place-even-in-the-loudest night.webp)
 
 # 🚗🦌🌿Um Lugar Seguro Mesmo na Noite Mais Barulhenta
 

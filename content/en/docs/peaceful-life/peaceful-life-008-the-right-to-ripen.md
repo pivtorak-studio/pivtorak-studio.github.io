@@ -2,19 +2,13 @@
 id: peaceful-life-008-the-right-to-ripen
 language: en
 translation_of: peaceful-life-008-the-right-to-ripen
-
-title: The Right to Ripen
-
+title: 008 The Right to Ripen
 description: Growth takes time. A reflection on patience, maturity, and the right of every living thing to complete its natural cycle.
-
 summary: Fields do not hurry. Seasons do not compete. This article explores the idea that life deserves the time and safety needed to reach maturity.
-
 event_date: 2025-08-01T12:00:00
 publication_date: 2025-08-01T12:00:00
 lastmod: 2025-08-01T12:00:00
-
 slug: 008-the-right-to-ripen
-
 tags:
   - Peaceful Life
   - Harvest
@@ -24,7 +18,6 @@ tags:
   - Seasons
   - Peace
   - August
-
 keywords:
   - the right to ripen
   - harvest season
@@ -32,33 +25,22 @@ keywords:
   - nature
   - peaceful life
   - natural growth
-
 categories:
   - Peaceful Life
-
 series:
   - Peaceful Life
-
 series_index: 8
-
 country: PT
 status: published
 featured: true
-
 image: /images/peaceful-life-008-the-right-to-ripen.webp
-
 alt: A peaceful golden field under a summer sky. Mature grain sways gently in the wind, symbolizing patience, growth, and the completion of a natural cycle.
-
 related:
   - /en/docs/peaceful-life/
   - /en/docs/timeline/
-
 authors: Anna Pivtorak
-
 draft: false
-
 canonical: https://pivtorak.studio/en/docs/peaceful-life/008-the-right-to-ripen/
-
 toc: true
 weight: 8
 ---

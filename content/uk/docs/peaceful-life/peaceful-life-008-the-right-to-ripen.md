@@ -2,19 +2,13 @@
 id: peaceful-life-008-the-right-to-ripen
 language: uk
 translation_of: peaceful-life-008-the-right-to-ripen
-
-title: Право на дозрівання
-
+title: 008 Право на дозрівання
 description: Для зростання потрібен час. Роздуми про терпіння, зрілість і право кожної живої істоти пройти свій природний шлях до кінця.
-
 summary: Поля не поспішають. Пори року не змагаються. Ця стаття досліджує ідею того, що життя заслуговує на час і безпеку, необхідні для досягнення зрілості.
-
 event_date: 2025-08-01T12:00:00
 publication_date: 2025-08-01T12:00:00
 lastmod: 2025-08-01T12:00:00
-
 slug: 008-the-right-to-ripen
-
 tags:
   - Мирне Життя
   - Врожай
@@ -24,7 +18,6 @@ tags:
   - Пори Року
   - Мир
   - Серпень
-
 keywords:
   - право на дозрівання
   - час врожаю
@@ -32,33 +25,22 @@ keywords:
   - природа
   - мирне життя
   - природне зростання
-
 categories:
   - Мирне Життя
-
 series:
   - Мирне Життя
-
 series_index: 8
-
 country: PT
 status: published
 featured: true
-
 image: /images/peaceful-life-008-the-right-to-ripen.webp
-
 alt: Спокійне золоте поле під літнім небом. Дозрілі колоски м’яко коливаються на вітрі, символізуючи терпіння, зростання та завершення природного циклу.
-
 related:
   - /uk/docs/peaceful-life/
   - /uk/docs/timeline/
-
 authors: Anna Pivtorak
-
 draft: false
-
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/008-the-right-to-ripen/
-
 toc: true
 weight: 8
 ---

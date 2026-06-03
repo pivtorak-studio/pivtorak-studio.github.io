@@ -2,19 +2,13 @@
 id: peaceful-life-008-the-right-to-ripen
 language: ru
 translation_of: peaceful-life-008-the-right-to-ripen
-
-title: Право созреть
-
+title: 008 Право созреть
 description: Для роста требуется время. Размышление о терпении, зрелости и праве каждого живого существа пройти свой естественный путь до конца.
-
 summary: Поля не спешат. Времена года не соревнуются. Эта статья исследует идею того, что жизнь заслуживает времени и безопасности для достижения зрелости.
-
 event_date: 2025-08-01T12:00:00
 publication_date: 2025-08-01T12:00:00
 lastmod: 2025-08-01T12:00:00
-
 slug: 008-the-right-to-ripen
-
 tags:
   - Мирная Жизнь
   - Урожай
@@ -24,7 +18,6 @@ tags:
   - Времена Года
   - Мир
   - Август
-
 keywords:
   - право созреть
   - время урожая
@@ -32,33 +25,22 @@ keywords:
   - природа
   - мирная жизнь
   - естественный рост
-
 categories:
   - Мирная Жизнь
-
 series:
   - Мирная Жизнь
-
 series_index: 8
-
 country: PT
 status: published
 featured: true
-
 image: /images/peaceful-life-008-the-right-to-ripen.webp
-
 alt: Спокойное золотое поле под летним небом. Созревшие колосья мягко колышутся на ветру, символизируя терпение, рост и завершение природного цикла.
-
 related:
   - /ru/docs/peaceful-life/
   - /ru/docs/timeline/
-
 authors: Anna Pivtorak
-
 draft: false
-
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/008-the-right-to-ripen/
-
 toc: true
 weight: 8
 ---

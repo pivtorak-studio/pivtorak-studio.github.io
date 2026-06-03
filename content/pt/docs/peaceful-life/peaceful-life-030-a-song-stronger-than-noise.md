@@ -104,8 +104,7 @@ Algumas descem para os abrigos.
 Outras permanecem em casa.
 Algumas ficam acordadas até ao amanhecer.
 Outras vestem-se como se pudessem ter de sair a qualquer momento.
-E, por vezes, colocam auscultadores.
-Não para entretenimento. Não para fugir da realidade.
+E, por vezes, colocam auscultadores. Não para entretenimento. 
 Mas para não ouvir os sons que destroem a paz interior.
 Para deixar de seguir a direção de cada explosão.
 Para deixar de imaginar onde poderá ocorrer o próximo impacto.

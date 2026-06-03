@@ -102,8 +102,7 @@ Sometimes it begins when a person finds a sound stronger than fear._
 During war, everyone searches for their own way to survive the night.
 Some go to shelters. Some remain at home. Some stay awake until dawn.
 Others get dressed as if they may need to leave at any moment.
-And sometimes they put on headphones.
-Not for entertainment. Not to escape reality.
+And sometimes they put on headphones. Not for entertainment. 
 But to avoid listening to sounds that shatter inner peace.
 To stop tracking the direction of every explosion.
 To stop guessing where the next impact might be.

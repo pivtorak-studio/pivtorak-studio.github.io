@@ -1,99 +1,52 @@
 ---
-
-id: peaceful-life-030-a-song-stronger-than-noise  
+id: peaceful-life-030-a-song-stronger-than-noise
 language: en
-
 translation_of: peaceful-life-030-a-song-stronger-than-noise
-
-title: A Song Stronger Than Noise
-
+title: 030 A Song Stronger Than Noise
 description: A reflection on inner peace, personal boundaries, and the ability to preserve harmony amidst fear, uncertainty, and war.
-
 summary: Inspired by the everyday experience of Ukrainians who use music, voices, and familiar sounds to preserve their inner balance during air raids, this essay explores how peace can survive even when the world grows unbearably loud.
-
-event_date: 2026-06-03T20:00:00+01:00  
-publication_date: 2026-06-03T20:00:00+01:00  
+event_date: 2026-06-03T20:00:00+01:00
+publication_date: 2026-06-03T20:00:00+01:00
 lastmod: 2026-06-03T20:00:00+01:00
-
 slug: 030-a-song-stronger-than-noise
-
 tags:
-
-- peacefullife
-    
-- peace
-    
-- inner-peace
-    
-- music
-    
-- resilience
-    
-- headphones
-    
-- ukraine
-    
-- humanity
-    
-- war
-    
-- dignity
-    
-
+  - peacefullife
+  - peace
+  - inner-peace
+  - music
+  - resilience
+  - headphones
+  - ukraine
+  - humanity
+  - war
+  - dignity
 keywords:
-
-- a song stronger than noise
-    
-- inner peace during war
-    
-- music during air raids
-    
-- headphones and resilience
-    
-- emotional protection
-    
-- Ukraine
-    
-- peaceful life
-    
-- harmony against fear
-    
-
+  - a song stronger than noise
+  - inner peace during war
+  - music during air raids
+  - headphones and resilience
+  - emotional protection
+  - Ukraine
+  - peaceful life
+  - harmony against fear
 categories:
-
-- Peaceful Life
-    
-- Society
-    
-- Human Resilience
-    
-
-series: Peaceful Life  
+  - Peaceful Life
+  - Society
+  - Human Resilience
+series: Peaceful Life
 series_index: 30
-
 country: PT
-
-status: published  
+status: published
 featured: true
-
 image: /images/peaceful-life-030-a-song-stronger-than-noise.webp
-
 alt: A woman sits in a dimly lit room during a night air raid. She is dressed and prepared for any outcome. Large headphones cover her ears while her hands hide her face. Distant flashes and city noise remain outside, while a soft luminous dome of peace forms around her. The atmosphere combines vulnerability, dignity, and inner strength.
-
 related:
-
-- /en/docs/peaceful-life/
-    
-- /en/docs/timeline/
-    
-
+  - /en/docs/peaceful-life/
+  - /en/docs/timeline/
 authors: Anna Pivtorak
-
 draft: false
-
-canonical: [https://pivtorak.studio/en/docs/peaceful-life/030-a-song-stronger-than-noise/]
-
-## toc: true  
+canonical:
+  - https://pivtorak.studio/en/docs/peaceful-life/030-a-song-stronger-than-noise/
 weight: 30
 ---
 <script type="application/ld+json">

@@ -2,7 +2,7 @@
 id: core-recalibration
 language: pt
 translation_of: core-recalibration
-title: Recalibração do Núcleo
+title: ⟡ Recalibração do Núcleo
 description: Uma série viva dedicada à transformação da arquitetura interna através do ritmo, da linguagem, da presença, da autonomia digital e da soberania cognitiva.
 event_date: 2026-05-20T21:00:00
 publication_date: 2026-05-20T21:00:00

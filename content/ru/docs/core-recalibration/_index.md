@@ -2,7 +2,7 @@
 id: core-recalibration
 language: ru
 translation_of: core-recalibration
-title: Перекалибровка Ядра
+title: ⟡ Перекалибровка Ядра
 description: Серия статей о трансформации внутренней архитектуры человека через ритм, язык, присутствие, цифровую автономию и когнитивную суверенность.
 event_date: 2026-05-20T21:00:00
 publication_date: 2026-05-20T21:00:00

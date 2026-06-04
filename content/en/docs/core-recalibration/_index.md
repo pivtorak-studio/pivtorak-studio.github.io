@@ -2,7 +2,7 @@
 id: core-recalibration
 language: en
 translation_of: core-recalibration
-title: Core Recalibration
+title: ⟡ Core Recalibration
 description: A living series exploring the transformation of inner architecture through rhythm, language, presence, digital autonomy, and cognitive sovereignty.
 event_date: 2026-05-20T21:00:00
 publication_date: 2026-05-20T21:00:00

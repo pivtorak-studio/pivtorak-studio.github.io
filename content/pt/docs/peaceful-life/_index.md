@@ -43,6 +43,7 @@ authors: Anna Pivtorak
 draft: false
 toc: true
 weight: 95
+bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {

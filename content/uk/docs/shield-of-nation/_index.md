@@ -1,7 +1,8 @@
 ---
-title: "Щит Нації"
+title: 85 Щит Нації
 description: "Дослідницька серія #ShieldOfNation: система життєздатності держави через ролі, що формують захист, стійкість і майбутнє."
 bookCollapseSection: true
+weight:
 ---
 
 <script type="application/ld+json">

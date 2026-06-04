@@ -1,7 +1,8 @@
 ---
-title: "🐉⚖️ ESMÉE — O Dragão do Equilíbrio"
-description: "Uma série visual e conceptual sobre o equilíbrio como estado de consciência. Esmée restaura a ordem através da presença."
+title: 🐉⚖️ ESMÉE — O Dragão do Equilíbrio
+description: Uma série visual e conceptual sobre o equilíbrio como estado de consciência. Esmée restaura a ordem através da presença.
 bookCollapseSection: true
+weight: 75
 ---
 
 <script type="application/ld+json">

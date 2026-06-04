@@ -1,7 +1,8 @@
 ---
-title: "Політичний Дизайн"
+title: Політичний Дизайн
 description: "Дослідницька серія #PoliticalDesign: політика як система, інтерфейс і архітектура рішень. Аналіз боргу, виборів, влади та держави як продукту."
 bookCollapseSection: true
+weight: 80
 ---
 
 <script type="application/ld+json">

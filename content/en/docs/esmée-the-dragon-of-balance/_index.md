@@ -1,7 +1,8 @@
 ---
-title: "🐉⚖️ ESMÉE — The Dragon of Balance"
-description: "A visual and conceptual series exploring balance as a state of consciousness. Esmée restores order through presence, not force."
+title: 🐉⚖️ ESMÉE — The Dragon of Balance
+description: A visual and conceptual series exploring balance as a state of consciousness. Esmée restores order through presence, not force.
 bookCollapseSection: true
+weight: 75
 ---
 
 <script type="application/ld+json">

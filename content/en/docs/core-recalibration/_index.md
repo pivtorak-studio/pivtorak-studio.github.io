@@ -6,7 +6,6 @@ title: Core Recalibration
 description: A living series exploring the transformation of inner architecture through rhythm, language, presence, digital autonomy, and cognitive sovereignty.
 event_date: 2026-05-20T21:00:00
 publication_date: 2026-05-20T21:00:00
-
 tags:
   - CoreRecalibration
   - cognitive sovereignty
@@ -21,36 +20,28 @@ tags:
   - self-control
   - structural transformation
   - digital philosophy
-
 country: PT
 status: published
 featured: true
-
 image: /images/core-recalibration.webp
-alt: "A futuristic infographic for the 'Core Recalibration' series featuring a figure before a luminous portal surrounded by symbols of rhythm, presence, sovereignty, cognition, and system transformation."
-
+alt: A futuristic infographic for the 'Core Recalibration' series featuring a figure before a luminous portal surrounded by symbols of rhythm, presence, sovereignty, cognition, and system transformation.
 related:
   - /en/docs/core-recalibration/
   - /en/docs/timeline/
   - /en/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /en/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-
 draft: false
 toc: true
-
 categories:
   - Philosophy
   - Cognitive Architecture
   - Digital Sovereignty
   - System Transformation
-
 series:
   - Core Recalibration
-
 authors:
   - Anna Pivtorak
-
 keywords:
   - core recalibration
   - cognitive sovereignty
@@ -63,6 +54,7 @@ keywords:
   - strategic thinking
   - independent research
   - Investigadora Independente
+bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {

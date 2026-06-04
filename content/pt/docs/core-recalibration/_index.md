@@ -6,7 +6,6 @@ title: Recalibração do Núcleo
 description: Uma série viva dedicada à transformação da arquitetura interna através do ritmo, da linguagem, da presença, da autonomia digital e da soberania cognitiva.
 event_date: 2026-05-20T21:00:00
 publication_date: 2026-05-20T21:00:00
-
 tags:
   - CoreRecalibration
   - soberania cognitiva
@@ -20,36 +19,28 @@ tags:
   - ritmo
   - autocontrolo
   - transformação estrutural
-
 country: PT
 status: published
 featured: true
-
 image: /images/core-recalibration.webp
-alt: "Infografia futurista da série 'Recalibração do Núcleo' com uma figura diante de um portal luminoso rodeado por símbolos de ritmo, presença, soberania, cognição e transformação sistémica."
-
+alt: Infografia futurista da série 'Recalibração do Núcleo' com uma figura diante de um portal luminoso rodeado por símbolos de ritmo, presença, soberania, cognição e transformação sistémica.
 related:
   - /pt/docs/core-recalibration/
   - /pt/docs/timeline/
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-
 draft: false
 toc: true
-
 categories:
   - Filosofia
   - Arquitetura Cognitiva
   - Soberania Digital
   - Transformação Sistémica
-
 series:
   - Core Recalibration
-
 authors:
   - Anna Pivtorak
-
 keywords:
   - recalibração do núcleo
   - soberania cognitiva
@@ -61,6 +52,7 @@ keywords:
   - pensamento estratégico
   - investigação independente
   - Investigadora Independente
+bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {

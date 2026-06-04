@@ -6,7 +6,6 @@ title: Перекалибровка Ядра
 description: Серия статей о трансформации внутренней архитектуры человека через ритм, язык, присутствие, цифровую автономию и когнитивную суверенность.
 event_date: 2026-05-20T21:00:00
 publication_date: 2026-05-20T21:00:00
-
 tags:
   - CoreRecalibration
   - когнитивная суверенность
@@ -20,36 +19,28 @@ tags:
   - ритм
   - самоконтроль
   - структурная трансформация
-
 country: PT
 status: published
 featured: true
-
 image: /images/core-recalibration.webp
 alt: "Футуристическая инфографика серии «Перекалибровка Ядра»: фигура перед световым порталом, окружённая символами ритма, присутствия, суверенности, когнитивной архитектуры и системной трансформации."
-
 related:
   - /ru/docs/core-recalibration/
   - /ru/docs/timeline/
   - /ru/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /ru/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /ru/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-
 draft: false
 toc: true
-
 categories:
   - Философия
   - Когнитивная Архитектура
   - Цифровой Суверенитет
   - Системная Трансформация
-
 series:
   - Core Recalibration
-
 authors:
   - Anna Pivtorak
-
 keywords:
   - перекалибровка ядра
   - когнитивная суверенность
@@ -61,6 +52,7 @@ keywords:
   - стратегическое мышление
   - независимое исследование
   - Investigadora Independente
+bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {

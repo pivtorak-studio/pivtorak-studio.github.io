@@ -36,7 +36,7 @@ categories:
   - Кибернетика
   - Архитектура Смыслов
 series:
-  - Core Recalibration
+  - ПерекалибровкаЯдра
 country: PT
 status: published
 featured: true

@@ -37,7 +37,7 @@ categories:
   - Arquitetura Cognitiva
   - Filosofia Digital
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

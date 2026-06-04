@@ -36,8 +36,7 @@ categories:
   - Systems Architecture
   - Personal Evolution
 series:
-  - Core Recalibration
-  - Path and Evolution
+  - CoreRecalibration
 country: PT
 status: published
 featured: true

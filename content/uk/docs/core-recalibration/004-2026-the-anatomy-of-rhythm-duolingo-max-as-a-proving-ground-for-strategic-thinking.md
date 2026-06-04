@@ -34,7 +34,7 @@ categories:
   - Cognitive Architecture
   - Digital Philosophy
 series:
-  - Core Recalibration
+  - ПерекалібруванняЯдра
 authors:
   - Anna Pivtorak
 keywords:

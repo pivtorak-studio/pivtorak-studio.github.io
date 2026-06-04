@@ -36,7 +36,7 @@ categories:
   - Arquitetura Cognitiva
   - Soberania Digital
 series:
-  - CoreRecalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

@@ -36,8 +36,7 @@ categories:
   - Архитектура систем
   - Личная эволюция
 series:
-  - Core Recalibration
-  - Путь и Эволюция
+  - ПерекалибровкаЯдра
 country: PT
 status: published
 featured: true

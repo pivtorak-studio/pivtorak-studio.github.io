@@ -31,7 +31,7 @@ categories:
   - Arquitetura da Ação
   - Design de Sistemas
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 country: PT
 status: published
 featured: true

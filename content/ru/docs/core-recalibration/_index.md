@@ -38,7 +38,7 @@ categories:
   - Цифровой Суверенитет
   - Системная Трансформация
 series:
-  - Core Recalibration
+  - ПерекалибровкаЯдра
 authors:
   - Anna Pivtorak
 keywords:

@@ -36,7 +36,7 @@ categories:
   - Суверенна Архітектура
   - Цифрова Філософія
 series:
-  - Core Recalibration
+  - ПерекалібруванняЯдра
 authors:
   - Anna Pivtorak
 keywords:

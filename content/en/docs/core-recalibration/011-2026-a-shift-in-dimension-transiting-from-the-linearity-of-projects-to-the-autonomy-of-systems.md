@@ -31,7 +31,7 @@ categories:
   - Architecture of Action
   - Systems Design
 series:
-  - Core Recalibration
+  - CoreRecalibration
 country: PT
 status: published
 featured: true

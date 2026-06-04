@@ -35,7 +35,7 @@ categories:
   - Cognitive Strategy
   - Digital Philosophy
 series:
-  - Core Recalibration
+  - CoreRecalibration
 authors:
   - Anna Pivtorak
 keywords:

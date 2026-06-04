@@ -3,7 +3,7 @@ id: core-recalibration-007-2026-exponential-takeoff
 language: uk
 translation_of: core-recalibration-007-2026-exponential-takeoff
 title: "007 Експонента зльоту: Стратегія вертикального обгону та суверенний простір"
-description: "Аналітичне осмислення експоненційного когнітивного зростання, цифрового суверенітету та стратегічного переходу від інституційного спротиву до автономного вертикального розширення."
+description: Аналітичне осмислення експоненційного когнітивного зростання, цифрового суверенітету та стратегічного переходу від інституційного спротиву до автономного вертикального розширення.
 event_date: 2026-05-22T14:00:00
 publication_date: 2026-05-22T14:00:00
 tags:
@@ -21,7 +21,7 @@ country: PT
 status: published
 featured: true
 image: /images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp
-alt: "Суверенна постать стрімко підіймається вздовж сяючої експоненційної кривої, залишаючи позаду закриті інституційні структури та розгортаючи автономну цифрову інфраструктуру."
+alt: Суверенна постать стрімко підіймається вздовж сяючої експоненційної кривої, залишаючи позаду закриті інституційні структури та розгортаючи автономну цифрову інфраструктуру.
 related:
   - /uk/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /uk/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
@@ -35,7 +35,7 @@ categories:
   - КогнітивнаСтратегія
   - ЦифроваФілософія
 series:
-  - Core Recalibration
+  - ПерекалібруванняЯдра
 authors:
   - Anna Pivtorak
 keywords:

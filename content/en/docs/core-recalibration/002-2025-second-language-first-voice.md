@@ -33,7 +33,7 @@ categories:
   - Language Philosophy
   - Personal Evolution
 series:
-  - Core Recalibration
+  - CoreRecalibration
 authors:
   - Anna Pivtorak
 keywords:

@@ -36,7 +36,7 @@ categories:
   - Cognitive Architecture
   - Digital Sovereignty
 series:
-  - CoreRecalibration
+  - ПерекалібруванняЯдра
 authors:
   - Anna Pivtorak
 keywords:

@@ -33,7 +33,7 @@ categories:
   - Filosofia
   - Pensamento Sistémico
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

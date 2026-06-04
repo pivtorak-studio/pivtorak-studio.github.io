@@ -36,8 +36,7 @@ categories:
   - Arquitetura de Sistemas
   - Evolução Pessoal
 series:
-  - Core Recalibration
-  - Caminho e Evolução
+  - RecalibraçãoDoNúcleo
 country: PT
 status: published
 featured: true

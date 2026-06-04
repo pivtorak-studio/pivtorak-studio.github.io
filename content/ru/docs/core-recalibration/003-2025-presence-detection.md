@@ -33,7 +33,7 @@ categories:
   - Presence Philosophy
   - System Awareness
 series:
-  - Core Recalibration
+  - ПерекалибровкаЯдра
 authors:
   - Anna Pivtorak
 keywords:

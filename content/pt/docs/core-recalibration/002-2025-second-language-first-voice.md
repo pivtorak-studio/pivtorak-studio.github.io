@@ -33,7 +33,7 @@ categories:
   - Filosofia da Linguagem
   - Evolução Pessoal
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

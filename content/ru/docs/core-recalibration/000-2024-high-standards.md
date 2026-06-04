@@ -33,7 +33,7 @@ categories:
   - Philosophy
   - Personal Evolution
 series:
-  - Core Recalibration
+  - ПерекалибровкаЯдра
 authors:
   - Anna Pivtorak
 keywords:

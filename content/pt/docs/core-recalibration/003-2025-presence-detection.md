@@ -33,7 +33,7 @@ categories:
   - Filosofia da Presença
   - Consciência Sistémica
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

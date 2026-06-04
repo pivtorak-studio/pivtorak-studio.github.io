@@ -3,7 +3,7 @@ id: core-recalibration-006-2026-simurgh-protocol
 language: uk
 translation_of: core-recalibration-006-2026-simurgh-protocol
 title: "006 Протокол Симурга: Філософія Investigadora Independente"
-description: "Маніфест суверенної науки та незалежного дослідження. Стаття про перехід від інституційної легітимації до автономної архітектури знання, де сайт стає лабораторією, цифровий архів — системою фіксації, а дисципліна — гарантом якості."
+description: Маніфест суверенної науки та незалежного дослідження. Стаття про перехід від інституційної легітимації до автономної архітектури знання, де сайт стає лабораторією, цифровий архів — системою фіксації, а дисципліна — гарантом якості.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
 lastmod: 2026-05-20T15:00:00
@@ -37,7 +37,7 @@ categories:
   - Sovereign Science
   - Cognitive Architecture
 series:
-  - CoreRecalibration
+  - ПерекалібруванняЯдра
 authors:
   - Anna Pivtorak
 keywords:

@@ -36,7 +36,7 @@ categories:
   - Кібернетика
   - Архітектура Смислів
 series:
-  - Core Recalibration
+  - ПерекалібруванняЯдра
 country: PT
 status: published
 featured: true

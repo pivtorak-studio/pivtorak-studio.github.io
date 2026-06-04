@@ -31,7 +31,7 @@ categories:
   - Архітектура Дії
   - Системний Дизайн
 series:
-  - Core Recalibration
+  - ПерекалібруванняЯдра
 country: PT
 status: published
 featured: true

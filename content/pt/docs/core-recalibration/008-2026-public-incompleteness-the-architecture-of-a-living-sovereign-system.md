@@ -36,7 +36,7 @@ categories:
   - Arquitetura Soberana
   - Filosofia Digital
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

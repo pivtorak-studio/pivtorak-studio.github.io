@@ -39,7 +39,7 @@ categories:
   - Digital Sovereignty
   - System Transformation
 series:
-  - Core Recalibration
+  - ПерекалібруванняЯдра
 authors:
   - Anna Pivtorak
 keywords:

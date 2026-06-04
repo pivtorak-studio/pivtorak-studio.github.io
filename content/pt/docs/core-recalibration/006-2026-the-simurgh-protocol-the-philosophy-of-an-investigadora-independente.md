@@ -36,7 +36,7 @@ categories:
   - Ciência Soberana
   - Arquitetura Cognitiva
 series:
-  - CoreRecalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

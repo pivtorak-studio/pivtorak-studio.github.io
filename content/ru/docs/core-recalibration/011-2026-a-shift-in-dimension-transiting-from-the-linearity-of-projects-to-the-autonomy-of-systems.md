@@ -31,7 +31,7 @@ categories:
   - Архитектура действия
   - Системный дизайн
 series:
-  - Core Recalibration
+  - ПерекалибровкаЯдра
 country: PT
 status: published
 featured: true

@@ -37,7 +37,7 @@ categories:
   - Когнитивная Архитектура
   - Цифровая Философия
 series:
-  - Core Recalibration
+  - ПерекалибровкаЯдра
 authors:
   - Anna Pivtorak
 keywords:

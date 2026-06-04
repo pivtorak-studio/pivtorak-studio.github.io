@@ -36,7 +36,7 @@ categories:
   - Cybernetics
   - Architecture of Meaning
 series:
-  - Core Recalibration
+  - CoreRecalibration
 country: PT
 status: published
 featured: true

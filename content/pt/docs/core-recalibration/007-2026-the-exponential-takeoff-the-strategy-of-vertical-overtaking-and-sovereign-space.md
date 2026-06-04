@@ -35,7 +35,7 @@ categories:
   - Estratégia Cognitiva
   - Filosofia Digital
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

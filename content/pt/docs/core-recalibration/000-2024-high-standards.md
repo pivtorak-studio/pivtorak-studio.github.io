@@ -33,7 +33,7 @@ categories:
   - Filosofia
   - Evolução Pessoal
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

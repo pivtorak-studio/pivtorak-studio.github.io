@@ -33,7 +33,7 @@ categories:
   - Philosophy
   - System Thinking
 series:
-  - Core Recalibration
+  - ПерекалібруванняЯдра
 authors:
   - Anna Pivtorak
 keywords:

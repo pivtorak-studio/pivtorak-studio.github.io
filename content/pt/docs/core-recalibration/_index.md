@@ -38,7 +38,7 @@ categories:
   - Soberania Digital
   - Transformação Sistémica
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 authors:
   - Anna Pivtorak
 keywords:

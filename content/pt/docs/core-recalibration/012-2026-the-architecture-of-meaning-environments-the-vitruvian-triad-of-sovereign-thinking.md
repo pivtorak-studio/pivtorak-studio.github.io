@@ -36,7 +36,7 @@ categories:
   - Cibernética
   - Arquitetura do Sentido
 series:
-  - Core Recalibration
+  - RecalibraçãoDoNúcleo
 country: PT
 status: published
 featured: true

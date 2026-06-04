@@ -1,5 +1,5 @@
 ---
-title: 🛡️ Щит Нації
+title: ⛨ Щит Нації
 description: "Дослідницька серія #ShieldOfNation: система життєздатності держави через ролі, що формують захист, стійкість і майбутнє."
 bookCollapseSection: true
 weight: 85

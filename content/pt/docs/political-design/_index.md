@@ -1,5 +1,5 @@
 ---
-title: Design Político
+title: ⎚ Design Político
 description: "Série #PoliticalDesign: análise da política como design de sistemas. Dívida, eleições, poder e Estado reinterpretados como produto e arquitetura."
 bookCollapseSection: true
 weight: 80

@@ -1,16 +1,132 @@
 ---
+
+id: the-movement-matrix  
+language: ru  
+translation_of: the-movement-matrix
+
 title: ⊞ Матрица Движения
-description: Панель мониторинга аудита контента и публикаций.
+
+description: Экспериментальная система для отслеживания развития статей, серий, переводов, метаданных, публикационных процессов и структур знаний в Pivtorak.Studio.
+
+summary: Матрица Движения — это живая структура для организации и наблюдения за развитием многоязычного архива знаний. Она объединяет создание контента, структурированные метаданные, публикационные процессы, индексацию и долгосрочную эволюцию проекта.
+
+event_date: 2026-06-06T11:00:00  
+publication_date: 2026-06-06T11:00:00  
+lastmod: 2026-06-06T11:00:00
+
 slug: the-movement-matrix
-layout: matrix
-type: matrix
+
+tags:
+
+- МатрицаДвижения
+    
+- СистемыЗнаний
+    
+- Метаданные
+    
+- СтруктурированныеДанные
+    
+- ЦифровойАрхив
+    
+- НезависимыеИсследования
+    
+- PivtorakStudio
+    
+
+keywords:
+
+- матрица движения
+    
+- система знаний
+    
+- управление метаданными
+    
+- цифровой архив
+    
+- многоязычный архив
+    
+- структурированные знания
+    
+- Anna Pivtorak
+    
+- Pivtorak Studio
+    
+
+categories:
+
+- Системы Знаний
+    
+- Цифровые Архивы
+    
+- Независимые Исследования
+    
+
+series: МатрицаДвижения  
+series_index: 1
+
+country: PT
+
+status: published  
+featured: true
+
+image: /images/the-movement-matrix.webp
+
+alt: Светящаяся сеть, напоминающая созвездие, расходится от центрального символа, представляя живую систему знаний, объединяющую статьи, переводы, метаданные и развивающиеся структуры.
+
+related:
+
+- /ru/docs/the-movement-matrix/
+    
+- /ru/docs/timeline/
+    
+
+authors: [Anna Pivtorak]
+
 draft: false
-robots: noindex
-menu: false
-cascade:
-  sitemap:
-    disable: true
+
+canonical: [https://pivtorak.studio/ru/docs/the-movement-matrix/]
+
+toc: true  
+weight: 2
+
+completion: 100
+
+seo: true  
+distribution: false  
+search: indexed
+
+## bookCollapseSection: true
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://pivtorak.studio/ru/docs/the-movement-matrix/",
+  "url": "https://pivtorak.studio/ru/docs/the-movement-matrix/",
+  "name": "⊞ Матрица Движения",
+  "headline": "⊞ Матрица Движения",
+  "description": "Экспериментальная система для отслеживания развития статей, серий, переводов, метаданных, публикационных процессов и структур знаний в Pivtorak.Studio.",
+  "inLanguage": "ru",
+  "datePublished": "2026-06-06T11:00:00+00:00",
+  "dateModified": "2026-06-06T11:00:00+00:00",
+  "image": "https://pivtorak.studio/images/the-movement-matrix.webp",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  }
+}
+</script>
+
 ![Матрица Движения](/images/the-movement-matrix.webp)
 
 # ⊞ Матрица Движения
@@ -43,3 +159,19 @@ Matrix представляет собой живую карту проекта.
 Matrix одновременно является практическим инструментом и экспериментом по созданию систем для независимых исследований, творческой работы и долгосрочного сохранения знаний.
 
 Её структура будет развиваться и изменяться вместе с самим проектом.
+
+---
+
+{{< section >}}
+
+
+
+
+
+
+
+
+
+
+
+

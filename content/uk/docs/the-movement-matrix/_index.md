@@ -1,101 +1,56 @@
 ---
-
-id: the-movement-matrix  
-language: uk  
+id: the-movement-matrix
+language: uk
 translation_of: the-movement-matrix
-
 title: ⊞ Матриця Руху
-
 description: Експериментальна система для відстеження розвитку статей, серій, перекладів, метаданих, процесів публікації та структур знань у межах Pivtorak.Studio.
-
 summary: Матриця Руху — це жива структура для організації та спостереження за розвитком багатомовного архіву знань. Вона поєднує створення контенту, структуровані метадані, процеси публікації, індексацію та довгострокову еволюцію проєкту.
-
-event_date: 2026-06-06T11:00:00  
-publication_date: 2026-06-06T11:00:00  
-lastmod: 2026-06-06T11:00:00
-
+event_date: 2026-06-05T11:00:00
+publication_date: 2026-06-05T11:00:00
+lastmod: 2026-06-05T11:00:00
 slug: the-movement-matrix
-
 tags:
-
-- МатрицяРуху
-    
-- СистемиЗнань
-    
-- Метадані
-    
-- СтруктурованіДані
-    
-- ЦифровийАрхів
-    
-- НезалежніДослідження
-    
-- PivtorakStudio
-    
-
+  - МатрицяРуху
+  - СистемиЗнань
+  - Метадані
+  - СтруктурованіДані
+  - ЦифровийАрхів
+  - НезалежніДослідження
+  - PivtorakStudio
 keywords:
-
-- матриця руху
-    
-- система знань
-    
-- управління метаданими
-    
-- цифровий архів
-    
-- багатомовний архів
-    
-- структуровані знання
-    
-- Anna Pivtorak
-    
-- Pivtorak Studio
-    
-
+  - матриця руху
+  - система знань
+  - управління метаданими
+  - цифровий архів
+  - багатомовний архів
+  - структуровані знання
+  - Anna Pivtorak
+  - Pivtorak Studio
 categories:
-
-- Системи Знань
-    
-- Цифрові Архіви
-    
-- Незалежні Дослідження
-    
-
-series: МатрицяРуху  
+  - Системи Знань
+  - Цифрові Архіви
+  - Незалежні Дослідження
+series: МатрицяРуху
 series_index: 1
-
 country: PT
-
-status: published  
+status: published
 featured: true
-
 image: /images/the-movement-matrix.webp
-
 alt: Світна мережа, схожа на сузір’я, розходиться від центрального символу, представляючи живу систему знань, що поєднує статті, переклади, метадані та структури, які розвиваються.
-
 related:
-
-- /uk/docs/the-movement-matrix/
-    
-- /uk/docs/timeline/
-    
-
-authors: [Anna Pivtorak]
-
+  - /uk/docs/the-movement-matrix/
+  - /uk/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
-
-canonical: [https://pivtorak.studio/uk/docs/the-movement-matrix/]
-
-toc: true  
+canonical:
+  - https://pivtorak.studio/uk/docs/the-movement-matrix/
+toc: true
 weight: 2
-
 completion: 100
-
-seo: true  
-distribution: false  
+seo: true
+distribution: false
 search: indexed
-
-## bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {
@@ -107,8 +62,8 @@ search: indexed
   "headline": "⊞ Матриця Руху",
   "description": "Експериментальна система для відстеження розвитку статей, серій, перекладів, метаданих, процесів публікації та структур знань у межах Pivtorak.Studio.",
   "inLanguage": "uk",
-  "datePublished": "2026-06-06T11:00:00+00:00",
-  "dateModified": "2026-06-06T11:00:00+00:00",
+  "datePublished": "2026-06-05T11:00:00+00:00",
+  "dateModified": "2026-06-05T11:00:00+00:00",
   "image": "https://pivtorak.studio/images/the-movement-matrix.webp",
   "author": {
     "@type": "Person",
@@ -163,7 +118,7 @@ search: indexed
 **Alt-text:**   
 Світна мережа, схожа на сузір’я, розходиться від центрального символу, представляючи живу систему знань, що поєднує статті, переклади, метадані та структури, які розвиваються.
 
-_Матриця Руху. AP | Pivtorak.Studio. 06.06.2026_    
+_Матриця Руху. AP | Pivtorak.Studio. 05.06.2026_    
 © Анна Півторак (Костюк)  
 
 ---

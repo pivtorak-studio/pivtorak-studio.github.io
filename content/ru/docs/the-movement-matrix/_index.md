@@ -1,101 +1,56 @@
 ---
-
-id: the-movement-matrix  
-language: ru  
+id: the-movement-matrix
+language: ru
 translation_of: the-movement-matrix
-
 title: ⊞ Матрица Движения
-
 description: Экспериментальная система для отслеживания развития статей, серий, переводов, метаданных, публикационных процессов и структур знаний в Pivtorak.Studio.
-
 summary: Матрица Движения — это живая структура для организации и наблюдения за развитием многоязычного архива знаний. Она объединяет создание контента, структурированные метаданные, публикационные процессы, индексацию и долгосрочную эволюцию проекта.
-
-event_date: 2026-06-06T11:00:00  
-publication_date: 2026-06-06T11:00:00  
-lastmod: 2026-06-06T11:00:00
-
+event_date: 2026-06-05T11:00:00
+publication_date: 2026-06-05T11:00:00
+lastmod: 2026-06-05T11:00:00
 slug: the-movement-matrix
-
 tags:
-
-- МатрицаДвижения
-    
-- СистемыЗнаний
-    
-- Метаданные
-    
-- СтруктурированныеДанные
-    
-- ЦифровойАрхив
-    
-- НезависимыеИсследования
-    
-- PivtorakStudio
-    
-
+  - МатрицаДвижения
+  - СистемыЗнаний
+  - Метаданные
+  - СтруктурированныеДанные
+  - ЦифровойАрхив
+  - НезависимыеИсследования
+  - PivtorakStudio
 keywords:
-
-- матрица движения
-    
-- система знаний
-    
-- управление метаданными
-    
-- цифровой архив
-    
-- многоязычный архив
-    
-- структурированные знания
-    
-- Anna Pivtorak
-    
-- Pivtorak Studio
-    
-
+  - матрица движения
+  - система знаний
+  - управление метаданными
+  - цифровой архив
+  - многоязычный архив
+  - структурированные знания
+  - Anna Pivtorak
+  - Pivtorak Studio
 categories:
-
-- Системы Знаний
-    
-- Цифровые Архивы
-    
-- Независимые Исследования
-    
-
-series: МатрицаДвижения  
+  - Системы Знаний
+  - Цифровые Архивы
+  - Независимые Исследования
+series: МатрицаДвижения
 series_index: 1
-
 country: PT
-
-status: published  
+status: published
 featured: true
-
 image: /images/the-movement-matrix.webp
-
 alt: Светящаяся сеть, напоминающая созвездие, расходится от центрального символа, представляя живую систему знаний, объединяющую статьи, переводы, метаданные и развивающиеся структуры.
-
 related:
-
-- /ru/docs/the-movement-matrix/
-    
-- /ru/docs/timeline/
-    
-
-authors: [Anna Pivtorak]
-
+  - /ru/docs/the-movement-matrix/
+  - /ru/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
-
-canonical: [https://pivtorak.studio/ru/docs/the-movement-matrix/]
-
-toc: true  
+canonical:
+  - https://pivtorak.studio/ru/docs/the-movement-matrix/
+toc: true
 weight: 2
-
 completion: 100
-
-seo: true  
-distribution: false  
+seo: true
+distribution: false
 search: indexed
-
-## bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {
@@ -107,8 +62,8 @@ search: indexed
   "headline": "⊞ Матрица Движения",
   "description": "Экспериментальная система для отслеживания развития статей, серий, переводов, метаданных, публикационных процессов и структур знаний в Pivtorak.Studio.",
   "inLanguage": "ru",
-  "datePublished": "2026-06-06T11:00:00+00:00",
-  "dateModified": "2026-06-06T11:00:00+00:00",
+  "datePublished": "2026-06-05T11:00:00+00:00",
+  "dateModified": "2026-06-05T11:00:00+00:00",
   "image": "https://pivtorak.studio/images/the-movement-matrix.webp",
   "author": {
     "@type": "Person",
@@ -163,7 +118,7 @@ Matrix одновременно является практическим инс
 **Alt-text:**   
 Светящаяся сеть, напоминающая созвездие, расходится от центрального символа, представляя живую систему знаний, объединяющую статьи, переводы, метаданные и развивающиеся структуры.
 
-_Матрица Движения. AP | Pivtorak.Studio. 06.06.2026_  
+_Матрица Движения. AP | Pivtorak.Studio. 05.06.2026_  
 © Анна Пивторак (Костюк) 
 
 

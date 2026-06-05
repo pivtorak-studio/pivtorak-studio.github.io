@@ -1,105 +1,58 @@
 ---
-
-id: the-movement-matrix  
-language: en  
+id: the-movement-matrix
+language: en
 translation_of: the-movement-matrix
-
 title: ⊞ The Movement Matrix
-
 description: An experimental system for tracking the evolution of articles, series, translations, metadata, publication workflows, and knowledge structures within Pivtorak.Studio.
-
 summary: The Movement Matrix is a living framework for organizing and observing the growth of a multilingual knowledge archive. It connects content creation, structured metadata, publication workflows, indexing, and long-term project evolution.
-
-event_date: 2026-06-06T11:00:00  
-publication_date: 2026-06-06T11:00:00  
-lastmod: 2026-06-06T11:00:00
-
+event_date: 2026-06-05T11:00:00
+publication_date: 2026-06-05T11:00:00
+lastmod: 2026-06-05T11:00:00
 slug: the-movement-matrix
-
 tags:
-
-- TheMovementMatrix
-    
-- KnowledgeSystems
-    
-- Metadata
-    
-- StructuredData
-    
-- KnowledgeManagement
-    
-- DigitalArchive
-    
-- IndependentResearch
-    
-- PivtorakStudio
-    
-
+  - TheMovementMatrix
+  - KnowledgeSystems
+  - Metadata
+  - StructuredData
+  - KnowledgeManagement
+  - DigitalArchive
+  - IndependentResearch
+  - PivtorakStudio
 keywords:
-
-- movement matrix
-    
-- knowledge system
-    
-- metadata management
-    
-- digital archive
-    
-- multilingual archive
-    
-- structured knowledge
-    
-- independent research
-    
-- Anna Pivtorak
-    
-- Pivtorak Studio
-    
-
+  - movement matrix
+  - knowledge system
+  - metadata management
+  - digital archive
+  - multilingual archive
+  - structured knowledge
+  - independent research
+  - Anna Pivtorak
+  - Pivtorak Studio
 categories:
-
-- Knowledge Systems
-    
-- Digital Archives
-    
-- Independent Research
-    
-
-series: TheMovementMatrix  
+  - Knowledge Systems
+  - Digital Archives
+  - Independent Research
+series: TheMovementMatrix
 series_index: 1
-
 country: PT
-
-status: published  
+status: published
 featured: true
-
 image: /images/the-movement-matrix.webp
-
 alt: A luminous constellation-like network radiates from a central symbol, representing a living knowledge system connecting articles, translations, metadata, and evolving structures.
-
 related:
-
-- /en/docs/the-movement-matrix/
-    
-- /en/docs/timeline/
-    
-
-authors: [Anna Pivtorak]
-
+  - /en/docs/the-movement-matrix/
+  - /en/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
-
-canonical: [https://pivtorak.studio/en/docs/the-movement-matrix/]
-
-toc: true  
+canonical:
+  - https://pivtorak.studio/en/docs/the-movement-matrix/
+toc: true
 weight: 2
-
 completion: 100
-
-seo: true  
-distribution: false  
+seo: true
+distribution: false
 search: indexed
-
-## bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {
@@ -111,8 +64,8 @@ search: indexed
   "headline": "⊞ The Movement Matrix",
   "description": "An experimental system for tracking the evolution of articles, series, translations, metadata, publication workflows, and knowledge structures within Pivtorak.Studio.",
   "inLanguage": "en",
-  "datePublished": "2026-06-06T11:00:00+00:00",
-  "dateModified": "2026-06-06T11:00:00+00:00",
+  "datePublished": "2026-06-05T11:00:00+00:00",
+  "dateModified": "2026-06-05T11:00:00+00:00",
   "image": "https://pivtorak.studio/images/the-movement-matrix.webp",
   "author": {
     "@type": "Person",
@@ -166,7 +119,7 @@ Its structure will continue to evolve together with the project itself.
 **Alt-text:**    
 A luminous constellation-like network radiates from a central symbol, representing a living knowledge system connecting articles, translations, metadata, and evolving structures.
 
-_The Movement Matrix AP | Pivtorak.Studio. 06.06.2026  
+_The Movement Matrix AP | Pivtorak.Studio. 05.06.2026  
 © Anna Pivtorak (Kostyuk)
 
 

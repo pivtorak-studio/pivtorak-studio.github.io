@@ -1,0 +1,68 @@
+<table style="border-collapse: collapse; width: 100%;">
+
+<thead>
+<tr>
+<th style="border:1px solid #ccc; padding:8px;">Date</th>
+<th style="border:1px solid #ccc; padding:8px;">Title</th>
+<th style="border:1px solid #ccc; padding:8px;">SEO</th>
+<th style="border:1px solid #ccc; padding:8px;">Distribution</th>
+<th style="border:1px solid #ccc; padding:8px;">Search</th>
+</tr>
+</thead>
+
+<tbody>
+
+{{ range sort site.RegularPages ".Params.publication_date" "desc" }}
+
+<tr>
+
+<td style="border:1px solid #ccc; padding:8px;">
+{{ with .Params.publication_date }}
+{{ dateFormat "2006-01-02" . }}
+{{ end }}
+</td>
+
+<td style="border:1px solid #ccc; padding:8px;">
+<a href="{{ .RelPermalink }}">
+{{ .Title }}
+</a>
+</td>
+
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">
+{{ if .Params.seo }}
+🟢
+{{ else }}
+⚪
+{{ end }}
+</td>
+
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">
+{{ if .Params.distribution }}
+🟢
+{{ else }}
+⚪
+{{ end }}
+</td>
+
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">
+
+{{ if eq .Params.search "indexed" }}
+🟢
+
+{{ else if eq .Params.search "submitted" }}
+🟡
+
+{{ else }}
+⚪
+
+{{ end }}
+
+</td>
+
+</tr>
+
+{{ end }}
+
+</tbody>
+
+</table>

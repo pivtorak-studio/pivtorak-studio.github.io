@@ -10,7 +10,7 @@ weight: 1
 
 </div>
 
-# 003 Manifesto do Investigador Independente: O Direito à Criatividade
+# Manifesto do Investigador Independente: O Direito à Criatividade
 
 ## 1. A Criatividade como Forma de Conhecimento 
 Onde a análise decompõe um objeto em partes, a criatividade reúne uma nova totalidade. Não é um complemento à investigação — é uma forma plena da mesma. Onde a linguagem analítica atinge o seu limite, surge a imagem. Eu modelo hipóteses que não podem ser expressas na linguagem seca das fórmulas.

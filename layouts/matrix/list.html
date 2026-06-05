@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<table>
+
+<thead>
+<tr>
+<th>ID</th>
+<th>Language</th>
+<th>Series</th>
+<th>Index</th>
+<th>Title</th>
+<th>Completion</th>
+</tr>
+</thead>
+
+<tbody>
+
+{{ range site.RegularPages }}
+
+<tr>
+
+<td>{{ .Params.id }}</td>
+
+<td>{{ .Params.language }}</td>
+
+<td>{{ .Params.series }}</td>
+
+<td>{{ .Params.series_index }}</td>
+
+<td>
+<a href="{{ .RelPermalink }}">
+{{ .Title }}
+</a>
+</td>
+
+<td>{{ .Params.completion }}</td>
+
+</tr>
+
+{{ end }}
+
+</tbody>
+
+</table>
+
+{{ end }}

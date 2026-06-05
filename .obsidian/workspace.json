@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt/docs/peaceful-life/peaceful-life-030-a-song-stronger-than-noise.md",
+                "file": "content/pt/docs/the-movement-matrix/site-completion-matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "peaceful-life-030-a-song-stronger-than-noise"
+              "title": "site-completion-matrix"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
+    "content/en/docs/the-movement-matrix/site-completion-matrix.md",
     "content/uk/docs/the-movement-matrix/site-completion-matrix.md",
     "content/ru/docs/the-movement-matrix/site-completion-matrix.md",
     "content/pt/docs/the-movement-matrix/site-completion-matrix.md",
-    "content/en/docs/the-movement-matrix/site-completion-matrix.md",
+    "content/pt/docs/peaceful-life/peaceful-life-030-a-song-stronger-than-noise.md",
     "content/pt/docs/the-movement-matrix/_index.md",
     "content/en/docs/the-movement-matrix/_index.md",
     "content/ru/docs/the-movement-matrix/New Text Document.txt",
@@ -221,7 +222,6 @@
     "content/uk/matrix/_index.md",
     "content/pt/matrix/_index.md",
     "content/ru/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
-    "content/pt/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
     "static/images/peaceful-life-030-a-song-stronger-than-noise.webp",
     "static/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp",
     "static/images/peaceful-life-029-a-safe-place-even-in-the-loudest night.webp",

@@ -51,6 +51,7 @@ completion: 100
 seo: true
 distribution: false
 search: not_submitted
+layout: matrix
 ---
 <script type="application/ld+json">
 {

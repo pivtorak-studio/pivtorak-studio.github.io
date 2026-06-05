@@ -5,9 +5,9 @@ translation_of: the-movement-matrix
 title: ⊞ A Matriz de Movimento
 description: Um sistema experimental para acompanhar a evolução de artigos, séries, traduções, metadados, processos de publicação e estruturas de conhecimento na Pivtorak.Studio.
 summary: A Matriz de Movimento é uma estrutura viva para organizar e observar o crescimento de um arquivo multilingue de conhecimento. Liga a criação de conteúdos, os metadados estruturados, os processos de publicação, a indexação e a evolução do projeto a longo prazo.
-event_date: 2026-06-05T11:00:00
-publication_date: 2026-06-05T11:00:00
-lastmod: 2026-06-05T11:00:00
+event_date: 2026-06-05T10:00:00
+publication_date: 2026-06-05T10:00:00
+lastmod: 2026-06-05T10:00:00
 slug: the-movement-matrix
 tags:
   - AMatrizDeMovimento
@@ -62,8 +62,8 @@ search: indexed
   "headline": "⊞ A Matriz de Movimento",
   "description": "Um sistema experimental para acompanhar a evolução de artigos, séries, traduções, metadados, processos de publicação e estruturas de conhecimento na Pivtorak.Studio.",
   "inLanguage": "pt-PT",
-  "datePublished": "2026-06-05T11:00:00+00:00",
-  "dateModified": "2026-06-05T11:00:00+00:00",
+  "datePublished": "2026-06-05T10:00:00+00:00",
+  "dateModified": "2026-06-05T10:00:00+00:00",
   "image": "https://pivtorak.studio/images/the-movement-matrix.webp",
   "author": {
     "@type": "Person",

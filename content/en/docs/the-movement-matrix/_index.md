@@ -5,9 +5,9 @@ translation_of: the-movement-matrix
 title: ⊞ The Movement Matrix
 description: An experimental system for tracking the evolution of articles, series, translations, metadata, publication workflows, and knowledge structures within Pivtorak.Studio.
 summary: The Movement Matrix is a living framework for organizing and observing the growth of a multilingual knowledge archive. It connects content creation, structured metadata, publication workflows, indexing, and long-term project evolution.
-event_date: 2026-06-05T11:00:00
-publication_date: 2026-06-05T11:00:00
-lastmod: 2026-06-05T11:00:00
+event_date: 2026-06-05T10:00:00
+publication_date: 2026-06-05T10:00:00
+lastmod: 2026-06-05T10:00:00
 slug: the-movement-matrix
 tags:
   - TheMovementMatrix
@@ -64,8 +64,8 @@ search: indexed
   "headline": "⊞ The Movement Matrix",
   "description": "An experimental system for tracking the evolution of articles, series, translations, metadata, publication workflows, and knowledge structures within Pivtorak.Studio.",
   "inLanguage": "en",
-  "datePublished": "2026-06-05T11:00:00+00:00",
-  "dateModified": "2026-06-05T11:00:00+00:00",
+  "datePublished": "2026-06-05T10:00:00+00:00",
+  "dateModified": "2026-06-05T10:00:00+00:00",
   "image": "https://pivtorak.studio/images/the-movement-matrix.webp",
   "author": {
     "@type": "Person",

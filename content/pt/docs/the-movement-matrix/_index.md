@@ -95,19 +95,12 @@ A Matrix funciona como um mapa vivo do projeto.
 Ajuda a acompanhar:
 
 - artigos publicados;
-    
 - versões linguísticas;
-    
 - desenvolvimento das séries;
-    
 - integridade dos metadados;
-    
 - imagens e descrições;
-    
 - dados estruturados (Schema.org);
-    
 - integração na Timeline;
-    
 - estado de publicação e indexação.
     
 

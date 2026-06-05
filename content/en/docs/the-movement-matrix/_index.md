@@ -96,19 +96,12 @@ This Matrix serves as a living overview of the project.
 It helps track:
 
 - published articles;
-    
 - language versions;
-    
 - series development;
-    
 - metadata completeness;
-    
 - images and descriptions;
-    
 - structured data (Schema.org);
-    
 - timeline integration;
-    
 - publication and indexing status.
     
 

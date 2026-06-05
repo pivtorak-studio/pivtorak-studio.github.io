@@ -1,5 +1,5 @@
 ---
-title: The Movement Matrix
+title: ⊞ The Movement Matrix
 description: Content audit and publication dashboard.
 slug: the-movement-matrix
 layout: matrix

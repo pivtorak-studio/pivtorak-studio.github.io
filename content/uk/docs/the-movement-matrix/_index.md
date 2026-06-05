@@ -1,5 +1,5 @@
 ---
-title: Матриця Руху
+title: ⊞ Матриця Руху
 description: Панель аудиту контенту та публікацій.
 slug: the-movement-matrix
 layout: matrix

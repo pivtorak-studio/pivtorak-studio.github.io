@@ -1,5 +1,5 @@
 ---
-title: Матрица Движения
+title: ⊞ Матрица Движения
 description: Панель мониторинга аудита контента и публикаций.
 slug: the-movement-matrix
 layout: matrix

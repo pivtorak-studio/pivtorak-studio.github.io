@@ -1,5 +1,5 @@
 ---
-title: A Matriz de Movimento
+title: ⊞ A Matriz de Movimento
 description: Painel de auditoria e publicação de conteúdos.
 slug: the-movement-matrix
 layout: matrix

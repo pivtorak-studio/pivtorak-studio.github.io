@@ -82,3 +82,5 @@ layout: matrix
 </script>
 
 TEST CONTENT
+
+{{< site-completion-matrix >}}

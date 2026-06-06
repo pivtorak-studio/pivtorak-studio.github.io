@@ -93,7 +93,7 @@ search: indexed
 </script>
 
 ![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon.webp)
-![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)
+
 
 # 🕊️🌅🌍 Endless Day Horizon
 
@@ -110,3 +110,5 @@ An Arctic Tern flies above a polar ocean beneath a giant sun that never sets bel
 
 _The Majestic Discipline. Endless Day Horizon. AP | Pivtorak.Studio. 06.06.2026_  
 © Anna Pivtorak (Kostyuk)
+
+![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)

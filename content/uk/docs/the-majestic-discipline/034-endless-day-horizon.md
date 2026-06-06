@@ -93,7 +93,7 @@ search: indexed
 </script>
 
 ![Нескінченний День Масштабу](/images/the-majestic-discipline-034-endless-day-horizon.webp)
-![Нескінченний День Масштабу](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)
+
 # 🕊️🌅🌍 Нескінченний День Масштабу
 
 **Endless Day Horizon**
@@ -112,3 +112,5 @@ search: indexed
 
 _Велична Дисципліна. Нескінченний День Масштабу. AP | Pivtorak.Studio. 06.06.2026_  
 © Анна Півторак (Костюк)
+
+![Нескінченний День Масштабу](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)

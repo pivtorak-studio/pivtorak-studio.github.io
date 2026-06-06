@@ -93,7 +93,7 @@ search: indexed
 </script>
 
 ![Dia Infinito Horizonte](/images/the-majestic-discipline-034-endless-day-horizon.webp)
-![Dia Infinito Horizonte](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)
+
 # 🕊️🌅🌍 Dia Infinito Horizonte
 
 **Endless Day Horizon**
@@ -112,3 +112,5 @@ Uma andorinha-do-mar-ártica voa sobre o oceano polar diante de um enorme sol qu
 
 _A Disciplina Majestosa. Dia Infinito Horizonte. AP | Pivtorak.Studio. 06.06.2026_  
 © Anna Pivtorak (Kostyuk)
+
+![Dia Infinito Horizonte](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)

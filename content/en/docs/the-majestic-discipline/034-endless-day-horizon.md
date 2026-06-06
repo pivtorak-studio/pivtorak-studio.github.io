@@ -93,7 +93,7 @@ search: indexed
 </script>
 
 ![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon.webp)
-
+![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)
 
 # 🕊️🌅🌍 Endless Day Horizon
 

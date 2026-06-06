@@ -93,7 +93,7 @@ search: indexed
 </script>
 
 ![Бесконечный День Масштаба](/images/the-majestic-discipline-034-endless-day-horizon.webp)
-
+![Бесконечный День Масштаба](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)
 # 🕊️🌅🌍 Бесконечный День Масштаба
 
 **Endless Day Horizon**

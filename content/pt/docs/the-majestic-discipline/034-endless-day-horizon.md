@@ -5,9 +5,9 @@ translation_of: the-majestic-discipline-034-endless-day-horizon
 title: 034 Dia Infinito Horizonte
 description: A primeira etapa da jornada da andorinha-do-mar-ártica. Uma reflexão sobre escala planetária, luz contínua e a passagem da visão local para um horizonte global.
 summary: A andorinha-do-mar-ártica segue a luz através dos hemisférios. Dia Infinito Horizonte explora clareza, direção e a disciplina de ver para além das circunstâncias imediatas.
-event_date: 2026-06-06T22:00:00
-publication_date: 2026-06-06T22:00:00
-lastmod: 2026-06-06T22:00:00
+event_date: 2026-06-06T21:00:00
+publication_date: 2026-06-06T21:00:00
+lastmod: 2026-06-06T21:00:00
 slug: 034-endless-day-horizon
 tags:
   - ADisciplinaMajestosa
@@ -65,8 +65,8 @@ search: indexed
   "headline":"Dia Infinito Horizonte",
   "description":"A primeira etapa da jornada da andorinha-do-mar-ártica. Uma reflexão sobre escala planetária, luz contínua e a passagem da visão local para um horizonte global.",
   "inLanguage":"pt-PT",
-  "datePublished":"2026-06-06T22:00:00+00:00",
-  "dateModified":"2026-06-06T22:00:00+00:00",
+  "datePublished":"2026-06-06T21:00:00+00:00",
+  "dateModified":"2026-06-06T21:00:00+00:00",
   "url":"https://pivtorak.studio/pt/docs/the-majestic-discipline/endless-day-horizon/",
   "mainEntityOfPage":"https://pivtorak.studio/pt/docs/the-majestic-discipline/endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",

@@ -5,9 +5,9 @@ translation_of: the-majestic-discipline-034-endless-day-horizon
 title: 034 Нескінченний День Масштабу
 description: Перший етап шляху арктичної крячки. Роздуми про планетарний масштаб, безперервне світло та перехід від локального бачення до глобального горизонту.
 summary: Арктична крячка слідує за світлом двох півкуль. Нескінченний День Масштабу досліджує ясність, напрямок і дисципліну бачення власної місії в масштабі всієї планети.
-event_date: 2026-06-06T22:00:00
-publication_date: 2026-06-06T22:00:00
-lastmod: 2026-06-06T22:00:00
+event_date: 2026-06-06T21:00:00
+publication_date: 2026-06-06T21:00:00
+lastmod: 2026-06-06T21:00:00
 slug: 034-endless-day-horizon
 tags:
   - ВеличнаДисципліна
@@ -65,8 +65,8 @@ search: indexed
   "headline":"Нескінченний День Масштабу",
   "description":"Перший етап шляху арктичної крячки. Роздуми про планетарний масштаб, безперервне світло та перехід від локального бачення до глобального горизонту.",
   "inLanguage":"uk",
-  "datePublished":"2026-06-06T22:00:00+00:00",
-  "dateModified":"2026-06-06T22:00:00+00:00",
+  "datePublished":"2026-06-06T21:00:00+00:00",
+  "dateModified":"2026-06-06T21:00:00+00:00",
   "url":"https://pivtorak.studio/uk/docs/the-majestic-discipline/endless-day-horizon/",
   "mainEntityOfPage":"https://pivtorak.studio/uk/docs/the-majestic-discipline/endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",

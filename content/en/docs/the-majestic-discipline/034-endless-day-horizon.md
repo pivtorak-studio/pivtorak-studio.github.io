@@ -5,9 +5,9 @@ translation_of: the-majestic-discipline-034-endless-day-horizon
 title: 034 Endless Day Horizon
 description: The first stage of the Arctic Tern's journey. A reflection on planetary scale, endless daylight, and the transition from local vision to a global horizon.
 summary: The Arctic Tern follows the light across hemispheres. Endless Day Horizon explores clarity, direction, and the discipline of seeing beyond immediate circumstances toward a planetary-scale mission.
-event_date: 2026-06-06T22:00:00
-publication_date: 2026-06-06T22:00:00
-lastmod: 2026-06-06T22:00:00
+event_date: 2026-06-06T21:00:00
+publication_date: 2026-06-06T21:00:00
+lastmod: 2026-06-06T21:00:00
 slug: 034-endless-day-horizon
 tags:
   - TheMajesticDiscipline
@@ -65,8 +65,8 @@ search: indexed
   "headline":"Endless Day Horizon",
   "description":"The first stage of the Arctic Tern's journey. A reflection on planetary scale, endless daylight, and the transition from local vision to a global horizon.",
   "inLanguage":"en",
-  "datePublished":"2026-06-06T22:00:00+00:00",
-  "dateModified":"2026-06-06T22:00:00+00:00",
+  "datePublished":"2026-06-06T21:00:00+00:00",
+  "dateModified":"2026-06-06T21:00:00+00:00",
   "url":"https://pivtorak.studio/en/docs/the-majestic-discipline/endless-day-horizon/",
   "mainEntityOfPage":"https://pivtorak.studio/en/docs/the-majestic-discipline/endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",

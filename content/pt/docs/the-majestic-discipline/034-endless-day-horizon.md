@@ -107,10 +107,11 @@ Interiormente, esta etapa está ligada à clareza. A calma permite ver a linha d
 **Onde eu voo, a escuridão não existe. O meu caminho é luz eterna.**  
 **Where I fly, darkness does not exist. My path is eternal light.**
 
+![Dia Infinito Horizonte](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)
+
 **Alt-text:**  
 Uma andorinha-do-mar-ártica voa sobre o oceano polar diante de um enorme sol que nunca se põe. Finas linhas douradas de uma grelha geodésica terrestre surgem no céu. A atmosfera transmite luz, escala e movimento contínuo à volta do planeta.
 
 _A Disciplina Majestosa. Dia Infinito Horizonte. AP | Pivtorak.Studio. 06.06.2026_  
 © Anna Pivtorak (Kostyuk)
 
-![Dia Infinito Horizonte](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)

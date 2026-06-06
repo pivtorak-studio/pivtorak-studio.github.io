@@ -105,10 +105,11 @@ Internally, this stage is connected with clarity. Stillness allows one to see th
 
 **Where I fly, darkness does not exist. My path is eternal light.**
 
+![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)
+
 **Alt-text:**  
 An Arctic Tern flies above a polar ocean beneath a giant sun that never sets below the horizon. Thin golden geodesic lines of the Earth appear across the sky. The atmosphere conveys light, scale, and continuous planetary movement.
 
 _The Majestic Discipline. Endless Day Horizon. AP | Pivtorak.Studio. 06.06.2026_  
 © Anna Pivtorak (Kostyuk)
 
-![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon-01.webp)

@@ -144,7 +144,7 @@ A Matrix faz parte da iniciativa The Movement Matrix e funciona como uma ferrame
 **Alt-text:**   
 Um painel estruturado que visualiza o estado de conclusão de artigos, metadados, processos de publicação e indexação num arquivo multilingue de conhecimento.
 
-_A Matriz de Movimento. Matriz de Conclusão do Site. AP | Pivtorak.Studio. 05.06.2026_ 
+_A Matriz de Movimento. Matriz de Conclusão do Site. AP | Pivtorak.Studio. 05.06.2026_     
 © Anna Pivtorak (Kostyuk)
 
 {{< site-completion-matrix >}}

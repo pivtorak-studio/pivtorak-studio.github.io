@@ -145,7 +145,7 @@ The Matrix is part of The Movement Matrix initiative and serves as an evolving t
 **Alt-text:**    
 A structured dashboard visualizing the completion status of articles, metadata, publication workflows, and indexing across a multilingual knowledge archive.
 
-_The Movement Matrix. Site Completion Matrix. AP | Pivtorak.Studio. 05.06.2026  
+_The Movement Matrix. Site Completion Matrix. AP | Pivtorak.Studio. 05.06.2026     
 © Anna Pivtorak (Kostyuk)
 
 {{< site-completion-matrix >}}

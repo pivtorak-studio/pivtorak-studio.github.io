@@ -126,11 +126,11 @@ A página foi preparada para publicação ou distribuição através de platafor
 - YouTube;  
 - TikTok.  
 
-### Pesquisa
+## Pesquisa
 
 O estado atual de indexação da página.
 
-Legenda:
+## Legenda:
 
 - ⚪ Não iniciado   
 - 🟡 Em progresso   

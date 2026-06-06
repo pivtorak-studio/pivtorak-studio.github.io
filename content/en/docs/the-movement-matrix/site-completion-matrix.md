@@ -114,7 +114,7 @@ The page has the essential elements required for long-term visibility and discov
 - Timeline integration.   
 
 
-### Distribution
+## Distribution
 
 The page has been prepared for publication or distribution through external platforms:
 
@@ -127,11 +127,11 @@ The page has been prepared for publication or distribution through external plat
 - YouTube;  
 - TikTok.   
 
-### Search
+## Search
 
 The current indexing status of the page.
 
-Legend:
+## Legend:
 
 - ⚪ Not started  
 - 🟡 In progress  

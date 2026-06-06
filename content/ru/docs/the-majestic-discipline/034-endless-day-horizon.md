@@ -54,8 +54,8 @@ toc: true
 weight: 34
 completion: 100
 seo: true
-distribution: true
-search: indexed
+distribution: false
+search: not_submitted
 ---
 <script type="application/ld+json">
 {

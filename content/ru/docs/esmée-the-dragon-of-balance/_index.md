@@ -2,7 +2,7 @@
 title: 🐉⚖️ ESMÉE — Дракон Равновесия
 description: Художественно-концептуальная серия о равновесии как состоянии сознания. Esmée восстанавливает порядок через присутствие.
 bookCollapseSection: true
-weight: 75
+weight: 73
 ---
 
 <script type="application/ld+json">

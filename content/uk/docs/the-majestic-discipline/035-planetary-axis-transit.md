@@ -2,7 +2,7 @@
 id: the-majestic-discipline-035-planetary-axis-transit
 language: uk
 translation_of: the-majestic-discipline-035-planetary-axis-transit
-title: 035 Вертикаль Планети Руху
+title: 035 Вісь Планетарного Руху
 description: Другий етап шляху арктичної крячки. Роздуми про витривалість, безперервність і здатність утримувати напрямок на величезних відстанях без видимих орієнтирів.
 summary: Мандруючи між полюсами Землі, арктична крячка слідує невидимій осі над відкритим океаном. Вертикаль Планети Руху досліджує витривалість, точність і дисципліну довгого маршруту.
 event_date: 2026-06-07T09:00:00
@@ -73,7 +73,7 @@ guiding_question: Як я утримую свій курс?
   "@context":"https://schema.org",
   "@type":"Article",
   "@id":"https://pivtorak.studio/uk/docs/the-majestic-discipline/035-planetary-axis-transit/#article",
-  "headline":"Вертикаль Планети Руху",
+  "headline":"Вісь Планетарного Руху",
   "description":"Другий етап шляху арктичної крячки. Роздуми про витривалість, безперервність і здатність утримувати напрямок на величезних відстанях без видимих орієнтирів.",
   "inLanguage":"uk",
   "datePublished":"2026-06-07T09:00:00+00:00",

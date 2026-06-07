@@ -49,26 +49,37 @@ related:
 authors:
   - Anna Pivtorak
 draft: false
-canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/endless-day-horizon/
+canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/034-endless-day-horizon/
 toc: true
 weight: 34
 completion: 100
 seo: true
 distribution: true
 search: indexed
+symbol: Arctic Tern
+symbol_type: bird
+cycle: Arctic Tern
+cycle_part: "1"
+discipline_principle:
+  - Vision
+  - Scale
+  - Clarity
+system_level: planetary
+navigation_mode: celestial
+guiding_question: What do I see beyond the horizon?
 ---
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
   "@type":"Article",
-  "@id":"https://pivtorak.studio/en/docs/the-majestic-discipline/endless-day-horizon/#article",
+  "@id":"https://pivtorak.studio/en/docs/the-majestic-discipline/034-endless-day-horizon/#article",
   "headline":"Endless Day Horizon",
   "description":"The first stage of the Arctic Tern's journey. A reflection on planetary scale, endless daylight, and the transition from local vision to a global horizon.",
   "inLanguage":"en",
   "datePublished":"2026-06-06T21:00:00+00:00",
   "dateModified":"2026-06-06T21:00:00+00:00",
-  "url":"https://pivtorak.studio/en/docs/the-majestic-discipline/endless-day-horizon/",
-  "mainEntityOfPage":"https://pivtorak.studio/en/docs/the-majestic-discipline/endless-day-horizon/",
+  "url":"https://pivtorak.studio/en/docs/the-majestic-discipline/034-endless-day-horizon/",
+  "mainEntityOfPage":"https://pivtorak.studio/en/docs/the-majestic-discipline/034-endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",
   "author":{
     "@type":"Person",

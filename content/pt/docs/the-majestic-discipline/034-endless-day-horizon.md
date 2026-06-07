@@ -49,26 +49,37 @@ related:
 authors:
   - Anna Pivtorak
 draft: false
-canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/endless-day-horizon/
+canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/034-endless-day-horizon/
 toc: true
 weight: 34
 completion: 100
 seo: true
 distribution: true
 search: indexed
+symbol: Andorinha-do-mar-ártica
+symbol_type: ave
+cycle: Andorinha-do-mar-ártica
+cycle_part: "1"
+discipline_principle:
+  - Visão
+  - Escala
+  - Clareza
+system_level: planetário
+navigation_mode: celeste
+guiding_question: O que vejo para além do horizonte?
 ---
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
   "@type":"Article",
-  "@id":"https://pivtorak.studio/pt/docs/the-majestic-discipline/endless-day-horizon/#article",
+  "@id":"https://pivtorak.studio/pt/docs/the-majestic-discipline/034-endless-day-horizon/#article",
   "headline":"Dia Infinito Horizonte",
   "description":"A primeira etapa da jornada da andorinha-do-mar-ártica. Uma reflexão sobre escala planetária, luz contínua e a passagem da visão local para um horizonte global.",
   "inLanguage":"pt-PT",
   "datePublished":"2026-06-06T21:00:00+00:00",
   "dateModified":"2026-06-06T21:00:00+00:00",
-  "url":"https://pivtorak.studio/pt/docs/the-majestic-discipline/endless-day-horizon/",
-  "mainEntityOfPage":"https://pivtorak.studio/pt/docs/the-majestic-discipline/endless-day-horizon/",
+  "url":"https://pivtorak.studio/pt/docs/the-majestic-discipline/034-endless-day-horizon/",
+  "mainEntityOfPage":"https://pivtorak.studio/pt/docs/the-majestic-discipline/034-endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",
   "author":{
     "@type":"Person",

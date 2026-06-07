@@ -49,26 +49,37 @@ related:
 authors:
   - Анна Пивторак
 draft: false
-canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/endless-day-horizon/
+canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/034-endless-day-horizon/
 toc: true
 weight: 34
 completion: 100
 seo: true
 distribution: false
 search: not_submitted
+symbol: Арктическая крачка
+symbol_type: птица
+cycle: Арктическая крачка
+cycle_part: "1"
+discipline_principle:
+  - Видение
+  - Масштаб
+  - Ясность
+system_level: планетарный
+navigation_mode: небесный
+guiding_question: Что я вижу за горизонтом?
 ---
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
   "@type":"Article",
-  "@id":"https://pivtorak.studio/ru/docs/the-majestic-discipline/endless-day-horizon/#article",
+  "@id":"https://pivtorak.studio/ru/docs/the-majestic-discipline/034-endless-day-horizon/#article",
   "headline":"Бесконечный День Масштаба",
   "description":"Первый этап пути арктической крачки. Размышление о планетарном масштабе, непрерывном свете и переходе от локального взгляда к глобальному горизонту.",
   "inLanguage":"ru",
   "datePublished":"2026-06-06T21:00:00+00:00",
   "dateModified":"2026-06-06T21:00:00+00:00",
-  "url":"https://pivtorak.studio/ru/docs/the-majestic-discipline/endless-day-horizon/",
-  "mainEntityOfPage":"https://pivtorak.studio/ru/docs/the-majestic-discipline/endless-day-horizon/",
+  "url":"https://pivtorak.studio/ru/docs/the-majestic-discipline/034-endless-day-horizon/",
+  "mainEntityOfPage":"https://pivtorak.studio/ru/docs/the-majestic-discipline/034-endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",
   "author":{
     "@type":"Person",

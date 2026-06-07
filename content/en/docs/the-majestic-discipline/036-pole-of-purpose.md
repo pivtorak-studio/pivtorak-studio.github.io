@@ -120,5 +120,5 @@ Internally, this stage is connected with completion and calm. Stillness no longe
 **Alt-text:**  
 An Arctic Tern descends onto the mirror-like ice of Antarctica. Polar lights glow around it while the sky remains bright. The bird's reflection creates the shape of an hourglass. The atmosphere conveys completion, navigational triumph, and the unity of Earth's two poles.
 
-_The Majestic Discipline. Polar Point Arrival. AP | Pivtorak.Studio. 07.06.2026_  
+_The Majestic Discipline. Pole of Purpose. AP | Pivtorak.Studio. 07.06.2026_  
 © Anna Pivtorak (Kostyuk)

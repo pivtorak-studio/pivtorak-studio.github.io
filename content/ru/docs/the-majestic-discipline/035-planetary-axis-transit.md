@@ -103,9 +103,9 @@ guiding_question: Как я удерживаю свой курс?
 }
 </script>
 
-![Вертикаль Планеты Движения](/images/the-majestic-discipline-035-planetary-axis-transit.webp)
+![Ось Планетарного Движения](/images/the-majestic-discipline-035-planetary-axis-transit.webp)
 
-# 🕊️🌊📍 Вертикаль Планеты Движения
+# 🕊️🌊📍 Ось Планетарного Движения
 
 **Planetary Axis Transit**
 
@@ -118,10 +118,10 @@ guiding_question: Как я удерживаю свой курс?
 **Океан подо мной не имеет границ, но у меня есть ось. Масштаб измеряется моей выносливостью.**  
 **The ocean beneath me has no boundaries, but I have an axis. Scale is measured by my endurance.**
 
-![Вертикаль Планеты Движения](/images/the-majestic-discipline-035-planetary-axis-transit-01.webp)
+![Ось Планетарного Движения](/images/the-majestic-discipline-035-planetary-axis-transit-01.webp)
 
 **Alt-text:**  
 Арктическая крачка парит над глубоким ультрамариновым океаном. Сквозь её тело проходит тонкая вертикальная линия нулевого меридиана. На поверхности воды видны плавные линии океанических течений. Атмосфера передаёт баланс, выносливость и непрерывное движение между полюсами.
 
-_Величественная Дисциплина. Вертикаль Планеты Движения. AP | Pivtorak.Studio. 07.06.2026_  
+_Величественная Дисциплина. Ось Планетарного Движения. AP | Pivtorak.Studio. 07.06.2026_  
 © Анна Пивторак (Костюк)

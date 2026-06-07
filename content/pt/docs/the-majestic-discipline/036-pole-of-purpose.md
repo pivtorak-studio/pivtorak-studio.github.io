@@ -107,7 +107,7 @@ guiding_question: Onde convergem todos os meus caminhos?
 
 # 🕊️❄️⊙ Polo do Propósito
 
-**Polar Point Arrival**
+**Pole of Purpose**
 
 A andorinha-do-mar-ártica conclui a sua extraordinária viagem ao alcançar o polo oposto do planeta. Desce sobre a superfície espelhada do gelo antártico, onde a luz se reflete em todas as direções. A sua figura e o reflexo perfeito formam a imagem de uma ampulheta — símbolo de um ciclo concluído. Esta obra fala do momento em que o caminho deixa de ser uma procura e se torna uma prova.
 
@@ -123,5 +123,5 @@ Interiormente, esta etapa está ligada à conclusão e à serenidade. A calma j�
 **Alt-text:**  
 Uma andorinha-do-mar-ártica pousa sobre a superfície espelhada do gelo da Antártida. As luzes polares brilham ao redor enquanto o céu permanece claro. O reflexo da ave forma a imagem de uma ampulheta. A atmosfera transmite conclusão, triunfo de navegação e a união dos dois polos da Terra.
 
-_A Disciplina Majestosa. Ponto Destino Polar. AP | Pivtorak.Studio. 07.06.2026_  
+_A Disciplina Majestosa. Polo do Propósito. AP | Pivtorak.Studio. 07.06.2026_  
 © Anna Pivtorak (Kostyuk)

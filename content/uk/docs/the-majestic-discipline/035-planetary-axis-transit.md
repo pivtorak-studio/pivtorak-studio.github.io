@@ -103,9 +103,9 @@ guiding_question: Як я утримую свій курс?
 }
 </script>
 
-![Вертикаль Планети Руху](/images/the-majestic-discipline-035-planetary-axis-transit.webp)
+![Вісь Планетарного Руху](/images/the-majestic-discipline-035-planetary-axis-transit.webp)
 
-# 🕊️🌊📍 Вертикаль Планети Руху
+# 🕊️🌊📍 Вісь Планетарного Руху
 
 **Planetary Axis Transit**
 
@@ -118,10 +118,10 @@ guiding_question: Як я утримую свій курс?
 **Океан піді мною не має меж, але я маю вісь. Масштаб вимірюється моєю витривалістю.**  
 **The ocean beneath me has no boundaries, but I have an axis. Scale is measured by my endurance.**
 
-![Вертикаль Планети Руху](/images/the-majestic-discipline-035-planetary-axis-transit-01.webp)
+![Вісь Планетарного Руху](/images/the-majestic-discipline-035-planetary-axis-transit-01.webp)
 
 **Alt-text:**  
 Арктична крячка ширяє над глибоким ультрамариновим океаном. Крізь її тіло проходить тонка вертикальна лінія нульового меридіана. На поверхні води видно плавні лінії океанічних течій. Атмосфера передає баланс, витривалість і безперервний рух між полюсами.
 
-_Велична Дисципліна. Вертикаль Планети Руху. AP | Pivtorak.Studio. 07.06.2026_  
+_Велична Дисципліна. Вісь Планетарного Руху. AP | Pivtorak.Studio. 07.06.2026_  
 © Анна Півторак (Костюк)

@@ -4,7 +4,7 @@ description:
 bookCollapseSection: true
 weight: 75
 ---
-⊙ Величественная Дисциплина
+⊙ Велична Дисципліна
 
 ---
 {{< section >}}

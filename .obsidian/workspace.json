@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt/docs/the-majestic-discipline/036-pole-of-purpose.md",
+                "file": "content/uk/docs/the-majestic-discipline/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "036-pole-of-purpose"
+              "title": "_index"
             }
           }
         ]
@@ -185,13 +185,27 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
+    "content/ru/docs/the-majestic-discipline/_index.md",
+    "content/pt/docs/the-majestic-discipline/_index.md",
+    "content/en/docs/the-majestic-discipline/_index.md",
+    "content/en/docs/the-majestic-discipline/034-endless-day-horizon.md",
+    "content/uk/docs/the-majestic-discipline/034-endless-day-horizon.md",
+    "content/uk/docs/the-majestic-discipline/_index.md",
+    "content/ru/docs/the-majestic-discipline/036-pole-of-purpose.md",
+    "content/ru/docs/the-majestic-discipline/035-planetary-axis-transit.md",
+    "content/ru/docs/the-majestic-discipline/034-endless-day-horizon.md",
+    "static/images/the-majestic-discipline.webp",
+    "static/images/Unconfirmed 358185.crdownload",
+    "content/pt/docs/the-majestic-discipline/034-endless-day-horizon.md",
+    "content/en/docs/the-majestic-discipline/036-pole-of-purpose.md",
+    "content/pt/docs/the-majestic-discipline/036-pole-of-purpose.md",
+    "content/pt/docs/the-majestic-discipline/035-planetary-axis-transit.md",
+    "content/uk/docs/the-majestic-discipline/036-pole-of-purpose.md",
+    "content/uk/docs/the-majestic-discipline/035-planetary-axis-transit.md",
+    "content/en/docs/the-movement-matrix/_index.md",
     "content/pt/docs/the-movement-matrix/_index.md",
     "content/uk/docs/the-movement-matrix/_index.md",
     "content/ru/docs/the-movement-matrix/_index.md",
-    "content/uk/docs/the-majestic-discipline/_index.md",
-    "content/ru/docs/the-majestic-discipline/_index.md",
-    "content/en/docs/the-majestic-discipline/036-pole-of-purpose.md",
-    "content/pt/docs/the-majestic-discipline/036-pole-of-purpose.md",
     "static/images/the-majestic-discipline-036-pole-of-purpose-01.webp",
     "static/images/Unconfirmed 531757.crdownload",
     "static/images/the-majestic-discipline-036-pole-of-purpose.webp",
@@ -208,18 +222,13 @@
     "static/images/Unconfirmed 219303.crdownload",
     "content/uk/docs/the-majestic-discipline/New Text Document.txt",
     "content/uk/docs/esmée-the-dragon-of-balance/_index.md",
-    "content/ru/docs/esmée-the-dragon-of-balance/_index.md",
-    "content/pt/docs/esmée-the-dragon-of-balance/_index.md",
-    "content/en/docs/esmée-the-dragon-of-balance/_index.md",
     "static/images/the-majestic-discipline-034-endless-day-horizon-01.webp",
     "static/images/Unconfirmed 160487.crdownload",
     "static/images/the-majestic-discipline-034-endless-day-horizon.webp",
     "static/images/Unconfirmed 979774.crdownload",
     "content/uk/docs/the-majestic-discipline",
-    "content/ru/docs/the-majestic-discipline",
     "static/images/the-movement-matrix-site-completion-matrix.webp",
     "static/images/the-movement-matrix.webp",
-    "static/images/peaceful-life-030-a-song-stronger-than-noise.webp",
-    "static/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp"
+    "static/images/peaceful-life-030-a-song-stronger-than-noise.webp"
   ]
 }

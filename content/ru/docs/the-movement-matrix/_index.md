@@ -51,6 +51,7 @@ completion: 100
 seo: true
 distribution: false
 search: indexed
+bookCollapseSection: true
 ---
 <script type="application/ld+json">
 {

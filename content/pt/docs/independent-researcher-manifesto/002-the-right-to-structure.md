@@ -4,13 +4,9 @@ descriptions: Declaração do direito de criar sistemas de significado autónomo
 weight: 1
 ---
 
-<div class="float-right">
+![Manifesto da Investigadora Independente: O Direito de Estruturar](/images/independent-researcher-manifesto-002-the-right-to-structure.webp)
 
-![O Direito de Estruturar](/images/independent-researcher-manifesto-002-the-right-to-structure-pivtorak-studio-2026.webp)
-
-</div>
-
-# Manifesto do Investigador Independente: O Direito de Estruturar  
+# Manifesto da Investigadora Independente: O Direito de Estruturar  
 
 ## 1. Além da Interpretação  
 A interpretação é apenas o primeiro nível. O verdadeiro poder começa onde a estrutura é formada. Eu não apenas leio sistemas — eu defino a sua configuração.

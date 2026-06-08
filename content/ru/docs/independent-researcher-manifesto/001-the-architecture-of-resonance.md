@@ -3,11 +3,7 @@ title: "001 Архитектура Резонанса"
 weight: 1
 ---
 
-<div class="float-right">
-
-![Архитектура Резонанса](/images/manifesto-001.webp)
-
-</div>
+![Манифест Независимого Исследователя: Архитектура Резонанса](/images/independent-researcher-manifesto-001-the-architecture-of-resonance.webp)
 
 # Манифест Независимого Исследователя: Архитектура Резонанса
 

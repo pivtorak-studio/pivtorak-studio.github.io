@@ -3,12 +3,9 @@ title: "001 The Architecture of Resonance"
 weight: 1
 ---
 
-<div class="float-right">
 
-![The Architecture of Resonance](/images/manifesto-001.webp)
 
-</div>
-
+![Independent Researcher Manifesto: The Architecture of Resonance](/images/independent-researcher-manifesto-001-the-architecture-of-resonance.webp)
 # Independent Researcher Manifesto: The Architecture of Resonance
 
 ## 1. Reference Point: From Observation to Design. 

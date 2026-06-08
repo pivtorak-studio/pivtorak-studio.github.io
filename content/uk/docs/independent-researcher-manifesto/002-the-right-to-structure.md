@@ -4,11 +4,7 @@ descriptions: Декларація права на створення автон
 weight: 1
 ---
 
-<div class="float-right">
-
-![Право Структурувати](/images/independent-researcher-manifesto-002-the-right-to-structure-pivtorak-studio-2026.webp)
-
-</div>
+![Маніфест Незалежного Дослідника: Право Структурувати](/images/independent-researcher-manifesto-002-the-right-to-structure.webp)
 
 # Маніфест Незалежного Дослідника: Право Структурувати
 

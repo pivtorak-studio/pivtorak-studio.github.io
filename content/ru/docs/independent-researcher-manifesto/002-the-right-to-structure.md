@@ -4,11 +4,7 @@ descriptions: Декларация права на создание автоно
 weight: 1
 ---
 
-<div class="float-right">
-
-![Право структурировать](/images/independent-researcher-manifesto-002-the-right-to-structure-pivtorak-studio-2026.webp)
-
-</div>
+![Манифест Независимого Исследователя](/images/independent-researcher-manifesto-002-the-right-to-structure.webp)
 
 # Манифест Независимого Исследователя: Право структурировать  
 

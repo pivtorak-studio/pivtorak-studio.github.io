@@ -4,14 +4,11 @@ descriptions: A manifesto on creativity as the ultimate form of cognitive modeli
 weight: 1
 ---
 
-<div class="float-right">
-
-![The Right to Creativity](/images/independent-researcher-manifesto-003-the-right-to-creativity-pivtorak-studio-2026.webp)
-
-</div>
 
 
-# Manifesto of the Independent Researcher: The Right to Creativity
+![Independent Researcher Manifesto: The Right to Creativity](/images/independent-researcher-manifesto-003-the-right-to-creativity.webp)
+
+# Independent Researcher Manifesto: The Right to Creativity
 
 ## 1. Creativity as a Form of Inquiry
 Where analysis disassembles an object into parts, creativity assembles a new wholeness. It is not a supplement to research — it is a full-fledged form of it. Where analytical language reaches its limit, the image emerges. I model hypotheses that cannot be expressed in the dry language of formulas.

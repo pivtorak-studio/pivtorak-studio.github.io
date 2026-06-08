@@ -4,11 +4,7 @@ descriptions: Маніфест про творчість як вищу форм�
 weight: 1
 ---
 
-<div class="float-right">
-
-![Право на Творчість](/images/independent-researcher-manifesto-003-the-right-to-creativity-pivtorak-studio-2026.webp)
-
-</div>
+![Маніфест Незалежного Дослідника: Право на Творчість](/images/independent-researcher-manifesto-003-the-right-to-creativity.webp)
 
 # Маніфест Незалежного Дослідника: Право на Творчість
 

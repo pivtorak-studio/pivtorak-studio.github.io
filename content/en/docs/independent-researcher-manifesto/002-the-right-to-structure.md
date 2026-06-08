@@ -4,13 +4,10 @@ descriptions: A declaration of the right to create autonomous meaning systems. D
 weight: 1
 ---
 
-<div class="float-right">
 
-![The Right to Structure](/images/independent-researcher-manifesto-002-the-right-to-structure-pivtorak-studio-2026.webp)
+![Independent Researcher Manifesto: The Right to Structure](/images/independent-researcher-manifesto-002-the-right-to-structure.webp)
 
-</div>
-
-# Manifesto of the Independent Researcher: The Right to Structure  
+# Independent Researcher Manifesto: The Right to Structure  
 
 ## 1. Beyond Interpretation  
 Interpretation is only the first level.  

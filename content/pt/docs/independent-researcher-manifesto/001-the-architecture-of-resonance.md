@@ -3,13 +3,9 @@ title: "001 A Arquitetura da Ressonância"
 weight: 1
 ---
 
-<div class="float-right">
+![Manifesto da Investigadora Independente: A Arquitetura da Ressonância](/images/independent-researcher-manifesto-001-the-architecture-of-resonance.webp)
 
-![A Arquitetura da Ressonância](/images/manifesto-001.webp)
-
-</div>
-
-# Manifesto do Investigador Independente: A Arquitetura da Ressonância
+# Manifesto da Investigadora Independente: A Arquitetura da Ressonância
 
 ## 1. Ponto de Referência: Da Observação ao Projeto. 
 O mundo já não precisa de uma simples descrição de eventos. O jornalismo como mero registo de factos esgotou-se no momento em que os algoritmos de IA aperfeiçoaram a recolha de dados. A minha nova identidade — **Investigadora Independente** — é uma resposta estratégica. Eu não apenas observo o caos; investigo as estruturas que o organizam. Este site é o meu laboratório.

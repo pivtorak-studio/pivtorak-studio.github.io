@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/uk/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
+                "file": "content/uk/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004-the-right-to-simplicity"
+              "title": "003-the-right-to-creativity"
             }
           }
         ]
@@ -185,6 +185,21 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
+    "content/uk/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
+    "content/uk/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
+    "content/uk/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
+    "content/ru/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
+    "content/ru/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
+    "content/ru/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
+    "content/ru/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
+    "content/pt/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
+    "content/pt/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
+    "content/pt/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
+    "content/pt/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
+    "content/en/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
+    "content/en/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
+    "content/en/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
+    "content/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
     "static/images/Unconfirmed 51377.crdownload",
     "static/images/Unconfirmed 571751.crdownload",
     "static/images/Unconfirmed 510842.crdownload",
@@ -194,23 +209,8 @@
     "static/images/independent-researcher-manifesto-004-the-right-to-simplicity.webp",
     "static/images/Unconfirmed 873982.crdownload",
     "content/uk/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
-    "content/ru/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
-    "content/pt/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
     "content/en/docs/the-majestic-discipline/035-planetary-axis-transit.md",
-    "content/en/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
-    "content/uk/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
-    "content/ru/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
-    "content/pt/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
-    "content/en/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
-    "content/uk/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
-    "content/ru/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
-    "content/pt/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
-    "content/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
-    "content/en/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
-    "content/pt/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
-    "content/uk/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
     "content/uk/docs/the-majestic-discipline/_index.md",
-    "content/ru/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
     "content/ru/docs/the-majestic-discipline/_index.md",
     "content/pt/docs/the-majestic-discipline/_index.md",
     "content/en/docs/the-majestic-discipline/_index.md",
@@ -229,7 +229,6 @@
     "static/images/the-majestic-discipline-035-planetary-axis-transit-01.webp",
     "static/images/Unconfirmed 590386.crdownload",
     "static/images/the-majestic-discipline-035-planetary-axis-transit.webp",
-    "static/images/Unconfirmed 219303.crdownload",
     "static/images/the-majestic-discipline-034-endless-day-horizon-01.webp"
   ]
 }

@@ -40,9 +40,8 @@ The ultimate goal of Resonance is to transform the "invisible" (idea, history, c
 
 Decades later, an expert will work not with material, but with a Trajectory. My heirs will receive not just things, but a coordinate system where every artifact is a node in a global network of meanings. I am not building a collection — I am launching a vector of force that pierces through generations.
 
-**Anna Pivtorak**  
-*Independent Researcher. Architect of Meaning Systems and Long-Term Cultural Assets. 18.03.2026*
-
----
-**Alt-text:**
+**Alt-text:**   
 A geometric composition of pure energy: a transparent tetrahedron with glowing blue edges inscribed within a silver cube, where the tetrahedron's edges align with the diagonals of the cube's faces. Inside the tetrahedron lies a deep blue octahedron. The numbers 3, 6, 9 are engraved on the cube's faces. The composition is set in a dark space pierced by vectors of force, symbolizing the structuring of chaos and the continuity of energy across generations.
+
+_Independent Researcher Manifesto: The Architecture of Resonance. AP | Pivtorak.Studio. 18.03.2026_  
+© Anna Pivtorak (Kostyuk)

@@ -39,9 +39,8 @@ O objetivo final da Ressonância é transformar o "invisível" (ideia, história
 
 Décadas depois, um perito trabalhará não com o material, mas com uma Trajetória. Os meus herdeiros receberão não apenas coisas, mas um sistema de coordenadas onde cada artefacto é um nó numa rede global de significados. Não estou a construir uma coleção — estou a lançar um vetor de força que atravessa gerações.
 
-**Anna Pivtorak**  
-*Investigadora Independente. Sistemas de Significado, Governação e Ativos de Longo Prazo. 18.03.2026*
-
----
-**Alt-text:**  
+**Alt-text:**   
 Uma composição geométrica de energia pura: um tetraedro transparente com arestas azuis brilhantes inscrito num cubo prateado, onde as arestas do tetraedro coincidem com as diagonais das faces do cubo. Dentro do tetraedro encontra-se um octaedro azul escuro. Os números 3, 6, 9 estão gravados nas faces do cubo. A composição situa-se num espaço escuro trespassado por vetores de força, simbolizando a estruturação do caos e a continuidade da energia através das gerações.
+
+_Manifesto da Investigadora Independente: A Arquitetura da Ressonância. AP | Pivtorak.Studio. 18.03.2026_  
+© Anna Pivtorak (Kostyuk)

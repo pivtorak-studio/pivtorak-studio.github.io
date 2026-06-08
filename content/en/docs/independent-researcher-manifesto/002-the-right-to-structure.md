@@ -37,9 +37,9 @@ A structure without tension is merely a diagram. A true system feeds on the reso
 ## 9. Consequence: Sovereignty  
 I do not enter existing systems. I create conditions in which others begin to enter them. I do not ask for a seat at the table — I design the space where the table appears.
 
-**Anna Pivtorak**  
-*Independent Researcher. Architect of Meaning Systems and Influence Structures. 09.04.2026*
 
----
-**Alt-text:**  
+**Alt-text:**    
 A high-tech cybernetic composition on a deep blue-black background. In the center is a transparent tetrahedron with glowing electric blue edges acting as an energy source. From its vertices, translucent platinum architectural blueprints and geometric grids materialize, transforming a chaotic data field into ordered systems of meaning. A symbol of the transition from interpretation to the projection of reality.
+
+_Independent Researcher Manifesto: The Right to Structure. AP | Pivtorak.Studio. 09.04.2026_  
+© Anna Pivtorak (Kostyuk)

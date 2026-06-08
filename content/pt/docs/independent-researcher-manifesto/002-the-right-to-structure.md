@@ -35,9 +35,8 @@ Uma estrutura sem tensão é apenas um diagrama. Um sistema verdadeiro alimenta-
 ## 9. Consequência: Soberania    
 Eu não entro em sistemas existentes. Crio condições nas quais outros começam a entrar neles. Não peço um lugar à mesa — projeto o espaço onde essa mesa aparece.
 
-**Anna Pivtorak**  
-*Investigadora Independente. Arquiteta de Sistemas de Significado e Estruturas de Influência. 09.04.2026*
-
----
-**Alt-text:**  
+**Alt-text:**    
 Uma composição cibernética de alta tecnologia sobre um fundo azul-escuro profundo. No centro, um tetraedro transparente com arestas azuis elétricas brilhantes atua como fonte de energia. Dos seus vértices, materializam-se plantas arquitetónicas de platina translúcidas e redes geométricas, transformando um campo de dados caótico em sistemas de significado ordenados. Um símbolo da transição da interpretação para a projeção da realidade.
+
+_Manifesto da Investigadora Independente: O Direito de Estruturar. AP | Pivtorak.Studio. 09.04.2026_  
+© Anna Pivtorak (Kostyuk)

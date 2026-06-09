@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness.md",
+                "file": "content/pt/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005-the-right-to-incompleteness"
+              "title": "006-the-right-to-human-outcomes"
             }
           }
         ]
@@ -185,10 +185,18 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
-    "content/pt/docs/independent-researcher-manifesto/005-the-right-to-incompleteness.md",
+    "content/en/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes.md",
+    "content/uk/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes.md",
+    "content/ru/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes.md",
+    "content/pt/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes.md",
+    "content/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness.md",
     "content/uk/docs/independent-researcher-manifesto/005-the-right-to-incompleteness.md",
     "content/ru/docs/independent-researcher-manifesto/005-the-right-to-incompleteness.md",
-    "content/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness.md",
+    "content/pt/docs/independent-researcher-manifesto/005-the-right-to-incompleteness.md",
+    "static/images/independent-researcher-manifesto-006-the-right-to-human-outcomes.webp",
+    "static/images/Unconfirmed 885362.crdownload",
+    "content/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
+    "content/en/docs/independent-researcher-manifesto/New Text Document.txt",
     "content/pt/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
     "content/en/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
     "static/images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp",
@@ -196,7 +204,6 @@
     "static/images/Unconfirmed 272881.crdownload",
     "content/ru/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
     "content/uk/docs/independent-researcher-manifesto/004-the-right-to-simplicity.md",
-    "content/en/docs/independent-researcher-manifesto/New Text Document.txt",
     "static/images/Unconfirmed 215586.crdownload",
     "content/uk/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
     "static/images/Unconfirmed 85208.crdownload",
@@ -210,7 +217,6 @@
     "content/pt/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
     "content/en/docs/independent-researcher-manifesto/003-the-right-to-creativity.md",
     "content/en/docs/independent-researcher-manifesto/002-the-right-to-structure.md",
-    "content/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance.md",
     "static/images/Unconfirmed 51377.crdownload",
     "static/images/Unconfirmed 571751.crdownload",
     "static/images/Unconfirmed 510842.crdownload",
@@ -220,15 +226,9 @@
     "static/images/independent-researcher-manifesto-004-the-right-to-simplicity.webp",
     "static/images/Unconfirmed 873982.crdownload",
     "content/en/docs/the-majestic-discipline/035-planetary-axis-transit.md",
-    "content/uk/docs/the-majestic-discipline/_index.md",
-    "content/ru/docs/the-majestic-discipline/_index.md",
-    "content/pt/docs/the-majestic-discipline/_index.md",
-    "content/en/docs/the-majestic-discipline/_index.md",
     "static/images/the-majestic-discipline.webp",
-    "static/images/Unconfirmed 358185.crdownload",
     "static/images/the-majestic-discipline-036-pole-of-purpose-01.webp",
     "static/images/the-majestic-discipline-036-pole-of-purpose.webp",
-    "static/images/the-majestic-discipline-035-planetary-axis-transit-01.webp",
-    "static/images/the-majestic-discipline-035-planetary-axis-transit.webp"
+    "static/images/the-majestic-discipline-035-planetary-axis-transit-01.webp"
   ]
 }

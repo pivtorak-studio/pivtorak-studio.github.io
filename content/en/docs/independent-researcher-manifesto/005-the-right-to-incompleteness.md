@@ -1,45 +1,84 @@
 ---
-
-id: independent-researcher-manifesto-005-the-right-to-incompleteness  
-language: en  
-translation_of: independent-researcher-manifesto-005-the-right-to-incompleteness  
-title: "005 Independent Researcher Manifesto: The Right to Incompleteness"  
-description: "A manifesto affirming incompleteness as the natural condition of living systems and recognizing evolution, revision, and continuity as essential qualities of sovereign research."  
-summary: "Incompleteness is not a flaw but a condition for growth. Living systems evolve through traces, maps, revisions, and new dimensions of understanding. Research remains alive when it remains open."  
-event_date: 2026-06-09T12:00:00  
-publication_date: 2026-06-09T12:00:00  
-lastmod: 2026-06-09T12:00:00  
-slug: 005-the-right-to-incompleteness  
-tags: [independent-researcher, manifesto, incompleteness, evolution, living-systems, research-culture, open-structure, sovereignty, knowledge-design]  
-keywords: [right-to-incompleteness, independent-researcher-manifesto, evolution, iteration, living-system, open-structure, research, growth, adaptation, continuity]  
-categories: [Manifesto, Research Culture, Systems Thinking, Knowledge Design]  
-series: IndependentResearcherManifesto  
-series_index: 5  
-country: PT  
-status: published  
-featured: true  
-image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp  
-alt: "An open geometric structure expanding into a new dimension, symbolizing evolution, continuity, and the power of incompleteness."  
-related: [/en/docs/independent-researcher-manifesto/, /en/docs/timeline/]  
-authors: [Anna Pivtorak]  
-draft: false  
-canonical: [https://pivtorak.studio/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/] 
-toc: true  
+id: independent-researcher-manifesto-005-the-right-to-incompleteness
+language: en
+translation_of: independent-researcher-manifesto-005-the-right-to-incompleteness
+title: "005 Independent Researcher Manifesto: The Right to Incompleteness"
+description: A manifesto affirming incompleteness as the natural condition of living systems and recognizing evolution, revision, and continuity as essential qualities of sovereign research.
+summary: Incompleteness is not a flaw but a condition for growth. Living systems evolve through traces, maps, revisions, and new dimensions of understanding. Research remains alive when it remains open.
+event_date: 2026-06-09T09:00:00
+publication_date: 2026-06-09T09:00:00
+lastmod: 2026-06-09T09:00:00
+slug: 005-the-right-to-incompleteness
+tags:
+  - independent-researcher
+  - manifesto
+  - incompleteness
+  - evolution
+  - living-systems
+  - research-culture
+  - open-structure
+  - sovereignty
+  - knowledge-design
+keywords:
+  - right-to-incompleteness
+  - independent-researcher-manifesto
+  - evolution
+  - iteration
+  - living-system
+  - open-structure
+  - research
+  - growth
+  - adaptation
+  - continuity
+categories:
+  - Manifesto
+  - Research Culture
+  - Systems Thinking
+  - Knowledge Design
+series: IndependentResearcherManifesto
+series_index: 5
+country: PT
+status: published
+featured: true
+image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp
+alt: An open geometric structure expanding into a new dimension, symbolizing evolution, continuity, and the power of incompleteness.
+related:
+  - /en/docs/independent-researcher-manifesto/
+  - /en/docs/timeline/
+authors:
+  - Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/
+toc: true
 weight: 5
-
-completion: 100  
-seo: true  
-distribution: true  
+completion: 100
+seo: true
+distribution: true
 search: indexed
-
-## core_domain: Research Process  
-civilizational_layer: [Individual, Community, Civilization]  
-primary_tension: [Finality vs Evolution]  
-protects: [Open Inquiry, Intellectual Growth, Adaptability, Continuity, Future Potential]  
-opposes: [Finalism, Perfectionism, Closure Culture, Knowledge Freezing]  
-system_function: Evolve  
-validation_question: "Does this system remain open to future growth, revision, and discovery?"  
-success_indicator: [New Insights Emerge, Structures Evolve, Others Can Build Upon It]  
+civilizational_layer:
+  - Individual
+  - Community
+  - Civilization
+primary_tension:
+  - Finality vs Evolution
+protects:
+  - Open Inquiry
+  - Intellectual Growth
+  - Adaptability
+  - Continuity
+  - Future Potential
+opposes:
+  - Finalism
+  - Perfectionism
+  - Closure Culture
+  - Knowledge Freezing
+system_function: Evolve
+validation_question: Does this system remain open to future growth, revision, and discovery?
+success_indicator:
+  - New Insights Emerge
+  - Structures Evolve
+  - Others Can Build Upon It
 symbol: Open Vector
 ---
 <script type="application/ld+json">
@@ -52,8 +91,8 @@ symbol: Open Vector
   "description": "A manifesto affirming incompleteness as the natural condition of living systems and recognizing evolution, revision, and continuity as essential qualities of sovereign research.",
   "inLanguage": "en",
   "url": "https://pivtorak.studio/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/",
-  "datePublished": "2026-06-09T12:00:00+01:00",
-  "dateModified": "2026-06-09T12:00:00+01:00",
+  "datePublished": "2026-06-09T09:00:00+01:00",
+  "dateModified": "2026-06-09T09:00:00+01:00",
   "image": "https://pivtorak.studio/images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp",
   "articleSection": "Independent Researcher Manifesto",
   "keywords": [

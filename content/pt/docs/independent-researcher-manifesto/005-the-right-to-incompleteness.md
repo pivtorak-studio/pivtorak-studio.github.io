@@ -1,45 +1,84 @@
 ---
-
-id: independent-researcher-manifesto-005-the-right-to-incompleteness  
-language: pt  
-translation_of: independent-researcher-manifesto-005-the-right-to-incompleteness  
-title: "005 Manifesto da Investigadora Independente: O Direito à Incompletude"  
-description: "Um manifesto que afirma a incompletude como a condição natural dos sistemas vivos e reconhece a evolução, a revisão e a continuidade como qualidades essenciais da investigação soberana."  
-summary: "A incompletude não é uma falha, mas uma condição para o crescimento. Os sistemas vivos evoluem através de vestígios, mapas, revisões e novas dimensões de compreensão. A investigação permanece viva quando permanece aberta."  
-event_date: 2026-06-09T12:00:00  
-publication_date: 2026-06-09T12:00:00  
-lastmod: 2026-06-09T12:00:00  
-slug: 005-the-right-to-incompleteness  
-tags: [investigadora-independente, manifesto, incompletude, evolução, sistemas-vivos, cultura-de-investigação, estrutura-aberta, soberania, design-do-conhecimento]  
-keywords: [direito-à-incompletude, manifesto-da-investigadora-independente, evolução, iteração, sistema-vivo, estrutura-aberta, investigação, crescimento, adaptação, continuidade]  
-categories: [Manifesto, Cultura de Investigação, Pensamento Sistémico, Design do Conhecimento]  
-series: ManifestoDoInvestigadorIndependente  
-series_index: 5  
-country: PT  
-status: published  
-featured: true  
-image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp  
-alt: "Uma estrutura geométrica aberta expandindo-se para uma nova dimensão, simbolizando evolução, continuidade e o poder da incompletude."  
-related: [/pt/docs/independent-researcher-manifesto/, /pt/docs/timeline/]  
-authors: [Anna Pivtorak]  
-draft: false  
-canonical: [https://pivtorak.studio/pt/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/]
-toc: true  
+id: independent-researcher-manifesto-005-the-right-to-incompleteness
+language: pt
+translation_of: independent-researcher-manifesto-005-the-right-to-incompleteness
+title: "005 Manifesto da Investigadora Independente: O Direito à Incompletude"
+description: Um manifesto que afirma a incompletude como a condição natural dos sistemas vivos e reconhece a evolução, a revisão e a continuidade como qualidades essenciais da investigação soberana.
+summary: A incompletude não é uma falha, mas uma condição para o crescimento. Os sistemas vivos evoluem através de vestígios, mapas, revisões e novas dimensões de compreensão. A investigação permanece viva quando permanece aberta.
+event_date: 2026-06-09T09:00:00
+publication_date: 2026-06-09T09:00:00
+lastmod: 2026-06-09T09:00:00
+slug: 005-the-right-to-incompleteness
+tags:
+  - investigadora-independente
+  - manifesto
+  - incompletude
+  - evolução
+  - sistemas-vivos
+  - cultura-de-investigação
+  - estrutura-aberta
+  - soberania
+  - design-do-conhecimento
+keywords:
+  - direito-à-incompletude
+  - manifesto-da-investigadora-independente
+  - evolução
+  - iteração
+  - sistema-vivo
+  - estrutura-aberta
+  - investigação
+  - crescimento
+  - adaptação
+  - continuidade
+categories:
+  - Manifesto
+  - Cultura de Investigação
+  - Pensamento Sistémico
+  - Design do Conhecimento
+series: ManifestoDoInvestigadorIndependente
+series_index: 5
+country: PT
+status: published
+featured: true
+image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp
+alt: Uma estrutura geométrica aberta expandindo-se para uma nova dimensão, simbolizando evolução, continuidade e o poder da incompletude.
+related:
+  - /pt/docs/independent-researcher-manifesto/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/pt/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/
+toc: true
 weight: 5
-
-completion: 100  
-seo: true  
-distribution: true  
+completion: 100
+seo: true
+distribution: true
 search: indexed
-
-## core_domain: Processo de Investigação  
-civilizational_layer: [Individual, Comunidade, Civilização]  
-primary_tension: [Finalidade vs Evolução]  
-protects: [Investigação Aberta, Crescimento Intelectual, Adaptabilidade, Continuidade, Potencial Futuro]  
-opposes: [Finalismo, Perfeccionismo, Cultura do Encerramento, Congelamento do Conhecimento]  
-system_function: Evoluir  
-validation_question: "Este sistema permanece aberto ao crescimento, revisão e descoberta futuras?"  
-success_indicator: [Novos Conhecimentos Surgem, Estruturas Evoluem, Outros Podem Construir Sobre Elas]  
+civilizational_layer:
+  - Individual
+  - Comunidade
+  - Civilização
+primary_tension:
+  - Finalidade vs Evolução
+protects:
+  - Investigação Aberta
+  - Crescimento Intelectual
+  - Adaptabilidade
+  - Continuidade
+  - Potencial Futuro
+opposes:
+  - Finalismo
+  - Perfeccionismo
+  - Cultura do Encerramento
+  - Congelamento do Conhecimento
+system_function: Evoluir
+validation_question: Este sistema permanece aberto ao crescimento, revisão e descoberta futuras?
+success_indicator:
+  - Novos Conhecimentos Surgem
+  - Estruturas Evoluem
+  - Outros Podem Construir Sobre Elas
 symbol: Vetor Aberto
 ---
 <script type="application/ld+json">
@@ -52,8 +91,8 @@ symbol: Vetor Aberto
   "description": "Um manifesto que afirma a incompletude como a condição natural dos sistemas vivos e reconhece a evolução, a revisão e a continuidade como qualidades essenciais da investigação soberana.",
   "inLanguage": "pt-PT",
   "url": "https://pivtorak.studio/pt/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/",
-  "datePublished": "2026-06-09T12:00:00+01:00",
-  "dateModified": "2026-06-09T12:00:00+01:00",
+  "datePublished": "2026-06-09T09:00:00+01:00",
+  "dateModified": "2026-06-09T09:00:00+01:00",
   "image": "https://pivtorak.studio/images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp",
   "articleSection": "Manifesto da Investigadora Independente",
   "keywords": [

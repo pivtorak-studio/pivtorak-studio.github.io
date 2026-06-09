@@ -1,45 +1,84 @@
 ---
-
-id: independent-researcher-manifesto-005-the-right-to-incompleteness  
-language: uk  
-translation_of: independent-researcher-manifesto-005-the-right-to-incompleteness  
-title: "005 Маніфест Незалежного Дослідника: Право на Незавершеність"  
-description: "Маніфест, що утверджує незавершеність як природний стан живих систем та визнає еволюцію, перегляд і тяглість фундаментальними якостями суверенного дослідження."  
-summary: "Незавершеність — не вада, а умова зростання. Живі системи розвиваються через сліди, карти, уточнення та нові виміри розуміння. Дослідження залишається живим, поки залишається відкритим."  
-event_date: 2026-06-09T12:00:00  
-publication_date: 2026-06-09T12:00:00  
-lastmod: 2026-06-09T12:00:00  
-slug: 005-the-right-to-incompleteness  
-tags: [незалежний-дослідник, маніфест, незавершеність, еволюція, живі-системи, дослідницька-культура, відкрита-структура, суверенність, дизайн-знання]  
-keywords: [право-на-незавершеність, маніфест-незалежного-дослідника, еволюція, ітерація, жива-система, відкрита-структура, дослідження, зростання, адаптація, тяглість]  
-categories: [Маніфест, Дослідницька Культура, Системне Мислення, Дизайн Знання]  
-series: МаніфестНезалежногоДослідника  
-series_index: 5  
-country: PT  
-status: published  
-featured: true  
-image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp  
-alt: "Відкрита геометрична структура, що розгортається у новий вимір, символізуючи еволюцію, тяглість та силу незавершеності."  
-related: [/uk/docs/independent-researcher-manifesto/, /uk/docs/timeline/]  
-authors: [Anna Pivtorak]  
-draft: false  
-canonical: [https://pivtorak.studio/uk/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/] 
-toc: true  
+id: independent-researcher-manifesto-005-the-right-to-incompleteness
+language: uk
+translation_of: independent-researcher-manifesto-005-the-right-to-incompleteness
+title: "005 Маніфест Незалежного Дослідника: Право на Незавершеність"
+description: Маніфест, що утверджує незавершеність як природний стан живих систем та визнає еволюцію, перегляд і тяглість фундаментальними якостями суверенного дослідження.
+summary: Незавершеність — не вада, а умова зростання. Живі системи розвиваються через сліди, карти, уточнення та нові виміри розуміння. Дослідження залишається живим, поки залишається відкритим.
+event_date: 2026-06-09T09:00:00
+publication_date: 2026-06-09T09:00:00
+lastmod: 2026-06-09T09:00:00
+slug: 005-the-right-to-incompleteness
+tags:
+  - незалежний-дослідник
+  - маніфест
+  - незавершеність
+  - еволюція
+  - живі-системи
+  - дослідницька-культура
+  - відкрита-структура
+  - суверенність
+  - дизайн-знання
+keywords:
+  - право-на-незавершеність
+  - маніфест-незалежного-дослідника
+  - еволюція
+  - ітерація
+  - жива-система
+  - відкрита-структура
+  - дослідження
+  - зростання
+  - адаптація
+  - тяглість
+categories:
+  - Маніфест
+  - Дослідницька Культура
+  - Системне Мислення
+  - Дизайн Знання
+series: МаніфестНезалежногоДослідника
+series_index: 5
+country: PT
+status: published
+featured: true
+image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp
+alt: Відкрита геометрична структура, що розгортається у новий вимір, символізуючи еволюцію, тяглість та силу незавершеності.
+related:
+  - /uk/docs/independent-researcher-manifesto/
+  - /uk/docs/timeline/
+authors:
+  - Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/uk/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/
+toc: true
 weight: 5
-
-completion: 100  
-seo: true  
-distribution: true  
+completion: 100
+seo: true
+distribution: true
 search: indexed
-
-## core_domain: Дослідницький Процес  
-civilizational_layer: [Індивід, Спільнота, Цивілізація]  
-primary_tension: [Остаточність vs Еволюція]  
-protects: [Відкрите Дослідження, Інтелектуальне Зростання, Адаптивність, Тяглість, Майбутній Потенціал]  
-opposes: [Фіналізм, Перфекціонізм, Культура Закриття, Заморожування Знань]  
-system_function: Розвивати  
-validation_question: "Чи залишається ця система відкритою для майбутнього зростання, перегляду та відкриттів?"  
-success_indicator: [З'являються Нові Ідеї, Структури Еволюціонують, Інші Можуть Продовжити Розвиток]  
+civilizational_layer:
+  - Індивід
+  - Спільнота
+  - Цивілізація
+primary_tension:
+  - Остаточність vs Еволюція
+protects:
+  - Відкрите Дослідження
+  - Інтелектуальне Зростання
+  - Адаптивність
+  - Тяглість
+  - Майбутній Потенціал
+opposes:
+  - Фіналізм
+  - Перфекціонізм
+  - Культура Закриття
+  - Заморожування Знань
+system_function: Розвивати
+validation_question: Чи залишається ця система відкритою для майбутнього зростання, перегляду та відкриттів?
+success_indicator:
+  - З'являються Нові Ідеї
+  - Структури Еволюціонують
+  - Інші Можуть Продовжити Розвиток
 symbol: Відкритий Вектор
 ---
 <script type="application/ld+json">
@@ -52,8 +91,8 @@ symbol: Відкритий Вектор
   "description": "Маніфест, що утверджує незавершеність як природний стан живих систем та визнає еволюцію, перегляд і тяглість фундаментальними якостями суверенного дослідження.",
   "inLanguage": "uk",
   "url": "https://pivtorak.studio/uk/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/",
-  "datePublished": "2026-06-09T12:00:00+01:00",
-  "dateModified": "2026-06-09T12:00:00+01:00",
+  "datePublished": "2026-06-09T09:00:00+01:00",
+  "dateModified": "2026-06-09T09:00:00+01:00",
   "image": "https://pivtorak.studio/images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp",
   "articleSection": "Маніфест Незалежного Дослідника",
   "keywords": [

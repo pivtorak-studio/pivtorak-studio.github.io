@@ -130,54 +130,54 @@ symbol: Open Vector
 
 # Independent Researcher Manifesto: The Right to Incompleteness
 
-## 1. I recognize incompleteness as the natural state of a living system.
+## 1. I recognize incompleteness as the natural state of a living system
 
 Living systems do not exist in the form of a final conclusion.   
 They evolve, adapt, and open new possibilities for movement.  
 
-## 2. I perceive every completed work as a stage rather than a boundary.
+## 2. I perceive every completed work as a stage rather than a boundary
 
 Every text, map, research project, or model may be complete within its moment.  
 Yet its existence does not bring further understanding to an end.  
 
-## 3. I allow myself to publish intermediate results.
+## 3. I allow myself to publish intermediate results
 
 The first trace has value.  
 The first map has value.  
 The first hypothesis has value.  
 Development begins not after perfection, but after emergence.  
 
-## 4. I place development above finality.
+## 4. I place development above finality
 
 The purpose of research is not to create an immutable object.  
 The purpose is to deepen understanding.  
 
-## 5. I recognize the right to revise my own structures.
+## 5. I recognize the right to revise my own structures
 
 Maps may be refined.  
 Categories may change.  
 Front Matter may expand.  
 Refinement is a sign of living thought.  
 
-## 6. I preserve the history of evolution alongside the result.
+## 6. I preserve the history of evolution alongside the result
 
 The path matters.  
 Intermediate decisions matter.  
 Previous versions matter.  
 They reveal not only the conclusion, but also the process through which it emerged.  
 
-## 7. I do not equate error with failure.
+## 7. I do not equate error with failure
 
 An error is a signal.  
 It helps reveal the limits of current understanding.  
 A system that does not allow errors often does not allow development.  
 
-## 8. I create structures capable of continuing.
+## 8. I create structures capable of continuing
 
 A true research system does not depend on a single moment in time.  
 It leaves room for further contribution, reinterpretation, and growth.  
 
-## 9. I recognize incompleteness as a source of the future.
+## 9. I recognize incompleteness as a source of the future
 
 Finality ends movement.  
 Incompleteness leaves space for discovery.  

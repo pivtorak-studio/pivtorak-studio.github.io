@@ -90,18 +90,18 @@ symbol: Protected Core
 
 # Independent Researcher Manifesto: The Right to Simplicity
 
-## 1. I recognize simplicity as a distinct form of wisdom.
+## 1. I recognize simplicity as a distinct form of wisdom
 
 Not everything valuable is complex.    
 Not everything complex is valuable.  
 Sometimes the most accurate solution turns out to be the simplest.  
 
-## 2. I refuse to equate complexity with significance.
+## 2. I refuse to equate complexity with significance
 
 A large number of concepts, models, graphs, or terms is not proof of depth.  
 Depth is determined by the ability to approach the essence of a phenomenon.  
 
-## 3. I recognize simple things as fundamental indicators of a system’s viability.
+## 3. I recognize simple things as fundamental indicators of a system’s viability
 
 A child playing without fear.    
 A home one wishes to return to.    
@@ -111,33 +111,33 @@ An animal that feels safe.
 These are not side effects of civilization.  
 They are its purpose.  
 
-## 4. I use complexity only where it is necessary.
+## 4. I use complexity only where it is necessary
 
 Complexity is a tool, not a goal.   
 Any structure has the right to be as complex as reality requires, but no more.  
 
-## 5. I strive for clarity instead of demonstrating intellect.
+## 5. I strive for clarity instead of demonstrating intellect
 
 The purpose of research is not to impress.  
 The purpose of research is to understand.  
 What cannot be explained clearly is often not yet sufficiently understood.  
 
-## 6. I evaluate large systems through their impact on everyday life.
+## 6. I evaluate large systems through their impact on everyday life
 
 Any theory, strategy, or policy undergoes its final test not on diagrams, but in human experience.  
 A system that destroys the basic conditions of life cannot be considered successful.  
 
-## 7. I recognize the right to peace as a civilizational value.
+## 7. I recognize the right to peace as a civilizational value
 
 Continuous mobilization is not a sign of strength.  
 The ability to live without constant fear, haste, or exhaustion is one of the most important achievements of any healthy system.  
 
-## 8. I evaluate development by what it allows to be preserved.
+## 8. I evaluate development by what it allows to be preserved
 
 True progress does not only create something new.  
 It also protects what must not be lost.  
 
-## 9. I recognize simplicity as the ultimate purpose of complexity.
+## 9. I recognize simplicity as the ultimate purpose of complexity
 
 All models, architectures, research, and systems have meaning only when they help people live more fully, more freely, and more peacefully.
 Complexity builds the path.

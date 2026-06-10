@@ -35,7 +35,7 @@ categories:
   - Cultura de Investigação
   - Pensamento Sistémico
   - Design do Conhecimento
-series: ManifestoDoInvestigadorIndependente
+series: ManifestoDaInvestigadoraIndependente
 series_index: 5
 country: PT
 status: published
@@ -130,54 +130,54 @@ symbol: Vetor Aberto
 
 # Manifesto da Investigadora Independente: O Direito à Incompletude
 
-## 1. Reconheço a incompletude como o estado natural de um sistema vivo.
+## 1. Reconheço a incompletude como o estado natural de um sistema vivo
 
 Os sistemas vivos não existem sob a forma de uma conclusão final.   
 Eles evoluem, adaptam-se e abrem novas possibilidades de movimento.  
 
-## 2. Vejo cada obra concluída como uma etapa e não como um limite.
+## 2. Vejo cada obra concluída como uma etapa e não como um limite
 
 Cada texto, mapa, investigação ou modelo pode estar completo no seu momento.  
 No entanto, a sua existência não encerra o aprofundamento da compreensão.  
 
-## 3. Permito-me publicar resultados intermédios.
+## 3. Permito-me publicar resultados intermédios
 
 O primeiro vestígio tem valor.  
 O primeiro mapa tem valor.  
 A primeira hipótese tem valor.  
 O desenvolvimento começa não depois da perfeição, mas depois do surgimento.  
 
-## 4. Coloco o desenvolvimento acima da finalidade.
+## 4. Coloco o desenvolvimento acima da finalidade
 
 O objetivo da investigação não é criar um objeto imutável.  
 O objetivo é aprofundar a compreensão.  
 
-## 5. Reconheço o direito de rever as minhas próprias estruturas.
+## 5. Reconheço o direito de rever as minhas próprias estruturas
 
 Os mapas podem ser refinados.  
 As categorias podem mudar.  
 O Front Matter pode expandir-se.  
 O refinamento é um sinal de pensamento vivo.  
 
-## 6. Preservo a história da evolução juntamente com o resultado.
+## 6. Preservo a história da evolução juntamente com o resultado
 
 O percurso importa.  
 As decisões intermédias importam.  
 As versões anteriores importam.  
 Elas revelam não apenas a conclusão, mas também o processo através do qual ela surgiu.  
 
-## 7. Não equiparo erro a fracasso.
+## 7. Não equiparo erro a fracasso
 
 Um erro é um sinal.  
 Ajuda a revelar os limites da compreensão atual.  
 Um sistema que não permite erros frequentemente também não permite desenvolvimento.  
 
-## 8. Crio estruturas capazes de continuar.
+## 8. Crio estruturas capazes de continuar
 
 Um verdadeiro sistema de investigação não depende de um único momento no tempo.  
 Deixa espaço para futuras contribuições, reinterpretações e crescimento.  
 
-## 9. Reconheço a incompletude como uma fonte do futuro.
+## 9. Reconheço a incompletude como uma fonte do futuro
 
 A finalidade encerra o movimento.  
 A incompletude deixa espaço para a descoberta.  

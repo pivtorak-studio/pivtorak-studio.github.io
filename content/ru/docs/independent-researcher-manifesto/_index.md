@@ -1,49 +1,140 @@
 ---
-title: "📃 Independent Researcher Manifesto"
-description: "A series of documents defining the methodology of the Independent Researcher: systems thinking, architecture of meaning, and long-term value models."
-bookCollapseSection: true
-weight: 40
----
+id: independent-researcher-manifesto
+language: ru
+translation_of: independent-researcher-manifesto
 
+title: "📃 Манифест Независимого Исследователя"
+description: "Серия программных текстов, определяющих методологию, идентичность и эволюцию Независимого Исследователя как самостоятельной исследовательской позиции."
+summary: "Эта серия представляет Манифест Независимого Исследователя как разворачивающуюся структуру. Каждый манифест фиксирует этап развития, уточняет метод, расширяет поле интерпретации и развивает RESONANCE_SYSTEM."
+
+event_date: 2026-03-18T09:00:00
+publication_date: 2026-03-18T09:00:00
+lastmod: 2026-03-18T09:00:00
+
+slug: independent-researcher-manifesto
+
+tags: ["независимое исследование","методология исследования","система резонанса","архитектура знаний","системное мышление","манифест","исследовательская идентичность","структуры смыслов","когнитивное моделирование","проектирование будущего"]
+keywords: ["манифест независимого исследователя","исследовательская идентичность","система резонанса","архитектура знаний","структуры смыслов","системное мышление","когнитивное моделирование","творческое исследование","Anna Pivtorak","независимое исследование"]
+categories: ["серия манифестов","исследование","архитектура знаний","системное мышление","методология"]
+
+series: МанифестНезависимогоИсследователя
+series_index: 0
+
+country: PT
+status: published
+featured: true
+
+image: /images/independent-researcher-manifesto.webp
+alt: "Центральная резонансная структура окружена связанными томами манифестов, представляющими последовательные узлы единой исследовательской системы."
+
+related: ["/ru/timeline/"]
+authors: ["Anna Pivtorak"]
+
+draft: false
+canonical: https://pivtorak.studio/ru/docs/independent-researcher-manifesto/
+
+toc: true
+weight: 40
+
+completion: 100
+seo: true
+distribution: true
+search: indexed
+
+bookCollapseSection: true
+
+architecture_level: "методологический каркас"
+research_domain: "независимое исследование"
+core_question: "Каким образом структуры смыслов могут быть легитимизированы, проверены и переданы через время?"
+primary_scale: "цивилизационный"
+knowledge_type: "синтетический"
+symbolic_framework: "RESONANCE_SYSTEM"
+system_role: "методологическая основа"
+system_position: "корневой узел"
+framework_type: "эволюционная серия манифестов"
+entry_point: "исследовательская идентичность"
+---
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Independent Researcher Manifesto — Series",
-  "description": "A series of programmatic texts defining the method, principles, and architecture of Anna Pivtorak’s research practice.",
-  "inLanguage": "en",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Pivtorak Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "@id": "https://pivtorak.studio/ru/docs/independent-researcher-manifesto/#collection",
+  "name": "Манифест Независимого Исследователя",
+  "headline": "Манифест Независимого Исследователя",
+  "description": "Серия программных текстов, определяющих методологию, идентичность и эволюцию Независимого Исследователя как самостоятельной исследовательской позиции.",
+  "inLanguage": "ru",
+  "datePublished": "2026-03-18T09:00:00+00:00",
+  "dateModified": "2026-03-18T09:00:00+00:00",
   "author": {
     "@type": "Person",
-    "name": "Anna Pivtorak"
-  }
+    "name": "Anna Pivtorak",
+    "url": "https://pivtorak.studio/ru/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/independent-researcher-manifesto.webp",
+    "description": "Центральная резонансная структура окружена связанными томами манифестов, представляющими последовательные узлы единой исследовательской системы."
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/independent-researcher-manifesto/"
+  },
+  "about": [
+    "Методология Исследования",
+    "RESONANCE_SYSTEM",
+    "Архитектура Знаний",
+    "Системное Мышление",
+    "Исследовательская Идентичность"
+  ],
+  "hasPart": [
+    {
+      "@type": "Article",
+      "name": "001 Манифест Независимого Исследователя: Архитектура Резонанса"
+    },
+    {
+      "@type": "Article",
+      "name": "002 Манифест Независимого Исследователя: Право структурировать"
+    },
+    {
+      "@type": "Article",
+      "name": "003 Манифест Независимого Исследователя: Право на Творчество"
+    }
+  ]
 }
 </script>
 
-<link rel="canonical" href="https://pivtorak.studio/docs/independent-researcher-manifesto/">
+![Манифест Независимого Исследователя](/images/independent-researcher-manifesto.webp)
 
-# Independent Researcher Manifesto  
-*This series brings together programmatic texts that define the methodology of the Independent Researcher as a distinct research position.*
+# Манифест Независимого Исследователя
 
-Within this series, a manifesto is not treated as a singular declaration,  
-but as a **structure unfolding over time**.
+*Эта серия объединяет программные тексты, формирующие методологию Независимого Исследователя как отдельной исследовательской позиции.*
 
-Each document:  
-- records the state of the system at a given stage  
-- refines the method and its instruments  
-- expands the field of interpretation  
+Манифест в рамках этой серии рассматривается не как единичная декларация,
+а как **структура, которая разворачивается во времени**.
 
-**Purpose of the series:**  
-- formation of research identity  
-- articulation of the method (RESONANCE_SYSTEM)  
-- legitimization of meaning structures in the public domain  
+Каждый документ:
+- фиксирует состояние системы на определенном этапе
+- уточняет метод и инструменты
+- расширяет поле интерпретации
 
-The manifestos do not duplicate one another.  
-They function as sequential nodes within a unified system.
+**Назначение серии:**
+- формирование исследовательской идентичности
+- артикуляция метода (RESONANCE_SYSTEM)
+- легализация смысловых структур в открытом поле
+
+Манифесты не дублируют друг друга.
+Они работают как последовательные узлы единой системы.
+
+**Alt-text:**   
+Центральная резонансная структура окружена связанными томами манифестов, представляющими последовательные узлы единой исследовательской системы.
+
+_Манифест Независимого Исследователя. AP | Pivtorak.Studio. 18.03.2026_
+© Анна Пивторак (Костюк)
 
 ---
 

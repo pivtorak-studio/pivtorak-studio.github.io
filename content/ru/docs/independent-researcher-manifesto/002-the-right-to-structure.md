@@ -1,8 +1,101 @@
 ---
-title: "002 Право структурировать"
-descriptions: Декларация права на создание автономных систем смысла. Проектирование архитектуры влияния и переход от интерпретации к структурированию реальности.
-weight: 1
+id: independent-researcher-manifesto-002-the-right-to-structure
+language: ru
+translation_of: independent-researcher-manifesto-002-the-right-to-structure
+
+title: "002 Манифест Независимого Исследователя: Право структурировать"
+description: "Манифест о суверенитете структуры, проектировании реальности и праве создавать системы, формирующие смысл, ценность и коллективное восприятие."
+summary: "Выходя за пределы интерпретации, этот манифест исследует структуру как невидимую власть, легитимность без разрешения, создание ценности через протоколы и архитектуру суверенных систем."
+
+event_date: 2026-04-09T11:00:00
+publication_date: 2026-04-09T11:00:00
+lastmod: 2026-04-09T11:00:00
+
+slug: 002-the-right-to-structure
+
+tags: ["системный дизайн","структура","суверенитет","протоколы","проектирование реальности","системное мышление","архитектура знаний","резонанс","управление","независимое исследование"]
+keywords: ["право структурировать","манифест независимого исследователя","архитектура систем","дизайн протоколов","инженерия реальности","суверенитет","резонансные системы","институциональный дизайн","системы смыслов","Anna Pivtorak"]
+categories: ["манифест","системное мышление","управление","философия","архитектура знаний"]
+
+series: МанифестНезависимогоИсследователя
+series_index: 2
+
+country: PT
+status: published
+featured: true
+
+image: /images/independent-researcher-manifesto-002-the-right-to-structure.webp
+alt: "Прозрачный тетраэдр с сияющими электрически-синими рёбрами создаёт архитектурные чертежи и геометрические сетки, превращая хаотическое поле данных в упорядоченные системы смыслов."
+
+related: ["/ru/docs/independent-researcher-manifesto/001-the-architecture-of-resonance/"]
+authors: ["Anna Pivtorak"]
+
+draft: false
+canonical: https://pivtorak.studio/ru/docs/independent-researcher-manifesto/002-the-right-to-structure/
+
+toc: true
+weight: 2
+
+completion: 100
+seo: true
+distribution: true
+search: indexed
+
+core_domain: "архитектура систем"
+civilizational_layer: "системы управления"
+primary_tension: "интерпретация vs структура"
+protects: ["системный суверенитет","структурную целостность","смысловую согласованность"]
+opposes: ["хаотическую фрагментацию","зависимость от внешней легитимности","структурную деградацию"]
+system_function: "создаёт структуры, организующие смысл, ценность и коллективное поведение"
+validation_question: "Способна ли структура существовать без внешнего разрешения и постоянного вмешательства?"
+success_indicator: "Другие добровольно входят в систему и начинают действовать внутри неё"
+symbol: "тетраэдр, создающий чертежи"
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/independent-researcher-manifesto/002-the-right-to-structure/#article",
+  "headline": "002 Манифест Независимого Исследователя: Право структурировать",
+  "description": "Манифест о суверенитете структуры, проектировании реальности и праве создавать системы, формирующие смысл, ценность и коллективное восприятие.",
+  "inLanguage": "ru",
+  "datePublished": "2026-04-09T11:00:00+00:00",
+  "dateModified": "2026-04-09T11:00:00+00:00",
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak",
+    "url": "https://pivtorak.studio/ru/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/independent-researcher-manifesto-002-the-right-to-structure.webp",
+    "description": "Прозрачный тетраэдр с сияющими электрически-синими рёбрами создаёт архитектурные чертежи и геометрические сетки, превращая хаотическое поле данных в упорядоченные системы смыслов."
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/independent-researcher-manifesto/002-the-right-to-structure/"
+  },
+  "keywords": [
+    "Право структурировать",
+    "Архитектура систем",
+    "Дизайн протоколов",
+    "Инженерия реальности",
+    "Системное мышление",
+    "Структурный суверенитет",
+    "Манифест Независимого Исследователя"
+  ],
+  "articleSection": "Манифест Независимого Исследователя",
+  "isPartOf": {
+    "@type": "CollectionPage",
+    "name": "Манифест Независимого Исследователя"
+  }
+}
+</script>
 
 ![Манифест Независимого Исследователя](/images/independent-researcher-manifesto-002-the-right-to-structure.webp)
 

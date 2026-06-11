@@ -169,7 +169,7 @@ The project is open for use by individuals and organizations acting in defense o
 A luminous asterisk symbol connecting a world of crisis and a world of renewal, representing systemic transformation, human dignity, and the restoration of agency.
 
 _Extra Credit Problem (The Asterisk Problem). AP | Pivtorak.Studio. 16.01.2026_  
-© Anna Pivtorak (Kostyuk)
+© Anna Pivtorak (Kostyuk)   
 🛡️ Each publication is part of an authorial research and artistic project.  
 The material is based on the analysis of open sources and contains the author's interpretations, metaphors, and conceptual models.  
 The described images and concepts may be allegorical in nature and do not constitute legal accusations or official conclusions regarding any individuals, organizations, or states.  

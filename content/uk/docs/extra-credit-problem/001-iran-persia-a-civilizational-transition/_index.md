@@ -1,0 +1,194 @@
+---
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition
+language: uk
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition
+title: "001 Іран – Персія: Цивілізаційний Перехід"
+description: Цивілізаційне дослідження з 30 робіт, присвячене переходу від демонтажу режиму до відродження Персії як вільної, етичної та глобально інтегрованої цивілізації.
+summary: Перший цивілізаційний кейс проєкту The Asterisk Problem, що поєднує Етичний Резонанс і Маніфест Системного Рішення.
+event_date: 2026-01-16T10:00:00
+publication_date: 2026-01-16T10:00:00
+lastmod: 2026-01-16T10:00:00
+slug: 001-iran-persia-a-civilizational-transition
+tags:
+  - Іран
+  - Персія
+  - ЦивілізаційнийПерехід
+  - ПолітичнийДизайн
+  - ЕтичнийРезонанс
+  - Свобода
+  - Ідентичність
+  - Трансформація
+keywords:
+  - Іран
+  - Персія
+  - Цивілізація
+  - ДемонтажРежиму
+  - ПолітичнийДизайн
+  - ГідністьЛюдини
+  - Відродження
+categories:
+  - ЗадачаПідвищеноїСкладності
+  - ЦивілізаційнеДослідження
+series: ЗадачаПідвищеноїСкладності
+series_index: 1
+country: PT
+status: published
+featured: true
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp
+alt: Монументальний перехід від темряви до світла, що поєднує Іран і Персію через символічний цивілізаційний перехід.
+related:
+  - process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
+authors: Anna Pivtorak
+draft: false
+canonical: https://pivtorak.studio/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/
+toc: true
+weight: 1
+completion: 100
+seo: true
+distribution: true
+search: indexed
+bookCollapseSection: true
+architecture_level:
+  - CivilizationalProgram
+civilization:
+  - PersianCivilization
+research_domain:
+  - PoliticalDesign
+  - CivilizationalStudies
+  - SystemsThinking
+historical_scope:
+  - Contemporary
+  - Transitional
+  - FutureOriented
+systemic_level:
+  - Civilizational
+geographic_scope:
+  - Iran
+  - MiddleEast
+  - Global
+related_domains:
+  - Governance
+  - Identity
+  - Ethics
+  - Security
+  - Culture
+core_question: Як суспільство, захоплене режимом, може перейти від виживання системи до цивілізаційного відродження?
+primary_scale:
+  - Civilization
+knowledge_type:
+  - ResearchFramework
+symbolic_framework:
+  - EthicalResonance
+  - SystemicSolutionManifesto
+system_role:
+  - ParentSeries
+system_position:
+  - Level1
+framework_type:
+  - CivilizationalTransitionModel
+entry_point:
+  - IranToPersia
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/#webpage",
+  "url": "https://pivtorak.studio/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/",
+  "name": "Іран – Персія: Цивілізаційний Перехід",
+  "headline": "Іран – Персія: Цивілізаційний Перехід",
+  "description": "Цивілізаційне дослідження з 30 робіт, присвячене переходу від демонтажу режиму до відродження Персії як вільної, етичної та глобально інтегрованої цивілізації.",
+  "inLanguage": "uk",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/uk/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio"
+  },
+  "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp",
+  "datePublished": "2026-01-16T10:00:00+00:00",
+  "dateModified": "2026-01-16T10:00:00+00:00",
+  "about": [
+    "Іран",
+    "Персія",
+    "Цивілізаційний Перехід",
+    "Політичний Дизайн",
+    "Етичний Резонанс",
+    "Системне Мислення"
+  ]
+}
+</script>
+
+![Іран – Персія: Цивілізаційний Перехід](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp)
+
+**👨‍⚖️ Декларація автора**
+
+Ця публікація є частиною авторського дослідницько-мистецького проєкту Незалежного Дослідника та Творця (Аналітика-Митця).
+Матеріал базується на аналізі відкритих джерел та відображає особисту дослідницьку позицію автора.
+Метафори, образи, символи та концептуальні моделі можуть мати алегоричний характер і використовуються як інструменти філософського та системного аналізу.
+Матеріал не є юридичним звинуваченням, журналістським розслідуванням або офіційним висновком будь-якої установи.
+
+---
+# Іран – Персія: Цивілізаційний Перехід
+
+_Від демонтажу режиму до відродження цивілізації_
+
+Ця серія є частиною проєкту **✯ Задача Підвищеної Складності (The Asterisk Problem)** — дослідження системних криз, які неможливо розв’язати звичайними політичними, військовими чи економічними інструментами.
+
+Іран став першим цивілізаційним кейсом цього дослідження.
+
+Метою серії не є аналіз окремих політиків, партій чи подій. Вона розглядає глибшу структуру — механізми, які дозволяють режимам існувати, відтворюватися та зберігати контроль над суспільством навіть тоді, коли вони втратили моральну легітимність.
+
+Дослідження побудоване як послідовність із **30 взаємопов’язаних робіт**, які проходять шлях від фіксації трагедії до формування образу майбутнього.
+
+Кожна робота складається з двох рівнів:
+
+🔔 **Ethical Resonance** — художньо-філософський образ, що дозволяє побачити явище через символ, структуру та людський досвід.
+
+📐 **Systemic Solution Manifesto** — аналітичний протокол, який формулює проблему як системну задачу та пропонує логіку її розв’язання.
+
+Разом ці два рівні утворюють міст між емоційним сприйняттям і системним мисленням.
+
+Серія організована у дев’ять циклів:
+
+I. Трагедія  
+ІІ. Після Трагедії  
+ІІІ. Діагноз Системи  
+IV. Точка Вразливості  
+V. Середовище протесту  
+VI. Десакралізація Страху  
+VII. Відродження Ідентичності  
+VIII. Точка Переходу  
+IX. Персія 2.0: Глобальне Вимірювання   
+
+Поступово фокус зміщується від режиму до суспільства, від суспільства до цивілізації, а від цивілізації — до людини.  
+Фінальною точкою дослідження стає не держава, не політична система і не історичний символ.  
+Фінальною точкою стає людина як суб’єкт.  
+
+Саме тому ця серія має подвійну назву.  
+**Іран** описує проблему.  
+**Персія** описує потенціал.  
+Між ними лежить цивілізаційний перехід.  
+
+---
+
+**Alt-text:**    
+Монументальний перехід від темряви до світла, що поєднує Іран і Персію через символічний цивілізаційний перехід.
+
+_Задача Підвищеної Складності (Задача з Зірочкою). Іран – Персія: Цивілізаційний Перехід. AP | Pivtorak.Studio. 16.01.2026_    
+© Анна Півторак (Костюк)  
+
+🛡️ Кожна публікація є частиною авторського дослідницько-мистецького проєкту.  
+Матеріал базується на аналізі відкритих джерел та містить авторські інтерпретації, метафори й концептуальні моделі.  
+Описані образи можуть мати алегоричний характер і не є юридичними звинуваченнями або офіційними висновками щодо будь-яких осіб, організацій чи держав.
+
+---
+
+{{< section >}}

@@ -1,7 +1,7 @@
 ---
-id: extra-credit-problem-001-iran–persia-a-civilizational-transition
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition
 language: en
-translation_of: extra-credit-problem-001-iran–persia-a-civilizational-transition
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition
 title: "001 Iran – Persia: A Civilizational Transition"
 description: A 30-part civilizational research series exploring the transition from regime dismantling to the revival of Persia as a free, ethical, and globally integrated civilization.
 summary: The first civilizational case study of The Asterisk Problem, combining Ethical Resonance and Systemic Solution Manifesto across thirty interconnected works.
@@ -39,13 +39,13 @@ series_index: 1
 country: PT
 status: published
 featured: true
-image: /images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp
 alt: A monumental passage from darkness to light connecting Iran and Persia through a symbolic civilizational transition.
 related:
   - process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 authors: Anna Pivtorak
 draft: false
-canonical: https://pivtorak.studio/en/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/
+canonical: https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/
 toc: true
 weight: 1
 completion: 100
@@ -98,8 +98,8 @@ entry_point:
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "@id": "https://pivtorak.studio/en/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/#webpage",
-  "url": "https://pivtorak.studio/en/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/",
+  "@id": "https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/#webpage",
+  "url": "https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/",
   "name": "Iran – Persia: A Civilizational Transition",
   "headline": "Iran – Persia: A Civilizational Transition",
   "description": "A 30-part civilizational research series exploring the transition from regime dismantling to the revival of Persia as a free, ethical, and globally integrated civilization.",
@@ -118,7 +118,7 @@ entry_point:
     "name": "Pivtorak.Studio",
     "url": "https://pivtorak.studio/en/"
   },
-  "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp",
+  "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp",
   "datePublished": "2026-01-16T10:00:00+00:00",
   "dateModified": "2026-01-16T10:00:00+00:00",
   "about": [
@@ -133,7 +133,7 @@ entry_point:
 </script>
 
 
-![Iran – Persia: A Civilizational Transition](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp)
+![Iran – Persia: A Civilizational Transition](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp)
 
 **👨‍⚖️ Author's Declaration**  
 

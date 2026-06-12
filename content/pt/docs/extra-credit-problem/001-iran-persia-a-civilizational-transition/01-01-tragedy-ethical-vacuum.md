@@ -1,95 +1,93 @@
 ---
-id: extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
 language: pt
-translation_of: extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
-
-title: "01-01 Tragédia. Vácuo Ético"
-
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+title: 01-01 Tragédia. Vácuo Ético
 description: "O diagnóstico inicial da tragédia iraniana: um sistema onde o poder se separou da consciência, criando um vazio que absorve a lei, a responsabilidade e a dignidade humana."
-summary: "Uma análise do vazio ético no centro das estruturas autoritárias e das consequências sistémicas da governação sem responsabilidade moral."
-
+summary: Uma análise do vazio ético no centro das estruturas autoritárias e das consequências sistémicas da governação sem responsabilidade moral.
 event_date: 2026-01-16T11:00:00
 publication_date: 2026-01-16T11:00:00
 lastmod: 2026-01-16T11:00:00
-
 slug: 01-01-tragedy-ethical-vacuum
-
-tags: [DesafioDeNívelSuperior, RessonânciaÉtica, Irão, Pérsia, Tragédia, VácuoÉtico, DesignPolítico, InvestigaçãoCivilizacional]
-keywords: [Irão, Pérsia, Vácuo Ético, Autoritarismo, Responsabilidade Moral, Design Político, Análise Sistémica, Mahsa Amini]
-
-categories: [DesafioDeNívelSuperior, Tragédia]
-
+tags:
+  - DesafioDeNívelSuperior
+  - RessonânciaÉtica
+  - Irão
+  - Pérsia
+  - Tragédia
+  - VácuoÉtico
+  - DesignPolítico
+  - InvestigaçãoCivilizacional
+keywords:
+  - Irão
+  - Pérsia
+  - Vácuo Ético
+  - Autoritarismo
+  - Responsabilidade Moral
+  - Design Político
+  - Análise Sistémica
+  - Mahsa Amini
+categories:
+  - DesafioDeNívelSuperior
+  - Tragédia
 series: DesafioDeNívelSuperior
 series_index: 1
-
 country: PT
-
 status: published
 featured: true
-
-image: /images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp
-
-alt: "Silhueta negra de um uniforme governamental com um interior vazio semelhante ao espaço, absorvendo folhas de papel que representam leis."
-
-related: [01-02-tragedy-false-dialogue, 01-03-tragedy-expendable-material]
-
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp
+alt: Silhueta negra de um uniforme governamental com um interior vazio semelhante ao espaço, absorvendo folhas de papel que representam leis.
+related:
+  - 01-02-tragedy-false-dialogue
+  - 01-03-tragedy-expendable-material
 authors: Anna Pivtorak
-
 draft: false
-
-canonical: https://pivtorak.studio/pt/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/
-
+canonical: https://pivtorak.studio/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/
 toc: true
 weight: 1
-
 completion: 100
 seo: true
 distribution: true
 search: indexed
-
 core_domain: ethics
-
-civilizational_layer: [state, governance]
-
-primary_tension: [power, conscience]
-
-protects: [human_dignity, moral_responsibility, accountability]
-
-opposes: [ethical_void, dehumanization, authoritarianism]
-
-system_function: "Estabelece o diagnóstico fundamental da série ao identificar a ausência de retorno ético dentro do regime."
-
-validation_question: "A pressão moral pode influenciar um sistema que não possui receptor ético?"
-
-success_indicator: "Reconhecimento de que a crise não resulta de falhas políticas, mas da ausência de responsabilidade moral."
-
-symbol: "Uniforme Vazio"
-
+civilizational_layer:
+  - state
+  - governance
+primary_tension:
+  - power
+  - conscience
+protects:
+  - human_dignity
+  - moral_responsibility
+  - accountability
+opposes:
+  - ethical_void
+  - dehumanization
+  - authoritarianism
+system_function: Estabelece o diagnóstico fundamental da série ao identificar a ausência de retorno ético dentro do regime.
+validation_question: A pressão moral pode influenciar um sistema que não possui receptor ético?
+success_indicator: Reconhecimento de que a crise não resulta de falhas políticas, mas da ausência de responsabilidade moral.
+symbol: Uniforme Vazio
 civilization: persia
-
 research_domain: iran-persia
-
-historical_scope: [modern]
-
-systemic_level: [state, society]
-
-geographic_scope: [iran]
-
-related_domains: [afghanistan, pakistan]
-
-timeline: "I. Tragédia"
-
-ethical_resonance: "Onde não há coração, não há lei."
-
+historical_scope:
+  - modern
+systemic_level:
+  - state
+  - society
+geographic_scope:
+  - iran
+related_domains:
+  - afghanistan
+  - pakistan
+timeline: I. Tragédia
+ethical_resonance: Onde não há coração, não há lei.
 manifesto_type: diagnosis
-
 project: "Irão – Pérsia: Uma Transição Civilizacional"
-
-project_stage: "I. Tragédia"
-
-navigation_order: "01-01"
+project_stage: I. Tragédia
+navigation_order: 01-01
 ---
-![Irão – Pérsia: Uma Transição Civilizacional (I. Tragédia. Vácuo Ético)](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
+![Irão – Pérsia: Uma Transição Civilizacional (I. Tragédia. Vácuo Ético)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
 
 **👨‍⚖️ Declaração da Autora**  
 

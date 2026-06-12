@@ -1,7 +1,7 @@
 ---
-id: extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
 language: en
-translation_of: extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
 title: 01-01 Tragedy. Ethical Vacuum
 description: "The opening diagnosis of the Iranian tragedy: a system in which power has become detached from conscience, creating a vacuum that absorbs law, responsibility, and human dignity."
 summary: An examination of the ethical vacuum at the center of authoritarian power structures and the systemic consequences of governance without moral accountability.
@@ -35,7 +35,7 @@ series_index: 1
 country: PT
 status: published
 featured: true
-image: /images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp
 alt: Black silhouette of a governmental uniform with an empty, space-like interior absorbing white paper sheets representing laws.
 related:
   - 01-02-tragedy-false-dialogue
@@ -44,7 +44,7 @@ related:
 authors: Anna Pivtorak
 draft: false
 canonical:
-  - https://pivtorak.studio/en/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/
+  - https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/
 toc: true
 weight: 1
 completion: 100
@@ -89,7 +89,7 @@ navigation_order: 01-01
 ---
 
 
-![Iran – Persia: A Civilizational Transition (I. Tragedy. Ethical Vacuum)](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
+![Iran – Persia: A Civilizational Transition (I. Tragedy. Ethical Vacuum)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
 
 **👨‍⚖️ Author's Declaration**  
 

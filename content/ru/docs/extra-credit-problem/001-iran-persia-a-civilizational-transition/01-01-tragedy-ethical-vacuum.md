@@ -1,96 +1,94 @@
 ---
-id: extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
 language: ru
-translation_of: extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
-
-title: "01-01 Трагедия. Этический вакуум"
-
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+title: 01-01 Трагедия. Этический вакуум
 description: "Первичный диагноз иранской трагедии: система, в которой власть отделилась от совести, создав пустоту, поглощающую закон, ответственность и человеческое достоинство."
-summary: "Исследование этического вакуума в центре авторитарной структуры и системных последствий управления без моральной ответственности."
-
+summary: Исследование этического вакуума в центре авторитарной структуры и системных последствий управления без моральной ответственности.
 event_date: 2026-01-16T11:00:00
 publication_date: 2026-01-16T11:00:00
 lastmod: 2026-01-16T11:00:00
-
 slug: 01-01-tragedy-ethical-vacuum
-
-tags: [СверхЗадача, ЭтическийРезонанс, Иран, Персия, Трагедия, ЭтическийВакуум, ПолитическийДизайн, ЦивилизационноеИсследование]
-keywords: [Иран, Персия, Этический Вакуум, Авторитаризм, Моральная Ответственность, Политический Дизайн, Системный Анализ, Махса Амини]
-
-categories: [СверхЗадача, Трагедия]
-
+tags:
+  - СверхЗадача
+  - ЭтическийРезонанс
+  - Иран
+  - Персия
+  - Трагедия
+  - ЭтическийВакуум
+  - ПолитическийДизайн
+  - ЦивилизационноеИсследование
+keywords:
+  - Иран
+  - Персия
+  - Этический Вакуум
+  - Авторитаризм
+  - Моральная Ответственность
+  - Политический Дизайн
+  - Системный Анализ
+  - Махса Амини
+categories:
+  - СверхЗадача
+  - Трагедия
 series: СверхЗадача
 series_index: 1
-
 country: PT
-
 status: published
 featured: true
-
-image: /images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp
-
-alt: "Чёрный силуэт государственного мундира с пустым космическим пространством внутри, поглощающим листы бумаги, символизирующие законы."
-
-related: [01-02-tragedy-false-dialogue, 01-03-tragedy-expendable-material]
-
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp
+alt: Чёрный силуэт государственного мундира с пустым космическим пространством внутри, поглощающим листы бумаги, символизирующие законы.
+related:
+  - 01-02-tragedy-false-dialogue
+  - 01-03-tragedy-expendable-material
 authors: Anna Pivtorak
-
 draft: false
-
-canonical: https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/
-
+canonical: https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/
 toc: true
 weight: 1
-
 completion: 100
 seo: true
 distribution: true
 search: indexed
-
 core_domain: ethics
-
-civilizational_layer: [state, governance]
-
-primary_tension: [power, conscience]
-
-protects: [human_dignity, moral_responsibility, accountability]
-
-opposes: [ethical_void, dehumanization, authoritarianism]
-
-system_function: "Фиксирует базовый диагноз серии, выявляя отсутствие этической обратной связи внутри режима."
-
-validation_question: "Способно ли моральное давление воздействовать на систему, не имеющую этического приёмника?"
-
-success_indicator: "Осознание того, что источник кризиса заключается не в политических ошибках, а в отсутствии моральной ответственности."
-
-symbol: "Пустой Мундир"
-
+civilizational_layer:
+  - state
+  - governance
+primary_tension:
+  - power
+  - conscience
+protects:
+  - human_dignity
+  - moral_responsibility
+  - accountability
+opposes:
+  - ethical_void
+  - dehumanization
+  - authoritarianism
+system_function: Фиксирует базовый диагноз серии, выявляя отсутствие этической обратной связи внутри режима.
+validation_question: Способно ли моральное давление воздействовать на систему, не имеющую этического приёмника?
+success_indicator: Осознание того, что источник кризиса заключается не в политических ошибках, а в отсутствии моральной ответственности.
+symbol: Пустой Мундир
 civilization: persia
-
 research_domain: iran-persia
-
-historical_scope: [modern]
-
-systemic_level: [state, society]
-
-geographic_scope: [iran]
-
-related_domains: [afghanistan, pakistan]
-
-timeline: "I. Трагедия"
-
-ethical_resonance: "Где нет сердца, нет закона."
-
+historical_scope:
+  - modern
+systemic_level:
+  - state
+  - society
+geographic_scope:
+  - iran
+related_domains:
+  - afghanistan
+  - pakistan
+timeline: I. Трагедия
+ethical_resonance: Где нет сердца, нет закона.
 manifesto_type: diagnosis
-
 project: "Иран – Персия: Цивилизационный Переход"
-
-project_stage: "I. Трагедия"
-
-navigation_order: "01-01"
+project_stage: I. Трагедия
+navigation_order: 01-01
 ---
 
-![Иран – Персия: Цивилизационный Переход (I. Трагедия. Этический вакуум)](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
+![Иран – Персия: Цивилизационный Переход (I. Трагедия. Этический вакуум)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
 
 **👨‍⚖️ Декларация автора**   
 

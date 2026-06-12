@@ -1,7 +1,7 @@
 ---
-id: extra-credit-problem-001-iran–persia-a-civilizational-transition
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition
 language: ru
-translation_of: extra-credit-problem-001-iran–persia-a-civilizational-transition
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition
 title: "001 Иран – Персия: Цивилизационный Переход"
 description: Цивилизационное исследование из 30 работ, посвящённое переходу от демонтажа режима к возрождению Персии как свободной, этической и глобально интегрированной цивилизации.
 summary: Первый цивилизационный кейс проекта The Asterisk Problem, объединяющий Этический Резонанс и Манифест Системного Решения.
@@ -33,13 +33,13 @@ series_index: 1
 country: PT
 status: published
 featured: true
-image: /images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp
 alt: Монументальный переход из тьмы к свету, соединяющий Иран и Персию через символический цивилизационный переход.
 related:
   - process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 authors: Anna Pivtorak
 draft: false
-canonical: https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/
+canonical: https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/
 toc: true
 weight: 1
 completion: 100
@@ -92,8 +92,8 @@ entry_point:
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "@id": "https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/#webpage",
-  "url": "https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran–persia-a-civilizational-transition/",
+  "@id": "https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/#webpage",
+  "url": "https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/",
   "name": "Иран – Персия: Цивилизационный Переход",
   "headline": "Иран – Персия: Цивилизационный Переход",
   "description": "Цивилизационное исследование из 30 работ, посвящённое переходу от демонтажа режима к возрождению Персии как свободной, этической и глобально интегрированной цивилизации.",
@@ -111,7 +111,7 @@ entry_point:
     "@type": "Organization",
     "name": "Pivtorak.Studio"
   },
-  "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp",
+  "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp",
   "datePublished": "2026-01-16T10:00:00+00:00",
   "dateModified": "2026-01-16T10:00:00+00:00",
   "about": [
@@ -126,7 +126,7 @@ entry_point:
 </script>
 
 
-![Иран – Персия: Цивилизационный Переход](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp)
+![Иран – Персия: Цивилизационный Переход](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition.webp)
 
 **👨‍⚖️ Декларация автора**   
 

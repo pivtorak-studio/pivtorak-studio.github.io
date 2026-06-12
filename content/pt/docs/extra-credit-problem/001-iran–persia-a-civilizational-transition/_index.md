@@ -129,6 +129,14 @@ entry_point:
 
 ![Irão – Pérsia: Uma Transição Civilizacional](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp)
 
+**👨‍⚖️ Declaração da Autora**  
+
+Esta publicação faz parte de um projeto autoral de investigação e criação artística desenvolvido por uma Investigadora Independente e Criadora (Analista-Artista).
+O material baseia-se na análise de fontes abertas e reflete a perspetiva pessoal de investigação da autora.
+Metáforas, imagens, símbolos e modelos conceptuais podem ter caráter alegórico e são utilizados como instrumentos de análise filosófica e sistémica.
+Este material não constitui uma acusação jurídica, uma investigação jornalística ou uma conclusão oficial de qualquer instituição.
+
+---
 # Irão – Pérsia: Uma Transição Civilizacional
 
 _Do Desmantelamento de um Regime ao Renascimento de uma Civilização_

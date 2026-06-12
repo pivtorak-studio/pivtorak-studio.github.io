@@ -135,6 +135,14 @@ entry_point:
 
 ![Iran – Persia: A Civilizational Transition](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition.webp)
 
+**👨‍⚖️ Author's Declaration**  
+
+This publication is part of an authorial research and artistic project created by an Independent Researcher and Creator (Analyst-Artist).
+The material is based on the analysis of open sources and reflects the author's personal research perspective.
+Metaphors, imagery, symbols, and conceptual models may have an allegorical character and are used as tools of philosophical and systemic analysis.
+This material is not a legal accusation, a journalistic investigation, or an official conclusion of any institution.
+
+---
 # Iran – Persia: A Civilizational Transition
 
 _From the Dismantling of a Regime to the Revival of Civilization_

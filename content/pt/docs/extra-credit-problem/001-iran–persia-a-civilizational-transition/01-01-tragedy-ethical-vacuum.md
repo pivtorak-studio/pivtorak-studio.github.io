@@ -91,19 +91,20 @@ navigation_order: "01-01"
 ---
 ![Irão – Pérsia: Uma Transição Civilizacional (I. Tragédia. Vácuo Ético)](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
 
-**👨‍⚖️ Declaração da Autora**
+**👨‍⚖️ Declaração da Autora**  
+
 Esta publicação faz parte de um projeto autoral de investigação e criação artística desenvolvido por uma Investigadora Independente e Criadora (Analista-Artista).
 O material baseia-se na análise de fontes abertas e reflete a perspetiva pessoal de investigação da autora.
 Metáforas, imagens, símbolos e modelos conceptuais podem ter caráter alegórico e são utilizados como instrumentos de análise filosófica e sistémica.
 Este material não constitui uma acusação jurídica, uma investigação jornalística ou uma conclusão oficial de qualquer instituição.
 
 ---
-**✯ Desafio De Nível Superior (Problema com Estrela)**
+**✯ Desafio De Nível Superior (Problema com Estrela)**  
 
-**Irão – Pérsia: Uma Transição Civilizacional** 
-*Do Desmantelamento de um Regime ao Renascimento de uma Civilização*
+**Irão – Pérsia: Uma Transição Civilizacional**   
+*Do Desmantelamento de um Regime ao Renascimento de uma Civilização*  
 
-# I. Tragédia. Vácuo Ético
+# I. Tragédia. Vácuo Ético  
 
 ---
 ## 🔔 Ressonância Ética

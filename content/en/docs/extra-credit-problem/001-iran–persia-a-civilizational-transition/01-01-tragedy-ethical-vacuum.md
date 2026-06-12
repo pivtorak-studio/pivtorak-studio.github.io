@@ -91,22 +91,23 @@ navigation_order: 01-01
 
 ![Iran – Persia: A Civilizational Transition (I. Tragedy. Ethical Vacuum)](/images/extra-credit-problem-001-iran–persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
 
-**👨‍⚖️ Author's Declaration**
+**👨‍⚖️ Author's Declaration**  
+
 This publication is part of an authorial research and artistic project created by an Independent Researcher and Creator (Analyst-Artist).
 The material is based on the analysis of open sources and reflects the author's personal research perspective.
 Metaphors, imagery, symbols, and conceptual models may have an allegorical character and are used as tools of philosophical and systemic analysis.
 This material is not a legal accusation, a journalistic investigation, or an official conclusion of any institution.
 
 ---
-**✯ Extra Credit Problem (The Asterisk Problem)**
+**✯ Extra Credit Problem (The Asterisk Problem)**  
 
-**Iran – Persia: A Civilizational Transition**
-*From the Dismantling of a Regime to the Revival of Civilization*
+**Iran – Persia: A Civilizational Transition**  
+*From the Dismantling of a Regime to the Revival of Civilization*  
 
-# I. Tragedy. Ethical Vacuum
+# I. Tragedy. Ethical Vacuum  
 
 ---
-## 🔔 Ethical Resonance
+## 🔔 Ethical Resonance   
 
 A black silhouette of a state uniform stands motionless. Inside it there are no organs, no face, no center. Only a deep emptiness, resembling outer space, slowly pulling in white sheets of paper — laws, appeals, names, dates.
 
@@ -117,7 +118,7 @@ A person inside this reality feels more than fear. They encounter emptiness in r
 **Where there is no heart, there is no law.**
 
 ---
-## 📐 Systemic Solution Manifesto
+## 📐 Systemic Solution Manifesto   
 
 **[GIVEN]: 
 The conditions we must change** The world is accustomed to perceiving Iran as a "sovereign state" with its institutions, diplomacy, and laws. This is an illusion. **Given:** A territory inhabited by over 85 million people is effectively captured by a religious-criminal group that uses the state form as camouflage for terror.

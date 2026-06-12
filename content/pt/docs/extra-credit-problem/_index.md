@@ -170,6 +170,7 @@ Um símbolo luminoso em forma de estrela ligando um mundo de crise a um mundo de
 
 _Desafio de Nível Superior (Problema com Estrela). AP | Pivtorak.Studio. 16.01.2026_  
 © Anna Pivtorak (Kostyuk)   
+
 🛡️ Cada publicação faz parte de um projeto autoral de investigação e criação artística.  
 O material baseia-se na análise de fontes abertas e contém interpretações, metáforas e modelos conceptuais da autora.  
 As imagens e conceitos descritos podem ter natureza alegórica e não constituem acusações jurídicas nem conclusões oficiais relativas a quaisquer pessoas, organizações ou Estados.  

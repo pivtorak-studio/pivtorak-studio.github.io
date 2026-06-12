@@ -3,6 +3,10 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "discipline_principle": "multitext"
+    "discipline_principle": "multitext",
+    "civilizational_layer": "multitext",
+    "primary_tension": "multitext",
+    "related_domains": "multitext",
+    "systemic_level": "multitext"
   }
 }

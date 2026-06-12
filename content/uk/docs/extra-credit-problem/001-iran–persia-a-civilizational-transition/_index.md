@@ -8,7 +8,7 @@ summary: Перший цивілізаційний кейс проєкту The A
 event_date: 2026-01-16T10:00:00
 publication_date: 2026-01-16T10:00:00
 lastmod: 2026-01-16T10:00:00
-slug: 001-iran–persia-a-civilizational-transition
+slug: 001-iran-persia-a-civilizational-transition
 tags:
   - Іран
   - Персія

@@ -92,7 +92,7 @@ navigation_order: 01-03
 
 
 
-![Irão – Pérsia: Uma Transição Civilizacional (I. Tragédia. Material Consumível)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-03-tragedy-consumable-materia.webp)
+![Irão – Pérsia: Uma Transição Civilizacional (I. Tragédia. Material Consumível)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-03-tragedy-consumable-material.webp)
 
 **👨‍⚖️ Declaração da Autora**    
 

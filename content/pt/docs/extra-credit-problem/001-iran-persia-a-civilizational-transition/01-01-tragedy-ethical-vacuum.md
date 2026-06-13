@@ -87,65 +87,66 @@ project: "Irão – Pérsia: Uma Transição Civilizacional"
 project_stage: I. Tragédia
 navigation_order: 01-01
 ---
+
 ![Irão – Pérsia: Uma Transição Civilizacional (I. Tragédia. Vácuo Ético)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)
 
-**👨‍⚖️ Declaração da Autora**  
+**👨‍⚖️ Declaração da Autora**    
 
-Esta publicação faz parte de um projeto autoral de investigação e criação artística desenvolvido por uma Investigadora Independente e Criadora (Analista-Artista).
-O material baseia-se na análise de fontes abertas e reflete a perspetiva pessoal de investigação da autora.
-Metáforas, imagens, símbolos e modelos conceptuais podem ter caráter alegórico e são utilizados como instrumentos de análise filosófica e sistémica.
-Este material não constitui uma acusação jurídica, uma investigação jornalística ou uma conclusão oficial de qualquer instituição.
-
----
-**✯ Desafio De Nível Superior (Problema com Estrela)**  
-
-**Irão – Pérsia: Uma Transição Civilizacional**   
-*Do Desmantelamento de um Regime ao Renascimento de uma Civilização*  
-
-# I. Tragédia. Vácuo Ético  
+Esta publicação faz parte de um projeto autoral de investigação e criação artística desenvolvido por uma Investigadora Independente e Criadora (Analista-Artista).  
+O material baseia-se na análise de fontes abertas e reflete a perspetiva pessoal de investigação da autora.  
+Metáforas, imagens, símbolos e modelos conceptuais podem ter caráter alegórico e são utilizados como instrumentos de análise filosófica e sistémica.  
+Este material não constitui uma acusação jurídica, uma investigação jornalística ou uma conclusão oficial de qualquer instituição.  
 
 ---
-## 🔔 Ressonância Ética
+**✯ Desafio De Nível Superior (Problema com Estrela)**    
 
-Um silhueta negra de um uniforme de Estado permanece imóvel. No seu interior não há órgãos, nem rosto, nem centro. Apenas um vazio profundo, semelhante ao espaço, que suga lentamente folhas brancas de papel — leis, apelos, nomes, datas.
+**Irão – Pérsia: Uma Transição Civilizacional**     
+*Do Desmantelamento de um Regime ao Renascimento de uma Civilização*    
 
-Assim se apresenta um sistema onde o poder está desligado da consciência. No Irão, os protestos não conseguiram quebrar esta estrutura porque ela não possui um recetor interno para a pressão moral. As palavras não chegam. Os apelos não são registados. As vidas não têm peso. Onde deveria existir responsabilidade, existe apenas absorção.
-
-A pessoa dentro desta realidade sente mais do que medo. Enfrenta o vazio como resposta. A ausência de retorno. Um silêncio que não é paz, mas a prova de que, do outro lado, não há ninguém.
-
-**Onde não há coração, não há lei.**
+# I. Tragédia. Vácuo Ético    
 
 ---
-## 📐 Manifesto de Solução Sistémica
+## 🔔 Ressonância Ética   
 
-**[DADOS]: 
-As condições que temos de mudar** O mundo habituou-se a perceber o Irão como um "estado soberano" com as suas instituições, diplomacia e leis. Isto é uma ilusão. **Dados:** Um território habitado por mais de 85 milhões de pessoas está, de facto, capturado por um grupo religioso-criminoso que utiliza a forma estatal como camuflagem para o terror.
-- **Sujeito:** Um regime mantido por execuções e fornecimento de armas (drones suicidas para a agressão contra a Ucrânia, apoio a proxies terroristas).
-- **Objeto:** Um povo privado do direito ao seu próprio corpo, voz e futuro.
-- **Factos:** O assassinato de **Mahsa Amini** (22 anos) por um "hijab inadequado", os fuzilamentos de manifestantes na "Sexta-feira Sangrenta" em Zahedan e execuções públicas por enforcamento em guindastes de construção.
+Um silhueta negra de um uniforme de Estado permanece imóvel. No seu interior não há órgãos, nem rosto, nem centro. Apenas um vazio profundo, semelhante ao espaço, que suga lentamente folhas brancas de papel — leis, apelos, nomes, datas.  
 
-**[PARÂMETROS DE ASSIMETRIA]**:
-Constatamos a **desigualdade** que torna o protesto clássico impossível:
-1. **Física:** Corpos humanos desarmados contra o Corpo de Guardiões da Revolução Islâmica (IRGC) e as unidades paramilitares "Basij".
-2. **Jurídica:** As leis que existem no papel não são uma proteção; são instrumentos de acusação.
-3. **Ética:** Os cidadãos agem no campo da moralidade e da dignidade; o regime age num campo de zero empatia.
+Assim se apresenta um sistema onde o poder está desligado da consciência. No Irão, os protestos não conseguiram quebrar esta estrutura porque ela não possui um recetor interno para a pressão moral. As palavras não chegam. Os apelos não são registados. As vidas não têm peso. Onde deveria existir responsabilidade, existe apenas absorção.  
 
-**[ANÁLISE]: 
-Vácuo Ético** No centro deste sistema encontra-se um "Vácuo Ético". Não é apenas a ausência de bem; é um buraco negro ativo. Quando olhamos para um oficial ou agente iraniano, vemos uma farda. Mas dentro dela não há estado. O estado é um contrato social para proteger a vida. Se um "estado" mata os seus filhos, deixa de ser um estado. Torna-se um vazio. Este vazio absorve constituições, acordos internacionais e destinos humanos, transformando-os em cinzas.
+A pessoa dentro desta realidade sente mais do que medo. Enfrenta o vazio como resposta. A ausência de retorno. Um silêncio que não é paz, mas a prova de que, do outro lado, não há ninguém.  
 
-> **Frase-chave:** "Onde não há coração, não há lei."
-
-**[CONCLUSÃO]**:
-A tragédia iraniana expôs um erro global: 
-ainda acreditamos que os sistemas criminosos têm um núcleo ético sobre o qual se pode exercer pressão. 
-Estávamos errados. 
-**A pressão moral sobre o vácuo não produz resultados.**
+**Onde não há coração, não há lei.**  
 
 ---
-**Alt-text:**  
-Silhueta negra de um uniforme estatal com interior vazio semelhante ao espaço, sugando folhas brancas de papel que representam leis.
+## 📐 Manifesto de Solução Sistémica  
 
-_✯ Desafio De Nível Superior (Problema com Estrela). Irão – Pérsia: Uma Transição Civilizacional. I. Tragédia. Vácuo Ético. AP | Pivtorak.Studio. 16.01.2026_  
+### [DADOS]:   
+**As condições que temos de mudar** O mundo habituou-se a perceber o Irão como um "estado soberano" com as suas instituições, diplomacia e leis. Isto é uma ilusão. **Dados:** Um território habitado por mais de 85 milhões de pessoas está, de facto, capturado por um grupo religioso-criminoso que utiliza a forma estatal como camuflagem para o terror.  
+- **Sujeito:** Um regime mantido por execuções e fornecimento de armas (drones suicidas para a agressão contra a Ucrânia, apoio a proxies terroristas).  
+- **Objeto:** Um povo privado do direito ao seu próprio corpo, voz e futuro.  
+- **Factos:** O assassinato de **Mahsa Amini** (22 anos) por um "hijab inadequado", os fuzilamentos de manifestantes na "Sexta-feira Sangrenta" em Zahedan e execuções públicas por enforcamento em guindastes de construção.  
+
+### [PARÂMETROS DE ASSIMETRIA]:  
+Constatamos a **desigualdade** que torna o protesto clássico impossível:  
+1. **Física:** Corpos humanos desarmados contra o Corpo de Guardiões da Revolução Islâmica (IRGC) e as unidades paramilitares "Basij".  
+2. **Jurídica:** As leis que existem no papel não são uma proteção; são instrumentos de acusação.   
+3. **Ética:** Os cidadãos agem no campo da moralidade e da dignidade; o regime age num campo de zero empatia.   
+
+### [ANÁLISE]:    
+**Vácuo Ético** No centro deste sistema encontra-se um "Vácuo Ético". Não é apenas a ausência de bem; é um buraco negro ativo. Quando olhamos para um oficial ou agente iraniano, vemos uma farda. Mas dentro dela não há estado. O estado é um contrato social para proteger a vida. Se um "estado" mata os seus filhos, deixa de ser um estado. Torna-se um vazio. Este vazio absorve constituições, acordos internacionais e destinos humanos, transformando-os em cinzas.   
+
+> **Frase-chave:** "Onde não há coração, não há lei."   
+
+### [CONCLUSÃO]:   
+A tragédia iraniana expôs um erro global:    
+ainda acreditamos que os sistemas criminosos têm um núcleo ético sobre o qual se pode exercer pressão.   
+Estávamos errados.   
+**A pressão moral sobre o vácuo não produz resultados.**   
+
+---
+**Alt-text:**    
+Silhueta negra de um uniforme estatal com interior vazio semelhante ao espaço, sugando folhas brancas de papel que representam leis.  
+
+_✯ Desafio De Nível Superior (Problema com Estrela). Irão – Pérsia: Uma Transição Civilizacional. I. Tragédia. Vácuo Ético. AP | Pivtorak.Studio. 16.01.2026_    
 © Anna Pivtorak (Kostyuk) 
 
 🛡️ Esta publicação faz parte de um projeto autoral de investigação e criação artística.   

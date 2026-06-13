@@ -2,57 +2,69 @@
 id: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 language: pt
 translation_of: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
-
 title: "20260131 Irão – Pérsia: Do Desmantelamento de um Regime ao Renascimento de uma Civilização"
-description: "Documentação do surgimento, evolução e conclusão de um ciclo de investigação civilizacional que transformou o estudo do desmantelamento de um regime num modelo de renovação cultural e sistémica."
-summary: "Entrada do Diário do Processo que regista a transição da análise de estruturas autoritárias para o desenho de um futuro civilizacional através do modelo Pérsia 2.0."
-
+description: Documentação do surgimento, evolução e conclusão de um ciclo de investigação civilizacional que transformou o estudo do desmantelamento de um regime num modelo de renovação cultural e sistémica.
+summary: Entrada do Diário do Processo que regista a transição da análise de estruturas autoritárias para o desenho de um futuro civilizacional através do modelo Pérsia 2.0.
 event_date: 2026-01-31T09:00:00
 publication_date: 2026-01-31T09:00:00
 lastmod: 2026-01-31T09:00:00
-
 slug: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
-
-tags: [DiárioDoProcesso, Proveniência, InvestigaçãoCivilizacional, Irão, Pérsia, Persia2_0, DesignDeSistemas, DesignPolítico, RenovaçãoCultural, Transformação]
-keywords: [Irão, Pérsia, Renascimento Civilizacional, Desmantelamento de Regime, Pérsia 2.0, Diário do Processo, Proveniência, Design Político]
-categories: [DiárioDoProcesso, InvestigaçãoCivilizacional]
+tags:
+  - DiárioDoProcesso
+  - Proveniência
+  - InvestigaçãoCivilizacional
+  - Irão
+  - Pérsia
+  - Persia2_0
+  - DesignDeSistemas
+  - DesignPolítico
+  - RenovaçãoCultural
+  - Transformação
+keywords:
+  - Irão
+  - Pérsia
+  - Renascimento Civilizacional
+  - Desmantelamento de Regime
+  - Pérsia 2.0
+  - Diário do Processo
+  - Proveniência
+  - Design Político
+categories:
+  - DiárioDoProcesso
+  - InvestigaçãoCivilizacional
 series: DiárioDoProcesso
 series_index: 20260131
-
 country: IR
-
 status: published
 featured: true
-
 image: /images/process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization.webp
-alt: "Mapa simbólico de uma jornada civilizacional concluída, do desmantelamento de um regime ao renascimento da Pérsia como civilização aberta ao futuro."
-
-related: [extra-credit-problem, released-phantom-nodes, national-symbol, peaceful-life]
-
+alt: Mapa simbólico de uma jornada civilizacional concluída, do desmantelamento de um regime ao renascimento da Pérsia como civilização aberta ao futuro.
+related:
+  - extra-credit-problem
+  - released-phantom-nodes
+  - national-symbol
+  - peaceful-life
 authors: Anna Pivtorak
-
 draft: false
 canonical: https://pivtorak.studio/pt/docs/process-diary/2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization/
-
 toc: true
-
 completion: 100
 seo: true
 distribution: true
 search: indexed
-
-origin_trigger: "Procurar o que permanece depois do desmantelamento do medo."
+origin_trigger: Procurar o que permanece depois do desmantelamento do medo.
 process_stage: closure
 decision_type: civilizational_reframing
 system_state: stable
-
-key_shift: "O projeto evoluiu da análise de um regime para a exploração do renascimento de uma civilização."
-
-irreversible_change: "A Pérsia tornou-se um domínio permanente de investigação civilizacional dentro do arquivo."
-
-symbol: "Human Holding a Star"
-
-next_vector: [PeacefulLife, NationalSymbol, ReleasedPhantomNodes, CivilizationalResearch]
+key_shift: O projeto evoluiu da análise de um regime para a exploração do renascimento de uma civilização.
+irreversible_change: A Pérsia tornou-se um domínio permanente de investigação civilizacional dentro do arquivo.
+symbol: Human Holding a Star
+next_vector:
+  - PeacefulLife
+  - NationalSymbol
+  - ReleasedPhantomNodes
+  - CivilizationalResearch
+weight: 1
 ---
 
 <script type="application/ld+json">

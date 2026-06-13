@@ -2,58 +2,68 @@
 id: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 language: uk
 translation_of: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
-
 title: "20260131 Іран – Персія: Від демонтажу режиму до відродження цивілізації"
-description: "Документація виникнення, розвитку та завершення цивілізаційного дослідницького циклу, який перетворив дослідження демонтажу режиму на модель культурного та системного оновлення."
-summary: "Запис Щоденника Процесу, що фіксує перехід від аналізу авторитарних структур до проєктування цивілізаційного майбутнього через концепцію Персія 2.0."
-
+description: Документація виникнення, розвитку та завершення цивілізаційного дослідницького циклу, який перетворив дослідження демонтажу режиму на модель культурного та системного оновлення.
+summary: Запис Щоденника Процесу, що фіксує перехід від аналізу авторитарних структур до проєктування цивілізаційного майбутнього через концепцію Персія 2.0.
 event_date: 2026-01-31T09:00:00
 publication_date: 2026-01-31T09:00:00
 lastmod: 2026-01-31T09:00:00
-
 slug: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
-
-tags: [ЩоденникПроцесу, Походження, ЦивілізаційнеДослідження, Іран, Персія, Persia2_0, СистемнийДизайн, ПолітичнийДизайн, КультурнеВідродження, Трансформація]
-keywords: [Іран, Персія, Відродження Цивілізації, Демонтаж Режиму, Персія 2.0, Щоденник Процесу, Політичний Дизайн]
-categories: [ЩоденникПроцесу, ЦивілізаційнеДослідження]
+tags:
+  - ЩоденникПроцесу
+  - Походження
+  - ЦивілізаційнеДослідження
+  - Іран
+  - Персія
+  - Persia2_0
+  - СистемнийДизайн
+  - ПолітичнийДизайн
+  - КультурнеВідродження
+  - Трансформація
+keywords:
+  - Іран
+  - Персія
+  - Відродження Цивілізації
+  - Демонтаж Режиму
+  - Персія 2.0
+  - Щоденник Процесу
+  - Політичний Дизайн
+categories:
+  - ЩоденникПроцесу
+  - ЦивілізаційнеДослідження
 series: ЩоденникПроцесу
 series_index: 20260131
-
 country: IR
-
 status: published
 featured: true
-
 image: /images/process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization.webp
-alt: "Символічна мапа завершеного цивілізаційного шляху від демонтажу режиму до відродження Персії як відкритої цивілізації майбутнього."
-
-related: [extra-credit-problem, released-phantom-nodes, national-symbol, peaceful-life]
-
+alt: Символічна мапа завершеного цивілізаційного шляху від демонтажу режиму до відродження Персії як відкритої цивілізації майбутнього.
+related:
+  - extra-credit-problem
+  - released-phantom-nodes
+  - national-symbol
+  - peaceful-life
 authors: Anna Pivtorak
-
 draft: false
 canonical: https://pivtorak.studio/uk/docs/process-diary/2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization/
-
 toc: true
-
 completion: 100
 seo: true
 distribution: true
 search: indexed
-
-origin_trigger: "Пошук відповіді на питання, що залишається після демонтажу страху."
-
+origin_trigger: Пошук відповіді на питання, що залишається після демонтажу страху.
 process_stage: closure
 decision_type: civilizational_reframing
 system_state: stable
-
-key_shift: "Проєкт перейшов від аналізу режиму до дослідження відродження цивілізації."
-
-irreversible_change: "Персія стала окремим постійним цивілізаційним дослідницьким простором архіву."
-
-symbol: "Human Holding a Star"
-
-next_vector: [PeacefulLife, NationalSymbol, ReleasedPhantomNodes, CivilizationalResearch]
+key_shift: Проєкт перейшов від аналізу режиму до дослідження відродження цивілізації.
+irreversible_change: Персія стала окремим постійним цивілізаційним дослідницьким простором архіву.
+symbol: Human Holding a Star
+next_vector:
+  - PeacefulLife
+  - NationalSymbol
+  - ReleasedPhantomNodes
+  - CivilizationalResearch
+weight: 1
 ---
 <script type="application/ld+json">
 {

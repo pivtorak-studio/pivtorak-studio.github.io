@@ -120,24 +120,24 @@ A person inside this reality feels more than fear. They encounter emptiness in r
 ---
 ## 📐 Systemic Solution Manifesto   
 
-**[GIVEN]: 
-The conditions we must change** The world is accustomed to perceiving Iran as a "sovereign state" with its institutions, diplomacy, and laws. This is an illusion. **Given:** A territory inhabited by over 85 million people is effectively captured by a religious-criminal group that uses the state form as camouflage for terror.
-- **Subject:** A regime sustained by executions and arms supplies (suicide drones for aggression against Ukraine, support for terrorist proxies).
-- **Object:** A people deprived of the right to their own bodies, voices, and futures.
-- **Specifics:** The murder of **Mahsa Amini** (22) for an "improper hijab," the mass shooting of protesters during "Bloody Friday" in Zahedan, and public executions by hanging from construction cranes.
+### [GIVEN]:  
+**The conditions we must change** The world is accustomed to perceiving Iran as a "sovereign state" with its institutions, diplomacy, and laws. This is an illusion. **Given:** A territory inhabited by over 85 million people is effectively captured by a religious-criminal group that uses the state form as camouflage for terror.  
+- **Subject:** A regime sustained by executions and arms supplies (suicide drones for aggression against Ukraine, support for terrorist proxies).  
+- **Object:** A people deprived of the right to their own bodies, voices, and futures.  
+- **Specifics:** The murder of **Mahsa Amini** (22) for an "improper hijab," the mass shooting of protesters during "Bloody Friday" in Zahedan, and public executions by hanging from construction cranes.  
 
-**[PARAMETERS OF ASYMMETRY]**: 
-We state the **inequality** that makes classic protest impossible:
-1. **Physical:** Unarmed human bodies against the Islamic Revolutionary Guard Corps (IRGC) and "Basij" paramilitary units.
-2. **Legal:** Laws that exist on paper provide no protection; they are tools of prosecution.
-3. **Ethical:** Citizens operate within the field of morality and dignity; the regime operates in a field of zero empathy.
+### [PARAMETERS OF ASYMMETRY]:   
+We state the **inequality** that makes classic protest impossible:  
+1. **Physical:** Unarmed human bodies against the Islamic Revolutionary Guard Corps (IRGC) and "Basij" paramilitary units.  
+2. **Legal:** Laws that exist on paper provide no protection; they are tools of prosecution.  
+3. **Ethical:** Citizens operate within the field of morality and dignity; the regime operates in a field of zero empathy.  
 
-**[ANALYSIS]: 
-Ethical Vacuum** At the center of this system lies an "Ethical Vacuum." This is not just the absence of good; it is an active black hole. When we look at an Iranian official or enforcer, we see a uniform. But inside it, there is no state. A state is a social contract to protect life. If a "state" kills its children, it ceases to be a state. It becomes a void. This void sucks in constitutions, international agreements, and human destinies, turning them into ash.
+### [ANALYSIS]: 
+**Ethical Vacuum** At the center of this system lies an "Ethical Vacuum." This is not just the absence of good; it is an active black hole. When we look at an Iranian official or enforcer, we see a uniform. But inside it, there is no state. A state is a social contract to protect life. If a "state" kills its children, it ceases to be a state. It becomes a void. This void sucks in constitutions, international agreements, and human destinies, turning them into ash.  
 
-> **Key Phrase:** "Where there is no heart, there is no law."
+> **Key Phrase:** "Where there is no heart, there is no law."   
 
-**[CONCLUSION]**: 
+### [CONCLUSION]: 
 The Iranian tragedy has exposed a global error: 
 we still believe that criminal systems have an ethical core that can be pressured. 
 We were wrong. 

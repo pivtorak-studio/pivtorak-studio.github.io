@@ -9,9 +9,24 @@ event_date: 2026-01-17T13:00:00
 publication_date: 2026-01-17T13:00:00
 lastmod: 2026-01-17T13:00:00
 slug: 01-03-tragedy-consumable-material
-tags: [ЭтическийРезонанс, РасходныйМатериал, Дегуманизация, Иран, Персия, ПолитическийДизайн, ЦивилизационныйПереход]
-keywords: [расходный материал, дегуманизация, репрессии, человеческое достоинство, государственное насилие, Иран]
-categories: [СверхЗадача, Трагедия]
+tags:
+  - ЭтическийРезонанс
+  - РасходныйМатериал
+  - Дегуманизация
+  - Иран
+  - Персия
+  - ПолитическийДизайн
+  - ЦивилизационныйПереход
+keywords:
+  - расходный материал
+  - дегуманизация
+  - репрессии
+  - человеческое достоинство
+  - государственное насилие
+  - Иран
+categories:
+  - СверхЗадача
+  - Трагедия
 series: СверхЗадача
 series_index: 3
 country: PT
@@ -19,7 +34,8 @@ status: published
 featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-03-tragedy-consumable-material.webp
 alt: Конвейер, на котором белые человеческие фигуры постепенно превращаются в чёрные металлические винты с красными метками.
-related: [extra-credit-problem-001-iran-persia-a-civilizational-transition]
+related:
+  - extra-credit-problem-001-iran-persia-a-civilizational-transition
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material/
@@ -32,8 +48,14 @@ search: indexed
 core_domain: ethics
 civilizational_layer: governance
 primary_tension: human_dignity_vs_resource_extraction
-protects: [human_dignity, personhood, life]
-opposes: [dehumanization, exploitation, state_violence]
+protects:
+  - human_dignity
+  - personhood
+  - life
+opposes:
+  - dehumanization
+  - exploitation
+  - state_violence
 system_function: expose_dehumanization_mechanism
 validation_question: Признаёт ли система человека ценностью, а не ресурсом?
 success_indicator: Человеческая жизнь перестаёт использоваться как топливо власти.
@@ -43,8 +65,12 @@ research_domain: civilizational_transition
 historical_scope: contemporary
 systemic_level: state
 geographic_scope: Iran
-related_domains: [ethics, governance, human_rights, security]
-timeline: Путь-И-Эволюция
+related_domains:
+  - ethics
+  - governance
+  - human_rights
+  - security
+timeline: /timeline/
 ethical_resonance: Система не видит лиц; она видит калории и часы.
 manifesto_type: verdict
 project: Iran-Persia-A-Civilizational-Transition
@@ -127,7 +153,7 @@ navigation_order: 01-03
 Иранский режим превратил человеческую жизнь в ресурс, который можно использовать и утилизировать. Каждый протестующий, каждый несогласный, каждый гражданин, отказывающийся подчиняться, рассматривается не как личность, а как **единица «расходного материала»**, подлежащего переработке.  
 **Факты:** С момента начала протестов в сентябре 2022 года, по разным оценкам, **было убито более 20000 протестующих**, тысячи заключены в тюрьмы, сотни приговорены к смертной казни. Последние недели отмечены особенно жестокими "зачистками", когда режим, пользуясь полным **отключением интернета (Digital Blackout)**, добивает сопротивление. Города поглотила тишина — тишина, являющаяся результатом массового истребления и запугивания.  
 
-### [ПАРАМЕТРЫ АСИММЕТРИИ]:
+### [ПАРАМЕТРЫ АСИММЕТРИИ]:  
 - **Человек vs. Функция:** Режим видит в людях не граждан с правами, а лишь функциональные единицы, которые либо служат, либо утилизируются.  
 - **Достоинство vs. Конвейер:** Индивидуальное достоинство разбивается о механизм массовой переработки человеческих судеб.  
 - **Тишина vs. Истина:** Отключение связи и тишина после зачисток не означают примирения, а лишь сокрытие масштабов трагедии.  

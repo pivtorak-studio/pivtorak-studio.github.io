@@ -80,10 +80,10 @@ geographic_scope: iran
 related_domains:
   - afghanistan
   - pakistan
-timeline: I. Tragedy
+timeline: /timeline/
 ethical_resonance: Where there is no heart, there is no law.
 manifesto_type: diagnosis
-project: "Iran – Persia: A Civilizational Transition"
+project: IranPersiaCivilizationalTransition
 project_stage: I. Tragedy
 navigation_order: 01-01
 ---

@@ -80,11 +80,11 @@ geographic_scope:
 related_domains:
   - afghanistan
   - pakistan
-timeline: I. Трагедия
+timeline: /timeline/
 ethical_resonance: Где нет сердца, нет закона.
 manifesto_type: diagnosis
 project: "Иран – Персия: Цивилизационный Переход"
-project_stage: I. Трагедия
+project_stage: I. Tragedy
 navigation_order: 01-01
 ---
 

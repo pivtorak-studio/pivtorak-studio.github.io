@@ -1,58 +1,83 @@
 ---
-
-id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue  
-language: ru  
-translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue  
-title: 01-02 Трагедия. Фальшивый Диалог  
-description: Структурная глухота как механизм авторитарного управления.  
-summary: Анализ систем, в которых диалог существует формально, но не содержит способности слышать или отвечать.  
-event_date: 2026-01-17T12:00:00  
-publication_date: 2026-01-17T12:00:00  
-lastmod: 2026-01-17T12:00:00  
-slug: 01-02-tragedy-false-dialogue  
-tags: [Иран, Персия, Трагедия, ФальшивыйДиалог, ЭтическийРезонанс, ПолитическийДизайн, Управление, Коммуникация, ЦивилизационныйПереход]  
-keywords: [фальшивый диалог, структурная глухота, имитация переговоров, авторитарная коммуникация]  
-categories: [СверхЗадача, Трагедия, Управление]  
-series: СверхЗадача  
-series_index: 2  
-country: PT  
-status: published  
-featured: true  
-image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp  
-alt: Человек говорит в микрофон, соединённый с длинным кабелем. Кабель заканчивается внутри бетонной стены, окрашенной в цвета национального флага. Звуковые волны отсутствуют.  
-related: [extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum]  
-authors: Anna Pivtorak  
-draft: false  
-canonical: [https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/]  
-toc: true  
-weight: 2  
-completion: 100  
-seo: true  
-distribution: true  
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue
+language: ru
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue
+title: 01-02 Трагедия. Фальшивый Диалог
+description: Структурная глухота как механизм авторитарного управления.
+summary: Анализ систем, в которых диалог существует формально, но не содержит способности слышать или отвечать.
+event_date: 2026-01-17T12:00:00
+publication_date: 2026-01-17T12:00:00
+lastmod: 2026-01-17T12:00:00
+slug: 01-02-tragedy-false-dialogue
+tags:
+  - Иран
+  - Персия
+  - Трагедия
+  - ФальшивыйДиалог
+  - ЭтическийРезонанс
+  - ПолитическийДизайн
+  - Управление
+  - Коммуникация
+  - ЦивилизационныйПереход
+keywords:
+  - фальшивый диалог
+  - структурная глухота
+  - имитация переговоров
+  - авторитарная коммуникация
+categories:
+  - СверхЗадача
+  - Трагедия
+  - Управление
+series: СверхЗадача
+series_index: 2
+country: PT
+status: published
+featured: true
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp
+alt: Человек говорит в микрофон, соединённый с длинным кабелем. Кабель заканчивается внутри бетонной стены, окрашенной в цвета национального флага. Звуковые волны отсутствуют.
+related:
+  - extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/
+toc: true
+weight: 2
+completion: 100
+seo: true
+distribution: true
 search: indexed
-
-core_domain: governance  
-civilizational_layer: institutional  
-primary_tension: communication_without_reception  
-protects: [truth, dignity, accountability]  
-opposes: [simulation, manipulation, authoritarianism]  
-system_function: expose_structural_deafness  
-validation_question: Способна ли система слышать и отвечать на критику?  
-success_indicator: Публичные каналы коммуникации приводят к проверяемой институциональной реакции.  
-symbol: concrete_wall_and_microphone  
-civilization: persian  
-research_domain: civilizational_transition  
-historical_scope: contemporary  
-systemic_level: state  
-geographic_scope: iran  
-related_domains: [ethics, governance, freedom, communication]
-
-## timeline: 01.02  
-ethical_resonance: Звук, умирающий в бетоне.  
-manifesto_type: verdict  
-project: ExtraCreditProblem  
-project_stage: tragedy  
-navigation_order: 2
+core_domain: governance
+civilizational_layer: institutional
+primary_tension: communication_without_reception
+protects:
+  - truth
+  - dignity
+  - accountability
+opposes:
+  - simulation
+  - manipulation
+  - authoritarianism
+system_function: expose_structural_deafness
+validation_question: Способна ли система слышать и отвечать на критику?
+success_indicator: Публичные каналы коммуникации приводят к проверяемой институциональной реакции.
+symbol: concrete_wall_and_microphone
+civilization: persian
+research_domain: civilizational_transition
+historical_scope: contemporary
+systemic_level: state
+geographic_scope: iran
+related_domains:
+  - ethics
+  - governance
+  - freedom
+  - communication
+ethical_resonance: Звук, умирающий в бетоне.
+manifesto_type: verdict
+project: ExtraCreditProblem
+project_stage: I. Tragedy
+navigation_order: 02-02
+timeline: /timeline/
 ---
 <script type="application/ld+json">
 {

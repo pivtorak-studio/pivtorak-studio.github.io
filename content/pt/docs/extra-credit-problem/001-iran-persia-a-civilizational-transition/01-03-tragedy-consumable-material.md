@@ -9,9 +9,24 @@ event_date: 2026-01-17T13:00:00
 publication_date: 2026-01-17T13:00:00
 lastmod: 2026-01-17T13:00:00
 slug: 01-03-tragedy-consumable-material
-tags: [RessonânciaÉtica, MaterialConsumível, Desumanização, Irão, Pérsia, DesignPolítico, TransiçãoCivilizacional]
-keywords: [material consumível, desumanização, repressão, dignidade humana, violência estatal, Irão]
-categories: [DesafioDeNívelSuperior, Tragédia]
+tags:
+  - RessonânciaÉtica
+  - MaterialConsumível
+  - Desumanização
+  - Irão
+  - Pérsia
+  - DesignPolítico
+  - TransiçãoCivilizacional
+keywords:
+  - material consumível
+  - desumanização
+  - repressão
+  - dignidade humana
+  - violência estatal
+  - Irão
+categories:
+  - DesafioDeNívelSuperior
+  - Tragédia
 series: DesafioDeNívelSuperior
 series_index: 3
 country: PT
@@ -19,7 +34,8 @@ status: published
 featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-03-tragedy-consumable-material.webp
 alt: Correia transportadora onde figuras humanas brancas se transformam gradualmente em parafusos metálicos pretos com marcas vermelhas.
-related: [extra-credit-problem-001-iran-persia-a-civilizational-transition]
+related:
+  - extra-credit-problem-001-iran-persia-a-civilizational-transition
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material/
@@ -32,8 +48,14 @@ search: indexed
 core_domain: ethics
 civilizational_layer: governance
 primary_tension: human_dignity_vs_resource_extraction
-protects: [human_dignity, personhood, life]
-opposes: [dehumanization, exploitation, state_violence]
+protects:
+  - human_dignity
+  - personhood
+  - life
+opposes:
+  - dehumanization
+  - exploitation
+  - state_violence
 system_function: expose_dehumanization_mechanism
 validation_question: O sistema reconhece os seres humanos como valores e não como recursos?
 success_indicator: A vida humana deixa de ser utilizada como combustível do poder.
@@ -43,8 +65,12 @@ research_domain: civilizational_transition
 historical_scope: contemporary
 systemic_level: state
 geographic_scope: Iran
-related_domains: [ethics, governance, human_rights, security]
-timeline: Caminho-E-Evolução
+related_domains:
+  - ethics
+  - governance
+  - human_rights
+  - security
+timeline: /timeline/
 ethical_resonance: O sistema não vê rostos; vê calorias e horas.
 manifesto_type: verdict
 project: Iran-Persia-A-Civilizational-Transition

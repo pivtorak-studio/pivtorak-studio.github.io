@@ -1,58 +1,86 @@
 ---
-
-id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue  
-language: en  
-translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue  
-title: 01-02 Tragedy. False Dialogue  
-description: Structural deafness as a mechanism of authoritarian governance.  
-summary: Analysis of simulated communication systems where dialogue exists formally but lacks any capacity for response or ethical reception.  
-event_date: 2026-01-17T12:00:00  
-publication_date: 2026-01-17T12:00:00  
-lastmod: 2026-01-17T12:00:00  
-slug: 01-02-tragedy-false-dialogue  
-tags: [Iran, Persia, Tragedy, FalseDialogue, EthicalResonance, PoliticalDesign, Governance, Communication, CivilizationalTransition]  
-keywords: [false dialogue, structural deafness, simulated negotiation, authoritarian communication, Iran, regime analysis, ethical vacuum]  
-categories: [ExtraCreditProblem, Tragedy, Governance]  
-series: ExtraCreditProblem  
-series_index: 2  
-country: PT  
-status: published  
-featured: true  
-image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp  
-alt: A person speaks into a microphone connected to a long cable. The cable ends inside a concrete wall painted with the colors of a national flag. No sound waves are visible.  
-related: [extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum]  
-authors: Anna Pivtorak  
-draft: false  
-canonical: [https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/]  
-toc: true  
-weight: 2  
-completion: 100  
-seo: true  
-distribution: true  
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue
+language: en
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue
+title: 01-02 Tragedy. False Dialogue
+description: Structural deafness as a mechanism of authoritarian governance.
+summary: Analysis of simulated communication systems where dialogue exists formally but lacks any capacity for response or ethical reception.
+event_date: 2026-01-17T12:00:00
+publication_date: 2026-01-17T12:00:00
+lastmod: 2026-01-17T12:00:00
+slug: 01-02-tragedy-false-dialogue
+tags:
+  - Iran
+  - Persia
+  - Tragedy
+  - FalseDialogue
+  - EthicalResonance
+  - PoliticalDesign
+  - Governance
+  - Communication
+  - CivilizationalTransition
+keywords:
+  - false dialogue
+  - structural deafness
+  - simulated negotiation
+  - authoritarian communication
+  - Iran
+  - regime analysis
+  - ethical vacuum
+categories:
+  - ExtraCreditProblem
+  - Tragedy
+  - Governance
+series: ExtraCreditProblem
+series_index: 2
+country: PT
+status: published
+featured: true
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp
+alt: A person speaks into a microphone connected to a long cable. The cable ends inside a concrete wall painted with the colors of a national flag. No sound waves are visible.
+related:
+  - extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/
+toc: true
+weight: 2
+completion: 100
+seo: true
+distribution: true
 search: indexed
-
-core_domain: governance  
-civilizational_layer: institutional  
-primary_tension: communication_without_reception  
-protects: [truth, dignity, accountability]  
-opposes: [simulation, manipulation, authoritarianism]  
-system_function: expose_structural_deafness  
-validation_question: Can the system genuinely receive and respond to criticism?  
-success_indicator: Public communication channels produce measurable institutional response.  
-symbol: concrete_wall_and_microphone  
-civilization: persian  
-research_domain: civilizational_transition  
-historical_scope: contemporary  
-systemic_level: state  
-geographic_scope: iran  
-related_domains: [ethics, governance, freedom, communication]
-
-## timeline: 01.02  
-ethical_resonance: A sound that dies in concrete.  
-manifesto_type: verdict  
-project: ExtraCreditProblem  
-project_stage: tragedy  
-navigation_order: 2
+core_domain: governance
+civilizational_layer: institutional
+primary_tension: communication_without_reception
+protects:
+  - truth
+  - dignity
+  - accountability
+opposes:
+  - simulation
+  - manipulation
+  - authoritarianism
+system_function: expose_structural_deafness
+validation_question: Can the system genuinely receive and respond to criticism?
+success_indicator: Public communication channels produce measurable institutional response.
+symbol: concrete_wall_and_microphone
+civilization: persian
+research_domain: civilizational_transition
+historical_scope: contemporary
+systemic_level: state
+geographic_scope: iran
+related_domains:
+  - ethics
+  - governance
+  - freedom
+  - communication
+ethical_resonance: A sound that dies in concrete.
+manifesto_type: verdict
+project: IranPersiaCivilizationalTransition
+project_stage: I. Tragedy
+navigation_order: 1
+timeline: /timeline/
 ---
 <script type="application/ld+json">
 {
@@ -152,7 +180,7 @@ A person speaks into a microphone connected to a long cable. The cable ends insi
 _Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. I. Tragedy. False Dialogue. AP | Pivtorak.Studio. 17.01.2026_  
 © Anna Pivtorak (Kostyuk) 
 
-🛡️ Each publication is part of an authorial research and artistic project.  
+🛡️ This publication is part of an authorial research and artistic project.  
 The material is based on the analysis of open sources and contains the author's interpretations, metaphors, and conceptual models.  
 The described images and concepts may be allegorical in nature and do not constitute legal accusations or official conclusions regarding any individuals, organizations, or states.  
 

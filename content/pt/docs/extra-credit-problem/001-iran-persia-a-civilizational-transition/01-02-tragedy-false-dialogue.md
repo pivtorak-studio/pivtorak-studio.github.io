@@ -1,58 +1,85 @@
 ---
-
-id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue  
-language: pt  
-translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue  
-title: 01-02 Tragédia. Diálogo Falso  
-description: Surdez estrutural como mecanismo de governação autoritária.  
-summary: Análise de sistemas de comunicação simulados onde o diálogo existe formalmente, mas sem qualquer capacidade de receção ou resposta ética.  
-event_date: 2026-01-17T12:00:00  
-publication_date: 2026-01-17T12:00:00  
-lastmod: 2026-01-17T12:00:00  
-slug: 01-02-tragedy-false-dialogue  
-tags: [Irão, Pérsia, Tragédia, DiálogoFalso, RessonânciaÉtica, DesignPolítico, Governação, Comunicação, TransiçãoCivilizacional]  
-keywords: [diálogo falso, surdez estrutural, negociação simulada, comunicação autoritária, Irão, análise do regime]  
-categories: [DesafioDeNívelSuperior, Tragédia, Governação]  
-series: DesafioDeNívelSuperior  
-series_index: 2  
-country: PT  
-status: published  
-featured: true  
-image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp  
-alt: Uma pessoa fala para um microfone ligado a um longo cabo. O cabo termina dentro de uma parede de betão pintada com as cores de uma bandeira nacional. Não existem ondas sonoras visíveis.  
-related: [extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum]  
-authors: Anna Pivtorak  
-draft: false  
-canonical: [https://pivtorak.studio/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/]  
-toc: true  
-weight: 2  
-completion: 100  
-seo: true  
-distribution: true  
+id: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue
+language: pt
+translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue
+title: 01-02 Tragédia. Diálogo Falso
+description: Surdez estrutural como mecanismo de governação autoritária.
+summary: Análise de sistemas de comunicação simulados onde o diálogo existe formalmente, mas sem qualquer capacidade de receção ou resposta ética.
+event_date: 2026-01-17T12:00:00
+publication_date: 2026-01-17T12:00:00
+lastmod: 2026-01-17T12:00:00
+slug: 01-02-tragedy-false-dialogue
+tags:
+  - Irão
+  - Pérsia
+  - Tragédia
+  - DiálogoFalso
+  - RessonânciaÉtica
+  - DesignPolítico
+  - Governação
+  - Comunicação
+  - TransiçãoCivilizacional
+keywords:
+  - diálogo falso
+  - surdez estrutural
+  - negociação simulada
+  - comunicação autoritária
+  - Irão
+  - análise do regime
+categories:
+  - DesafioDeNívelSuperior
+  - Tragédia
+  - Governação
+series: DesafioDeNívelSuperior
+series_index: 2
+country: PT
+status: published
+featured: true
+image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp
+alt: Uma pessoa fala para um microfone ligado a um longo cabo. O cabo termina dentro de uma parede de betão pintada com as cores de uma bandeira nacional. Não existem ondas sonoras visíveis.
+related:
+  - extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum
+authors: Anna Pivtorak
+draft: false
+canonical:
+  - https://pivtorak.studio/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/
+toc: true
+weight: 2
+completion: 100
+seo: true
+distribution: true
 search: indexed
-
-core_domain: governance  
-civilizational_layer: institutional  
-primary_tension: communication_without_reception  
-protects: [truth, dignity, accountability]  
-opposes: [simulation, manipulation, authoritarianism]  
-system_function: expose_structural_deafness  
-validation_question: O sistema consegue realmente ouvir e responder à crítica?  
-success_indicator: Os canais públicos de comunicação produzem respostas institucionais verificáveis.  
-symbol: concrete_wall_and_microphone  
-civilization: persian  
-research_domain: civilizational_transition  
-historical_scope: contemporary  
-systemic_level: state  
-geographic_scope: iran  
-related_domains: [ethics, governance, freedom, communication]
-
-## timeline: 01.02  
-ethical_resonance: Um som que morre no betão.  
-manifesto_type: verdict  
-project: ExtraCreditProblem  
-project_stage: tragedy  
+core_domain: governance
+civilizational_layer: institutional
+primary_tension: communication_without_reception
+protects:
+  - truth
+  - dignity
+  - accountability
+opposes:
+  - simulation
+  - manipulation
+  - authoritarianism
+system_function: expose_structural_deafness
+validation_question: O sistema consegue realmente ouvir e responder à crítica?
+success_indicator: Os canais públicos de comunicação produzem respostas institucionais verificáveis.
+symbol: concrete_wall_and_microphone
+civilization: persian
+research_domain: civilizational_transition
+historical_scope: contemporary
+systemic_level: state
+geographic_scope: iran
+related_domains:
+  - ethics
+  - governance
+  - freedom
+  - communication
+ethical_resonance: Um som que morre no betão.
+manifesto_type: verdict
+project: ExtraCreditProblem
+project_stage: tragedy
 navigation_order: 2
+timeline: /timeline/
 ---
 <script type="application/ld+json">
 {

@@ -9,9 +9,24 @@ event_date: 2026-01-17T13:00:00
 publication_date: 2026-01-17T13:00:00
 lastmod: 2026-01-17T13:00:00
 slug: 01-03-tragedy-consumable-material
-tags: [EthicalResonance, ConsumableMaterial, Dehumanization, Iran, Persia, PoliticalDesign, CivilizationalTransition]
-keywords: [consumable material, dehumanization, repression, human dignity, state violence, Iran]
-categories: [ExtraCreditProblem, Tragedy]
+tags:
+  - EthicalResonance
+  - ConsumableMaterial
+  - Dehumanization
+  - Iran
+  - Persia
+  - PoliticalDesign
+  - CivilizationalTransition
+keywords:
+  - consumable material
+  - dehumanization
+  - repression
+  - human dignity
+  - state violence
+  - Iran
+categories:
+  - ExtraCreditProblem
+  - Tragedy
 series: ExtraCreditProblem
 series_index: 3
 country: PT
@@ -19,7 +34,8 @@ status: published
 featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-03-tragedy-consumable-material.webp
 alt: A conveyor belt where white human figures gradually transform into black metal screws with red accents intended for military machinery.
-related: [extra-credit-problem-001-iran-persia-a-civilizational-transition]
+related:
+  - extra-credit-problem-001-iran-persia-a-civilizational-transition
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material/
@@ -32,8 +48,14 @@ search: indexed
 core_domain: ethics
 civilizational_layer: governance
 primary_tension: human_dignity_vs_resource_extraction
-protects: [human_dignity, personhood, life]
-opposes: [dehumanization, exploitation, state_violence]
+protects:
+  - human_dignity
+  - personhood
+  - life
+opposes:
+  - dehumanization
+  - exploitation
+  - state_violence
 system_function: expose_dehumanization_mechanism
 validation_question: Does the system recognize human beings as values rather than resources?
 success_indicator: Human life is no longer treated as fuel for sustaining power.
@@ -43,12 +65,16 @@ research_domain: civilizational_transition
 historical_scope: contemporary
 systemic_level: state
 geographic_scope: Iran
-related_domains: [ethics, governance, human_rights, security]
-timeline: Path-And-Evolution
+related_domains:
+  - ethics
+  - governance
+  - human_rights
+  - security
+timeline: /timeline/
 ethical_resonance: The system does not see faces; it sees calories and hours.
 manifesto_type: verdict
-project: Iran-Persia-A-Civilizational-Transition
-project_stage: tragedy
+project: IranPersiaCivilizationalTransition
+project_stage: I. Tragedy
 navigation_order: 01-03
 ---
 <script type="application/ld+json">
@@ -149,6 +175,6 @@ A conveyor belt where white human figures gradually transform into black metal s
 _Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. I. Tragedy. Consumable Material. AP | Pivtorak.Studio. 17.01.2026_  
 © Anna Pivtorak (Kostyuk) 
 
-🛡️ Each publication is part of an authorial research and artistic project.  
+🛡️ This publication is part of an authorial research and artistic project.  
 The material is based on the analysis of open sources and contains the author's interpretations, metaphors, and conceptual models.  
 The described images and concepts may be allegorical in nature and do not constitute legal accusations or official conclusions regarding any individuals, organizations, or states.  

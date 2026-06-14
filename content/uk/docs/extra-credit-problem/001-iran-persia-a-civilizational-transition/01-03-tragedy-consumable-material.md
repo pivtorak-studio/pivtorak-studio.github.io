@@ -9,9 +9,24 @@ event_date: 2026-01-17T13:00:00
 publication_date: 2026-01-17T13:00:00
 lastmod: 2026-01-17T13:00:00
 slug: 01-03-tragedy-consumable-material
-tags: [ЕтичнийРезонанс, ВитратнийМатеріал, Дегуманізація, Іран, Персія, ПолітичнийДизайн, ЦивілізаційнийПерехід]
-keywords: [витратний матеріал, дегуманізація, репресії, людська гідність, державне насильство, Іран]
-categories: [ЗадачаПідвищеноїСкладності, Трагедія]
+tags:
+  - ЕтичнийРезонанс
+  - ВитратнийМатеріал
+  - Дегуманізація
+  - Іран
+  - Персія
+  - ПолітичнийДизайн
+  - ЦивілізаційнийПерехід
+keywords:
+  - витратний матеріал
+  - дегуманізація
+  - репресії
+  - людська гідність
+  - державне насильство
+  - Іран
+categories:
+  - ЗадачаПідвищеноїСкладності
+  - Трагедія
 series: ЗадачаПідвищеноїСкладності
 series_index: 3
 country: PT
@@ -19,7 +34,8 @@ status: published
 featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-03-tragedy-consumable-material.webp
 alt: Конвеєр, на якому білі людські фігури поступово перетворюються на чорні металеві гвинти з червоними позначками для військової техніки.
-related: [extra-credit-problem-001-iran-persia-a-civilizational-transition]
+related:
+  - extra-credit-problem-001-iran-persia-a-civilizational-transition
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material/
@@ -32,8 +48,14 @@ search: indexed
 core_domain: ethics
 civilizational_layer: governance
 primary_tension: human_dignity_vs_resource_extraction
-protects: [human_dignity, personhood, life]
-opposes: [dehumanization, exploitation, state_violence]
+protects:
+  - human_dignity
+  - personhood
+  - life
+opposes:
+  - dehumanization
+  - exploitation
+  - state_violence
 system_function: expose_dehumanization_mechanism
 validation_question: Чи розглядає система людину як цінність, а не як ресурс?
 success_indicator: Людське життя перестає бути інструментом підтримки влади.
@@ -43,12 +65,16 @@ research_domain: civilizational_transition
 historical_scope: contemporary
 systemic_level: state
 geographic_scope: Iran
-related_domains: [ethics, governance, human_rights, security]
-timeline: ШляхТаЕволюція
+related_domains:
+  - ethics
+  - governance
+  - human_rights
+  - security
+timeline: /timeline/
 ethical_resonance: Система не бачить облич; вона бачить калорії та години.
 manifesto_type: verdict
 project: Iran-Persia-A-Civilizational-Transition
-project_stage: tragedy
+project_stage: I. Tragedy
 navigation_order: 01-03
 ---
 <script type="application/ld+json">

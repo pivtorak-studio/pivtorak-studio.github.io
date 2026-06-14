@@ -80,7 +80,7 @@ geographic_scope:
 related_domains:
   - afghanistan
   - pakistan
-timeline: I. Tragédia
+timeline: /timeline/
 ethical_resonance: Onde não há coração, não há lei.
 manifesto_type: diagnosis
 project: "Irão – Pérsia: Uma Transição Civilizacional"

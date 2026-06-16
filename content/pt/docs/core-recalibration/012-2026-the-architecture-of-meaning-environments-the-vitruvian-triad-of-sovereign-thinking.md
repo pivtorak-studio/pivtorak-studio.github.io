@@ -94,6 +94,8 @@ toc: true
 
 ![A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano](/images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp)
 
+**⟡ Recalibração do Núcleo**
+
 # A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano
 
 _A construção cria objetos.    

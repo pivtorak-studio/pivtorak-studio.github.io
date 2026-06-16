@@ -82,11 +82,14 @@ keywords:
 }
 </script>
 
+
 <div class="float-right">
 
 ![Padrões Elevados](/images/core-recalibration-000-2024-high-standards.webp)
 
 </div>
+
+**⟡ Recalibração do Núcleo**
 
 # Padrões Elevados
 

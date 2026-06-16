@@ -123,6 +123,8 @@ keywords:
 
 </div>
 
+**⟡ Recalibração do Núcleo**
+
 
 # O Protocolo Simurg: A Filosofia de uma Investigadora Independente
 

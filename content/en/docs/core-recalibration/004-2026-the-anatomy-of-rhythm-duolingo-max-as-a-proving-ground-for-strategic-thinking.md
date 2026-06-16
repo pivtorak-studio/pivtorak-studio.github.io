@@ -26,7 +26,7 @@ related:
   - /en/docs/timeline/
   - /en/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-weight: 5
+weight: 4
 draft: false
 toc: true
 categories:
@@ -88,6 +88,7 @@ keywords:
 
 </div>
 
+**⟡ Core Recalibration**
 
 # The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking  
 

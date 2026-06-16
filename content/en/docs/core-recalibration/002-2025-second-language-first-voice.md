@@ -25,7 +25,7 @@ alt: "Digital illustration: stylized waves made of different writing systems —
 related:
   - /en/docs/timeline/
   - /en/docs/core-recalibration/
-weight: 3
+weight: 2
 draft: false
 toc: true
 categories:
@@ -89,6 +89,8 @@ keywords:
 ![Second Language, First Voice](/images/core-recalibration-002-2025-second-language-first-voice.webp)
 
 </div>
+
+**⟡ Core Recalibration**
 
 # Second Language, First Voice  
 _Not learning._

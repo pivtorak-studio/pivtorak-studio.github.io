@@ -47,7 +47,7 @@ related:
   - /en/docs/timeline/
 authors:
   - Anna Pivtorak
-weight: 13
+weight: 12
 toc: true
 ---
 <script type="application/ld+json">
@@ -93,6 +93,8 @@ toc: true
 </script>
 
 ![The Architecture of Meaning Environments: The Vitruvian Triad of Sovereign Thinking](/images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp)
+
+**⟡ Core Recalibration**
 
 # The Architecture of Meaning Environments: The Vitruvian Triad of Sovereign Thinking
 

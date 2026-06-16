@@ -89,6 +89,8 @@ keywords:
 
 </div>
 
+**⟡ Recalibração do Núcleo**
+
 # Detecção de Presença
 _Consciência não é silêncio._
 _É ritmo — reconhecido._

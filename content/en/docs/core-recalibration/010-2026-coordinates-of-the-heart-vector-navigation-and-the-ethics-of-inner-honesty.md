@@ -52,7 +52,7 @@ related:
   - /en/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
 authors:
   - Anna Pivtorak
-weight: 11
+weight: 10
 draft: false
 toc: true
 ---
@@ -103,6 +103,8 @@ toc: true
 </script>
 
 ![Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty](/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp)
+
+**⟡ Core Recalibration**
 
 # Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty
 

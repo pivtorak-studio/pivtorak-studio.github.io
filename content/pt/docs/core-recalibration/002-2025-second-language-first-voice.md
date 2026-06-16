@@ -90,6 +90,8 @@ keywords:
 
 </div>
 
+**⟡ Recalibração do Núcleo**
+
 # Segunda Língua, Primeira Voz
 
 _Não é aprendizagem._

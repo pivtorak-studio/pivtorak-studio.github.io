@@ -99,6 +99,8 @@ keywords:
 
 ![Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
 
+**⟡ Recalibração do Núcleo**
+
 # Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo
 
 _Um sistema vivo respira abertamente._

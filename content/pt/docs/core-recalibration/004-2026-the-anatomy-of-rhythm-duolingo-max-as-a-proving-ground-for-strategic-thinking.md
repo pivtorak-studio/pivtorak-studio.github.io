@@ -88,6 +88,8 @@ keywords:
 
 </div>
 
+**⟡ Recalibração do Núcleo**
+
 # A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico
 
 _O ritmo como aquecimento antes do código_

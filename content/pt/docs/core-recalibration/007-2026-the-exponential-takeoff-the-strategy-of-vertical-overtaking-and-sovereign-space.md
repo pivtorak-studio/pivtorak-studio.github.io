@@ -116,6 +116,8 @@ keywords:
 
 </div>
 
+**⟡ Recalibração do Núcleo**
+
 # A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano
 
 _Se uma porta se fecha diante de ti — não batas. Levanta voo._

@@ -42,7 +42,7 @@ related:
   - /en/docs/timeline/
 authors:
   - Anna Pivtorak
-weight: 12
+weight: 11
 draft: false
 toc: true
 ---
@@ -92,6 +92,8 @@ toc: true
 </script>
 
 ![A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
+
+**⟡ Core Recalibration**
 
 ## A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems
 

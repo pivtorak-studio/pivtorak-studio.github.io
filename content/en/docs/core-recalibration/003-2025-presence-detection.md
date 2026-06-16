@@ -25,7 +25,7 @@ alt: "Minimalist digital illustration: a dark background with the outline of a w
 related:
   - /en/docs/timeline/
   - /en/docs/core-recalibration/
-weight: 4
+weight: 3
 draft: false
 toc: true
 categories:
@@ -88,6 +88,8 @@ keywords:
 ![Presence Detection](/images/core-recalibration-003-2025-presence-detection.webp)
 
 </div>
+
+**⟡ Core Recalibration**
 
 # Presence Detection
 

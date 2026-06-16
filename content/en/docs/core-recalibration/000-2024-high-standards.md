@@ -25,7 +25,7 @@ alt: Digital illustration on a classroom board background. A symbolic figure cli
 related:
   - /en/docs/timeline/
   - /en/docs/core-recalibration/
-weight: 1
+weight: 0
 draft: false
 toc: true
 categories:
@@ -87,6 +87,8 @@ keywords:
 ![High Standards](/images/core-recalibration-000-2024-high-standards.webp)
 
 </div>
+
+**⟡ Core Recalibration**
 
 # High Standards    
 _Not the end — only a new beginning._   

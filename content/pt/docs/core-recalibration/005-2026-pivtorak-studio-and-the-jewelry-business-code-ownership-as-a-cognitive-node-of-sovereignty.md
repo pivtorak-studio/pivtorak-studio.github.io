@@ -88,6 +88,8 @@ keywords:
 
 </div>
 
+**⟡ Recalibração do Núcleo**
+
 # Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania  
 
 _Epígrafe: Quando dominas o código do teu espaço, já não precisas de intermediários_  

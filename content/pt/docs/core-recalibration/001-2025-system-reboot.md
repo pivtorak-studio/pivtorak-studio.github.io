@@ -88,6 +88,8 @@ keywords:
 
 </div>
 
+**⟡ Recalibração do Núcleo**
+
 # Reinicialização do Sistema  
 
 _Um novo nível — sem anúncio_  

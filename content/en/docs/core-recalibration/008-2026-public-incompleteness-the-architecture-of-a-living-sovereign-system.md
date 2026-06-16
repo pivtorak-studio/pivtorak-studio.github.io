@@ -28,7 +28,7 @@ related:
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /en/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /en/docs/timeline/
-weight: 9
+weight: 8
 draft: false
 toc: true
 categories:
@@ -97,7 +97,10 @@ keywords:
 }
 </script>
 
+
 ![Public Incompleteness: The Architecture of a Living Sovereign System](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
+
+**⟡ Core Recalibration**
 
 # Public Incompleteness: The Architecture of a Living Sovereign System
 

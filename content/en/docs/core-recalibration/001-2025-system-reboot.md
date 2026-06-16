@@ -25,7 +25,7 @@ alt: "Digital illustration in the style of a dark system interface: a black and 
 related:
   - /en/docs/timeline/
   - /en/docs/core-recalibration/
-weight: 2
+weight: 1
 draft: false
 toc: true
 categories:
@@ -88,6 +88,8 @@ keywords:
 ![System Reboot](/images/core-recalibration-001-2025-system-reboot.webp)
 
 </div>
+
+**⟡ Core Recalibration**
 
 # System Reboot  
 _A new level — without announcement_  

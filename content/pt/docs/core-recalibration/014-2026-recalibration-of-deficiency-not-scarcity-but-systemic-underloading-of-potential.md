@@ -112,7 +112,7 @@ search: indexed
 _A arquitetura de um universo sem mapa_
 
 > **Foco da investigação:** A natureza da dor existencial no meio do bem-estar externo.
-> **Mudança conceptual chave:** Rejeição do termo "deficiência" $\rightarrow$ Transição para "subcarregamento sistémico do potencial".
+> **Mudança conceptual chave:** Rejeição do termo "deficiência" ⭢ Transição para "subcarregamento sistémico do potencial".
 > **Fórmula da Soberania:** A felicidade ocorre quando a escala do ambiente deixa de limitar a escala da consciência.
 > 
 ## I. O Princípio da Congruência de Escala
@@ -132,13 +132,13 @@ Para qualquer Universo (consciência ou sistema), existe um espaço (ambiente) t
 
 **Variáveis do Sistema:**
 
-- **$U$ (Universe):** O sistema / a consciência.
-- **$S$ (Space):** O ambiente / o domínio próprio.
-- **$W$ (Whole Potential):** O potencial цілісний / a complexidade e o conhecimento interno.
-- **$P$ (Excess Pressure):** A pressão interna excessiva.
-- **$C$ (Crisis):** O estado de crise ($C = \int P dt$), que é uma função da pressão acumulada no tempo.
-- **$K$ (Kinetic Flow):** O fluxo cinético / o livre movimento de energia.
-- **$F$ (Flourishing):** O livre desenvolvimento / o florescimento.
+- **U (Universe):** O sistema / a consciência.
+- **S (Space):** O ambiente / o domínio próprio.
+- **W (Whole Potential):** O potencial цілісний / a complexidade e o conhecimento interno.
+- **P (Excess Pressure):** A pressão interna excessiva.
+- **C (Crisis):** O estado de crise (C = ∫**P**dt), que é uma função da pressão acumulada no tempo.
+- **K (Kinetic Flow):** O fluxo cinético / o livre movimento de energia.
+- **F (Flourishing):** O livre desenvolvimento / o florescimento.
 
 ## II. A Ilusão da Escassez: Porque Falham as Teorias Clássicas da Felicidade
 

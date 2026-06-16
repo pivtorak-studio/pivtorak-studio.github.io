@@ -203,7 +203,7 @@ This idea has a global dimension. Millions of people today are trying to heal th
 
 But the problem is not that they lack knowledge. The problem is that the existing wealth has nowhere to expand. They accumulate tools but do not build their own workshop. They buy tickets but do not have their own address.
 
-> **The problem was never the capacity of the system.**
+> **The problem was never the capacity of the system.**  
 > **The problem was the architecture of the environment.**
 
 ## VI. The New Formula for Happiness: Launching at Full Capacity

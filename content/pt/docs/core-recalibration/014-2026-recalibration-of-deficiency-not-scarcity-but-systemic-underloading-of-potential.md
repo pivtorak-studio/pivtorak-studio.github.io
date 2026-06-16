@@ -205,7 +205,7 @@ Esta ideia tem uma dimensão global. Milhões de pessoas hoje tentam curar a sua
 
 Mas o problema não é a falta de conhecimento. O problema é que a riqueza existente não tem para onde se expandir. Acumulam ferramentas, mas não constroem a sua própria oficina. Compram bilhetes, mas não têm um endereço próprio.
 
-> **O problema nunca foi a capacidade do sistema.**
+> **O problema nunca foi a capacidade do sistema.**  
 > **O problema era a arquitetura do ambiente.**
 
 ## V. A Nova Fórmula para a Felicidade: Lançamento na Capacidade Total

@@ -136,7 +136,7 @@ O desaparecimento desta pergunta ao longo de três meses não é um desvanecimen
 
 À superfície, a compra do domínio `Pivtorak.Studio` é uma rotina técnica, uma transação em poucos cliques. Na arquitetura cognitiva, é **O Ato de Legalização do Cosmos Interior**.  
 
-Até este momento, uma vasta cidade interna (formações adquiridas, o Logos e o Ethos familiares, as matrizes da história da arte e cibernéticas) existia sem um atlas oficial. Eu criava valor em espaços alheios, submetendo-me à gravidade e às vedações dos outros.  
+Até este momento, uma vasta cidade interna (formações adquiridas, o Logos e o Ethos familiares, as matrizes da história da arte e cibernéticas) existia sem um atlas oficial. 
 
 O registo de um endereço próprio é o hastear de uma bandeira soberana. É um espaço onde:  
 
@@ -183,7 +183,7 @@ Surgiu após a integração de todas estas versões num único sistema de coorde
 
 ## VI. Conclusão Principal:
 
-> A felicidade não é um troféu emocional que se encontra no fim do caminho certo.  
+> A felicidade não é um troféu emocional que se encontra no fim do caminho certo.   
 > A felicidade é um efeito secundário da soberania. Surge automaticamente no momento em que o cosmos interior recebe estatuto legal, uma linguagem descritiva, estrutura e um endereço próprio.   
 > Um vasto volume de energia deixa de ser gasto a conter-se a si próprio e começa, simplesmente, a criar o mundo.   
 

@@ -152,7 +152,7 @@ It is a marker that **the energy of containment has been redirected into the ene
 
 On the surface, purchasing the `Pivtorak.Studio` domain is a technical routine, a transaction in a few clicks. In cognitive architecture, it is **The Act of Legalization of the Inner Cosmos**.  
 
-Until this moment, a vast internal city (acquired educations, familial Logos and Ethos, art history and cybernetic matrices) existed without an official atlas. I was creating value in external spaces, submitting to someone else's gravity and someone else's fences.  
+Until this moment, a vast internal city (acquired educations, familial Logos and Ethos, art history and cybernetic matrices) existed without an official atlas.   
 
 Registering one’s own address is the raising of a sovereign flag. It is a space where:  
 
@@ -199,9 +199,9 @@ It appeared after the integration of all these versions into a single coordinate
 
 ## VI. Main Conclusion:
 
-> Happiness is not an emotional trophy to be found at the end of the right path.
-> Happiness is a side effect of sovereignty. It arises automatically the moment the inner cosmos receives legal status, a descriptive language, structure, and its own address.
-> A vast volume of energy ceases to be spent on holding oneself in a fist, and simply begins to create the world.
+> Happiness is not an emotional trophy to be found at the end of the right path.   
+> Happiness is a side effect of sovereignty. It arises automatically the moment the inner cosmos receives legal status, a descriptive language, structure, and its own address.   
+> A vast volume of energy ceases to be spent on holding oneself in a fist, and simply begins to create the world.  
 
 **Alt-text:**    
 A sovereign woman stands at the center of a luminous field of blue and golden energy. Around her, a dance of energies connects knowledge, biography, family foundations, and systems thinking into a single living architecture. Circular energy streams surround her body without restraint, symbolizing the legalization of the inner cosmos. A radiant heart glows within a fractal structure, representing happiness not as a destination but as a side effect of sovereignty. The infographic visualizes the transition from excess coordinates without an address to a sovereign field called Pivtorak.Studio.

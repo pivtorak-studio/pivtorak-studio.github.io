@@ -26,7 +26,7 @@ related:
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /uk/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /uk/docs/timeline/
-weight: 5
+weight: 4
 draft: false
 toc: true
 categories:
@@ -87,6 +87,8 @@ keywords:
 ![Анатомія ритму: Duolingo Max як полігон стратегічного мислення](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
 </div>
+
+**⟡ Перекалібрування Ядра**
 
 # Анатомія ритму: Duolingo Max як полігон стратегічного мислення
 

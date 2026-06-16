@@ -47,7 +47,7 @@ related:
   - /uk/docs/timeline/
 authors:
   - Anna Pivtorak
-weight: 13
+weight: 12
 toc: true
 ---
 <script type="application/ld+json">
@@ -93,6 +93,8 @@ toc: true
 </script>
 
 ![Архітектура смислових середовищ: Вітрувіанська тріада суверенного мислення](/images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp)
+
+**⟡ Перекалібрування Ядра**
 
 # Архітектура смислових середовищ: Вітрувіанська тріада суверенного мислення
 

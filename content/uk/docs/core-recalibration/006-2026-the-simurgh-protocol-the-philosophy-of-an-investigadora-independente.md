@@ -29,7 +29,7 @@ related:
   - /uk/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /uk/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /uk/docs/timeline/
-weight: 7
+weight: 6
 draft: false
 toc: true
 categories:
@@ -123,6 +123,8 @@ keywords:
 ![Протокол Симурга: Філософія Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
 
 </div>
+
+**⟡ Перекалібрування Ядра**
 
 # Протокол Симурга: Філософія Investigadora Independente
 

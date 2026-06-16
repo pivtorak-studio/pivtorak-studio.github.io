@@ -42,7 +42,7 @@ related:
   - /uk/docs/timeline/
 authors:
   - Anna Pivtorak
-weight: 12
+weight: 11
 draft: false
 toc: true
 ---
@@ -92,6 +92,8 @@ toc: true
 </script>
 
 ![Зміна виміру: Перехід від лінійності проєктів до автономії систем](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
+
+**⟡ Перекалібрування Ядра**
 
 # Зміна виміру: Перехід від лінійності проєктів до автономії систем
 

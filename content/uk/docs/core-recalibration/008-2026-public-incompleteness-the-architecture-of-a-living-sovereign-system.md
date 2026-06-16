@@ -99,6 +99,8 @@ keywords:
 
 ![Публічна незавершеність: Архітектура живої суверенної системи](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
 
+**⟡ Перекалібрування Ядра**
+
 # Публічна незавершеність: Архітектура живої суверенної системи
 
 _Жива система дихає відкрито._

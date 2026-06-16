@@ -25,7 +25,7 @@ alt: "Цифрова ілюстрація в мінімалістичному с
 related:
   - /uk/docs/timeline/
   - /uk/docs/core-recalibration/
-weight: 4
+weight: 0
 draft: false
 toc: true
 categories:
@@ -88,6 +88,8 @@ keywords:
 ![Виявлення Присутності](/images/core-recalibration-003-2025-presence-detection.webp)
 
 </div>
+
+**⟡ Перекалібрування Ядра**
 
 # Виявлення Присутності
 

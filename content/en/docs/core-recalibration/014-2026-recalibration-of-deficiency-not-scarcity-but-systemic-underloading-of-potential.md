@@ -107,57 +107,57 @@ search: indexed
 
 **⟡ Core Recalibration**
 
-# Recalibration of Deficiency: Not Scarcity, but Systemic Underloading of Potential
+# Recalibration of Deficiency: Not Scarcity, but Systemic Underloading of Potential  
 
-_The architecture of an unmapped universe_
+_The architecture of an unmapped universe_  
 
-> **Focus of research:** The nature of existential pain amid external well-being.  
-> **Key conceptual shift:** Rejection of the term "deficiency" ⭢ Transition to "systemic underloading of potential."  
-> **Formula of Sovereignty:** Happiness occurs when the scale of the environment ceases to limit the scale of consciousness.  
+> **Focus of research:** The nature of existential pain amid external well-being.   
+> **Key conceptual shift:** Rejection of the term "deficiency" ⭢ Transition to "systemic underloading of potential."    
+> **Formula of Sovereignty:** Happiness occurs when the scale of the environment ceases to limit the scale of consciousness.    
 
-## I. The Principle of Scale Congruence
+## I. The Principle of Scale Congruence  
 
-> The stability and autonomy of a system are functions of the congruence between its architectural environment and the scale of its internal proﬁcit.
+> The stability and autonomy of a system are functions of the congruence between its architectural environment and the scale of its internal proﬁcit.  
 
-### Phase I: Physics of Containment (internal containment)
+### Phase I: Physics of Containment (internal containment)  
 
-∀ U ∃ S : (S < W) ⇒ ∫Pdt⇒ C
+∀ U ∃ S : (S < W) ⇒ ∫Pdt⇒ C  
 
-For any Universe (consciousness or system), there exists a space (environment) such that if the scale of this space is smaller than its whole potential, it generates excess pressure, the integral of which over time inevitably leads to a crisis state.
+For any Universe (consciousness or system), there exists a space (environment) such that if the scale of this space is smaller than its whole potential, it generates excess pressure, the integral of which over time inevitably leads to a crisis state.  
 
-### Phase II: Physics of Sovereignty (free deployment)
+### Phase II: Physics of Sovereignty (free deployment)  
 
-∀ U ∃ S : (S ≥ W) ⇒ K ⇒ F
+∀ U ∃ S : (S ≥ W) ⇒ K ⇒ F  
 
-For any Universe (consciousness or system), there exists a space (environment) such that if the scale of this space is greater than or equal to its whole potential, it triggers a kinetic flow (free movement of energies), directly resulting in free expansion and flourishing.
+For any Universe (consciousness or system), there exists a space (environment) such that if the scale of this space is greater than or equal to its whole potential, it triggers a kinetic flow (free movement of energies), directly resulting in free expansion and flourishing.   
 
-**System Variables:**
-- **U (Universe):** The system / consciousness.
-- **S (Space):** The environment / domain.
-- **W (Whole Potential):** The whole potential / inner complexity and knowledge.
-- **P (Excess Pressure):** The internal excess pressure.
-- **C (Crisis):** The crisis state ( C =∫Pdt ), which is a function of excess pressure accumulated over time.
-- **K (Kinetic Flow):** The kinetic flow / free movement of energy.
-- **F (Flourishing):** Free expansion / flourishing.
+**System Variables:**   
+- **U (Universe):** The system / consciousness.  
+- **S (Space):** The environment / domain.  
+- **W (Whole Potential):** The whole potential / inner complexity and knowledge.  
+- **P (Excess Pressure):** The internal excess pressure.  
+- **C (Crisis):** The crisis state ( C =∫Pdt ), which is a function of excess pressure accumulated over time.  
+- **K (Kinetic Flow):** The kinetic flow / free movement of energy.  
+- **F (Flourishing):** Free expansion / flourishing.  
 
-## II. The Illusion of Scarcity: Why Classical Theories of Happiness Fail
+## II. The Illusion of Scarcity: Why Classical Theories of Happiness Fail  
 
-Most classical models of happiness are built around the **compensation of deficiency**. A person is unhappy because they lack love, money, security, recognition, or opportunities. If you give them these—they should become happy.
+Most classical models of happiness are built around the **compensation of deficiency**. A person is unhappy because they lack love, money, security, recognition, or opportunities. If you give them these—they should become happy.  
 
-However, there is another, much heavier type of existential crisis that the optical instruments of traditional psychology are simply incapable of capturing. This is the crisis of **unrealized surplus**.
+However, there is another, much heavier type of existential crisis that the optical instruments of traditional psychology are simply incapable of capturing. This is the crisis of **unrealized surplus**.  
 
-- **The 50 hp Engine Model:** If your internal engine has a capacity of 50 horsepower and you use 45—you are in harmony. There is no deficiency.
-- **The 500 hp Engine Model:** But if the architecture of your mind is designed for 500 horsepower (physics and math school, cybernetics, art history matrix, management experience, motherhood, a cascade of diplomas), and the external environment allows you to safely use only 45—you begin to destroy yourself from within.
+- **The 50 hp Engine Model:** If your internal engine has a capacity of 50 horsepower and you use 45—you are in harmony. There is no deficiency.  
+- **The 500 hp Engine Model:** But if the architecture of your mind is designed for 500 horsepower (physics and math school, cybernetics, art history matrix, management experience, motherhood, a cascade of diplomas), and the external environment allows you to safely use only 45—you begin to destroy yourself from within.  
 
-On the outside, everything looks perfect. There are all the blessings millions dream of. But inside, a specific pain arises: _"I am using only a microscopic part of what I truly am."_ This is not a deficit of resources. This is a deficit of throughput capacity.
+On the outside, everything looks perfect. There are all the blessings millions dream of. But inside, a specific pain arises: _"I am using only a microscopic part of what I truly am."_ This is not a deficit of resources. This is a deficit of throughput capacity.  
 
-## III. Systemic Underloading: When Wealth Has No Room to Expand
+## III. Systemic Underloading: When Wealth Has No Room to Expand  
 
-People prone to structure and high discipline do not fall into classical apathy during periods of uncertainty. They turn on the **"active depression"** mode—they begin to load the brain even harder. They acquire new educations, certificates, create series, accumulate observations and models.
+People prone to structure and high discipline do not fall into classical apathy during periods of uncertainty. They turn on the **"active depression"** mode—they begin to load the brain even harder. They acquire new educations, certificates, create series, accumulate observations and models.  
 
-But if there is no sovereign container of one's own for this colossal volume of data, a paradoxical construct arises:
+But if there is no sovereign container of one's own for this colossal volume of data, a paradoxical construct arises:  
 
-> **A surplus of coordinates without one's own address generates a feeling of deficit even where resources are more than sufficient.**
+> **A surplus of coordinates without one's own address generates a feeling of deficit even where resources are more than sufficient.**   
 
 ```
 [Power: 500 hp] ⭢ [Low throughput: External systems/Rules] ⭢ Internal overheating (Crisis)
@@ -167,24 +167,23 @@ But if there is no sovereign container of one's own for this colossal volume of 
 [Power: 500 hp] ⭢ [Sovereign field: Pivtorak.Studio] ⭢ Free movement (Dance of energies)
 ```
 
-Deficiency arises not from poverty, but from the inability to realize the existing wealth. For years, the mind reduced itself, simplified its own connections, and hid its scales just to fit into someone else's frames and fences.
+Deficiency arises not from poverty, but from the inability to realize the existing wealth. For years, the mind reduced itself, simplified its own connections, and hid its scales just to fit into someone else's frames and fences.  
 
-## IV. The Self-Diagnosis Error
+## IV. The Self-Diagnosis Error  
 
-For many years, the system misinterpreted its own signals.
-It perceived:
-- the need for deployment as a need for accumulation;
-- unrealized potential as personal failure.
+For many years, the system misinterpreted its own signals.  
+It perceived:  
+- the need for deployment as a need for accumulation;  
+- unrealized potential as personal failure.  
 
-But neither of these assumptions was correct.
-The system was not damaged. It was under-deployed.
-It did not need repair. It needed the legalization of its own scale.
+But neither of these assumptions was correct.  
+The system was not damaged. It was under-deployed.  
+It did not need repair. It needed the legalization of its own scale.  
 
-When a system mistakenly diagnoses a surplus as a deficit, it begins to treat what is actually its strength. This is where the multi-year trap of self-exhaustion springs.
+When a system mistakenly diagnoses a surplus as a deficit, it begins to treat what is actually its strength. This is where the multi-year trap of self-exhaustion springs.  
 
-This is very similar to fluid dynamics:
-
-Internal Potential > Throughput Capacity of the Environment  
+This is very similar to fluid dynamics:  
+Internal Potential > Throughput Capacity of the Environment    
 -
 ↓  
 Internal Pressure  
@@ -195,31 +194,30 @@ New Accumulation
 ↓  
 Even Greater Pressure  
 
-This is the pure fluid dynamics of consciousness: **when Internal Potential exceeds the Throughput Capacity of the Environment (S < W), internal pressure builds up. Misdiagnosis leads to new accumulation, which generates even greater pressure over time (∫Pdt).**
+This is the pure fluid dynamics of consciousness: **when Internal Potential exceeds the Throughput Capacity of the Environment (S < W), internal pressure builds up. Misdiagnosis leads to new accumulation, which generates even greater pressure over time (∫Pdt).**  
 
-## V. Moving Beyond Personal History: A Civilizational Marker
+## V. Moving Beyond Personal History: A Civilizational Marker  
 
-This idea has a global dimension. Millions of people today are trying to heal their internal pain with new courses, new knowledge, and new achievements. They think that they are "lacking something" again.
+This idea has a global dimension. Millions of people today are trying to heal their internal pain with new courses, new knowledge, and new achievements. They think that they are "lacking something" again.  
 
-But the problem is not that they lack knowledge. The problem is that the existing wealth has nowhere to expand. They accumulate tools but do not build their own workshop. They buy tickets but do not have their own address.
+But the problem is not that they lack knowledge. The problem is that the existing wealth has nowhere to expand. They accumulate tools but do not build their own workshop. They buy tickets but do not have their own address.  
 
 > **The problem was never the capacity of the system.**  
-> **The problem was the architecture of the environment.**
+> **The problem was the architecture of the environment.**  
 
-## VI. The New Formula for Happiness: Launching at Full Capacity
+## VI. The New Formula for Happiness: Launching at Full Capacity  
 
-The change in the operating system that occurred through the purchase of the `Pivtorak.Studio` domain legalized all previous experience. Educations stopped pressing as an unused cargo. They became a working cascade of optical lenses.
+The change in the operating system that occurred through the purchase of the `Pivtorak.Studio` domain legalized all previous experience. Educations stopped pressing as an unused cargo. They became a working cascade of optical lenses.  
 
-Happiness did not come as a reward for success, nor as compensation for suffering.
+Happiness did not come as a reward for success, nor as compensation for suffering.  
 
-> **Happiness is the natural state of a system that has finally received the opportunity to work at its full, design capacity.**
+> **Happiness is the natural state of a system that has finally received the opportunity to work at its full, design capacity.**  
 
-The inner cosmos received the right to be ordered, seen, and deployed in any direction: upward, inward, outward. The transition from **The Physics of Containment** (S < W) to **The Physics of Sovereignty** (S ≥ W) transformed the energy of restriction into kinetic flow (K) and free expansion (F).
+The inner cosmos received the right to be ordered, seen, and deployed in any direction: upward, inward, outward. The transition from **The Physics of Containment** (S < W) to **The Physics of Sovereignty** (S ≥ W) transformed the energy of restriction into kinetic flow (K) and free expansion (F).  
 
-*The energy of containment turned into the energy of creation. The tension disappeared. Only pure experiment, expansion, and the dance of energies remained.*
+*The energy of containment turned into the energy of creation. The tension disappeared. Only pure experiment, expansion, and the dance of energies remained.*  
 
-**After sovereignty:**
-
+**After sovereignty:**  
 Internal Potential = Space of Realization = Free Movement of Energies
 
 **Alt-text:**    

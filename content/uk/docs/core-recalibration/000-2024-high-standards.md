@@ -25,7 +25,7 @@ alt: Цифрова ілюстрація на тлі шкільної дошки
 related:
   - /uk/docs/timeline/
   - /uk/docs/core-recalibration/
-weight: 1
+weight: 0
 draft: false
 toc: true
 categories:
@@ -87,6 +87,8 @@ keywords:
 ![Високі Стандарти](/images/core-recalibration-000-2024-high-standards.webp)
 
 </div>
+
+**⟡ Перекалібрування Ядра**
 
 # Високі Стандарти  
 

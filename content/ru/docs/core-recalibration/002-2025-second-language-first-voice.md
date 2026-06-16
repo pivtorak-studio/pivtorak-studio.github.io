@@ -25,7 +25,7 @@ alt: "Цифровая иллюстрация: стилизованные вол
 related:
   - /ru/docs/timeline/
   - /ru/docs/core-recalibration/
-weight: 3
+weight: 2
 draft: false
 toc: true
 categories:
@@ -89,6 +89,8 @@ keywords:
 ![Второй язык, Первый голос](/images/core-recalibration-002-2025-second-language-first-voice.webp)
 
 </div>
+
+**⟡ Перекалибровка Ядра**
 
 # Второй язык, Первый голос
 _Не изучение._

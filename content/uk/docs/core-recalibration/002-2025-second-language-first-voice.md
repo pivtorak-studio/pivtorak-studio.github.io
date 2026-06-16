@@ -25,7 +25,7 @@ alt: "Цифрова ілюстрація: стилізовані хвилі з 
 related:
   - /uk/docs/timeline/
   - /uk/docs/core-recalibration/
-weight: 3
+weight: 2
 draft: false
 toc: true
 categories:
@@ -89,6 +89,8 @@ keywords:
 ![Друга мова, Перший голос](/images/core-recalibration-002-2025-second-language-first-voice.webp)
 
 </div>
+
+**⟡ Перекалібрування Ядра**
 
 # Друга мова, Перший голос
 

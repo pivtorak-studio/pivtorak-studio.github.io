@@ -25,7 +25,7 @@ alt: Цифровая иллюстрация на фоне школьной до
 related:
   - /ru/docs/timeline/
   - /ru/docs/core-recalibration/
-weight: 1
+weight: 0
 draft: false
 toc: true
 categories:
@@ -87,6 +87,9 @@ keywords:
 ![Высокие Стандарты](/images/core-recalibration-000-2024-high-standards.webp)
 
 </div>
+
+**⟡ Перекалибровка Ядра**
+
 # Высокие Стандарты   
 _Это не конец — лишь новое начало._  
 

@@ -25,7 +25,7 @@ alt: "Цифровая иллюстрация в стиле тёмного си�
 related:
   - /ru/docs/timeline/
   - /ru/docs/core-recalibration/
-weight: 2
+weight: 1
 draft: false
 toc: true
 categories:
@@ -88,6 +88,8 @@ keywords:
 ![Перезагрузка системы](/images/core-recalibration-001-2025-system-reboot.webp)
 
 </div>
+
+**⟡ Перекалибровка Ядра**
 
 # Перезагрузка системы
 _Новый уровень — без объявлений_

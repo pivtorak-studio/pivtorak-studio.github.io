@@ -167,8 +167,11 @@ Today, the system performs a complete recalibration of the past. All my educatio
 
 ```
  [Economic Cybernetics] ⭢ Management of systems and data flows
+ 
  [Art History Matrix]   ⭢ Recognition of codes, iconography, genesis of form
+ 
  [Familial Code (3-6-9)] ⭢ Resonance, flawless base before the accent
+ 
                                         ↓
                   [Sovereign Optical System Pivtorak.Studio]
 ```

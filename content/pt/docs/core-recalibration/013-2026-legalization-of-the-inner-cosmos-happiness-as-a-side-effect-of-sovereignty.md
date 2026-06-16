@@ -117,7 +117,7 @@ search: indexed
 
 _Do autoscrutínio ao campo soberano_  
 
-> **Coordenada de transição:** Dezembro de 2025 (Coordenadas excedentes sem morada própria) $\rightarrow$ Junho de 2026 (Ato de Soberania / `Pivtorak.Studio`).  
+> **Coordenada de transição:** Dezembro de 2025 (Coordenadas excedentes sem morada própria) ⭢ Junho de 2026 (Ato de Soberania / `Pivtorak.Studio`).  
 > **Metodologia:** Engenharia de Contexto da Própria Biografia.  
 > **Marcador anticrise:** Desaparecimento da necessidade de avaliar "Será que sou feliz?".  
 
@@ -151,8 +151,11 @@ Hoje, o sistema realiza uma recalibração completa do passado. Todas as minhas 
 
 ```
  [Cibernética Económica] ⭢ Gestão de sistemas e fluxos de dados
+ 
  [Matriz da Hist. da Arte] ⭢ Reconhecimento de códigos, iconografia, génese da forma
+ 
  [Código Familiar (3-6-9)] ⭢ Ressonância, base impecável antes do acento
+ 
                                          ↓
                    [Sistema Ótico Soberano Pivtorak.Studio]
 ```

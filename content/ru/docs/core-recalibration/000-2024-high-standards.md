@@ -25,7 +25,7 @@ alt: Цифровая иллюстрация на фоне школьной до
 related:
   - /ru/docs/timeline/
   - /ru/docs/core-recalibration/
-weight: 0
+weight: 1
 draft: false
 toc: true
 categories:

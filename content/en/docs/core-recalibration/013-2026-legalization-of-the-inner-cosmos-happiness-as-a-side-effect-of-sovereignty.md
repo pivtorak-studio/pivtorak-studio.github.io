@@ -131,9 +131,9 @@ search: indexed
 
 # Legalization of the Inner Cosmos: Happiness as a Side Effect of Sovereignty  
 
-_From self-scanning to a sovereign field_  
+_From self-scanning to a sovereign field_   
 
-> **Transition Coordinate:** December 2025 (Excess coordinates without their own address) $\rightarrow$ June 2026 (Act of Sovereignty / `Pivtorak.Studio`).   
+> **Transition Coordinate:** December 2025 (Excess coordinates without their own address) ⭢ June 2026 (Act of Sovereignty / `Pivtorak.Studio`).   
 > **Methodology:** Context Engineering of One’s Own Biography.  
 > **Anti-crisis marker:** Disappearance of the need to evaluate "Am I happy?".  
 

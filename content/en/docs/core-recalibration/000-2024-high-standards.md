@@ -25,7 +25,7 @@ alt: Digital illustration on a classroom board background. A symbolic figure cli
 related:
   - /en/docs/timeline/
   - /en/docs/core-recalibration/
-weight: 0
+weight: 1
 draft: false
 toc: true
 categories:

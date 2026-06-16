@@ -25,7 +25,7 @@ alt: "Цифрова ілюстрація в мінімалістичному с
 related:
   - /uk/docs/timeline/
   - /uk/docs/core-recalibration/
-weight: 0
+weight: 3
 draft: false
 toc: true
 categories:

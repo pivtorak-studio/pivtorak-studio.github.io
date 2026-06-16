@@ -25,7 +25,7 @@ alt: Цифрова ілюстрація на тлі шкільної дошки
 related:
   - /uk/docs/timeline/
   - /uk/docs/core-recalibration/
-weight: 0
+weight: 1
 draft: false
 toc: true
 categories:

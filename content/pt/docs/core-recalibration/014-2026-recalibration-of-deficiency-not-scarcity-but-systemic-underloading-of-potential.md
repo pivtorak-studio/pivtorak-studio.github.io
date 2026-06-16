@@ -111,9 +111,9 @@ search: indexed
 
 _A arquitetura de um universo sem mapa_
 
-> **Foco da investigação:** A natureza da dor existencial no meio do bem-estar externo.
-> **Mudança conceptual chave:** Rejeição do termo "deficiência" ⭢ Transição para "subcarregamento sistémico do potencial".
-> **Fórmula da Soberania:** A felicidade ocorre quando a escala do ambiente deixa de limitar a escala da consciência.
+> **Foco da investigação:** A natureza da dor existencial no meio do bem-estar externo.   
+> **Mudança conceptual chave:** Rejeição do termo "deficiência" ⭢ Transição para "subcarregamento sistémico do potencial".   
+> **Fórmula da Soberania:** A felicidade ocorre quando a escala do ambiente deixa de limitar a escala da consciência.   
 > 
 ## I. O Princípio da Congruência de Escala
 
@@ -188,14 +188,14 @@ Isto é muito semelhante à dinâmica dos fluidos:
 
 Potencial Interno > Capacidade de Fluxo do Ambiente
 -
-↓
-Pressão Interna
-↓
-Falso Diagnóstico
-↓
-Nova Acumulação
-↓
-Pressão Ainda Maior
+↓  
+Pressão Interna  
+↓  
+Falso Diagnóstico  
+↓  
+Nova Acumulação   
+↓  
+Pressão Ainda Maior  
 
 Isto é a pura dinâmica de fluidos da consciência: **quando o Potencial Interno excede a Capacidade de Fluxo do Ambiente (S < W), a pressão interna aumenta. O diagnóstico incorreto leva a uma nova acumulação, gerando uma pressão ainda maior ao longo do tempo (∫Pdt).**
 

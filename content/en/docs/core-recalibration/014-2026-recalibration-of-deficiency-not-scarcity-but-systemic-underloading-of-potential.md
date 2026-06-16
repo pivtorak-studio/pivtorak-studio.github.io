@@ -184,16 +184,16 @@ When a system mistakenly diagnoses a surplus as a deficit, it begins to treat wh
 
 This is very similar to fluid dynamics:
 
-Internal Potential > Throughput Capacity of the Environment
+Internal Potential > Throughput Capacity of the Environment  
 -
-↓
-Internal Pressure
-↓
-False Diagnosis
-↓
-New Accumulation
-↓
-Even Greater Pressure
+↓  
+Internal Pressure  
+↓  
+False Diagnosis  
+↓  
+New Accumulation  
+↓  
+Even Greater Pressure  
 
 This is the pure fluid dynamics of consciousness: **when Internal Potential exceeds the Throughput Capacity of the Environment (S < W), internal pressure builds up. Misdiagnosis leads to new accumulation, which generates even greater pressure over time (∫Pdt).**
 

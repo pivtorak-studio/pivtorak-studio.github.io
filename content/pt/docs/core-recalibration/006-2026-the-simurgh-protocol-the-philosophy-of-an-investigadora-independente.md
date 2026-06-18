@@ -28,7 +28,7 @@ related:
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /pt/docs/timeline/
-weight: 7
+weight: 6
 draft: false
 toc: true
 categories:

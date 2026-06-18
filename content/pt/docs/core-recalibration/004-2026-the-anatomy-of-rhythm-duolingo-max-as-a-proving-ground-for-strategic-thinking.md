@@ -26,7 +26,7 @@ related:
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /pt/docs/timeline/
-weight: 5
+weight: 4
 draft: false
 toc: true
 categories:

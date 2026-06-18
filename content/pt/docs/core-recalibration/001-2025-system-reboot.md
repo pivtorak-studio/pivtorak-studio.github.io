@@ -25,7 +25,7 @@ alt: "Ilustração digital no estilo de uma interface de sistema escura: ecrã e
 related:
   - /pt/docs/timeline/
   - /pt/docs/core-recalibration/
-weight: 2
+weight: 1
 draft: false
 toc: true
 categories:

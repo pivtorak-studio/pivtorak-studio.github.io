@@ -28,7 +28,7 @@ related:
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /pt/docs/timeline/
-weight: 6
+weight: 5
 draft: false
 toc: true
 categories:

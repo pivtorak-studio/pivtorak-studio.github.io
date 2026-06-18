@@ -50,7 +50,7 @@ related:
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/
-weight: 15
+weight: 14
 toc: true
 completion: 100
 seo: true

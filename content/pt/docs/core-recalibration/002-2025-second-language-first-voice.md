@@ -25,7 +25,7 @@ alt: "Ilustração digital: ondas estilizadas formadas por diferentes sistemas d
 related:
   - /pt/docs/timeline/
   - /pt/docs/core-recalibration/
-weight: 3
+weight: 2
 draft: false
 toc: true
 categories:

@@ -4,38 +4,54 @@ language: pt
 translation_of: core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty
 title: "013 Legalização do Cosmos Interior: A Felicidade como Efeito Secundário da Soberania"
 slug: 013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty
-
-description: "Uma exploração da felicidade como efeito secundário da soberania. Um estudo sobre como a legalização do cosmos interior, a integração da biografia e a criação de um campo soberano transformam a auto-observação em energia criativa."
-summary: "Uma reflexão sobre a transição do excesso de coordenadas sem endereço próprio para um campo soberano. O artigo examina a legalização do cosmos interior, a reabilitação da biografia e o surgimento da felicidade como consequência natural da auto-soberania."
-
+description: Uma exploração da felicidade como efeito secundário da soberania. Um estudo sobre como a legalização do cosmos interior, a integração da biografia e a criação de um campo soberano transformam a auto-observação em energia criativa.
+summary: Uma reflexão sobre a transição do excesso de coordenadas sem endereço próprio para um campo soberano. O artigo examina a legalização do cosmos interior, a reabilitação da biografia e o surgimento da felicidade como consequência natural da auto-soberania.
 event_date: 2026-06-14T21:00:00+01:00
 publication_date: 2026-06-14T21:00:00+01:00
 lastmod: 2026-06-14T21:00:00+01:00
-
-tags: [felicidade, soberania, cosmos-interior, auto-soberania, engenharia-de-contexto, biografia, pensamento-sistémico, arquitetura, recalibração, pivtorak-studio]
-keywords: [legalização do cosmos interior, felicidade como efeito secundário da soberania, campo soberano, engenharia de contexto, reabilitação da biografia, excesso de coordenadas sem endereço, Pivtorak.Studio, auto-realização, arquitetura sistémica, CoreRecalibration]
-categories: [Filosofia, PensamentoSistémico, ArquiteturaPessoal, InvestigaçãoIndependente]
-
-series: [RecalibraçãoDoNúcleo]
-
+tags:
+  - felicidade
+  - soberania
+  - cosmos-interior
+  - auto-soberania
+  - engenharia-de-contexto
+  - biografia
+  - pensamento-sistémico
+  - arquitetura
+  - recalibração
+  - pivtorak-studio
+keywords:
+  - legalização do cosmos interior
+  - felicidade como efeito secundário da soberania
+  - campo soberano
+  - engenharia de contexto
+  - reabilitação da biografia
+  - excesso de coordenadas sem endereço
+  - Pivtorak.Studio
+  - auto-realização
+  - arquitetura sistémica
+  - CoreRecalibration
+categories:
+  - Filosofia
+  - PensamentoSistémico
+  - ArquiteturaPessoal
+  - InvestigaçãoIndependente
+series:
+  - RecalibraçãoDoNúcleo
 country: PT
 status: published
 featured: true
-
 image: /images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty.webp
-
-alt: "Uma mulher soberana está no centro de um campo luminoso de energia azul e dourada. À sua volta, uma dança de energias liga conhecimento, biografia, fundamentos familiares e pensamento sistémico numa única arquitetura viva. Correntes circulares de energia envolvem o seu corpo sem restrições, simbolizando a legalização do cosmos interior. Um coração radiante brilha dentro de uma estrutura fractal, representando a felicidade não como um destino, mas como um efeito secundário da soberania. A infografia visualiza a transição do excesso de coordenadas sem endereço próprio para um campo soberano chamado Pivtorak.Studio."
-
-related: [/pt/docs/core-recalibration/, /pt/docs/timeline/]
-
-authors: [Anna Pivtorak]
-
+alt: Uma mulher soberana está no centro de um campo luminoso de energia azul e dourada. À sua volta, uma dança de energias liga conhecimento, biografia, fundamentos familiares e pensamento sistémico numa única arquitetura viva. Correntes circulares de energia envolvem o seu corpo sem restrições, simbolizando a legalização do cosmos interior. Um coração radiante brilha dentro de uma estrutura fractal, representando a felicidade não como um destino, mas como um efeito secundário da soberania. A infografia visualiza a transição do excesso de coordenadas sem endereço próprio para um campo soberano chamado Pivtorak.Studio.
+related:
+  - /pt/docs/core-recalibration/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty/
-
-weight: 14
+weight: 13
 toc: true
 completion: 100
-
 seo: true
 distribution: true
 search: indexed

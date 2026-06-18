@@ -29,7 +29,7 @@ related:
   - /pt/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
   - /pt/docs/timeline/
-weight: 10
+weight: 9
 draft: false
 toc: true
 categories:

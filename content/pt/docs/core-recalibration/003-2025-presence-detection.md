@@ -25,7 +25,7 @@ alt: "Ilustração digital minimalista: fundo escuro, contorno de um relógio co
 related:
   - /pt/docs/timeline/
   - /pt/docs/core-recalibration/
-weight: 4
+weight: 3
 draft: false
 toc: true
 categories:

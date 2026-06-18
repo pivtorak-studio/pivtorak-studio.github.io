@@ -121,7 +121,7 @@ _The architecture of an unmapped universe_
 
 ### Phase I: Physics of Containment (internal containment)  
 
-∀ U ∃ S : (S < W) ⇒ ∫Pdt⇒ C  
+∀ U ∃ S : (S < W) ⇒ ∫Pdt ⇒ C  
 
 For any Universe (consciousness or system), there exists a space (environment) such that if the scale of this space is smaller than its whole potential, it generates excess pressure, the integral of which over time inevitably leads to a crisis state.  
 

@@ -121,7 +121,7 @@ _A arquitetura de um universo sem mapa_
 
 ### Fase I: Física da Contenção (contenção interna)  
 
-∀ U ∃ S : (S < W) ⇒ ∫Pdt⇒ C  
+∀ U ∃ S : (S < W) ⇒ ∫Pdt ⇒ C  
 
 Para qualquer Universo (consciência ou sistema), existe um espaço (ambiente) tal que, se a escala deste espaço for menor que o seu potencial integral, gera-se uma pressão excessiva, cujo integral ao longo do tempo leva inevitavelmente a um estado de crise.  
 ### Fase II: Física da Soberania (livre implantação)  

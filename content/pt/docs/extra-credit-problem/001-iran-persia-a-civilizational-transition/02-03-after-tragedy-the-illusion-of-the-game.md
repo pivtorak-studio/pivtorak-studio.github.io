@@ -89,6 +89,7 @@ manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition
 project_stage: II. AfterTragedy
 navigation_order: 02-03
+research_origin: Portugal
 ---
 <script type="application/ld+json">
 {

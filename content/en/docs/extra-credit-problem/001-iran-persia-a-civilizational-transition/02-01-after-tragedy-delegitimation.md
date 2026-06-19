@@ -76,6 +76,7 @@ manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition
 project_stage: II. AfterTragedy
 navigation_order: 02-01
+research_origin: Portugal
 ---
 <script type="application/ld+json">
 {
@@ -174,7 +175,7 @@ We strip the regime of the right to be called a "state." It is a criminal corpor
 **Alt-text:**    
 Grotesque scene: a child washing green paint over the word “Court” on heavy doors; beneath it appears the phrase “Warehouse of Pain.” Dark interior.  
 
-_Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. II. AfterTragedy. Delegitimation. AP | Pivtorak.Studio. 18.01.2026_    
+_✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. II. AfterTragedy. Delegitimation. AP | Pivtorak.Studio. 18.01.2026_    
 © Anna Pivtorak (Kostyuk)   
 
 🛡️ This publication is part of an authorial research and artistic project.  

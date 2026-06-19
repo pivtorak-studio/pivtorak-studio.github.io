@@ -81,6 +81,7 @@ manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition
 project_stage: II. AfterTragedy
 navigation_order: 02-02
+research_origin: Portugal
 ---
 <script type="application/ld+json">
 {
@@ -186,7 +187,7 @@ The problem lies not just in those in power, but in the architecture itself that
 **Alt-text:**  
 Geometric white crystalline lattice on a dark background. A large black drop with red veins passes freely through the lattice without resistance, staining the white lines black at the points of contact. Grotesque.  
 
-_Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. II. AfterTragedy. System without Immunity. AP | Pivtorak.Studio. 19.01.2026_  
+_✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. II. AfterTragedy. System without Immunity. AP | Pivtorak.Studio. 19.01.2026_  
 © Anna Pivtorak (Kostyuk) 
 
 🛡️ This publication is part of an authorial research and artistic project.  

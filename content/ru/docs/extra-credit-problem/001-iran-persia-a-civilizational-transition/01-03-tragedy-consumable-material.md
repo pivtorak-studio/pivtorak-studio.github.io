@@ -76,6 +76,7 @@ manifesto_type: verdict
 project: Iran-Persia-A-Civilizational-Transition
 project_stage: tragedy
 navigation_order: 01-03
+research_origin: Portugal
 ---
 <script type="application/ld+json">
 {

@@ -86,6 +86,7 @@ manifesto_type: diagnosis
 project: "Irão – Pérsia: Uma Transição Civilizacional"
 project_stage: I. Tragédia
 navigation_order: 01-01
+research_origin: Portugal
 ---
 
 ![Irão – Pérsia: Uma Transição Civilizacional (I. Tragédia. Vácuo Ético)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)

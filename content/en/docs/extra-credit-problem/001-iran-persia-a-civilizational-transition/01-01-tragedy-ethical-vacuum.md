@@ -32,7 +32,7 @@ categories:
   - Tragedy
 series: ExtraCreditProblem
 series_index: 1
-country: PT
+research_origin: Portugal
 status: published
 featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp
@@ -147,7 +147,7 @@ We were wrong.
 **Alt-text:**  
 Black silhouette of a governmental uniform with an empty, space-like interior absorbing white paper sheets representing laws.
 
-_Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. I. Tragedy. Ethical Vacuum. AP | Pivtorak.Studio. 16.01.2026_  
+_✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. I. Tragedy. Ethical Vacuum. AP | Pivtorak.Studio. 16.01.2026_  
 © Anna Pivtorak (Kostyuk) 
 
 🛡️ This publication is part of an authorial research and artistic project.  

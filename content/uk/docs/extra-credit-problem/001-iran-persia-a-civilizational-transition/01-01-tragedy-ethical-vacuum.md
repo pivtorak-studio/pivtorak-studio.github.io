@@ -86,6 +86,7 @@ manifesto_type: diagnosis
 project: "Іран – Персія: Цивілізаційний Перехід"
 project_stage: I. Tragedy
 navigation_order: 01-01
+research_origin:
 ---
 
 ![Іран – Персія: Цивілізаційний Перехід (I. Трагедія. Етичний вакуум)](/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-01-tragedy-ethical-vacuum.webp)

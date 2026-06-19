@@ -38,7 +38,7 @@ categories:
   - Governance
 series: ExtraCreditProblem
 series_index: 6
-country: IR
+country: PT
 status: published
 featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-02-03-after-tragedy-the-illusion-of-the-game.webp
@@ -89,6 +89,7 @@ manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition
 project_stage: II. AfterTragedy
 navigation_order: 02-03
+research_origin: Portugal
 ---
 <script type="application/ld+json">
 {
@@ -188,7 +189,7 @@ When the world stops perceiving tyranny as a "partner in the game," tyranny lose
 **Alt-text:**   
 Grotesque scene: the hands of a dictator/executioner deal cards bearing red fingerprints and faces of murdered opponents. A black microphone cable wraps the table and forms a noose around the chairs.  
 
-_Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. II. AfterTragedy. The Illusion of a Game. AP | Pivtorak.Studio. 19.01.2026_  
+_✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. II. AfterTragedy. The Illusion of a Game. AP | Pivtorak.Studio. 19.01.2026_  
 © Anna Pivtorak (Kostyuk) 
 
 🛡️ This publication is part of an authorial research and artistic project.  

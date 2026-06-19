@@ -33,7 +33,7 @@ categories:
   - Governance
 series: ExtraCreditProblem
 series_index: 2
-country: PT
+research_origin: Portugal
 status: published
 featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp
@@ -177,7 +177,7 @@ There is only a murderer's monologue and a listener's illusion.
 **Alt-text:**    
 A person speaks into a microphone connected to a long cable. The cable ends inside a concrete wall painted with the colors of a national flag. No sound waves are visible.
 
-_Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. I. Tragedy. False Dialogue. AP | Pivtorak.Studio. 17.01.2026_  
+_✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: A Civilizational Transition. I. Tragedy. False Dialogue. AP | Pivtorak.Studio. 17.01.2026_  
 © Anna Pivtorak (Kostyuk) 
 
 🛡️ This publication is part of an authorial research and artistic project.  

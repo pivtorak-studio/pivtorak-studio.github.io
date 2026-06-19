@@ -81,6 +81,7 @@ manifesto_type: діагноз
 project: ЗадачаПідвищеноїСкладності
 project_stage: II. AfterTragedy
 navigation_order: 02-02
+research_origin: Portugal
 ---
 <script type="application/ld+json">
 {

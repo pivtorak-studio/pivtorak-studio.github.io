@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-03-system-diagnosis-imitation-of-the-state.md",
+                "file": "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-02-point-of-vulnerability-economic-overload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-03-system-diagnosis-imitation-of-the-state"
+              "title": "04-02-point-of-vulnerability-economic-overload"
             }
           }
         ]
@@ -185,10 +185,23 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-03-system-diagnosis-imitation-of-the-state.md",
-    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-03-system-diagnosis-imitation-of-the-state.md",
+    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-02-point-of-vulnerability-economic-overload.md",
+    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-02-point-of-vulnerability-economic-overload.md",
+    "content/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-02-point-of-vulnerability-economic-overload.md",
+    "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-02-point-of-vulnerability-economic-overload.md",
+    "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-01-point-of-vulnerability-the-human-factor.md",
+    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-01-point-of-vulnerability-the-human-factor.md",
+    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-01-point-of-vulnerability-the-human-factor.md",
+    "content/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-01-point-of-vulnerability-the-human-factor.md",
+    "content/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum.md",
     "content/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-03-system-diagnosis-imitation-of-the-state.md",
+    "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-03-point-of-vulnerability-information-fragility.md",
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-03-system-diagnosis-imitation-of-the-state.md",
+    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-03-point-of-vulnerability-information-fragility.md",
+    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-03-system-diagnosis-imitation-of-the-state.md",
+    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-03-point-of-vulnerability-information-fragility.md",
+    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-03-system-diagnosis-imitation-of-the-state.md",
+    "content/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-03-point-of-vulnerability-information-fragility.md",
     "content/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-02-system-diagnosis-resource-dependence.md",
     "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-02-system-diagnosis-resource-dependence.md",
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-02-system-diagnosis-resource-dependence.md",
@@ -198,19 +211,6 @@
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity.md",
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation.md",
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material.md",
-    "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue.md",
-    "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-01-system-diagnosis-vertical-of-fear.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-03-after-tragedy-the-illusion-of-the-game.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum.md",
-    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-01-system-diagnosis-vertical-of-fear.md",
-    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-03-after-tragedy-the-illusion-of-the-game.md",
-    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity.md",
-    "content/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation.md",
     "static/images/Unconfirmed 973193.crdownload",
     "static/images/Unconfirmed 500570.crdownload",
     "static/images/Unconfirmed 785982.crdownload",

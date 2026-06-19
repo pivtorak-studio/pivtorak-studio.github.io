@@ -2,7 +2,7 @@
 id: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity
 language: en
 translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity
-title: VI. Desacralization of Fear. Loss of Subjectivity
+title: 06-02 Desacralization of Fear. Loss of Subjectivity
 description: An analysis of the collapse of political subjectivity in authoritarian systems. Power loses its reality when society withdraws its consent to be governed.
 summary: This work documents the dissolution of authoritarian subjectivity as a civilizational turning point. An empty office, fading symbols, and weightless orders reveal that dictatorship exists only while people participate in its relational network.
 event_date: 2026-01-25T12:00:00

@@ -2,7 +2,7 @@
 id: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal
 language: pt
 translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal
-title: VI. Dessacralização do Medo. Inevitabilidade do Tribunal
+title: 06-03 Dessacralização do Medo. Inevitabilidade do Tribunal
 description: Uma análise da transformação da repressão em prova. O medo desaparece quando a própria arquitetura prisional começa a testemunhar a favor da justiça futura.
 summary: Esta obra documenta a etapa final da dessacralização do medo. As grades da prisão transformam-se em protocolos jurídicos, as vítimas tornam-se testemunhas e a ditadura perde a sua capacidade de ocultar a violência à medida que a própria história começa a registar cada ato.
 event_date: 2026-01-25T13:00:00

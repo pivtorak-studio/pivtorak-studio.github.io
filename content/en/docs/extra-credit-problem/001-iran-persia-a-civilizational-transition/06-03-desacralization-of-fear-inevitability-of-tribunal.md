@@ -2,7 +2,7 @@
 id: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal
 language: en
 translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal
-title: VI. Desacralization of Fear. Inevitability of Tribunal
+title: 06-03 Desacralization of Fear. Inevitability of Tribunal
 description: An analysis of the transformation of repression into evidence. Fear disappears when prison architecture itself begins to testify for future justice.
 summary: This work documents the final stage of the desacralization of fear. Prison bars become legal protocols, victims become witnesses, and dictatorship loses its ability to conceal violence as history itself begins to register every act.
 event_date: 2026-01-25T13:00:00

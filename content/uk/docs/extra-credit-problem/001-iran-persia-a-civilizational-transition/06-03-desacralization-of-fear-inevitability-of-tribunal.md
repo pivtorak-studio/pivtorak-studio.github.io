@@ -2,7 +2,7 @@
 id: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal
 language: uk
 translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal
-title: VI. Десакралізація Страху. Невідворотність Трибуналу
+title: 06-03 Десакралізація Страху. Невідворотність Трибуналу
 description: Аналіз перетворення репресій на докази. Страх зникає тоді, коли сама архітектура в'язниці починає свідчити на користь майбутнього правосуддя.
 summary: Ця робота фіксує фінальний етап десакралізації страху. Тюремні ґрати перетворюються на юридичні протоколи, жертви стають свідками, а диктатура втрачає здатність приховувати насильство, оскільки сама історія починає реєструвати кожну дію.
 event_date: 2026-01-25T13:00:00

@@ -2,7 +2,7 @@
 id: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity
 language: ru
 translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity
-title: VI. Десакрализация Страха. Утрата Субъектности
+title: 06-02 Десакрализация Страха. Утрата Субъектности
 description: Анализ разрушения политической субъектности в авторитарных системах. Власть теряет реальность, когда общество отзывает своё согласие быть управляемым.
 summary: Эта работа фиксирует распад авторитарной субъектности как цивилизационный перелом. Пустой кабинет, исчезающие символы и невесомые приказы показывают, что диктатура существует лишь до тех пор, пока люди участвуют в её сети отношений.
 event_date: 2026-01-25T12:00:00

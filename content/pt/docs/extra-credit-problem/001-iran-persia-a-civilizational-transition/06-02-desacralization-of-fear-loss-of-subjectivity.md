@@ -2,7 +2,7 @@
 id: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity
 language: pt
 translation_of: extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity
-title: VI. Dessacralização do Medo. Perda de Subjetividade
+title: 06-02 Dessacralização do Medo. Perda de Subjetividade
 description: Uma análise do colapso da subjetividade política nos sistemas autoritários. O poder perde a sua realidade quando a sociedade retira o seu consentimento para ser governada.
 summary: Esta obra documenta a dissolução da subjetividade autoritária como um ponto de viragem civilizacional. Um gabinete vazio, símbolos que desaparecem e ordens sem peso revelam que a ditadura só existe enquanto as pessoas participam na sua rede de relações.
 event_date: 2026-01-25T12:00:00

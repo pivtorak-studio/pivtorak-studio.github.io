@@ -5,9 +5,9 @@ translation_of: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-r
 title: "20260131 Iran – Persia: From the Dismantling of a Regime to the Revival of Civilization"
 description: Documentation of the emergence, evolution, and completion of a civilizational research cycle that transformed the study of regime dismantling into a model of cultural and systemic renewal.
 summary: A Process Diary entry recording the transition from analyzing authoritarian structures to designing a civilizational future through the Persia 2.0 framework.
-event_date: 2026-01-31T09:00:00
-publication_date: 2026-01-31T09:00:00
-lastmod: 2026-01-31T09:00:00
+event_date: 2026-01-31T15:00:00
+publication_date: 2026-01-31T15:00:00
+lastmod: 2026-01-31T15:00:00
 slug: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 tags:
   - ProcessDiary

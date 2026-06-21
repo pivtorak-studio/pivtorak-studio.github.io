@@ -1,7 +1,8 @@
 ---
-title: "20260109 Nova Realidade. Intelecto e Responsabilidade"
-weight: 1
---- 
+title: 20260109 Nova Realidade. Intelecto e Responsabilidade
+weight: 20260109
+---
+
 
 <div class="float-right">
 

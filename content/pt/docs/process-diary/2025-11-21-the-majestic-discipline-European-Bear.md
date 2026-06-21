@@ -1,6 +1,6 @@
 ---
-title: "20251121 ADisciplinaMajestosa. UrsoEuropeu"
-weight: 1
+title: 20251121 ADisciplinaMajestosa. UrsoEuropeu
+weight: 20251121
 ---
 
 <div class="float-right">

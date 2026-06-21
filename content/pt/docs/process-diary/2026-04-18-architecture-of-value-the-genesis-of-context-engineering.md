@@ -1,6 +1,6 @@
 ---
-title: "20260418 ∀ ◉ ∃ Arquitetura de Valor. A Génese da Engenharia de Contexto"
-weight: 1
+title: 20260418 ∀ ◉ ∃ Arquitetura de Valor. A Génese da Engenharia de Contexto
+weight: 20260418
 ---
 
 <div class="float-right">

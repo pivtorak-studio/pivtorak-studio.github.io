@@ -1,7 +1,9 @@
 ---
-title: "20260101 PeacefulLife"
-weight: 1
---- 
+title: 20260101 PeacefulLife
+weight: 20260101
+---
+
+ 
 
 <div class="float-right">
 

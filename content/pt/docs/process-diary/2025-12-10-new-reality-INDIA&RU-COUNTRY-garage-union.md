@@ -1,7 +1,9 @@
 ---
-title: "20251210 NovaRealidade. ÍNDIA&RU-PAÍS. UniãoDeGaragem"
-weight: 1
---- 
+title: 20251210 NovaRealidade. ÍNDIA&RU-PAÍS. UniãoDeGaragem
+weight: 20251210
+---
+
+ 
 
 <div class="float-right">
 

@@ -1,6 +1,6 @@
 ---
-title: "20251112 ParaQueNasceu. RU-CARNEFICINAS"
-weight: 1
+title: 20251112 ParaQueNasceu. RU-CARNEFICINAS
+weight: 20251112
 ---
 
 <div class="float-right">

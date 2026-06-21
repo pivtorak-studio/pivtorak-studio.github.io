@@ -1,7 +1,10 @@
 ---
-title: "20260109 NewReality. IntellectAndResponsibility"
-weight: 1
---- 
+title: 20260109 NewReality. IntellectAndResponsibility
+weight: 20260109
+---
+
+
+
 
 <div class="float-right">
 

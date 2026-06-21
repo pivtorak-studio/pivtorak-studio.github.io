@@ -1,6 +1,6 @@
 ---
-title: "20260418 ∀ ◉ ∃ Architecture of Value. The Genesis of Context Engineering"
-weight: 1
+title: 20260418 ∀ ◉ ∃ Architecture of Value. The Genesis of Context Engineering
+weight: 20260418
 ---
 
 <div class="float-right">

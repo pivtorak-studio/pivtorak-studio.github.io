@@ -1,6 +1,6 @@
 ---
-title: "20251130 NovaRealidade. Ucrânia. PlanoDePaz"
-weight: 1
+title: 20251130 NovaRealidade. Ucrânia. PlanoDePaz
+weight: 20251130
 ---
 
 <div class="float-right">

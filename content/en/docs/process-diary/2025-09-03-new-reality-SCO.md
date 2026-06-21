@@ -1,6 +1,6 @@
 ---
-title: "20250903 NewReality. SCO"
-weight: 1
+title: 20250903 NewReality. SCO
+weight: 20250903
 ---
 
 <div class="float-right">

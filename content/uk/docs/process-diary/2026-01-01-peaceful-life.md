@@ -1,7 +1,9 @@
 ---
-title: "20260101 МирнеЖиття"
-weight: 1
---- 
+title: 20260101 МирнеЖиття
+weight: 20260101
+---
+
+
 
 <div class="float-right">
 

@@ -1,6 +1,6 @@
 ---
-title: "20251009 ПричудливыйМир. ESMÉE"
-weight: 1
+title: 20251009 ПричудливыйМир. ESMÉE
+weight: 20251009
 ---
 
 <div class="float-right">

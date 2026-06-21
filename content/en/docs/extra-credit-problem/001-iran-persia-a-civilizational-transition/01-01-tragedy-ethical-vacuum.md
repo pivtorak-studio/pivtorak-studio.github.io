@@ -101,7 +101,8 @@ This material is not a legal accusation, a journalistic investigation, or an off
 ---
 **📋 Methodological Note**
 
- 
+These series are the exercises in civilizational modeling.    
+
 The use of the present tense does not indicate an existing political reality, a prediction, or a factual statement.  
 The texts describe desirable systemic configurations and ethical horizons toward which societies may consciously choose to move.  
 The works function as architectural blueprints for possible futures rather than as descriptions of current events.  

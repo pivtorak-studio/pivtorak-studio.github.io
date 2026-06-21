@@ -1,6 +1,6 @@
 ---
-title: "20250516 ХимернийСвіт. ESMÉE"
-weight: 1
+title: 20250516 ХимернийСвіт. ESMÉE
+weight: 20250516
 ---
 
 <div class="float-right">

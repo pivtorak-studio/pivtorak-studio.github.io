@@ -1,6 +1,6 @@
 ---
-title: "20251112 WhatAreYouBornFor. RU-BUTCHERS"
-weight: 1
+title: 20251112 WhatAreYouBornFor. RU-BUTCHERS
+weight: 20251112
 ---
 
 <div class="float-right">

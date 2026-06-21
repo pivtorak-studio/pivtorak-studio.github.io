@@ -5,9 +5,9 @@ translation_of: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-r
 title: "20260131 Irão – Pérsia: Do Desmantelamento de um Regime ao Renascimento de uma Civilização"
 description: Documentação do surgimento, evolução e conclusão de um ciclo de investigação civilizacional que transformou o estudo do desmantelamento de um regime num modelo de renovação cultural e sistémica.
 summary: Entrada do Diário do Processo que regista a transição da análise de estruturas autoritárias para o desenho de um futuro civilizacional através do modelo Pérsia 2.0.
-event_date: 2026-01-31T15:00:00
-publication_date: 2026-01-3115:00:00
-lastmod: 2026-01-31T15:00:00
+event_date: 2026-01-31T09:00:00
+publication_date: 2026-01-3109:00:00
+lastmod: 2026-01-31T09:00:00
 slug: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 tags:
   - DiárioDoProcesso
@@ -76,8 +76,8 @@ weight: 1
   "alternativeHeadline": "Diário do Processo",
   "description": "Documentação do surgimento, evolução e conclusão de um ciclo de investigação civilizacional que transformou o estudo do desmantelamento de um regime num modelo de renovação cultural e sistémica.",
   "inLanguage": "pt-PT",
-  "datePublished": "2026-01-31T15:00:00+00:00",
-  "dateModified": "2026-01-31T15:00:00+00:00",
+  "datePublished": "2026-01-31T09:00:00+00:00",
+  "dateModified": "2026-01-31T09:00:00+00:00",
   "author": {
     "@type": "Person",
     "name": "Anna Pivtorak"

@@ -129,6 +129,16 @@ Metáforas, imagens, símbolos e modelos conceptuais podem ter caráter alegóri
 Este material não constitui uma acusação jurídica, uma investigação jornalística ou uma conclusão oficial de qualquer instituição.   
 
 ---
+**📋 Nota Metodológica**
+
+Esta série constitui um exercício de modelação civilizacional.  
+A utilização do tempo presente não indica uma realidade política existente, uma previsão ou uma afirmação factual.  
+Os textos descrevem configurações sistémicas desejáveis e horizontes éticos para os quais as sociedades podem escolher caminhar conscientemente.  
+As obras funcionam como plantas arquitetónicas de futuros possíveis e não como descrições de acontecimentos atuais.  
+O objetivo do projeto não é prever a história, mas conceber modelos coerentes de civilização que possam servir como sistemas de referência a longo prazo para a reflexão pública, o desenho institucional e a agência humana.  
+Cada obra desta série deve, portanto, ser entendida simultaneamente como um manifesto, um exercício de desenho sistémico e uma hipótese civilizacional.  
+
+---
 **✯ Desafio De Nível Superior (Problema com Estrela)**    
 
 **Irão – Pérsia: Uma Transição Civilizacional**     

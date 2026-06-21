@@ -166,7 +166,7 @@ The project is open for use by individuals and organizations acting in defense o
 ---
 ## 📋 METHODOLOGICAL NOTE
 
-These series is the exercises in civilizational modeling.   
+These series are the exercises in civilizational modeling.   
 
 The use of the present tense does not indicate an existing political reality, a prediction, or a factual statement.  
 

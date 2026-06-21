@@ -6,7 +6,7 @@ title: "20260131 Irão – Pérsia: Do Desmantelamento de um Regime ao Renascime
 description: Documentação do surgimento, evolução e conclusão de um ciclo de investigação civilizacional que transformou o estudo do desmantelamento de um regime num modelo de renovação cultural e sistémica.
 summary: Entrada do Diário do Processo que regista a transição da análise de estruturas autoritárias para o desenho de um futuro civilizacional através do modelo Pérsia 2.0.
 event_date: 2026-01-31T23:30:00
-publication_date: 2026-01-3123:30:00
+publication_date: 2026-01-31T23:30:00
 lastmod: 2026-01-31T23:30:00
 slug: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 tags:

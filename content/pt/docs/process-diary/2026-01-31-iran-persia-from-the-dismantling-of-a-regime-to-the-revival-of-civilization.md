@@ -144,7 +144,7 @@ E tornou-se uma possibilidade.
 
 **Alt-text:**  
 Colagem de 30 obras do bloco **Irão – Pérsia: Da queda de um regime ao renascimento da civilização** da série **✯ Desafio De Nível Superior (Problema com Estrela)**.  
-No centro: _Process Diary. 31.01.2025._
+No centro: _Process Diary. 31.01.2026._
 
 _Diário do Processo. ✯ Desafio De Nível Superior (Problema com Estrela). Irão – Pérsia: Da queda de um regime ao renascimento da civilização._ AP | Pivtorak.Studio. 31.01.2026    
 © Anna Pivtorak (Kostyuk)  

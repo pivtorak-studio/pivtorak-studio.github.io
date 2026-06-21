@@ -164,6 +164,21 @@ A autora não apoia nem autoriza a utilização dos materiais do projeto para a 
 O projeto está aberto à utilização por pessoas e organizações que atuem em defesa dos direitos humanos, da liberdade, da dignidade humana e do desenvolvimento pacífico da sociedade.
 
 ---
+## 📋 NOTA METODOLÓGICA
+
+Estas séries são constituída por exercícios de modelação civilizacional.   
+
+A utilização do tempo presente não indica uma realidade política existente, uma previsão ou uma afirmação factual.  
+
+Os textos descrevem configurações sistémicas desejáveis e horizontes éticos para os quais as sociedades podem escolher caminhar conscientemente.  
+
+As obras funcionam como plantas arquitetónicas de futuros possíveis e não como descrições de acontecimentos atuais.  
+
+O objetivo do projeto não é prever a história, mas conceber modelos coerentes de civilização que possam servir como sistemas de referência a longo prazo para a reflexão pública, o desenho institucional e a agência humana.  
+
+Cada obra desta série deve, portanto, ser entendida simultaneamente como um manifesto, um exercício de desenho sistémico e uma hipótese civilizacional.  
+
+---
 
 **Alt-text:**   
 Um símbolo luminoso em forma de estrela ligando um mundo de crise a um mundo de renovação, representando transformação sistémica, dignidade humana e recuperação da autonomia.

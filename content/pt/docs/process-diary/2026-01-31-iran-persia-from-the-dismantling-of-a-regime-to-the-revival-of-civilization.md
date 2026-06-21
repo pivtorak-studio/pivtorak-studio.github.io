@@ -76,8 +76,8 @@ weight: 1
   "alternativeHeadline": "Diário do Processo",
   "description": "Documentação do surgimento, evolução e conclusão de um ciclo de investigação civilizacional que transformou o estudo do desmantelamento de um regime num modelo de renovação cultural e sistémica.",
   "inLanguage": "pt-PT",
-  "datePublished": "2026-01-31T09:00:00+00:00",
-  "dateModified": "2026-01-31T09:00:00+00:00",
+  "datePublished": "2026-01-31T15:00:00+00:00",
+  "dateModified": "2026-01-31T15:00:00+00:00",
   "author": {
     "@type": "Person",
     "name": "Anna Pivtorak"

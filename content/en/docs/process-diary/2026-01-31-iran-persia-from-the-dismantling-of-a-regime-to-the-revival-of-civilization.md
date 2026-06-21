@@ -76,8 +76,8 @@ weight: 1
   "alternativeHeadline": "Process Diary",
   "description": "Documentation of the emergence, evolution, and completion of a civilizational research cycle that transformed the study of regime dismantling into a model of cultural and systemic renewal.",
   "inLanguage": "en",
-  "datePublished": "2026-01-31T09:00:00+00:00",
-  "dateModified": "2026-01-31T09:00:00+00:00",
+  "datePublished": "2026-01-31T15:00:00+00:00",
+  "dateModified": "2026-01-31T15:00:00+00:00",
   "author": {
     "@type": "Person",
     "name": "Anna Pivtorak"

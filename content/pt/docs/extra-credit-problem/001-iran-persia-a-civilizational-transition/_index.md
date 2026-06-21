@@ -137,7 +137,7 @@ Metáforas, imagens, símbolos e modelos conceptuais podem ter caráter alegóri
 Este material não constitui uma acusação jurídica, uma investigação jornalística ou uma conclusão oficial de qualquer instituição.
 
 ---
-**Nota Metodológica**
+**📋 Nota Metodológica**
 
 Esta série constitui um exercício de modelação civilizacional.  
 A utilização do tempo presente não indica uma realidade política existente, uma previsão ou uma afirmação factual.  

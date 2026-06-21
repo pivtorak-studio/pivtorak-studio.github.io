@@ -143,7 +143,7 @@ Metaphors, imagery, symbols, and conceptual models may have an allegorical chara
 This material is not a legal accusation, a journalistic investigation, or an official conclusion of any institution.
 
 ---
-**Methodological Note**
+**📋 Methodological Note**
 
 This series is an exercise in civilizational modeling.  
 The use of the present tense does not indicate an existing political reality, a prediction, or a factual statement.  

@@ -147,11 +147,14 @@ O objetivo do projeto não é prever a história, mas conceber modelos coerentes
 Cada obra desta série deve, portanto, ser entendida simultaneamente como um manifesto, um exercício de desenho sistémico e uma hipótese civilizacional.  
 
 ---
+
+**✯ Desafio De Nível Superior (Problema com Estrela)**
+
 # Irão – Pérsia: Uma Transição Civilizacional
 
 _Do Desmantelamento de um Regime ao Renascimento de uma Civilização_
 
-Esta série integra o projeto **✯ Problema Com Estrela (The Asterisk Problem)** — uma investigação dedicada a crises sistémicas que não podem ser resolvidas através de instrumentos políticos, militares ou económicos convencionais.
+Esta série integra o projeto **✯ Desafio De Nível Superior (Problema com Estrela)** — uma investigação dedicada a crises sistémicas que não podem ser resolvidas através de instrumentos políticos, militares ou económicos convencionais.
 
 O Irão tornou-se o primeiro caso civilizacional deste estudo.
 

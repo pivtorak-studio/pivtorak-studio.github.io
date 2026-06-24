@@ -153,7 +153,10 @@ The purpose of the project is not to predict history, but to design coherent mod
 Every work in this series should therefore be understood simultaneously as a manifesto, a systems design exercise, and a civilizational hypothesis.  
 
 ---
-# Iran – Persia: A Civilizational Transition
+
+**✯ Extra Credit Problem (The Asterisk Problem)**
+
+# IRAN – PERSIA: A CIVILIZATIONAL TRANSITION
 
 _From the Dismantling of a Regime to the Revival of Civilization_
 

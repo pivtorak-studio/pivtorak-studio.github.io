@@ -111,6 +111,7 @@ Every work in this series should therefore be understood simultaneously as a man
 This series does not examine Afghanistan as a country or the Afghan people as such.
 The object of research is the process of stripping away human agency.
 The focus is on the mechanisms that progressively dismantle the core pillars of civilization:  
+
 - responsibility;  
 - institutions;  
 - law;  

@@ -110,6 +110,7 @@ Cada obra desta série deve, portanto, ser entendida simultaneamente como um man
 Esta série não analisa o Afeganistão enquanto país ou o povo afegão como tal.  
 O objecto de estudo é o processo de destituição da agência humana.  
 O foco centra-se nos mecanismos que destroem progressivamente os pilares fundamentais da civilização:  
+
 - a responsabilidade;  
 - as instituições;  
 - o direito;  

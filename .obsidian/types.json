@@ -8,6 +8,6 @@
     "primary_tension": "multitext",
     "related_domains": "multitext",
     "systemic_level": "multitext",
-    "navigation_order": "text"
+    "navigation_order": "number"
   }
 }

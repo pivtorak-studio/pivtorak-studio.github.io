@@ -47,7 +47,43 @@ system_role: "Análise dos mecanismos de desumanização e reconstrução da sub
 entry_point: "O colapso da responsabilidade patriarcal e a transformação das crianças em recursos de sobrevivência."
 navigation_order: 002
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/pt/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
+  "url": "https://pivtorak.studio/pt/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
+  "name": "AFEGANISTÃO: SUBJECTIVIDADE ROUBADA",
+  "headline": "AFEGANISTÃO: SUBJECTIVIDADE ROUBADA",
+  "alternativeHeadline": "O Fracasso do Patriarcado e o Projecto da Nova Dignidade",
+  "description": "Um estudo civilizacional da desumanização, do colapso da responsabilidade patriarcal e da restauração da dignidade humana através de uma análise sistémica em 54 partes.",
+  "inLanguage": "pt-PT",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "image": "https://pivtorak.studio/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp",
+  "datePublished": "2026-06-22T21:00:00",
+  "dateModified": "2026-06-22T21:00:00",
+  "about": [
+    "Afeganistão",
+    "Dignidade Humana",
+    "Análise Sistémica",
+    "Patriarcado",
+    "Estudos Civilizacionais"
+  ]
+}
+</script>
 
 ![Afeganistão: Subjectividade Roubada](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
 

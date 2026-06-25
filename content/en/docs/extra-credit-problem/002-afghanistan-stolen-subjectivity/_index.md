@@ -47,11 +47,43 @@ system_role: "Analysis of dehumanization mechanisms and the reconstruction of hu
 entry_point: "The collapse of patriarchal responsibility and the transformation of children into survival resources."
 navigation_order: 002
 ---
-
-
-
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
+  "url": "https://pivtorak.studio/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
+  "name": "AFGHANISTAN: STOLEN SUBJECTIVITY",
+  "headline": "AFGHANISTAN: STOLEN SUBJECTIVITY",
+  "alternativeHeadline": "The Failure of Patriarchy and the Design of New Dignity",
+  "description": "A civilizational study of dehumanization, the collapse of patriarchal responsibility, and the restoration of human dignity through a 54-part systemic analysis.",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "image": "https://pivtorak.studio/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp",
+  "datePublished": "2026-06-22T21:00:00",
+  "dateModified": "2026-06-22T21:00:00",
+  "about": [
+    "Afghanistan",
+    "Human Dignity",
+    "Systemic Analysis",
+    "Patriarchy",
+    "Civilizational Studies"
+  ]
+}
+</script>
 
 
 ![Afghanistan: Stolen Subjectivity](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
@@ -85,6 +117,7 @@ The focus is on the mechanisms that progressively dismantle the core pillars of 
 - education;  
 - human dignity;  
 - a society's capacity to protect its own children.  
+
 A specific focus of this series is directed at the collapse of the institution of patriarchal responsibility.   
 It is an investigation into a system where the right to control women is preserved, while the duty to protect them completely vanishes.  
 The ultimate consequence is the degradation of a society to a state where a child is reduced to an economic resource, and human life becomes a mere bargaining chip for survival.
@@ -97,7 +130,7 @@ The ultimate consequence is the degradation of a society to a state where a chil
 
 *The Failure of Patriarchy and the Design of New Dignity*  
 
-This series is part of the ✯ Extra Credit Problem (The Asterisk Problem) project — an exploration of systemic crises that cannot be solved through conventional political, military, or economic instruments.
+This series is part of the **✯ Extra Credit Problem (The Asterisk Problem)** project — an exploration of systemic crises that cannot be solved through conventional political, military, or economic instruments.
 
 Afghanistan became the second civilizational case study of this research.
 

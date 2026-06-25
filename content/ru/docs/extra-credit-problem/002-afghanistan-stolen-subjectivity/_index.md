@@ -47,7 +47,43 @@ system_role: "Анализ механизмов дегуманизации и в
 entry_point: "Коллапс патриархальной ответственности и превращение детей в ресурсы выживания."
 navigation_order: 002
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/ru/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
+  "url": "https://pivtorak.studio/ru/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
+  "name": "АФГАНИСТАН: ПОХИЩЕННАЯ СУБЪЕКТНОСТЬ",
+  "headline": "АФГАНИСТАН: ПОХИЩЕННАЯ СУБЪЕКТНОСТЬ",
+  "alternativeHeadline": "Провал Патриархата и Проектирование Нового Достоинства",
+  "description": "Цивилизационное исследование дегуманизации, провала патриархальной ответственности и восстановления человеческого достоинства через системный анализ из 54 работ.",
+  "inLanguage": "ru",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "image": "https://pivtorak.studio/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp",
+  "datePublished": "2026-06-22T21:00:00",
+  "dateModified": "2026-06-22T21:00:00",
+  "about": [
+    "Афганистан",
+    "Человеческое Достоинство",
+    "Системный Анализ",
+    "Патриархат",
+    "Цивилизационные Исследования"
+  ]
+}
+</script>
 
 ![Афганистан: Похищенная Субъектность](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
 
@@ -93,7 +129,7 @@ navigation_order: 002
 
 *Провал Патриархата и Проектирование Нового Достоинства*
 
-Эта серия является частью проекта ✯ Задача Повышенной Сложности (The Asterisk Problem) — исследования системных кризисов, которые невозможно решить обычными политическими, военными или экономическими инструментами.
+Эта серия является частью проекта **✯ Задача Повышенной Сложности (Задача со Звёздочкой)** — исследованив,я системных кризисо которые невозможно решить обычными политическими, военными или экономическими инструментами.
 
 Афганистан стал вторым цивилизационным кейсом данного исследования.
 

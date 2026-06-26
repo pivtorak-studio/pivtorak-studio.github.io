@@ -4,22 +4,52 @@ language: pt
 translation_of: core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm
 title: "015 Arquitetura da Endurance Civilizacional: Da Regularidade ao Ritmo Soberano"
 slug: 015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm
-description: "Uma exploração da endurance intelectual de longa distância, onde o ritmo substitui a força de vontade como a arquitetura que sustenta pesquisas civilizacionais ultra complexas ao longo do tempo."
-summary: "Do Duolingo Max à máquina de remo, esta recalibração examina a transição da regularidade diária para o ritmo soberano, introduzindo a endurance civilizacional como um novo paradigma do Ultra Deep Work."
+description: Uma exploração da endurance intelectual de longa distância, onde o ritmo substitui a força de vontade como a arquitetura que sustenta pesquisas civilizacionais ultra complexas ao longo do tempo.
+summary: Do Duolingo Max à máquina de remo, esta recalibração examina a transição da regularidade diária para o ritmo soberano, introduzindo a endurance civilizacional como um novo paradigma do Ultra Deep Work.
 event_date: 2026-06-17T15:00:00+01:00
 publication_date: 2026-06-17T15:00:00+01:00
 lastmod: 2026-06-17T15:00:00+01:00
-tags: [RecalibraçãoDoNúcleo, EnduranceCivilizacional, UltraDeepWork, RitmoSoberano, PensamentoDeLongaDistância, PrincípioDoOceano, PensamentoSistémico, ArquiteturaDaInvestigação, TrabalhoIntelectual, MemóriaSocial]
-keywords: [arquitetura da endurance, ritmo soberano, ultra deep work, endurance civilizacional, investigação de longa distância, arquitetura cognitiva, pensamento sistémico, bússola ética, máquina de remo, princípio do oceano, memória social, ritmo acima da força de vontade]
-categories: [Investigação, PensamentoSistémico, Soberania, ArquiteturaDoConhecimento]
-series: [RecalibraçãoDoNúcleo]
+tags:
+  - RecalibraçãoDoNúcleo
+  - EnduranceCivilizacional
+  - UltraDeepWork
+  - RitmoSoberano
+  - PensamentoDeLongaDistância
+  - PrincípioDoOceano
+  - PensamentoSistémico
+  - ArquiteturaDaInvestigação
+  - TrabalhoIntelectual
+  - MemóriaSocial
+keywords:
+  - arquitetura da endurance
+  - ritmo soberano
+  - ultra deep work
+  - endurance civilizacional
+  - investigação de longa distância
+  - arquitetura cognitiva
+  - pensamento sistémico
+  - bússola ética
+  - máquina de remo
+  - princípio do oceano
+  - memória social
+  - ritmo acima da força de vontade
+categories:
+  - Investigação
+  - PensamentoSistémico
+  - Soberania
+  - ArquiteturaDoConhecimento
+series:
+  - RecalibraçãoDoNúcleo
 country: PT
 status: published
 featured: true
 image: /images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp
-alt: "Ilustração digital de uma jovem a utilizar uma máquina de remo ao ar livre junto ao oceano ao pôr do sol. Vestindo calças desportivas pretas, uma T-shirt branca e grandes auscultadores pretos, surge ao longe enquanto diagramas, matrizes e símbolos visualizam a transição da regularidade para o ritmo soberano e a endurance civilizacional."
-related: [/pt/docs/core-recalibration/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Ilustração digital de uma jovem a utilizar uma máquina de remo ao ar livre junto ao oceano ao pôr do sol. Vestindo calças desportivas pretas, uma T-shirt branca e grandes auscultadores pretos, surge ao longe enquanto diagramas, matrizes e símbolos visualizam a transição da regularidade para o ritmo soberano e a endurance civilizacional.
+related:
+  - /pt/docs/core-recalibration/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm/
 weight: 15
 toc: true

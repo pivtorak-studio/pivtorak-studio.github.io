@@ -119,8 +119,8 @@ Valor (V)
    │                                     _.._
    │                                   .'    `.
    │                                  /        \
-   │    Cada nova iteração →         /          \  ◄─ Novas ideias
-   │    amplifica o SINAL (ΔS)      /            \    tornam-se RUÍDO (ΔN)
+   │    Cada nova iteração →         /          \  ← Novas ideias
+   │    amplifica o SINAL (ΔS)      /            \   tornam-se RUÍDO (ΔN)
    │                               /              \
    └───────────────────────────────┴──────────────┴────────────► Tempo / Ideias (x)
                                 [Início]    [Colapso / Nova camada]

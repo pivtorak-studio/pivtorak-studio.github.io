@@ -120,8 +120,8 @@ Value (V)
    │                                     _.._
    │                                   .'    `.
    │                                  /        \
-   │    Each new iteration →         /          \  ◄─ New ideas
-   │    amplifies SIGNAL (ΔS)       /            \    become NOISE (ΔN)
+   │    Each new iteration →         /          \  ← New ideas
+   │    amplifies SIGNAL (ΔS)       /            \   become NOISE (ΔN)
    │                               /              \
    └───────────────────────────────┴──────────────┴──────────────► Time / Ideas (x)
                                 [Start]     [Collapse / New layer]

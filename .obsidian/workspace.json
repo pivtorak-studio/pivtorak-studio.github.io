@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
+                "file": "content/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential"
+              "title": "017-2026-production-discipline-from-cognitive-completion-to-product-autonomy"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 288.5
   },
   "right": {
     "id": "5f897fe6f82f9703",
@@ -185,50 +185,51 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
+    "static/katex/auto-render.min.js",
+    "static/katex/katex.min.js",
+    "static/katex/katex.min.css",
+    "static/katex/Новий Text Document.txt",
+    "static/katex",
+    "static/Нова папка",
+    "layouts/partials/katex.html",
+    "layouts/partials/Новий Text Document.txt",
+    "content/uk/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
+    "content/ru/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
+    "content/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
+    "content/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
     "content/uk/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
-    "static/images/Unconfirmed 281838.crdownload",
-    "static/images/Unconfirmed 583260.crdownload",
-    "static/images/Unconfirmed 398037.crdownload",
+    "content/uk/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
+    "static/images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp",
+    "static/images/Unconfirmed 181916.crdownload",
     "content/en/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
-    "content/uk/docs/core-recalibration/017-2026-.md",
-    "content/uk/docs/core-recalibration/Новий Text Document.txt",
-    "content/pt/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
+    "content/en/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
     "content/ru/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
-    "static/images/Unconfirmed 122307.crdownload",
+    "content/ru/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
+    "content/pt/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
+    "content/pt/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
+    "content/uk/docs/core-recalibration/Новий Text Document.txt",
+    "static/images/Unconfirmed 225088.crdownload",
+    "content/uk/docs/core-recalibration/017-2026-.md",
     "static/images/core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.webp",
-    "static/images/Unconfirmed 471766.crdownload",
     "content/pt/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.md",
     "content/ru/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.md",
     "content/uk/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.md",
     "content/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/_index.md",
     "content/en/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-rhythms-to-oceans.md",
-    "content/en/docs/core-recalibration/Новий Text Document.txt",
     "content/pt/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/_index.md",
     "content/ru/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/_index.md",
     "content/uk/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/_index.md",
     "content/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/_index.md",
-    "static/images/Unconfirmed 345753.crdownload",
-    "static/images/Unconfirmed 357756.crdownload",
     "static/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp",
-    "static/images/Unconfirmed 648104.crdownload",
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-02-global-dimension-peace-as-norm.md",
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/_index.md",
     "content/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-03-global-dimension-human-as-subject.md",
-    "content/uk/docs/extra-credit-problem/_index.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/_index.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-03-global-dimension-human-as-subject.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-02-global-dimension-peace-as-norm.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-01-global-dimension-freedom-as-structure.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/08-03-point-of-transition-the-true-name-persia.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/08-02-point-of-transition-refusal-of-the-republic.md",
-    "content/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/08-01-point-of-transition-request-for-a-bridge-pahlavi.md",
     "static/images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp",
     "static/images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.webp",
     "static/images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty.webp",
     "static/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-09-03-global-dimension-human-as-subject.webp",
     "static/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-09-02-global-dimension-peace-as-norm.webp",
     "static/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-09-01-global-dimension-freedom-as-structure.webp",
-    "static/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-08-03-point-of-transition-the-true-name-persia.webp",
-    "static/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-08-02-point-of-transition-refusal-of-the-republic.webp"
+    "static/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-08-03-point-of-transition-the-true-name-persia.webp"
   ]
 }

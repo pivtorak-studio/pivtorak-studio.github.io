@@ -10,6 +10,8 @@ https://github.com/alex-shpak/hugo-book
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2e3440">
 <meta name="color-scheme" content="light dark">
 
+<!-- KaTeX support for mathematical formulas BEGIN -->
+
 <link rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 
@@ -32,6 +34,8 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
+
+<!-- KaTeX support for mathematical formulas END -->
 
 {{- with .Page.Params.BookHref -}}
   <meta http-equiv="Refresh" content="0; url='{{ . }}'" />

@@ -99,22 +99,24 @@ A qualidade não se trata de maximizar a complexidade de um produto, nem é uma 
 
 Até ao momento da publicação, o autor é responsável pelo trabalho. Após esse momento, o trabalho é responsável por si próprio. O momento de transferência de responsabilidade é governado pela conquista da autonomia total:
 
-$$R_A \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_P$$
+$$  
+R_a \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_p  
+$$
 
-_(onde Rₐ representa a responsabilidade do autor, Rₚ a responsabilidade do produto e 𝓐 o coeficiente de autonomia do produto)._
+_(onde $R_a$ representa a responsabilidade do autor, $R_p$ a responsabilidade do produto e $\mathcal{A}$ o coeficiente de autonomia do produto)._
 
 O produto é enviado para o mundo. E deve estar pronto para isso — não porque o mundo seja bom, mas porque o mundo é indiferente.
 
 ## II. Modelo Matemático do Coeficiente de Autonomia
 
-Para medir com precisão a prontidão do sistema, introduzimos o **Coeficiente de Autonomia (𝓐)**. Este é definido como a interseção de dois parâmetros fundamentais de qualidade:
+Para medir com precisão a prontidão do sistema, introduzimos o **Coeficiente de Autonomia ($\mathcal{A}$)**. Este é definido como a interseção de dois parâmetros fundamentais de qualidade:
 
 $$\mathcal{A} = Q_s \cap Q_e$$
 
 - $Q_s$ (Semantic Quality) — Alinhamento semântico e clareza das ideias.  
 - $Q_e$ (Engineering Quality) — Consistência de engenharia do sistema.  
 
-O estado **𝓐 = 1** significa que o produto atingiu a autonomia total e está pronto para uma existência independente.
+O estado **$\mathcal{A}$ = 1** significa que o produto atingiu a autonomia total e está pronto para uma existência independente.
 
 Dado que a evolução do sistema passa por três fases consecutivas, a própria autonomia é uma função da potência de pensamento, da interrupção oportuna e dos circuitos de controlo:
 
@@ -130,11 +132,11 @@ O processo de libertação de uma obra é uma operação em duas etapas. O que o
 
 ```
 [ Texto & Ideia ] 
-       👇
+       ↓
 [ Circuito QA #1: O ENGENHEIRO (Q_e) ] ───► O sistema está bem construído? (Código, JSON-LD, Hugo)
-       👇
+       ↓
 [ Circuito QA #2: O LEITOR (Q_s) ]     ───► Está pronto para viver entre as pessoas? (Sentido, Perceção)
-       👇
+       ↓
 [ Vida Autónoma do Produto (A = 1) ]
 ```
 

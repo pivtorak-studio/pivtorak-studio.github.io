@@ -98,22 +98,24 @@ Quality is not about maximizing the complexity of a product, nor is it an attemp
 
 Until the moment of publication, the author is responsible for the work. After that moment, the work is responsible for itself. The moment of responsibility transfer is governed by achieving full autonomy:
 
-$$R_A \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_P$$
+$$  
+R_a \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_p  
+$$
 
-_(where Rₐ is the author's responsibility, Rₚ is the product's responsibility, and 𝓐 is the product autonomy coefficient)._
+_(where $R_a$ is the author's responsibility, $R_p$ is the product's responsibility, and $\mathcal{A}$ is the product autonomy coefficient)._
 
 The product is sent into the world. And it must be ready for this—not because the world is kind, but because the world is indifferent.
 
 ## II. Mathematical Model of the Autonomy Coefficient
 
-To precisely measure system readiness, we introduce the **Autonomy Coefficient (𝓐)**. It is defined as the intersection of two fundamental quality parameters:
+To precisely measure system readiness, we introduce the **Autonomy Coefficient ($\mathcal{A}$)**. It is defined as the intersection of two fundamental quality parameters:
 
 $$\mathcal{A} = Q_s \cap Q_e$$
 
 - $Q_s$ (Semantic Quality) — Semantic alignment and clarity of ideas.  
 - $Q_e$ (Engineering Quality) — Engineering consistency of the system.  
 
-The state **𝓐 = 1** signifies that the product has achieved full autonomy and is ready for independent existence.
+The state **$\mathcal{A}$ = 1** signifies that the product has achieved full autonomy and is ready for independent existence.
 
 Since the system's evolution passes through three consecutive stages, autonomy itself is a function of thinking power, timely cessation, and control circuits:
 
@@ -128,13 +130,13 @@ $$\mathcal{A} = f(P, S, Q)$$
 The process of releasing a work is a two-stage operation. What the system allows to be published on the website might be sent back for revision when it comes to social media. These are two fundamentally different testing models:
 
 ```
-[ Text & Idea ] 
-       👇
-[ QA Circuit #1: THE ENGINEER (Q_e) ] ───► Is the system built correctly? (Code, JSON-LD, Hugo)
-       👇
-[ QA Circuit #2: THE READER (Q_s) ]   ───► Is it ready to live among people? (Meaning, Perception)
-       👇
-[ Autonomous Product Life (A = 1) ]
+Text & Idea 
+       ↓
+QA Circuit #1: THE ENGINEER ($Q_e$) ───► Is the system built correctly? (Code, JSON-LD, Hugo)
+       ↓
+QA Circuit #2: THE READER ($Q_s$)   ───► Is it ready to live among people? (Meaning, Perception)
+       ↓
+Autonomous Product Life ($\mathcal{A}=1$)
 ```
 
 ### 🟢 QA Circuit #1 — The Engineer ($Q_e$)

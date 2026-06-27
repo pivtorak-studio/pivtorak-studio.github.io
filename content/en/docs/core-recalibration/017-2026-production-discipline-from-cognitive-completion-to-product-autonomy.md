@@ -98,9 +98,7 @@ Quality is not about maximizing the complexity of a product, nor is it an attemp
 
 Until the moment of publication, the author is responsible for the work. After that moment, the work is responsible for itself. The moment of responsibility transfer is governed by achieving full autonomy:
 
-$$  
-R_a \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_p  
-$$
+$$R_a \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_p$$
 
 _(where $R_a$ is the author's responsibility, $R_p$ is the product's responsibility, and $\mathcal{A}$ is the product autonomy coefficient)._
 
@@ -112,8 +110,9 @@ To precisely measure system readiness, we introduce the **Autonomy Coefficient (
 
 $$\mathcal{A} = Q_s \cap Q_e$$
 
-- $Q_s$ (Semantic Quality) — Semantic alignment and clarity of ideas.  
 - $Q_e$ (Engineering Quality) — Engineering consistency of the system.  
+- $Q_s$ (Semantic Quality) — Semantic alignment and clarity of ideas.  
+
 
 The state **$\mathcal{A}$ = 1** signifies that the product has achieved full autonomy and is ready for independent existence.
 
@@ -129,15 +128,14 @@ $$\mathcal{A} = f(P, S, Q)$$
 
 The process of releasing a work is a two-stage operation. What the system allows to be published on the website might be sent back for revision when it comes to social media. These are two fundamentally different testing models:
 
-```
-Text & Idea 
+
+**Text & Idea** 
        ↓
-QA Circuit #1: THE ENGINEER ($Q_e$) ───► Is the system built correctly? (Code, JSON-LD, Hugo)
+**QA Circuit #1: THE ENGINEER ($Q_e$)** ⭢ Is the system built correctly? (Code, JSON-LD, Hugo)
        ↓
-QA Circuit #2: THE READER ($Q_s$)   ───► Is it ready to live among people? (Meaning, Perception)
+**QA Circuit #2: THE READER ($Q_s$)**   ⭢ Is it ready to live among people? (Meaning, Perception)
        ↓
-Autonomous Product Life ($\mathcal{A}=1$)
-```
+**Autonomous Product Life ($\mathcal{A}=1$)**
 
 ### 🟢 QA Circuit #1 — The Engineer ($Q_e$)
 

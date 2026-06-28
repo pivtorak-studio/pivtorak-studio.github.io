@@ -99,7 +99,7 @@ A qualidade não se trata de maximizar a complexidade de um produto, nem é uma 
 
 Até ao momento da publicação, o autor é responsável pelo trabalho. Após esse momento, o trabalho é responsável por si próprio. O momento de transferência de responsabilidade é governado pela conquista da autonomia total:
 
-$$R_a \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_p$$
+$$R_a \xrightarrow[\mathcal{A}=1]{\text{Produção}} R_p$$
 
 _(onde $R_a$ representa a responsabilidade do autor, $R_p$ a responsabilidade do produto e $\mathcal{A}$ o coeficiente de autonomia do produto)._
 
@@ -111,8 +111,8 @@ Para medir com precisão a prontidão do sistema, introduzimos o **Coeficiente d
 
 $$\mathcal{A} = Q_s \cap Q_e$$
 
-- $Q_s$ (Semantic Quality) — Alinhamento semântico e clareza das ideias.  
-- $Q_e$ (Engineering Quality) — Consistência de engenharia do sistema.  
+- $Q_s$ (Qualidade Semântica/Semantic Quality) — Alinhamento semântico e clareza das ideias.  
+- $Q_e$ (Qualidade de Engenharia/Engineering Quality) — Consistência de engenharia do sistema.  
 
 O estado **$\mathcal{A}$ = 1** significa que o produto atingiu a autonomia total e está pronto para uma existência independente.
 

@@ -121,7 +121,7 @@ Dado que a evolução do sistema passa por três fases consecutivas, a própria 
 $$\mathcal{A} = f(P, S, Q)$$
 
 - **P (Power):** Capacidade do sistema (legalizada em **014**).  
-- **S (Sufficiency):** Limite de suficiência do conteúdo (definido em **016** como o ponto $x_{opt}$, onde $\Delta N > \Delta S$).  
+- **S (Suficiência):** O limiar de suficiência de conteúdo (definido em **016** como o ponto $x_{opt}$ em que $\frac{dV}{dx}=0$, após o que $\Delta N>\Delta S$). 
 - **Q (Quality Assurance):** Controlo em duas etapas da montagem técnica e semântica.
 
 ## III. Os Dois Circuitos de QA (Quality Assurance)

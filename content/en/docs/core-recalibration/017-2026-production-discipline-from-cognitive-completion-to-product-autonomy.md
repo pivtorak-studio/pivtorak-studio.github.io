@@ -121,7 +121,7 @@ Since the system's evolution passes through three consecutive stages, autonomy i
 $$\mathcal{A} = f(P, S, Q)$$
 
 - **P (Power):** System capacity (legalized in **014**).  
-- **S (Sufficiency):** Content sufficiency threshold (defined in **016** as the point $x_{opt}$, where $\Delta N > \Delta S$).  
+- **S (Sufficiency):** Content sufficiency threshold (defined in **016** as the point $x_{opt}$, where $\frac{dV}{dx}=0$, after which $\Delta N > \Delta S$).  
 - **Q (Quality Assurance):** Two-stage control of engineering and semantic assembly.  
 
 ## III. Two QA (Quality Assurance) Circuits

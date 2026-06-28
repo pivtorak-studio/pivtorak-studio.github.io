@@ -110,9 +110,8 @@ To precisely measure system readiness, we introduce the **Autonomy Coefficient (
 
 $$\mathcal{A} = Q_s \cap Q_e$$
 
-- $Q_e$ (Engineering Quality) — Engineering consistency of the system.  
 - $Q_s$ (Semantic Quality) — Semantic alignment and clarity of ideas.  
-
+- $Q_e$ (Engineering Quality) — Engineering consistency of the system.  
 
 The state **$\mathcal{A}$ = 1** signifies that the product has achieved full autonomy and is ready for independent existence.
 

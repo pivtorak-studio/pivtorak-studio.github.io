@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/uk/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
+                "file": "content/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,9 +185,11 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
-    "content/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
     "content/ru/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
     "content/uk/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
+    "static/images/Unconfirmed 703493.crdownload",
+    "static/images/Unconfirmed 163332.crdownload",
+    "content/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
     "content/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
     "content/uk/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
     "content/uk/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
@@ -200,8 +202,6 @@
     "themes/hugo-book/hugo.toml",
     "themes/hugo-book/go.mod",
     "themes/hugo-book/static/katex/fonts/KaTeX_Typewriter-Regular.woff2",
-    "themes/hugo-book/static/katex/fonts/KaTeX_Typewriter-Regular.woff",
-    "themes/hugo-book/static/katex/fonts/KaTeX_Typewriter-Regular.ttf",
     "themes/hugo-book/static/favicon.svg",
     "themes/hugo-book/static/favicon.png",
     "themes/hugo-book/images/tn.png",
@@ -224,7 +224,6 @@
     "themes/hugo-book/exampleSite/content.en/docs/getting-started/introduction.md",
     "themes/hugo-book/exampleSite/content.en/docs/getting-started/create-a-site.md",
     "themes/hugo-book/exampleSite/content.en/docs/getting-started/configuration.md",
-    "themes/hugo-book/exampleSite/content.en/docs/customization/_index.md",
     "themes/hugo-book/exampleSite/assets/icons/rocket.svg",
     "themes/hugo-book/exampleSite/assets/icons/apparel.svg",
     "themes/hugo-book/exampleSite/assets/thumbnail.svg",

@@ -150,7 +150,7 @@ O processo de libertação de uma obra é uma operação em duas etapas. O que o
 
 Apenas quando o produto passa com sucesso por ambos os circuitos ($Q_e \cap Q_s$), o coeficiente de autonomia atinge um ($\mathcal{A} = 1$).  
 
-## IV. Production Pipeline (Linha de Montagem)
+## IV. Linha de Montagem (Production Pipeline)
 
 Este processo não é um perfecionismo caótico; é um algoritmo de engenharia rigoroso. Um investimento único de tempo na linha de montagem otimiza todo o ciclo de vida subsequente do trabalho.
 

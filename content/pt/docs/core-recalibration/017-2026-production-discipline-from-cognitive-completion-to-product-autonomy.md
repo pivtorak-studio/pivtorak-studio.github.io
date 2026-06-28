@@ -99,9 +99,7 @@ A qualidade não se trata de maximizar a complexidade de um produto, nem é uma 
 
 Até ao momento da publicação, o autor é responsável pelo trabalho. Após esse momento, o trabalho é responsável por si próprio. O momento de transferência de responsabilidade é governado pela conquista da autonomia total:
 
-$$  
-R_a \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_p  
-$$
+$$R_a \xrightarrow[\mathcal{A}=1]{\text{Publication}} R_p$$
 
 _(onde $R_a$ representa a responsabilidade do autor, $R_p$ a responsabilidade do produto e $\mathcal{A}$ o coeficiente de autonomia do produto)._
 
@@ -137,7 +135,7 @@ O processo de libertação de uma obra é uma operação em duas etapas. O que o
        ↓  
 **Circuito QA #2: O LEITOR ($Q_s$)**     ⭢ Está pronto para viver entre as pessoas? (Sentido, Perceção)  
        ↓  
-**Vida Autónoma do Produto (**$\mathcal{A}$ = 1)  
+**Vida Autónoma do Produto ($\mathcal{A}$ = 1)**  
 
 
 ### 🟢 Circuito QA #1 — O Engenheiro ($Q_e$)

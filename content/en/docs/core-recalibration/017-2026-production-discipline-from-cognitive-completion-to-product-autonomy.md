@@ -129,13 +129,13 @@ $$\mathcal{A} = f(P, S, Q)$$
 The process of releasing a work is a two-stage operation. What the system allows to be published on the website might be sent back for revision when it comes to social media. These are two fundamentally different testing models:
 
 
-**Text & Idea** 
-       ↓
-**QA Circuit #1: THE ENGINEER ($Q_e$)** ⭢ Is the system built correctly? (Code, JSON-LD, Hugo)
-       ↓
-**QA Circuit #2: THE READER ($Q_s$)**   ⭢ Is it ready to live among people? (Meaning, Perception)
-       ↓
-**Autonomous Product Life ($\mathcal{A}=1$)**
+**Text & Idea**   
+       ↓  
+**QA Circuit #1: THE ENGINEER ($Q_e$)** ⭢ Is the system built correctly? (Code, JSON-LD, Hugo)  
+       ↓  
+**QA Circuit #2: THE READER ($Q_s$)**   ⭢ Is it ready to live among people? (Meaning, Perception)  
+       ↓  
+**Autonomous Product Life ($\mathcal{A}=1$)**  
 
 ### 🟢 QA Circuit #1 — The Engineer ($Q_e$)
 

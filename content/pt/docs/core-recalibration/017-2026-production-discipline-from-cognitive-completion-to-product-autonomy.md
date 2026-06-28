@@ -113,8 +113,8 @@ Para medir com precisão a prontidão do sistema, introduzimos o **Coeficiente d
 
 $$\mathcal{A} = Q_s \cap Q_e$$
 
-- $Q_s$ (Semantic Quality) — Alinhamento semântico e clareza das ideias.  
 - $Q_e$ (Engineering Quality) — Consistência de engenharia do sistema.  
+- $Q_s$ (Semantic Quality) — Alinhamento semântico e clareza das ideias.  
 
 O estado **$\mathcal{A}$ = 1** significa que o produto atingiu a autonomia total e está pronto para uma existência independente.
 
@@ -130,15 +130,15 @@ $$\mathcal{A} = f(P, S, Q)$$
 
 O processo de libertação de uma obra é uma operação em duas etapas. O que o sistema permite publicar no site pode ser devolvido para revisão quando se trata das redes sociais. São dois modelos de teste diferentes:
 
-```
-[ Texto & Ideia ] 
-       ↓
-[ Circuito QA #1: O ENGENHEIRO (Q_e) ] ───► O sistema está bem construído? (Código, JSON-LD, Hugo)
-       ↓
-[ Circuito QA #2: O LEITOR (Q_s) ]     ───► Está pronto para viver entre as pessoas? (Sentido, Perceção)
-       ↓
-[ Vida Autónoma do Produto (A = 1) ]
-```
+
+**Texto & Ideia**   
+       ↓  
+**Circuito QA #1: O ENGENHEIRO ($Q_e$)**  ⭢ O sistema está bem construído? (Código, JSON-LD, Hugo)  
+       ↓  
+**Circuito QA #2: O LEITOR ($Q_s$)**     ⭢ Está pronto para viver entre as pessoas? (Sentido, Perceção)  
+       ↓  
+**Vida Autónoma do Produto (**$\mathcal{A}$ = 1)  
+
 
 ### 🟢 Circuito QA #1 — O Engenheiro ($Q_e$)
 

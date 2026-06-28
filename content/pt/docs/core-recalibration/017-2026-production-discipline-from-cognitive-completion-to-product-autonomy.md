@@ -172,7 +172,9 @@ Fui orgulhosamente para o jardim de infância com a melhor boneca do mundo. Mas 
 
 Apenas muitos anos mais tarde percebi que foi ali que recebi o meu primeiro padrão de qualidade. Não um padrão de fábrica, mas um padrão humano. A minha mãe fez a peça com disciplina de produção — com a maior qualidade, estilo e honestidade possíveis.
 
-É por isso que hoje, cada fragmento do meu trabalho passa por um ciclo de produção completo — da primeira frase do texto ao último caractere dos metadados. Não «liberto» os meus trabalhos até ter a certeza de que estão prontos para viver por si mesmos. Afinal, outrora a minha mãe deu-me o exemplo de que o verdadeiro amor pelo trabalho se manifesta não em palavras barulhentas, mas na qualidade com que ela liberta o seu produto para o mundo.
+Não «liberto» os meus trabalhos até ter a certeza de que estão prontos para viver por si mesmos. Afinal, outrora a minha mãe deu-me o exemplo de que o verdadeiro amor pelo trabalho se manifesta não em palavras barulhentas, mas na qualidade com que ela liberta o seu produto para o mundo.
+
+É por isso que hoje, cada fragmento do meu trabalho passa por um ciclo de produção completo — da primeira frase do texto ao último caractere dos metadados. Não porque eu procure uma perfeição inalcançável. Mas porque quero que o trabalho intelectual manual exija exatamente o mesmo respeito absoluto que a minha mãe outrora costurou num casaco minúsculo para a minha boneca.
 
 **Alt-text:**    
 Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto — infografia de engenharia que apresenta a Autonomia do Produto, dois circuitos de Garantia da Qualidade, o Pipeline de Produção e a transição da responsabilidade do autor para a autonomia do produto. 

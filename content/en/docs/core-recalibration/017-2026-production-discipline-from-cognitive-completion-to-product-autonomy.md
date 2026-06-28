@@ -170,7 +170,9 @@ I proudly walked to kindergarten with the best doll in the world. But there, I e
 
 Only many years later did I realize that this was the moment I received my first standard of quality. Not a factory standard, but a human one. My mother made the item with production discipline—with the highest possible quality, style, and honesty.
 
-That is why today, every single piece of my work goes through a complete production cycle—from the very first sentence of text to the very last character of metadata. I do not "release" my works until I am certain they are ready to live on their own. After all, long ago, my mother gave me an example showing that true love for one's work is manifested not in loud words, but in the quality with which it is released into the world.
+I do not "release" my works until I am certain they are ready to live on their own. After all, long ago, my mother gave me an example showing that true love for one's work is manifested not in loud words, but in the quality with which it is released into the world.
+
+That is why today, every single piece of my work goes through a complete production cycle—from the very first sentence of text to the very last character of metadata. Not because I strive for an unattainable perfection. But because I want manual intellectual labor to command the exact same absolute respect that my mother once stitched into a tiny coat for my doll.
 
 **Alt-text:**    
 Production Discipline: From Cognitive Completion to Product Autonomy — engineering infographic illustrating Product Autonomy, dual Quality Assurance circuits, the Production Pipeline, and the transition from author responsibility to autonomous product life.

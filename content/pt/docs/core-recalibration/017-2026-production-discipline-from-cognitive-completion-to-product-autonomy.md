@@ -85,9 +85,9 @@ search: indexed
 
 _A qualidade é uma forma de respeito pela vida futura da própria obra._
 
-- **014 Recalibração da Deficiência** responde à pergunta: _«Tenho o direito de pensar na capacidade total?»_ ⭢ **O direito de permitir a si mesmo a força.**  
-- **016 Gestão do Limite de Suficiência** responde à pergunta: _«Quando parar de criar novo conteúdo?»_ ⭢ **O direito de permitir a si mesmo concluir.**  
-- **017** **Disciplina de Produção** responde à pergunta: _«Quando é que o produto está pronto para viver sem o autor?»_ ⭢ **O direito de permitir que a obra viva de forma independente.**  
+- **014 Recalibração da Deficiência** responde à pergunta: _«Tenho o direito de pensar na capacidade total?»_ ⭢ O direito de permitir a si mesmo a força.   
+- **016 Gestão do Limite de Suficiência** responde à pergunta: _«Quando parar de criar novo conteúdo?»_ ⭢ O direito de permitir a si mesmo concluir.   
+- **017** **Disciplina de Produção** responde à pergunta: _«Quando é que o produto está pronto para viver sem o autor?»_ ⭢ O direito de permitir que a obra viva de forma independente.    
 
 ## I. O Axioma da Autonomia do Produto
 

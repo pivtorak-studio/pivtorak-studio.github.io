@@ -84,9 +84,9 @@ search: indexed
 
 _Quality is an act of respect for the future life of your work._
 
-- **014 Recalibration of Deficiency** answers the question: _"Do I have the right to think at full capacity?"_ ⭢ **The right to allow oneself strength.**  
-- **016 Management of Sufficiency Threshold** answers the question: _"When to stop creating new content?"_ ⭢ **The right to allow oneself to finish.**  
-- **017 Production Discipline** answers the question: _"When is the product ready to live without the author?"_ ⭢ **The right to allow the work to live independently.**   
+- **014 Recalibration of Deficiency** answers the question: _"Do I have the right to think at full capacity?"_ ⭢ The right to allow oneself strength.  
+- **016 Management of Sufficiency Threshold** answers the question: _"When to stop creating new content?"_ ⭢ The right to allow oneself to finish.  
+- **017 Production Discipline** answers the question: _"When is the product ready to live without the author?"_ ⭢ The right to allow the work to live independently.   
 
 ## I. The Axiom of Product Autonomy
 

@@ -11,14 +11,10 @@
             "id": "27eb9ce8fcc6d984",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/uk/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "018-2026-scale-evolution-from-daily-work-to-research-program"
+              "title": "Нова вкладка"
             }
           }
         ]
@@ -185,11 +181,11 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
+    "content/uk/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
     "content/ru/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
     "content/en/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
     "content/pt/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
     "images/logo.webp",
-    "content/uk/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
     "static/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp",
     "static/images/Unconfirmed 7515.crdownload",
     "content/ru/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",

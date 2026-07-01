@@ -98,6 +98,7 @@ weight: 31
 }
 </script>
 
+![O Irmão Super-Herói](/images/peaceful-life-031-brother-superhero.webp)
 
 **🌱☀️ Vida Pacífica**
 
@@ -145,5 +146,5 @@ Transforma-o tornando possível viver sem medo.
 **Alt-text:**  
 Um irmão mais velho, vestido com um traje estilizado de super-herói, abraça carinhosamente a irmã mais nova. A menina segura um ursinho de peluche e sorri tranquilamente. Ao fundo vê-se uma cidade iluminada ao entardecer sob um céu estrelado. A atmosfera transmite proteção, confiança, ternura e paz. A imagem simboliza uma força que cuida e protege, em vez de combater.
 
-_Vida Pacífica. O Irmão Super-Herói. AP | Pivtorak.Studio. 01.07.2026_
+_Vida Pacífica. O Irmão Super-Herói. AP | Pivtorak.Studio. 01.07.2026_  
 © Anna Pivtorak (Kostyuk)

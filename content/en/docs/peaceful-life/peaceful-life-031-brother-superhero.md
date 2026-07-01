@@ -101,7 +101,7 @@ weight: 31
 </script>
 
 
-![A Song Stronger Than Noise](/images/peaceful-life-030-a-song-stronger-than-noise.webp)
+![Brother Superhero](/images/peaceful-life-031-brother-superhero.webp)
 
 **🌱☀️ Peaceful Life**
 

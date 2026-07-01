@@ -97,6 +97,7 @@ weight: 32
 
 ![Iguais. Lado a Lado.](/images/peaceful-life-032-equal-side-by-side.webp)
 
+**🌱☀️ Vida Pacífica**
 
 # 👫🦸❤️ Iguais. Lado a Lado.
 

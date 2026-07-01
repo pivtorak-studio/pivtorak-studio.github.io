@@ -86,6 +86,8 @@ weight: 28
 
 ![Право Не Слушать Гимн Агрессии](/images/peaceful-life-028-the-right-no-to-listen-to-an-anthem-of-aggression.webp)
 
+**🌱☀️ Мирная Жизнь**
+
 # 🎧🧍‍♀️🤍 Право Не Слушать Гимн Агрессии
 
 _Иногда мир начинается не со слов.    

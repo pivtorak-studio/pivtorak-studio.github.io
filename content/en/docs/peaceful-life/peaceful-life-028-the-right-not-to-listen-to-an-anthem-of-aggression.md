@@ -87,6 +87,8 @@ weight: 28
 
 ![The Right Not to Listen to an Anthem of Aggression](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🎧🧍‍♀️🤍 The Right Not to Listen to an Anthem of Aggression
 
 _Sometimes peace begins not with words.    

@@ -95,6 +95,8 @@ weight: 25
 
 ![O Direito De Voltar Para Casa](/images/peaceful-life-025-the-right-to-return-home.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🧑‍🧑‍🧒🏠🔑 O Direito De Voltar Para Casa
 
 _A segurança como condição de vida, não como privilégio ou recompensa._

@@ -76,6 +76,8 @@ weight: 8
 
 ![O Direito de Amadurecer](/images/peaceful-life-008-the-right-to-ripen.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🌾☀️🌿 O Direito de Amadurecer  
 
 _Este campo não foi interrompido._

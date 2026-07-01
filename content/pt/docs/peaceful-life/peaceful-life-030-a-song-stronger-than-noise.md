@@ -92,6 +92,8 @@ weight: 30
 
 ![Uma Canção Mais Forte do Que o Ruído](/images/peaceful-life-030-a-song-stronger-than-noise.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🎧🤦🏻‍♀️🎶 Uma Canção Mais Forte do Que o Ruído
 
 _Por vezes, a paz não começa quando as explosões terminam.    

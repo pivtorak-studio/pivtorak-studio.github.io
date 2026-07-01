@@ -92,6 +92,8 @@ id: peaceful-life-019-quiet-joy-of-childhood
 
 ![Тиха Радість Дитинства](/images/peaceful-life-019-quiet-joy-of-childhood.webp)
 
+**🌱☀️ Мирне Життя**
+
 # ❄️🧒🏻🕯️ Тиха Радість Дитинства
 
 _Радість приходить тихо — як сніг, що падає у вечірньому світлі._

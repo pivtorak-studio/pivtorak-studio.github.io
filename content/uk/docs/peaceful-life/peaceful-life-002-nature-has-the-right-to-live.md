@@ -85,6 +85,8 @@ weight: 2
 
 ![Природа має право жити](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
+**🌱☀️ Мирне Життя**
+
 # 🌳🦌🌿 Природа має право жити
 
 _Ліси — не мішень_

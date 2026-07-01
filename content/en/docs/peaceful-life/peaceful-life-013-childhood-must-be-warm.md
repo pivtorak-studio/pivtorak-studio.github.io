@@ -76,6 +76,8 @@ weight: 13
 
 ![Childhood Must Be Warm](/images/peaceful-life-013-childhood-must-be-warm.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧒🏻🏠🔥 Childhood Must Be Warm
 
 _The right to safety and home comfort_

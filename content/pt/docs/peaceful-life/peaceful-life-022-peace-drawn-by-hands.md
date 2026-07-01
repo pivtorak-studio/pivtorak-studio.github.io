@@ -95,6 +95,8 @@ weight: 22
 
 ![Paz Desenhada pelas Mãos](/images/peaceful-life-022-peace-drawn-by-hands.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🧒🏻☀️🖍️ Paz Desenhada pelas Mãos
 
 _A paz começa onde não se tem medo de lhe tocar._

@@ -76,6 +76,8 @@ weight: 10
 
 ![Back to School](/images/peaceful-life-010-back-to-school.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 📚🚌🧠 Back to School
 
 _School is a space for future, not for fear_

@@ -95,6 +95,8 @@ id: peaceful-life-023-peace-drawn-with-awareness
 
 ![Мир, Начерченный Осознанно](/images/peaceful-life-023-peace-drawn-with-awareness.webp)
 
+**🌱☀️ Мирная Жизнь**
+
 # 🧑‍🤝‍🧑📐🤍 Мир, Начерченный Осознанно
 
 _Мир возникает там, где ответственность принимает форму заботы._

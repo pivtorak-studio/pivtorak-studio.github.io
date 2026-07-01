@@ -87,6 +87,8 @@ weight: 3
 
 ![Direito ao Trabalho](/images/peaceful-life-003-the-right-to-work.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🧑🏽‍🌾🌾🔧 Direito ao Trabalho
 
 _Trabalhar não é um luxo_

@@ -96,6 +96,8 @@ weight: 27
 
 ![Those Who Wait Together](/images/peaceful-life-027-those-who-wait-together.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🐕‍🦺🤍🚪 Those Who Wait Together
 
 _Not about loyalty. About belonging._

@@ -95,6 +95,7 @@ id: peaceful-life-023-peace-drawn-with-awareness
 
 ![Мир, Накреслений Свідомо](/images/peaceful-life-023-peace-drawn-with-awareness.webp)
 
+**🌱☀️ Мирне Життя**
 
 # 🧑‍🤝‍🧑📐🤍 Мир, Накреслений Свідомо
 

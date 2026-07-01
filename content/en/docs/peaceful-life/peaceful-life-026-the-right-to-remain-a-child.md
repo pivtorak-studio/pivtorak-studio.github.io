@@ -96,6 +96,8 @@ weight: 26
 
 ![The Right to Remain a Child](/images/peaceful-life-026-the-right-to-remain-a-child.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 👧🏻🧸🛏️ The Right to Remain a Child
 
 _Not about rescue. About nothing being taken away._

@@ -76,6 +76,8 @@ weight: 11
 
 ![Getting Into Rhythm](/images/peaceful-life-011-getting-into-rhythm.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧑‍💻📆☕ Getting Into Rhythm
 
 _When morning coffee opens the space for new possibilities_

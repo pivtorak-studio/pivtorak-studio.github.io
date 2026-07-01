@@ -92,6 +92,8 @@ weight: 16
 
 ![Memory. Simple Food](/images/peaceful-life-016-memory-simple-food.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🕯️🍞💧 Memory. Simple Food
 
 _Gratitude begins with silence — when we see the simple as a miracle._

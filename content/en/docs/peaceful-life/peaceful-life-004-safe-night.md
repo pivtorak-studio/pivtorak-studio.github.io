@@ -86,6 +86,8 @@ weight: 4
 
 ![Safe Night. Circle of Trust](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🪵🔥🌌 Safe Night. Circle of Trust
 
 *Teenagers have the right to a peaceful hike*

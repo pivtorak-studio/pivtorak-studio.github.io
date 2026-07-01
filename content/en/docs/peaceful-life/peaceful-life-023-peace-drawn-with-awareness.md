@@ -95,6 +95,8 @@ id: peaceful-life-023-peace-drawn-with-awareness
 
 ![Peace Drawn with Awareness](/images/peaceful-life-023-peace-drawn-with-awareness.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧑‍🤝‍🧑📐🤍 Peace Drawn with Awareness
 
 _Peace emerges where responsibility takes the form of care._

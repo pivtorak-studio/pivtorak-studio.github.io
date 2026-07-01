@@ -86,6 +86,8 @@ weight: 5
 
 ![The Right to Learn to Fly](/images/peaceful-life-005-the-right-to-learn-to-fly.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🕊️🌿🪽 The Right to Learn to Fly
 
 *They are not a threat. They are still learning.*

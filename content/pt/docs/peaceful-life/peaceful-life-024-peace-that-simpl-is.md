@@ -94,6 +94,8 @@ weight: 24
 
 ![Paz Que Simplesmente É](/images/peaceful-life-024-peace-that-simpl-is.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🐾🕊️🤲 Paz Que Simplesmente É
 
 _A paz nem sempre é criada. Às vezes, basta deixá-la existir._

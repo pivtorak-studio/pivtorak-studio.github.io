@@ -92,6 +92,8 @@ id: peaceful-life-021-home-where-peace-lives
 
 ![A Casa Onde Mora A Paz](/images/peaceful-life-021-home-where-peace-lives.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🔥🏡🤍 A Casa Onde Mora A Paz
 
 _A paz nasce onde o coração deixa de se defender._

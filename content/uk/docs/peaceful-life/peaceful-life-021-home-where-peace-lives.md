@@ -93,6 +93,8 @@ id: peaceful-life-021-home-where-peace-lives
 
 ![Домівка, Де Живе Спокій](/images/peaceful-life-021-home-where-peace-lives.webp)
 
+**🌱☀️ Мирне Життя**
+
 # 🔥🏡🤍 Домівка, Де Живе Спокій
 
 _Спокій народжується там, де серце перестає оборонятися._

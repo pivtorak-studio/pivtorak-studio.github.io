@@ -77,6 +77,8 @@ weight: 6
 
 ![Self-Care](/images/peaceful-life-006-self-care.webp)
 
+**🌱☀️ Peaceful Life**
+
 # ☕🌿🏡 Self-Care 
 
 *When silence speaks louder than plans*

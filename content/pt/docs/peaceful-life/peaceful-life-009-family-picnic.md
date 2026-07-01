@@ -76,6 +76,8 @@ weight: 9
 
 ![Piquenique em família](/images/peaceful-life-009-family-picnic.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🧺🌳☀️ Piquenique em família
 
 _Onde não há guerra — amadurece a gratidão_

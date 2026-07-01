@@ -95,6 +95,8 @@ weight: 25
 
 ![The Right To Return Home](/images/peaceful-life-025-the-right-to-return-home.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧑‍🧑‍🧒🏠🔑 The Right To Return Home
 
 _Safety as a condition of life, not a privilege or a reward._

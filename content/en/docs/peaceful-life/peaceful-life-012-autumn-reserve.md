@@ -76,6 +76,8 @@ weight: 12
 
 ![Autumn Reserve](/images/peaceful-life-012-autumn-reserve.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🐿️🌰🍂 Autumn Reserve
 
 _About care that begins on time_

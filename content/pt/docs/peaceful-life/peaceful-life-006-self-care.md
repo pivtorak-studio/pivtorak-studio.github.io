@@ -77,6 +77,8 @@ weight: 6
 
 ![Cuidar de Si](/images/peaceful-life-006-self-care.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # ☕🌿🏡 Cuidar de Si
 
 *Quando o silêncio fala mais alto do que os planos*

@@ -95,6 +95,8 @@ weight: 22
 
 ![Peace Drawn by Hands](/images/peaceful-life-022-peace-drawn-by-hands.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧒🏻☀️🖍️ Peace Drawn by Hands
 
 _Peace begins where it is not feared to be touched._

@@ -85,6 +85,8 @@ weight: 1
 
 ![Invisíveis às Ameaças](/images/peaceful-life-001-invisible-to-threats.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🧒🏻🕊️🛡️ Invisíveis às Ameaças
 
 _Crianças e animais — fora da zona da dor_

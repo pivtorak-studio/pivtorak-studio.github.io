@@ -94,6 +94,8 @@ weight: 24
 
 ![Peace That Simply Is](/images/peaceful-life-024-peace-that-simpl-is.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🐾🕊️🤲 Peace That Simply Is
 
 _Peace is not always created. Sometimes it is simply allowed to exist._

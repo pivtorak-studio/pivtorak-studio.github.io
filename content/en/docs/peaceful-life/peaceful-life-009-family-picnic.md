@@ -76,6 +76,8 @@ weight: 9
 
 ![Family Picnic](/images/peaceful-life-009-family-picnic.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧺🌳☀️  Family Picnic
 
 _Where there is no war — gratitude ripens_

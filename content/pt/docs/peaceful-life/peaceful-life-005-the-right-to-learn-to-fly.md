@@ -86,6 +86,8 @@ weight: 5
 
 ![O Direito de Aprender a Voar](/images/peaceful-life-005-the-right-to-learn-to-fly.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🕊️🌿🪽 O Direito de Aprender a Voar
 
 *Nem todos já sabem. Mas todos têm o direito de tentar.*

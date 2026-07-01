@@ -76,6 +76,8 @@ weight: 8
 
 ![The Right to Ripen](/images/peaceful-life-008-the-right-to-ripen.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🌾☀️🌿 The Right to Ripen
 
  _These are the ears that endured the whole journey._

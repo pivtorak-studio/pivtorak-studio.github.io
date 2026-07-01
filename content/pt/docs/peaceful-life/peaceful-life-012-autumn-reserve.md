@@ -76,6 +76,8 @@ weight: 12
 
 ![Reserva de Outono](/images/peaceful-life-012-autumn-reserve.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🐿️🌰🍂 Reserva de Outono
 
 _Sobre o cuidado que começa no tempo certo_

@@ -85,6 +85,8 @@ weight: 1
 
 ![Invisible to Threats](/images/peaceful-life-001-invisible-to-threats.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧒🏻🕊️🛡️Invisible to Threats
 
 _Children and animals — outside the zone of pain_

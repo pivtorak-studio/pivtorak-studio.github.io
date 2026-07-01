@@ -85,6 +85,8 @@ weight: 2
 
 ![Природа имеет право жить](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
+**🌱☀️ Мирная Жизнь**
+
 # 🌳🦌🌿 Природа имеет право жить
 
 _Леса — это не цель_

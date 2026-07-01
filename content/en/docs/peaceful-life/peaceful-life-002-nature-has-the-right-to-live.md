@@ -85,6 +85,8 @@ weight: 2
 
 ![Nature Has the Right to Live](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🌳🦌🌿 Nature Has the Right to Live
 
 _Forests are not a target_

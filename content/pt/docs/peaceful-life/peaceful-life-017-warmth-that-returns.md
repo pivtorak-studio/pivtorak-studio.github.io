@@ -92,6 +92,8 @@ weight: 17
 
 ![O Calor Que Retorna](/images/peaceful-life-017-warmth-that-returns.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🧣🐕🔥 O Calor Que Retorna
 
 _A bondade dada com sinceridade sempre encontra o caminho de volta._

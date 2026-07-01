@@ -76,6 +76,8 @@ weight: 10
 
 ![Volta às Aulas](/images/peaceful-life-010-back-to-school.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 📚🚌🧠 Volta às Aulas
 
 _A escola é um espaço de futuro, não de medo_

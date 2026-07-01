@@ -76,6 +76,8 @@ weight: 14
 
 ![The Right to a Warm Autumn](/images/peaceful-life-014-the-right-to-a-warm-autumn.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🐇🍁🌾 The Right to a Warm Autumn
 
 _Even when the world cools down — life still deserves warmth._

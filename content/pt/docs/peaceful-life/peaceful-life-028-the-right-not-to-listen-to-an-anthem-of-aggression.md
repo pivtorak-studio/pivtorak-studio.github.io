@@ -87,6 +87,8 @@ weight: 28
 
 ![O Direito de Não Ouvir um Hino de Agressão](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🎧🧍‍♀️🤍 O Direito de Não Ouvir um Hino de Agressão
 
 _Por vezes, a paz não começa com palavras.    

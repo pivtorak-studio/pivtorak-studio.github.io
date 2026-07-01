@@ -76,6 +76,8 @@ weight: 11
 
 ![Entrar no Ritmo](/images/peaceful-life-011-getting-into-rhythm.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🧑‍💻📆☕ Entrar no Ritmo
 
 _Quando o café da manhã abre espaço para novas possibilidades_

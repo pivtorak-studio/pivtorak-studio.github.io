@@ -86,6 +86,9 @@ weight: 3
 
 
 ![The Right to Work](/images/peaceful-life-003-the-right-to-work.webp)
+
+**🌱☀️ Peaceful Life**
+
 # 🧑🏽‍🌾🌾🔧 The Right to Work
 
 _Earning a living is not a luxury_

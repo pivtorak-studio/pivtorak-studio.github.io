@@ -76,6 +76,8 @@ weight: 14
 
 ![O Direito a um Outono Aconchegante](/images/peaceful-life-014-the-right-to-a-warm-autumn.webp)
 
+**🌱☀️ Vida Pacífica**
+
 # 🐇🍁🌾 O Direito a um Outono Aconchegante
 
 _Mesmo quando o mundo arrefece — a vida tem direito ao calor._

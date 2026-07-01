@@ -76,6 +76,8 @@ weight: 7
 
 ![Back-to-School Preparations](/images/peaceful-life-007-back-to-school-preparations.webp)
 
+**🌱☀️ Peaceful Life**
+
 # 🧒🎒📝 Back-to-School Preparations
 
 _When peace makes space for pencils, not fear._

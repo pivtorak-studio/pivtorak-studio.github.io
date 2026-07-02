@@ -56,6 +56,10 @@ canonical:
 toc: true
 weight: 23
 id: peaceful-life-023-peace-drawn-with-awareness
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

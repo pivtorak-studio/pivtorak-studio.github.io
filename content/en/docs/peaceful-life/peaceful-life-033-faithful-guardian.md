@@ -105,7 +105,7 @@ search: indexed
 
 **🌱☀️ Мирне Життя**
 
-# 🐕🛡️🌙 Faithful Guardian
+# 🐕🛡️🌙 Faithful Guardian 
 
 _Some guardians never speak. They simply stay._
 

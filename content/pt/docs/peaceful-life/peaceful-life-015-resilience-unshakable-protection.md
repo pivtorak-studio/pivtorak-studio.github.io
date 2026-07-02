@@ -85,6 +85,10 @@ canonical: [https://pivtorak.studio/pt/docs/peaceful-life/015-resilience-unshaka
 
 ## toc: true  
 weight: 15
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

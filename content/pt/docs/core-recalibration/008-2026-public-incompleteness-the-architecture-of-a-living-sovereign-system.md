@@ -50,6 +50,10 @@ keywords:
   - reconstrução aberta
   - ecossistemas assíncronos
   - soberania cognitiva
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

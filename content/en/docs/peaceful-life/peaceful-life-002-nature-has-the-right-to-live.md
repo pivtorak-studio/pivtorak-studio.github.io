@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/002-nature-has-the-right-to-live/
 toc: true
 weight: 2
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

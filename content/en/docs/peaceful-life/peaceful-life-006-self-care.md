@@ -44,6 +44,10 @@ canonical:
   - https://pivtorak.studio/en/docs/peaceful-life/006-self-care/
 toc: true
 weight: 6
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

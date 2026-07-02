@@ -116,3 +116,6 @@ Cena noturna: adolescentes sentados ao redor de uma fogueira iluminada, que aque
 
 _Vida Pacífica. Noite Segura. Círculo de Confiança. AP | Pivtorak.Studio. 01.07.2025_    
 © Anna Pivtorak (Kostyuk) 
+
+
+<a href="[https://memoryon.net/pages/o-duolingo-max-e-mais-do-que-um-jogo?pageId=6a0b224bd7aa62000b4640f5">`O Duolingo Max é Mais do Que um Jogo`</a>

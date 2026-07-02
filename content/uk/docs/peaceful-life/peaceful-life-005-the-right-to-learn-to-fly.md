@@ -112,3 +112,6 @@ weight: 5
 
 _Мирне Життя. Право вчитися літати. AP | Pivtorak.Studio. 01.07.2025_    
 © Анна Півторак (Костюк)  
+
+
+<a href="https://memoryon.net/uk/pages/duolingo-max-ce-ne-prosto-gra?pageId=6a0b20cc4bc829000b4c6f20">`Duolingo Max — це не просто гра`</a>

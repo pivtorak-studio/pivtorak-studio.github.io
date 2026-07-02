@@ -116,3 +116,6 @@ weight: 4
 
 _Мирная Жизнь. Безопасная ночь. Туристический круг. AP | Pivtorak.Studio. 01.07.2025_  
 © Анна Пивторак (Костюк) 
+
+
+<a href="https://memoryon.net/ru/pages/duolingo-max-eto-bolshe-chem-igra?pageId=6a0b22cf4bc829000b4c70e2">`Duolingo Max — это больше, чем игра`</a>

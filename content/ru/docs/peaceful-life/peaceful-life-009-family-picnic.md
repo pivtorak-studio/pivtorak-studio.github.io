@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/009-family-picnic/
 toc: true
 weight: 9
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

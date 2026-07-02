@@ -50,6 +50,10 @@ keywords:
   - відкрита реконструкція
   - асинхронні екосистеми
   - когнітивний суверенітет
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

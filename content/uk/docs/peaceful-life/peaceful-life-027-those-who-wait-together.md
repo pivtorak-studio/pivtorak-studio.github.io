@@ -57,6 +57,10 @@ draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/027-those-who-wait-together/
 toc: true
 weight: 27
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

@@ -48,6 +48,10 @@ draft: false
 canonical:
   - https://pivtorak.studio/en/docs/peaceful-life/the-right-not-to-listen-to-an-anthem-of-aggression/
 weight: 28
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

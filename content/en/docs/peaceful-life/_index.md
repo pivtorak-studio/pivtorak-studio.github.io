@@ -44,6 +44,11 @@ draft: false
 toc: true
 weight: 95
 bookCollapseSection: true
+
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

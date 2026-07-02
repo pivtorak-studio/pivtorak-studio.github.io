@@ -47,6 +47,10 @@ related:
   - /en/docs/timeline/
 canonical: https://pivtorak.studio/en/docs/peaceful-life/033-faithful-guardian/
 weight: 33
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

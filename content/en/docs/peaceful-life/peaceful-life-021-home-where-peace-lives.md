@@ -47,6 +47,10 @@ canonical:
 toc: true
 weight: 21
 id: peaceful-life-021-home-where-peace-lives
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

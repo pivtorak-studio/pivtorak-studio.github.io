@@ -50,6 +50,10 @@ keywords:
   - открытая реконструкция
   - асинхронные экосистемы
   - когнитивный суверенитет
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

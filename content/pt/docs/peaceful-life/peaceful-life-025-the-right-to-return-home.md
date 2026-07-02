@@ -56,6 +56,10 @@ draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/025-the-right-to-return-home/
 toc: true
 weight: 25
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

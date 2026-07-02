@@ -42,6 +42,10 @@ keywords:
   - архитектура присутствия
   - тёмный интерфейс
   - Core Recalibration
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

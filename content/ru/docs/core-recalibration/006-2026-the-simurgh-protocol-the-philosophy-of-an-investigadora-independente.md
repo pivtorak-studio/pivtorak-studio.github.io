@@ -51,6 +51,10 @@ keywords:
   - экономическая кибернетика
   - архитектура знания
   - междисциплинарность
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

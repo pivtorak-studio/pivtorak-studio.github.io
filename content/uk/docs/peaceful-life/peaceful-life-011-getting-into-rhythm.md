@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/011-getting-into-rhythm/
 toc: true
 weight: 11
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

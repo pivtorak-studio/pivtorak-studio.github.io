@@ -134,5 +134,5 @@ Uma composição digital futurista mostrando a transição do ritmo de aprendiza
 _A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico. AP | Pivtorak.Studio. 18.05.2026_  
 © Anna Pivtorak (Kostyuk)
 
-<a href="https://memoryon.net/pages/o-duolingo-max-e-mais-do-que-um-jogo?pageId=6a0b224bd7aa62000b4640f5">`O Duolingo Max é Mais do Que um Jogo`</a>
+<a href="https://memoryon.net/pages/o-duolingo-max-e-mais-do-que-um-jogo?pageId=6a0b224bd7aa62000b4640f5">`O Duolingo Max é Mais do Que um Jogo`</a> 
 

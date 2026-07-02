@@ -134,5 +134,5 @@ _The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking.
 © Anna Pivtorak (Kostyuk)
 
 
-<li><a href="https://memoryon.net/pages/duolingo-max-is-more-than-just-a-game?pageId=6a0b21bed7aa62000b46406a">`Duolingo Max Is More Than Just a Game`</a></li>
+<a href="https://memoryon.net/pages/duolingo-max-is-more-than-just-a-game?pageId=6a0b21bed7aa62000b46406a">`Duolingo Max Is More Than Just a Game`</a>
 

@@ -133,4 +133,4 @@ Duolingo Max дал ясность, скорость и структуру. А �
 _Анатомия ритма: Duolingo Max как полигон стратегического мышления. AP | Pivtorak.Studio. 18.05.2026_  
 © Анна Пивторак (Костюк) 
 
-<li><a href="https://memoryon.net/ru/pages/duolingo-max-eto-bolshe-chem-igra?pageId=6a0b22cf4bc829000b4c70e2">`Duolingo Max — это больше, чем игра`</a></li>
+<a href="https://memoryon.net/ru/pages/duolingo-max-eto-bolshe-chem-igra?pageId=6a0b22cf4bc829000b4c70e2">`Duolingo Max — это больше, чем игра`</a>

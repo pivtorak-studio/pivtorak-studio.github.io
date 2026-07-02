@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/013-childhood-must-be-warm/
 toc: true
 weight: 13
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

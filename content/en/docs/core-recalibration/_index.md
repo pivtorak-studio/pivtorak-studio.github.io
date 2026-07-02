@@ -56,6 +56,10 @@ keywords:
   - Investigadora Independente
 bookCollapseSection: true
 weight: 76
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

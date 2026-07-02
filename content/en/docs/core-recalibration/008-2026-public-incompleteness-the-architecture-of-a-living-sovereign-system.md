@@ -50,6 +50,10 @@ keywords:
   - open reconstruction
   - asynchronous ecosystems
   - cognitive sovereignty
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

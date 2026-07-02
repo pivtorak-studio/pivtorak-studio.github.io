@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/007-back-to-school-preparations/
 toc: true
 weight: 7
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

@@ -47,6 +47,10 @@ canonical:
   - https://pivtorak.studio/uk/docs/peaceful-life/016-memory-simple-food/
 toc: true
 weight: 16
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

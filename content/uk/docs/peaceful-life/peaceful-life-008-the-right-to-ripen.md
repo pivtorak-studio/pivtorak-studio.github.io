@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/008-the-right-to-ripen/
 toc: true
 weight: 8
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

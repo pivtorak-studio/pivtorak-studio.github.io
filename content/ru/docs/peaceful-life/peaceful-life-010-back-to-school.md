@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/010-back-to-school/
 toc: true
 weight: 10
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

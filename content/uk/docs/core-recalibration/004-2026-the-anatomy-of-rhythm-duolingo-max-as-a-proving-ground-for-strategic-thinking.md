@@ -46,6 +46,10 @@ keywords:
   - цифрова архітектура
   - системний дизайн
   - робота з кодом
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

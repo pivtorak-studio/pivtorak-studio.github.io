@@ -50,6 +50,10 @@ keywords:
   - cibernética económica
   - arquitetura do conhecimento
   - interdisciplinaridade
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

@@ -43,6 +43,10 @@ keywords:
   - arquitetura do momento
   - respiração como sinal
   - Core Recalibration
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

@@ -49,6 +49,10 @@ keywords:
   - автономна інфраструктура
   - стратегічне прискорення
   - thejewelry.business
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

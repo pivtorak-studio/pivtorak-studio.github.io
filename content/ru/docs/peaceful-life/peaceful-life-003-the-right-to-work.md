@@ -44,6 +44,10 @@ canonical:
   - https://pivtorak.studio/ru/docs/peaceful-life/003-the-right-to-work/
 toc: true
 weight: 3
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

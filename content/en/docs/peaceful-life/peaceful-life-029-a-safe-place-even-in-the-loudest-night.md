@@ -48,6 +48,10 @@ draft: false
 canonical:
   - https://pivtorak.studio/en/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/
 weight: 29
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

@@ -47,6 +47,10 @@ canonical:
 toc: true
 weight: 20
 id: peaceful-life-020-the-forest-that-protects
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

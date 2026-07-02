@@ -43,6 +43,10 @@ draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/014-the-right-to-a-warm-autumn/
 toc: true
 weight: 14
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

@@ -49,6 +49,10 @@ authors:
   - Anna Pivtorak
 weight: 12
 toc: true
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

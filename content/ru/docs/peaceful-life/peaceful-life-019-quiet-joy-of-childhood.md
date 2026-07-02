@@ -47,6 +47,10 @@ canonical:
 toc: true
 weight: 19
 id: peaceful-life-019-quiet-joy-of-childhood
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

@@ -48,6 +48,10 @@ draft: false
 canonical:
   - https://pivtorak.studio/pt/docs/peaceful-life/030-a-song-stronger-than-noise/
 weight: 30
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

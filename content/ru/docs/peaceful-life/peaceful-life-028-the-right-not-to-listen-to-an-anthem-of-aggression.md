@@ -47,6 +47,10 @@ authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/
 weight: 28
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

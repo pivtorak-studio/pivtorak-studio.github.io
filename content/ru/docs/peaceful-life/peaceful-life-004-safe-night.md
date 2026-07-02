@@ -44,6 +44,10 @@ canonical:
   - https://pivtorak.studio/ru/docs/peaceful-life/004-safe-night-circle-of-trust.md
 toc: true
 weight: 4
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

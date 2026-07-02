@@ -44,6 +44,10 @@ canonical:
   - https://pivtorak.studio/en/docs/peaceful-life/005-the-right-to-learn-to-fly/
 toc: true
 weight: 5
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

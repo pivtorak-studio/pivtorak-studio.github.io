@@ -115,7 +115,7 @@ Os cães vivem ao lado das pessoas há milhares de anos.
 Pedem muito pouco.  
 Mesmo assim, acompanham as famílias, protegem as casas e permanecem presentes tanto nos dias felizes como nos momentos difíceis.  
 
-## O Que Muitas Vezes Não Reparamos
+## O Que Muitas Vezes Não Reparamos  
 
 A fidelidade nunca pode ser imposta.  
 Só pode ser oferecida livremente.  

@@ -56,6 +56,10 @@ draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/022-peace-drawn-by-hands/
 toc: true
 weight: 22
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

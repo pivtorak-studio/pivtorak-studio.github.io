@@ -57,6 +57,10 @@ draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/026-the-right-to-remain-a-child/
 toc: true
 weight: 26
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

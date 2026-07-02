@@ -135,3 +135,5 @@ Duolingo Max дав ясніть, швидкість і структуру. А �
 
 _Анатомія ритму: Duolingo Max як полігон стратегічного мислення. AP | Pivtorak.Studio. 18.05.2026_    
 © Анна Півторак (Костюк)  
+
+<li><a href="https://memoryon.net/uk/pages/duolingo-max-ce-ne-prosto-gra?pageId=6a0b20cc4bc829000b4c6f20">`Duolingo Max — це не просто гра`</a></li>

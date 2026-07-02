@@ -45,6 +45,10 @@ related:
   - /en/docs/timeline/
 canonical: https://pivtorak.studio/en/docs/peaceful-life/032-equal-side-by-side/
 weight: 32
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 <script type="application/ld+json">
 {

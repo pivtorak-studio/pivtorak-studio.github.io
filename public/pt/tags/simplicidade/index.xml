@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Simplicidade on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/simplicidade/</link>
+		<description>Recent content in Simplicidade on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 08 Jun 2026 15:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/simplicidade/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>004 Manifesto da Investigadora Independente: O Direito à Simplicidade</title>
+				<link>http://localhost:1313/pt/docs/independent-researcher-manifesto/004-the-right-to-simplicity/</link>
+				<pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/independent-researcher-manifesto/004-the-right-to-simplicity/</guid>
+				<description>A simplicidade não é a ausência de complexidade, mas a sua forma mais elevada e integrada. Qualquer sistema existe, em última análise, para proteger as condições fundamentais da vida: lar, infância, paz, segurança e dignidade humana.</description>
+			</item>
+	</channel>
+</rss>

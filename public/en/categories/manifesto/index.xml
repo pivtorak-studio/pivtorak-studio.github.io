@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Manifesto on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/categories/manifesto/</link>
+		<description>Recent content in Manifesto on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2026 10:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/categories/manifesto/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>001 Independent Researcher Manifesto: The Architecture of Resonance</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance/</link>
+				<pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance/</guid>
+				<description>From observation to design, this manifesto introduces the Architecture of Resonance — a framework connecting research, art, strategy, academic inquiry, sovereignty, and the capitalization of non-obvious value.</description>
+			</item>
+			<item>
+				<title>002 Independent Researcher Manifesto: The Right to Structure</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/002-the-right-to-structure/</link>
+				<pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/002-the-right-to-structure/</guid>
+				<description>Moving beyond interpretation, this manifesto explores structure as invisible power, legitimacy without permission, protocol-centered value creation, and the architecture of sovereign systems.</description>
+			</item>
+			<item>
+				<title>003 Independent Researcher Manifesto: The Right to Creativity</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</link>
+				<pubDate>Sun, 12 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</guid>
+				<description>This manifesto establishes creativity as a research method capable of generating knowledge, testing hypotheses, and designing new realities beyond the limits of analytical language.</description>
+			</item>
+			<item>
+				<title>004 Independent Researcher Manifesto: The Right to Simplicity</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/004-the-right-to-simplicity/</link>
+				<pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/004-the-right-to-simplicity/</guid>
+				<description>Simplicity is not the absence of complexity but its highest integrated form. Any system ultimately exists to protect the fundamental conditions of life: home, childhood, peace, safety, and human dignity.</description>
+			</item>
+			<item>
+				<title>005 Independent Researcher Manifesto: The Right to Incompleteness</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/</link>
+				<pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/</guid>
+				<description>Incompleteness is not a flaw but a condition for growth. Living systems evolve through traces, maps, revisions, and new dimensions of understanding. Research remains alive when it remains open.</description>
+			</item>
+			<item>
+				<title>006 Independent Researcher Manifesto: The Right to Human Outcomes</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes/</link>
+				<pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes/</guid>
+				<description>Systems, models, and institutions are instruments of navigation. Their value is determined by whether they help people live, love, create, return home, and build the future.</description>
+			</item>
+	</channel>
+</rss>

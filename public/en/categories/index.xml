@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/categories/</link>
+		<description>Recent content in Categories on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jun 2026 17:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cognitive Architecture</title>
+				<link>http://localhost:1313/en/categories/cognitive-architecture/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/cognitive-architecture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Core Recalibration</title>
+				<link>http://localhost:1313/en/categories/core-recalibration/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/core-recalibration/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Digital Sovereignty</title>
+				<link>http://localhost:1313/en/categories/digital-sovereignty/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/digital-sovereignty/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Independent Research</title>
+				<link>http://localhost:1313/en/categories/independent-research/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/independent-research/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Philosophy</title>
+				<link>http://localhost:1313/en/categories/philosophy/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/philosophy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>System Transformation</title>
+				<link>http://localhost:1313/en/categories/system-transformation/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/system-transformation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systems Thinking</title>
+				<link>http://localhost:1313/en/categories/systems-thinking/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/systems-thinking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cognitive Science</title>
+				<link>http://localhost:1313/en/categories/cognitive-science/</link>
+				<pubDate>Fri, 26 Jun 2026 11:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/cognitive-science/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cybernetics</title>
+				<link>http://localhost:1313/en/categories/cybernetics/</link>
+				<pubDate>Fri, 26 Jun 2026 11:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/cybernetics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Knowledge Architecture</title>
+				<link>http://localhost:1313/en/categories/knowledge-architecture/</link>
+				<pubDate>Fri, 26 Jun 2026 11:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/knowledge-architecture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systems Theory</title>
+				<link>http://localhost:1313/en/categories/systems-theory/</link>
+				<pubDate>Fri, 26 Jun 2026 11:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/systems-theory/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Civilizational Research</title>
+				<link>http://localhost:1313/en/categories/civilizational-research/</link>
+				<pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/civilizational-research/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Extra-Credit-Problem</title>
+				<link>http://localhost:1313/en/categories/extra-credit-problem/</link>
+				<pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/extra-credit-problem/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Human Rights</title>
+				<link>http://localhost:1313/en/categories/human-rights/</link>
+				<pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/human-rights/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systemic Analysis</title>
+				<link>http://localhost:1313/en/categories/systemic-analysis/</link>
+				<pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/systemic-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>KnowledgeArchitecture</title>
+				<link>http://localhost:1313/en/categories/knowledgearchitecture/</link>
+				<pubDate>Wed, 17 Jun 2026 15:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/knowledgearchitecture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Research</title>
+				<link>http://localhost:1313/en/categories/research/</link>
+				<pubDate>Wed, 17 Jun 2026 15:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/research/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sovereignty</title>
+				<link>http://localhost:1313/en/categories/sovereignty/</link>
+				<pubDate>Wed, 17 Jun 2026 15:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/sovereignty/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SystemsThinking</title>
+				<link>http://localhost:1313/en/categories/systemsthinking/</link>
+				<pubDate>Wed, 17 Jun 2026 15:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/systemsthinking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Human-Centered Design</title>
+				<link>http://localhost:1313/en/categories/human-centered-design/</link>
+				<pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/human-centered-design/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Manifesto</title>
+				<link>http://localhost:1313/en/categories/manifesto/</link>
+				<pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/manifesto/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Knowledge Design</title>
+				<link>http://localhost:1313/en/categories/knowledge-design/</link>
+				<pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/knowledge-design/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Research Culture</title>
+				<link>http://localhost:1313/en/categories/research-culture/</link>
+				<pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/research-culture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Navigation</title>
+				<link>http://localhost:1313/en/categories/navigation/</link>
+				<pubDate>Sun, 07 Jun 2026 17:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/navigation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Personal Philosophy</title>
+				<link>http://localhost:1313/en/categories/personal-philosophy/</link>
+				<pubDate>Sun, 07 Jun 2026 17:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/personal-philosophy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Strategy</title>
+				<link>http://localhost:1313/en/categories/strategy/</link>
+				<pubDate>Sun, 07 Jun 2026 17:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/strategy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Majestic Discipline</title>
+				<link>http://localhost:1313/en/categories/the-majestic-discipline/</link>
+				<pubDate>Sun, 07 Jun 2026 17:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/the-majestic-discipline/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Digital Archives</title>
+				<link>http://localhost:1313/en/categories/digital-archives/</link>
+				<pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/digital-archives/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Knowledge Systems</title>
+				<link>http://localhost:1313/en/categories/knowledge-systems/</link>
+				<pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/knowledge-systems/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Site Management</title>
+				<link>http://localhost:1313/en/categories/site-management/</link>
+				<pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/site-management/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Human Resilience</title>
+				<link>http://localhost:1313/en/categories/human-resilience/</link>
+				<pubDate>Wed, 03 Jun 2026 20:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/human-resilience/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Peaceful Life</title>
+				<link>http://localhost:1313/en/categories/peaceful-life/</link>
+				<pubDate>Wed, 03 Jun 2026 20:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/peaceful-life/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Society</title>
+				<link>http://localhost:1313/en/categories/society/</link>
+				<pubDate>Wed, 03 Jun 2026 20:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/society/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Animal Welfare</title>
+				<link>http://localhost:1313/en/categories/animal-welfare/</link>
+				<pubDate>Wed, 03 Jun 2026 14:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/animal-welfare/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Nature</title>
+				<link>http://localhost:1313/en/categories/nature/</link>
+				<pubDate>Wed, 03 Jun 2026 14:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/nature/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Human Dignity</title>
+				<link>http://localhost:1313/en/categories/human-dignity/</link>
+				<pubDate>Tue, 02 Jun 2026 21:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/human-dignity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Architecture of Action</title>
+				<link>http://localhost:1313/en/categories/architecture-of-action/</link>
+				<pubDate>Sat, 30 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/architecture-of-action/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systems Design</title>
+				<link>http://localhost:1313/en/categories/systems-design/</link>
+				<pubDate>Sat, 30 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/categories/systems-design/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Personal Evolution</title>
+				<link>http://localhost:1313/en/categories/personal-evolution/</link>
+				<pubDate>Sat, 30 May 2026 18:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/personal-evolution/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systems Architecture</title>
+				<link>http://localhost:1313/en/categories/systems-architecture/</link>
+				<pubDate>Sat, 30 May 2026 18:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/systems-architecture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Creativity</title>
+				<link>http://localhost:1313/en/categories/creativity/</link>
+				<pubDate>Sun, 12 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/creativity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Governance</title>
+				<link>http://localhost:1313/en/categories/governance/</link>
+				<pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/governance/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Manifesto Series</title>
+				<link>http://localhost:1313/en/categories/manifesto-series/</link>
+				<pubDate>Wed, 18 Mar 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/manifesto-series/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Methodology</title>
+				<link>http://localhost:1313/en/categories/methodology/</link>
+				<pubDate>Wed, 18 Mar 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/methodology/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Animals</title>
+				<link>http://localhost:1313/en/categories/animals/</link>
+				<pubDate>Sun, 01 Feb 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/animals/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Human Security</title>
+				<link>http://localhost:1313/en/categories/human-security/</link>
+				<pubDate>Sun, 01 Feb 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/human-security/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Political Design</title>
+				<link>http://localhost:1313/en/categories/political-design/</link>
+				<pubDate>Sun, 01 Feb 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/political-design/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Childhood</title>
+				<link>http://localhost:1313/en/categories/childhood/</link>
+				<pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/childhood/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Family</title>
+				<link>http://localhost:1313/en/categories/family/</link>
+				<pubDate>Sun, 01 Feb 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/family/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>CivilizationalResearch</title>
+				<link>http://localhost:1313/en/categories/civilizationalresearch/</link>
+				<pubDate>Sat, 31 Jan 2026 23:30:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/civilizationalresearch/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ProcessDiary</title>
+				<link>http://localhost:1313/en/categories/processdiary/</link>
+				<pubDate>Sat, 31 Jan 2026 23:30:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/processdiary/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Civilizational Transition</title>
+				<link>http://localhost:1313/en/categories/civilizational-transition/</link>
+				<pubDate>Sat, 31 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/civilizational-transition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Global Dimension</title>
+				<link>http://localhost:1313/en/categories/global-dimension/</link>
+				<pubDate>Sat, 31 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/global-dimension/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Persia 2.0</title>
+				<link>http://localhost:1313/en/categories/persia-2.0/</link>
+				<pubDate>Sat, 31 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/persia-2.0/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Identity Studies</title>
+				<link>http://localhost:1313/en/categories/identity-studies/</link>
+				<pubDate>Thu, 29 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/identity-studies/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systemic Transformation</title>
+				<link>http://localhost:1313/en/categories/systemic-transformation/</link>
+				<pubDate>Thu, 29 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/systemic-transformation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Semantic Studies</title>
+				<link>http://localhost:1313/en/categories/semantic-studies/</link>
+				<pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/semantic-studies/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Transition Studies</title>
+				<link>http://localhost:1313/en/categories/transition-studies/</link>
+				<pubDate>Thu, 29 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/transition-studies/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Civilization</title>
+				<link>http://localhost:1313/en/categories/civilization/</link>
+				<pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/civilization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Identity</title>
+				<link>http://localhost:1313/en/categories/identity/</link>
+				<pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/identity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Memory</title>
+				<link>http://localhost:1313/en/categories/memory/</link>
+				<pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/memory/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reconstruction</title>
+				<link>http://localhost:1313/en/categories/reconstruction/</link>
+				<pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/reconstruction/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ethics</title>
+				<link>http://localhost:1313/en/categories/ethics/</link>
+				<pubDate>Wed, 28 Jan 2026 14:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/ethics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Freedom</title>
+				<link>http://localhost:1313/en/categories/freedom/</link>
+				<pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/freedom/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Transition</title>
+				<link>http://localhost:1313/en/categories/transition/</link>
+				<pubDate>Mon, 26 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/transition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Desacralization-of-Fear</title>
+				<link>http://localhost:1313/en/categories/desacralization-of-fear/</link>
+				<pubDate>Sun, 25 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/desacralization-of-fear/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Iran-Persia-Transition</title>
+				<link>http://localhost:1313/en/categories/iran-persia-transition/</link>
+				<pubDate>Sun, 25 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/iran-persia-transition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ExtraCreditProblem</title>
+				<link>http://localhost:1313/en/categories/extracreditproblem/</link>
+				<pubDate>Fri, 23 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/extracreditproblem/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>IranPersiaCivilizationalTransition</title>
+				<link>http://localhost:1313/en/categories/iranpersiacivilizationaltransition/</link>
+				<pubDate>Fri, 23 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/iranpersiacivilizationaltransition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ProtestEnvironment</title>
+				<link>http://localhost:1313/en/categories/protestenvironment/</link>
+				<pubDate>Fri, 23 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/protestenvironment/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Information Systems</title>
+				<link>http://localhost:1313/en/categories/information-systems/</link>
+				<pubDate>Thu, 22 Jan 2026 23:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/information-systems/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Iran–Persia: A Civilizational Transition</title>
+				<link>http://localhost:1313/en/categories/iranpersia-a-civilizational-transition/</link>
+				<pubDate>Thu, 22 Jan 2026 23:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/iranpersia-a-civilizational-transition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Point of Vulnerability</title>
+				<link>http://localhost:1313/en/categories/point-of-vulnerability/</link>
+				<pubDate>Thu, 22 Jan 2026 23:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/point-of-vulnerability/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>System Diagnosis</title>
+				<link>http://localhost:1313/en/categories/system-diagnosis/</link>
+				<pubDate>Thu, 22 Jan 2026 23:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/system-diagnosis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Economics</title>
+				<link>http://localhost:1313/en/categories/economics/</link>
+				<pubDate>Wed, 21 Jan 2026 22:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/economics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>IranPersia</title>
+				<link>http://localhost:1313/en/categories/iranpersia/</link>
+				<pubDate>Wed, 21 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/iranpersia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SystemDiagnosis</title>
+				<link>http://localhost:1313/en/categories/systemdiagnosis/</link>
+				<pubDate>Wed, 21 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/systemdiagnosis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>AfterTragedy</title>
+				<link>http://localhost:1313/en/categories/aftertragedy/</link>
+				<pubDate>Mon, 19 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/aftertragedy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tragedy</title>
+				<link>http://localhost:1313/en/categories/tragedy/</link>
+				<pubDate>Sat, 17 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/tragedy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Civilization Studies</title>
+				<link>http://localhost:1313/en/categories/civilization-studies/</link>
+				<pubDate>Fri, 16 Jan 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/civilization-studies/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systems Analysis</title>
+				<link>http://localhost:1313/en/categories/systems-analysis/</link>
+				<pubDate>Fri, 16 Jan 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/systems-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Peace Culture</title>
+				<link>http://localhost:1313/en/categories/peace-culture/</link>
+				<pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/peace-culture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Social Responsibility</title>
+				<link>http://localhost:1313/en/categories/social-responsibility/</link>
+				<pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/social-responsibility/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Children</title>
+				<link>http://localhost:1313/en/categories/children/</link>
+				<pubDate>Thu, 01 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/children/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Home</title>
+				<link>http://localhost:1313/en/categories/home/</link>
+				<pubDate>Tue, 02 Dec 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/home/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wildlife</title>
+				<link>http://localhost:1313/en/categories/wildlife/</link>
+				<pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/wildlife/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reflection</title>
+				<link>http://localhost:1313/en/categories/reflection/</link>
+				<pubDate>Sat, 01 Nov 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/reflection/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Spirituality</title>
+				<link>http://localhost:1313/en/categories/spirituality/</link>
+				<pubDate>Sat, 01 Nov 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/spirituality/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Humanity</title>
+				<link>http://localhost:1313/en/categories/humanity/</link>
+				<pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/humanity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Art Series</title>
+				<link>http://localhost:1313/en/categories/art-series/</link>
+				<pubDate>Sun, 01 Jun 2025 08:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/art-series/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Peace</title>
+				<link>http://localhost:1313/en/categories/peace/</link>
+				<pubDate>Sun, 01 Jun 2025 08:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/peace/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Discipline</title>
+				<link>http://localhost:1313/en/categories/discipline/</link>
+				<pubDate>Sat, 08 Mar 2025 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/discipline/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Research Projects</title>
+				<link>http://localhost:1313/en/categories/research-projects/</link>
+				<pubDate>Sat, 08 Mar 2025 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/research-projects/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Symbolic Systems</title>
+				<link>http://localhost:1313/en/categories/symbolic-systems/</link>
+				<pubDate>Sat, 08 Mar 2025 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/symbolic-systems/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cognitive Strategy</title>
+				<link>http://localhost:1313/en/categories/cognitive-strategy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/cognitive-strategy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Digital Philosophy</title>
+				<link>http://localhost:1313/en/categories/digital-philosophy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/digital-philosophy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Language Philosophy</title>
+				<link>http://localhost:1313/en/categories/language-philosophy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/language-philosophy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Presence Philosophy</title>
+				<link>http://localhost:1313/en/categories/presence-philosophy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/presence-philosophy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sovereign Architecture</title>
+				<link>http://localhost:1313/en/categories/sovereign-architecture/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/sovereign-architecture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sovereign Science</title>
+				<link>http://localhost:1313/en/categories/sovereign-science/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/sovereign-science/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>System Awareness</title>
+				<link>http://localhost:1313/en/categories/system-awareness/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/system-awareness/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>System Thinking</title>
+				<link>http://localhost:1313/en/categories/system-thinking/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/categories/system-thinking/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Дослідницький Архів on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/docs/</link>
+		<description>Recent content in Дослідницький Архів on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/docs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Анна Півторак (Костюк) — Офіційна сторінка</title>
+				<link>http://localhost:1313/uk/docs/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/about/</guid>
+				<description>&lt;script type=&#34;application/ld+json&#34;&gt;&#xD;&#xA;{&#xD;&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xD;&#xA;  &#34;@type&#34;: &#34;Person&#34;,&#xD;&#xA;  &#34;name&#34;: &#34;Анна Півторак (Костюк)&#34;,&#xD;&#xA;  &#34;alternateName&#34;: [&#34;Anna Pivtorak&#34;, &#34;Anna Kostyuk&#34;, &#34;Анна Костюк&#34;, &#34;Анна Пивторак&#34;, &#34;Anna Pivtorak Kostyuk&#34;],&#xD;&#xA;  &#34;url&#34;: &#34;https://pivtorak.studio/uk/docs/about/&#34;,&#xD;&#xA;  &#34;mainEntityOfPage&#34;: &#34;https://pivtorak.studio/uk/docs/about/&#34;,&#xD;&#xA;  &#34;description&#34;: &#34;Анна Півторак (Костюк) — українська дослідниця, авторка культурних та аналітичних проєктів, засновниця Pivtorak.Studio. Спеціалізується на архітектурі цінностей та формуванні ідентичності.&#34;,&#xD;&#xA;  &#34;image&#34;: &#34;https://pivtorak.studio/images/anna-pivtorak-identity.webp&#34;,&#xD;&#xA;  &#34;gender&#34;: &#34;Female&#34;,&#xD;&#xA;  &#34;nationality&#34;: &#34;Ukrainian&#34;,&#xD;&#xA;  &#34;knowsAbout&#34;: [&#34;Cultural Studies&#34;, &#34;Identity Research&#34;, &#34;Value Systems Architecture&#34;],&#xD;&#xA;  &#34;sameAs&#34;: [&#xD;&#xA;    &#34;https://pivtorak.studio&#34;,&#xD;&#xA;    &#34;https://www.instagram.com/pivtorak.studio/&#34;,&#xD;&#xA;    &#34;https://www.facebook.com/anna.pivtorak.jb.expert/&#34;,&#xD;&#xA;    &#34;https://memoryon.net/s/BItTLsxdTx&#34;&#xD;&#xA;  ]&#xD;&#xA;}&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;div class=&#34;float-right&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/anna-pivtorak-kostyuk-identity.webp&#34; alt=&#34;Анна Півторак (Костюк)&#34; /&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

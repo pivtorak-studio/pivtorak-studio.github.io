@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kyiv on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/kyiv/</link>
+		<description>Recent content in Kyiv on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 03 Jun 2026 14:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/kyiv/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>029 Um Lugar Seguro Mesmo na Noite Mais Barulhenta</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</link>
+				<pubDate>Wed, 03 Jun 2026 14:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</guid>
+				<description>Inspirado pelo resgate de uma jovem corça presa debaixo de um automóvel em Kyiv após uma noite de ataques, este ensaio explora a necessidade comum a todos os seres vivos de encontrar proteção, segurança e paz.</description>
+			</item>
+	</channel>
+</rss>

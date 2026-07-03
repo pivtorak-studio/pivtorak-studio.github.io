@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>EthicalResonance on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/ethicalresonance/</link>
+		<description>Recent content in EthicalResonance on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 19 Jan 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/ethicalresonance/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>01-01 Tragedy. Ethical Vacuum</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/</link>
+				<pubDate>Fri, 16 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-01-tragedy-ethical-vacuum/</guid>
+				<description>An examination of the ethical vacuum at the center of authoritarian power structures and the systemic consequences of governance without moral accountability.</description>
+			</item>
+			<item>
+				<title>001 Iran – Persia: A Civilizational Transition</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/</link>
+				<pubDate>Fri, 16 Jan 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/</guid>
+				<description>The first civilizational case study of The Asterisk Problem, combining Ethical Resonance and Systemic Solution Manifesto across thirty interconnected works.</description>
+			</item>
+			<item>
+				<title>01-02 Tragedy. False Dialogue</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/</link>
+				<pubDate>Sat, 17 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/</guid>
+				<description>Analysis of simulated communication systems where dialogue exists formally but lacks any capacity for response or ethical reception.</description>
+			</item>
+			<item>
+				<title>01-03 Tragedy. Consumable Material</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material/</link>
+				<pubDate>Sat, 17 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-03-tragedy-consumable-material/</guid>
+				<description>Analysis of a state model that treats human life as expendable material within a conveyor of fear.</description>
+			</item>
+			<item>
+				<title>02-01 AfterTragedy. Delegitimation</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation/</link>
+				<pubDate>Sun, 18 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation/</guid>
+				<description>Examination of how criminal governance disguises itself as lawful administration and how legitimacy is dismantled through accurate naming.</description>
+			</item>
+			<item>
+				<title>02-02 AfterTragedy. System without Immunity</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</link>
+				<pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</guid>
+				<description>A diagnosis of institutional permeability, where violence encounters no resistance because the architecture itself no longer distinguishes between protection and threat.</description>
+			</item>
+	</channel>
+</rss>

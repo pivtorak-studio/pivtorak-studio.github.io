@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Previsão on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/previs%C3%A3o/</link>
+		<description>Recent content in Previsão on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Sep 2025 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/previs%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>012 Reserva de Outono</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/012-autumn-reserve/</link>
+				<pubDate>Mon, 01 Sep 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/012-autumn-reserve/</guid>
+				<description>Um esquilo recolhe bolotas, a natureza abranda o ritmo e a estação recorda-nos que preparar-se é um ato de cuidado e não de medo.</description>
+			</item>
+	</channel>
+</rss>

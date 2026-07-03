@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ЩоденникПроцесу on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/categories/%D1%89%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%83/</link>
+		<description>Recent content in ЩоденникПроцесу on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Jan 2026 23:30:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/categories/%D1%89%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%83/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>20260131 Іран – Персія: Від демонтажу режиму до відродження цивілізації</title>
+				<link>http://localhost:1313/uk/docs/process-diary/process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization/</link>
+				<pubDate>Sat, 31 Jan 2026 23:30:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/process-diary/process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization/</guid>
+				<description>Запис Щоденника Процесу, що фіксує перехід від аналізу авторитарних структур до проєктування цивілізаційного майбутнього через концепцію Персія 2.0.</description>
+			</item>
+	</channel>
+</rss>

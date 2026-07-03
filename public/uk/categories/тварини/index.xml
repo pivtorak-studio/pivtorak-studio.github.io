@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Тварини on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/categories/%D1%82%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B8/</link>
+		<description>Recent content in Тварини on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Feb 2026 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/categories/%D1%82%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>020 Ліс, Що Оберігає</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/020-the-forest-that-protects/</link>
+				<pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/020-the-forest-that-protects/</guid>
+				<description>Зимовий ліс — не порожній простір, а жива спільнота турботи. Кожна істота створює тепло, довіру та відчуття належності в гармонії природи.</description>
+			</item>
+			<item>
+				<title>024 Мир, Який Просто Є</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/024-peace-that-simpl-is/</link>
+				<pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/024-peace-that-simpl-is/</guid>
+				<description>Двадцять четверта робота серії «Мирне Життя» розмірковує про мир як про стан буття. Пташка, що їсть з руки, або тварина, яка спокійно відпочиває поруч, стають тихим індикатором довіри, безпеки та безперервності життя.</description>
+			</item>
+			<item>
+				<title>027 Ті, Хто Чекають Разом</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/027-those-who-wait-together/</link>
+				<pubDate>Sun, 01 Feb 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/027-those-who-wait-together/</guid>
+				<description>Двадцять сьома робота серії «Мирне Життя» розмірковує про належність як форму миру. Собака, що відпочиває біля дверей, стає символом безперервності, довіри та спільного життя, яке поєднує членів родини незалежно від виду.</description>
+			</item>
+	</channel>
+</rss>

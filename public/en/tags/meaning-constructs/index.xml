@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Meaning Constructs on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/meaning-constructs/</link>
+		<description>Recent content in Meaning Constructs on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 12 Apr 2026 11:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/meaning-constructs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>003 Independent Researcher Manifesto: The Right to Creativity</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</link>
+				<pubDate>Sun, 12 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</guid>
+				<description>This manifesto establishes creativity as a research method capable of generating knowledge, testing hypotheses, and designing new realities beyond the limits of analytical language.</description>
+			</item>
+	</channel>
+</rss>

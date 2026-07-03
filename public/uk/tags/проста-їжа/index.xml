@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Проста Їжа on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B0-%D1%97%D0%B6%D0%B0/</link>
+		<description>Recent content in Проста Їжа on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 01 Nov 2025 11:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B0-%D1%97%D0%B6%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>016 Памʼять. Проста Їжа</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/016-memory-simple-food/</link>
+				<pubDate>Sat, 01 Nov 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/016-memory-simple-food/</guid>
+				<description>Роздуми про просту їжу як акт пам’яті, вдячності та людського зв’язку. Хліб, вода і світло нагадують, що мир часто починається з найпростіших речей.</description>
+			</item>
+	</channel>
+</rss>

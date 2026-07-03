@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Family on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/categories/family/</link>
+		<description>Recent content in Family on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Feb 2026 11:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/categories/family/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>016 Memory. Simple Food</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/016-memory-simple-food/</link>
+				<pubDate>Sat, 01 Nov 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/016-memory-simple-food/</guid>
+				<description>A reflection on simple food as an act of memory, gratitude, and human connection. Bread, water, and light remind us that peace often begins with the simplest things.</description>
+			</item>
+			<item>
+				<title>017 Warmth That Returns</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/017-warmth-that-returns/</link>
+				<pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/017-warmth-that-returns/</guid>
+				<description>True warmth is born in care, trust, and quiet companionship. What we give sincerely to others often returns when we need it most.</description>
+			</item>
+			<item>
+				<title>019 Quiet Joy of Childhood</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/019-quiet-joy-of-childhood/</link>
+				<pubDate>Tue, 02 Dec 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/019-quiet-joy-of-childhood/</guid>
+				<description>Childhood does not need loud celebrations to feel complete. Quiet moments of warmth, snow, light, and safety often become the brightest memories of life.</description>
+			</item>
+			<item>
+				<title>021 Home Where Peace Lives</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/021-home-where-peace-lives/</link>
+				<pubDate>Tue, 02 Dec 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/021-home-where-peace-lives/</guid>
+				<description>Peace is not something we find far away. It grows in everyday rituals, warm light, shared moments, and the simple feeling of being at home.</description>
+			</item>
+			<item>
+				<title>025 The Right To Return Home</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/025-the-right-to-return-home/</link>
+				<pubDate>Sun, 01 Feb 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/025-the-right-to-return-home/</guid>
+				<description>The twenty-fifth work of the PeacefulLife series reflects on homecoming as a fundamental condition of peace. A door opening at the end of the day becomes a symbol of safety, continuity, and the value of ordinary life.</description>
+			</item>
+	</channel>
+</rss>

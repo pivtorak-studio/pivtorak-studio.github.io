@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DesenvolvimentoAberto on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/desenvolvimentoaberto/</link>
+		<description>Recent content in DesenvolvimentoAberto on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/pt/tags/desenvolvimentoaberto/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>008 Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo</title>
+				<link>http://localhost:1313/pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/</guid>
+				<description>&lt;script type=&#34;application/ld+json&#34;&gt;&#xA;{&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xA;  &#34;@type&#34;: &#34;ScholarlyArticle&#34;,&#xA;  &#34;@id&#34;: &#34;https://pivtorak.studio/pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/&#34;,&#xA;  &#34;headline&#34;: &#34;Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo&#34;,&#xA;  &#34;alternativeHeadline&#34;: &#34;Um Sistema Vivo Respira Abertamente&#34;,&#xA;  &#34;description&#34;: &#34;Uma reflexão filosófica e arquitetónica sobre incompletude estruturada, desenvolvimento transparente e ecossistemas digitais soberanos que evoluem publicamente sem esconder rascunhos, instabilidade ou processos de reconstrução.&#34;,&#xA;  &#34;image&#34;: &#34;https://pivtorak.studio/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp&#34;,&#xA;  &#34;author&#34;: {&#xA;    &#34;@type&#34;: &#34;Person&#34;,&#xA;    &#34;name&#34;: &#34;Anna Pivtorak&#34;&#xA;  },&#xA;  &#34;publisher&#34;: {&#xA;    &#34;@type&#34;: &#34;Organization&#34;,&#xA;    &#34;name&#34;: &#34;Pivtorak.Studio&#34;,&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio/&#34;&#xA;  },&#xA;  &#34;inLanguage&#34;: &#34;pt-PT&#34;,&#xA;  &#34;datePublished&#34;: &#34;2026-05-26T21:00:00+01:00&#34;,&#xA;  &#34;dateModified&#34;: &#34;2026-05-26T21:00:00+01:00&#34;,&#xA;  &#34;mainEntityOfPage&#34;: {&#xA;    &#34;@type&#34;: &#34;WebPage&#34;,&#xA;    &#34;@id&#34;: &#34;https://pivtorak.studio/pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/&#34;&#xA;  },&#xA;  &#34;isPartOf&#34;: {&#xA;    &#34;@type&#34;: &#34;CreativeWorkSeries&#34;,&#xA;    &#34;name&#34;: &#34;Core Recalibration&#34;&#xA;  },&#xA;  &#34;keywords&#34;: [&#xA;    &#34;incompletude pública&#34;,&#xA;    &#34;sistemas soberanos&#34;,&#xA;    &#34;arquitetura viva&#34;,&#xA;    &#34;desenvolvimento transparente&#34;,&#xA;    &#34;reconstrução aberta&#34;,&#xA;    &#34;soberania cognitiva&#34;&#xA;  ],&#xA;  &#34;about&#34;: [&#xA;    &#34;Filosofia Digital&#34;,&#xA;    &#34;Infraestrutura Soberana&#34;,&#xA;    &#34;Desenvolvimento Aberto&#34;,&#xA;    &#34;Sistemas Vivos&#34;&#xA;  ]&#xA;}&#xA;&lt;/script&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp&#34; alt=&#34;Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo&#34; /&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

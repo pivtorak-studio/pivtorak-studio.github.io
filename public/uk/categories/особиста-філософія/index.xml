@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Особиста Філософія on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/categories/%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D1%81%D1%82%D0%B0-%D1%84%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%96%D1%8F/</link>
+		<description>Recent content in Особиста Філософія on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 07 Jun 2026 17:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/categories/%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D1%81%D1%82%D0%B0-%D1%84%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%96%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>034 Нескінченний День Масштабу</title>
+				<link>http://localhost:1313/uk/docs/the-majestic-discipline/034-endless-day-horizon/</link>
+				<pubDate>Sat, 06 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/the-majestic-discipline/034-endless-day-horizon/</guid>
+				<description>Арктична крячка слідує за світлом двох півкуль. Нескінченний День Масштабу досліджує ясність, напрямок і дисципліну бачення власної місії в масштабі всієї планети.</description>
+			</item>
+			<item>
+				<title>035 Вісь Планетарного Руху</title>
+				<link>http://localhost:1313/uk/docs/the-majestic-discipline/035-planetary-axis-transit/</link>
+				<pubDate>Sun, 07 Jun 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/the-majestic-discipline/035-planetary-axis-transit/</guid>
+				<description>Мандруючи між полюсами Землі, арктична крячка слідує невидимій осі над відкритим океаном. Вертикаль Планети Руху досліджує витривалість, точність і дисципліну довгого маршруту.</description>
+			</item>
+			<item>
+				<title>036 Полюс Призначення</title>
+				<link>http://localhost:1313/uk/docs/the-majestic-discipline/036-pole-of-purpose/</link>
+				<pubDate>Sun, 07 Jun 2026 17:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/the-majestic-discipline/036-pole-of-purpose/</guid>
+				<description>Подолавши шлях від одного полюса до іншого, арктична крячка досягає своєї мети. Полюс Призначення досліджує завершення, інтеграцію та дисципліну втілення великого маршруту.</description>
+			</item>
+	</channel>
+</rss>

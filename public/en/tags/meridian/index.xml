@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Meridian on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/meridian/</link>
+		<description>Recent content in Meridian on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 07 Jun 2026 09:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/meridian/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>035 Planetary Axis Transit</title>
+				<link>http://localhost:1313/en/docs/the-majestic-discipline/035-planetary-axis-transit/</link>
+				<pubDate>Sun, 07 Jun 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/the-majestic-discipline/035-planetary-axis-transit/</guid>
+				<description>Gliding between Earth&amp;rsquo;s poles, the Arctic Tern follows an invisible axis through the open ocean. Planetary Axis Transit explores endurance, precision, and the discipline of sustaining movement over time.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>⊞ Матриця Руху on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/docs/the-movement-matrix/</link>
+		<description>Recent content in ⊞ Матриця Руху on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/docs/the-movement-matrix/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>⊞ Матриця Завершеності Сайту</title>
+				<link>http://localhost:1313/uk/docs/the-movement-matrix/site-completion-matrix/</link>
+				<pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/the-movement-matrix/site-completion-matrix/</guid>
+				<description>Матриця Завершеності Сайту надає структурований огляд поточного стану опублікованих матеріалів. Вона допомагає визначити, які матеріали завершені, які потребують доопрацювання, а які очікують на публікацію або індексацію.</description>
+			</item>
+	</channel>
+</rss>

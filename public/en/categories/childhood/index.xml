@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Childhood on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/categories/childhood/</link>
+		<description>Recent content in Childhood on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Feb 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/categories/childhood/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>019 Quiet Joy of Childhood</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/019-quiet-joy-of-childhood/</link>
+				<pubDate>Tue, 02 Dec 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/019-quiet-joy-of-childhood/</guid>
+				<description>Childhood does not need loud celebrations to feel complete. Quiet moments of warmth, snow, light, and safety often become the brightest memories of life.</description>
+			</item>
+			<item>
+				<title>026 The Right to Remain a Child</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/026-the-right-to-remain-a-child/</link>
+				<pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/026-the-right-to-remain-a-child/</guid>
+				<description>The twenty-sixth work of the PeacefulLife series reflects on childhood as a protected state of being. A child sleeping peacefully in their own bed becomes a symbol of safety, continuity, and the right to grow without adapting to loss.</description>
+			</item>
+	</channel>
+</rss>

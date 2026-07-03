@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ПротестСередовище on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5/</link>
+		<description>Recent content in ПротестСередовище on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 23 Jan 2026 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>05-01 Протест-Середовище. Соціальний Саботаж</title>
+				<link>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-01-protest-environment-social-sabotage/</link>
+				<pubDate>Fri, 23 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-01-protest-environment-social-sabotage/</guid>
+				<description>Робота досліджує перехід від спротиву до свідомої неучасті. Коли суспільство перестає живити механізми диктатури, влада втрачає свою функціональність. Робота розглядає тишу, паузу та колективну бездіяльність як інструменти цивілізаційного переходу.</description>
+			</item>
+			<item>
+				<title>05-02 Протест-Середовище. Паралельні Структури</title>
+				<link>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-02-protest-environment-parallel-structures/</link>
+				<pubDate>Fri, 23 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-02-protest-environment-parallel-structures/</guid>
+				<description>Робота досліджує, як спільноти створюють автономні мережі підтримки, освіти та взаємодопомоги всередині авторитарного середовища. Паралельні структури розглядаються як жива інфраструктура, що оминає контроль і стає фундаментом майбутнього громадянського суверенітету.</description>
+			</item>
+			<item>
+				<title>05-03 Протест-Середовище. Колективна Тиша</title>
+				<link>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-03-protest-environment-collective-silence/</link>
+				<pubDate>Fri, 23 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-03-protest-environment-collective-silence/</guid>
+				<description>Робота досліджує колективну тишу як координоване соціальне явище. Вона показує, як спільна присутність без гасел і лідерів позбавляє авторитарні системи їхніх інструментів репресії та накопичує трансформаційну громадянську енергію.</description>
+			</item>
+	</channel>
+</rss>

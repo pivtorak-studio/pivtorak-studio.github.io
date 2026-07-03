@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Estações on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/esta%C3%A7%C3%B5es/</link>
+		<description>Recent content in Estações on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 Oct 2025 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/esta%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>008 O Direito de Amadurecer</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/008-the-right-to-ripen/</link>
+				<pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/008-the-right-to-ripen/</guid>
+				<description>Os campos não têm pressa. As estações não competem. Este artigo explora a ideia de que a vida merece tempo e segurança para amadurecer plenamente.</description>
+			</item>
+			<item>
+				<title>014 O Direito a um Outono Aconchegante</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/014-the-right-to-a-warm-autumn/</link>
+				<pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/014-the-right-to-a-warm-autumn/</guid>
+				<description>A luz do sol atravessa as folhas de outono, um coelho repousa entre as ervas e a natureza segue o seu próprio ritmo. Este artigo explora o valor da tranquilidade sazonal.</description>
+			</item>
+	</channel>
+</rss>

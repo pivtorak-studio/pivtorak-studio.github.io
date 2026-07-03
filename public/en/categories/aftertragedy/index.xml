@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AfterTragedy on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/categories/aftertragedy/</link>
+		<description>Recent content in AfterTragedy on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 19 Jan 2026 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/categories/aftertragedy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>02-01 AfterTragedy. Delegitimation</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation/</link>
+				<pubDate>Sun, 18 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation/</guid>
+				<description>Examination of how criminal governance disguises itself as lawful administration and how legitimacy is dismantled through accurate naming.</description>
+			</item>
+			<item>
+				<title>02-02 AfterTragedy. System without Immunity</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</link>
+				<pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</guid>
+				<description>A diagnosis of institutional permeability, where violence encounters no resistance because the architecture itself no longer distinguishes between protection and threat.</description>
+			</item>
+			<item>
+				<title>02-03 AfterTragedy. The Illusion of a Game</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-03-after-tragedy-the-illusion-of-the-game/</link>
+				<pubDate>Mon, 19 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-03-after-tragedy-the-illusion-of-the-game/</guid>
+				<description>The work examines the illusion of political participation inside authoritarian regimes, where procedures become theatrical instruments masking predetermined outcomes and systemic repression.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Human Rights on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/human-rights/</link>
+		<description>Recent content in Human Rights on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 16 Jan 2026 09:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/human-rights/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🌱☀️ Peaceful Life</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/</link>
+				<pubDate>Sun, 01 Jun 2025 08:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/</guid>
+				<description>Peaceful Life is a long-term visual series dedicated to human rights, children&amp;rsquo;s rights, the rights of nature, and the everyday moments that make peace possible.</description>
+			</item>
+			<item>
+				<title>✯ Extra Credit Problem (The Asterisk Problem)</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/</link>
+				<pubDate>Fri, 16 Jan 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/</guid>
+				<description>A multidisciplinary research framework examining countries and regions where freedom, human dignity, child protection, and individual agency face systemic challenges. Each case study maps the path from tragedy and diagnosis to recovery, subjectivity, and civilizational renewal.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Memórias on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/mem%C3%B3rias/</link>
+		<description>Recent content in Memórias on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 01 Aug 2025 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/mem%C3%B3rias/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>009 Piquenique em Família</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/009-family-picnic/</link>
+				<pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/009-family-picnic/</guid>
+				<description>Uma manta sobre a relva, comida simples, conversas e risos. Este artigo explora o valor de estar juntos e criar memórias numa vida pacífica.</description>
+			</item>
+	</channel>
+</rss>

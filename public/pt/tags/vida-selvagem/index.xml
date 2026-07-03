@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Vida Selvagem on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/vida-selvagem/</link>
+		<description>Recent content in Vida Selvagem on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 03 Jun 2026 14:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/vida-selvagem/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>002 A Natureza Tem Direito à Vida</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/002-nature-has-the-right-to-live/</link>
+				<pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/002-nature-has-the-right-to-live/</guid>
+				<description>A natureza não é um campo de batalha. Este artigo explora a ideia de que as florestas e a vida selvagem merecem proteção, continuidade e liberdade para florescer.</description>
+			</item>
+			<item>
+				<title>014 O Direito a um Outono Aconchegante</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/014-the-right-to-a-warm-autumn/</link>
+				<pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/014-the-right-to-a-warm-autumn/</guid>
+				<description>A luz do sol atravessa as folhas de outono, um coelho repousa entre as ervas e a natureza segue o seu próprio ritmo. Este artigo explora o valor da tranquilidade sazonal.</description>
+			</item>
+			<item>
+				<title>020 A Floresta Que Protege</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/020-the-forest-that-protects/</link>
+				<pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/020-the-forest-that-protects/</guid>
+				<description>As florestas de inverno não são lugares vazios, mas comunidades vivas de cuidado. Cada ser cria calor, confiança e pertença dentro da harmonia da natureza.</description>
+			</item>
+			<item>
+				<title>029 Um Lugar Seguro Mesmo na Noite Mais Barulhenta</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</link>
+				<pubDate>Wed, 03 Jun 2026 14:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</guid>
+				<description>Inspirado pelo resgate de uma jovem corça presa debaixo de um automóvel em Kyiv após uma noite de ataques, este ensaio explora a necessidade comum a todos os seres vivos de encontrar proteção, segurança e paz.</description>
+			</item>
+	</channel>
+</rss>

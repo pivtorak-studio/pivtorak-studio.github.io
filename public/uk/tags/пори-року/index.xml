@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Пори Року on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D0%BF%D0%BE%D1%80%D0%B8-%D1%80%D0%BE%D0%BA%D1%83/</link>
+		<description>Recent content in Пори Року on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 Oct 2025 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D0%BF%D0%BE%D1%80%D0%B8-%D1%80%D0%BE%D0%BA%D1%83/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>008 Право на дозрівання</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/008-the-right-to-ripen/</link>
+				<pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/008-the-right-to-ripen/</guid>
+				<description>Поля не поспішають. Пори року не змагаються. Ця стаття досліджує ідею того, що життя заслуговує на час і безпеку, необхідні для досягнення зрілості.</description>
+			</item>
+			<item>
+				<title>014 Право на теплу осінь</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/014-the-right-to-a-warm-autumn/</link>
+				<pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/014-the-right-to-a-warm-autumn/</guid>
+				<description>Сонячне світло проходить крізь осіннє листя, зайчик відпочиває серед трави, а природа слідує власному ритму. Ця стаття досліджує цінність сезонного спокою.</description>
+			</item>
+	</channel>
+</rss>

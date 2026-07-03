@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DigitalArchive on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/digitalarchive/</link>
+		<description>Recent content in DigitalArchive on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 10:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/digitalarchive/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>⊞ The Movement Matrix</title>
+				<link>http://localhost:1313/en/docs/the-movement-matrix/</link>
+				<pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/the-movement-matrix/</guid>
+				<description>The Movement Matrix is a living framework for organizing and observing the growth of a multilingual knowledge archive. It connects content creation, structured metadata, publication workflows, indexing, and long-term project evolution.</description>
+			</item>
+	</channel>
+</rss>

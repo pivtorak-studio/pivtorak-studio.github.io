@@ -2088,6 +2088,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/"
                 />
@@ -2143,6 +2148,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/"
                 />
@@ -2195,6 +2205,11 @@
                 rel="alternate"
                 hreflang="uk"
                 href="http://localhost:1313/uk/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -4180,6 +4195,11 @@
                 rel="alternate"
                 hreflang="uk"
                 href="http://localhost:1313/uk/tags/ultradeepwork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/ultradeepwork/"
                 />
     <xhtml:link
                 rel="alternate"

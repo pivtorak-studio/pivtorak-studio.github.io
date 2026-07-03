@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lealdade on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/lealdade/</link>
+		<description>Recent content in Lealdade on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 17:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/lealdade/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>033 O Guardião Fiel</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/033-faithful-guardian/</link>
+				<pubDate>Wed, 01 Jul 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/033-faithful-guardian/</guid>
+				<description>Os verdadeiros guardiões não procuram reconhecimento. Simplesmente permanecem.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Coerção on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/coer%C3%A7%C3%A3o/</link>
+		<description>Recent content in Coerção on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Jan 2026 11:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/coer%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>02-03 Pós-Tragédia. A Ilusão de um Jogo</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-03-after-tragedy-the-illusion-of-the-game/</link>
+				<pubDate>Mon, 19 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-03-after-tragedy-the-illusion-of-the-game/</guid>
+				<description>Esta obra examina a ilusão da participação política em regimes autoritários, onde os procedimentos se transformam em instrumentos teatrais que ocultam resultados predeterminados e repressão sistémica.</description>
+			</item>
+			<item>
+				<title>03-01 Diagnóstico do Sistema. Vertical do Medo</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-01-system-diagnosis-vertical-of-fear/</link>
+				<pubDate>Tue, 20 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-01-system-diagnosis-vertical-of-fear/</guid>
+				<description>Esta obra diagnostica a arquitetura do medo dentro dos regimes autoritários, revelando como as hierarquias coercivas consomem os seus próprios participantes e acabam por se tornar estruturalmente frágeis.</description>
+			</item>
+	</channel>
+</rss>

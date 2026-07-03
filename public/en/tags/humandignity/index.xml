@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HumanDignity on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/humandignity/</link>
+		<description>Recent content in HumanDignity on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Jun 2026 21:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/humandignity/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>002 Afghanistan. Stolen Subjectivity</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/</link>
+				<pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/</guid>
+				<description>Afghanistan became the second civilizational case study within The Asterisk Problem. This research investigates the mechanisms that allow societies to lose the ability to protect their own children, dismantle institutions of responsibility, and transform human beings into resources for survival.</description>
+			</item>
+			<item>
+				<title>07-01 Revival of Identity. Call of the Ancestors (Faravahar)</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-01-revival-of-identity-call-of-the-ancestors-faravahar/</link>
+				<pubDate>Mon, 26 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-01-revival-of-identity-call-of-the-ancestors-faravahar/</guid>
+				<description>A civilizational transition where the Faravahar becomes a compass for restoring identity, dignity, and historical continuity beyond the collapse of authoritarian power.</description>
+			</item>
+			<item>
+				<title>07-02 Revival of Identity. The Right to One’s Own Energy (Shir-o-Khorshid)</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-02-revival-of-identity-the-right-to-ones-own-energy-shir-o-khorshid/</link>
+				<pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-02-revival-of-identity-the-right-to-ones-own-energy-shir-o-khorshid/</guid>
+				<description>A civilizational restoration where the Lion and the Sun reconnect people to their own source of energy, transforming fear into presence and dependency into sovereignty.</description>
+			</item>
+			<item>
+				<title>07-05 Revival of Identity. Ethics as a Foundation. Zoroastrianism as Ethics</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-05-revival-of-identity-zoroastrianism-as-ethics/</link>
+				<pubDate>Wed, 28 Jan 2026 14:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-05-revival-of-identity-zoroastrianism-as-ethics/</guid>
+				<description>A civilizational reconstruction where ethics transforms from external control into internal hygiene, aligning thought, speech, and action.</description>
+			</item>
+			<item>
+				<title>025 The Right To Return Home</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/025-the-right-to-return-home/</link>
+				<pubDate>Sun, 01 Feb 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/025-the-right-to-return-home/</guid>
+				<description>The twenty-fifth work of the PeacefulLife series reflects on homecoming as a fundamental condition of peace. A door opening at the end of the day becomes a symbol of safety, continuity, and the value of ordinary life.</description>
+			</item>
+	</channel>
+</rss>

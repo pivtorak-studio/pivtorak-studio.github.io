@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Animals on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/categories/animals/</link>
+		<description>Recent content in Animals on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Feb 2026 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/categories/animals/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>024 Peace That Simply Is</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/024-peace-that-simpl-is/</link>
+				<pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/024-peace-that-simpl-is/</guid>
+				<description>The twenty-fourth work of the PeacefulLife series reflects on peace as a state of being. A bird eating from a hand or an animal resting close becomes a quiet indicator that trust, safety, and life remain intact.</description>
+			</item>
+			<item>
+				<title>027 Those Who Wait Together</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/027-those-who-wait-together/</link>
+				<pubDate>Sun, 01 Feb 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/027-those-who-wait-together/</guid>
+				<description>The twenty-seventh work of the PeacefulLife series reflects on belonging as a form of peace. A dog resting near the door becomes a symbol of continuity, trust, and the shared life that connects family members across species.</description>
+			</item>
+	</channel>
+</rss>

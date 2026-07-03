@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Управління on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/categories/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/</link>
+		<description>Recent content in Управління on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 19 Jan 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/categories/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>01-02 Трагедія. Фальшивий Діалог</title>
+				<link>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/</link>
+				<pubDate>Sat, 17 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/</guid>
+				<description>Аналіз систем, у яких діалог існує формально, але не має здатності чути, сприймати чи відповідати.</description>
+			</item>
+			<item>
+				<title>02-02 ПісляТрагедії. Система без Імунітету</title>
+				<link>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</link>
+				<pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</guid>
+				<description>Діагноз інституційної проникності, за якої зло не зустрічає опору, оскільки сама архітектура перестала розрізняти захист і загрозу.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Proposito on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/proposito/</link>
+		<description>Recent content in Proposito on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 07 Jun 2026 17:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/proposito/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>036 Polo do Propósito</title>
+				<link>http://localhost:1313/pt/docs/the-majestic-discipline/036-pole-of-purpose/</link>
+				<pubDate>Sun, 07 Jun 2026 17:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/the-majestic-discipline/036-pole-of-purpose/</guid>
+				<description>Depois de atravessar o planeta de polo a polo, a andorinha-do-mar-ártica alcança o seu destino. Polo do Propósito explora conclusão, integração e a disciplina de cumprir uma longa jornada sem perder a direção.</description>
+			</item>
+	</channel>
+</rss>

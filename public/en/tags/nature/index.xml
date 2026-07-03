@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nature on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/nature/</link>
+		<description>Recent content in Nature on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Jan 2026 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/nature/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>001 Invisible to Threats</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/001-invisible-to-threats/</link>
+				<pubDate>Sun, 01 Jun 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/001-invisible-to-threats/</guid>
+				<description>Peace begins where childhood and wildlife are protected from harm. This article explores the idea that the most vulnerable should remain invisible to threats.</description>
+			</item>
+			<item>
+				<title>002 Nature Has the Right to Live</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/002-nature-has-the-right-to-live/</link>
+				<pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/002-nature-has-the-right-to-live/</guid>
+				<description>Nature is not a battlefield. This article explores the idea that forests and wildlife deserve protection, continuity, and the freedom to flourish without destruction.</description>
+			</item>
+			<item>
+				<title>005 The Right to Learn to Fly</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/005-the-right-to-learn-to-fly/</link>
+				<pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/005-the-right-to-learn-to-fly/</guid>
+				<description>Young birds learn to fly through practice, uncertainty, and courage. This article explores the universal right to learn, fail safely, and discover one&amp;rsquo;s own wings.</description>
+			</item>
+			<item>
+				<title>008 The Right to Ripen</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/008-the-right-to-ripen/</link>
+				<pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/008-the-right-to-ripen/</guid>
+				<description>Fields do not hurry. Seasons do not compete. This article explores the idea that life deserves the time and safety needed to reach maturity.</description>
+			</item>
+			<item>
+				<title>012 Autumn Reserve</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/012-autumn-reserve/</link>
+				<pubDate>Mon, 01 Sep 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/012-autumn-reserve/</guid>
+				<description>A squirrel gathers acorns, nature slows its pace, and the season reminds us that preparation is an act of care rather than fear.</description>
+			</item>
+			<item>
+				<title>014 The Right to a Warm Autumn</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/014-the-right-to-a-warm-autumn/</link>
+				<pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/014-the-right-to-a-warm-autumn/</guid>
+				<description>Sunlight filters through autumn leaves, a rabbit rests among the grasses, and nature follows its own rhythm. This article explores the value of seasonal peace and natural continuity.</description>
+			</item>
+			<item>
+				<title>020 The Forest That Protects</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/020-the-forest-that-protects/</link>
+				<pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/020-the-forest-that-protects/</guid>
+				<description>Winter forests are not empty places but living communities of care. Every creature creates warmth, trust, and belonging within the greater harmony of nature.</description>
+			</item>
+			<item>
+				<title>024 Peace That Simply Is</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/024-peace-that-simpl-is/</link>
+				<pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/024-peace-that-simpl-is/</guid>
+				<description>The twenty-fourth work of the PeacefulLife series reflects on peace as a state of being. A bird eating from a hand or an animal resting close becomes a quiet indicator that trust, safety, and life remain intact.</description>
+			</item>
+			<item>
+				<title>⊙ The Majestic Discipline</title>
+				<link>http://localhost:1313/en/docs/the-majestic-discipline/</link>
+				<pubDate>Sat, 08 Mar 2025 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/the-majestic-discipline/</guid>
+				<description>An atlas of discipline built through observations of animals, birds, insects, and natural phenomena. Exploring navigation, endurance, adaptation, focus, cooperation, and purpose across individual, collective, and planetary scales.</description>
+			</item>
+			<item>
+				<title>🌱☀️ Peaceful Life</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/</link>
+				<pubDate>Sun, 01 Jun 2025 08:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/</guid>
+				<description>Peaceful Life is a long-term visual series dedicated to human rights, children&amp;rsquo;s rights, the rights of nature, and the everyday moments that make peace possible.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Animais on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/animais/</link>
+		<description>Recent content in Animais on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 17:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/animais/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>001 Invisíveis às Ameaças</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/001-invisible-to-threats/</link>
+				<pubDate>Sun, 01 Jun 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/001-invisible-to-threats/</guid>
+				<description>A paz começa quando a infância e a vida selvagem são protegidas. Este artigo explora a ideia de que os mais vulneráveis devem permanecer invisíveis às ameaças.</description>
+			</item>
+			<item>
+				<title>024 Paz Que Simplesmente É</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/024-peace-that-simpl-is/</link>
+				<pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/024-peace-that-simpl-is/</guid>
+				<description>A vigésima quarta obra da série Vida Pacífica reflete sobre a paz como um estado de existência. Um pássaro que come da mão ou um animal que repousa próximo torna-se um indicador silencioso de confiança, segurança e continuidade da vida.</description>
+			</item>
+			<item>
+				<title>027 Aqueles Que Esperam Juntos</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/027-those-who-wait-together/</link>
+				<pubDate>Sun, 01 Feb 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/027-those-who-wait-together/</guid>
+				<description>A vigésima sétima obra da série Vida Pacífica reflete sobre a pertença como forma de paz. Um cão a descansar junto à porta torna-se símbolo de continuidade, confiança e da vida partilhada que une os membros da família para além das espécies.</description>
+			</item>
+			<item>
+				<title>029 Um Lugar Seguro Mesmo na Noite Mais Barulhenta</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</link>
+				<pubDate>Wed, 03 Jun 2026 14:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</guid>
+				<description>Inspirado pelo resgate de uma jovem corça presa debaixo de um automóvel em Kyiv após uma noite de ataques, este ensaio explora a necessidade comum a todos os seres vivos de encontrar proteção, segurança e paz.</description>
+			</item>
+			<item>
+				<title>033 O Guardião Fiel</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/033-faithful-guardian/</link>
+				<pubDate>Wed, 01 Jul 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/033-faithful-guardian/</guid>
+				<description>Os verdadeiros guardiões não procuram reconhecimento. Simplesmente permanecem.</description>
+			</item>
+	</channel>
+</rss>

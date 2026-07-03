@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Metadados on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/metadados/</link>
+		<description>Recent content in Metadados on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/metadados/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>⊞ A Matriz de Movimento</title>
+				<link>http://localhost:1313/pt/docs/the-movement-matrix/</link>
+				<pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/the-movement-matrix/</guid>
+				<description>A Matriz de Movimento é uma estrutura viva para organizar e observar o crescimento de um arquivo multilingue de conhecimento. Liga a criação de conteúdos, os metadados estruturados, os processos de publicação, a indexação e a evolução do projeto a longo prazo.</description>
+			</item>
+			<item>
+				<title>⊞ Matriz de Conclusão do Site</title>
+				<link>http://localhost:1313/pt/docs/the-movement-matrix/site-completion-matrix/</link>
+				<pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/the-movement-matrix/site-completion-matrix/</guid>
+				<description>A Matriz de Conclusão do Site fornece uma visão estruturada do estado atual dos conteúdos publicados. Ajuda a identificar quais materiais estão concluídos, quais necessitam de trabalho adicional e quais aguardam publicação ou indexação.</description>
+			</item>
+	</channel>
+</rss>

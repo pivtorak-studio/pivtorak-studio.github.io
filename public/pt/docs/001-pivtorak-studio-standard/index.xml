@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>🏛️ Pivtorak Studio Standard on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/docs/001-pivtorak-studio-standard/</link>
+		<description>Recent content in 🏛️ Pivtorak Studio Standard on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/pt/docs/001-pivtorak-studio-standard/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>PSS-01: Dossier de Especialista Teológico</title>
+				<link>http://localhost:1313/pt/docs/001-pivtorak-studio-standard/pss-01-theological-expert-dossier/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/001-pivtorak-studio-standard/pss-01-theological-expert-dossier/</guid>
+				<description>&lt;h1 id=&#34;pss-01-padrão-de-dossier-pericial-teológico&#34;&gt;PSS-01: Padrão de Dossier Pericial Teológico&lt;a class=&#34;anchor&#34; href=&#34;#pss-01-padr%c3%a3o-de-dossier-pericial-teol%c3%b3gico&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Este padrão define a arquitetura para a criação de um documento analítico para objetos que requerem atribuição teológica e religiosa.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-módulos-obrigatórios-do-dossier&#34;&gt;🧩 Módulos Obrigatórios do Dossier:&lt;a class=&#34;anchor&#34; href=&#34;#-m%c3%b3dulos-obrigat%c3%b3rios-do-dossier&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bloco de Identificação&lt;/strong&gt;: Nomeação precisa, cronologia e contexto de origem.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Corpo Analítico&lt;/strong&gt;: Pesquisa de conteúdo através da lente do cânone e da tradição.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bloco Axiológico&lt;/strong&gt;: Determinação do valor do objeto para a cultura e o espírito contemporâneos.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Base de Evidências&lt;/strong&gt;: Lista de fontes, testemunhos e análises comparativas.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;-público-alvo&#34;&gt;🎓 Público-Alvo:&lt;a class=&#34;anchor&#34; href=&#34;#-p%c3%bablico-alvo&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Historiadores de Arte&lt;/strong&gt;: Como um roteiro para objetos sagrados complexos.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estudantes&lt;/strong&gt;: Como uma estrutura de referência para trabalhos académicos.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instituições&lt;/strong&gt;: Como garantia da profundidade da verificação do objeto.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;PSS-01: Dossier de Especialista Teológico. Pivtorak.Studio. 07.01.2026&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

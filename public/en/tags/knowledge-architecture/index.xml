@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Knowledge Architecture on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/knowledge-architecture/</link>
+		<description>Recent content in Knowledge Architecture on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 12 Apr 2026 11:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/knowledge-architecture/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>001 Independent Researcher Manifesto: The Architecture of Resonance</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance/</link>
+				<pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance/</guid>
+				<description>From observation to design, this manifesto introduces the Architecture of Resonance — a framework connecting research, art, strategy, academic inquiry, sovereignty, and the capitalization of non-obvious value.</description>
+			</item>
+			<item>
+				<title>002 Independent Researcher Manifesto: The Right to Structure</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/002-the-right-to-structure/</link>
+				<pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/002-the-right-to-structure/</guid>
+				<description>Moving beyond interpretation, this manifesto explores structure as invisible power, legitimacy without permission, protocol-centered value creation, and the architecture of sovereign systems.</description>
+			</item>
+			<item>
+				<title>003 Independent Researcher Manifesto: The Right to Creativity</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</link>
+				<pubDate>Sun, 12 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</guid>
+				<description>This manifesto establishes creativity as a research method capable of generating knowledge, testing hypotheses, and designing new realities beyond the limits of analytical language.</description>
+			</item>
+			<item>
+				<title>📃 Independent Researcher Manifesto</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/</link>
+				<pubDate>Wed, 18 Mar 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/</guid>
+				<description>This series presents the Independent Researcher Manifesto as an evolving structure. Each manifesto records a stage of development, refines the method, expands interpretation, and contributes to the RESONANCE_SYSTEM.</description>
+			</item>
+	</channel>
+</rss>

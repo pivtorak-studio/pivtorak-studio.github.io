@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Wellbeing on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/wellbeing/</link>
+		<description>Recent content in Wellbeing on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 01 Jul 2025 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/wellbeing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>006 Self-Care</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/006-self-care/</link>
+				<pubDate>Tue, 01 Jul 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/006-self-care/</guid>
+				<description>Sometimes the most meaningful action is to pause. This article explores self-care as a form of respect, renewal, and sustainable living.</description>
+			</item>
+	</channel>
+</rss>

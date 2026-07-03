@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Majestic Discipline on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/categories/the-majestic-discipline/</link>
+		<description>Recent content in The Majestic Discipline on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 07 Jun 2026 17:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/categories/the-majestic-discipline/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>034 Endless Day Horizon</title>
+				<link>http://localhost:1313/en/docs/the-majestic-discipline/034-endless-day-horizon/</link>
+				<pubDate>Sat, 06 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/the-majestic-discipline/034-endless-day-horizon/</guid>
+				<description>The Arctic Tern follows the light across hemispheres. Endless Day Horizon explores clarity, direction, and the discipline of seeing beyond immediate circumstances toward a planetary-scale mission.</description>
+			</item>
+			<item>
+				<title>035 Planetary Axis Transit</title>
+				<link>http://localhost:1313/en/docs/the-majestic-discipline/035-planetary-axis-transit/</link>
+				<pubDate>Sun, 07 Jun 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/the-majestic-discipline/035-planetary-axis-transit/</guid>
+				<description>Gliding between Earth&amp;rsquo;s poles, the Arctic Tern follows an invisible axis through the open ocean. Planetary Axis Transit explores endurance, precision, and the discipline of sustaining movement over time.</description>
+			</item>
+			<item>
+				<title>036 Pole of Purpose</title>
+				<link>http://localhost:1313/en/docs/the-majestic-discipline/036-pole-of-purpose/</link>
+				<pubDate>Sun, 07 Jun 2026 17:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/the-majestic-discipline/036-pole-of-purpose/</guid>
+				<description>Having crossed the planet from pole to pole, the Arctic Tern reaches its destination. Pole of Purpose explores completion, integration, and the discipline of fulfilling a long journey without losing direction.</description>
+			</item>
+	</channel>
+</rss>

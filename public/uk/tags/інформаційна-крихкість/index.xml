@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Інформаційна Крихкість on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B0-%D0%BA%D1%80%D0%B8%D1%85%D0%BA%D1%96%D1%81%D1%82%D1%8C/</link>
+		<description>Recent content in Інформаційна Крихкість on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Jan 2026 23:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B0-%D0%BA%D1%80%D0%B8%D1%85%D0%BA%D1%96%D1%81%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>04-03 Точка Вразливості. Інформаційна Крихкість</title>
+				<link>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-03-point-of-vulnerability-information-fragility/</link>
+				<pubDate>Thu, 22 Jan 2026 23:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-03-point-of-vulnerability-information-fragility/</guid>
+				<description>Ця робота діагностує інформаційну вразливість авторитарної влади. Пропаганда існує лише доти, доки реальність неможливо порівняти. Щойно люди отримують доступ до незалежних джерел правди, ідеологічний фасад починає руйнуватися.</description>
+			</item>
+	</channel>
+</rss>

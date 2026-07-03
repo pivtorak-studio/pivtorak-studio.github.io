@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Independent Research on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/independent-research/</link>
+		<description>Recent content in Independent Research on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jun 2026 17:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/independent-research/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>001 Independent Researcher Manifesto: The Architecture of Resonance</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance/</link>
+				<pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/001-the-architecture-of-resonance/</guid>
+				<description>From observation to design, this manifesto introduces the Architecture of Resonance — a framework connecting research, art, strategy, academic inquiry, sovereignty, and the capitalization of non-obvious value.</description>
+			</item>
+			<item>
+				<title>002 Independent Researcher Manifesto: The Right to Structure</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/002-the-right-to-structure/</link>
+				<pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/002-the-right-to-structure/</guid>
+				<description>Moving beyond interpretation, this manifesto explores structure as invisible power, legitimacy without permission, protocol-centered value creation, and the architecture of sovereign systems.</description>
+			</item>
+			<item>
+				<title>003 Independent Researcher Manifesto: The Right to Creativity</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</link>
+				<pubDate>Sun, 12 Apr 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/003-the-right-to-creativity/</guid>
+				<description>This manifesto establishes creativity as a research method capable of generating knowledge, testing hypotheses, and designing new realities beyond the limits of analytical language.</description>
+			</item>
+			<item>
+				<title>018 Scale Evolution. From Daily Work to Research Program</title>
+				<link>http://localhost:1313/en/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program/</guid>
+				<description>From one finished work per day to interconnected research systems: a study of how observation became design, design became narrative, narrative became research, and the unit of thought evolved from individual artworks to autonomous research programs.</description>
+			</item>
+			<item>
+				<title>📃 Independent Researcher Manifesto</title>
+				<link>http://localhost:1313/en/docs/independent-researcher-manifesto/</link>
+				<pubDate>Wed, 18 Mar 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/independent-researcher-manifesto/</guid>
+				<description>This series presents the Independent Researcher Manifesto as an evolving structure. Each manifesto records a stage of development, refines the method, expands interpretation, and contributes to the RESONANCE_SYSTEM.</description>
+			</item>
+			<item>
+				<title>⟡ Core Recalibration</title>
+				<link>http://localhost:1313/en/docs/core-recalibration/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/docs/core-recalibration/</guid>
+				<description>&lt;script type=&#34;application/ld+json&#34;&gt;&#xA;{&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xA;  &#34;@type&#34;: &#34;CollectionPage&#34;,&#xA;  &#34;inLanguage&#34;: &#34;en&#34;,&#xA;  &#34;name&#34;: &#34;Core Recalibration&#34;,&#xA;  &#34;headline&#34;: &#34;Core Recalibration&#34;,&#xA;  &#34;description&#34;: &#34;A living series exploring the transformation of inner architecture through rhythm, language, presence, digital autonomy, and cognitive sovereignty.&#34;,&#xA;  &#34;url&#34;: &#34;https://pivtorak.studio/en/core-recalibration/&#34;,&#xA;  &#34;image&#34;: &#34;https://pivtorak.studio/images/core-recalibration.webp&#34;,&#xA;  &#34;datePublished&#34;: &#34;2026-05-20T21:00:00+00:00&#34;,&#xA;  &#34;dateModified&#34;: &#34;2026-05-20T21:00:00+00:00&#34;,&#xA;  &#34;keywords&#34;: [&#xA;    &#34;Core Recalibration&#34;,&#xA;    &#34;cognitive sovereignty&#34;,&#xA;    &#34;digital autonomy&#34;,&#xA;    &#34;systems thinking&#34;,&#xA;    &#34;inner architecture&#34;,&#xA;    &#34;strategic thinking&#34;,&#xA;    &#34;Investigadora Independente&#34;&#xA;  ],&#xA;  &#34;isPartOf&#34;: {&#xA;    &#34;@type&#34;: &#34;WebSite&#34;,&#xA;    &#34;name&#34;: &#34;Pivtorak.Studio&#34;,&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio/&#34;&#xA;  },&#xA;  &#34;author&#34;: {&#xA;    &#34;@type&#34;: &#34;Person&#34;,&#xA;    &#34;name&#34;: &#34;Anna Pivtorak&#34;,&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio/&#34;&#xA;  },&#xA;  &#34;publisher&#34;: {&#xA;    &#34;@type&#34;: &#34;Organization&#34;,&#xA;    &#34;name&#34;: &#34;Pivtorak.Studio&#34;,&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio/&#34;,&#xA;    &#34;logo&#34;: {&#xA;      &#34;@type&#34;: &#34;ImageObject&#34;,&#xA;      &#34;url&#34;: &#34;https://pivtorak.studio/images/logo.png&#34;&#xA;    }&#xA;  },&#xA;  &#34;about&#34;: [&#xA;    {&#xA;      &#34;@type&#34;: &#34;Thing&#34;,&#xA;      &#34;name&#34;: &#34;Cognitive Sovereignty&#34;&#xA;    },&#xA;    {&#xA;      &#34;@type&#34;: &#34;Thing&#34;,&#xA;      &#34;name&#34;: &#34;Digital Autonomy&#34;&#xA;    },&#xA;    {&#xA;      &#34;@type&#34;: &#34;Thing&#34;,&#xA;      &#34;name&#34;: &#34;Structural Transformation&#34;&#xA;    }&#xA;  ]&#xA;}&#xA;&lt;/script&gt;&#xA;&lt;div class=&#34;float-right&#34;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/core-recalibration.webp&#34; alt=&#34;Core Recalibration&#34; /&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>✯ Extra Credit Problem (The Asterisk Problem)</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/</link>
+				<pubDate>Fri, 16 Jan 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/</guid>
+				<description>A multidisciplinary research framework examining countries and regions where freedom, human dignity, child protection, and individual agency face systemic challenges. Each case study maps the path from tragedy and diagnosis to recovery, subjectivity, and civilizational renewal.</description>
+			</item>
+	</channel>
+</rss>

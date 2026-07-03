@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Турбота on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D1%82%D1%83%D1%80%D0%B1%D0%BE%D1%82%D0%B0/</link>
+		<description>Recent content in Турбота on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 17:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D1%82%D1%83%D1%80%D0%B1%D0%BE%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>017 Тепло, Що Повертається</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/017-warmth-that-returns/</link>
+				<pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/017-warmth-that-returns/</guid>
+				<description>Справжнє тепло народжується з турботи, довіри та тихої присутності поруч. Те, що ми щиро віддаємо іншим, часто повертається тоді, коли найбільше потрібне.</description>
+			</item>
+			<item>
+				<title>020 Ліс, Що Оберігає</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/020-the-forest-that-protects/</link>
+				<pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/020-the-forest-that-protects/</guid>
+				<description>Зимовий ліс — не порожній простір, а жива спільнота турботи. Кожна істота створює тепло, довіру та відчуття належності в гармонії природи.</description>
+			</item>
+			<item>
+				<title>031 Брат-Супергерой</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/031-brother-superhero/</link>
+				<pubDate>Wed, 01 Jul 2026 15:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/031-brother-superhero/</guid>
+				<description>Справжня сила полягає не в боротьбі, а в здатності захищати.</description>
+			</item>
+			<item>
+				<title>033 Вірний страж</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/033-faithful-guardian/</link>
+				<pubDate>Wed, 01 Jul 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/033-faithful-guardian/</guid>
+				<description>Справжні захисники не потребують визнання. Вони просто залишаються поруч.</description>
+			</item>
+	</channel>
+</rss>

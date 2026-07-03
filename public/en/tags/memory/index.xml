@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Memory on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/memory/</link>
+		<description>Recent content in Memory on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 02 Jun 2026 21:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>016 Memory. Simple Food</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/016-memory-simple-food/</link>
+				<pubDate>Sat, 01 Nov 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/016-memory-simple-food/</guid>
+				<description>A reflection on simple food as an act of memory, gratitude, and human connection. Bread, water, and light remind us that peace often begins with the simplest things.</description>
+			</item>
+			<item>
+				<title>018 Light That Never Fades</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/018-light-that-never-fades/</link>
+				<pubDate>Sat, 01 Nov 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/018-light-that-never-fades/</guid>
+				<description>Some forms of light never disappear. They continue to live in memory, kindness, forgiveness, and the enduring presence of love.</description>
+			</item>
+			<item>
+				<title>07-01 Revival of Identity. Call of the Ancestors (Faravahar)</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-01-revival-of-identity-call-of-the-ancestors-faravahar/</link>
+				<pubDate>Mon, 26 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-01-revival-of-identity-call-of-the-ancestors-faravahar/</guid>
+				<description>A civilizational transition where the Faravahar becomes a compass for restoring identity, dignity, and historical continuity beyond the collapse of authoritarian power.</description>
+			</item>
+			<item>
+				<title>022 Peace Drawn by Hands</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/022-peace-drawn-by-hands/</link>
+				<pubDate>Thu, 01 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/022-peace-drawn-by-hands/</guid>
+				<description>The twenty-second work of the PeacefulLife series reflects on peace as a lived reality. A child drawing the sun and the word “Peace” becomes a symbol of everyday acts that sustain life even in times of uncertainty.</description>
+			</item>
+			<item>
+				<title>028 The Right Not to Listen to an Anthem of Aggression</title>
+				<link>http://localhost:1313/en/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/</link>
+				<pubDate>Tue, 02 Jun 2026 21:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/</guid>
+				<description>Inspired by the actions of Ukrainian rhythmic gymnasts during the 2026 European Championships, this essay explores the human right to preserve an inner space free from symbols associated with violence, loss, and aggression.</description>
+			</item>
+	</channel>
+</rss>

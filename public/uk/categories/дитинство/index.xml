@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Дитинство on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/categories/%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE/</link>
+		<description>Recent content in Дитинство on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Feb 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/categories/%D0%B4%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>019 Тиха Радість Дитинства</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/019-quiet-joy-of-childhood/</link>
+				<pubDate>Tue, 02 Dec 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/019-quiet-joy-of-childhood/</guid>
+				<description>Дитинству не потрібні гучні свята, щоб бути щасливим. Тихі миті тепла, снігу, світла і захищеності часто стають найяскравішими спогадами життя.</description>
+			</item>
+			<item>
+				<title>026 Право Залишатися Дитиною</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/026-the-right-to-remain-a-child/</link>
+				<pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/026-the-right-to-remain-a-child/</guid>
+				<description>Двадцять шоста робота серії «Мирне Життя» розмірковує про дитинство як про захищений стан буття. Дитина, яка мирно спить у власному ліжку, стає символом безпеки, безперервності та права рости без адаптації до втрати.</description>
+			</item>
+	</channel>
+</rss>

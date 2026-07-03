@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Кібернетика on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/categories/%D0%BA%D1%96%D0%B1%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0/</link>
+		<description>Recent content in Кібернетика on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jun 2026 11:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/categories/%D0%BA%D1%96%D0%B1%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>012 Архітектура Смислових Середовищ. Вітрувіанська тріада суверенного мислення</title>
+				<link>http://localhost:1313/uk/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/</link>
+				<pubDate>Sun, 31 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/uk/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/</guid>
+				<description>Будівництво створює об&amp;rsquo;єкти. Архітектура проєктує середовища, у яких ці об&amp;rsquo;єкти стають можливими. Стаття представляє архітектуру смислових середовищ як дисципліну суверенного системного мислення.</description>
+			</item>
+			<item>
+				<title>014 Перекалібровка Дефіцитарності. не Нестача, а Системна Недозавантаженість Потенціалу</title>
+				<link>http://localhost:1313/uk/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/uk/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/</guid>
+				<description>Дослідження CoreRecalibration, що вводить Принцип Узгодженості Масштабів, Фізику Стримування та Фізику Суверенності для пояснення екзистенційного тиску за умов зовнішнього благополуччя.</description>
+			</item>
+			<item>
+				<title>016 Керування Межею Достатності. Максимум — не Оптимум</title>
+				<link>http://localhost:1313/uk/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/</link>
+				<pubDate>Fri, 26 Jun 2026 11:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/uk/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/</guid>
+				<description>Шістнадцяте Перекалібрування Ядра представляє Принцип Оптимального Завантаження та Керування Межею Достатності. Спираючись на досвід іконописної майстерні, математичну оптимізацію, кібернетику та архітектуру знань, стаття показує, що справжня майстерність полягає не в нескінченному вдосконаленні, а у здатності вчасно сказати: «Готово!».</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Dignidade on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/dignidade/</link>
+		<description>Recent content in Dignidade on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2026 10:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/dignidade/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>006 Manifesto da Investigadora Independente: O Direito ao Resultado Humano</title>
+				<link>http://localhost:1313/pt/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes/</link>
+				<pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes/</guid>
+				<description>Sistemas, modelos e instituições são instrumentos de navegação. O seu valor é determinado pela sua capacidade de ajudar as pessoas a viver, amar, criar, regressar a casa e construir o futuro.</description>
+			</item>
+			<item>
+				<title>028 O Direito de Não Ouvir um Hino de Agressão</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/</link>
+				<pubDate>Tue, 02 Jun 2026 21:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/</guid>
+				<description>Inspirado pelo gesto das ginastas ucranianas durante o Campeonato da Europa de 2026, este ensaio explora o direito humano de preservar um espaço interior livre de símbolos associados à violência, à perda e à agressão.</description>
+			</item>
+			<item>
+				<title>030 Uma Canção Mais Forte do Que o Ruído</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/030-a-song-stronger-than-noise/</link>
+				<pubDate>Wed, 03 Jun 2026 20:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/030-a-song-stronger-than-noise/</guid>
+				<description>Inspirado pela experiência quotidiana de muitos ucranianos que recorrem à música, às vozes familiares e aos sons da vida para preservar o equilíbrio interior durante os alertas aéreos, este ensaio explora a forma como a paz pode sobreviver mesmo quando o mundo se torna insuportavelmente ruidoso.</description>
+			</item>
+			<item>
+				<title>09-03 Pérsia 2.0: Dimensão Global. O Humano-Sujeito (Cidadão do Mundo com Coração Persa)</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-03-global-dimension-human-as-subject/</link>
+				<pubDate>Sat, 31 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-03-global-dimension-human-as-subject/</guid>
+				<description>A Pérsia estabelece a Human-Centricidade como doutrina civilizacional. O Estado torna-se uma infraestrutura ao serviço do potencial humano e cada pessoa recupera a sua agência.</description>
+			</item>
+			<item>
+				<title>✯ Desafio De Nível Superior (Problema com Estrela)</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/</link>
+				<pubDate>Fri, 16 Jan 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/</guid>
+				<description>Uma estrutura de investigação multidisciplinar que analisa países e regiões onde a liberdade, a dignidade humana, a proteção das crianças e a autonomia individual enfrentam desafios sistémicos. Cada estudo de caso mapeia o percurso entre tragédia, diagnóstico, recuperação e renovação civilizacional.</description>
+			</item>
+	</channel>
+</rss>

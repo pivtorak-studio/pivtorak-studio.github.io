@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Санкції on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D1%81%D0%B0%D0%BD%D0%BA%D1%86%D1%96%D1%97/</link>
+		<description>Recent content in Санкції on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Jan 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D1%81%D0%B0%D0%BD%D0%BA%D1%86%D1%96%D1%97/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>03-02 Діагноз Системи. Залежність від Ресурсів</title>
+				<link>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-02-system-diagnosis-resource-dependence/</link>
+				<pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/03-02-system-diagnosis-resource-dependence/</guid>
+				<description>Робота діагностує паразитичну архітектуру тиранії, показуючи, як видобування ресурсів, примус і залежність від зовнішніх потоків стають основними умовами виживання режиму.</description>
+			</item>
+	</channel>
+</rss>

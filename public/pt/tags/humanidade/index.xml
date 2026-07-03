@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Humanidade on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/humanidade/</link>
+		<description>Recent content in Humanidade on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 03 Jun 2026 20:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/humanidade/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>016 Memória. Comida Simples</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/016-memory-simple-food/</link>
+				<pubDate>Sat, 01 Nov 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/016-memory-simple-food/</guid>
+				<description>Uma reflexão sobre a comida simples como ato de memória, gratidão e ligação humana. O pão, a água e a luz recordam-nos que a paz começa muitas vezes nas coisas mais simples.</description>
+			</item>
+			<item>
+				<title>017 O Calor Que Retorna</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/017-warmth-that-returns/</link>
+				<pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/017-warmth-that-returns/</guid>
+				<description>O verdadeiro calor nasce do cuidado, da confiança e da companhia silenciosa. Aquilo que oferecemos aos outros com sinceridade regressa muitas vezes quando mais precisamos.</description>
+			</item>
+			<item>
+				<title>024 Paz Que Simplesmente É</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/024-peace-that-simpl-is/</link>
+				<pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/024-peace-that-simpl-is/</guid>
+				<description>A vigésima quarta obra da série Vida Pacífica reflete sobre a paz como um estado de existência. Um pássaro que come da mão ou um animal que repousa próximo torna-se um indicador silencioso de confiança, segurança e continuidade da vida.</description>
+			</item>
+			<item>
+				<title>028 O Direito de Não Ouvir um Hino de Agressão</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/</link>
+				<pubDate>Tue, 02 Jun 2026 21:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/</guid>
+				<description>Inspirado pelo gesto das ginastas ucranianas durante o Campeonato da Europa de 2026, este ensaio explora o direito humano de preservar um espaço interior livre de símbolos associados à violência, à perda e à agressão.</description>
+			</item>
+			<item>
+				<title>029 Um Lugar Seguro Mesmo na Noite Mais Barulhenta</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</link>
+				<pubDate>Wed, 03 Jun 2026 14:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/029-a-safe-place-even-in-the-loudest-night/</guid>
+				<description>Inspirado pelo resgate de uma jovem corça presa debaixo de um automóvel em Kyiv após uma noite de ataques, este ensaio explora a necessidade comum a todos os seres vivos de encontrar proteção, segurança e paz.</description>
+			</item>
+			<item>
+				<title>030 Uma Canção Mais Forte do Que o Ruído</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/030-a-song-stronger-than-noise/</link>
+				<pubDate>Wed, 03 Jun 2026 20:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/030-a-song-stronger-than-noise/</guid>
+				<description>Inspirado pela experiência quotidiana de muitos ucranianos que recorrem à música, às vozes familiares e aos sons da vida para preservar o equilíbrio interior durante os alertas aéreos, este ensaio explora a forma como a paz pode sobreviver mesmo quando o mundo se torna insuportavelmente ruidoso.</description>
+			</item>
+	</channel>
+</rss>

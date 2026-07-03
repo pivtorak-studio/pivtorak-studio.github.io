@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Proteção on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/prote%C3%A7%C3%A3o/</link>
+		<description>Recent content in Proteção on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 17:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/prote%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>001 Invisíveis às Ameaças</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/001-invisible-to-threats/</link>
+				<pubDate>Sun, 01 Jun 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/001-invisible-to-threats/</guid>
+				<description>A paz começa quando a infância e a vida selvagem são protegidas. Este artigo explora a ideia de que os mais vulneráveis devem permanecer invisíveis às ameaças.</description>
+			</item>
+			<item>
+				<title>002 A Natureza Tem Direito à Vida</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/002-nature-has-the-right-to-live/</link>
+				<pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/002-nature-has-the-right-to-live/</guid>
+				<description>A natureza não é um campo de batalha. Este artigo explora a ideia de que as florestas e a vida selvagem merecem proteção, continuidade e liberdade para florescer.</description>
+			</item>
+			<item>
+				<title>015 Resiliência. Proteção Inabalável</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/015-resilience-unshakable-protection/</link>
+				<pubDate>Mon, 13 Oct 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/015-resilience-unshakable-protection/</guid>
+				<description>Raízes profundas, um lar protegido e a confiança para resistir ao vento. Este artigo explora a resiliência como uma força que protege famílias, comunidades e uma vida pacífica.</description>
+			</item>
+			<item>
+				<title>026 O Direito de Continuar Criança</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/026-the-right-to-remain-a-child/</link>
+				<pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/026-the-right-to-remain-a-child/</guid>
+				<description>A vigésima sexta obra da série Vida Pacífica reflete sobre a infância como um estado protegido de existência. Uma criança a dormir tranquilamente na sua própria cama torna-se símbolo de segurança, continuidade e do direito de crescer sem se adaptar à perda.</description>
+			</item>
+			<item>
+				<title>031 O Irmão Super-Herói</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/031-brother-superhero/</link>
+				<pubDate>Wed, 01 Jul 2026 15:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/031-brother-superhero/</guid>
+				<description>A verdadeira força revela-se quando protege sem intimidar.</description>
+			</item>
+			<item>
+				<title>033 O Guardião Fiel</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/033-faithful-guardian/</link>
+				<pubDate>Wed, 01 Jul 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/033-faithful-guardian/</guid>
+				<description>Os verdadeiros guardiões não procuram reconhecimento. Simplesmente permanecem.</description>
+			</item>
+	</channel>
+</rss>

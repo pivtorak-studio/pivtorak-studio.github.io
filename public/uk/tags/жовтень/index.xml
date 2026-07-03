@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Жовтень on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D0%B6%D0%BE%D0%B2%D1%82%D0%B5%D0%BD%D1%8C/</link>
+		<description>Recent content in Жовтень on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 Oct 2025 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D0%B6%D0%BE%D0%B2%D1%82%D0%B5%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>013 Дитинство має бути теплим</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/013-childhood-must-be-warm/</link>
+				<pubDate>Mon, 13 Oct 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/013-childhood-must-be-warm/</guid>
+				<description>Теплий дім, цікава книга, домашня тварина поруч і відчуття захищеності. Ця стаття досліджує право кожної дитини зростати в атмосфері турботи та безпеки.</description>
+			</item>
+			<item>
+				<title>014 Право на теплу осінь</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/014-the-right-to-a-warm-autumn/</link>
+				<pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/014-the-right-to-a-warm-autumn/</guid>
+				<description>Сонячне світло проходить крізь осіннє листя, зайчик відпочиває серед трави, а природа слідує власному ритму. Ця стаття досліджує цінність сезонного спокою.</description>
+			</item>
+			<item>
+				<title>015 Стійкість. Непохитний захист</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/015-resilience-unshakable-protection/</link>
+				<pubDate>Mon, 13 Oct 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/015-resilience-unshakable-protection/</guid>
+				<description>Глибоке коріння, захищений дім і впевненість перед вітром. Ця стаття досліджує стійкість як силу, що оберігає родини, спільноти та мирне життя.</description>
+			</item>
+	</channel>
+</rss>

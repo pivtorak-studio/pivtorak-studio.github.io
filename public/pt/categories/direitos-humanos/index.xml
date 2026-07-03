@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Direitos Humanos on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/categories/direitos-humanos/</link>
+		<description>Recent content in Direitos Humanos on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Jun 2026 21:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/categories/direitos-humanos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>002 Afeganistão. Subjectividade Roubada</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/</link>
+				<pubDate>Mon, 22 Jun 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/</guid>
+				<description>O Afeganistão tornou-se o segundo caso civilizacional do projecto The Asterisk Problem. Esta investigação estuda os mecanismos que permitem às sociedades perder a capacidade de proteger as suas próprias crianças, destruir as instituições de responsabilidade e transformar seres humanos em recursos de sobrevivência.</description>
+			</item>
+			<item>
+				<title>🌱☀️ Vida Pacífica</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/</link>
+				<pubDate>Sun, 01 Jun 2025 08:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/</guid>
+				<description>Vida Pacífica é uma série visual de longo prazo sobre direitos humanos, direitos das crianças, direitos da natureza e os momentos quotidianos que tornam a paz possível.</description>
+			</item>
+			<item>
+				<title>✯ Desafio De Nível Superior (Problema com Estrela)</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/</link>
+				<pubDate>Fri, 16 Jan 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/</guid>
+				<description>Uma estrutura de investigação multidisciplinar que analisa países e regiões onde a liberdade, a dignidade humana, a proteção das crianças e a autonomia individual enfrentam desafios sistémicos. Cada estudo de caso mapeia o percurso entre tragédia, diagnóstico, recuperação e renovação civilizacional.</description>
+			</item>
+	</channel>
+</rss>

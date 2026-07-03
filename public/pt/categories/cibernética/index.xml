@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cibernética on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/categories/cibern%C3%A9tica/</link>
+		<description>Recent content in Cibernética on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jun 2026 11:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/categories/cibern%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>012 A Arquitetura dos Ambientes de Sentido. A Tríade Vitruviana do Pensamento Soberano</title>
+				<link>http://localhost:1313/pt/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/</link>
+				<pubDate>Sun, 31 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/</guid>
+				<description>A construção cria objetos. A arquitetura projeta os ambientes onde esses objetos se tornam possíveis. Este artigo apresenta a arquitetura dos ambientes de sentido como uma disciplina de pensamento sistémico soberano.</description>
+			</item>
+			<item>
+				<title>014 Recalibração da Deficiência. Não Escassez, mas Subcarregamento Sistémico do Potencial</title>
+				<link>http://localhost:1313/pt/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/</guid>
+				<description>Um estudo CoreRecalibration que introduz o Princípio da Congruência de Escala, a Física da Contenção e a Física da Soberania para explicar a pressão existencial em condições de bem-estar externo.</description>
+			</item>
+			<item>
+				<title>016 Gestão do Limite de Suficiência. O Máximo não é o Óptimo</title>
+				<link>http://localhost:1313/pt/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/</link>
+				<pubDate>Fri, 26 Jun 2026 11:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/</guid>
+				<description>A décima sexta Recalibração do Núcleo apresenta o Princípio da Carga Óptima e a Gestão do Limite de Suficiência. A partir da iconografia, da optimização matemática, da cibernética e da arquitectura do conhecimento, demonstra que a verdadeira mestria consiste em reconhecer o momento exacto em que concluir uma obra se torna um acto de soberania.</description>
+			</item>
+	</channel>
+</rss>

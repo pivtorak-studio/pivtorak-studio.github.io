@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CivilNetworks on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/civilnetworks/</link>
+		<description>Recent content in CivilNetworks on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 23 Jan 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/civilnetworks/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>05-02 Protest Environment. Parallel Structures</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-02-protest-environment-parallel-structures/</link>
+				<pubDate>Fri, 23 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-02-protest-environment-parallel-structures/</guid>
+				<description>This work explores how communities create autonomous networks of support, education, and mutual aid inside authoritarian environments. It examines parallel structures as living infrastructures that bypass control and become the foundation of future civic sovereignty.</description>
+			</item>
+	</channel>
+</rss>

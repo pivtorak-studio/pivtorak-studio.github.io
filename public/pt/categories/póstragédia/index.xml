@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>PósTragédia on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/categories/p%C3%B3strag%C3%A9dia/</link>
+		<description>Recent content in PósTragédia on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 19 Jan 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/categories/p%C3%B3strag%C3%A9dia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>02-01 Pós-Tragédia. Deslegitimação</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation/</link>
+				<pubDate>Sun, 18 Jan 2026 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-01-after-tragedy-delegitimation/</guid>
+				<description>Estudo de como uma governação criminosa se disfarça de administração legítima e de como a legitimidade é desmontada através da nomeação correta.</description>
+			</item>
+			<item>
+				<title>02-02 Pós-Tragédia. Sistema sem Imunidade</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</link>
+				<pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/02-02-after-tragedy-system-without-immunity/</guid>
+				<description>Um diagnóstico da permeabilidade institucional, onde a violência não encontra resistência porque a própria arquitetura deixou de distinguir proteção de ameaça.</description>
+			</item>
+	</channel>
+</rss>

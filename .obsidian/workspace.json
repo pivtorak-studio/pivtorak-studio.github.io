@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/uk/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
+                "file": "content/uk/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "018-2026-scale-evolution-from-daily-work-to-research-program"
+              "title": "017-2026-production-discipline-from-cognitive-completion-to-product-autonomy"
             }
           }
         ]
@@ -185,6 +185,18 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
+    "public/pt/tags/vida-selvagem/index.html",
+    "public/pt/tags/vida-selvagem",
+    "public/pt/tags/vulnerabilidade-sistémica/page/1/index.html",
+    "public/pt/tags/vulnerabilidade-sistémica/page/1",
+    "public/pt/tags/vulnerabilidade-sistémica/page",
+    "public/pt/tags/vidaquotidiana/page/1/index.html",
+    "public/pt/tags/vidaquotidiana/page/1",
+    "public/pt/tags/vidaquotidiana/page",
+    "public/pt/tags/água/index.html",
+    "public/pt/tags/água",
+    "public/pt/tags/visualização-de-progresso/page/1/index.html",
+    "content/uk/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program.md",
     "content/uk/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
     "content/uk/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
     "content/uk/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.md",
@@ -209,8 +221,6 @@
     "content/ru/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.md",
     "content/ru/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.md",
     "content/ru/docs/core-recalibration/010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.md",
-    "content/ru/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.md",
-    "content/ru/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.md",
     "public/images/shield-012.webp",
     "public/images/shield-011.webp",
     "public/images/shield-010.webp",
@@ -220,16 +230,6 @@
     "public/images/shield-006.webp",
     "public/images/shield-005.webp",
     "public/images/shield-004.webp",
-    "public/images/shield-003.webp",
-    "public/_redirects",
-    "public/icons",
-    "public/asciinema/asciinema-player.min.js",
-    "public/asciinema/asciinema-player.css",
-    "public/asciinema/asciinema-auto.js",
-    "public/asciinema",
-    "public/library/articles/anna-pivtorak-context-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026-uk.pdf",
-    "public/library/articles/anna-pivtorak-context-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026-ru.pdf",
-    "public/library/articles/anna-pivtorak-context-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026-pt.pdf",
-    "public/library/expertise/theology-canonization-stus-uk.pdf"
+    "public/images/shield-003.webp"
   ]
 }

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Навчання on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F/</link>
+		<description>Recent content in Навчання on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Sep 2025 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>005 Право вчитися літати</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/005-the-right-to-learn-to-fly/</link>
+				<pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/005-the-right-to-learn-to-fly/</guid>
+				<description>Молоді птахи вчаться літати через практику, невпевненість і сміливість. Ця стаття досліджує універсальне право вчитися, безпечно помилятися та відкривати власні крила.</description>
+			</item>
+			<item>
+				<title>007 Підготовка до школи</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/007-back-to-school-preparations/</link>
+				<pubDate>Fri, 01 Aug 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/007-back-to-school-preparations/</guid>
+				<description>Нові зошити, рюкзаки та шкільне приладдя — це більше, ніж речі. Це символ стабільності, можливостей і права дитини навчатися в мирі.</description>
+			</item>
+			<item>
+				<title>010 Початок шкільного року</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/010-back-to-school/</link>
+				<pubDate>Mon, 01 Sep 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/010-back-to-school/</guid>
+				<description>Рюкзаки зібрані, дорога знайома, попереду чекають нові відкриття. Ця стаття досліджує цінність освіти та радість початку нового навчального року в мирі.</description>
+			</item>
+			<item>
+				<title>011 Включення в ритм</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/011-getting-into-rhythm/</link>
+				<pubDate>Mon, 01 Sep 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/011-getting-into-rhythm/</guid>
+				<description>Чистий робочий стіл, ранкова кава, блокнот і новий проєкт. Ця стаття досліджує цінність осмисленої праці та мирного повернення до продуктивного ритму.</description>
+			</item>
+	</channel>
+</rss>

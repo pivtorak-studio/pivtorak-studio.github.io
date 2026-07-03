@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Тепло on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D1%82%D0%B5%D0%BF%D0%BB%D0%BE/</link>
+		<description>Recent content in Тепло on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 02 Dec 2025 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D1%82%D0%B5%D0%BF%D0%BB%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>013 Дитинство має бути теплим</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/013-childhood-must-be-warm/</link>
+				<pubDate>Mon, 13 Oct 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/013-childhood-must-be-warm/</guid>
+				<description>Теплий дім, цікава книга, домашня тварина поруч і відчуття захищеності. Ця стаття досліджує право кожної дитини зростати в атмосфері турботи та безпеки.</description>
+			</item>
+			<item>
+				<title>017 Тепло, Що Повертається</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/017-warmth-that-returns/</link>
+				<pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/017-warmth-that-returns/</guid>
+				<description>Справжнє тепло народжується з турботи, довіри та тихої присутності поруч. Те, що ми щиро віддаємо іншим, часто повертається тоді, коли найбільше потрібне.</description>
+			</item>
+			<item>
+				<title>019 Тиха Радість Дитинства</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/019-quiet-joy-of-childhood/</link>
+				<pubDate>Tue, 02 Dec 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/019-quiet-joy-of-childhood/</guid>
+				<description>Дитинству не потрібні гучні свята, щоб бути щасливим. Тихі миті тепла, снігу, світла і захищеності часто стають найяскравішими спогадами життя.</description>
+			</item>
+			<item>
+				<title>020 Ліс, Що Оберігає</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/020-the-forest-that-protects/</link>
+				<pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/020-the-forest-that-protects/</guid>
+				<description>Зимовий ліс — не порожній простір, а жива спільнота турботи. Кожна істота створює тепло, довіру та відчуття належності в гармонії природи.</description>
+			</item>
+			<item>
+				<title>021 Домівка, Де Живе Спокій</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/021-home-where-peace-lives/</link>
+				<pubDate>Tue, 02 Dec 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/021-home-where-peace-lives/</guid>
+				<description>Спокій не потрібно шукати далеко. Він народжується у щоденних ритуалах, теплому світлі, спільних моментах і простому відчутті дому.</description>
+			</item>
+	</channel>
+</rss>

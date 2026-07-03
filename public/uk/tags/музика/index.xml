@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Музика on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D0%B0/</link>
+		<description>Recent content in Музика on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 03 Jun 2026 20:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>030 Пісня, Що Сильніша За Шум</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/030-a-song-stronger-than-noise/</link>
+				<pubDate>Wed, 03 Jun 2026 20:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/030-a-song-stronger-than-noise/</guid>
+				<description>Натхненне повсякденним досвідом українців, які використовують музику, знайомі голоси та звуки життя для збереження внутрішньої рівноваги під час повітряних тривог, це есе досліджує здатність миру виживати навіть тоді, коли навколишній світ стає нестерпно гучним.</description>
+			</item>
+	</channel>
+</rss>

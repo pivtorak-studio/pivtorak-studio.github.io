@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DadosEstruturados on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/dadosestruturados/</link>
+		<description>Recent content in DadosEstruturados on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 10:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/dadosestruturados/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>⊞ A Matriz de Movimento</title>
+				<link>http://localhost:1313/pt/docs/the-movement-matrix/</link>
+				<pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/the-movement-matrix/</guid>
+				<description>A Matriz de Movimento é uma estrutura viva para organizar e observar o crescimento de um arquivo multilingue de conhecimento. Liga a criação de conteúdos, os metadados estruturados, os processos de publicação, a indexação e a evolução do projeto a longo prazo.</description>
+			</item>
+	</channel>
+</rss>

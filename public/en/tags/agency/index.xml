@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Agency on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/agency/</link>
+		<description>Recent content in Agency on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Jan 2026 13:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/agency/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>09-03 Persia 2.0: Global Dimension. The Human Subject (Citizen of the World with a Persian Heart)</title>
+				<link>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-03-global-dimension-human-as-subject/</link>
+				<pubDate>Sat, 31 Jan 2026 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-03-global-dimension-human-as-subject/</guid>
+				<description>Persia establishes Human-Centricity as a civilizational doctrine. The state becomes infrastructure that serves human potential, while every individual regains agency as a citizen of the world with a Persian heart.</description>
+			</item>
+	</channel>
+</rss>

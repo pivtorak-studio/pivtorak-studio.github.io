@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>TempoSolar on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/temposolar/</link>
+		<description>Recent content in TempoSolar on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Jan 2026 21:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/temposolar/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>07-04 Renascimento da Identidade. O Regresso do Tempo</title>
+				<link>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-04-revival-of-identity-return-of-time/</link>
+				<pubDate>Tue, 27 Jan 2026 21:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/07-04-revival-of-identity-return-of-time/</guid>
+				<description>Uma restauração civilizacional em que a nação se reconecta com milénios em vez de décadas, transformando a amnésia histórica em soberania temporal.</description>
+			</item>
+	</channel>
+</rss>

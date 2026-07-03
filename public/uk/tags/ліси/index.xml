@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ліси on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D0%BB%D1%96%D1%81%D0%B8/</link>
+		<description>Recent content in Ліси on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Jun 2025 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D0%BB%D1%96%D1%81%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>002 Природа має право жити</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/002-nature-has-the-right-to-live/</link>
+				<pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/002-nature-has-the-right-to-live/</guid>
+				<description>Природа — не поле бою. Ця стаття досліджує ідею того, що ліси й дика природа заслуговують на захист, збереження та можливість жити без руйнування.</description>
+			</item>
+	</channel>
+</rss>

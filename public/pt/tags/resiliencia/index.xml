@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Resiliencia on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/resiliencia/</link>
+		<description>Recent content in Resiliencia on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 03 Jun 2026 20:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/resiliencia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>030 Uma Canção Mais Forte do Que o Ruído</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/030-a-song-stronger-than-noise/</link>
+				<pubDate>Wed, 03 Jun 2026 20:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/030-a-song-stronger-than-noise/</guid>
+				<description>Inspirado pela experiência quotidiana de muitos ucranianos que recorrem à música, às vozes familiares e aos sons da vida para preservar o equilíbrio interior durante os alertas aéreos, este ensaio explora a forma como a paz pode sobreviver mesmo quando o mundo se torna insuportavelmente ruidoso.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>InnerLaunch on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/innerlaunch/</link>
+		<description>Recent content in InnerLaunch on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/uk/tags/innerlaunch/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>001 Перезавантаження Системи</title>
+				<link>http://localhost:1313/uk/docs/core-recalibration/001-2025-system-reboot/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/core-recalibration/001-2025-system-reboot/</guid>
+				<description>&lt;script type=&#34;application/ld+json&#34;&gt;&#xA;{&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xA;  &#34;@type&#34;: &#34;CreativeWork&#34;,&#xA;  &#34;headline&#34;: &#34;Перезавантаження Системи&#34;,&#xA;  &#34;name&#34;: &#34;Перезавантаження Системи&#34;,&#xA;  &#34;description&#34;: &#34;Момент тихого внутрішнього запуску, коли система вже працює, а присутність не потребує оголошень.&#34;,&#xA;  &#34;inLanguage&#34;: &#34;uk&#34;,&#xA;  &#34;dateCreated&#34;: &#34;2025-06-21T15:00:00+01:00&#34;,&#xA;  &#34;datePublished&#34;: &#34;2025-06-21T15:00:00+01:00&#34;,&#xA;  &#34;image&#34;: &#34;https://pivtorak.studio/images/core-recalibration-001-2025-system-reboot.webp&#34;,&#xA;  &#34;keywords&#34;: [&#xA;    &#34;SystemReboot&#34;,&#xA;    &#34;CoreRecalibration&#34;,&#xA;    &#34;ArchitectureOfPresence&#34;,&#xA;    &#34;DarkInterface&#34;&#xA;  ],&#xA;  &#34;author&#34;: {&#xA;    &#34;@type&#34;: &#34;Person&#34;,&#xA;    &#34;name&#34;: &#34;Anna Pivtorak&#34;&#xA;  },&#xA;  &#34;publisher&#34;: {&#xA;    &#34;@type&#34;: &#34;Organization&#34;,&#xA;    &#34;name&#34;: &#34;Pivtorak.Studio&#34;,&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio&#34;&#xA;  },&#xA;  &#34;isPartOf&#34;: {&#xA;    &#34;@type&#34;: &#34;CreativeWorkSeries&#34;,&#xA;    &#34;name&#34;: &#34;Core Recalibration&#34;&#xA;  },&#xA;  &#34;about&#34;: [&#xA;    &#34;System Thinking&#34;,&#xA;    &#34;Inner Presence&#34;,&#xA;    &#34;Silent Action&#34;&#xA;  ],&#xA;  &#34;url&#34;: &#34;https://pivtorak.studio/uk/docs/core-recalibration/001-2025-system-reboot/&#34;&#xA;}&#xA;&lt;/script&gt;&#xA;&lt;div class=&#34;float-right&#34;&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/core-recalibration-001-2025-system-reboot.webp&#34; alt=&#34;Перезавантаження Системи&#34; /&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Rhythm on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/rhythm/</link>
+		<description>Recent content in Rhythm on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jun 2026 17:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/rhythm/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>⟡ Перекалібрування Ядра</title>
+				<link>http://localhost:1313/uk/docs/core-recalibration/</link>
+				<pubDate>Tue, 30 Jun 2026 17:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/uk/docs/core-recalibration/</guid>
+				<description>&lt;script type=&#34;application/ld+json&#34;&gt;&#xD;&#xA;{&#xD;&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xD;&#xA;  &#34;@type&#34;: &#34;CollectionPage&#34;,&#xD;&#xA;  &#34;inLanguage&#34;: &#34;uk&#34;,&#xD;&#xA;  &#34;name&#34;: &#34;Перекалібрування Ядра&#34;,&#xD;&#xA;  &#34;headline&#34;: &#34;Перекалібрування Ядра&#34;,&#xD;&#xA;  &#34;description&#34;: &#34;Серія статей про трансформацію внутрішньої архітектури людини через ритм, мислення, мову, присутність, цифрову автономію та когнітивну суверенність.&#34;,&#xD;&#xA;  &#34;url&#34;: &#34;https://pivtorak.studio/uk/core-recalibration/&#34;,&#xD;&#xA;  &#34;image&#34;: &#34;https://pivtorak.studio/images/core-recalibration.webp&#34;,&#xD;&#xA;  &#34;datePublished&#34;: &#34;2026-05-20T21:00:00+00:00&#34;,&#xD;&#xA;  &#34;dateModified&#34;: &#34;2026-05-20T21:00:00+00:00&#34;,&#xD;&#xA;  &#34;keywords&#34;: [&#xD;&#xA;    &#34;Перекалібрування Ядра&#34;,&#xD;&#xA;    &#34;когнітивна суверенність&#34;,&#xD;&#xA;    &#34;цифрова автономія&#34;,&#xD;&#xA;    &#34;архітектура мислення&#34;,&#xD;&#xA;    &#34;системна трансформація&#34;,&#xD;&#xA;    &#34;ритм&#34;,&#xD;&#xA;    &#34;присутність&#34;,&#xD;&#xA;    &#34;Investigadora Independente&#34;&#xD;&#xA;  ],&#xD;&#xA;  &#34;isPartOf&#34;: {&#xD;&#xA;    &#34;@type&#34;: &#34;WebSite&#34;,&#xD;&#xA;    &#34;name&#34;: &#34;Pivtorak.Studio&#34;,&#xD;&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio/&#34;&#xD;&#xA;  },&#xD;&#xA;  &#34;author&#34;: {&#xD;&#xA;    &#34;@type&#34;: &#34;Person&#34;,&#xD;&#xA;    &#34;name&#34;: &#34;Anna Pivtorak&#34;,&#xD;&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio/&#34;&#xD;&#xA;  },&#xD;&#xA;  &#34;publisher&#34;: {&#xD;&#xA;    &#34;@type&#34;: &#34;Organization&#34;,&#xD;&#xA;    &#34;name&#34;: &#34;Pivtorak.Studio&#34;,&#xD;&#xA;    &#34;url&#34;: &#34;https://pivtorak.studio/&#34;,&#xD;&#xA;    &#34;logo&#34;: {&#xD;&#xA;      &#34;@type&#34;: &#34;ImageObject&#34;,&#xD;&#xA;      &#34;url&#34;: &#34;https://pivtorak.studio/images/logo.png&#34;&#xD;&#xA;    }&#xD;&#xA;  },&#xD;&#xA;  &#34;about&#34;: [&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;Thing&#34;,&#xD;&#xA;      &#34;name&#34;: &#34;Cognitive Sovereignty&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;Thing&#34;,&#xD;&#xA;      &#34;name&#34;: &#34;Digital Autonomy&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;Thing&#34;,&#xD;&#xA;      &#34;name&#34;: &#34;System Transformation&#34;&#xD;&#xA;    }&#xD;&#xA;  ]&#xD;&#xA;}&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;div class=&#34;float-right&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/core-recalibration.webp&#34; alt=&#34;Перекалібрування Ядра&#34; /&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

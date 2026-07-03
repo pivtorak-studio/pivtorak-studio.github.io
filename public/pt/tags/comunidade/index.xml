@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Comunidade on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/comunidade/</link>
+		<description>Recent content in Comunidade on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Jan 2026 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/comunidade/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>003 Direito ao Trabalho</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/003-the-right-to-work/</link>
+				<pubDate>Sun, 01 Jun 2025 13:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/003-the-right-to-work/</guid>
+				<description>O trabalho é mais do que rendimento. É participação, criatividade, responsabilidade e independência. Este artigo explora o direito ao trabalho como fundamento da vida pacífica.</description>
+			</item>
+			<item>
+				<title>004 Noite Segura. Círculo de Confiança</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/peaceful-life-004-safe-night-circle-of-trust/</link>
+				<pubDate>Tue, 01 Jul 2025 11:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/peaceful-life-004-safe-night-circle-of-trust/</guid>
+				<description>À volta de uma fogueira, as pessoas partilham histórias, risos e silêncio. Este artigo explora o direito de sentir segurança durante a noite e o valor da confiança na vida pacífica.</description>
+			</item>
+			<item>
+				<title>023 Paz Desenhada com Consciência</title>
+				<link>http://localhost:1313/pt/docs/peaceful-life/023-peace-drawn-with-awareness/</link>
+				<pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/peaceful-life/023-peace-drawn-with-awareness/</guid>
+				<description>A vigésima terceira obra da série Vida Pacífica reflete sobre a paz como um ato deliberado de criação. Através de linhas simples, círculos, casas e caminhos, os adultos constroem as condições que permitem à vida florescer sem medo.</description>
+			</item>
+	</channel>
+</rss>

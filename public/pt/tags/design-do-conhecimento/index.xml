@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Design-Do-Conhecimento on Pivtorak.Studio</title>
+		<link>http://localhost:1313/pt/tags/design-do-conhecimento/</link>
+		<description>Recent content in Design-Do-Conhecimento on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>pt</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2026 09:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/pt/tags/design-do-conhecimento/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>005 Manifesto da Investigadora Independente: O Direito à Incompletude</title>
+				<link>http://localhost:1313/pt/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/</link>
+				<pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pt/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/</guid>
+				<description>A incompletude não é uma falha, mas uma condição para o crescimento. Os sistemas vivos evoluem através de vestígios, mapas, revisões e novas dimensões de compreensão. A investigação permanece viva quando permanece aberta.</description>
+			</item>
+	</channel>
+</rss>

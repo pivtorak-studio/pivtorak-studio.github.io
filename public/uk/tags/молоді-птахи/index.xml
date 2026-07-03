@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Молоді Птахи on Pivtorak.Studio</title>
+		<link>http://localhost:1313/uk/tags/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%96-%D0%BF%D1%82%D0%B0%D1%85%D0%B8/</link>
+		<description>Recent content in Молоді Птахи on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 01 Jul 2025 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/uk/tags/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%96-%D0%BF%D1%82%D0%B0%D1%85%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>005 Право вчитися літати</title>
+				<link>http://localhost:1313/uk/docs/peaceful-life/005-the-right-to-learn-to-fly/</link>
+				<pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/uk/docs/peaceful-life/005-the-right-to-learn-to-fly/</guid>
+				<description>Молоді птахи вчаться літати через практику, невпевненість і сміливість. Ця стаття досліджує універсальне право вчитися, безпечно помилятися та відкривати власні крила.</description>
+			</item>
+	</channel>
+</rss>

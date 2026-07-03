@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.md",
+                "file": "content/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/partner-the-foundation-of-freedom/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking"
+              "title": "_index"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "27eb9ce8fcc6d984",
   "lastOpenFiles": [
+    "content/pt/docs/core-recalibration/000-2024-high-standards.md",
+    "content/en/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.md",
     "public/en/tags/vitruviantriad/page/1/index.html",
     "public/en/tags/vitruviantriad/page/1",
     "public/en/tags/vitruviantriad/page",
@@ -195,7 +197,6 @@
     "public/en/tags/structuraldesign/page/1/index.html",
     "public/en/tags/structuraldesign/page/1",
     "public/en/tags/structuraldesign/page",
-    "public/en/tags/structuraldesign/index.html",
     "content/en/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-rhythms-to-oceans.md",
     "content/en/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
     "content/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
@@ -220,7 +221,6 @@
     "content/ru/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.md",
     "content/ru/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.md",
     "content/ru/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.md",
-    "content/ru/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.md",
     "public/images/shield-012.webp",
     "public/images/shield-011.webp",
     "public/images/shield-010.webp",

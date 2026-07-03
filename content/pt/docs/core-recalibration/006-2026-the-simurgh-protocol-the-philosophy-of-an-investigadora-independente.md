@@ -2,7 +2,7 @@
 id: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
 language: pt
 translation_of: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
-title: "006 O Protocolo Simurg: A Filosofia de uma Investigadora Independente"
+title: "006 O Protocolo Simurg. A Filosofia de uma Investigadora Independente"
 description: Um manifesto da ciência soberana e da investigação independente. Um estudo sobre a transição da legitimação institucional para uma arquitetura autónoma do conhecimento, onde o website se torna laboratório, o arquivo digital se torna sistema de registo e a disciplina se torna garantia de qualidade.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
@@ -60,7 +60,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/",
-  "headline": "O Protocolo Simurg: A Filosofia de uma Investigadora Independente",
+  "headline": "O Protocolo Simurg. A Filosofia de uma Investigadora Independente",
   "alternativeHeadline": "UM Manifesto pela Ciência Soberana",
   "description": "Um manifesto da ciência soberana e da investigação independente. Um estudo sobre a transição da legitimação institucional para uma arquitetura autónoma do conhecimento, onde o website se torna laboratório, o arquivo digital se torna sistema de registo e a disciplina se torna garantia de qualidade.",
   "image": [
@@ -123,14 +123,14 @@ search: indexed
 
 <div class="float-right">
 
-![O Protocolo Simurg: A Filosofia de uma Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
+![O Protocolo Simurg. A Filosofia de uma Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
 
 </div>
 
 **⟡ Recalibração do Núcleo**
 
 
-# O Protocolo Simurg: A Filosofia de uma Investigadora Independente
+# O Protocolo Simurg. A Filosofia de uma Investigadora Independente
 
 _A verdadeira especialização não procura revisões por pares; cria o seu próprio espaço de verificação_
 
@@ -153,5 +153,5 @@ O Protocolo Simurg é um manifesto para a ciência soberana. Um domínio onde a 
 **Alt-text:**   
 Infográfico simbólico 'O Protocolo Simurg': uma investigadora independente posicionada entre o sistema académico e uma infraestrutura soberana de conhecimento digital. Paleta azul-escura e dourada, diagramas cibernéticos, arquitetura do pensamento, Google Scholar, arquivos digitais e a figura do Simurg.
 
-_O Protocolo Simurg: A Filosofia de uma Investigadora Independente. AP | Pivtorak.Studio. 20.05.2026_ 
+_O Protocolo Simurg. A Filosofia de uma Investigadora Independente. AP | Pivtorak.Studio. 20.05.2026_ 
 © Anna Pivtorak (Kostyuk)

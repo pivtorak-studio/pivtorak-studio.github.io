@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: ru
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004 Анатомия ритма: Duolingo Max как полигон стратегического мышления"
+title: "004 Анатомия Ритма. Duolingo Max как полигон стратегического мышления"
 description: Размышление о том, как Duolingo Max стал когнитивным тренажёром перед переходом к архитектуре сайтов, системному мышлению и работе с кодом.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -55,7 +55,7 @@ search: indexed
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Анатомия ритма: Duolingo Max как полигон стратегического мышления",
+  "headline": "Анатомия Ритма. Duolingo Max как полигон стратегического мышления",
   "alternativeHeadline": "Ритм как разминка перед кодом",
   "description": "Размышление о том, как Duolingo Max стал когнитивным тренажёром перед переходом к архитектуре сайтов, системному мышлению и работе с кодом.",
   "inLanguage": "ru",
@@ -88,13 +88,13 @@ search: indexed
 
 <div class="float-right">
 
-![Анатомия ритма: Duolingo Max как полигон стратегического мышления](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
+![Анатомия Ритма. Duolingo Max как полигон стратегического мышления](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
 </div>
 
 **⟡ Перекалибровка Ядра**
 
-# Анатомия ритма: Duolingo Max как полигон стратегического мышления
+# Анатомия Ритма. Duolingo Max как полигон стратегического мышления
 
 _Ритм как разминка перед кодом_
 
@@ -134,7 +134,7 @@ Duolingo Max дал ясность, скорость и структуру. А �
 **Alt-text:**
 Футуристическая цифровая композиция, показывающая переход от ритма Duolingo Max к архитектуре кода, системному мышлению и индексируемым сайтам.
 
-_Анатомия ритма: Duolingo Max как полигон стратегического мышления. AP | Pivtorak.Studio. 18.05.2026_  
+_Анатомия Ритма. Duolingo Max как полигон стратегического мышления. AP | Pivtorak.Studio. 18.05.2026_  
 © Анна Пивторак (Костюк) 
 
 <a href="https://memoryon.net/ru/pages/duolingo-max-eto-bolshe-chem-igra?pageId=6a0b22cf4bc829000b4c70e2">`Duolingo Max — это больше, чем игра`</a>

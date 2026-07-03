@@ -2,7 +2,7 @@
 id: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
 language: en
 translation_of: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
-title: "009 Block-Based Labor: The Painting Method in Cognitive Architecture"
+title: "009 Block-Based Labor. The Painting Method in Cognitive Architecture"
 description: An exploration of phased integrity, modular cognition, and block-based labor as a sovereign operational method derived from classical painting techniques and transposed into digital architecture, multilingual systems, and cognitive infrastructure.
 event_date: 2026-05-26T22:00:00
 publication_date: 2026-05-27T12:00:00
@@ -61,7 +61,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/",
-  "headline": "Block-Based Labor: The Painting Method in Cognitive Architecture",
+  "headline": "Block-Based Labor. The Painting Method in Cognitive Architecture",
   "alternativeHeadline": "Mastery lies in ensuring the system is integrated at every microcycle of its creation.",
   "description": "An exploration of phased integrity, modular cognition, and block-based labor as a sovereign operational method derived from classical painting techniques and transposed into digital architecture, multilingual systems, and cognitive infrastructure.",
   "image": "https://pivtorak.studio/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp",
@@ -102,11 +102,11 @@ search: indexed
 }
 </script>
 
-![Block-Based Labor: The Painting Method in Cognitive Architecture](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
+![Block-Based Labor. The Painting Method in Cognitive Architecture](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
 
 **⟡ Core Recalibration**
 
-# Block-Based Labor: The Painting Method in Cognitive Architecture
+# Block-Based Labor. The Painting Method in Cognitive Architecture
 
 _Mastery lies in ensuring the system is integrated at every microcycle of its creation._
 
@@ -121,5 +121,5 @@ This is the concept of phased integrity. Modular cognition allows me to maintain
 **Alt-text:**    
 A futuristic cognitive architecture workspace showing phased artistic microcycles, modular system construction, digital interfaces, and sovereign block-based labor visualized through painting stages and cybernetic structures.
 
-_Block-Based Labor: The Painting Method in Cognitive Architecture. AP | Pivtorak.Studio. 26.05.2026_  
+_Block-Based Labor. The Painting Method in Cognitive Architecture. AP | Pivtorak.Studio. 26.05.2026_  
 © Anna Pivtorak (Kostyuk)

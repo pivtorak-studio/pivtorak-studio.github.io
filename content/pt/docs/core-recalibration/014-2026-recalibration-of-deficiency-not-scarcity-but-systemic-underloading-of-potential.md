@@ -2,7 +2,7 @@
 id: core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential
 language: pt
 translation_of: core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential
-title: "014 Recalibração da Deficiência: Não Escassez, mas Subcarregamento Sistémico do Potencial"
+title: "014 Recalibração da Deficiência. Não Escassez, mas Subcarregamento Sistémico do Potencial"
 slug: 014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential
 description: Formalização da transição do pensamento de escassez para o subcarregamento sistémico do potencial através da cibernética, da hidrodinâmica e da arquitetura soberana.
 summary: Um estudo CoreRecalibration que introduz o Princípio da Congruência de Escala, a Física da Contenção e a Física da Soberania para explicar a pressão existencial em condições de bem-estar externo.
@@ -62,7 +62,7 @@ search: indexed
   "@context":"https://schema.org",
   "@type":"Article",
   "@id":"https://pivtorak.studio/pt/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/#article",
-  "headline":"014 Recalibração da Deficiência: Não Escassez, mas Subcarregamento Sistémico do Potencial",
+  "headline":"014 Recalibração da Deficiência. Não Escassez, mas Subcarregamento Sistémico do Potencial",
   "alternativeHeadline":"A Arquitetura de um Universo Não Mapeado",
   "description":"Um estudo CoreRecalibration que introduz o Princípio da Congruência de Escala, a Física da Contenção e a Física da Soberania para explicar a pressão existencial em condições de bem-estar externo.",
   "abstract":"Um estudo interdisciplinar que combina cibernética, hidrodinâmica e arquitetura soberana para explicar como o excedente não realizado gera pressão interna e como os ambientes soberanos transformam a contenção em florescimento.",

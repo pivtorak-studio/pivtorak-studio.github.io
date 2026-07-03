@@ -3,7 +3,7 @@ id: core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-prog
 language: uk
 translation_of: core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program
 
-title: "018 Еволюція Масштабу: Від Щоденної Роботи до Дослідницької Програми"
+title: "018 Еволюція Масштабу. Від Щоденної Роботи до Дослідницької Програми"
 slug: 018-2026-scale-evolution-from-daily-work-to-research-program
 
 description: "Дослідження того, як щоденна творча дисципліна перетворилася на автономну дослідницьку архітектуру через системну трансформацію одиниці мислення."
@@ -45,7 +45,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/uk/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program/#article",
-  "headline": "Еволюція Масштабу: Від Щоденної Роботи до Дослідницької Програми",
+  "headline": "Еволюція Масштабу. Від Щоденної Роботи до Дослідницької Програми",
   "alternativeHeadline": "Системна трансформація одиниці мислення",
   "description": "Дослідження того, як щоденна творча дисципліна перетворилася на автономну дослідницьку архітектуру через системну трансформацію одиниці мислення.",
   "inLanguage": "uk",
@@ -90,11 +90,11 @@ search: indexed
 }
 </script>
 
-![Еволюція Масштабу: Від Щоденної Роботи до Дослідницької Програми](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
+![Еволюція Масштабу. Від Щоденної Роботи до Дослідницької Програми](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
 
 **⟡ Перекалібрування Ядра**
 
-# Еволюція Масштабу: Від Щоденної Роботи до Дослідницької Програми
+# Еволюція Масштабу. Від Щоденної Роботи до Дослідницької Програми
 
 *Системна Трансформація Одиниці Мислення*
 
@@ -212,5 +212,5 @@ $$B = I - P$$
 **Alt-text:**    
 Інфографіка «Еволюція Масштабу», що демонструє перехід від щоденної творчої роботи до автономної дослідницької програми через системну еволюцію одиниці мислення.
 
-_Еволюція Масштабу: Від Щоденної Роботи до Дослідницької Програми. AP | Pivtorak.Studio. 30.06.2026_  
+_Еволюція Масштабу. Від Щоденної Роботи до Дослідницької Програми. AP | Pivtorak.Studio. 30.06.2026_  
 © Анна Півторак (Костюк)  

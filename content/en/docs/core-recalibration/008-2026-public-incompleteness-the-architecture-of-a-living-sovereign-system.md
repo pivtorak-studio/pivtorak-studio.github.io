@@ -2,7 +2,7 @@
 id: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
 language: en
 translation_of: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
-title: "008 Public Incompleteness: The Architecture of a Living Sovereign System"
+title: "008 Public Incompleteness. The Architecture of a Living Sovereign System"
 description: A philosophical and architectural reflection on structured incompleteness, transparent development, and sovereign digital ecosystems that evolve publicly without hiding drafts, instability, or reconstruction processes.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-27T10:00:00
@@ -60,7 +60,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/",
-  "headline": "Public Incompleteness: The Architecture of a Living Sovereign System",
+  "headline": "Public Incompleteness. The Architecture of a Living Sovereign System",
   "alternativeHeadline": "A Living System Breathes Openly",
   "description": "A philosophical and architectural reflection on structured incompleteness, transparent development, and sovereign digital ecosystems that evolve publicly without hiding drafts, instability, or reconstruction processes.",
   "image": "https://pivtorak.studio/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp",
@@ -102,11 +102,11 @@ search: indexed
 </script>
 
 
-![Public Incompleteness: The Architecture of a Living Sovereign System](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
+![Public Incompleteness. The Architecture of a Living Sovereign System](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
 
 **⟡ Core Recalibration**
 
-# Public Incompleteness: The Architecture of a Living Sovereign System
+# Public Incompleteness. The Architecture of a Living Sovereign System
 
 _A living system breathes openly._
 
@@ -121,5 +121,5 @@ Such a model builds a fundamentally new type of trust. It arises not from the il
 **Alt-text:**    
 A futuristic sovereign digital ecosystem evolving in real time through transparent modular reconstruction, glowing interface systems, ethical development notices, and living architectural structures.
 
-_Public Incompleteness: The Architecture of a Living Sovereign System. AP | Pivtorak.Studio. 26.05.2026_   
+_Public Incompleteness. The Architecture of a Living Sovereign System. AP | Pivtorak.Studio. 26.05.2026_   
 © Anna Pivtorak (Kostyuk)

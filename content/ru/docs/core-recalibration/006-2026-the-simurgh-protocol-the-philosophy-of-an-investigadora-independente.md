@@ -2,7 +2,7 @@
 id: core-recalibration-006-2026-simurgh-protocol
 language: ru
 translation_of: core-recalibration-006-2026-simurgh-protocol
-title: "006 Протокол Симурга: Философия Investigadora Independente"
+title: "006 Протокол Симурга. Философия Investigadora Independente"
 description: Манифест суверенной науки и независимого исследования. Статья о переходе от институциональной легитимации к автономной архитектуре знания, где сайт становится лабораторией, цифровой архив — системой фиксации, а дисциплина — гарантом качества.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
@@ -61,7 +61,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/ru/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/",
-  "headline": "Протокол Симурга: Философия Investigadora Independente",
+  "headline": "Протокол Симурга. Философия Investigadora Independente",
   "alternativeHeadline": "Манифест суверенной науки",
   "description": "Манифест суверенной науки и независимого исследования. Статья о переходе от институциональной легитимации к автономной архитектуре знания, где сайт становится лабораторией, цифровой архив — системой фиксации, а дисциплина — гарантом качества.",
   "image": [
@@ -124,13 +124,13 @@ search: indexed
 
 <div class="float-right">
 
-![Протокол Симурга: Философия Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
+![Протокол Симурга. Философия Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
 
 </div>
 
 **⟡ Перекалибровка Ядра**
 
-# Протокол Симурга: Философия Investigadora Independente
+# Протокол Симурга. Философия Investigadora Independente
 
 _Настоящая экспертиза не ищет рецензий; она сама создает пространство для верификации_
 
@@ -153,5 +153,5 @@ _Настоящая экспертиза не ищет рецензий; она 
 **Alt-text:**   
 Символическая инфографика "Протокол Симурга": независимая исследовательница между академической системой и суверенной цифровой инфраструктурой знания. Темно-синяя и золотая палитра, кибернетические схемы, архитектура мышления, Google Scholar, цифровой архив и фигура Симурга.
 
-_Протокол Симурга: Философия Investigadora Independente. AP | Pivtorak.Studio. 20.05.2026_  
+_Протокол Симурга. Философия Investigadora Independente. AP | Pivtorak.Studio. 20.05.2026_  
 © Анна Пивторак (Костюк) 

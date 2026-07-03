@@ -2,7 +2,7 @@
 id: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
 language: pt
 translation_of: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
-title: "008 Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo"
+title: "008 Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo"
 description: Uma reflexão filosófica e arquitetónica sobre incompletude estruturada, desenvolvimento transparente e ecossistemas digitais soberanos que evoluem publicamente sem esconder rascunhos, instabilidade ou processos de reconstrução.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-27T10:00:00
@@ -60,7 +60,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/",
-  "headline": "Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo",
+  "headline": "Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo",
   "alternativeHeadline": "Um Sistema Vivo Respira Abertamente",
   "description": "Uma reflexão filosófica e arquitetónica sobre incompletude estruturada, desenvolvimento transparente e ecossistemas digitais soberanos que evoluem publicamente sem esconder rascunhos, instabilidade ou processos de reconstrução.",
   "image": "https://pivtorak.studio/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp",
@@ -101,11 +101,11 @@ search: indexed
 }
 </script>
 
-![Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
+![Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo
+# Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo
 
 _Um sistema vivo respira abertamente._
 
@@ -120,5 +120,5 @@ Este modelo constrói um tipo de confiança fundamentalmente novo. Esta não bro
 **Alt-text:**   
 Um ecossistema digital soberano futurista evoluindo em tempo real através de reconstrução modular transparente, sistemas de interface luminosos, avisos éticos de desenvolvimento e estruturas arquitetónicas vivas.
 
-_Incompletude Pública: A Arquitetura de um Sistema Soberano Vivo. AP | Pivtorak.Studio. 26.05.2026_    
+_Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo. AP | Pivtorak.Studio. 26.05.2026_    
 © Anna Pivtorak (Kostyuk)

@@ -3,7 +3,7 @@ id: core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-prog
 language: pt
 translation_of: core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program
 
-title: "018 Evolução de Escala: Do Trabalho Diário ao Programa de Investigação"
+title: "018 Evolução de Escala. Do Trabalho Diário ao Programa de Investigação"
 slug: 018-2026-scale-evolution-from-daily-work-to-research-program
 
 description: "Uma investigação sobre a evolução de uma disciplina criativa diária para uma arquitetura autónoma de investigação através da transformação sistémica da unidade de pensamento."
@@ -45,7 +45,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program/#article",
-  "headline": "Evolução de Escala: Do Trabalho Diário ao Programa de Investigação",
+  "headline": "Evolução de Escala. Do Trabalho Diário ao Programa de Investigação",
   "alternativeHeadline": "A Transformação Sistémica da Unidade de Pensamento",
   "description": "Uma investigação sobre a evolução de uma disciplina criativa diária para uma arquitetura autónoma de investigação através da transformação sistémica da unidade de pensamento.",
   "inLanguage": "pt-PT",
@@ -91,11 +91,11 @@ search: indexed
 </script>
 
 
-![Evolução de Escala: Do Trabalho Diário ao Programa de Investigação](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
+![Evolução de Escala. Do Trabalho Diário ao Programa de Investigação](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Evolução de Escala: Do Trabalho Diário ao Programa de Investigação
+# Evolução de Escala. Do Trabalho Diário ao Programa de Investigação
 
 *A Transformação Sistémica da Unidade de Pensamento*
 
@@ -214,5 +214,5 @@ Primeiro, criei obras individuais. Depois, elas cresceram para séries. Mais tar
 **Alt-text:**    
 Infografia sobre a Evolução de Escala ilustrando a transformação do trabalho criativo diário num programa autónomo de investigação através da evolução sistémica da unidade de pensamento. 
 
-_Evolução de Escala: Do Trabalho Diário ao Programa de Investigação. AP | Pivtorak.Studio. 30.06.2026_     
+_Evolução de Escala. Do Trabalho Diário ao Programa de Investigação. AP | Pivtorak.Studio. 30.06.2026_     
 © Anna Pivtorak (Kostyuk)  

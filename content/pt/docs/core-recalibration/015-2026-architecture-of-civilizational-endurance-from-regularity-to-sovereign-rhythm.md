@@ -2,7 +2,7 @@
 id: core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm
 language: pt
 translation_of: core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm
-title: "015 Arquitetura da Endurance Civilizacional: Da Regularidade ao Ritmo Soberano"
+title: "015 Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano"
 slug: 015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm
 description: Uma exploração da endurance intelectual de longa distância, onde o ritmo substitui a força de vontade como a arquitetura que sustenta pesquisas civilizacionais ultra complexas ao longo do tempo.
 summary: Do Duolingo Max à máquina de remo, esta recalibração examina a transição da regularidade diária para o ritmo soberano, introduzindo a endurance civilizacional como um novo paradigma do Ultra Deep Work.
@@ -63,7 +63,7 @@ search: indexed
   "@context":"https://schema.org",
   "@type":"Article",
   "@id":"https://pivtorak.studio/pt/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm/#article",
-  "headline":"015 Arquitetura da Endurance Civilizacional: Da Regularidade ao Ritmo Soberano",
+  "headline":"015 Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano",
   "alternativeHeadline":"Da Regularidade Diária à Endurance Civilizacional",
   "description":"Uma exploração da endurance intelectual de longa distância, onde o ritmo substitui a força de vontade como a arquitetura que sustenta investigações civilizacionais ultra complexas.",
   "abstract":"Um estudo da transição da regularidade diária para o ritmo soberano, introduzindo a endurance civilizacional como um novo paradigma do Ultra Deep Work.",
@@ -106,11 +106,11 @@ search: indexed
 }
 </script>
 
-![Arquitetura da Endurance Civilizacional: Da Regularidade ao Ritmo Soberano](/images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp)
+![Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano](/images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Arquitetura da Endurance Civilizacional: Da Regularidade ao Ritmo Soberano   
+# Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano   
 
 _Quando a escala excede a capacidade da força de vontade, o ritmo torna-se a arquitetura do movimento._  
 
@@ -215,5 +215,5 @@ O treinador de línguas e a máquina de remar desempenham exatamente a mesma fun
 **Alt-text:**    
 Ilustração digital de uma jovem a utilizar uma máquina de remo ao ar livre junto ao oceano ao pôr do sol. Diagramas, matrizes e símbolos visualizam a transição da regularidade para o ritmo soberano e a endurance civilizacional.  
 
-_Arquitetura da Endurance Civilizacional: Da Regularidade ao Ritmo Soberano. AP | Pivtorak.Studio. 17.06.2026_     
+_Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano. AP | Pivtorak.Studio. 17.06.2026_     
 © Anna Pivtorak (Kostyuk)  

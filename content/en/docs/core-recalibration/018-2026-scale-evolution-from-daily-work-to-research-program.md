@@ -3,7 +3,7 @@ id: core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-prog
 language: en
 translation_of: core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program
 
-title: "018 Scale Evolution: From Daily Work to Research Program"
+title: "018 Scale Evolution. From Daily Work to Research Program"
 slug: 018-2026-scale-evolution-from-daily-work-to-research-program
 
 description: "An exploration of how a daily creative discipline evolved into a self-generating research architecture through successive recalibrations of the unit of thought."
@@ -45,7 +45,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/018-2026-scale-evolution-from-daily-work-to-research-program/#article",
-  "headline": "Scale Evolution: From Daily Work to Research Program",
+  "headline": "Scale Evolution. From Daily Work to Research Program",
   "alternativeHeadline": "The Systemic Transformation of the Unit of Thought",
   "description": "An exploration of how a daily creative discipline evolved into a self-generating research architecture through successive recalibrations of the unit of thought.",
   "inLanguage": "en",
@@ -91,11 +91,11 @@ search: indexed
 </script>
 
 
-![Scale Evolution: From Daily Work to Research Program](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
+![Scale Evolution. From Daily Work to Research Program](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
 
 **⟡ Core Recalibration**
 
-# Scale Evolution: From Daily Work to Research Program
+# Scale Evolution. From Daily Work to Research Program
 
 *The Systemic Transformation of the Unit of Thought*
 
@@ -214,5 +214,5 @@ First, I created individual works. Then, they grew into series. Later, those ser
 **Alt-text:**    
 Scale Evolution infographic illustrating the transformation from daily creative work to an autonomous research program through systemic evolution of the unit of thought.
 
-_Scale Evolution: From Daily Work to Research Program. AP | Pivtorak.Studio. 30.06.2026_  
+_Scale Evolution. From Daily Work to Research Program. AP | Pivtorak.Studio. 30.06.2026_  
 © Anna Pivtorak (Kostyuk)

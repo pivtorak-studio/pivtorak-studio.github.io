@@ -2,7 +2,7 @@
 id: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
 language: en
 translation_of: core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente
-title: "006 The Simurgh Protocol: The Philosophy of an Investigadora Independente"
+title: "006 The Simurgh Protocol. The Philosophy of an Investigadora Independente"
 description: A manifesto of sovereign science and independent research. An exploration of the transition from institutional legitimation toward autonomous knowledge architecture, where the website becomes a laboratory, the digital archive becomes the system of record, and discipline becomes the guarantor of quality.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
@@ -60,7 +60,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/",
-  "headline": "The Simurgh Protocol: The Philosophy of an Investigadora Independente",
+  "headline": "The Simurgh Protocol. The Philosophy of an Investigadora Independente",
   "alternativeHeadline": "A Manifesto for Sovereign Science",
   "description": "A manifesto of sovereign science and independent research exploring the transition from institutional legitimation toward autonomous knowledge architecture.",
   "image": [
@@ -123,13 +123,13 @@ search: indexed
 
 <div class="float-right">
 
-![The Simurgh Protocol: The Philosophy of an Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
+![The Simurgh Protocol. The Philosophy of an Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
 
 </div>
 
 **⟡ Core Recalibration**
 
-# The Simurgh Protocol: The Philosophy of an Investigadora Independente
+# The Simurgh Protocol. The Philosophy of an Investigadora Independente
 
 _True expertise does not seek peer reviews; it creates its own space for verification_
 
@@ -152,5 +152,5 @@ The Simurgh Protocol is a manifesto for sovereign science. A domain where digita
 **Alt-text:**    
 Symbolic infographic titled 'The Simurgh Protocol': an independent researcher positioned between the academic system and a sovereign digital knowledge infrastructure. Dark blue and gold palette, cybernetic diagrams, architecture of thought, Google Scholar, digital archives, and the Simurgh figure.
 
-_The Simurgh Protocol: The Philosophy of an Investigadora Independente. AP | Pivtorak.Studio. 20.05.2026_  
+_The Simurgh Protocol. The Philosophy of an Investigadora Independente. AP | Pivtorak.Studio. 20.05.2026_  
 © Anna Pivtorak (Kostyuk)

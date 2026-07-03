@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: pt
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004 A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico"
+title: "004 A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico"
 description: Uma reflexão sobre como o Duolingo Max se tornou um simulador cognitivo antes da transição para código, arquitetura digital e pensamento sistémico.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -55,7 +55,7 @@ search: indexed
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico",
+  "headline": "A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico",
   "alternativeHeadline": "O Ritmo como Aquecimento Antes do Código",
   "description": "Uma reflexão sobre como o Duolingo Max se tornou um simulador cognitivo antes da transição para código, arquitetura digital e pensamento sistémico.",
   "inLanguage": "pt",
@@ -88,13 +88,13 @@ search: indexed
 
 <div class="float-right">
 
-![A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
+![A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
 </div>
 
 **⟡ Recalibração do Núcleo**
 
-# A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico
+# A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico
 
 _O ritmo como aquecimento antes do código_
 
@@ -135,7 +135,7 @@ O Duolingo Max trouxe clareza, velocidade e estrutura. E a partir daí, começou
 **Alt-text:**
 Uma composição digital futurista mostrando a transição do ritmo de aprendizagem no Duolingo Max para arquitetura de código, pensamento sistémico e websites indexados.
 
-_A Anatomia do Ritmo: O Duolingo Max como Polígono de Pensamento Estratégico. AP | Pivtorak.Studio. 18.05.2026_  
+_A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico. AP | Pivtorak.Studio. 18.05.2026_  
 © Anna Pivtorak (Kostyuk)
 
 <a href="https://memoryon.net/pages/o-duolingo-max-e-mais-do-que-um-jogo?pageId=6a0b224bd7aa62000b4640f5">`O Duolingo Max é Mais do Que um Jogo`</a> 

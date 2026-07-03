@@ -2,7 +2,7 @@
 id: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
 language: uk
 translation_of: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
-title: "009 Робота блоками: Метод живопису в когнітивній архітектурі"
+title: "009 Робота Блоками. Метод живопису в когнітивній архітектурі"
 description: Осмислення фазової цілісності, модульного мислення та роботи блоками як суверенного операційного методу, що походить із класичного живопису та переноситься у цифрову архітектуру, багатомовні системи й когнітивну інфраструктуру.
 event_date: 2026-05-26T22:00:00
 publication_date: 2026-05-27T12:00:00
@@ -61,7 +61,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/uk/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/",
-  "headline": "Робота блоками: Метод живопису в когнітивній архітектурі",
+  "headline": "Робота Блоками. Метод живопису в когнітивній архітектурі",
   "alternativeHeadline": "Майстерність полягає в тому, щоб система залишалася цілісною на кожному мікроциклі свого створення.",
   "description": "Осмислення фазової цілісності, модульного мислення та роботи блоками як суверенного операційного методу, що походить із класичного живопису та переноситься у цифрову архітектуру, багатомовні системи й когнітивну інфраструктуру.",
   "image": "https://pivtorak.studio/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp",
@@ -102,11 +102,11 @@ search: indexed
 }
 </script>
 
-![Робота блоками: Метод живопису в когнітивній архітектурі](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
+![Робота Блоками. Метод живопису в когнітивній архітектурі](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
 
 **⟡ Перекалібрування Ядра**
 
-# Робота блоками: Метод живопису в когнітивній архітектурі
+# Робота Блоками. Метод живопису в когнітивній архітектурі
 
 _Майстерність полягає в тому, щоб система була цілісною на кожному мікроциклі її створення._
 
@@ -121,5 +121,5 @@ _Майстерність полягає в тому, щоб система бу
 **Alt-text:**    
 Футуристичний простір когнітивної архітектури, що демонструє художні мікроцикли, модульне побудування систем, цифрові інтерфейси та суверенну роботу блоками через етапи живопису й кібернетичні структури.
 
-_Робота блоками: Метод живопису в когнітивній архітектурі. AP | Pivtorak.Studio. 26.05.2026_  
+_Робота Блоками. Метод живопису в когнітивній архітектурі. AP | Pivtorak.Studio. 26.05.2026_  
 © Анна Півторак (Костюк)   

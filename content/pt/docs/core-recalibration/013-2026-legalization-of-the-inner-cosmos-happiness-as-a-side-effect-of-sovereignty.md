@@ -2,7 +2,7 @@
 id: core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty
 language: pt
 translation_of: core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty
-title: "013 Legalização do Cosmos Interior: A Felicidade como Efeito Secundário da Soberania"
+title: "013 Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania"
 slug: 013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty
 description: Uma exploração da felicidade como efeito secundário da soberania. Um estudo sobre como a legalização do cosmos interior, a integração da biografia e a criação de um campo soberano transformam a auto-observação em energia criativa.
 summary: Uma reflexão sobre a transição do excesso de coordenadas sem endereço próprio para um campo soberano. O artigo examina a legalização do cosmos interior, a reabilitação da biografia e o surgimento da felicidade como consequência natural da auto-soberania.
@@ -63,7 +63,7 @@ search: indexed
 
   "@id":"https://pivtorak.studio/pt/docs/core-recalibration/013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty/#article",
 
-  "headline":"013 Legalização do Cosmos Interior: A Felicidade como Efeito Secundário da Soberania",
+  "headline":"013 Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania",
 
   "alternativeHeadline":"Da Auto-Observação para um Campo Soberano",
 
@@ -125,11 +125,11 @@ search: indexed
 }
 </script>
 
-![Legalização do Cosmos Interior: A Felicidade como Efeito Secundário da Soberania](/images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty.webp)
+![Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania](/images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Legalização do Cosmos Interior: A Felicidade como Efeito Secundário da Soberania  
+# Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania  
 
 _Do autoscrutínio ao campo soberano_  
 
@@ -206,5 +206,5 @@ Surgiu após a integração de todas estas versões num único sistema de coorde
 **Alt-text:**    
 Uma mulher soberana está no centro de um campo luminoso de energia azul e dourada. À sua volta, uma dança de energias liga conhecimento, biografia, fundamentos familiares e pensamento sistémico numa única arquitetura viva. Correntes circulares de energia envolvem o seu corpo sem restrições, simbolizando a legalização do cosmos interior. Um coração radiante brilha dentro de uma estrutura fractal, representando a felicidade não como um destino, mas como um efeito secundário da soberania. A infografia visualiza a transição do excesso de coordenadas sem endereço próprio para um campo soberano chamado Pivtorak.Studio.   
 
-_Legalização do Cosmos Interior: A Felicidade como Efeito Secundário da Soberania. AP | Pivtorak.Studio. 14.06.2026_    
+_Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania. AP | Pivtorak.Studio. 14.06.2026_    
 © Anna Pivtorak (Kostyuk)

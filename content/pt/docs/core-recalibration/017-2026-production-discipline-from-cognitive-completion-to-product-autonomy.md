@@ -2,7 +2,7 @@
 id: core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy
 language: pt
 translation_of: core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy
-title: "017 Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto"
+title: "017 Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto"
 slug: 017-2026-production-discipline-from-cognitive-completion-to-product-autonomy
 description: "A qualidade não é perfeição, mas a transição disciplinada da conclusão cognitiva para a vida autónoma do produto. Este artigo apresenta o conceito de Autonomia do Produto, um modelo de Garantia da Qualidade em dois níveis e a Disciplina de Produção como etapa final da trilogia Core Recalibration."
 summary: "Artigo final da trilogia Recalibração da Potência (014 → 016 → 017). Apresenta a Autonomia do Produto como a fase final da produção intelectual, na qual uma obra concluída se torna capaz de existir independentemente do seu autor graças à qualidade semântica e à qualidade de engenharia."
@@ -17,7 +17,7 @@ research_origin: PT
 status: published
 featured: true
 image: /images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp
-alt: "Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto — infografia de engenharia que apresenta a Autonomia do Produto, dois circuitos de Garantia da Qualidade, o Pipeline de Produção e a transição da responsabilidade do autor para a autonomia do produto."
+alt: "Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto — infografia de engenharia que apresenta a Autonomia do Produto, dois circuitos de Garantia da Qualidade, o Pipeline de Produção e a transição da responsabilidade do autor para a autonomia do produto."
 related: [/pt/docs/core-recalibration/, /pt/docs/timeline/]
 authors: [Anna Pivtorak]
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/
@@ -33,8 +33,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/#article",
-  "headline": "Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto",
-  "alternativeHeadline": "017 Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto",
+  "headline": "Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto",
+  "alternativeHeadline": "017 Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto",
   "description": "Artigo final da trilogia Recalibração da Potência que apresenta a Autonomia do Produto, a Disciplina de Produção e um modelo de Garantia da Qualidade em dois níveis.",
   "inLanguage": "pt-PT",
   "isPartOf": {
@@ -77,11 +77,11 @@ search: indexed
 </script>
 
 
-![Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto](/images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp)
+![Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto](/images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto
+# Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto
 
 _A qualidade é uma forma de respeito pela vida futura da própria obra._
 
@@ -177,7 +177,7 @@ Não «liberto» os meus trabalhos até ter a certeza de que estão prontos para
 É por isso que hoje, cada fragmento do meu trabalho passa por um ciclo de produção completo — da primeira frase do texto ao último caractere dos metadados. Não porque eu procure uma perfeição inalcançável. Mas porque quero que o trabalho intelectual manual exija exatamente o mesmo respeito absoluto que a minha mãe outrora costurou num casaco minúsculo para a minha boneca.
 
 **Alt-text:**    
-Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto — infografia de engenharia que apresenta a Autonomia do Produto, dois circuitos de Garantia da Qualidade, o Pipeline de Produção e a transição da responsabilidade do autor para a autonomia do produto. 
+Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto — infografia de engenharia que apresenta a Autonomia do Produto, dois circuitos de Garantia da Qualidade, o Pipeline de Produção e a transição da responsabilidade do autor para a autonomia do produto. 
 
-_Disciplina de Produção: Da Conclusão Cognitiva à Autonomia do Produto. AP | Pivtorak.Studio. 27.06.2026_     
+_Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto. AP | Pivtorak.Studio. 27.06.2026_     
 © Anna Pivtorak (Kostyuk)  

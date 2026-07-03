@@ -2,7 +2,7 @@
 id: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
 language: en
 translation_of: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
-title: "010 Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty"
+title: "010 Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty"
 description: A sovereign model of decision-making where the heart determines direction and the mind designs the route. An exploration of radical honesty, internal integrity, and the distinction between survival functions and authentic identity.
 summary: The heart answers 'Where?'. The mind answers 'How?'. Core Recalibration begins when absence of energy is recognized as a system signal rather than a personal failure.
 event_date: 2026-05-30T18:00:00
@@ -65,7 +65,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty/",
-  "headline": "Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty",
+  "headline": "Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty",
   "description": "A sovereign decision-making model where the heart determines direction and the mind designs the route. An exploration of radical honesty, internal integrity, and authentic autonomy.",
   "inLanguage": "en",
   "datePublished": "2026-05-30T18:00:00+01:00",
@@ -106,11 +106,11 @@ search: indexed
 }
 </script>
 
-![Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty](/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp)
+![Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty](/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp)
 
 **⟡ Core Recalibration**
 
-# Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty
+# Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty
 
 _The heart determines the direction and answers the question "Where?".   
 The mind constructs the route and answers the question "How?"._    
@@ -142,5 +142,5 @@ When the heart dictates an uncompromising vector and the mind acts as the route 
 **Alt-text:**    
 Diagram of sovereign decision architecture showing the heart as vector navigation, the mind as route engineering, radical honesty as recalibration protocol, and the transition from distorted rationality to internal sovereignty.
 
-_Coordinates of the Heart: Vector Navigation and the Ethics of Inner Honesty. AP | Pivtorak.Studio. 30.05.2026_  
+_Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty. AP | Pivtorak.Studio. 30.05.2026_  
 © Anna Pivtorak (Kostyuk)

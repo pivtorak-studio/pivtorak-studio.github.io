@@ -2,7 +2,7 @@
 id: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
 language: ru
 translation_of: core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system
-title: "008 Публичная незавершенность: Архитектура живой суверенной системы"
+title: "008 Публичная Незавершенность. Архитектура живой суверенной системы"
 description: Философское и архитектурное размышление о структурированной незавершенности, прозрачной разработке и суверенных цифровых экосистемах, развивающихся публично без сокрытия черновиков, нестабильности или процессов реконструкции.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-27T10:00:00
@@ -60,7 +60,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/ru/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/",
-  "headline": "Публичная незавершенность: Архитектура живой суверенной системы",
+  "headline": "Публичная Незавершенность. Архитектура живой суверенной системы",
   "alternativeHeadline": "Живая система дышит открыто",
   "description": "Философское и архитектурное размышление о структурированной незавершенности, прозрачной разработке и суверенных цифровых экосистемах, развивающихся публично без сокрытия черновиков, нестабильности или процессов реконструкции.",
   "image": "https://pivtorak.studio/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp",
@@ -101,11 +101,11 @@ search: indexed
 }
 </script>
 
-![Публичная незавершенность: Архитектура живой суверенной системы](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
+![Публичная Незавершенность. Архитектура живой суверенной системы](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
 
 **⟡ Перекалибровка Ядра**
 
-# Публичная незавершенность: Архитектура живой суверенной системы
+# Публичная Незавершенность. Архитектура живой суверенной системы
 
 _Живая система дышит открыто._
 
@@ -120,5 +120,5 @@ _Живая система дышит открыто._
 **Alt-text:**   
 Футуристическая суверенная цифровая экосистема, развивающаяся в реальном времени через прозрачную модульную реконструкцию, светящиеся интерфейсные системы, этические уведомления о разработке и живые архитектурные структуры.
 
-_Публичная незавершенность: Архитектура живой суверенной системы. AP | Pivtorak.Studio. 26.05.2026_    
+_Публичная Незавершенность. Архитектура живой суверенной системы. AP | Pivtorak.Studio. 26.05.2026_    
 © Анна Пивторак (Костюк) 

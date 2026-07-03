@@ -2,7 +2,7 @@
 id: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking
 language: pt
 translation_of: core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking
-title: "012 A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano"
+title: "012 A Arquitetura dos Ambientes de Sentido. A Tríade Vitruviana do Pensamento Soberano"
 description: A recalibração final que explora a arquitetura como disciplina de criação de ambientes de sentido resilientes através dos princípios vitruvianos de utilidade, resiliência e ressonância.
 summary: A construção cria objetos. A arquitetura projeta os ambientes onde esses objetos se tornam possíveis. Este artigo apresenta a arquitetura dos ambientes de sentido como uma disciplina de pensamento sistémico soberano.
 event_date: 2026-05-31T23:00:00+01:00
@@ -59,7 +59,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/",
-  "headline": "A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano",
+  "headline": "A Arquitetura dos Ambientes de Sentido. A Tríade Vitruviana do Pensamento Soberano",
   "description": "A recalibração final que explora a arquitetura como disciplina de criação de ambientes de sentido resilientes através dos princípios vitruvianos de utilidade, resiliência e ressonância.",
   "abstract": "A construção cria objetos. A arquitetura projeta os ambientes onde esses objetos se tornam possíveis.",
   "inLanguage": "pt-PT",
@@ -96,11 +96,11 @@ search: indexed
 }
 </script>
 
-![A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano](/images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp)
+![A Arquitetura dos Ambientes de Sentido. A Tríade Vitruviana do Pensamento Soberano](/images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano
+# A Arquitetura dos Ambientes de Sentido. A Tríade Vitruviana do Pensamento Soberano
 
 _A construção cria objetos.    
 A arquitetura projeta os ambientes nos quais esses objetos se tornam possíveis._
@@ -124,5 +124,5 @@ Para o Arquiteto, o pensamento deixa de ser um processo de criação de conteúd
 **Alt-text:**    
 Uma arquiteta diante de uma estrutura geométrica luminosa inspirada em Vitrúvio, simbolizando Utilidade, Resiliência e Beleza.
 
-_A Arquitetura dos Ambientes de Sentido: A Tríade Vitruviana do Pensamento Soberano. AP | Pivtorak.Studio. 31.05.2026_    
+_A Arquitetura dos Ambientes de Sentido. A Tríade Vitruviana do Pensamento Soberano. AP | Pivtorak.Studio. 31.05.2026_    
 © Anna Pivtorak (Kostyuk)

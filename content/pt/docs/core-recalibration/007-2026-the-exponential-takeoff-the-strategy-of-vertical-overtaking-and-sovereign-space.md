@@ -2,7 +2,7 @@
 id: core-recalibration-007-2026-exponential-takeoff
 language: pt
 translation_of: core-recalibration-007-2026-exponential-takeoff
-title: "007 A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano"
+title: "007 A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano"
 description: Uma reflexão analítica sobre crescimento cognitivo exponencial, infraestrutura digital soberana e a transição estratégica da resistência institucional para a expansão vertical autónoma.
 event_date: 2026-05-22T14:00:00
 publication_date: 2026-05-22T14:00:00
@@ -59,8 +59,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/",
-  "headline": "A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano",
-  "alternativeHeadline": "007 A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano",
+  "headline": "A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano",
+  "alternativeHeadline": "007 A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano",
   "description": "Uma reflexão analítica sobre crescimento cognitivo exponencial, infraestrutura digital soberana e a transição estratégica da resistência institucional para a expansão vertical autónoma.",
   "inLanguage": "pt-PT",
   "isPartOf": {
@@ -116,13 +116,13 @@ search: indexed
 
 <div class="float-right">
 
-![A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano](/images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp)
+![A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano](/images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp)
 
 </div>
 
 **⟡ Recalibração do Núcleo**
 
-# A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano
+# A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano
 
 _Se uma porta se fecha diante de ti — não batas. Levanta voo._
 
@@ -145,5 +145,5 @@ A pausa terminou. O espaço está limpo de ruídos. O ritmo está definido atrav
 **Alt-text:**   
 Uma figura soberana ascendendo exponencialmente ao longo de uma curva luminosa enquanto deixa para trás estruturas institucionais fechadas e ativa uma infraestrutura digital autónoma.
 
-_A Exponencial de Descolagem: Estratégia de Ultrapassagem Vertical e Espaço Soberano. AP | Pivtorak.Studio. 22.05.2026_ 
+_A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano. AP | Pivtorak.Studio. 22.05.2026_ 
 © Anna Pivtorak (Kostyuk)

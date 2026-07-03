@@ -2,7 +2,7 @@
 id: core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty
 language: pt
 translation_of: core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty
-title: "005 Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania"
+title: "005 Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó Cognitivo de Soberania"
 description: Um ensaio sobre a criação de um ecossistema digital autónomo através do Pivtorak.Studio e do TheJewelry.Business, soberania cognitiva, arquitetura GitHub, SEO, pensamento cibernético e a transição de existir em plataformas alheias para possuir o código e a arquitetura do próprio espaço.
 event_date: 2026-05-19T15:00:00
 publication_date: 2026-05-19T15:00:00
@@ -57,7 +57,7 @@ search: indexed
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania",
+  "headline": "Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó Cognitivo de Soberania",
   "description": "Um ensaio sobre a criação de um ecossistema digital autónomo através do Pivtorak.Studio e do TheJewelry.Business, soberania cognitiva, arquitetura GitHub, SEO, pensamento cibernético e a transição de existir em plataformas alheias para possuir o código e a arquitetura do próprio espaço.",
   "author": {
     "@type": "Person",
@@ -88,13 +88,13 @@ search: indexed
 
 <div class="float-right">
 
-![Pivtorak Studio e The Jewelry Business: A Posse do Código como Nó Cognitivo de Soberania](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp)
+![Pivtorak Studio e The Jewelry Business. A Posse do Código como Nó Cognitivo de Soberania](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp)
 
 </div>
 
 **⟡ Recalibração do Núcleo**
 
-# Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania  
+# Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó Cognitivo de Soberania  
 
 _Epígrafe: Quando dominas o código do teu espaço, já não precisas de intermediários_  
 
@@ -116,5 +116,5 @@ A conquista máxima é o desaparecimento total do conflito interno entre arte, a
 **Alt-text:**   
 O sistema duplo de soberania: Pivtorak.Studio e TheJewelry.Business como arquiteturas cognitivas de criatividade, lógica, versionamento GitHub e espaço digital autónomo.
 
-_Pivtorak.Studio & TheJewelry.Business: A Posse do Código como Nó Cognitivo de Soberania. AP | Pivtorak.Studio. 19.05.2026_  
+_Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó Cognitivo de Soberania. AP | Pivtorak.Studio. 19.05.2026_  
 © Anna Pivtorak (Kostyuk)

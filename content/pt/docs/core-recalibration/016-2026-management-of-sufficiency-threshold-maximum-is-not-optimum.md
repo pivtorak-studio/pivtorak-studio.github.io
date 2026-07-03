@@ -2,7 +2,7 @@
 id: core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum
 language: pt
 translation_of: core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum
-title: "016 Gestão do Limite de Suficiência: O Máximo não é o Óptimo"
+title: "016 Gestão do Limite de Suficiência. O Máximo não é o Óptimo"
 slug: 016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum
 
 description: "Um modelo cognitivo e cibernético que demonstra porque o esforço máximo não constitui o modo óptimo de funcionamento de um sistema. A criação sustentável surge quando o sinal deixa de crescer e o ruído começa a dominar."
@@ -23,7 +23,7 @@ status: published
 featured: true
 
 image: /images/core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.webp
-alt: "Infografia que representa o Limite de Suficiência: um modelo matemático em que o valor atinge um óptimo antes de o aperfeiçoamento adicional transformar o sinal em ruído."
+alt: "Infografia que representa o Limite de Suficiência. um modelo matemático em que o valor atinge um óptimo antes de o aperfeiçoamento adicional transformar o sinal em ruído."
 
 related:
   - /pt/docs/core-recalibration/
@@ -48,7 +48,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/",
-  "headline": "016 Gestão do Limite de Suficiência: O Máximo não é o Óptimo",
+  "headline": "016 Gestão do Limite de Suficiência. O Máximo não é o Óptimo",
   "description": "Um modelo cognitivo e cibernético que demonstra porque o esforço máximo não constitui o modo óptimo de funcionamento de um sistema. A criação sustentável surge quando o sinal deixa de crescer e o ruído começa a dominar.",
   "inLanguage": "pt-PT",
   "datePublished": "2026-06-26T11:00:00+01:00",
@@ -67,11 +67,11 @@ search: indexed
 }
 </script>
 
-![Gestão do Limite de Suficiência: O Máximo não é o Óptimo](/images/core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.webp)
+![Gestão do Limite de Suficiência. O Máximo não é o Óptimo](/images/core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Gestão do Limite de Suficiência: O Máximo não é o Óptimo
+# Gestão do Limite de Suficiência. O Máximo não é o Óptimo
 
 _«Pronto» — também é uma forma de mestria._
 
@@ -153,7 +153,7 @@ A recalibração anterior, «Anatomia da Deficitariedade», legalizou o direito 
 Não reduz a potência do pensamento. Torna-a controlável. É por isso que esta recalibração não limita a criatividade. Evita a sua autodestruição. Sem um mecanismo de conclusão, até o processador cognitivo mais potente é capaz de adicionar infinitamente novas camadas a um trabalho que já atingiu o ponto de suficiência sistémica.
 
 **Alt-text:**    
-Infografia que representa o Limite de Suficiência: um modelo matemático em que o valor atinge um óptimo antes de o aperfeiçoamento adicional transformar o sinal em ruído. 
+Infografia que representa o Limite de Suficiência. um modelo matemático em que o valor atinge um óptimo antes de o aperfeiçoamento adicional transformar o sinal em ruído. 
 
-_Gestão do Limite de Suficiência: O Máximo não é o Óptimo. AP | Pivtorak.Studio. 26.06.2026_     
+_Gestão do Limite de Suficiência. O Máximo não é o Óptimo. AP | Pivtorak.Studio. 26.06.2026_     
 © Anna Pivtorak (Kostyuk)  

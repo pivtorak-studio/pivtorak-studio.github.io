@@ -2,7 +2,7 @@
 id: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
 language: pt
 translation_of: core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty
-title: "010 Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna"
+title: "010 Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna"
 description: Um modelo soberano de tomada de decisão onde o coração define a direção e a mente constrói a rota. Uma reflexão sobre honestidade radical, integridade interna e a distinção entre função de sobrevivência e identidade autêntica.
 summary: O coração responde à pergunta 'Para onde?'. A mente responde à pergunta 'Como?'. A Recalibração Central começa quando a falta de energia é reconhecida como um sinal sistémico e não como uma falha pessoal.
 event_date: 2026-05-30T18:00:00
@@ -65,7 +65,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty/",
-  "headline": "Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna",
+  "headline": "Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna",
   "description": "Um modelo soberano de tomada de decisão onde o coração define a direção e a mente constrói a rota. Uma reflexão sobre honestidade radical, integridade interior e autonomia autêntica.",
   "inLanguage": "pt-PT",
   "datePublished": "2026-05-30T18:00:00+01:00",
@@ -106,11 +106,11 @@ search: indexed
 }
 </script>
 
-![Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna](/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp)
+![Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna](/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna
+# Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna
 
 _O coração determina a direção e responde à pergunta "Para onde?".   
 A mente constrói a rota e responde à pergunta "Como?"._   
@@ -142,5 +142,5 @@ Quando o coração dita um vetor intransigente e a mente atua como engenheira da
 **Alt-text:**    
 Diagrama da arquitetura soberana de decisão mostrando o coração como vetor de direção, a mente como engenharia de rota, a honestidade radical como protocolo de recalibração e a transição da racionalidade distorcida para a soberania interior.
 
-_Coordenadas do Coração: Navegação do Vetor e a Ética da Honestidade Interna. AP | Pivtorak.Studio. 30.05.2026_    
+_Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna. AP | Pivtorak.Studio. 30.05.2026_    
 © Anna Pivtorak (Kostyuk)

@@ -2,7 +2,7 @@
 id: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
 language: en
 translation_of: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
-title: "011 A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems"
+title: "011 A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems"
 description: A reflection on the transition from project-based thinking to sovereign system architecture, where structures evolve beyond temporary goals and become environments capable of autonomous development.
 summary: Projects pursue results. Systems generate conditions for continuous evolution. This Core Recalibration explores the architectural shift from linear execution to sovereign environments capable of replication, adaptation, and long-term development.
 event_date: 2026-05-30T23:00:00+01:00
@@ -56,8 +56,8 @@ search: indexed
   "@type": "CreativeWork",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
   "url": "https://pivtorak.studio/en/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
-  "headline": "A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems",
-  "name": "A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems",
+  "headline": "A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems",
+  "name": "A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems",
   "description": "A reflection on the transition from project-based thinking to sovereign system architecture, where structures evolve beyond temporary goals and become environments capable of autonomous development.",
   "inLanguage": "en",
   "dateCreated": "2026-05-30",
@@ -95,11 +95,11 @@ search: indexed
 }
 </script>
 
-![A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
+![A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
 
 **⟡ Core Recalibration**
 
-## A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems
+## A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems
 
 _A project is oriented toward a temporary result.    
 A system is designed for infinite reproduction and evolution._  
@@ -131,5 +131,5 @@ Systems generate conditions for energy to circulate.
 **Alt-text:**    
 Conceptual diagram illustrating the transition from linear project-based thinking toward autonomous sovereign systems capable of evolution, replication, and long-term development.
 
-_A Shift in Dimension: Transiting from the Linearity of Projects to the Autonomy of Systems. AP | Pivtorak.Studio. 30.05.2026_  
+_A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems. AP | Pivtorak.Studio. 30.05.2026_  
 © Anna Pivtorak (Kostyuk)

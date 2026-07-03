@@ -2,7 +2,7 @@
 id: core-recalibration-007-2026-exponential-takeoff
 language: en
 translation_of: core-recalibration-007-2026-exponential-takeoff
-title: "007 The Exponential Takeoff: The Strategy of Vertical Overtaking and Sovereign Space"
+title: "007 The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space"
 description: An analytical reflection on exponential cognitive growth, sovereign digital infrastructure, and the strategic transition from institutional resistance to autonomous vertical expansion.
 event_date: 2026-05-22T14:00:00
 publication_date: 2026-05-22T14:00:00
@@ -59,8 +59,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/en/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/",
-  "headline": "The Exponential Takeoff: The Strategy of Vertical Overtaking and Sovereign Space",
-  "alternativeHeadline": "007 The Exponential Takeoff: The Strategy of Vertical Overtaking and Sovereign Space",
+  "headline": "The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space",
+  "alternativeHeadline": "007 The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space",
   "description": "An analytical reflection on exponential cognitive growth, sovereign digital infrastructure, and the strategic transition from institutional resistance to autonomous vertical expansion.",
   "inLanguage": "en",
   "isPartOf": {
@@ -116,13 +116,13 @@ search: indexed
 
 <div class="float-right">
 
-![The Exponential Takeoff: The Strategy of Vertical Overtaking and Sovereign Space](/images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp)
+![The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space](/images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp)
 
 </div>
 
 **⟡ Core Recalibration**
 
-# The Exponential Takeoff: The Strategy of Vertical Overtaking and Sovereign Space
+# The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space
 
 _If a door is closed in front of you — do not knock. Take flight._
 
@@ -145,5 +145,5 @@ The pause is over. The space is cleared of noise. The rhythm is set through the 
 **Alt-text:**    
 A sovereign figure ascending exponentially along a glowing exponential curve while leaving behind closed institutional structures and deploying an autonomous digital infrastructure.
 
-_The Exponential Takeoff: The Strategy of Vertical Overtaking and Sovereign Space. AP | Pivtorak.Studio. 22.05.2026_  
+_The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space. AP | Pivtorak.Studio. 22.05.2026_  
 © Anna Pivtorak (Kostyuk)

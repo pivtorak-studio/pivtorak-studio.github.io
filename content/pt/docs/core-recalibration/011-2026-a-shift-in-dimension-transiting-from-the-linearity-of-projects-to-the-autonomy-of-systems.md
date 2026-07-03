@@ -2,7 +2,7 @@
 id: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
 language: pt
 translation_of: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
-title: "011 Mudança de Dimensão: A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas"
+title: "011 Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas"
 description: Uma reflexão sobre a passagem do pensamento orientado por projetos para a arquitetura de sistemas soberanos, capazes de evoluir para além de objetivos temporários.
 summary: Os projetos procuram resultados. Os sistemas criam condições para evolução contínua. Esta Core Recalibration explora a passagem da execução linear para ambientes soberanos capazes de adaptação, replicação e desenvolvimento duradouro.
 event_date: 2026-05-30T23:00:00+01:00
@@ -56,8 +56,8 @@ search: indexed
   "@type": "CreativeWork",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
   "url": "https://pivtorak.studio/pt/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
-  "headline": "Mudança de Dimensão: A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas",
-  "name": "Mudança de Dimensão: A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas",
+  "headline": "Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas",
+  "name": "Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas",
   "description": "Uma reflexão sobre a passagem do pensamento orientado por projetos para a arquitetura de sistemas soberanos capazes de evoluir para além de objetivos temporários.",
   "inLanguage": "pt-PT",
   "dateCreated": "2026-05-30",
@@ -95,11 +95,11 @@ search: indexed
 }
 </script>
 
-![Mudança de Dimensão: A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
+![Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Mudança de Dimensão: A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas
+# Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas
 
 _O projeto está orientado para um resultado temporário.   
 O sistema foca-se na reprodução e evolução infinitas._
@@ -129,5 +129,5 @@ Os sistemas geram as condições para que a energia circule.
 **Alt-text:**    
 Diagrama conceptual que representa a transição do pensamento linear baseado em projetos para sistemas soberanos autónomos capazes de evolução e desenvolvimento contínuo.
 
-_Mudança de Dimensão: A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas. AP | Pivtorak.Studio. 30.05.2026_    
+_Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas. AP | Pivtorak.Studio. 30.05.2026_    
 © Anna Pivtorak (Kostyuk)

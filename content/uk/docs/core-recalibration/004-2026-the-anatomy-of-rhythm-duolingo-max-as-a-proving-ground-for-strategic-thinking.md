@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: uk
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004 Анатомія ритму: Duolingo Max як полігон стратегічного мислення"
+title: "004 Анатомія Ритму. Duolingo Max як полігон стратегічного мислення"
 description: Роздуми про те, як Duolingo Max став когнітивним тренажером перед переходом до архітектури сайтів, системного мислення та роботи з кодом.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -55,7 +55,7 @@ search: indexed
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Анатомія ритму: Duolingo Max як полігон стратегічного мислення",
+  "headline": "Анатомія Ритму. Duolingo Max як полігон стратегічного мислення",
   "alternativeHeadline": "Ритм як розминка перед кодом",
   "description": "Роздуми про те, як Duolingo Max став когнітивним тренажером перед переходом до архітектури сайтів, системного мислення та роботи з кодом.",
   "inLanguage": "uk",
@@ -88,13 +88,13 @@ search: indexed
 
 <div class="float-right">
 
-![Анатомія ритму: Duolingo Max як полігон стратегічного мислення](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
+![Анатомія Ритму. Duolingo Max як полігон стратегічного мислення](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
 </div>
 
 **⟡ Перекалібрування Ядра**
 
-# Анатомія ритму: Duolingo Max як полігон стратегічного мислення
+# Анатомія Ритму. Duolingo Max як полігон стратегічного мислення
 
 _Ритм як розминка перед кодом_
 
@@ -137,7 +137,7 @@ Duolingo Max дав ясніть, швидкість і структуру. А �
 **Alt-text:**
 Футуристична цифрова композиція: перехід від Duolingo Max та ритму навчання до архітектури коду, системного мислення та індексації власного сайту.
 
-_Анатомія ритму: Duolingo Max як полігон стратегічного мислення. AP | Pivtorak.Studio. 18.05.2026_    
+_Анатомія Ритму. Duolingo Max як полігон стратегічного мислення. AP | Pivtorak.Studio. 18.05.2026_    
 © Анна Півторак (Костюк)  
 
 <a href="https://memoryon.net/uk/pages/duolingo-max-ce-ne-prosto-gra?pageId=6a0b20cc4bc829000b4c6f20">`Duolingo Max — це не просто гра`</a>

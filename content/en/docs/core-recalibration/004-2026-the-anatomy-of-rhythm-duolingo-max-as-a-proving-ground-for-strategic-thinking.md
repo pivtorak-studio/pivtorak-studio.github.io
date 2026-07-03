@@ -2,7 +2,7 @@
 id: core-recalibration-004-2026-anatomy-of-rhythm
 language: en
 translation_of: core-recalibration-004-2026-anatomy-of-rhythm
-title: "004 The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking"
+title: "004 The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking"
 description: An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
@@ -55,7 +55,7 @@ search: indexed
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking",
+  "headline": "The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking",
   "alternativeHeadline": "Rhythm as a Warm-Up Before Code",
   "description": "An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking.",
   "inLanguage": "en",
@@ -88,13 +88,13 @@ search: indexed
 
 <div class="float-right">
 
-![The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
+![The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
 </div>
 
 **⟡ Core Recalibration**
 
-# The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking  
+# The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking  
 
 _Rhythm as a warm-up before code_
 
@@ -134,7 +134,7 @@ Duolingo Max provided clarity, speed, and structure. And from there, the real ar
 **Alt-text:**  
 A futuristic digital composition showing the transition from Duolingo Max learning rhythms into code architecture, systems thinking, and indexed websites.
 
-_The Anatomy of Rhythm: Duolingo Max as a Proving Ground for Strategic Thinking. AP | Pivtorak.Studio. 18.05.2026_  
+_The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking. AP | Pivtorak.Studio. 18.05.2026_  
 © Anna Pivtorak (Kostyuk)
 
 

@@ -2,7 +2,7 @@
 id: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
 language: pt
 translation_of: core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture
-title: "009 Trabalho por Blocos: O Método da Pintura na Arquitetura Cognitiva"
+title: "009 Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva"
 description: Uma exploração da integridade faseada, cognição modular e trabalho por blocos como método operacional soberano derivado das técnicas clássicas da pintura e transposto para arquitetura digital, sistemas multilíngues e infraestrutura cognitiva.
 event_date: 2026-05-26T22:00:00
 publication_date: 2026-05-27T12:00:00
@@ -61,7 +61,7 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "@id": "https://pivtorak.studio/pt/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/",
-  "headline": "Trabalho por Blocos: O Método da Pintura na Arquitetura Cognitiva",
+  "headline": "Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva",
   "alternativeHeadline": "A mestria reside em garantir que o sistema esteja integrado em cada microciclo da sua criação.",
   "description": "Uma exploração da integridade faseada, cognição modular e trabalho por blocos como método operacional soberano derivado das técnicas clássicas da pintura e transposto para arquitetura digital, sistemas multilíngues e infraestrutura cognitiva.",
   "image": "https://pivtorak.studio/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp",
@@ -102,11 +102,11 @@ search: indexed
 }
 </script>
 
-![Trabalho por Blocos: O Método da Pintura na Arquitetura Cognitiva](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
+![Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
 
 **⟡ Recalibração do Núcleo**
 
-# Trabalho por Blocos: O Método da Pintura na Arquitetura Cognitiva
+# Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva
 
 _A mestria consiste em garantir que o sistema seja íntegro em cada microciclo da sua criação._
 
@@ -121,5 +121,5 @@ Este é o conceito de integridade por fases (phased integrity). O pensamento mod
 **Alt-text:**    
 Um espaço futurista de arquitetura cognitiva mostrando microciclos artísticos faseados, construção modular de sistemas, interfaces digitais e trabalho soberano por blocos visualizado através de etapas de pintura e estruturas cibernéticas.
 
-_Trabalho por Blocos: O Método da Pintura na Arquitetura Cognitiva. AP | Pivtorak.Studio. 26.05.2026_  
+_Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva. AP | Pivtorak.Studio. 26.05.2026_  
 © Anna Pivtorak (Kostyuk)

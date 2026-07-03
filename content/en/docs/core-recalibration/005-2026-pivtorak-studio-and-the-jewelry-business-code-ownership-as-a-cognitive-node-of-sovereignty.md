@@ -2,7 +2,7 @@
 id: core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty
 language: en
 translation_of: core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty
-title: "005 Pivtorak.Studio & TheJewelry.Business: Code Ownership as a Cognitive Node of Sovereignty"
+title: "005 Pivtorak.Studio & TheJewelry.Business. Code Ownership as a Cognitive Node of Sovereignty"
 description: An essay about building an autonomous digital ecosystem through Pivtorak.Studio and TheJewelry.Business, cognitive sovereignty, GitHub architecture, SEO, cybernetic thinking, and the transition from existing inside чужих platforms to owning the code and architecture of one’s own environment.
 event_date: 2026-05-19T15:00:00
 publication_date: 2026-05-19T15:00:00
@@ -57,7 +57,7 @@ search: indexed
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Pivtorak.Studio & TheJewelry.Business: Code Ownership as a Cognitive Node of Sovereignty",
+  "headline": "Pivtorak.Studio & TheJewelry.Business. Code Ownership as a Cognitive Node of Sovereignty",
   "description": "An essay about cognitive sovereignty, autonomous digital ecosystems, GitHub architecture and independent knowledge systems.",
   "author": {
     "@type": "Person",
@@ -88,13 +88,13 @@ search: indexed
 
 <div class="float-right">
 
-![Pivtorak Studio and The Jewelry Business: Code Ownership as a Cognitive Node of Sovereignty](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp)
+![Pivtorak Studio and The Jewelry Business. Code Ownership as a Cognitive Node of Sovereignty](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp)
 
 </div>
 
 **⟡ Core Recalibration**
 
-# Pivtorak.Studio & TheJewelry.Business: Code Ownership as a Cognitive Node of Sovereignty
+# Pivtorak.Studio & TheJewelry.Business. Code Ownership as a Cognitive Node of Sovereignty
 
 _When you own the code of your space, you no longer need intermediaries_
 
@@ -116,5 +116,5 @@ The ultimate achievement is the total dissolution of the internal conflict betwe
 **Alt-text:**    
 The dual system of sovereignty: Pivtorak.Studio and TheJewelry.Business as cognitive architectures of creativity, logic, GitHub versioning, and autonomous digital space.
 
-_Pivtorak.Studio & TheJewelry.Business: Code Ownership as a Cognitive Node of Sovereignty. AP | Pivtorak.Studio. 19.05.2026_  
+_Pivtorak.Studio & TheJewelry.Business. Code Ownership as a Cognitive Node of Sovereignty. AP | Pivtorak.Studio. 19.05.2026_  
 © Anna Pivtorak (Kostyuk)

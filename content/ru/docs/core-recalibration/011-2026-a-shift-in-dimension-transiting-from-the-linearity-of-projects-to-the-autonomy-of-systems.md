@@ -2,7 +2,7 @@
 id: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
 language: ru
 translation_of: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
-title: "011 Смена измерения: Переход от линейности проектов к автономии систем"
+title: "011 Смена Измерения. Переход от линейности проектов к автономии систем"
 description: Размышление о переходе от проектного мышления к архитектуре суверенных систем, способных развиваться за пределами временных целей.
 summary: Проекты ориентированы на результат. Системы создают условия для непрерывной эволюции. Эта Core Recalibration исследует переход от линейного выполнения задач к автономным средам, способным к развитию, адаптации и воспроизводству.
 event_date: 2026-05-30T23:00:00+01:00
@@ -56,8 +56,8 @@ search: indexed
   "@type": "CreativeWork",
   "@id": "https://pivtorak.studio/ru/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
   "url": "https://pivtorak.studio/ru/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
-  "headline": "Смена измерения: Переход от линейности проектов к автономии систем",
-  "name": "Смена измерения: Переход от линейности проектов к автономии систем",
+  "headline": "Смена Измерения. Переход от линейности проектов к автономии систем",
+  "name": "Смена Измерения. Переход от линейности проектов к автономии систем",
   "description": "Размышление о переходе от проектного мышления к архитектуре суверенных систем, способных развиваться за пределами временных целей.",
   "inLanguage": "ru",
   "dateCreated": "2026-05-30",
@@ -95,11 +95,11 @@ search: indexed
 }
 </script>
 
-![Смена измерения: Переход от линейности проектов к автономии систем](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
+![Смена Измерения. Переход от линейности проектов к автономии систем](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
 
 **⟡ Перекалибровка Ядра**
 
-# Смена измерения: Переход от линейности проектов к автономии систем
+# Смена Измерения. Переход от линейности проектов к автономии систем
 
 _Проект ориентирован на временный результат.     
 Система — на бесконечное воспроизводство и эволюцию._
@@ -129,5 +129,5 @@ _Проект ориентирован на временный результа�
 **Alt-text:**    
 Концептуальная схема перехода от линейного проектного мышления к автономным суверенным системам, способным к эволюции и долгосрочному развитию.
 
-_Смена измерения: Переход от линейности проектов к автономии систем. AP | Pivtorak.Studio. 30.05.2026_   
+_Смена Измерения. Переход от линейности проектов к автономии систем. AP | Pivtorak.Studio. 30.05.2026_   
 © Анна Пивторак (Костюк)   

@@ -2,7 +2,7 @@
 id: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
 language: uk
 translation_of: core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems
-title: "011 Зміна виміру: Перехід від лінійності проєктів до автономії систем"
+title: "011 Зміна Виміру. Перехід від лінійності проєктів до автономії систем"
 description: Роздуми про перехід від проєктного мислення до архітектури суверенних систем, здатних розвиватися поза межами тимчасових цілей та окремих результатів.
 summary: Проєкти орієнтовані на результат. Системи створюють умови для безперервної еволюції. Ця Core Recalibration досліджує перехід від лінійного виконання завдань до суверенних середовищ, здатних до адаптації, відтворення та довгострокового розвитку.
 event_date: 2026-05-30T23:00:00+01:00
@@ -56,8 +56,8 @@ search: indexed
   "@type": "CreativeWork",
   "@id": "https://pivtorak.studio/uk/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
   "url": "https://pivtorak.studio/uk/docs/core-recalibration/011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems/",
-  "headline": "Зміна виміру: Перехід від лінійності проєктів до автономії систем",
-  "name": "Зміна виміру: Перехід від лінійності проєктів до автономії систем",
+  "headline": "Зміна Виміру. Перехід від лінійності проєктів до автономії систем",
+  "name": "Зміна Виміру. Перехід від лінійності проєктів до автономії систем",
   "description": "Роздуми про перехід від проєктного мислення до архітектури суверенних систем, здатних розвиватися поза межами тимчасових цілей та окремих результатів.",
   "inLanguage": "uk",
   "dateCreated": "2026-05-30",
@@ -95,11 +95,11 @@ search: indexed
 }
 </script>
 
-![Зміна виміру: Перехід від лінійності проєктів до автономії систем](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
+![Зміна Виміру. Перехід від лінійності проєктів до автономії систем](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
 
 **⟡ Перекалібрування Ядра**
 
-# Зміна виміру: Перехід від лінійності проєктів до автономії систем
+# Зміна Виміру. Перехід від лінійності проєктів до автономії систем
 
 _Проєкт орієнтований на тимчасовий результат.     
 Система — на безкінечне відтворення та еволюцію._
@@ -131,5 +131,5 @@ _Проєкт орієнтований на тимчасовий результ�
 **Alt-text:**    
 Концептуальна схема переходу від лінійного проєктного мислення до автономних суверенних систем, здатних до еволюції, адаптації та довгострокового розвитку.
 
-_Зміна виміру: Перехід від лінійності проєктів до автономії систем. AP | Pivtorak.Studio. 30.05.2026_  
+_Зміна Виміру. Перехід від лінійності проєктів до автономії систем. AP | Pivtorak.Studio. 30.05.2026_  
 © Анна Півторак (Костюк)   

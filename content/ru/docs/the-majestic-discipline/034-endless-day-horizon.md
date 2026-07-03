@@ -105,6 +105,9 @@ guiding_question: Что я вижу за горизонтом?
 
 
 ![Бесконечный День Масштаба](/images/the-majestic-discipline-034-endless-day-horizon.webp)
+
+**⊙ Величественная Дисциплина**
+
 # 🕊️🌅🌍 Бесконечный День Масштаба
 
 **Endless Day Horizon**

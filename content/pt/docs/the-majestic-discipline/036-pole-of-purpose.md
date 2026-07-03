@@ -105,6 +105,8 @@ guiding_question: Onde convergem todos os meus caminhos?
 
 ![Polo do Propósito](/images/the-majestic-discipline-036-pole-of-purpose.webp)
 
+**⊙ A Disciplina Majestosa**
+
 # 🕊️❄️⊙ Polo do Propósito
 
 **Pole of Purpose**

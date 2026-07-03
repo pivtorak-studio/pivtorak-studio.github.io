@@ -105,6 +105,8 @@ guiding_question: Де сходяться всі мої шляхи?
 
 ![Полюс Призначення](/images/the-majestic-discipline-036-pole-of-purpose.webp)
 
+**⊙ Велична Дисципліна**
+
 # 🕊️❄️⊙ Полюс Призначення
 
 **Pole of Purpose**

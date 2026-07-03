@@ -105,6 +105,8 @@ guiding_question: Где сходятся все мои пути?
 
 ![Полюс Предназначения](/images/the-majestic-discipline-036-pole-of-purpose.webp)
 
+**⊙ Величественная Дисциплина**
+
 # 🕊️❄️⊙ Полюс Предназначения
 
 **Pole of Purpose**

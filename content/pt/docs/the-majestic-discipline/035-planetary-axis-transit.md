@@ -105,6 +105,8 @@ guiding_question: Como mantenho o meu rumo?
 
 ![Trânsito Eixo Planetário](/images/the-majestic-discipline-035-planetary-axis-transit.webp)
 
+**⊙ A Disciplina Majestosa**
+
 # 🕊️🌊📍 Trânsito Eixo Planetário
 
 **Planetary Axis Transit**

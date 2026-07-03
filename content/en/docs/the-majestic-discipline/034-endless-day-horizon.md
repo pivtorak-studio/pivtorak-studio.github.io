@@ -105,6 +105,7 @@ guiding_question: What do I see beyond the horizon?
 
 ![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon.webp)
 
+**⊙ The Majestic Discipline**
 
 # 🕊️🌅🌍 Endless Day Horizon
 

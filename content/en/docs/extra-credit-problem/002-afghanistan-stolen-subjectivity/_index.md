@@ -2,14 +2,14 @@
 id: extra-credit-problem-002-afghanistan-stolen-subjectivity
 language: en
 translation_of: extra-credit-problem-002-afghanistan-stolen-subjectivity
-title: "002 Afghanistan: Stolen Subjectivity"
+title: "002 Afghanistan. Stolen Subjectivity"
 description: "A civilizational study of dehumanization, the collapse of patriarchal responsibility, and the restoration of human dignity through a 54-part systemic analysis."
 summary: "Afghanistan became the second civilizational case study within The Asterisk Problem. This research investigates the mechanisms that allow societies to lose the ability to protect their own children, dismantle institutions of responsibility, and transform human beings into resources for survival."
 event_date: 2026-06-22T21:00:00
 publication_date: 2026-06-22T21:00:00
 lastmod: 2026-06-22T21:00:00
 slug: 002-afghanistan-stolen-subjectivity
-aliases: ["Afghanistan: Stolen Subjectivity", "Afghanistan: New Dignity", "Afghanistan 2.0"]
+aliases: ["Afghanistan. Stolen Subjectivity", "Afghanistan. New Dignity", "Afghanistan 2.0"]
 tags: [Afghanistan, StolenSubjectivity, HumanDignity, Patriarchy, Dehumanization, Taliban, GenderApartheid, HumanRights, SystemicAnalysis, ExtraCreditProblem]
 keywords: [Afghanistan, stolen subjectivity, failure of patriarchy, human dignity, Taliban, child marriage, dehumanization, gender apartheid, systemic analysis, civilizational transition]
 categories: [Extra Credit Problem, Civilizational Research, Systemic Analysis, Human Rights]
@@ -53,8 +53,8 @@ navigation_order: 002
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
   "url": "https://pivtorak.studio/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
-  "name": "AFGHANISTAN: STOLEN SUBJECTIVITY",
-  "headline": "AFGHANISTAN: STOLEN SUBJECTIVITY",
+  "name": "Afghanistan. STOLEN SUBJECTIVITY",
+  "headline": "Afghanistan. STOLEN SUBJECTIVITY",
   "alternativeHeadline": "The Failure of Patriarchy and the Design of New Dignity",
   "description": "A civilizational study of dehumanization, the collapse of patriarchal responsibility, and the restoration of human dignity through a 54-part systemic analysis.",
   "inLanguage": "en",
@@ -86,7 +86,7 @@ navigation_order: 002
 </script>
 
 
-![Afghanistan: Stolen Subjectivity](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
+![Afghanistan. Stolen Subjectivity](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
 
 **👨‍⚖️ Author's Declaration**  
 
@@ -127,7 +127,7 @@ The ultimate consequence is the degradation of a society to a state where a chil
 
 **✯ Extra Credit Problem (The Asterisk Problem)**
 
-# AFGHANISTAN: STOLEN SUBJECTIVITY  
+# Afghanistan. STOLEN SUBJECTIVITY  
 
 *The Failure of Patriarchy and the Design of New Dignity*  
 
@@ -181,7 +181,7 @@ Between them lies the path of returning the human being to oneself.
 **Alt-text:**  
 A monumental composition depicting the transition from stolen subjectivity to restored human dignity: the dark silhouette of Afghanistan gradually transforms into a space where women, children, and human beings once again become full subjects of civilization.
 
-_Extra Credit Problem (The Asterisk Problem). Afghanistan: Stolen Subjectivity. AP | Pivtorak.Studio. 22.06.2026_  
+_Extra Credit Problem (The Asterisk Problem). Afghanistan. Stolen Subjectivity. AP | Pivtorak.Studio. 22.06.2026_  
 © Anna Pivtorak (Kostyuk) 
 
 🛡️ This publication is part of an authorial research and artistic project.  

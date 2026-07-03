@@ -2,14 +2,14 @@
 id: extra-credit-problem-002-afghanistan-stolen-subjectivity
 language: pt
 translation_of: extra-credit-problem-002-afghanistan-stolen-subjectivity
-title: "002 Afeganistão: Subjectividade Roubada"
+title: "002 Afeganistão. Subjectividade Roubada"
 description: "Um estudo civilizacional da desumanização, do colapso da responsabilidade patriarcal e da restauração da dignidade humana através de uma análise sistémica em 54 partes."
 summary: "O Afeganistão tornou-se o segundo caso civilizacional do projecto The Asterisk Problem. Esta investigação estuda os mecanismos que permitem às sociedades perder a capacidade de proteger as suas próprias crianças, destruir as instituições de responsabilidade e transformar seres humanos em recursos de sobrevivência."
 event_date: 2026-06-22T21:00:00
 publication_date: 2026-06-22T21:00:00
 lastmod: 2026-06-22T21:00:00
 slug: 002-afghanistan-stolen-subjectivity
-aliases: ["Afeganistão: Subjectividade Roubada", "Afeganistão: Nova Dignidade", "Afeganistão 2.0"]
+aliases: ["Afeganistão. Subjectividade Roubada", "Afeganistão. Nova Dignidade", "Afeganistão 2.0"]
 tags: [Afeganistão, SubjectividadeRoubada, DignidadeHumana, Patriarcado, Desumanização, Taliban, ApartheidDeGénero, DireitosHumanos, AnáliseSistémica, DesafioDeNívelSuperior]
 keywords: [Afeganistão, subjectividade roubada, fracasso do patriarcado, dignidade humana, Taliban, casamento infantil, desumanização, apartheid de género, análise sistémica, transição civilizacional]
 categories: [Desafio de Nível Superior, Investigação Civilizacional, Análise Sistémica, Direitos Humanos]
@@ -53,8 +53,8 @@ navigation_order: 002
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/pt/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
   "url": "https://pivtorak.studio/pt/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/",
-  "name": "AFEGANISTÃO: SUBJECTIVIDADE ROUBADA",
-  "headline": "AFEGANISTÃO: SUBJECTIVIDADE ROUBADA",
+  "name": "Afeganistão. SUBJECTIVIDADE ROUBADA",
+  "headline": "Afeganistão. SUBJECTIVIDADE ROUBADA",
   "alternativeHeadline": "O Fracasso do Patriarcado e o Projecto da Nova Dignidade",
   "description": "Um estudo civilizacional da desumanização, do colapso da responsabilidade patriarcal e da restauração da dignidade humana através de uma análise sistémica em 54 partes.",
   "inLanguage": "pt-PT",
@@ -85,7 +85,7 @@ navigation_order: 002
 }
 </script>
 
-![Afeganistão: Subjectividade Roubada](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
+![Afeganistão. Subjectividade Roubada](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
 
 **👨‍⚖️ Declaração da Autora**  
 
@@ -126,7 +126,7 @@ A consequência final é a degradação da sociedade até um estado em que a cri
 
 **✯ Desafio De Nível Superior (Problema com Estrela)**
 
-# AFEGANISTÃO: SUBJECTIVIDADE ROUBADA
+# Afeganistão. SUBJECTIVIDADE ROUBADA
 
 *O Fracasso do Patriarcado e a Projeção de uma Nova Dignidade*
 
@@ -179,7 +179,7 @@ Entre ambos encontra-se o caminho do regresso do ser humano a si próprio.
 **Alt-text:**  
 Uma composição monumental que representa a transição da subjectividade roubada para a dignidade humana restaurada: a silhueta escura do Afeganistão transforma-se gradualmente num espaço onde as mulheres, as crianças e os seres humanos voltam a tornar-se sujeitos plenos da civilização.  
 
-_✯ Desafio De Nível Superior (Problema com Estrela). Afeganistão: Subjectividade Roubada. AP | Pivtorak.Studio. 22.06.2026_  
+_✯ Desafio De Nível Superior (Problema com Estrela). Afeganistão. Subjectividade Roubada. AP | Pivtorak.Studio. 22.06.2026_  
 © Anna Pivtorak (Kostyuk) 
 
 🛡️ Esta publicação faz parte de um projeto autoral de investigação e criação artística.   

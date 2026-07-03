@@ -1823,6 +1823,26 @@
                 href="http://localhost:1313/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/roots-parents/nadiia-kostyuk/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/</loc>
+    <lastmod>2026-05-31T23:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/uk/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/04-03-point-of-vulnerability-information-fragility/</loc>
     <lastmod>2026-01-22T23:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1901,6 +1921,26 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/docs/peaceful-life/013-childhood-must-be-warm/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/uk/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/05-02-protest-environment-parallel-structures/</loc>
@@ -2065,6 +2105,26 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/docs/peaceful-life/016-memory-simple-food/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/uk/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/06-02-desacralization-of-fear-loss-of-subjectivity/</loc>
@@ -3962,6 +4022,46 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
+    <loc>http://localhost:1313/en/tags/calibrated-perfectionism/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/cognitive-completion/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/engineering-quality/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/product-autonomy/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/production-discipline/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/production-pipeline/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/quality-assurance/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/semantic-quality/</loc>
+    <lastmod>2026-06-27T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
     <loc>http://localhost:1313/en/categories/cognitive-science/</loc>
     <lastmod>2026-06-26T11:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4206,6 +4306,66 @@
                 hreflang="pt"
                 href="http://localhost:1313/pt/tags/ultradeepwork/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/consciousness-architecture/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/consciousness-architecture/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/deficiency/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/fluid-dynamics/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/fluid-dynamics/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/physics-of-containment/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/physics-of-sovereignty/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/scale-congruence/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/sovereign-systems/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/sovereign-thinking/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/systemic-underloading/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/unrealized-surplus/</loc>
+    <lastmod>2026-06-15T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url><url>
     <loc>http://localhost:1313/en/tags/dignity/</loc>
     <lastmod>2026-06-09T10:00:00+00:00</lastmod>
@@ -4702,6 +4862,36 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
+    <loc>http://localhost:1313/en/categories/architecture-of-meaning/</loc>
+    <lastmod>2026-05-31T23:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/meaningenvironments/</loc>
+    <lastmod>2026-05-31T23:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/sovereignthinking/</loc>
+    <lastmod>2026-05-31T23:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/structuraldesign/</loc>
+    <lastmod>2026-05-31T23:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/systems-design/</loc>
+    <lastmod>2026-05-31T23:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/vitruviantriad/</loc>
+    <lastmod>2026-05-31T23:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
     <loc>http://localhost:1313/en/categories/architecture-of-action/</loc>
     <lastmod>2026-05-30T23:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4723,11 +4913,6 @@
     <priority>0.7</priority>
   </url><url>
     <loc>http://localhost:1313/en/tags/strategic-design/</loc>
-    <lastmod>2026-05-30T23:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url><url>
-    <loc>http://localhost:1313/en/categories/systems-design/</loc>
     <lastmod>2026-05-30T23:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

@@ -2,7 +2,7 @@
 id: core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential
 language: uk
 translation_of: core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential
-title: "014 Перекалібровка Дефіцитарності. не Нестача, а Системна Недозавантаженість Потенціалу"
+title: 014 Перекалібровка Дефіцитарності. Не Нестача, а Системна Недозавантаженість Потенціалу
 slug: 014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential
 description: Формалізація переходу від мислення нестачі до системної недозавантаженості потенціалу через кібернетику, гідродинаміку та архітектуру суверенності.
 summary: Дослідження CoreRecalibration, що вводить Принцип Узгодженості Масштабів, Фізику Стримування та Фізику Суверенності для пояснення екзистенційного тиску за умов зовнішнього благополуччя.
@@ -103,11 +103,11 @@ search: indexed
 }
 </script>
 
-![Перекалібровка Дефіцитарності. не Нестача, а Системна Недозавантаженість Потенціалу](/images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.webp)
+![Перекалібровка Дефіцитарності. Не Нестача, а Системна Недозавантаженість Потенціалу](/images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.webp)
 
 **⟡ Перекалібрування Ядра**
 
-# Перекалібровка Дефіцитарності. не Нестача, а Системна Недозавантаженість Потенціалу
+# Перекалібровка Дефіцитарності. Не Нестача, а Системна Недозавантаженість Потенціалу
 
 _Архітектура всесвіту, що не мала карти_  
 

@@ -336,6 +336,62 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Calibrated Perfectionism</title>
+				<link>http://localhost:1313/en/tags/calibrated-perfectionism/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/calibrated-perfectionism/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cognitive Completion</title>
+				<link>http://localhost:1313/en/tags/cognitive-completion/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/cognitive-completion/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Engineering Quality</title>
+				<link>http://localhost:1313/en/tags/engineering-quality/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/engineering-quality/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Product Autonomy</title>
+				<link>http://localhost:1313/en/tags/product-autonomy/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/product-autonomy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Production Discipline</title>
+				<link>http://localhost:1313/en/tags/production-discipline/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/production-discipline/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Production Pipeline</title>
+				<link>http://localhost:1313/en/tags/production-pipeline/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/production-pipeline/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Quality Assurance</title>
+				<link>http://localhost:1313/en/tags/quality-assurance/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/quality-assurance/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Semantic Quality</title>
+				<link>http://localhost:1313/en/tags/semantic-quality/</link>
+				<pubDate>Sat, 27 Jun 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/semantic-quality/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>CognitiveArchitecture</title>
 				<link>http://localhost:1313/en/tags/cognitivearchitecture/</link>
 				<pubDate>Fri, 26 Jun 2026 11:00:00 +0100</pubDate>
@@ -522,6 +578,69 @@
 				<link>http://localhost:1313/en/tags/ultradeepwork/</link>
 				<pubDate>Wed, 17 Jun 2026 15:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/en/tags/ultradeepwork/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Consciousness-Architecture</title>
+				<link>http://localhost:1313/en/tags/consciousness-architecture/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/consciousness-architecture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Deficiency</title>
+				<link>http://localhost:1313/en/tags/deficiency/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/deficiency/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fluid-Dynamics</title>
+				<link>http://localhost:1313/en/tags/fluid-dynamics/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/fluid-dynamics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Physics-of-Containment</title>
+				<link>http://localhost:1313/en/tags/physics-of-containment/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/physics-of-containment/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Physics-of-Sovereignty</title>
+				<link>http://localhost:1313/en/tags/physics-of-sovereignty/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/physics-of-sovereignty/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scale-Congruence</title>
+				<link>http://localhost:1313/en/tags/scale-congruence/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/scale-congruence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sovereign-Thinking</title>
+				<link>http://localhost:1313/en/tags/sovereign-thinking/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/sovereign-thinking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Systemic-Underloading</title>
+				<link>http://localhost:1313/en/tags/systemic-underloading/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/systemic-underloading/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Unrealized-Surplus</title>
+				<link>http://localhost:1313/en/tags/unrealized-surplus/</link>
+				<pubDate>Mon, 15 Jun 2026 09:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/unrealized-surplus/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -956,6 +1075,34 @@
 				<link>http://localhost:1313/en/tags/rhythmic-gymnastics/</link>
 				<pubDate>Tue, 02 Jun 2026 21:00:00 +0100</pubDate>
 				<guid>http://localhost:1313/en/tags/rhythmic-gymnastics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MeaningEnvironments</title>
+				<link>http://localhost:1313/en/tags/meaningenvironments/</link>
+				<pubDate>Sun, 31 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/meaningenvironments/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SovereignThinking</title>
+				<link>http://localhost:1313/en/tags/sovereignthinking/</link>
+				<pubDate>Sun, 31 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/sovereignthinking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>StructuralDesign</title>
+				<link>http://localhost:1313/en/tags/structuraldesign/</link>
+				<pubDate>Sun, 31 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/structuraldesign/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>VitruvianTriad</title>
+				<link>http://localhost:1313/en/tags/vitruviantriad/</link>
+				<pubDate>Sun, 31 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/tags/vitruviantriad/</guid>
 				<description></description>
 			</item>
 			<item>

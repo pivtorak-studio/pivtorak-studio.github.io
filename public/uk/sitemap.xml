@@ -1849,6 +1849,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/"
                 />
@@ -1956,6 +1961,11 @@
                 rel="alternate"
                 hreflang="uk"
                 href="http://localhost:1313/uk/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/"
                 />
     <xhtml:link
                 rel="alternate"

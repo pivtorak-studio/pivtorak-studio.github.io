@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>MeaningEnvironments on Pivtorak.Studio</title>
+		<link>http://localhost:1313/en/tags/meaningenvironments/</link>
+		<description>Recent content in MeaningEnvironments on Pivtorak.Studio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 23:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/meaningenvironments/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>012 The Architecture of Meaning Environments. The Vitruvian Triad of Sovereign Thinking</title>
+				<link>http://localhost:1313/en/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/</link>
+				<pubDate>Sun, 31 May 2026 23:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/en/docs/core-recalibration/012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking/</guid>
+				<description>Construction creates objects. Architecture designs the environments in which those objects become possible. This article marks the final stage of Core Recalibration and introduces the architecture of meaning environments as a sovereign systems-thinking discipline.</description>
+			</item>
+	</channel>
+</rss>

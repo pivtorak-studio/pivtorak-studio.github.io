@@ -127,11 +127,14 @@ guiding_question: Consigo manter a orientação perfeita quando todas as referê
 
 **The Zero Point**
 
-A formiga-do-deserto _Cataglyphis_ inicia o ciclo de julho não pelo movimento, mas pelo zero. Este instante é o fundamento de todo o seu sistema de navegação. Antes de dar o primeiro passo, ainda não existe direção, mas já existe a capacidade de regressar. Toda a trajetória futura nasce neste ponto de equilíbrio interior absoluto.
+A formiga-do-deserto **Cataglyphis** entra num mundo onde já não existem referências. A areia escaldante não conserva pegadas, os odores desaparecem imediatamente e todos os horizontes parecem iguais. Sob as suas patas brilha apenas um pequeno ponto dourado — a origem do seu próprio sistema de coordenadas. É aqui que começa toda a verdadeira navegação.
 
-Quando o mundo exterior deixa de oferecer referências, começa a verdadeira navegação. A _Cataglyphis_ não deixa trilhos de odor, não segue caminhos nem utiliza pontos de referência. Constrói o seu próprio mapa enquanto caminha, somando continuamente cada passo realizado. O ponto zero não representa vazio; representa o único momento em que ainda não existe qualquer erro acumulado. Por isso, todo o regresso começa antes da própria viagem. Qualquer sistema verdadeiramente estável consegue sempre reencontrar o seu próprio zero.
+O zero não representa o fim do caminho anterior, mas o início de um novo cálculo. Quando os antigos mapas deixam de servir e as referências exteriores desaparecem, desperta a inteligência interior. A _Cataglyphis_ nunca procura um caminho preparado; constrói-o passo após passo. Cada movimento é somado ao seu odómetro interno e cada direção torna-se parte do futuro regresso. A autonomia nasce precisamente quando já não resta nada além do próprio cálculo.
 
-O zero interior não significa inação. É um estado de serenidade onde o acaso deixa de dominar. É daí que nasce uma disciplina independente das circunstâncias. Quando o centro permanece imóvel, cada passo seguinte já conhece a sua direção.
+O zero interior é um estado de silêncio absoluto, onde deixa de ser necessário lutar contra o mundo. A direção deixa de vir do exterior e passa a nascer no interior. A disciplina começa não com o movimento, mas com a coragem de apagar todos os mapas antigos e confiar no próprio centro.
+
+**Não existem referências exteriores. O mapa foi queimado. O meu percurso começa no zero.**  
+**There are no external landmarks. The map is burned away. My journey begins from zero.**
 
 **Todo o regresso começa no teu próprio zero.**  
 **Every return begins from your own zero.**

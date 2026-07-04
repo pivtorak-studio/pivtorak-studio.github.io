@@ -136,5 +136,5 @@ Inner stillness arrives when nothing more needs to be verified. The center has a
 **Alt-text:**  
 A golden desert ant _Cataglyphis_ returns across the desert along a perfectly straight beam of light. Beneath this direct path, the intricate network of its earlier zigzag search trajectories remains visible, unified by a single resulting vector. The sunlight is crystal clear, and the landscape reveals a precise geometric order where apparent chaos resolves into the shortest path home.
 
-_The Majestic Discipline. 039. The Direct Return. AP | Pivtorak.Studio. 04.07.2026_  
+_The Majestic Discipline. The Direct Return. AP | Pivtorak.Studio. 04.07.2026_  
 © Anna Pivtorak (Kostyuk)

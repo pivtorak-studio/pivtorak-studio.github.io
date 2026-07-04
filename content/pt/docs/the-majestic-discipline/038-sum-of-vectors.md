@@ -139,5 +139,5 @@ A disciplina não exige um movimento perfeitamente reto. Exige apenas que nenhum
 **Alt-text:**  
 Uma formiga-do-deserto dourada _Cataglyphis_ desloca-se rapidamente sobre a areia texturada do Sara. Atrás dela surge uma cadeia geométrica luminosa de vetores em ziguezague, com cada mudança de direção subtilmente iluminada. No céu, finas linhas de luz polarizada convergem para o sol no zénite.
 
-_A Disciplina Majestosa. Soma dos Vetores (The Sum of Vectors). AP | Pivtorak.Studio. 04.07.2026_  
+_A Disciplina Majestosa. Soma dos Vetores. AP | Pivtorak.Studio. 04.07.2026_  
 © Anna Pivtorak (Kostyuk)

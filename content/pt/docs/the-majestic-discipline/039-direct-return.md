@@ -140,5 +140,5 @@ A serenidade interior nasce quando já não existe necessidade de verificar o ca
 **Alt-text:**  
 Uma formiga-do-deserto dourada _Cataglyphis_ regressa através do deserto seguindo um feixe luminoso perfeitamente reto. Sob esta linha direta permanece visível a complexa rede das suas trajetórias anteriores em ziguezague, agora unificadas por um único vetor resultante. A luz do sol é cristalina e a paisagem revela uma geometria precisa, onde o aparente caos se transforma no caminho mais curto para casa.
 
-_A Disciplina Majestosa. Regresso Direto (The Direct Return). AP | Pivtorak.Studio. 04.07.2026_  
+_A Disciplina Majestosa. Regresso Direto. AP | Pivtorak.Studio. 04.07.2026_  
 © Anna Pivtorak (Kostyuk)

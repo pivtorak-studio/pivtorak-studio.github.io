@@ -2,7 +2,7 @@
 id: the-majestic-discipline-037-zero-navigation
 language: ru
 translation_of: the-majestic-discipline-037-zero-navigation
-title: 037 Точка Нуля
+title: 037 Ноль Навигации
 description: Любое настоящее возвращение начинается с нуля. Вдохновлённая пустынной муравьихой Cataglyphis, эта работа исследует момент, когда навигация рождается из внутреннего равновесия, а не из внешних ориентиров.
 summary: Первая работа июльского цикла Cataglyphis представляет Точку Нуля — источник любой ориентации. До появления направления автономная система создаёт собственный центр. Ноль — это не пустота, а идеальная калибровка.
 event_date: 2026-07-03T15:00:00
@@ -24,7 +24,7 @@ tags:
   - Математика
   - СистемноеМышление
 keywords:
-  - точка нуля
+  - Ноль Навигации
   - навигация нуля
   - Cataglyphis
   - пустынная муравьиха
@@ -78,7 +78,7 @@ guiding_question: Смогу ли я сохранить точную ориен�
     "@type":"WebPage",
     "@id":"https://pivtorak.studio/ru/docs/the-majestic-discipline/037-zero-navigation/"
   },
-  "headline":"037. Точка Нуля",
+  "headline":"037. Ноль Навигации",
   "alternativeHeadline":"The Zero Point",
   "description":"Любое настоящее возвращение начинается с нуля. Работа, вдохновлённая пустынной муравьихой Cataglyphis, исследует автономную навигацию через внутреннюю калибровку вместо внешних ориентиров.",
   "inLanguage":"ru",
@@ -99,11 +99,11 @@ guiding_question: Смогу ли я сохранить точную ориен�
   "image":{
     "@type":"ImageObject",
     "url":"https://pivtorak.studio/images/the-majestic-discipline-037-zero-navigation.webp",
-    "caption":"Точка Нуля"
+    "caption":"Ноль Навигации"
   },
   "articleSection":"Величественная Дисциплина",
   "keywords":[
-    "Точка Нуля",
+    "Ноль Навигации",
     "Cataglyphis",
     "Квантовая Навигация",
     "Интегрирование Пути",
@@ -119,10 +119,10 @@ guiding_question: Смогу ли я сохранить точную ориен�
 </script>
 
 
-![Точка Нуля](/images/the-majestic-discipline-037-zero-navigation.webp)
+![Ноль Навигации](/images/the-majestic-discipline-037-zero-navigation.webp)
 **⊙ Величественная Дисциплина**
 
-# 🐜 ☀️ ∅ Точка Нуля
+# 🐜 ☀️ ∅ Ноль Навигации
 
 **The Zero Point**
 
@@ -140,5 +140,5 @@ guiding_question: Смогу ли я сохранить точную ориен�
 **Alt-text:**  
 Золотая пустынная муравьиха _Cataglyphis_ стоит на гладком горячем песке Сахары на рассвете. Вокруг нет следов и ориентиров. Над ней — чистое небо с мягкой поляризацией света, а под лапками светится маленькая золотая точка, символизирующая начало координат и внутренний ноль.
 
-_Величественная Дисциплина. Точка Нуля (The Zero Point). AP | Pivtorak.Studio. 03.07.2026_  
+_Величественная Дисциплина. Ноль Навигации (The Zero Point). AP | Pivtorak.Studio. 03.07.2026_  
 © Анна Пивторак (Костюк)

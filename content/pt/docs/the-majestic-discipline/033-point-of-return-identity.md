@@ -112,6 +112,8 @@ O estado interior é a calma da conclusão. Não há tensão de movimento, apena
 **O lugar não são coordenadas, é a tua verdadeira natureza.**  
 **A place is not coordinates, but your true nature.**
 
+![Ponto de Retorno. Identidade](/images/the-majestic-discipline-033-point-of-return-identity-01.webp)
+
 **Alt-text:**  
 Uma majestosa tartaruga marinha emerge do oceano noturno para um areal sob o brilho das estrelas, concluindo a sua longa jornada e regressando às origens.
 

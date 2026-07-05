@@ -93,7 +93,8 @@ Value does not exist outside of context. Within the Studio, value is the result 
 
 ### V. Continuity Statement   
 
-The system is oriented toward intergenerational transmission of knowledge and assets. Each element functions as a carrier of accumulated value within a unified coordinate framework.  
+The system is oriented toward intergenerational transmission of knowledge and assets.   
+Each element functions as a carrier of accumulated value within a unified coordinate framework.  
 
 ### VI. Object Status (Object Status / Market Position)  
 

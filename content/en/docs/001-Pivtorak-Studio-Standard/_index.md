@@ -34,7 +34,7 @@ publication_date: 2025-01-07
 
 *An open system of methods, structures, and requirements for expert and research documentation.*  
 This section defines not just internal rules.  
-It defines **how knowledge becomes a document.**
+It defines **how knowledge becomes a document.**  
 
 ## Principle  
 

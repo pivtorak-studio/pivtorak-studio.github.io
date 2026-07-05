@@ -5,7 +5,7 @@ title: ∴  0.01 Pivtorak.Studio — Site Oficial | Anna Pivtorak (Kostyuk)
 description: Official website of Anna Pivtorak (Kostyuk) — investigadora, autora e criadora de projetos culturais.
 weight: 1
 event_date: 2023-07-16
-publication_date: 2026-03-18
+publication_date: 2023-07-16
 event_type: concept
 tags:
   - Anna Pivtorak

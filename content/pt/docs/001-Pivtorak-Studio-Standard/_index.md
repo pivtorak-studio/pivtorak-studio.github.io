@@ -11,6 +11,7 @@ publication_date: 2025-01-07
 # 🏛️ Pivtorak Studio Standard  
 
 *Um sistema aberto de métodos, estruturas e requisitos para documentação especializada e de investigação.*   
+
 Esta secção define não apenas regras internas.  
 Define **como o conhecimento se torna um documento.**  
 

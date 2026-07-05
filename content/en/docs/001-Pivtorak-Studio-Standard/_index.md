@@ -33,6 +33,7 @@ publication_date: 2025-01-07
 # 🏛️ Pivtorak Studio Standard 
 
 *An open system of methods, structures, and requirements for expert and research documentation.*  
+
 This section defines not just internal rules.  
 It defines **how knowledge becomes a document.**  
 

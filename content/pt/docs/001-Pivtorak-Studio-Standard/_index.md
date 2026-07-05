@@ -1,48 +1,57 @@
 ---
-title: "🏛️ Pivtorak Studio Standard"
-description: "Sistema de normas para dossiês periciais, investigação e documentação institucional."
+title: 🏛️ Pivtorak Studio Standard
+description: Sistema de normas para dossiês periciais, investigação e documentação institucional.
 bookCollapseSection: true
 weight: 10
+event_date: 2025-01-07
+publication_date: 2025-01-07
 ---
+![Pivtorak Studio Standard](/images/001-pivtorak-studio-standard.webp)
 
 # 🏛️ Pivtorak Studio Standard  
-*Sistema aberto de normas e metodologias.*  
 
----
+*Um sistema aberto de métodos, estruturas e requisitos para documentação especializada e de investigação.*  
+Esta secção define não apenas regras internas.
+Define **como o conhecimento se torna um documento.**
 
-## Princípio  
-O padrão surge da precisão e consistência.  
+## Princípio
 
----
+Um padrão surge onde existe consistência, precisão e responsabilidade.  
+Cada documento faz parte de um **sistema coerente de pensamento e estrutura.**  
 
 ## Abertura  
-Uso livre para:  
-– estudantes  
-– investigadores  
-– especialistas  
 
----
+Todos os padrões são de acesso público.
 
-## Estrutura  
-– objetivo   
-– método  
-– evidência  
-– forma  
+Podem ser usados ​​​​por:
+– estudantes
+– pesquisadores
+– acadêmicos
+– especialistas independentes
 
----
+## Estrutura
 
-## Normas atuais  
-– PSS-01: Dossiê Teológico  
+Cada padrão define:
+– propósito
+– estrutura
+– requisitos de evidência
+– princípios de design
 
----
+## Papel
 
-## Definição  
-**Um padrão é uma forma de rigor.**
+Um padrão é:
+– metodologia
+– sistema de qualidade
+– protocolo de conhecimento
 
----
+## Definição
 
-*Pivtorak Studio Standard. 
-Pivtorak.Studio. 07.01.2026*
+**Um padrão não é uma limitação.
+É uma forma de precisão.**
+
+
+*Pivtorak Studio Standard. AP | Pivtorak.Studio. 07.01.2025*  
+© Anna Pivtorak (Kostyuk)
 
 ---
 

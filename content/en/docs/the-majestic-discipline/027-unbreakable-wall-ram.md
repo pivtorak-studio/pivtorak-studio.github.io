@@ -102,6 +102,6 @@ The inner state of this phase is clear determination. There is no room for doubt
 **Alt-text:**  
 A bear in powerful motion: either smashing a stone barrier with its paw or standing in a massive defensive stance resembling an unmovable wall. Around it — wind, debris, and dynamic air currents highlighting the force of impact or the immovability of its position.
 
-_Unbreakable. Wall. Ram.The Direct Return. AP | Pivtorak.Studio. 20.11.2025_  
+_Unbreakable. Wall. Ram.Unbreakable. Wall. Ram. AP | Pivtorak.Studio. 20.11.2025_  
 © Anna Pivtorak (Kostyuk)
 

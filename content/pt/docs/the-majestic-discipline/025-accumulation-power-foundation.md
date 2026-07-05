@@ -22,7 +22,7 @@ tags:
   - Preparação
   - DisciplinaMajestosa
 keywords:
-  - acumulação força fundação
+  - Acumulação Força. Fundação
   - urso europeu
   - paciência estratégica
   - força oculta
@@ -110,12 +110,12 @@ guiding_question: Que tipo de força se constrói muito antes de se tornar visí
 }
 </script>
 
-![Acumulação Força Fundação](/images/the-majestic-discipline-025-accumulation-power-foundation.webp)
+![Acumulação Força. Fundação](/images/the-majestic-discipline-025-accumulation-power-foundation.webp)
 
 **⊙ A Disciplina Majestosa**
 
 
-# 🐻🏔️⏳ Acumulação Força Fundação  
+# 🐻🏔️⏳ Acumulação Força. Fundação  
 
 **Accumulation Of Power**
 
@@ -128,10 +128,10 @@ O estado interior desta etapa é uma calma que toca a tensão. A quietude aqui n
 **As maiores montanhas não têm pressa. A sua força vive no fundamento.**  
 **The greatest mountains never rush. Their power lives in the foundation.**
 
-![Acumulação Força Fundação](/images/the-majestic-discipline-025-accumulation-power-foundation-01.webp)
+![Acumulação Força. Fundação](/images/the-majestic-discipline-025-accumulation-power-foundation-01.webp)
 
 **Alt-text:**  
 Um grande urso pardo dorme dentro da sua toca de inverno. O seu corpo maciço está parcialmente coberto por sombras, mas emana uma sensação clara de força acumulada e presença silenciosa. À volta — neve, árvores, luz fria de inverno e a atmosfera de poder oculto.
 
-_A Disciplina Majestosa. Acumulação Força Fundação. AP | Pivtorak.Studio. 20.11.2025_  
+_A Disciplina Majestosa. Acumulação Força. Fundação. AP | Pivtorak.Studio. 20.11.2025_  
 © Anna Pivtorak (Kostyuk)

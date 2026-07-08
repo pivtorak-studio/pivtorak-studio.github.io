@@ -126,7 +126,7 @@ A consequência final é a degradação da sociedade até um estado em que a cri
 
 **✯ Desafio De Nível Superior (Problema com Estrela)**
 
-# Afeganistão. SUBJECTIVIDADE ROUBADA
+# AFEGANISTÃO. SUBJECTIVIDADE ROUBADA
 
 *O Fracasso do Patriarcado e a Projeção de uma Nova Dignidade*
 

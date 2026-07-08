@@ -127,7 +127,7 @@ The ultimate consequence is the degradation of a society to a state where a chil
 
 **✯ Extra Credit Problem (The Asterisk Problem)**
 
-# Afghanistan. STOLEN SUBJECTIVITY  
+# AFGHANISTAN. STOLEN SUBJECTIVITY  
 
 *The Failure of Patriarchy and the Design of New Dignity*  
 

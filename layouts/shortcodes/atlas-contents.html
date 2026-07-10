@@ -5,8 +5,8 @@
 <table class="atlas-contents">
     <thead>
         <tr>
-            <th>№</th>
-            <th>Atlas Map</th>
+            <th style="width:8%;">№</th>
+            <th style="width:28%;">Atlas Map</th>
             <th>Purpose</th>
         </tr>
     </thead>
@@ -14,7 +14,9 @@
         {{ range .maps }}
         <tr>
             <td>{{ .order }}</td>
-            <td><a href="{{ .id }}/">{{ .title }}</a></td>
+            <td>
+                <a href="{{ .id }}/">{{ .title }}</a>
+            </td>
             <td>{{ .purpose }}</td>
         </tr>
         {{ end }}

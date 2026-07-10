@@ -156,6 +156,9 @@ The Atlas is designed as a living research environment. New semantic maps, knowl
 | **Research Origin** | Portugal | Country where the research project is developed. |
 | **Last Updated** | 2026-07-09 | Latest structural revision of the Atlas. |
 
+The Atlas is organized as a collection of complementary knowledge maps.   
+Each map explores the research from a distinct analytical perspective while remaining connected to the overall conceptual architecture.
+
 ---
 
 ## Atlas Contents

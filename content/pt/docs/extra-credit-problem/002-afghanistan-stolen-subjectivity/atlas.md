@@ -156,6 +156,9 @@ O Atlas foi concebido como um ambiente de investigação vivo. Novos mapas semâ
 | **Origem da Investigação** | Portugal | País onde o projeto de investigação é desenvolvido. |
 | **Última Atualização** | 2026-07-09 | Última revisão estrutural do Atlas. |
 
+O Atlas está organizado como uma coleção de mapas de conhecimento complementares.   
+Cada mapa explora a investigação a partir de uma perspetiva analítica distinta, mantendo-se ligado à arquitetura conceptual global.
+
 ---
 
 ## Atlas Contents

@@ -161,9 +161,9 @@ bookCollapseSection: true
 
 ---
 
-## Atlas Contents
+## Содержание Атласа
 
-{{< atlas-contents >}}
+{{ i18n "atlasContents" }}
 
 ---
 

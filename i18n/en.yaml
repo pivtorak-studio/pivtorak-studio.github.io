@@ -1,0 +1,23 @@
+atlasContents: "Atlas Contents"
+
+atlasColumnNumber: "№"
+atlasColumnMap: "Atlas Map"
+atlasColumnPurpose: "Purpose"
+
+atlas-map-knowledge-structure: "Knowledge Structure"
+atlas-map-knowledge-graph: "Knowledge Graph"
+atlas-map-ontology: "Ontology Map"
+atlas-map-timeline: "Timeline Map"
+atlas-map-causal: "Causal Map"
+atlas-map-recovery: "Recovery Map"
+atlas-map-institutional: "Institutional Map"
+atlas-map-semantic: "Semantic Map"
+
+atlas-purpose-knowledge-structure: "Presents the overall structure of the research."
+atlas-purpose-knowledge-graph: "Connects research nodes through semantic relationships."
+atlas-purpose-ontology: "Organizes concepts, entities and controlled vocabularies."
+atlas-purpose-timeline: "Represents the chronological evolution of the research."
+atlas-purpose-causal: "Reveals systemic causes, mechanisms and consequences."
+atlas-purpose-recovery: "Visualizes restoration pathways and future trajectories."
+atlas-purpose-institutional: "Maps institutional actors, structures and responsibilities."
+atlas-purpose-semantic: "Represents the semantic architecture of the research metadata."

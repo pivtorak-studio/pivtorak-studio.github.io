@@ -3,40 +3,24 @@ title: Afghanistan Stolen Subjectivity
 maps:
   - id: knowledge-structure
     order: 1
-    title: Knowledge Structure
-    purpose: Presents the overall structure of the research.
 
   - id: knowledge-graph
     order: 2
-    title: Knowledge Graph
-    purpose: Connects research nodes through semantic relationships.
 
   - id: ontology
     order: 3
-    title: Ontology Map
-    purpose: Organizes concepts, entities and controlled vocabularies.
 
   - id: timeline
     order: 4
-    title: Timeline Map
-    purpose: Represents the chronological evolution of the research.
 
   - id: causal
     order: 5
-    title: Causal Map
-    purpose: Reveals systemic causes, mechanisms and consequences.
 
   - id: recovery
     order: 6
-    title: Recovery Map
-    purpose: Visualizes restoration pathways and future trajectories.
 
   - id: institutional
     order: 7
-    title: Institutional Map
-    purpose: Maps institutional actors, structures and responsibilities.
 
   - id: semantic
     order: 8
-    title: Semantic Map
-    purpose: Represents the semantic architecture of the research metadata.

@@ -158,7 +158,7 @@ The Atlas is designed as a living research environment. New semantic maps, knowl
 
 ---
 
-{{ partial "atlas-contents.html" . }}
+{{< atlas-contents >}}
 
 ---
 

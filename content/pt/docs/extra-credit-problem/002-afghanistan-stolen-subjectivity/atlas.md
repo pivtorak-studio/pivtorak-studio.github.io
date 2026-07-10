@@ -158,7 +158,7 @@ O Atlas foi concebido como um ambiente de investigação vivo. Novos mapas semâ
 
 ---
 
-{{ partial "atlas-contents.html" . }}
+{{< atlas-contents >}}
 
 ---
 

@@ -157,7 +157,7 @@ bookCollapseSection: true
 
 ---
 
-{{ partial "atlas-contents.html" . }}
+{{< atlas-contents >}}
 
 ---
 

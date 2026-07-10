@@ -1,9 +1,14 @@
 ---
-title: "Research Archive"
-description: "Central archive of research series, analytical publications and conceptual projects at Pivtorak.Studio."
-keywords: ["political cybernetics", "governance systems", "cultural memory", "research archive", "digital humanities"]
+title: Research Archive
+description: Central archive of research series, analytical publications and conceptual projects at Pivtorak.Studio.
+keywords:
+  - political cybernetics
+  - governance systems
+  - cultural memory
+  - research archive
+  - digital humanities
 bookCollapseSection: false
-weight: 1
+weight: 21
 ---
 
 ## 🗂️ Research Archive  

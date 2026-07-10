@@ -1,11 +1,18 @@
 ---
-title: "🪙 Pivtorak.Studio — The Formula of Transformation"
+title: 🪙 Pivtorak.Studio — The Formula of Transformation
 description: "An original series about transformation: calling, exiting old systems, and building a new architecture of life."
-keywords: ["transformation", "calling", "personal growth", "systems thinking", "life architecture", "Pivtorak Studio", "Anna Pivtorak"]
+keywords:
+  - transformation
+  - calling
+  - personal growth
+  - systems thinking
+  - life architecture
+  - Pivtorak Studio
+  - Anna Pivtorak
 bookCollapseSection: true
-weight: 60
-
-images: ["/images/pivtorak-studio-logo.webp"]
+weight: 101
+images:
+  - /images/pivtorak-studio-logo.webp
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/en/docs/pivtorak-studio/">

@@ -2,30 +2,55 @@
 id: templates
 language: en
 translation_of: templates
-title: "📐 Templates"
-description: "A growing collection of professional templates for planning, documentation, research, design, engineering, education, artificial intelligence, knowledge management, and digital publishing."
-summary: "Reusable templates designed to save time, improve consistency, and simplify creative, technical, and professional workflows."
+title: 📐 Templates
+description: A growing collection of professional templates for planning, documentation, research, design, engineering, education, artificial intelligence, knowledge management, and digital publishing.
+summary: Reusable templates designed to save time, improve consistency, and simplify creative, technical, and professional workflows.
 event_date: 2026-07-07T19:00:00
 publication_date: 2026-07-07T19:00:00
 lastmod: 2026-07-07T19:00:00
 slug: templates
-tags: [templates, documentation, research, design, engineering, AI, knowledge management, digital publishing, productivity, workflows]
-keywords: [templates, reusable templates, documentation templates, project templates, AI prompts, engineering templates, workflow templates, productivity, Pivtorak Studio]
-categories: [Resources, Tools]
+tags:
+  - templates
+  - documentation
+  - research
+  - design
+  - engineering
+  - AI
+  - knowledge management
+  - digital publishing
+  - productivity
+  - workflows
+keywords:
+  - templates
+  - reusable templates
+  - documentation templates
+  - project templates
+  - AI prompts
+  - engineering templates
+  - workflow templates
+  - productivity
+  - Pivtorak Studio
+categories:
+  - Resources
+  - Tools
 series: Templates
 series_index: 0
 research_origin: PT
 status: published
 featured: true
 image: /images/templates.webp
-alt: "Minimalist geometric illustration representing the Templates collection on Pivtorak.Studio."
-related: [/en/timeline/, /en/docs/calculators/, /en/docs/converters/]
-authors: ["Anna Pivtorak"]
-license: "CC BY-NC-ND 4.0"
+alt: Minimalist geometric illustration representing the Templates collection on Pivtorak.Studio.
+related:
+  - /en/timeline/
+  - /en/docs/calculators/
+  - /en/docs/converters/
+authors:
+  - Anna Pivtorak
+license: CC BY-NC-ND 4.0
 draft: false
 canonical: https://pivtorak.studio/en/docs/templates/
 toc: true
-weight: 4
+weight: 7
 completion: 100
 seo: true
 distribution: true

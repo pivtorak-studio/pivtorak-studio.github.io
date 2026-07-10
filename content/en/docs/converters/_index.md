@@ -2,30 +2,54 @@
 id: converters
 language: en
 translation_of: converters
-title: "🔄 Converters"
-description: "A growing collection of practical converters for units, measurements, formats, engineering, science, programming, artificial intelligence, design, and research."
-summary: "Reliable converters designed to transform values, measurements, and data accurately while simplifying learning, research, and professional work."
+title: 🔄 Converters
+description: A growing collection of practical converters for units, measurements, formats, engineering, science, programming, artificial intelligence, design, and research.
+summary: Reliable converters designed to transform values, measurements, and data accurately while simplifying learning, research, and professional work.
 event_date: 2026-07-07T18:00:00
 publication_date: 2026-07-07T18:00:00
 lastmod: 2026-07-07T18:00:00
 slug: converters
-tags: [converters, unit conversion, engineering, science, AI, programming, technology, measurements, productivity, research]
-keywords: [online converters, unit converter, engineering tools, measurement converter, scientific tools, AI tools, programming utilities, Pivtorak Studio]
-categories: [Resources, Tools]
+tags:
+  - converters
+  - unit conversion
+  - engineering
+  - science
+  - AI
+  - programming
+  - technology
+  - measurements
+  - productivity
+  - research
+keywords:
+  - online converters
+  - unit converter
+  - engineering tools
+  - measurement converter
+  - scientific tools
+  - AI tools
+  - programming utilities
+  - Pivtorak Studio
+categories:
+  - Resources
+  - Tools
 series: Converters
 series_index: 0
 research_origin: PT
 status: published
 featured: true
 image: /images/converters.webp
-alt: "Minimalist geometric illustration representing the Converters collection on Pivtorak.Studio."
-related: [/en/timeline/, /en/docs/calculators/, /en/docs/templates/]
-authors: ["Anna Pivtorak"]
-license: "CC BY-NC-ND 4.0"
+alt: Minimalist geometric illustration representing the Converters collection on Pivtorak.Studio.
+related:
+  - /en/timeline/
+  - /en/docs/calculators/
+  - /en/docs/templates/
+authors:
+  - Anna Pivtorak
+license: CC BY-NC-ND 4.0
 draft: false
 canonical: https://pivtorak.studio/en/docs/converters/
 toc: true
-weight: 3
+weight: 6
 completion: 100
 seo: true
 distribution: true

@@ -50,7 +50,7 @@ authors:
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/
 toc: true
-weight: 75
+weight: 141
 completion: 100
 seo: true
 distribution: true

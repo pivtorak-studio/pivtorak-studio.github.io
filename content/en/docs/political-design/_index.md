@@ -2,7 +2,7 @@
 title: ⎚ Political Design
 description: "#PoliticalDesign is a research series exploring politics as system design. From debt traps to elections and governance, the state is reimagined as a product."
 bookCollapseSection: true
-weight: 80
+weight: 161
 ---
 
 <script type="application/ld+json">

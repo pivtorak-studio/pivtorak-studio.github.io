@@ -2,7 +2,7 @@
 title: ⛨ Shield of Nation
 description: "Research series #ShieldOfNation: the system of national resilience through roles that shape protection, stability, and future."
 bookCollapseSection: true
-weight: 85
+weight: 171
 ---
 
 <script type="application/ld+json">

@@ -1,8 +1,8 @@
 ---
-title: "🧭 Process Diary"
+title: 🧭 Process Diary
 description: "Series #ProcessDiary: documentation of research process, decisions, errors, and transformations as the foundation of long-term provenance."
 bookCollapseSection: true
-weight: 70
+weight: 121
 ---
 
 <script type="application/ld+json">

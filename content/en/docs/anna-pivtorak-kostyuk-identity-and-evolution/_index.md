@@ -1,11 +1,18 @@
 ---
-title: "🎓 Anna Pivtorak (Kostyuk) — Identity & Evolution"
-description: "A documented archive of identity, formation, and intellectual development behind Pivtorak Studio."
-keywords: ["Anna Pivtorak", "Anna Kostyuk", "identity", "evolution", "researcher", "art historian", "Pivtorak Studio"]
+title: 🎓 Anna Pivtorak (Kostyuk) — Identity & Evolution
+description: A documented archive of identity, formation, and intellectual development behind Pivtorak Studio.
+keywords:
+  - Anna Pivtorak
+  - Anna Kostyuk
+  - identity
+  - evolution
+  - researcher
+  - art historian
+  - Pivtorak Studio
 bookCollapseSection: true
-weight: 65
-
-images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
+weight: 111
+images:
+  - /images/anna-pivtorak-kostyuk-identity-and-evolution.webp
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/">

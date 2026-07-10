@@ -1,8 +1,8 @@
 ---
-title: "∀ ◉ ∃ Architecture of Value"
+title: ∀ ◉ ∃ Architecture of Value
 description: "Research series #ArchitectureOfValue: protocols for constructing value, context, and future assets."
 bookCollapseSection: true
-weight: 15
+weight: 65
 ---
 
 <script type="application/ld+json">

@@ -2,39 +2,67 @@
 id: extra-credit-problem
 language: en
 translation_of: extra-credit-problem
-title: "✯ Extra Credit Problem (The Asterisk Problem)"
-description: "A long-term independent research series exploring systemic dehumanization, civilizational crises, human dignity, and pathways of societal transformation."
-summary: "A multidisciplinary research framework examining countries and regions where freedom, human dignity, child protection, and individual agency face systemic challenges. Each case study maps the path from tragedy and diagnosis to recovery, subjectivity, and civilizational renewal."
+title: ✯ Extra Credit Problem (The Asterisk Problem)
+description: A long-term independent research series exploring systemic dehumanization, civilizational crises, human dignity, and pathways of societal transformation.
+summary: A multidisciplinary research framework examining countries and regions where freedom, human dignity, child protection, and individual agency face systemic challenges. Each case study maps the path from tragedy and diagnosis to recovery, subjectivity, and civilizational renewal.
 event_date: 2026-01-16T09:00:00
 publication_date: 2026-01-16T09:00:00
 lastmod: 2026-01-16T09:00:00
 slug: extra-credit-problem
-tags: [systems, civilization, ethics, human-rights, transformation, governance, identity, freedom, dignity, independent-research, osint, social-systems]
-keywords: [extra-credit-problem, asterisk-problem, systemic-analysis, civilizational-transformation, human-dignity, social-architecture, political-systems, dehumanization, resilience, societal-recovery]
-categories: [Research, Systems Analysis, Civilization Studies, Human Rights]
+tags:
+  - systems
+  - civilization
+  - ethics
+  - human-rights
+  - transformation
+  - governance
+  - identity
+  - freedom
+  - dignity
+  - independent-research
+  - osint
+  - social-systems
+keywords:
+  - extra-credit-problem
+  - asterisk-problem
+  - systemic-analysis
+  - civilizational-transformation
+  - human-dignity
+  - social-architecture
+  - political-systems
+  - dehumanization
+  - resilience
+  - societal-recovery
+categories:
+  - Research
+  - Systems Analysis
+  - Civilization Studies
+  - Human Rights
 series: ExtraCreditProblem
 series_index: 0
 country: PT
 status: published
 featured: true
 image: /images/extra-credit-problem.webp
-alt: "A luminous asterisk symbol connecting a world of crisis and a world of renewal, representing systemic transformation, human dignity, and the restoration of agency."
-related: [/en/docs/independent-researcher-manifesto/, /en/docs/the-majestic-discipline/, /en/timeline/]
-authors: [Anna Pivtorak]
+alt: A luminous asterisk symbol connecting a world of crisis and a world of renewal, representing systemic transformation, human dignity, and the restoration of agency.
+related:
+  - /en/docs/independent-researcher-manifesto/
+  - /en/docs/the-majestic-discipline/
+  - /en/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/extra-credit-problem/
 toc: true
-weight: 100
-
+weight: 301
 completion: 100
 seo: true
 distribution: true
 search: indexed
-
 bookCollapseSection: true
 architecture_level: civilizational
 research_domain: systemic-transformation
-core_question: "How can societies restore human dignity after prolonged systemic degradation?"
+core_question: How can societies restore human dignity after prolonged systemic degradation?
 primary_scale: society
 knowledge_type: interdisciplinary-research
 symbolic_framework: asterisk

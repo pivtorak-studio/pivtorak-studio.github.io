@@ -2,7 +2,7 @@
 title: 🏛️ Pivtorak Studio Standard
 description: A system of standards defining methodology for expert dossiers, research, and institutional documentation.
 bookCollapseSection: true
-weight: 10
+weight: 31
 event_date: 2025-01-07
 publication_date: 2025-01-07
 ---

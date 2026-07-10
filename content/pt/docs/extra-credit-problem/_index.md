@@ -54,7 +54,7 @@ authors:
 draft: false
 canonical: https://pivtorak.studio/pt/docs/extra-credit-problem/
 toc: true
-weight: 131
+weight: 301
 completion: 100
 seo: true
 distribution: true

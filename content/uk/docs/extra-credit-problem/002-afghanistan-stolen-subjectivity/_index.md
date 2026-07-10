@@ -143,7 +143,7 @@ navigation_order: 2
 }
 </script>
 
-![](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
+![Афганістан. Викрадена Суб'єктність](/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp)
 
 **👨‍⚖️ Декларація автора**
 

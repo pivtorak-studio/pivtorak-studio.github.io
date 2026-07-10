@@ -1,23 +1,59 @@
-atlasContents: "Atlas Contents"
+atlasContents:
+  other: "Atlas Contents"
 
-atlasColumnNumber: "№"
-atlasColumnMap: "Atlas Map"
-atlasColumnPurpose: "Purpose"
+atlasColumnNumber:
+  other: "№"
 
-atlas-map-knowledge-structure: "Knowledge Structure"
-atlas-map-knowledge-graph: "Knowledge Graph"
-atlas-map-ontology: "Ontology Map"
-atlas-map-timeline: "Timeline Map"
-atlas-map-causal: "Causal Map"
-atlas-map-recovery: "Recovery Map"
-atlas-map-institutional: "Institutional Map"
-atlas-map-semantic: "Semantic Map"
+atlasColumnMap:
+  other: "Atlas Map"
 
-atlas-purpose-knowledge-structure: "Presents the overall structure of the research."
-atlas-purpose-knowledge-graph: "Connects research nodes through semantic relationships."
-atlas-purpose-ontology: "Organizes concepts, entities and controlled vocabularies."
-atlas-purpose-timeline: "Represents the chronological evolution of the research."
-atlas-purpose-causal: "Reveals systemic causes, mechanisms and consequences."
-atlas-purpose-recovery: "Visualizes restoration pathways and future trajectories."
-atlas-purpose-institutional: "Maps institutional actors, structures and responsibilities."
-atlas-purpose-semantic: "Represents the semantic architecture of the research metadata."
+atlasColumnPurpose:
+  other: "Purpose"
+
+atlas-map-knowledge-structure:
+  other: "Knowledge Structure"
+
+atlas-map-knowledge-graph:
+  other: "Knowledge Graph"
+
+atlas-map-ontology:
+  other: "Ontology Map"
+
+atlas-map-timeline:
+  other: "Timeline Map"
+
+atlas-map-causal:
+  other: "Causal Map"
+
+atlas-map-recovery:
+  other: "Recovery Map"
+
+atlas-map-institutional:
+  other: "Institutional Map"
+
+atlas-map-semantic:
+  other: "Semantic Map"
+
+atlas-purpose-knowledge-structure:
+  other: "Presents the overall structure of the research."
+
+atlas-purpose-knowledge-graph:
+  other: "Connects research nodes through semantic relationships."
+
+atlas-purpose-ontology:
+  other: "Organizes concepts, entities and controlled vocabularies."
+
+atlas-purpose-timeline:
+  other: "Represents the chronological evolution of the research."
+
+atlas-purpose-causal:
+  other: "Reveals systemic causes, mechanisms and consequences."
+
+atlas-purpose-recovery:
+  other: "Visualizes restoration pathways and future trajectories."
+
+atlas-purpose-institutional:
+  other: "Maps institutional actors, structures and responsibilities."
+
+atlas-purpose-semantic:
+  other: "Represents the semantic architecture of the research metadata."

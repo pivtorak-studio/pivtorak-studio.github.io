@@ -163,6 +163,8 @@ Each map explores the research from a distinct analytical perspective while rema
 
 ## Atlas Contents
 
+The Atlas is composed of a set of complementary knowledge maps. Each map examines the research from a distinct analytical perspective while contributing to a unified conceptual architecture.
+
 {{< atlas-contents >}}
 
 ---

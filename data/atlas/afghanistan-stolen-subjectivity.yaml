@@ -3,24 +3,32 @@ title: Afghanistan Stolen Subjectivity
 maps:
   - id: knowledge-structure
     order: 1
+    title: Knowledge Structure
 
   - id: knowledge-graph
     order: 2
+    title: Knowledge Graph
 
   - id: ontology
     order: 3
+    title: Ontology Map
 
   - id: timeline
     order: 4
+    title: Timeline Map
 
   - id: causal
     order: 5
+    title: Causal Map
 
   - id: recovery
     order: 6
+    title: Recovery Map
 
   - id: institutional
     order: 7
+    title: Institutional Map
 
   - id: semantic
     order: 8
+    title: Semantic Map

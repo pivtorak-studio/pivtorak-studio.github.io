@@ -163,6 +163,8 @@ Cada mapa explora a investigação a partir de uma perspetiva analítica distint
 
 ## Conteúdo do Atlas
 
+O Atlas é composto por um conjunto de mapas de conhecimento complementares. Cada mapa analisa a investigação a partir de uma perspetiva analítica distinta, contribuindo para uma arquitetura conceptual unificada.
+
 {{< atlas-contents >}}
 
 ---

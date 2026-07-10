@@ -1,7 +1,7 @@
 ---
 title: "⏳ Timeline: Path & Evolution"
-description: "A historical reconstruction of events that shaped Anna Pivtorak's identity."
-weight: 5
+description: A historical reconstruction of events that shaped Anna Pivtorak's identity.
+weight: 11
 ---
 
 <script type="application/ld+json">

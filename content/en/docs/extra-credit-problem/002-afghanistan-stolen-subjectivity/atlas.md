@@ -158,6 +158,8 @@ The Atlas is designed as a living research environment. New semantic maps, knowl
 
 ---
 
+## Atlas Contents
+
 {{< atlas-contents >}}
 
 ---

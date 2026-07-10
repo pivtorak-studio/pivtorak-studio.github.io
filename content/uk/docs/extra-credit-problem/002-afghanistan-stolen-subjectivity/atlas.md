@@ -157,6 +157,8 @@ bookCollapseSection: true
 
 ---
 
+## Atlas Contents
+
 {{< atlas-contents >}}
 
 ---

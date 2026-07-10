@@ -2,12 +2,23 @@
 
 {{ with $atlas }}
 
-## Atlas Contents
-
-| № | Atlas Map | Purpose |
-|---:|-----------|----------|
-{{ range .maps }}
-| {{ .order }} | [{{ .title }}]({{ .id }}/) | {{ .purpose }} |
-{{ end }}
+<table class="atlas-contents">
+    <thead>
+        <tr>
+            <th>№</th>
+            <th>Atlas Map</th>
+            <th>Purpose</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .maps }}
+        <tr>
+            <td>{{ .order }}</td>
+            <td><a href="{{ .id }}/">{{ .title }}</a></td>
+            <td>{{ .purpose }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
 
 {{ end }}

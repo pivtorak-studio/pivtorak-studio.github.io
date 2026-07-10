@@ -158,6 +158,8 @@ O Atlas foi concebido como um ambiente de investigação vivo. Novos mapas semâ
 
 ---
 
+## Atlas Contents
+
 {{< atlas-contents >}}
 
 ---

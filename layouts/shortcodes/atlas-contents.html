@@ -2,6 +2,8 @@
 
 {{ with $atlas }}
 
+<h2>{{ i18n "atlasContents" }}</h2>
+
 <table class="atlas-contents">
     <thead>
         <tr>
@@ -12,33 +14,21 @@
     </thead>
 
     <tbody>
-
     {{ range .maps }}
-
         <tr>
-
             <td>{{ .order }}</td>
 
             <td>
-
                 <a href="{{ .id }}/">
-
                     {{ i18n (printf "atlas-map-%s" .id) }}
-
                 </a>
-
             </td>
 
             <td>
-
                 {{ i18n (printf "atlas-purpose-%s" .id) }}
-
             </td>
-
         </tr>
-
     {{ end }}
-
     </tbody>
 
 </table>

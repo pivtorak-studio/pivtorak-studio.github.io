@@ -163,7 +163,7 @@ Cada mapa explora a investigação a partir de uma perspetiva analítica distint
 
 ## Conteúdo do Atlas
 
-{{ i18n "atlasContents" }}
+{{< atlas-contents >}}
 
 ---
 

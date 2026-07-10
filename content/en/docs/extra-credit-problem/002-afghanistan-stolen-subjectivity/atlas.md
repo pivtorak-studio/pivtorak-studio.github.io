@@ -163,7 +163,7 @@ Each map explores the research from a distinct analytical perspective while rema
 
 ## Atlas Contents
 
-{{ i18n "atlasContents" }}
+{{< atlas-contents >}}
 
 ---
 

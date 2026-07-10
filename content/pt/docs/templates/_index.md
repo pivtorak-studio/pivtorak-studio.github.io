@@ -2,30 +2,53 @@
 id: templates
 language: pt
 translation_of: templates
-title: "📐 Modelos"
-description: "Uma coleção em crescimento de modelos profissionais para planeamento, documentação, investigação, design, engenharia, educação, inteligência artificial, gestão do conhecimento e publicação digital."
-summary: "Modelos reutilizáveis concebidos para poupar tempo, melhorar a consistência e simplificar processos criativos, técnicos e profissionais."
+title: 📐 Modelos
+description: Uma coleção em crescimento de modelos profissionais para planeamento, documentação, investigação, design, engenharia, educação, inteligência artificial, gestão do conhecimento e publicação digital.
+summary: Modelos reutilizáveis concebidos para poupar tempo, melhorar a consistência e simplificar processos criativos, técnicos e profissionais.
 event_date: 2026-07-07T19:00:00
 publication_date: 2026-07-07T19:00:00
 lastmod: 2026-07-07T19:00:00
 slug: templates
-tags: [modelos, documentação, investigação, design, engenharia, inteligência artificial, gestão do conhecimento, publicação digital, produtividade, processos]
-keywords: [modelos reutilizáveis, modelos de documentação, modelos de projetos, prompts para IA, engenharia, produtividade, Pivtorak Studio]
-categories: [Recursos, Ferramentas]
+tags:
+  - modelos
+  - documentação
+  - investigação
+  - design
+  - engenharia
+  - inteligência artificial
+  - gestão do conhecimento
+  - publicação digital
+  - produtividade
+  - processos
+keywords:
+  - modelos reutilizáveis
+  - modelos de documentação
+  - modelos de projetos
+  - prompts para IA
+  - engenharia
+  - produtividade
+  - Pivtorak Studio
+categories:
+  - Recursos
+  - Ferramentas
 series: Modelos
 series_index: 0
 research_origin: PT
 status: published
 featured: true
 image: /images/templates.webp
-alt: "Ilustração geométrica minimalista que representa a coleção de Modelos do Pivtorak.Studio."
-related: [/pt/timeline/, /pt/docs/calculators/, /pt/docs/converters/]
-authors: ["Anna Pivtorak"]
-license: "CC BY-NC-ND 4.0"
+alt: Ilustração geométrica minimalista que representa a coleção de Modelos do Pivtorak.Studio.
+related:
+  - /pt/timeline/
+  - /pt/docs/calculators/
+  - /pt/docs/converters/
+authors:
+  - Anna Pivtorak
+license: CC BY-NC-ND 4.0
 draft: false
 canonical: https://pivtorak.studio/pt/docs/templates/
 toc: true
-weight: 4
+weight: 7
 completion: 100
 seo: true
 distribution: true

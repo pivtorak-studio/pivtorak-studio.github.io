@@ -46,7 +46,7 @@ draft: false
 canonical:
   - https://pivtorak.studio/pt/docs/the-movement-matrix/
 toc: true
-weight: 2
+weight: 14
 completion: 100
 seo: true
 distribution: false

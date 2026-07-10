@@ -2,7 +2,7 @@
 title: 🏛️ Pivtorak Studio Standard
 description: Sistema de normas para dossiês periciais, investigação e documentação institucional.
 bookCollapseSection: true
-weight: 10
+weight: 61
 event_date: 2025-01-07
 publication_date: 2025-01-07
 ---

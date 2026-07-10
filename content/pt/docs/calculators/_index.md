@@ -49,7 +49,7 @@ license: CC BY-NC-ND 4.0
 draft: false
 canonical: https://pivtorak.studio/pt/docs/calculators/
 toc: true
-weight: 2
+weight: 5
 completion: 100
 seo: true
 distribution: true

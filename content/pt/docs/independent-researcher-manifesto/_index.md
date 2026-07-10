@@ -51,7 +51,7 @@ authors:
 draft: false
 canonical: https://pivtorak.studio/pt/docs/independent-researcher-manifesto/
 toc: true
-weight: 40
+weight: 91
 completion: 100
 seo: true
 distribution: true

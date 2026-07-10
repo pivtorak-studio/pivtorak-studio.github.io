@@ -2,29 +2,55 @@
 id: the-majestic-discipline
 language: pt
 translation_of: the-majestic-discipline
-title: "⊙ A Disciplina Majestosa"
-description: "Um projeto de investigação de longo prazo que explora a disciplina através da sabedoria da natureza, dos arquétipos simbólicos e dos sistemas vivos."
-summary: "Um atlas da disciplina construído através da observação de animais, aves, insetos e fenómenos naturais. Explora navegação, resistência, adaptação, foco, cooperação e propósito em escalas individual, coletiva e planetária."
+title: ⊙ A Disciplina Majestosa
+description: Um projeto de investigação de longo prazo que explora a disciplina através da sabedoria da natureza, dos arquétipos simbólicos e dos sistemas vivos.
+summary: Um atlas da disciplina construído através da observação de animais, aves, insetos e fenómenos naturais. Explora navegação, resistência, adaptação, foco, cooperação e propósito em escalas individual, coletiva e planetária.
 event_date: 2025-03-08T09:00:00
 publication_date: 2025-03-08T09:00:00
 lastmod: 2025-03-08T09:00:00
 slug: the-majestic-discipline
-tags: [ADisciplinaMajestosa, Disciplina, Natureza, Navegação, Arquétipos, SistemasVivos, Estratégia, Observação, PivtorakStudio]
-keywords: [A Disciplina Majestosa, disciplina, navegação, natureza, arquétipos, sistemas vivos, resistência, foco, adaptação, propósito]
-categories: [Projetos de Investigação, Disciplina, Natureza, Sistemas Simbólicos]
+tags:
+  - ADisciplinaMajestosa
+  - Disciplina
+  - Natureza
+  - Navegação
+  - Arquétipos
+  - SistemasVivos
+  - Estratégia
+  - Observação
+  - PivtorakStudio
+keywords:
+  - A Disciplina Majestosa
+  - disciplina
+  - navegação
+  - natureza
+  - arquétipos
+  - sistemas vivos
+  - resistência
+  - foco
+  - adaptação
+  - propósito
+categories:
+  - Projetos de Investigação
+  - Disciplina
+  - Natureza
+  - Sistemas Simbólicos
 series: ADisciplinaMajestosa
 series_index: 0
 country: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline.webp
-alt: "Um atlas simbólico da disciplina representado através de animais, aves, insetos, navegação planetária e do símbolo central ⊙."
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
-authors: ["Anna Pivtorak"]
+alt: Um atlas simbólico da disciplina representado através de animais, aves, insetos, navegação planetária e do símbolo central ⊙.
+related:
+  - /pt/docs/the-majestic-discipline/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/
 toc: true
-weight: 75
+weight: 141
 completion: 100
 seo: true
 distribution: true
@@ -32,9 +58,14 @@ search: indexed
 bookCollapseSection: true
 architecture_level: princípio
 research_domain: disciplina
-core_question: "Como permanece um sistema vivo fiel ao seu rumo?"
-primary_scale: [individual, coletivo, planetário]
-knowledge_type: [observacional, experiencial]
+core_question: Como permanece um sistema vivo fiel ao seu rumo?
+primary_scale:
+  - individual
+  - coletivo
+  - planetário
+knowledge_type:
+  - observacional
+  - experiencial
 symbolic_framework: natureza
 system_role: navegação
 system_position: observatório

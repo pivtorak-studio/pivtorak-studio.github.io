@@ -2,39 +2,67 @@
 id: extra-credit-problem
 language: pt
 translation_of: extra-credit-problem
-title: "✯ Desafio De Nível Superior (Problema com Estrela)"
-description: "Uma série de investigação independente dedicada à desumanização sistémica, crises civilizacionais, dignidade humana e caminhos de transformação social."
-summary: "Uma estrutura de investigação multidisciplinar que analisa países e regiões onde a liberdade, a dignidade humana, a proteção das crianças e a autonomia individual enfrentam desafios sistémicos. Cada estudo de caso mapeia o percurso entre tragédia, diagnóstico, recuperação e renovação civilizacional."
+title: ✯ Desafio De Nível Superior (Problema com Estrela)
+description: Uma série de investigação independente dedicada à desumanização sistémica, crises civilizacionais, dignidade humana e caminhos de transformação social.
+summary: Uma estrutura de investigação multidisciplinar que analisa países e regiões onde a liberdade, a dignidade humana, a proteção das crianças e a autonomia individual enfrentam desafios sistémicos. Cada estudo de caso mapeia o percurso entre tragédia, diagnóstico, recuperação e renovação civilizacional.
 event_date: 2026-01-16T09:00:00
 publication_date: 2026-01-16T09:00:00
 lastmod: 2026-01-16T09:00:00
 slug: extra-credit-problem
-tags: [sistemas, civilização, ética, direitos-humanos, transformação, governação, identidade, liberdade, dignidade, investigação-independente, osint, sistemas-sociais]
-keywords: [problema-com-estrela, desafio-de-nivel-superior, analise-sistemica, transformacao-civilizacional, dignidade-humana, arquitetura-social, sistemas-politicos, desumanizacao, resiliencia, recuperacao-social]
-categories: [Investigação, Análise Sistémica, Estudos Civilizacionais, Direitos Humanos]
+tags:
+  - sistemas
+  - civilização
+  - ética
+  - direitos-humanos
+  - transformação
+  - governação
+  - identidade
+  - liberdade
+  - dignidade
+  - investigação-independente
+  - osint
+  - sistemas-sociais
+keywords:
+  - problema-com-estrela
+  - desafio-de-nivel-superior
+  - analise-sistemica
+  - transformacao-civilizacional
+  - dignidade-humana
+  - arquitetura-social
+  - sistemas-politicos
+  - desumanizacao
+  - resiliencia
+  - recuperacao-social
+categories:
+  - Investigação
+  - Análise Sistémica
+  - Estudos Civilizacionais
+  - Direitos Humanos
 series: DesafioDeNívelSuperior
 series_index: 0
 country: PT
 status: published
 featured: true
 image: /images/extra-credit-problem.webp
-alt: "Um símbolo luminoso em forma de estrela ligando um mundo de crise a um mundo de renovação, representando transformação sistémica, dignidade humana e recuperação da autonomia."
-related: [/pt/docs/independent-researcher-manifesto/, /pt/docs/the-majestic-discipline/, /pt/timeline/]
-authors: [Anna Pivtorak]
+alt: Um símbolo luminoso em forma de estrela ligando um mundo de crise a um mundo de renovação, representando transformação sistémica, dignidade humana e recuperação da autonomia.
+related:
+  - /pt/docs/independent-researcher-manifesto/
+  - /pt/docs/the-majestic-discipline/
+  - /pt/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/extra-credit-problem/
 toc: true
-weight: 100
-
+weight: 131
 completion: 100
 seo: true
 distribution: true
 search: indexed
-
 bookCollapseSection: true
 architecture_level: civilizacional
 research_domain: transformacao-sistemica
-core_question: "Como pode uma sociedade recuperar a dignidade humana após um longo período de degradação sistémica?"
+core_question: Como pode uma sociedade recuperar a dignidade humana após um longo período de degradação sistémica?
 primary_scale: sociedade
 knowledge_type: investigacao-interdisciplinar
 symbolic_framework: estrela

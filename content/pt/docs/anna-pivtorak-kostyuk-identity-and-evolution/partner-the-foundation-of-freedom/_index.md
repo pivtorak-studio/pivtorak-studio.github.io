@@ -1,8 +1,14 @@
 ---
 title: "Parceiro: Fundação da Liberdade"
 description: "O parceiro como base da liberdade: criação de condições para o desenvolvimento, investigação e realização do sistema."
-keywords: ["Anna Pivtorak", "parceiro", "liberdade", "apoio", "sistema", "família"]
-weight: 30
+keywords:
+  - Anna Pivtorak
+  - parceiro
+  - liberdade
+  - apoio
+  - sistema
+  - família
+weight: 111
 ---
 
 <div class="float-right">

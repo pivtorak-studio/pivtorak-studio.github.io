@@ -1,8 +1,8 @@
 ---
-title: "🧭 Diário do Processo"
+title: 🧭 Diário do Processo
 description: "Série #ProcessDiary: documentação do processo de investigação, decisões, erros e transformações como base do proveniência a longo prazo."
 bookCollapseSection: true
-weight: 70
+weight: 121
 ---
 
 <script type="application/ld+json">

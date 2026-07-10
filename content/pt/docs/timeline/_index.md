@@ -1,7 +1,7 @@
 ---
 title: "⏳ Cronologia: Caminho e Evolução"
-description: "Uma reconstrução histórica dos eventos que moldaram a identidade de Anna Pivtorak."
-weight: 5
+description: Uma reconstrução histórica dos eventos que moldaram a identidade de Anna Pivtorak.
+weight: 11
 ---
 
 <script type="application/ld+json">

@@ -2,7 +2,7 @@
 title: ⛨ Escudo da Nação
 description: "Série de investigação #ShieldOfNation: o sistema de resiliência nacional através de papéis que constroem proteção, estabilidade e futuro."
 bookCollapseSection: true
-weight: 85
+weight: 171
 ---
 
 <script type="application/ld+json">

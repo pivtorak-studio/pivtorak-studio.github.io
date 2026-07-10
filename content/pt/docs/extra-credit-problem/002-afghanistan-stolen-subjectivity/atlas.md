@@ -135,6 +135,33 @@ Cada mapa oferece uma perspetiva diferente sobre o mesmo conjunto de conheciment
 
 O Atlas foi concebido como um ambiente de investigação vivo. Novos mapas semânticos, matrizes de conhecimento, cronologias, ontologias e visualizações sistémicas serão acrescentados à medida que o projeto evoluir.
 
+---
+
+## Visão Geral do Atlas
+
+| Propriedade | Valor | Descrição |
+|--------------|--------|-----------|
+| **Investigação** | Afghanistan Stolen Subjectivity | Projeto de investigação representado por este Atlas. |
+| **Série** | Extra Credit Problem *(The Asterisk Problem)* | Série de investigação à qual este Atlas pertence. |
+| **Tipo de Atlas** | Research Atlas | Tipo de recurso de navegação. |
+| **Tipo de Conhecimento** | Atlas | Valor controlado da ontologia que descreve este recurso. |
+| **Classe Ontológica** | ResearchAtlas | Classe ontológica controlada utilizada em todo o Knowledge Graph. |
+| **Versão** | 1.0 | Especificação atual do Atlas. |
+| **Estado** | Published | Estado atual de publicação do Atlas. |
+| **Secções** | 9 | Principais secções temáticas da investigação. |
+| **Artigos** | 54 | Artigos de investigação representados por este Atlas. |
+| **Nós de Conhecimento** | 54 | Nós semânticos que constituem a estrutura conceptual da investigação. |
+| **Mapas do Atlas** | 8 | Mapas de navegação que compõem o Atlas. |
+| **Idioma Principal** | English | Idioma principal da ontologia da investigação. |
+| **Origem da Investigação** | Portugal | País onde o projeto de investigação é desenvolvido. |
+| **Última Atualização** | 2026-07-09 | Última revisão estrutural do Atlas. |
+
+---
+
+{{ partial "atlas-contents.html" . }}
+
+---
+
 **Alt-text:**  
 Atlas da Subjetividade Roubada do Afeganistão — camada de navegação semântica do projeto de investigação. 
 

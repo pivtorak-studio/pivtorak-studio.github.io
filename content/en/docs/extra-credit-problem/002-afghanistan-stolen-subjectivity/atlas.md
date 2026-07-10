@@ -135,6 +135,33 @@ Each map offers a different perspective on the same body of knowledge. Together 
 
 The Atlas is designed as a living research environment. New semantic maps, knowledge matrices, timelines, ontologies, and systemic visualizations will be added as the project continues to evolve.
 
+---
+
+## Atlas Overview
+
+| Property | Value | Description |
+|-----------|-------|-------------|
+| **Research** | Afghanistan Stolen Subjectivity | Research project represented by this Atlas. |
+| **Series** | Extra Credit Problem *(The Asterisk Problem)* | Research series containing this Atlas. |
+| **Atlas Type** | Research Atlas | Type of navigational resource. |
+| **Knowledge Type** | Atlas | Controlled ontology value describing this resource. |
+| **Ontology Class** | ResearchAtlas | Controlled ontology class used throughout the Knowledge Graph. |
+| **Version** | 1.0 | Current Atlas specification. |
+| **Status** | Published | Current publication status of the Atlas. |
+| **Sections** | 9 | Major thematic sections of the research. |
+| **Articles** | 54 | Research articles represented by this Atlas. |
+| **Knowledge Nodes** | 54 | Semantic nodes forming the conceptual structure of the research. |
+| **Atlas Maps** | 8 | Planned navigation maps comprising the Atlas. |
+| **Primary Language** | English | Primary language of the research ontology. |
+| **Research Origin** | Portugal | Country where the research project is developed. |
+| **Last Updated** | 2026-07-09 | Latest structural revision of the Atlas. |
+
+---
+
+{{ partial "atlas-contents.html" . }}
+
+---
+
 **Alt-text:**  
 Atlas of Afghanistan Stolen Subjectivity — semantic navigation layer of the research project.
 

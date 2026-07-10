@@ -1,0 +1,13 @@
+{{ $atlas := index site.Data.atlas "afghanistan-stolen-subjectivity" }}
+
+{{ with $atlas }}
+
+## Atlas Contents
+
+| № | Atlas Map | Purpose |
+|---:|-----------|----------|
+{{ range .maps }}
+| {{ .order }} | [{{ .title }}]({{ .id }}/) | {{ .purpose }} |
+{{ end }}
+
+{{ end }}

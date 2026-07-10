@@ -8,7 +8,7 @@ keywords:
   - research archive
   - digital humanities
 bookCollapseSection: false
-weight: 21
+weight: 11
 ---
 
 ## 🗂️ Research Archive  

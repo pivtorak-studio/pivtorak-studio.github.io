@@ -147,7 +147,7 @@ Where art doesn’t decorate — it structures reality.
 This design bridges centuries, fusing the timeless elegance of the 17th-century Pivtorak coin with the bold, energetic spirit of contemporary street art. 
 It’s a reflection of how identity evolves—rooted in the past yet reinvented for the present.
 
-![Pivtorak.Studio logo](/images/pivtorak-studio-logo.webp)
+![Pivtorak.Studio logo](/images/pivtorak-studio-logo-2025.webp)
 
 **Alt-text:**  
 A bold street-art-inspired design for Pivtorak Studio, featuring dynamic lines, vibrant colors, and an abstract urban aesthetic. Central elements include a stylized depiction of a 17th-century Pivtorak coin, modernized for contemporary appeal. The name “Pivtorak Studio” is integrated in a graffiti-like font, creating a fusion of historical and modern design elements. The composition is energetic, innovative, and visually striking.

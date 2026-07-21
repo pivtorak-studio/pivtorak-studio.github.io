@@ -147,7 +147,7 @@ Onde a arte não enfeita — estrutura a realidade.
 Este design atravessa séculos, unindo a elegância intemporal da moeda Pivtorak do século XVII com o espírito ousado e enérgico da arte urbana contemporânea.  
 É um reflexo de como a identidade evolui — enraizada no passado, mas reinventada para o presente.
 
-![Logotipo do Pivtorak.Studio](/images/pivtorak-studio-logo.webp)
+![Logotipo do Pivtorak.Studio](/images/pivtorak-studio-logo-2025.webp)
 
 **Alt-text:**  
 Um design ousado inspirado na street art para Pivtorak Studio, com linhas dinâmicas, cores vibrantes e uma estética urbana abstrata. O elemento central é uma representação estilizada de uma moeda Pivtorak do século XVII, reinterpretada para uma linguagem contemporânea. O nome “Pivtorak Studio” está integrado num estilo de graffiti, criando uma fusão entre elementos históricos e modernos. A composição é enérgica, inovadora e visualmente marcante.

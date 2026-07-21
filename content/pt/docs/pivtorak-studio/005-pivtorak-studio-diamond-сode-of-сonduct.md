@@ -1,11 +1,108 @@
 ---
-title: 005 Código de Conduta — Pivtorak.Studio
-description: O código operacional do estúdio. Princípios pelos quais os projetos são iniciados, avaliados e concluídos.
+id: 005-pivtorak-studio-diamond-code-of-conduct
+language: pt
+translation_of: 005-pivtorak-studio-diamond-code-of-conduct
+title: "005 Código de Conduta — Pivtorak.Studio"
+description: "O código ético e operacional da Pivtorak.Studio, que define qualidade, presença, pensamento estrutural e responsabilidade pessoal como princípios permanentes de cada transformação."
+summary: "O Código de Conduta formaliza a base comportamental da metodologia Pivtorak.Studio. Estabelece a qualidade como condição inicial, a presença como disciplina, a estrutura como prioridade e a responsabilidade como assinatura permanente do autor."
+event_date: 2026-04-29T11:00:00
+publication_date: 2026-04-29T11:00:00
+lastmod: 2026-04-29T11:00:00
+slug: 005-pivtorak-studio-diamond-code-of-conduct
+tags: [código-de-conduta, metodologia, qualidade, responsabilidade, presença, estrutura, transformação, pensamento-sistémico, pivtorak-studio]
+keywords: [código de conduta, padrão de qualidade, ressonância, responsabilidade, arquitetura do conhecimento, metodologia, transformação, presença, modelo diamante, pivtorak studio]
+categories: [Metodologia, Fórmula da Transformação, Arquitetura do Conhecimento]
+series: FormulaOfTransformation
+series_index: 5
+research_origin: PT
+status: published
+featured: true
+image: /images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp
+alt: "Um diamante geométrico envolvendo uma ave branca rodeada por quatro princípios: qualidade, presença, estrutura e responsabilidade."
+related: [/pt/docs/pivtorak-studio/, /pt/docs/timeline/]
+authors: [Anna Pivtorak]
+draft: false
+canonical: https://pivtorak.studio/pt/docs/pivtorak-studio/005-pivtorak-studio-diamond-code-of-conduct/
+transformation_stage: Institucionalização
+system_model: Diamond
+operator: Responsabilidade
+framework: Formula of Transformation
+transformation_operator: Ressonância → Forma → Responsabilidade
+input_signal: Intenção pessoal
+output_signal: Metodologia responsável
+information_flow: Ressonância → Estrutura → Ação
+knowledge_flow: Princípio → Norma → Prática
+system_type: Sistema Ético de Transformação
+research_domain: [Arquitetura do Conhecimento, Metodologia, Pensamento Sistémico]
+thinking_model: Pensamento Estrutural
+core_formula: Ressonância → Forma → Responsabilidade
+transformation_formula: Qualidade × Estrutura × Responsabilidade = Transformação Sustentável
+value_equation: Qualidade > Velocidade
+methodology_status: Princípio Fundamental
+guiding_question: "O que permanece quando cada decisão se torna a tua assinatura permanente?"
+axiom: "A qualidade não é negociável. A responsabilidade não pode ser delegada."
+toc: true
 weight: 5
-event_date: 2026-04-29 # Data do evento (formulação do código)
-publication_date: 2026-04-29 # Data de publicação
-event_type: concept
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Article",
+  "@id":"https://pivtorak.studio/pt/docs/pivtorak-studio/005-pivtorak-studio-diamond-code-of-conduct/#article",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"https://pivtorak.studio/pt/docs/pivtorak-studio/005-pivtorak-studio-diamond-code-of-conduct/"
+  },
+  "headline":"Código de Conduta — Pivtorak.Studio",
+  "alternativeHeadline":"005 Código de Conduta — Pivtorak.Studio",
+  "description":"O código ético e operacional da Pivtorak.Studio, que define qualidade, presença, pensamento estrutural e responsabilidade pessoal como princípios permanentes de cada transformação.",
+  "abstract":"O Código de Conduta formaliza a base comportamental da metodologia Pivtorak.Studio através de quatro princípios fundamentais: qualidade, presença, estrutura e responsabilidade.",
+  "inLanguage":"pt-PT",
+  "isPartOf":{
+    "@type":"CreativeWorkSeries",
+    "name":"The Formula of Transformation"
+  },
+  "position":5,
+  "keywords":[
+    "Código de Conduta",
+    "Qualidade",
+    "Responsabilidade",
+    "Presença",
+    "Estrutura",
+    "Diamante",
+    "Metodologia",
+    "Arquitetura do Conhecimento",
+    "Pivtorak.Studio"
+  ],
+  "author":{
+    "@type":"Person",
+    "name":"Anna Pivtorak"
+  },
+  "publisher":{
+    "@type":"Organization",
+    "name":"Pivtorak.Studio",
+    "url":"https://pivtorak.studio/"
+  },
+  "datePublished":"2026-04-29T11:00:00+01:00",
+  "dateModified":"2026-04-29T11:00:00+01:00",
+  "image":{
+    "@type":"ImageObject",
+    "url":"https://pivtorak.studio/images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp",
+    "caption":"Código de Conduta — Pivtorak.Studio"
+  },
+  "about":[
+    {"@type":"Thing","name":"Metodologia"},
+    {"@type":"Thing","name":"Pensamento Sistémico"},
+    {"@type":"Thing","name":"Arquitetura do Conhecimento"},
+    {"@type":"Thing","name":"Transformação"}
+  ]
+}
+</script>
+
 
 <div class="float-right">
 

@@ -39,7 +39,8 @@ event_type: transformation
 
 #DesignMoments #OnTheRedCarpet #WalkingTowardsCreativity #CreativeJourney #RedPath #DesignHealing #UrbanInspiration #NewBeginning #ArtAsPath #InnerShift #VisualStorytelling #LifeDesign #DesignReflection #DailyInspiration #DesignResilience #MindfulMovement #CreativeFreedom #PivtorakStudio #AnnaPivtorak #ArtistLife #WalkingAndThinking #CreativePower #DesignAsLife #SymbolicArt #SelfDirectedPath #DesignPhilosophy #TransformationInMotion #EverydayCourage #DesignStatement #NoReturn
 
-_На Красной Дорожке. AP | Pivtorak.Studio. 07.07.2025_
+_На Красной Дорожке. AP | Pivtorak.Studio. 07.07.2025_  
+© Анна Пивторак (Костюк) 
 
 <div class="float-right">
 

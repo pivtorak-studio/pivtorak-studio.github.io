@@ -2,7 +2,7 @@
 id: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studio
 language: en
 translation_of: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studio
-title: From Identity to Methodology — The Black Box of Pivtorak.Studio
+title: 008 From Identity to Methodology — The Black Box of Pivtorak.Studio
 description: |
   A foundational article introducing the cybernetic language of Pivtorak.Studio through the Black Box model, formalizing the Transformation Operator ℙ and the transition from an author's project to a proprietary methodology.
 summary: |

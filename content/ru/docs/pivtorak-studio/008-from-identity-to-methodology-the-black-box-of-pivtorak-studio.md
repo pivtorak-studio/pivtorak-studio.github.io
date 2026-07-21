@@ -2,7 +2,7 @@
 id: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studio
 language: ru
 translation_of: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studio
-title: От айдентики к методологии — Чёрный ящик Pivtorak.Studio
+title: 008 От айдентики к методологии — Чёрный ящик Pivtorak.Studio
 description: |
   Фундаментальная статья, представляющая кибернетический язык Pivtorak.Studio через модель «Чёрного ящика», формализующая Оператор Трансформации ℙ и переход от авторского проекта к авторской методологии.
 summary: |

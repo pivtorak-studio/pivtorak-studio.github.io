@@ -41,4 +41,5 @@ event_type: concept
 
 #PivtorakStudio #AnnaPivtorakArt #Branding #Rebranding #LogoDesign #IdentityDesign #VisualIdentity #ArtAndHistory #StreetArtInspiration #UrbanDesign #CreativeStudio #TimelessDesign #ModernBranding #LogoLove #DesignEvolution #GraphicIdentity #StudioArt #CreativeBranding #CoinInspiredArt #17thCenturyDesign #DesignPhilosophy #BoldDesign #ContemporaryArt #FusionOfPastAndPresent #PivtorakHistory #ArtisticIdentity #VisualArt #LogoInspiration #ModernMeetsHistory #ArtIsIdentity 
 
-_Формула Pivtorak.Studio. AP | Pivtorak.Studio. 05.01.2025_
+_Формула Pivtorak.Studio. AP | Pivtorak.Studio. 05.01.2025_  
+© Анна Пивторак (Костюк) 

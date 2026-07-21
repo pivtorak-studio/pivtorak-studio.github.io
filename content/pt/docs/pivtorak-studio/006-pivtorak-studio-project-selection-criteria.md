@@ -125,7 +125,7 @@ search: indexed
 </script>
 
 
-![Critérios de Seleção de Projetos — Pivtorak.Studio](/images/006-pivtorak-studio-project-selection-criteria.webp)
+![Critérios de Seleção de Projetos — Pivtorak.Studio](/images/pivtorak-studio-006-pivtorak-studio-project-selection-criteria.webp)
 
 
 

@@ -32,34 +32,34 @@ event_type: concept
 }
 </script>
 
-# Pivtorak.Studio  
+**🪙 Pivtorak.Studio — A Fórmula da Transformação**  
 
-## 💎 Critérios de Seleção de Projetos — Pivtorak.Studio  
+# 💎 Critérios de Seleção de Projetos — Pivtorak.Studio  
 
 Alinhamento → Ressonância → Execução  
 
 **Critérios de Ressonância**  
 
-### 1. Alinhamento de Escala  
+## 1. Alinhamento de Escala  
 O projeto deve ir além de uma tarefa local.  
 Deve ter potencial para impactar um sistema, não apenas resolver um problema isolado.  
 
-### 2. Clareza de Intenção  
+## 2. Clareza de Intenção  
 O pedido deve estar definido.  
 Mesmo que a solução ainda não seja clara, a direção deve ser.  
 
-### 3. Preparação para a Precisão  
+## 3. Preparação para a Precisão  
 O projeto implica trabalho sem simplificação.  
 A atenção ao detalhe faz parte do processo, não é opcional.  
 
-### 4. Abertura à Estrutura  
+## 4. Abertura à Estrutura  
 O sistema pode reformular o projeto.  
 O resultado não é imposto antecipadamente — forma-se no processo.  
 
-### 5. Alinhamento de Valores  
+## 5. Alinhamento de Valores  
 As decisões baseiam-se na qualidade, não na rapidez ou no efeito externo.  
 
-### 6. Presença no Processo  
+## 6. Presença no Processo  
 O projeto requer envolvimento.  
 O resultado forma-se através da interação, não pela delegação de tarefas.  
 
@@ -67,3 +67,4 @@ O resultado forma-se através da interação, não pela delegação de tarefas.
 Ilustração intitulada “Pivtorak.Studio Project Selection Criteria”. No centro encontra-se uma moeda histórica do século XVII (półtorak), inserida numa estrutura geométrica poliédrica semelhante a um diamante. A moeda simboliza valor, seleção e critérios de entrada no sistema. À sua volta estão seis princípios de seleção de projetos: alinhamento de escala, clareza de intenção, preparação para a precisão, abertura à estrutura, alinhamento de valores e presença no processo. A composição combina geometria técnica, símbolos de ligação e elementos de observação, destacando a seleção consciente e o pensamento sistémico.
 
 _Pivtorak.Studio. Critérios de Seleção de Projetos. AP | Pivtorak.Studio. 30.04.2026_  
+© Anna Pivtorak (Kostyuk)

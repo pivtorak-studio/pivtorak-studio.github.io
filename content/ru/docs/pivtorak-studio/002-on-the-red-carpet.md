@@ -12,6 +12,8 @@ event_type: transformation
 
 </div>
 
+**🪙 Pivtorak.Studio — Формула трансформации**
+
 # 🟥 На Красной Дорожке <br>
 *Моя дорожка — уже здесь.* <br>
 

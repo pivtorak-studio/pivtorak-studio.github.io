@@ -32,35 +32,35 @@ event_type: concept
 }
 </script>
 
-# Pivtorak.Studio  
+**🪙 Pivtorak.Studio — The Formula of Transformation**
 
-## 💎 Project Selection Criteria — Pivtorak.Studio  
+# 💎 Project Selection Criteria — Pivtorak.Studio  
 
 Alignment → Resonance → Execution  
 
 **Resonance Criteria**  
 
-### 1. Alignment of Scale  
+## 1. Alignment of Scale  
 The project must extend beyond a local task.  
 It should have the potential to impact a system, not just solve an isolated problem.  
 
 
-### 2. Clarity of Intent  
+## 2. Clarity of Intent  
 The request must be defined.  
 Even if the solution is not yet clear, the direction must be.  
 
-### 3. Readiness for Precision  
+## 3. Readiness for Precision  
 The project assumes work without simplification.  
 Attention to detail is part of the process, not an optional addition.  
 
-### 4. Openness to Structure  
+## 4. Openness to Structure  
 The system may reshape the project.  
 The result is not imposed in advance — it is formed through the process.  
 
-### 5. Value Alignment  
+## 5. Value Alignment  
 Decisions are based on quality, not speed or external effect.  
 
-### 6. Presence in the Process  
+## 6. Presence in the Process  
 The project requires engagement.  
 The result is formed through interaction, not task delegation.  
 
@@ -68,3 +68,4 @@ The result is formed through interaction, not task delegation.
 An illustration titled “Pivtorak.Studio Project Selection Criteria”. At the center is a historical 17th-century Polish-Lithuanian coin (półtorak), embedded within a geometric polyhedral structure resembling a diamond. The coin symbolizes value, selection, and criteria for entering the system. Around it are six project selection principles: alignment of scale, clarity of intent, readiness for precision, openness to structure, value alignment, and presence in the process. The composition combines engineering geometry, connection symbols, and observation markers, emphasizing intentional selection and systemic thinking.  
 
 _Pivtorak.Studio. Project Selection Criteria. AP | Pivtorak.Studio. 30.04.2026_    
+© Anna Pivtorak (Kostyuk)

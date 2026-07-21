@@ -12,6 +12,8 @@ event_type: transformation
 
 </div>
 
+**🪙 Pivtorak.Studio — Формула трансформации**
+
 # 📍 Присутствие  
 *Формула уже в действии.*
 

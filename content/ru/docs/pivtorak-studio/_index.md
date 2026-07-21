@@ -52,7 +52,7 @@ images: ["/images/pivtorak-studio-logo.webp"]
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
 
-# Pivtorak.Studio — Формула трансформации
+# 🪙 Pivtorak.Studio — Формула трансформации
 
 *Pivtorak.Studio — это авторская серия, исследующая трансформацию как переход к новой системе.*
 

@@ -12,6 +12,8 @@ event_type: transformation
 
 </div>
 
+**🪙 Pivtorak.Studio — A Fórmula da Transformação**
+
 # 🟥 No Tapete Vermelho 
 *O meu caminho — já começou.* <br>
 
@@ -36,7 +38,8 @@ Ilustração digital: uma mulher com jeans, camiseta e ténis bege caminha ao lo
 
 #DesignMoments #OnTheRedCarpet #WalkingTowardsCreativity #CreativeJourney #RedPath #DesignHealing #UrbanInspiration #NewBeginning #ArtAsPath #InnerShift #VisualStorytelling #LifeDesign #DesignReflection #DailyInspiration #DesignResilience #MindfulMovement #CreativeFreedom #PivtorakStudio #AnnaPivtorak #ArtistLife #WalkingAndThinking #CreativePower #DesignAsLife #SymbolicArt #SelfDirectedPath #DesignPhilosophy #TransformationInMotion #EverydayCourage #DesignStatement #NoReturn
 
-_No Tapete Vermelho . AP | Pivtorak.Studio. 07.07.2025_
+_No Tapete Vermelho . AP | Pivtorak.Studio. 07.07.2025_  
+© Anna Pivtorak (Kostyuk)  
 
 <div class="float-right">
 

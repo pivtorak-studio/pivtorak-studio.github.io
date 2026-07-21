@@ -12,6 +12,8 @@ event_type: transformation
 
 </div>
 
+**🪙 Pivtorak.Studio — A Fórmula da Transformação**
+
 # 🕊️ Sonho como Chamado
 _Quando te lembram que tens um Chamado._  <br>
 
@@ -39,7 +41,8 @@ Uma pomba branca com as asas abertas voa sobre um fundo bege-claro quase imperce
 
 #SonhoComoChamado #PombaBranca #NovasOportunidades #Amor #Apoio #Chamado #Caminho #SinalDoAlto #PivtorakStudio #AnnaPivtorak #FilhaDeCientista #MãeDeCinco #Intuição #Inspiração #SimbolismoProfundo #ToqueEnergético #LuzEEsperança #ConexãoEspiritual #ApoioFamiliar #SonhoComoChave #ForçaInterior #LembreteCelestial #VerdadeiraVocação #ArquiteturaDoSentido #ReinosSutis #ArteComoSistema #APStudio #ParentalNotice #SímboloCentral #LayerMask
 
-_Sonho como Chamado. AP | Pivtorak.Studio. 07.07.2025_
+_Sonho como Chamado. AP | Pivtorak.Studio. 07.07.2025_  
+© Anna Pivtorak (Kostyuk)
 
 <div class="float-right">
 

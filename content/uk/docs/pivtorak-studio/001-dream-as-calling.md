@@ -8,9 +8,11 @@ event_type: transformation
 
 <div class="float-right">
 
-![Сон як Призначення](/images/pivtorak-studio-01.webp)
+![Сон як Призначення](/images/pivtorak-studio-001-dream-as-calling.webp)
 
 </div>
+
+**🪙 Pivtorak.Studio — Формула трансформації**
 
 # 🕊️ Сон як Призначення
 _Коли тобі нагадали, що маєш Призначення._ <br>
@@ -34,27 +36,29 @@ _Коли тобі нагадали, що маєш Призначення._ <br>
 Через голуба. <br>
 І через Любов. <br>
 
+<div class="float-right">
+
+![Сон як Призначення](/images/pivtorak-studio-001-dream-as-calling-01.webp)
+
+</div>
+
+<div class="float-right">
+
+![Сон як Призначення](/images/pivtorak-studio-001-dream-as-calling-02.webp)
+
+</div>
+
+<div class="float-right">
+
+![Сон як Призначення](/images/pivtorak-studio-001-dream-as-calling-03.webp)
+
+</div>
+
+
 **Alt-text:** <br>
 Білий голуб із розкритими крилами летить на тлі ледь помітного світло-бежевого фону. Зображення легке, повітряне, символічне, передає відчуття свободи, підтримки та початку нового шляху. Воно також стилізоване додаванням фірмових символів Pivtorak.Studio.
 
 #СонЯкПризначення #Голуб #НовіМожливості #Любов #Підтримка #Призначення #Шлях #ЗнакЗгори #PivtorakStudio #АннаПівторак #ДонькаВченого #МатірПʼятьох #Інтуїція #Натхнення #ГлибокийСимволізм #ЕнергетичнийДотик #СвітлоІНадія #ДуховнийЗвʼязок #СімейнаПідтримка #СонЯкКлюч #ВнутрішняСила #НебеснеНагадування #Покликання #АрхітектураСенсу #ТонкіСфери #МистецтвоЯкСистема #APStudio #ParentalNotice #CoreSymbol #LayerMask
 
-_Сон як Призначення. AP | Pivtorak.Studio. 07.07.2025_
-
-<div class="float-right">
-
-![Сон як Призначення](/images/pivtorak-studio-01-01.webp)
-
-</div>
-
-<div class="float-right">
-
-![Сон як Призначення](/images/pivtorak-studio-01-02.webp)
-
-</div>
-
-<div class="float-right">
-
-![Сон як Призначення](/images/pivtorak-studio-01-03.webp)
-
-</div>
+_Сон як Призначення. AP | Pivtorak.Studio. 07.07.2025_  
+© Анна Півторак (Костюк) 

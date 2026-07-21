@@ -32,39 +32,40 @@ event_type: concept
 }
 </script>
 
-# Pivtorak.Studio  
+**🪙 Pivtorak.Studio — A Fórmula da Transformação**
 
-## 💎 Estrutura de Execução — Pivtorak.Studio  
+# 💎 Estrutura de Execução — Pivtorak.Studio  
 
 Impulso → Sistema → Publicação  
 
-### 1. Origem Interna  
+## 1. Origem Interna  
 O projeto não começa com um pedido externo.  
 O impulso surge dentro do sistema.  
 Sou simultaneamente a fonte e a iniciadora.  
 
-### 2. Definição da Tarefa  
+## 2. Definição da Tarefa  
 A tarefa não é recebida — é formulada.  
 A definição faz parte do trabalho, não é o seu início.  
 
-### 3. Processo Autónomo  
+## 3. Processo Autónomo  
 O trabalho não é delegado.  
 Decisões, estrutura e execução existem num único circuito.  
 
-### 4. Ausência de Pressão Externa  
+## 4. Ausência de Pressão Externa  
 Os prazos não são impostos externamente.  
 O ritmo é definido pela precisão, não pela expectativa.  
 
-### 5. Ciclo Fechado  
+## 5. Ciclo Fechado  
 O projeto percorre um ciclo completo:  
 da ideia à execução.  
 Sem fragmentação entre etapas.  
 
-### 6. Publicação como Conclusão  
+## 6. Publicação como Conclusão  
 O resultado é fixado através da publicação.  
 Marca o fim e o início do impacto.   
 
 **Alt-text:**  
 Ilustração intitulada “Execution Framework — Pivtorak.Studio”. No centro encontra-se uma estrutura geométrica poliédrica semelhante a um diamante com uma estrela interna, simbolizando o núcleo do sistema. À sua volta existe um contorno circular que representa um ciclo autónomo de execução — do impulso interno à publicação. Seis princípios estão distribuídos ao redor: origem interna, definição autónoma da tarefa, processo autónomo, ausência de pressão externa, ciclo fechado e publicação como conclusão. A composição destaca a continuidade do processo e a entrada direta do resultado no mundo sem intermediários.
 
-_Pivtorak.Studio. Estrutura de Execução. AP | Pivtorak.Studio. 30.04.2026_
+_Pivtorak.Studio. Estrutura de Execução. AP | Pivtorak.Studio. 30.04.2026_   
+© Anna Pivtorak (Kostyuk)

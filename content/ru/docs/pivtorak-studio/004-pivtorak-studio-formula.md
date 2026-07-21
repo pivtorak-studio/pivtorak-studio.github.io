@@ -12,9 +12,9 @@ event_type: concept
 
 </div>
 
-# Pivtorak.Studio
+**🪙 Pivtorak.Studio — Формула трансформации**
 
-## 🪙 Формула Pivtorak.Studio  
+# 🪙 Формула Pivtorak.Studio  
 
 **Pivtorak.Studio = Архитектура взрыва ценности**  
 

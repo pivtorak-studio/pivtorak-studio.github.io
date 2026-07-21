@@ -12,6 +12,7 @@ event_type: transformation
 
 </div>
 
+**🪙 Pivtorak.Studio — The Formula of Transformation**
 
 ## 🟥 On the Red Carpet <br>
 *My path — is already here.* <br>
@@ -37,7 +38,8 @@ A digital illustration: a woman in jeans, a T-shirt, and beige sneakers walks al
 
 #DesignMoments #OnTheRedCarpet #WalkingTowardsCreativity #CreativeJourney #RedPath #DesignHealing #UrbanInspiration #NewBeginning #ArtAsPath #InnerShift #VisualStorytelling #LifeDesign #DesignReflection #DailyInspiration #DesignResilience #MindfulMovement #CreativeFreedom #PivtorakStudio #AnnaPivtorak #ArtistLife #WalkingAndThinking #CreativePower #DesignAsLife #SymbolicArt #SelfDirectedPath #DesignPhilosophy #TransformationInMotion #EverydayCourage #DesignStatement #NoReturn
 
-_On the Red Carpet. AP | Pivtorak.Studio. 07.07.2025_
+_On the Red Carpet. AP | Pivtorak.Studio. 07.07.2025_  
+© Anna Pivtorak (Kostyuk)
 
 
 <div class="float-right">

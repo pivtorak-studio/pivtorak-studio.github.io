@@ -12,6 +12,7 @@ event_type: transformation
 
 </div>
 
+**🪙 Pivtorak.Studio — The Formula of Transformation**
 
 # 🕊️ Dream as Calling
 _When you are reminded that you have a Calling._ <br>
@@ -39,7 +40,8 @@ A white dove with open wings flies against a barely visible light beige backgrou
 
 #DreamAsCalling #WhiteDove #NewOpportunities #Love #Support #Calling #Path #SignFromAbove #PivtorakStudio #AnnaPivtorak #DaughterOfAScientist #MotherOfFive #Intuition #Inspiration #DeepSymbolism #EnergeticTouch #LightAndHope #SpiritualConnection #FamilySupport #DreamAsKey #InnerStrength #HeavenlyReminder #TrueCalling #ArchitectureOfMeaning #SubtleRealms #ArtAsSystem #APStudio #ParentalNotice #CoreSymbol #LayerMask
 
-_Dream as Calling. AP | Pivtorak.Studio. 07.07.2025_
+_Dream as Calling. AP | Pivtorak.Studio. 07.07.2025_  
+© Anna Pivtorak (Kostyuk)
 
 <div class="float-right">
 

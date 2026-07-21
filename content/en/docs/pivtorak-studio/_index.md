@@ -67,13 +67,7 @@ The series traces a path from inner calling to the construction of a new reality
 
 Each work represents a step in shifting from an old identity to a new architecture of life.
 
-**Series structure:**
-
-* 🕊️ **The Calling** — the moment of recognition and the first signal  
-* 🟥 **The Exit** — breaking away from the old system and сценарio  
-* 📍 **The Presence** — the first action within a new system  
-
-The series combines text, symbolism, and visual language into a unified transformation model.
+© Anna Pivtorak (Kostyuk)
 
 ---
 {{< section >}}

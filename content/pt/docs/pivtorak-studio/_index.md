@@ -59,7 +59,7 @@ images:
 <link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
 
-# Pivtorak.Studio — A Fórmula da Transformação
+# 🪙 Pivtorak.Studio — A Fórmula da Transformação
 
 *Pivtorak.Studio é uma série autoral que explora a transformação como transição para um novo sistema.*
 
@@ -67,13 +67,9 @@ A série revela um percurso desde a vocação interior até à construção de u
 
 Cada obra representa uma mudança de identidade e a criação de uma nova arquitetura de vida.
 
-**Estrutura da série:**
-
-* 🕊️ **O Chamamento** — o primeiro sinal e reconhecimento  
-* 🟥 **A Saída** — ruptura com o sistema anterior  
-* 📍 **A Presença** — a primeira ação no novo sistema  
-
 A série combina texto, simbolismo e linguagem visual numa abordagem integrada da transformação.
+
+© Anna Pivtorak (Kostyuk)
 
 ---
 {{< section >}}

@@ -5,8 +5,7 @@ translation_of: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studi
 title: 008 Da Identidade à Metodologia — A Caixa Preta da Pivtorak.Studio
 description: |
   Um artigo fundamental que apresenta a linguagem cibernética da Pivtorak.Studio através do modelo da Caixa Preta, formalizando o Operador de Transformação ℙ e a transição de um projeto de autora para uma metodologia própria.
-summary: |
-  A renovação visual da Pivtorak.Studio revelou inesperadamente a estrutura cibernética subjacente a todo o projeto. Este artigo apresenta o modelo da Caixa Preta, o Operador de Transformação ℙ e estabelece os fundamentos conceptuais do Transformation Framework.
+summary: A renovação visual da Pivtorak.Studio revelou inesperadamente a estrutura cibernética subjacente a todo o projeto. Este artigo apresenta o modelo da Caixa Preta, o Operador de Transformação ℙ e estabelece os fundamentos conceptuais do Transformation Framework.
 event_date: 2026-07-21T09:00:00
 publication_date: 2026-07-21T09:00:00
 lastmod: 2026-07-21T09:00:00

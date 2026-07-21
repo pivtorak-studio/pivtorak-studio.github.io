@@ -109,7 +109,7 @@ search: indexed
 </script>
 
 
-![On the Red Carpet](/images/pivtorak-studio-001-dream-as-calling.webp)
+![On the Red Carpet](/images/pivtorak-studio-002-on-the-red-carpet.webp)
 
 **🪙 Pivtorak.Studio — The Formula of Transformation**
 
@@ -131,8 +131,8 @@ that recognizes my step. <br>
 
 Because in this reality,  
 the main event — is me. <br>
-![On the Red Carpet](/images/pivtorak-studio-001-dream-as-calling-01.webp)
-![On the Red Carpet](/images/pivtorak-studio-001-dream-as-calling-02.webp)
+![On the Red Carpet](/images/pivtorak-studio-002-on-the-red-carpet-01.webp)
+![On the Red Carpet](/images/pivtorak-studio-002-on-the-red-carpet-02.webp)
 
 **Alt-text:**  
 A digital illustration: a woman in jeans, a T-shirt, and beige sneakers walks along a red bicycle path by the ocean. She listens to music through headphones. In the background — palm trees, sun, and waves. Text: _On the Red Carpet. Walking Towards Creativity._ The atmosphere evokes calm, motion, and dignity. The image is stylized with signature Pivtorak.Studio elements.

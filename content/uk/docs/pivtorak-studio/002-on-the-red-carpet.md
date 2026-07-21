@@ -108,7 +108,7 @@ search: indexed
 }
 </script>
 
-![На Червоній Доріжці](/images/pivtorak-studio-001-dream-as-calling.webp)
+![На Червоній Доріжці](/images/pivtorak-studio-002-on-the-red-carpet.webp)
 
 **🪙 Pivtorak.Studio — Формула трансформації**
 
@@ -131,8 +131,8 @@ search: indexed
 Бо в цій реальності  
 головна подія — я.
 
-![На Червоній Доріжці](/images/pivtorak-studio-001-dream-as-calling-01.webp)
-![На Червоній Доріжці](/images/pivtorak-studio-001-dream-as-calling-02.webp)
+![На Червоній Доріжці](/images/pivtorak-studio-002-on-the-red-carpet-01.webp)
+![На Червоній Доріжці](/images/pivtorak-studio-002-on-the-red-carpet-02.webp)
 
 **Alt-text:**  
 Цифрова ілюстрація: жінка в джинсах, футболці та бежевих кросівках іде вздовж океану по червоній велосипедній доріжці. Вона слухає музику в навушниках. На фоні — пальми, сонце, хвилі. Напис: _On the Red Carpet. Walking Towards Creativity._ Атмосфера — спокій, рух, гідність. Зображення стилізоване додаванням фірмових символів Pivtorak.Studio.

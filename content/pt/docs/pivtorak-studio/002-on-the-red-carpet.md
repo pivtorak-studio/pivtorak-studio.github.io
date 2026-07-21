@@ -108,7 +108,7 @@ search: indexed
 }
 </script>
 
-![No Tapete Vermelho](/images/pivtorak-studio-001-dream-as-calling.webp)
+![No Tapete Vermelho](/images/pivtorak-studio-002-on-the-red-carpet.webp)
 
 **🪙 Pivtorak.Studio — A Fórmula da Transformação**
 
@@ -130,8 +130,8 @@ que reconhece o meu passo. <br>
 
 Porque, nesta realidade,  
 o evento principal — sou eu. <br>
-![No Tapete Vermelho](/images/pivtorak-studio-001-dream-as-calling-01.webp)
-![No Tapete Vermelho](/images/pivtorak-studio-001-dream-as-calling-02.webp)
+![No Tapete Vermelho](/images/pivtorak-studio-002-on-the-red-carpet-01.webp)
+![No Tapete Vermelho](/images/pivtorak-studio-002-on-the-red-carpet-02.webp)
 
 **Alt-text:**  
 Ilustração digital: uma mulher com jeans, camiseta e ténis bege caminha ao longo de uma ciclovia vermelha à beira-mar. Ela ouve música com fones de ouvido. Ao fundo — palmeiras, sol e ondas. Texto: _On the Red Carpet. Walking Towards Creativity._ A atmosfera transmite calma, movimento e dignidade. A imagem é estilizada com elementos característicos da Pivtorak.Studio.

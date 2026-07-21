@@ -1,56 +1,119 @@
 ---
+id: pivtorak-studio-the-formula-of-transformation
+language: ru
+translation_of: pivtorak-studio-the-formula-of-transformation
+
 title: "🪙 Pivtorak.Studio — Формула трансформации"
-description: "Авторская серия о трансформации: призвание, выход из старой системы и создание новой архитектуры жизни."
-keywords: ["трансформация", "призвание", "личностный рост", "системы", "архитектура жизни", "Pivtorak Studio", "Anna Pivtorak"]
+description: "Авторская исследовательская серия о трансформации как переходе в новую систему."
+summary: "«Формула трансформации» представляет концептуальную основу Pivtorak.Studio и описывает путь от внутреннего призвания к новой архитектуре жизни."
+
+event_date: 2023-07-16T08:00:00
+publication_date: 2025-07-07T08:00:00
+lastmod: 2025-07-07T08:00:00
+
+slug: pivtorak-studio
+
+tags: [Трансформация, Методология, Архитектура знаний, Идентичность, Системное мышление, PivtorakStudio]
+keywords: [формула трансформации, методология трансформации, архитектура знаний, системное мышление]
+categories: [Исследования, Методология]
+
+series: FormulaOfTransformation
+series_index: 0
+
+research_origin: PT
+status: published
+featured: true
+
+image: /images/pivtorak-studio-the-formula-of-transformation.webp
+alt: "Концептуальная схема Формулы трансформации Pivtorak.Studio"
+
+related: [/ru/docs/pivtorak-studio/, /ru/docs/timeline/]
+
+authors: [Anna Pivtorak]
+
+draft: false
+canonical: https://pivtorak.studio/ru/docs/pivtorak-studio/
+
+transformation_stage: Основание
+system_model: Открытая адаптивная система
+operator: Человеческое сознание
+framework: Pivtorak.Studio
+transformation_operator: Структурный переход
+input_signal: Внутренний зов
+output_signal: Новая архитектура жизни
+information_flow: Сигнал → Решение → Трансформация
+knowledge_flow: Опыт → Структура → Методология
+system_type: Архитектура знаний
+research_domain: Исследования трансформации
+thinking_model: Системное мышление
+core_formula: Идентичность → Решение → Структура → Реальность
+transformation_formula: Призвание → Выход → Присутствие
+value_equation: Смысл × Структура = Устойчивая трансформация
+methodology_status: Базовая
+guiding_question: "Как человек осознанно переходит в новую систему жизни?"
+axiom: "Трансформация начинается внутри, прежде чем становится видимой снаружи."
+
+toc: true
+weight: 101
+completion: 100
+
+seo: true
+distribution: true
+search: indexed
 bookCollapseSection: true
-weight: 60
-
-images: ["/images/pivtorak-studio-logo.webp"]
 ---
-
-<link rel="canonical" href="https://pivtorak.studio/ru/docs/pivtorak-studio/">
-
-<meta name="robots" content="index, follow">
-
-<!-- OpenGraph -->
-<meta property="og:title" content="Pivtorak.Studio — Формула трансформации">
-<meta property="og:description" content="Серия о призвании, выходе из системы и создании новой реальности.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://pivtorak.studio/ru/docs/pivtorak-studio/">
-<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-logo.webp">
-
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pivtorak.Studio — Формула трансформации">
-<meta name="twitter:description" content="Трансформация как система: от призвания к присутствию.">
-<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-logo.webp">
-
-<meta name="googlebot" content="max-image-preview:large">
-
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Pivtorak.Studio",
-  "url": "https://pivtorak.studio",
-  "logo": "https://pivtorak.studio/images/pivtorak-studio-logo.webp",
-  "founder": {
-    "@type": "Person",
-    "name": "Анна Півторак (Костюк)",
-    "url": "https://pivtorak.studio/uk/docs/about/",
-    "sameAs": "https://www.wikidata.org/wiki/Q139713547"
+  "@context":"https://schema.org",
+  "@type":"CollectionPage",
+  "@id":"https://pivtorak.studio/ru/docs/pivtorak-studio/#webpage",
+  "url":"https://pivtorak.studio/ru/docs/pivtorak-studio/",
+  "inLanguage":"ru",
+  "name":"🪙 Pivtorak.Studio — Формула трансформации",
+  "headline":"Pivtorak.Studio — Формула трансформации",
+  "description":"Авторская исследовательская серия о трансформации как переходе в новую систему.",
+  "isPartOf":{
+    "@type":"WebSite",
+    "@id":"https://pivtorak.studio/#website",
+    "name":"Pivtorak.Studio",
+    "url":"https://pivtorak.studio/"
   },
-  "description": "Креативна студія та дослідницький центр, що спеціалізується на архітектурі цінностей та культурному проєктуванні.",
-  "sameAs": [
-    "https://www.wikidata.org/wiki/Q139736172",
-    "https://www.instagram.com/pivtorak.studio/",
-    "https://www.facebook.com/anna.pivtorak.jb.expert/"
-  ]
+  "mainEntity":{
+    "@type":"CreativeWorkSeries",
+    "@id":"https://pivtorak.studio/#formula-of-transformation",
+    "name":"Формула трансформации",
+    "alternateName":"FormulaOfTransformation",
+    "description":"Исследовательская серия о переходе человека в новую систему.",
+    "creator":{
+      "@type":"Person",
+      "name":"Anna Pivtorak"
+    },
+    "genre":"Методология исследований",
+    "keywords":[
+      "Трансформация",
+      "Архитектура знаний",
+      "Системное мышление",
+      "Идентичность",
+      "Методология"
+    ]
+  },
+  "image":"https://pivtorak.studio/images/pivtorak-studio-the-formula-of-transformation.webp",
+  "datePublished":"2025-07-07T08:00:00+01:00",
+  "dateModified":"2025-07-07T08:00:00+01:00",
+  "author":{
+    "@type":"Person",
+    "name":"Anna Pivtorak"
+  },
+  "publisher":{
+    "@type":"Organization",
+    "name":"Pivtorak.Studio",
+    "url":"https://pivtorak.studio/"
+  }
 }
 </script>
 
-<link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
+![Pivtorak.Studio — Формула трансформации](/images/pivtorak-studio-the-formula-of-transformation.webp)
 
 # 🪙 Pivtorak.Studio — Формула трансформации
 
@@ -60,13 +123,13 @@ images: ["/images/pivtorak-studio-logo.webp"]
 
 Каждая работа — шаг от старой идентичности к новой архитектуре жизни.
 
-**Структура серии:**
-
-* 🕊️ **Призвание (The Calling)** — момент осознания  
-* 🟥 **Выход (The Exit)** — разрыв со старой системой  
-* 📍 **Присутствие (The Presence)** — действие в новой системе  
-
 Серия объединяет текст, символику и визуальный язык в единую модель трансформации.
+
+**Alt-text:** <br>
+Концептуальная схема Формулы трансформации Pivtorak.Studio<br>
+
+_Pivtorak.Studio — Формула трансформации. AP | Pivtorak.Studio. 07.07.2025_  
+© Анна Пивторак (Костюк) 
 
 ---
 {{< section >}}

@@ -1,63 +1,119 @@
 ---
-title: 🪙 Pivtorak.Studio — The Formula of Transformation
-description: "An original series about transformation: calling, exiting old systems, and building a new architecture of life."
-keywords:
-  - transformation
-  - calling
-  - personal growth
-  - systems thinking
-  - life architecture
-  - Pivtorak Studio
-  - Anna Pivtorak
-bookCollapseSection: true
+id: pivtorak-studio-the-formula-of-transformation
+language: en
+translation_of: pivtorak-studio-the-formula-of-transformation
+
+title: "🪙 Pivtorak.Studio — The Formula of Transformation"
+description: "An original research series exploring transformation as a transition into a new system through structured stages of change."
+summary: "The Formula of Transformation introduces the conceptual framework of Pivtorak.Studio. The series traces the journey from inner calling to the construction of a new architecture of life through signal, exit, and presence."
+
+event_date: 2023-07-16T08:00:00
+publication_date: 2025-07-07T08:00:00
+lastmod: 2025-07-07T08:00:00
+
+slug: pivtorak-studio
+
+tags: [Transformation, Methodology, Knowledge Architecture, Identity, Systems Thinking, PivtorakStudio]
+keywords: [formula of transformation, transformation methodology, knowledge architecture, personal transformation, systems thinking, Pivtorak Studio]
+categories: [Research, Methodology]
+
+series: FormulaOfTransformation
+series_index: 0
+
+research_origin: PT
+status: published
+featured: true
+
+image: /images/pivtorak-studio-the-formula-of-transformation.webp
+alt: "Conceptual map of The Formula of Transformation by Pivtorak.Studio"
+
+related: [/en/docs/pivtorak-studio/, /en/docs/timeline/]
+
+authors: [Anna Pivtorak]
+
+draft: false
+canonical: https://pivtorak.studio/en/docs/pivtorak-studio/
+
+transformation_stage: Foundation
+system_model: Open Adaptive System
+operator: Human Consciousness
+framework: Pivtorak.Studio
+transformation_operator: Structured Transition
+input_signal: Inner Calling
+output_signal: New Architecture of Life
+information_flow: Signal → Decision → Transformation
+knowledge_flow: Experience → Structure → Methodology
+system_type: Knowledge Architecture
+research_domain: Transformation Studies
+thinking_model: Systems Thinking
+core_formula: Identity → Decision → Structure → Reality
+transformation_formula: Calling → Exit → Presence
+value_equation: Meaning × Structure = Sustainable Transformation
+methodology_status: Foundational
+guiding_question: "How does a person consciously transition into a new system of life?"
+axiom: "Transformation begins within before it becomes visible outside."
+
+toc: true
 weight: 101
-images:
-  - /images/pivtorak-studio-logo.webp
+completion: 100
+
+seo: true
+distribution: true
+search: indexed
+bookCollapseSection: true
 ---
-
-<link rel="canonical" href="https://pivtorak.studio/en/docs/pivtorak-studio/">
-
-<meta name="robots" content="index, follow">
-
-<!-- OpenGraph -->
-<meta property="og:title" content="Pivtorak.Studio — The Formula of Transformation">
-<meta property="og:description" content="A series about calling, system exit, and building a new reality.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://pivtorak.studio/en/docs/pivtorak-studio/">
-<meta property="og:image" content="https://pivtorak.studio/images/pivtorak-studio-logo.webp">
-
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pivtorak.Studio — The Formula of Transformation">
-<meta name="twitter:description" content="Transformation as a system: from calling to presence.">
-<meta name="twitter:image" content="https://pivtorak.studio/images/pivtorak-studio-logo.webp">
-
-<meta name="googlebot" content="max-image-preview:large">
-
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Pivtorak.Studio",
-  "url": "https://pivtorak.studio",
-  "logo": "https://pivtorak.studio/images/pivtorak-studio-logo.webp",
-  "founder": {
-    "@type": "Person",
-    "name": "Анна Півторак (Костюк)",
-    "url": "https://pivtorak.studio/uk/docs/about/",
-    "sameAs": "https://www.wikidata.org/wiki/Q139713547"
+  "@context":"https://schema.org",
+  "@type":"CollectionPage",
+  "@id":"https://pivtorak.studio/en/docs/pivtorak-studio/#webpage",
+  "url":"https://pivtorak.studio/en/docs/pivtorak-studio/",
+  "inLanguage":"en",
+  "name":"🪙 Pivtorak.Studio — The Formula of Transformation",
+  "headline":"Pivtorak.Studio — The Formula of Transformation",
+  "description":"An original research series exploring transformation as a transition into a new system through structured stages of change.",
+  "isPartOf":{
+    "@type":"WebSite",
+    "@id":"https://pivtorak.studio/#website",
+    "name":"Pivtorak.Studio",
+    "url":"https://pivtorak.studio/"
   },
-  "description": "Креативна студія та дослідницький центр, що спеціалізується на архітектурі цінностей та культурному проєктуванні.",
-  "sameAs": [
-    "https://www.wikidata.org/wiki/Q139736172",
-    "https://www.instagram.com/pivtorak.studio/",
-    "https://www.facebook.com/anna.pivtorak.jb.expert/"
-  ]
+  "mainEntity":{
+    "@type":"CreativeWorkSeries",
+    "@id":"https://pivtorak.studio/#formula-of-transformation",
+    "name":"The Formula of Transformation",
+    "alternateName":"FormulaOfTransformation",
+    "description":"An original series exploring transformation as a transition into a new system.",
+    "creator":{
+      "@type":"Person",
+      "name":"Anna Pivtorak"
+    },
+    "genre":"Research Methodology",
+    "keywords":[
+      "Transformation",
+      "Knowledge Architecture",
+      "Systems Thinking",
+      "Identity",
+      "Methodology"
+    ]
+  },
+  "image":"https://pivtorak.studio/images/pivtorak-studio-the-formula-of-transformation.webp",
+  "datePublished":"2025-07-07T08:00:00+01:00",
+  "dateModified":"2025-07-07T08:00:00+01:00",
+  "author":{
+    "@type":"Person",
+    "name":"Anna Pivtorak"
+  },
+  "publisher":{
+    "@type":"Organization",
+    "name":"Pivtorak.Studio",
+    "url":"https://pivtorak.studio/"
+  }
 }
 </script>
 
-<link rel="canonical" href="https://pivtorak.studio/docs/pivtorak-studio/">
 
+![Pivtorak.Studio — The Formula of Transformation](/images/pivtorak-studio-the-formula-of-transformation.webp)
 
 # 🪙 Pivtorak.Studio — The Formula of Transformation
 
@@ -67,6 +123,10 @@ The series traces a path from inner calling to the construction of a new reality
 
 Each work represents a step in shifting from an old identity to a new architecture of life.
 
+**Alt-text:** <br>
+Conceptual map of The Formula of Transformation by Pivtorak.Studio
+
+_Pivtorak.Studio — The Formula of Transformation. AP | Pivtorak.Studio. 07.07.2025_  
 © Anna Pivtorak (Kostyuk)
 
 ---

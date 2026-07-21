@@ -140,7 +140,7 @@ search: indexed
 
 # From Identity to Methodology: The Black Box of Pivtorak.Studio
 
-_The observer sees only input and output._  
+_The observer sees only input and output._
 _The system lives between them._  
 
 Any complex system naturally strives toward its true structure. Sometimes, realizing this structure requires an external impulse—a mundane trigger that sets off a chain reaction of meanings. For Pivtorak.Studio, this trigger was an update on LinkedIn, which stripped away artistic abstraction and revealed the underlying cybernetic framework.

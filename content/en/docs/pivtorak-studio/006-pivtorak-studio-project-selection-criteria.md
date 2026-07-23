@@ -125,7 +125,7 @@ search: indexed
 }
 </script>
 
-![Project Selection Criteria — Pivtorak.Studio](/images/006-pivtorak-studio-project-selection-criteria.webp)
+![Project Selection Criteria — Pivtorak.Studio](/images/pivtorak-studio-006-pivtorak-studio-project-selection-criteria.webp)
 
 
 **🪙 Pivtorak.Studio — The Formula of Transformation**

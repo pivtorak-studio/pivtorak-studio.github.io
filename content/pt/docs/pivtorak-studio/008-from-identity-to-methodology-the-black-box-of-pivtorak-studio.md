@@ -143,6 +143,7 @@ search: indexed
 
 Qualquer sistema complexo tende naturalmente para a sua verdadeira estrutura. Por vezes, para reconhecer essa estrutura, é necessário um impulso externo — um estímulo quotidiano que desencadeia uma reação em cadeia de significados. Para a Pivtorak.Studio, esse impulso foi a atualização do perfil no LinkedIn, que removeu a abstração artística e revelou a sua autêntica estrutura cibernética.
 
+![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-01.webp)
 ## De Projeto de Autor a Metodologia Própria
 
 Até hoje, a Pivtorak.Studio era percebida como um espaço dedicado a publicações multilingues, investigação e documentação cultural. No entanto, uma tarefa visual de rotina forçou um regresso às origens profundas da minha trajetória — ao Centro de Cibernética, às aulas especializadas de cibernética e às palestras no Instituto de Cibernética.
@@ -223,6 +224,8 @@ A fórmula final da Pivtorak.Studio é expressa pela equação:
 $$\mathbf{Informação} \xrightarrow{\quad \mathcal{P} \quad} \mathbf{Valor\ Duradouro}$$
 
 Esta é a linguagem de um laboratório de investigação: sistémica, clara e permanente.
+
+![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-02.webp)
 
 **Alt-text:**  
 Uma caixa preta cibernética minimalista atravessada por raios ciano e coral, representando o Operador de Transformação $\mathcal{P}$ da Pivtorak.Studio.

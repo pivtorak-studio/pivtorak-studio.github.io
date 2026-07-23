@@ -145,6 +145,7 @@ _The system lives between them._
 
 Any complex system naturally strives toward its true structure. Sometimes, realizing this structure requires an external impulse—a mundane trigger that sets off a chain reaction of meanings. For Pivtorak.Studio, this trigger was an update on LinkedIn, which stripped away artistic abstraction and revealed the underlying cybernetic framework.
 
+![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-01.webp)
 ## From Personal Project to Proprietary Methodology
 
 Until today, Pivtorak.Studio was perceived as a space for multilingual publishing, research, and cultural documentation. However, a routine visual task forced a return to foundational roots deeply embedded in my background—the Cybernetics Center, specialized cybernetics classes, and lectures at the Institute of Cybernetics.
@@ -224,6 +225,8 @@ The definitive formula of Pivtorak.Studio is expressed as:
 $$\mathbf{Information} \xrightarrow{\quad \mathcal{P} \quad} \mathbf{Long\text{-}Term\ Value}$$
 
 This is the language of a research laboratory: systematic, clear, and durable.
+
+![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-02.webp)
 
 **Alt-text:**  
 A minimalist cybernetic black box crossed by cyan input and coral output rays, representing the Transformation Operator $\mathcal{P}$ of Pivtorak.Studio.

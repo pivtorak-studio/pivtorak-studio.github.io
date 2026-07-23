@@ -232,5 +232,5 @@ $$\mathbf{Information} \xrightarrow{\quad \mathcal{P} \quad} \mathbf{Long\text{-
 **Alt-text:**  
 Мінімалістичний кібернетичний «Чорний ящик», крізь який проходять бірюзовий вхідний та кораловий вихідний промені, що символізують Оператор Трансформації $\mathcal{P}$ Pivtorak.Studio.
 
-_Від айдентики до методології – Чорний ящик. Pivtorak.Studio. AP | Pivtorak.Studio. 21.07.2026_  
+_Від айдентики до методології – Чорний ящик Pivtorak.Studio. AP | Pivtorak.Studio. 21.07.2026_  
 © Анна Півторак (Костюк) 

@@ -127,7 +127,7 @@ search: indexed
 Jewelry Business 11–12'2008  
 Interview with **Anna Pivtorak**
 
-ANNA PIVTORAK:  
+ANNA PIVTORAK:    
 BEFORE CRITICIZING SOMEBODY, LOOK AT YOUR OWN ACHIEVEMENTS CRITICALLY AND ATTENTIVELY OR TRY TO MAKE THE JOB OF THE PERSON YOU ARE CRITICIZING
 
 *Anna Pivtorak, the Director of Jewelry Business Publishing House. She is a reputable manager. Her creative potential is a source of ideas; her mindset towards mathematics is a secure basis for implementation of these ideas.*

@@ -128,8 +128,7 @@ search: indexed
 Jewelry Business 11–12'2008    
 Entrevista com **Anna Pivtorak**
 
-ANNA PIVTORAK:
-
+ANNA PIVTORAK:   
 ANTES DE CRITICAR ALGUÉM, É PRECISO OLHAR ATENTA E CRITICAMENTE PARA O NOSSO PRÓPRIO TRABALHO OU FAZER O TRABALHO DAQUELE QUE CRITICAMOS
 
 *Anna Anatolievna Pivtorak — diretora da Editora «Jewelry Business». Uma dirigente reconhecida. O seu potencial criativo é uma fonte de ideias, enquanto a sua formação matemática constitui uma base sólida para a sua concretização.*

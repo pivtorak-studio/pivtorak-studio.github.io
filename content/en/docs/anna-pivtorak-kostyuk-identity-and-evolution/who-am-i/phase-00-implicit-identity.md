@@ -130,7 +130,7 @@ Interview with **Anna Pivtorak**
 ANNA PIVTORAK:  
 BEFORE CRITICIZING SOMEBODY, LOOK AT YOUR OWN ACHIEVEMENTS CRITICALLY AND ATTENTIVELY OR TRY TO MAKE THE JOB OF THE PERSON YOU ARE CRITICIZING
 
-*Anna Pivtorak, the Director of Jewelry Business Publishing House. She is a reputable manager. Her creative potential is a source of ideas; her mindset towards mathematics is a secure basis for implementation of these ideas.
+*Anna Pivtorak, the Director of Jewelry Business Publishing House. She is a reputable manager. Her creative potential is a source of ideas; her mindset towards mathematics is a secure basis for implementation of these ideas.*
 
 ### Were you a good school student?
 
@@ -422,9 +422,9 @@ Moreover, advertising during the crisis results in public loyalty and ensures a 
 Crisis is a good time for re-branding (for analysis and conclusions).   
 And it brings not only problems, but new possibilities as well.    
 
-Dear Anna, thank you for an interesting talk. We wish you success in all projects you are managing, understanding and respect of your colleagues, well-being of your family and may all your dreams come true!  
+*Dear Anna, thank you for an interesting talk. We wish you success in all projects you are managing, understanding and respect of your colleagues, well-being of your family and may all your dreams come true!*  
 
-Thank you. I wish good luck to Jewelry Business and all jewelers. I hope the government will support the industry and all companies will prosper. I wish all of you to have mutual understanding in your families and more time and money for the rest which The Jeweler deserves. 
+*Thank you. I wish good luck to Jewelry Business and all jewelers. I hope the government will support the industry and all companies will prosper. I wish all of you to have mutual understanding in your families and more time and money for the rest which The Jeweler deserves.* 
 
 **Alt-text:**   
 Magazine cover of Jewelry Business 11–12'2008 featuring Anna Pivtorak, an archival portrait.

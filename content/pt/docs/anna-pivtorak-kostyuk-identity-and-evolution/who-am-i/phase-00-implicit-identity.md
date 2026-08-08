@@ -126,7 +126,7 @@ search: indexed
 **Fonte original**
 
 Jewelry Business 11–12'2008    
-**Entrevista com Anna Pivtorak**
+Entrevista com **Anna Pivtorak**
 
 ANNA PIVTORAK:
 

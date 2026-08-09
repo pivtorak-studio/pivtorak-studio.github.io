@@ -56,7 +56,7 @@ canonical:
   - https://pivtorak.studio/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/phase-00-implicit-identity/
 guiding_question: O que já estava presente na identidade de Anna Pivtorak em 2008, antes de essa identidade ser conscientemente descrita e estruturada?
 toc: true
-weight: 0
+weight: 1
 completion: 100
 seo: true
 distribution: true
@@ -431,7 +431,7 @@ A crise não traz apenas problemas, mas também a procura de novas oportunidades
 *Obrigada. Quero desejar boa sorte ao «Jewelry Business» e a todos os joalheiros. Gostaria que o Governo apoiasse o setor da joalharia e que todas as empresas prosperassem. Que haja compreensão mútua nas vossas famílias, mais tempo e meios para descansar, como merece um Joalheiro.*
 
 **Alt-text:**  
-Capa da revista Jewelry Business 11–12'2008 com Anna Pivtorak, retrato de arquivo.
+Capa da revista Jewelry Business 11–12'2008 com Anna Pivtorak.
 
 _Anna Pivtorak (Kostyuk). Quem sou eu? —Phase 0 — Identidade Implícita (2008). AP | Pivtorak.Studio. 25.12.2008_   
 © Anna Pivtorak (Kostyuk)

@@ -2,10 +2,10 @@
 title: Fase II — Identidade Estrutural (2026)
 description: Segunda fase da identidade – transição da narrativa para o pensamento sistémico e construção estrutural.
 weight: 4
-event_date: 2026-02-26
-publication_date: 2026-02-26
+event_date: 2026-02-26T09:00:00
+publication_date: 2026-02-26T09:00:00
 event_type: life_node
-lastmod: 26.02.2026
+lastmod: 2026-02-26T09:00:00
 ---
 
 <script type="application/ld+json">

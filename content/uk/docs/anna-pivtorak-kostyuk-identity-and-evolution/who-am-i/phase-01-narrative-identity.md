@@ -2,9 +2,9 @@
 title: Фаза I — Наративна Ідентичність (2025)
 descriptions: Перша зафіксована фаза ідентичності Анни Півторак як візуального сторітелера та дослідниці.
 weight: 3
-event_date: 2025-03-12
-publication_date: 2025-03-12
-lastmod: 12.03.2025
+event_date: 2025-03-12T09:00:00
+publication_date: 2025-03-12T09:00:00
+lastmod: 2025-03-12T09:00:00
 ---
 
 <script type="application/ld+json">

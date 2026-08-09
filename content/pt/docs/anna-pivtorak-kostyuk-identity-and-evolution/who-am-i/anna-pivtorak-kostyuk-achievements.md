@@ -4,8 +4,8 @@ language: pt
 title: Anna Pivtorak (Kostyuk) – Realizações
 description: Site oficial de Anna Pivtorak (Kostyuk) — investigadora, autora e criadora de projetos culturais.
 weight: 1
-event_date: 2021-05-11
-publication_date: 2026-03-16
+event_date: 2021-05-11T09:00:00
+publication_date: 2026-03-16T09:00:00
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -20,7 +20,7 @@ image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtora
 alt: Anna Pivtorak com beca de formatura perto do Edifício Vermelho da Universidade Nacional Taras Shevchenko de Kyiv, Kyiv
 related:
   - /timeline/
-lastmod: 16.03.2026
+lastmod: 2026-03-16T09:00:00
 ---
 
 <script type="application/ld+json">

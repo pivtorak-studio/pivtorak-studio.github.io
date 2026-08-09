@@ -1,11 +1,11 @@
 ---
 id: anna-pivtorak
 language: ru
-title: "Анна Пивторак (Костюк) – Достижения"
+title: Анна Пивторак (Костюк) – Достижения
 description: Официальная страница Анны Пивторак (Костюк) – идентичность, образование, награды и жизненный путь.
 weight: 1
-event_date: 2021-05-11 
-publication_date: 2026-03-16 
+event_date: 2021-05-11
+publication_date: 2026-03-16
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -16,10 +16,11 @@ tags:
 country: UA
 status: published
 featured: true
-image: "/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp"
-alt: "Анна Пивторак в мантии выпускника возле Красного корпуса КНУ имени Тараса Шевченко, Киев"
+image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp
+alt: Анна Пивторак в мантии выпускника возле Красного корпуса КНУ имени Тараса Шевченко, Киев
 related:
   - /timeline/
+lastmod: 16.03.2026
 ---
 
 <script type="application/ld+json">

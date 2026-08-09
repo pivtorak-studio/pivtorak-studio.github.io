@@ -1,10 +1,11 @@
 ---
-title: "Phase II — Structural Identity (2026)"
+title: Phase II — Structural Identity (2026)
 description: The second phase of identity – transition from narrative to system thinking and structural construction.
-weight: 3
-event_date: 2026-02-26 # Date of the event mentioned in the article (for Chronology)
-publication_date: 2026-02-26 # Date the article was published (event understanding)
+weight: 4
+event_date: 2026-02-26
+publication_date: 2026-02-26
 event_type: life_node
+lastmod: 26.02.2026
 ---
 
 <script type="application/ld+json">

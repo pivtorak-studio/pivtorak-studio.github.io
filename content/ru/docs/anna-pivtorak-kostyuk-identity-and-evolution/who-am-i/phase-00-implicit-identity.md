@@ -56,7 +56,7 @@ canonical:
   - https://pivtorak.studio/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/phase-00-implicit-identity/
 guiding_question: Что уже присутствовало в идентичности Анны Пивторак в 2008 году, прежде чем эта идентичность стала осознанно описываться и структурироваться?
 toc: true
-weight: 1
+weight: 4
 completion: 100
 seo: true
 distribution: true

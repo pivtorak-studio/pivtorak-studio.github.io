@@ -1,11 +1,11 @@
 ---
 id: anna-pivtorak
 language: en
-title: "Anna Pivtorak (Kostyuk) – Achievements"
+title: Anna Pivtorak (Kostyuk) – Achievements
 description: Official website of Anna Pivtorak (Kostyuk) — researcher, author, and creator of cultural and analytical projects.
 weight: 1
-event_date: 2021-05-11 
-publication_date: 2026-03-16 
+event_date: 2021-05-11
+publication_date: 2026-03-16
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -16,10 +16,11 @@ tags:
 country: UA
 status: published
 featured: true
-image: "/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp"
-alt: "Anna Pivtorak in a graduate's robe near the Red Building of Taras Shevchenko National University of Kyiv, Kyiv"
+image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp
+alt: Anna Pivtorak in a graduate's robe near the Red Building of Taras Shevchenko National University of Kyiv, Kyiv
 related:
   - /timeline/
+lastmod: 16.03.2026
 ---
 
 <script type="application/ld+json">

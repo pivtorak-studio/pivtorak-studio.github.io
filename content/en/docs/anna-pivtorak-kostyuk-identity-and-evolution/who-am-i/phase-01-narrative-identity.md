@@ -1,7 +1,10 @@
 ---
-title: "Phase I — Narrative Identity (2025)"
+title: Phase I — Narrative Identity (2025)
 descriptions: The first documented phase of identity as a visual storyteller and researcher.
-weight: 2
+weight: 3
+event_date: 2025-03-12
+publication_date: 2025-03-12
+lastmod: 12.03.2025
 ---
 
 <script type="application/ld+json">

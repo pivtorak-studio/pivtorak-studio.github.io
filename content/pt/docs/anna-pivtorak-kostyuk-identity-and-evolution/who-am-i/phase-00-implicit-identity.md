@@ -56,7 +56,7 @@ canonical:
   - https://pivtorak.studio/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/phase-00-implicit-identity/
 guiding_question: O que já estava presente na identidade de Anna Pivtorak em 2008, antes de essa identidade ser conscientemente descrita e estruturada?
 toc: true
-weight: 1
+weight: 2
 completion: 100
 seo: true
 distribution: true

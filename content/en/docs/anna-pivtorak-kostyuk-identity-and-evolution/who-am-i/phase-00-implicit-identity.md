@@ -124,8 +124,8 @@ search: indexed
 
 **Original source**
 
-Jewelry Business 11–12'2008  
-Interview with **Anna Pivtorak**
+Jewelry Business 11–12'2008    
+Interview with **Anna Pivtorak**  
 
 ANNA PIVTORAK:    
 BEFORE CRITICIZING SOMEBODY, LOOK AT YOUR OWN ACHIEVEMENTS CRITICALLY AND ATTENTIVELY OR TRY TO MAKE THE JOB OF THE PERSON YOU ARE CRITICIZING

@@ -78,7 +78,7 @@ search: indexed
 
 # 🪨🧭✨ When You No Longer Have to Be Strong
 
-_Peaceful life begins when being strong is no longer required every day._
+_Rest becomes possible when danger no longer sets the rhythm of life._
 
 We often think that peace means having nothing to fear.
 

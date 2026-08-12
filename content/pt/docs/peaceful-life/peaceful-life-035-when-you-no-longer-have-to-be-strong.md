@@ -83,7 +83,7 @@ search: indexed
 
 # 🪨🧭✨ Quando já não é preciso ser forte
 
-_Uma vida em paz começa quando já não é preciso ser forte todos os dias._
+_O descanso torna-se possível quando o perigo deixa de marcar o ritmo da vida._
 
 Costumamos pensar que a paz significa não ter nada a temer.
 

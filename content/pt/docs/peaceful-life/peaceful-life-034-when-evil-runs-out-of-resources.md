@@ -82,7 +82,7 @@ search: indexed
 
 # 🌑🌀✨ Quando o mal fica sem recursos
 
-_Uma infância em paz começa quando o mal já não tem recursos para chegar até uma criança._
+_Nenhuma criança deveria ter de ser corajosa apenas para se sentir segura._
 
 Costumamos pensar que uma vida em paz começa quando a guerra termina, o perigo desaparece ou chega a vitória.
 

@@ -79,7 +79,7 @@ search: indexed
 
 # 🪶🪹🌤️ When They Can Come Back
 
-_Peaceful life begins when every living creature can return to a place where life is possible._
+_One of the quietest signs of peace is when life returns by itself._
 
 We often speak about peace as something that belongs to people.
 

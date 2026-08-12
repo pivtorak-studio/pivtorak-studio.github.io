@@ -78,7 +78,7 @@ search: indexed
 
 # 🌑🌀✨ When Evil Runs Out of Resources
 
-_Peaceful childhood begins when evil no longer has the resources to reach a child._
+_No child should have to be brave just to feel safe._
 
 We tend to think that peaceful life begins when war ends, danger disappears, or victory comes.
 

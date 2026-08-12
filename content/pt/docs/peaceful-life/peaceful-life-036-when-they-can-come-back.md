@@ -84,7 +84,7 @@ search: indexed
 
 # 🪶🪹🌤️ Quando podem voltar
 
-_Uma vida em paz começa quando cada ser vivo pode regressar a um lugar onde a vida é possível._
+_Um dos sinais mais silenciosos da paz é quando a vida regressa por si própria._
 
 Falamos muitas vezes da paz como algo que pertence às pessoas.
 

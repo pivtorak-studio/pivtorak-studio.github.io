@@ -79,7 +79,7 @@ search: indexed
 
 ![Коли більше не потрібно бути сильним](/images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp)
 
-**🌱☀️ Мирне Життя**
+**🌱☀️ Мирне Життя**  
 
 # 🪨🧭✨ Коли більше не потрібно бути сильним
 

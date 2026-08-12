@@ -4,12 +4,25 @@ language: uk
 translation_of: peaceful-life-034-when-evil-runs-out-of-resources
 title: 034 Коли у зла закінчується ресурс
 description: Мирне дитинство починається там, де у зла більше немає ресурсу дістатися до дитини.
-event_date: 2026-08-12T11:00:00+01:00
-publication_date: 2026-08-12T11:00:00+01:00
-lastmod: 2026-08-12T11:00:00+01:00
+event_date: 2026-08-12T06:00:00+01:00
+publication_date: 2026-08-12T06:00:00+01:00
+lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
-tags: [peaceful-life, children, peace, evil, resources]
-keywords: [мирне дитинство, мирне життя, зло, ресурс, діти, безпека, війна, мир]
+tags:
+  - peaceful-life
+  - children
+  - peace
+  - evil
+  - resources
+keywords:
+  - мирне дитинство
+  - мирне життя
+  - зло
+  - ресурс
+  - діти
+  - безпека
+  - війна
+  - мир
 series: Peaceful Life
 series_index: 34
 research_origin: UA
@@ -17,7 +30,9 @@ status: published
 featured: true
 image: /images/peaceful-life-034-when-evil-runs-out-of-resources.webp
 alt: Спокійна дитяча кімната вночі, у яку через вікно м’яко проникає місячне світло. За вікном темне небо поступово розсіюється на окремі частинки, а кімната залишається спокійною та захищеною.
-related: [/uk/docs/peaceful-life/, /uk/docs/timeline/]
+related:
+  - /uk/docs/peaceful-life/
+  - /uk/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /uk/docs/peaceful-life/034-when-evil-runs-out-of-resources/
@@ -67,8 +82,8 @@ search: indexed
     "name": "Pivtorak.Studio",
     "url": "https://pivtorak.studio/uk/"
   },
-  "datePublished": "2026-08-12T11:00:00+01:00",
-  "dateModified": "2026-08-12T11:00:00+01:00",
+  "datePublished": "2026-08-12T06:00:00+01:00",
+  "dateModified": "2026-08-12T06:00:00+01:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/uk/docs/peaceful-life/034-when-evil-runs-out-of-resources/"
@@ -80,7 +95,7 @@ search: indexed
 
 **🌱☀️ Мирне Життя**
 
-# 🕊️🌱☀️ Коли у зла закінчується ресурс
+# 🌑🌀✨ Коли у зла закінчується ресурс
 
 _Мирне дитинство починається там, де у зла більше немає ресурсу дістатися до дитини._
 

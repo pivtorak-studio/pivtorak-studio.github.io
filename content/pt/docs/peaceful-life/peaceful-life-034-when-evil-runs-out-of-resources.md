@@ -4,9 +4,9 @@ language: pt
 translation_of: peaceful-life-034-when-evil-runs-out-of-resources
 title: 034 Quando o mal fica sem recursos
 description: Uma infância em paz começa quando o mal já não tem recursos para chegar até uma criança.
-event_date: 2026-08-12T11:00:00+01:00
-publication_date: 2026-08-12T11:00:00+01:00
-lastmod: 2026-08-12T11:00:00+01:00
+event_date: 2026-08-12T06:00:00+01:00
+publication_date: 2026-08-12T06:00:00+01:00
+lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
 tags: [peaceful-life, children, peace, evil, resources]
 keywords: [infância em paz, vida pacífica, mal, recursos, crianças, segurança, guerra, paz]
@@ -67,8 +67,8 @@ search: indexed
     "name": "Pivtorak.Studio",
     "url": "https://pivtorak.studio/pt/"
   },
-  "datePublished": "2026-08-12T11:00:00+01:00",
-  "dateModified": "2026-08-12T11:00:00+01:00",
+  "datePublished": "2026-08-12T06:00:00+01:00",
+  "dateModified": "2026-08-12T06:00:00+01:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/pt/docs/peaceful-life/034-when-evil-runs-out-of-resources/"
@@ -80,7 +80,7 @@ search: indexed
 
 **🌱☀️ Vida Pacífica**
 
-# 🕊️🌱☀️ Quando o mal fica sem recursos
+# 🌑🌀✨ Quando o mal fica sem recursos
 
 _Uma infância em paz começa quando o mal já não tem recursos para chegar até uma criança._
 

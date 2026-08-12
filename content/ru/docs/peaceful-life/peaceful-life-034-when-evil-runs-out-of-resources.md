@@ -4,9 +4,9 @@ language: ru
 translation_of: peaceful-life-034-when-evil-runs-out-of-resources
 title: 034 Когда у зла заканчивается ресурс
 description: Мирное детство начинается там, где у зла больше нет ресурса добраться до ребёнка.
-event_date: 2026-08-12T11:00:00+01:00
-publication_date: 2026-08-12T11:00:00+01:00
-lastmod: 2026-08-12T11:00:00+01:00
+event_date: 2026-08-12T06:00:00+01:00
+publication_date: 2026-08-12T06:00:00+01:00
+lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
 tags: [peaceful-life, children, peace, evil, resources]
 keywords: [мирное детство, мирная жизнь, зло, ресурс, дети, безопасность, война, мир]
@@ -67,8 +67,8 @@ search: indexed
     "name": "Pivtorak.Studio",
     "url": "https://pivtorak.studio/ru/"
   },
-  "datePublished": "2026-08-12T11:00:00+01:00",
-  "dateModified": "2026-08-12T11:00:00+01:00",
+  "datePublished": "2026-08-12T06:00:00+01:00",
+  "dateModified": "2026-08-12T06:00:00+01:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/ru/docs/peaceful-life/034-when-evil-runs-out-of-resources/"
@@ -80,7 +80,7 @@ search: indexed
 
 **🌱☀️ Мирная Жизнь
 
-# 🕊️🌱☀️ Когда у зла заканчивается ресурс
+# 🌑🌀✨ Когда у зла заканчивается ресурс
 
 _Мирное детство начинается там, где у зла больше нет ресурса добраться до ребёнка._
 

@@ -149,6 +149,8 @@ Five children
 <li>2nd great-grandfather: Kalenyk Hudenko</li>  
   </ul>
 
+{{< /details >}}
+
 ---
 ## 5. Known variations of the name
 

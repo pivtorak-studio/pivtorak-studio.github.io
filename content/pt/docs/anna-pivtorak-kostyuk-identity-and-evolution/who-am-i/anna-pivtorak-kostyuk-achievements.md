@@ -148,6 +148,8 @@ Cinco filhos
 <li>Trisavô: Konon Halushko</li>    
 <li>Trisavô: Kalenyk Hudenko</li>  
   </ul>
+
+{{< /details >}}
   
 ---
 ## 5. Variações conhecidas do nome

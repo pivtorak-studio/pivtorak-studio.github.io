@@ -5,7 +5,7 @@ title: Anna Pivtorak (Kostyuk) – Realizações
 description: Site oficial de Anna Pivtorak (Kostyuk) — investigadora, autora e criadora de projetos culturais.
 weight: 1
 event_date: 2021-05-11T09:00:00
-publication_date: 2026-03-16T09:00:00
+publication_date: 2021-05-11T09:00:00
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -20,7 +20,11 @@ image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtora
 alt: Anna Pivtorak com beca de formatura perto do Edifício Vermelho da Universidade Nacional Taras Shevchenko de Kyiv, Kyiv
 related:
   - /timeline/
-lastmod: 2026-03-16T09:00:00
+lastmod: 2021-05-11T09:00:00
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 
 <script type="application/ld+json">
@@ -145,8 +149,6 @@ Cinco filhos
 <li>Trisavô: Kalenyk Hudenko</li>  
   </ul>
   
-{{< /details >}}
-
 ---
 ## 5. Variações conhecidas do nome
 
@@ -157,3 +159,6 @@ Cinco filhos
 - Анна Костюк  
 - Анна Півторак Костюк  
 - Анна Пивторак (transliteração alternativa)   
+
+_Anna Pivtorak (Kostyuk) – Realizações. AP | Pivtorak.Studio. 21.05.2021_    
+© Anna Pivtorak (Kostyuk)   

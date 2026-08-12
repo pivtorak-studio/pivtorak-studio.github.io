@@ -5,7 +5,7 @@ title: Anna Pivtorak (Kostyuk) – Achievements
 description: Official website of Anna Pivtorak (Kostyuk) — researcher, author, and creator of cultural and analytical projects.
 weight: 1
 event_date: 2021-05-11T09:00:00
-publication_date: 2026-03-16T09:00:00
+publication_date: 2021-05-11T09:00:00
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -20,7 +20,11 @@ image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtora
 alt: Anna Pivtorak in a graduate's robe near the Red Building of Taras Shevchenko National University of Kyiv, Kyiv
 related:
   - /timeline/
-lastmod: 2026-03-16T09:00:00
+lastmod: 2021-05-11T09:00:00
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 
 <script type="application/ld+json">
@@ -144,8 +148,6 @@ Five children
 <li>2nd great-grandfather: Konon Halushko</li>    
 <li>2nd great-grandfather: Kalenyk Hudenko</li>  
   </ul>
-  
-{{< /details >}}
 
 ---
 ## 5. Known variations of the name
@@ -157,3 +159,8 @@ Five children
 - Анна Костюк  
 - Анна Півторак Костюк  
 - Анна Пивторак (alternative transliteration)  
+
+_Anna Pivtorak (Kostyuk) – Achievements. AP | Pivtorak.Studio. 21.05.2021_    
+© Anna Pivtorak (Kostyuk)   
+
+

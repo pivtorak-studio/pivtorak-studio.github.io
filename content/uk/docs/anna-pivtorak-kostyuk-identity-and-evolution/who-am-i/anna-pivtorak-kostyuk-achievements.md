@@ -5,7 +5,7 @@ title: Анна Півторак (Костюк) – Досягнення
 description: Офіційна сторінка Анни Півторак (Костюк) – ідентичність, освіта, нагороди та життєвий шлях.
 weight: 1
 event_date: 2021-05-11T09:00:00
-publication_date: 2026-03-16T09:00:00
+publication_date: 2021-05-11T09:00:00
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -20,7 +20,11 @@ image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtora
 alt: Анна Півторак у мантії випускника біля Червоного корпусу КНУ імені Тараса Шевченка, Київ
 related:
   - /timeline/
-lastmod: 2026-03-16T09:00:00
+lastmod: 2021-05-11T09:00:00
+completion: 100
+seo: true
+distribution: true
+search: indexed
 ---
 
 <script type="application/ld+json">
@@ -145,8 +149,6 @@ lastmod: 2026-03-16T09:00:00
 <li>ПраПраДід: Гуденко Каленик</li>
 
   </ul>
-  
-{{< /details >}}
 
 ---
 ## 5. Відомі варіації імені
@@ -158,3 +160,6 @@ lastmod: 2026-03-16T09:00:00
 - Анна Костюк  
 - Анна Півторак Костюк  
 - Анна Пивторак (альтернативна транслітерація)   
+
+_Анна Півторак (Костюк) – Досягнення. AP | Pivtorak.Studio. 21.05.2021_    
+© Анна Півторак (Костюк)   

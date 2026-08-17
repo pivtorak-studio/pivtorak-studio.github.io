@@ -114,8 +114,10 @@ Every object I analyze — whether a political model or an artifact of power —
 
 ## 4. Academic Resonance: Legalizing Senses 
 
-My path toward _Universidade Aberta_ and a presence in _Google Scholar_ is a strategic expansion. I combine ease of perception with academic depth. Every insight expressed in plain language will have its scientific equivalent. This is the **RESONANCE_SYSTEM**: the ability of a single sense to vibrate at different levels — from an emotional blog to a rigorous scientific paper.
-
+I do not accumulate knowledge for the sake of degrees.  
+I transform research into structures, insights into products, and knowledge into value.  
+One meaning can resonate at different levels — from accessible language to academic work.  
+**RESONANCE_SYSTEM is the ability of knowledge to move between levels without losing its meaning.**
 ## 5. Sovereignty: The Space of Closed Doors 
 
 True creativity requires hermeticism. My energy is fueled by silence and internal harmony, which remains outside public discussion. This allows me to be decisive in action and precise in detail. I occupy this digital territory (**Pivtorak.Studio**) as my own fortress of meanings.

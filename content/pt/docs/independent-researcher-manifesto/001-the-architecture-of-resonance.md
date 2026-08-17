@@ -135,7 +135,10 @@ Cada objeto que analiso — seja um modelo político ou um artefacto de poder �
 
 ## 4. Ressonância Académica: Legalização de Sentidos 
 
-O meu caminho para a _Universidade Aberta_ e a presença no _Google Scholar_ é uma expansão estratégica. Combino a leveza da perceção com a profundidade académica. Cada _insight_ expresso em linguagem simples terá o seu equivalente científico. Isto é o **RESONANCE_SYSTEM**: a capacidade de um único sentido vibrar em diferentes níveis — de um blogue emocional a um rigoroso artigo científico.
+Não acumulo conhecimento apenas para obter diplomas.  
+Transformo investigação em estruturas, insights em produtos e conhecimento em valor.  
+Um mesmo sentido pode ressoar em diferentes níveis — da linguagem acessível ao trabalho académico.  
+**RESONANCE_SYSTEM é a capacidade do conhecimento para transitar entre níveis sem perder o seu sentido.**
 
 ## 5. Soberania: O Espaço de Portas Fechadas 
 

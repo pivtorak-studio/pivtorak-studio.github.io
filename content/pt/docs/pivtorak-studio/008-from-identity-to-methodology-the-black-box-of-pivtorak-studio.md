@@ -144,6 +144,12 @@ search: indexed
 Qualquer sistema complexo tende naturalmente para a sua verdadeira estrutura. Por vezes, para reconhecer essa estrutura, é necessário um impulso externo — um estímulo quotidiano que desencadeia uma reação em cadeia de significados. Para a Pivtorak.Studio, esse impulso foi a atualização do perfil no LinkedIn, que removeu a abstração artística e revelou a sua autêntica estrutura cibernética.
 
 ![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-01.webp)
+
+## O que é Arquitetura do Conhecimento no Modelo Cibernético? 
+
+A Arquitetura do Conhecimento (Knowledge Architecture) é uma estrutura metodológica para transformar dados não estruturados (Input) em ativos de informação organizados (Output).   
+Utilizando o modelo da Caixa Preta (Black Box), esta abordagem estrutura projetos de investigação e culturais complexos, garantindo o seu valor a longo prazo e preservação digital.
+
 ## De Projeto de Autor a Metodologia Própria
 
 Até hoje, a Pivtorak.Studio era percebida como um espaço dedicado a publicações multilingues, investigação e documentação cultural. No entanto, uma tarefa visual de rotina forçou um regresso às origens profundas da minha trajetória — ao Centro de Cibernética, às aulas especializadas de cibernética e às palestras no Instituto de Cibernética.
@@ -224,6 +230,12 @@ A fórmula final da Pivtorak.Studio é expressa pela equação:
 $$\mathbf{Informação} \xrightarrow{\quad \mathcal{P} \quad} \mathbf{Valor\ Duradouro}$$
 
 Esta é a linguagem de um laboratório de investigação: sistémica, clara e permanente.
+
+## Aplicações Práticas da Metodologia:
+
+- **Entrada (Input):** Mapeamento e recolha de notas de investigação e dados não estruturados.   
+- **Operador de Transformação (P):** Sistematização através de modelação de dados, taxonomia e metadados.   
+- **Saída (Output):** Um arquivo digital estruturado ou base de conhecimento pronta para publicação e preservação.  
 
 ![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-02.webp)
 

@@ -145,12 +145,12 @@ _The system lives between them._
 
 Any complex system naturally strives toward its true structure. Sometimes, realizing this structure requires an external impulse—a mundane trigger that sets off a chain reaction of meanings. For Pivtorak.Studio, this trigger was an update on LinkedIn, which stripped away artistic abstraction and revealed the underlying cybernetic framework.
 
-![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-01.webp)
-
 ## What is Knowledge Architecture in a Cybernetic Framework?  
 
 Knowledge Architecture is a methodological framework designed to transform unstructured research data (Input) into structured, long-term information assets (Output).   
 By applying the Black Box Model, this approach structures complex cultural and academic projects, ensuring data preservation, clarity, and scalability.
+
+![From Identity to Methodology: The Black Box of Pivtorak.Studio](/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio-01.webp)
 
 ## From Personal Project to Proprietary Methodology
 

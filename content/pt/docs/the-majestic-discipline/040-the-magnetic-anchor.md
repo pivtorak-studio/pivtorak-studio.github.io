@@ -110,8 +110,6 @@ guiding_question: "A partir de que ponto meço a minha direção?"
 
 # 🧭🧲🕊️ A Âncora Magnética | A Disciplina Majestosa
 
-## Gancho de Entrada
-
 Um pombo-correio não começa a sua viagem por perguntar para onde deve voar. Começa por ter um ponto de referência — uma noção de casa que lhe permite encontrar a direção mesmo quando a paisagem desaparece na distância, nas nuvens ou na incerteza.
 
 ## O Símbolo

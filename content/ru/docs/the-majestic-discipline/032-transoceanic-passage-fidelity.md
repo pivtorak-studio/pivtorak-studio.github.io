@@ -96,9 +96,8 @@ guiding_question: "Способен ли ты сохранить верност�
 </script>
 
 ![Трансокеанический Переход. Верность](/images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp)
-**⊙ Величественная Дисциплина**
 
-# 🐢🌊🧭 Трансокеанический Переход. Верность  
+# 🐢🌊🧭 Трансокеанический Переход. Верность | Величественная Дисциплина      
 
 **Transoceanic Passage Fidelity**
 

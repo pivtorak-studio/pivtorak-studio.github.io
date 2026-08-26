@@ -83,9 +83,7 @@ guiding_question: "Як тиха сила стає видимою, не втра
 
 ![Пробудження. Межа Напруги](/images/the-majestic-discipline-026-awakening-tension-threshold.webp)
 
-**⊙ Велична Дисципліна**
-
-# 🐻🪵💥 Пробудження. Межа Напруги  
+# 🐻🪵💥 Пробудження. Межа Напруги | Велична Дисципліна    
 
 **Awakening Of Tension**
 

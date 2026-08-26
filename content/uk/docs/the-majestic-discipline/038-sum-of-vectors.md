@@ -119,8 +119,7 @@ guiding_question: Чи може кожен, навіть хаотичний на
 
 ![Сума Векторів](/images/the-majestic-discipline-038-sum-of-vectors.webp)
 
-**⊙ Велична Дисципліна**
-# 🐜 ➜ ☀️ Сума Векторів
+# 🐜 ➜ ☀️ Сума Векторів | Велична Дисципліна  
 
 **The Sum of Vectors**
 

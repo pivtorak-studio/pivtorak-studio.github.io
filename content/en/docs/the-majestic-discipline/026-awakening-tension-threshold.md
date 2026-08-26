@@ -83,9 +83,7 @@ guiding_question: "How does quiet strength become visible without losing its dis
 
 ![Awakening. Tension Threshold](/images/the-majestic-discipline-026-awakening-tension-threshold.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐻🪵💥 Awakening. Tension Threshold
+# 🐻🪵💥 Awakening. Tension Threshold | The Majestic Discipline
 
 At the center of the image stands a bear emerging from the shadows: rising, stretching, revealing its full size. This awakening is not an attack — it is the moment when magnitude becomes visible and hidden mass shifts into a stance of strength.
 

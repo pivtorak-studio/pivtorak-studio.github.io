@@ -96,9 +96,8 @@ guiding_question: "Способен ли ты доверять направле�
 </script>
 
 ![Магнитный Резонанс. Настройка](/images/the-majestic-discipline-031-magnetic-resonance-alignment.webp)
-**⊙ Величественная Дисциплина**
 
-# 🐢🧭🌊 Магнитный Резонанс. Настройка  
+# 🐢🧭🌊 Магнитный Резонанс. Настройка | Величественная Дисциплина    
 
 **Magnetic Resonance. Alignment**
 

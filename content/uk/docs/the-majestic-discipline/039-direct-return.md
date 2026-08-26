@@ -120,9 +120,7 @@ guiding_question: Чи достатньо я довіряю власному і�
 
 ![Пряма Повернення](/images/the-majestic-discipline-039-direct-return.webp)
 
-**⊙ Велична Дисципліна**
-
-# 🐜 ➝ ✨ Пряма Повернення
+# 🐜 ➝ ✨ Пряма Повернення | Велична Дисципліна  
 
 **The Direct Return**
 

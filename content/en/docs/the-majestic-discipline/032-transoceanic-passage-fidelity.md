@@ -97,9 +97,7 @@ guiding_question: "Can you remain faithful to your direction when the destinatio
 
 ![Transoceanic Passage. Fidelity](/images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐢🌊🧭 Transoceanic Passage. Fidelity
+# 🐢🌊🧭 Transoceanic Passage. Fidelity | The Majestic Discipline
 
 A sea turtle moves through the dark, turbulent depths of the ocean, crossing currents and uncertainty. It does not see the final point, yet its motion remains continuous and precise.  
 

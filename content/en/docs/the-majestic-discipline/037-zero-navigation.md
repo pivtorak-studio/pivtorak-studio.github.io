@@ -122,9 +122,7 @@ guiding_question: Can I remain perfectly oriented even when every external refer
 
 ![Zero Navigation](/images/the-majestic-discipline-037-zero-navigation.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐜 ☀️ ∅ Zero Navigation
+# 🐜 ☀️ ∅ Zero Navigation | The Majestic Discipline
 
 The desert ant **Cataglyphis** enters a world where no guidance remains. The burning sand preserves no footprints, scents disappear instantly, and every horizon looks the same. Beneath its feet shines a single golden point—the origin of its own coordinate system. Every true navigation begins here.
 

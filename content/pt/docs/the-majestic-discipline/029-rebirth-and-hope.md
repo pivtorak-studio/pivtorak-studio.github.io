@@ -91,9 +91,7 @@ guiding_question: Que novo começo silencioso merece hoje o teu cuidado para se 
 
 ![Renascimento e Esperança](/images/the-majestic-discipline-029-rebirth-and-hope.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐦‍🔥🥚✨ Renascimento e Esperança  
+# 🐦‍🔥🥚✨ Renascimento e Esperança | A Disciplina Majestosa  
 
 **Rebirth And Hope**
 

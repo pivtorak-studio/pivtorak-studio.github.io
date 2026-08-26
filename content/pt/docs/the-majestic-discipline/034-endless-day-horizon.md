@@ -105,9 +105,7 @@ guiding_question: O que vejo para além do horizonte?
 
 ![Dia Infinito Horizonte](/images/the-majestic-discipline-034-endless-day-horizon.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🕊️🌅🌍 Dia Infinito Horizonte
+# 🕊️🌅🌍 Dia Infinito Horizonte | A Disciplina Majestosa  
 
 **Endless Day Horizon**
 

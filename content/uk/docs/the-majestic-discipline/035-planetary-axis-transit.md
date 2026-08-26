@@ -105,9 +105,7 @@ guiding_question: Як я утримую свій курс?
 
 ![Вісь Планетарного Руху](/images/the-majestic-discipline-035-planetary-axis-transit.webp)
 
-**⊙ Велична Дисципліна**
-
-# 🕊️🌊📍 Вісь Планетарного Руху
+# 🕊️🌊📍 Вісь Планетарного Руху | Велична Дисципліна  
 
 **Planetary Axis Transit**
 

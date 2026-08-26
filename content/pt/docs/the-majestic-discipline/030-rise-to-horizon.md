@@ -90,9 +90,7 @@ guiding_question: Para onde a tua força renovada te levará quando escolheres v
 
 ![Ascensão. Novo Horizonte](/images/the-majestic-discipline-030-rise-to-horizon.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐦‍🔥🌅🚀 Ascensão. Novo Horizonte  
+# 🐦‍🔥🌅🚀 Ascensão. Novo Horizonte | A Disciplina Majestosa  
 
 **Rise To Horizon**
 

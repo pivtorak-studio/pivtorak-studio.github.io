@@ -105,9 +105,7 @@ guiding_question: How do I maintain my course?
 
 ![Planetary Axis Transit](/images/the-majestic-discipline-035-planetary-axis-transit.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🕊️🌊📍 Planetary Axis Transit
+# 🕊️🌊📍 Planetary Axis Transit | The Majestic Discipline
 
 The Arctic Tern continues its extraordinary journey between Earth's poles. In this work, it glides above a boundless ocean in a state of dynamic stillness, maintaining perfect balance between power and efficiency. A thin vertical meridian line passes through its silhouette like an invisible planetary axis. The image symbolizes the ability to maintain direction even when no visible landmarks remain.
 

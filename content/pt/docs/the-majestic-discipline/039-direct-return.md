@@ -120,9 +120,7 @@ guiding_question: Consigo confiar plenamente no meu conhecimento integrado para 
 
 ![Regresso Direto](/images/the-majestic-discipline-039-direct-return.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐜 ➝ ✨ Regresso Direto
+# 🐜 ➝ ✨ Regresso Direto | A Disciplina Majestosa
 
 **The Direct Return**
 

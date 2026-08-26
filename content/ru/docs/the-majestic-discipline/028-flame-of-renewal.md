@@ -89,9 +89,8 @@ guiding_question: От чего необходимо осознанно отка
 </script>
 
 ![Пламя Очищения](/images/the-majestic-discipline-028-flame-of-renewal.webp)
-**⊙ Величественная Дисциплина**
 
-# 🐦‍🔥🌋🔥 Пламя Очищения  
+# 🐦‍🔥🌋🔥 Пламя Очищения | Величественная Дисциплина  
 
 **Flame Of Renewal**
 

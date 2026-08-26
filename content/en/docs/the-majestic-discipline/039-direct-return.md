@@ -119,9 +119,7 @@ guiding_question: Can I trust my own integrated understanding enough to walk the
 
 ![Direct Return](/images/the-majestic-discipline-039-direct-return.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐜 ➝ ✨ Direct Return
+# 🐜 ➝ ✨ Direct Return | The Majestic Discipline
 
 The desert ant **Cataglyphis** has completed its search. Behind it remains a complex web of turns, uncertainty, and exploration, woven into the desert as the geometry of experience. Ahead there are no more zigzags. A single perfectly straight line connects the ant with home.
 

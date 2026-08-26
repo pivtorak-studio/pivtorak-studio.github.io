@@ -121,9 +121,7 @@ guiding_question: Чи зможу я зберегти точну орієнта�
 
 ![Нуль Навігації](/images/the-majestic-discipline-037-zero-navigation.webp)
 
-**⊙ Велична Дисципліна**
-
-# 🐜 ☀️ ∅ Нуль Навігації  
+# 🐜 ☀️ ∅ Нуль Навігації | Велична Дисципліна    
 
 **The Zero Point**
 

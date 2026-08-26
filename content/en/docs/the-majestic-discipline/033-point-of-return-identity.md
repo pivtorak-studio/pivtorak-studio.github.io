@@ -97,9 +97,7 @@ guiding_question: "When you finally arrive, will you recognize that you have ret
 
 ![Point of Return. Identity](/images/the-majestic-discipline-033-point-of-return-identity.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐢🏝️🌙 Point of Return. Identity
+# 🐢🏝️🌙 Point of Return. Identity | The Majestic Discipline
 
 A sea turtle emerges from the night ocean onto a sandy shore beneath the stars. Its journey ends exactly where it began — not by chance, but with absolute precision.  
 

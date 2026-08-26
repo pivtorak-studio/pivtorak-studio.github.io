@@ -83,9 +83,7 @@ guiding_question: "When is true strength called to become both a wall of protect
 
 ![Unbreakable. Wall. Ram.](/images/the-majestic-discipline-027-unbreakable-wall-ram.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐻🌪️🧱 Unbreakable. Wall. Ram.
+# 🐻🌪️🧱 Unbreakable. Wall. Ram | The Majestic Discipline
 
 **Unbreakable Force Momentum**
 

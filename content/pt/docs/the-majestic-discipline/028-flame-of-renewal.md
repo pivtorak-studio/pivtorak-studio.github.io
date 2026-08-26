@@ -90,9 +90,7 @@ guiding_question: O que deve ser conscientemente deixado para trás para que um 
 
 ![Chama De Renovação](/images/the-majestic-discipline-028-flame-of-renewal.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐦‍🔥🌋🔥 Chama De Renovação
+# 🐦‍🔥🌋🔥 Chama De Renovação | A Disciplina Majestosa
 
 **Flame Of Renewal**
 

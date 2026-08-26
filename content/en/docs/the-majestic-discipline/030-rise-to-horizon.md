@@ -90,9 +90,7 @@ guiding_question: Where will your renewed strength carry you once you choose to 
 
 ![Rise To Horizon](/images/the-majestic-discipline-030-rise-to-horizon.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐦‍🔥🌅🚀 Rise To Horizon
+# 🐦‍🔥🌅🚀 Rise To Horizon | The Majestic Discipline
 
 The phoenix ascends above a renewed landscape, its wings glowing and leaving a radiant trail across the morning sky. This is the moment when new strength does not merely exist — it enters action.  
 

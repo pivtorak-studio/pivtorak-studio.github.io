@@ -97,9 +97,7 @@ guiding_question: "Чи можеш ти зберігати вірність св
 
 ![Трансокеанічний Перехід. Вірність](/images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp)
 
-**⊙ Велична Дисципліна**
-
-# 🐢🌊🧭 Трансокеанічний Перехід. Вірність  
+# 🐢🌊🧭 Трансокеанічний Перехід. Вірність | Велична Дисципліна    
 
 **Transoceanic Passage. Fidelity**
 

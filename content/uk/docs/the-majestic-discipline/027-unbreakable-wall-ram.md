@@ -83,9 +83,7 @@ guiding_question: "Коли справжня сила покликана ста�
 
 ![Непохитність. Стіна. Таран.](/images/the-majestic-discipline-027-unbreakable-wall-ram.webp)
 
-**⊙ Велична Дисципліна**
-
-# 🐻🌪️🧱 Непохитність. Стіна. Таран.  
+# 🐻🌪️🧱 Непохитність. Стіна. Таран | Велична Дисципліна   
 
 **Unbreakable Force Momentum**
 

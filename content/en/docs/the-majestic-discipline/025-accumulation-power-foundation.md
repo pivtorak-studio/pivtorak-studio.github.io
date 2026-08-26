@@ -112,9 +112,7 @@ guiding_question: What kind of strength is built long before it becomes visible?
 
 ![Accumulation Power. Foundation](/images/the-majestic-discipline-025-accumulation-power-foundation.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐻🏔️⏳ Accumulation Power. Foundation
+# 🐻🏔️⏳ Accumulation Power. Foundation | The Majestic Discipline
 
 At the center of the image is a bear resting deep within its den, its massive presence and hidden strength palpable even in complete stillness. It appears calm, yet its silent weight signals a power that has not vanished — only paused.
 

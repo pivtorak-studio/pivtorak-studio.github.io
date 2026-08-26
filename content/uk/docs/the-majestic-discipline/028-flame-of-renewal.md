@@ -90,8 +90,7 @@ guiding_question: Від чого потрібно свідомо відмови
 
 ![Полум’я Очищення](/images/the-majestic-discipline-028-flame-of-renewal.webp)
 
-**⊙ Велична Дисципліна**
-# 🐦‍🔥🌋🔥 Полум’я Очищення
+# 🐦‍🔥🌋🔥 Полум’я Очищення | Велична Дисципліна  
 
 **Flame Of Renewal**
 

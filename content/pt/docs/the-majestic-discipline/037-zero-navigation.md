@@ -121,9 +121,7 @@ guiding_question: Consigo manter a orientação perfeita quando todas as referê
 
 ![Navegação Zero](/images/the-majestic-discipline-037-zero-navigation.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐜 ☀️ ∅ Navegação Zero
+# 🐜 ☀️ ∅ Navegação Zero | A Disciplina Majestosa  
 
 **The Zero Point**
 

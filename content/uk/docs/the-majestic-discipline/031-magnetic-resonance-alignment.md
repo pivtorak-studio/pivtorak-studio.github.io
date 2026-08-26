@@ -97,9 +97,7 @@ guiding_question: "Чи можеш ти довіритися напрямку, �
 
 ![Магнітний Резонанс. Налаштування](/images/the-majestic-discipline-031-magnetic-resonance-alignment.webp)
 
-**⊙ Велична Дисципліна**
-
-# 🐢🧭🌊 Магнітний Резонанс. Налаштування
+# 🐢🧭🌊 Магнітний Резонанс. Налаштування | Велична Дисципліна  
 
 **Magnetic Resonance. Alignment**
 

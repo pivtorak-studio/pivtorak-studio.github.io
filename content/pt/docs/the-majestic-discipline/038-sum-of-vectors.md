@@ -119,9 +119,7 @@ guiding_question: Será que cada passo aparentemente caótico pode tornar-se par
 
 ![Soma dos Vetores](/images/the-majestic-discipline-038-sum-of-vectors.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐜 ➜ ☀️ Soma dos Vetores
+# 🐜 ➜ ☀️ Soma dos Vetores | A Disciplina Majestosa  
 
 **The Sum of Vectors**
 

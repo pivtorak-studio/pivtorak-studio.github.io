@@ -112,10 +112,7 @@ guiding_question: Que tipo de força se constrói muito antes de se tornar visí
 
 ![Acumulação Força. Fundação](/images/the-majestic-discipline-025-accumulation-power-foundation.webp)
 
-**⊙ A Disciplina Majestosa**
-
-
-# 🐻🏔️⏳ Acumulação Força. Fundação  
+# 🐻🏔️⏳ Acumulação Força. Fundação | A Disciplina Majestosa  
 
 **Accumulation Of Power**
 

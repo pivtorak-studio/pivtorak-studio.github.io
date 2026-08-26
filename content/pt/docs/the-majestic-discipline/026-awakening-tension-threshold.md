@@ -83,9 +83,7 @@ guiding_question: "Como pode uma força silenciosa tornar-se visível sem perder
 
 ![Despertar. Limite Tensão](/images/the-majestic-discipline-026-awakening-tension-threshold.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐻🪵💥 Despertar. Limite Tensão
+# 🐻🪵💥 Despertar. Limite Tensão | A Disciplina Majestosa
 
 **Awakening Of Tension**
 

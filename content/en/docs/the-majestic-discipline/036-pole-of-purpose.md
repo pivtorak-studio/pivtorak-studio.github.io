@@ -105,9 +105,7 @@ guiding_question: Where do all my paths converge?
 
 ![Pole of Purpose](/images/the-majestic-discipline-036-pole-of-purpose.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🕊️❄️⊙ Pole of Purpose
+# 🕊️❄️⊙ Pole of Purpose | The Majestic Discipline
 
 The Arctic Tern completes its extraordinary journey by reaching the opposite pole of the planet. It descends onto the mirror-like surface of Antarctic ice, where light reflects in every direction. Its figure and perfect reflection form the shape of an hourglass — a symbol of a completed cycle. This work speaks about the moment when a path ceases to be a search and becomes proof.
 

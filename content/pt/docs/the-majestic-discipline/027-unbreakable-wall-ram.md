@@ -83,9 +83,7 @@ guiding_question: "Quando é que a verdadeira força é chamada a tornar-se simu
 
 ![Inquebrável. Muralha. Tarana.](/images/the-majestic-discipline-027-unbreakable-wall-ram.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐻🌪️🧱 Inquebrável. Muralha. Tarana.  
+# 🐻🌪️🧱 Inquebrável. Muralha. Tarana | A Disciplina Majestosa
 
 **Unbreakable Force Momentum**
 

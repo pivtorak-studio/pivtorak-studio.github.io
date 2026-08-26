@@ -112,9 +112,7 @@ guiding_question: Какая сила создаётся задолго до т�
 
 ![Накопление Силы. Фундамент](/images/the-majestic-discipline-025-accumulation-power-foundation.webp)
 
-**⊙ Величественная Дисциплина**
-
-# 🐻🏔️⏳ Накопление Силы. Фундамент  
+# 🐻🏔️⏳ Накопление Силы. Фундамент | Величественная Дисциплина  
 
 **Accumulation Of Power**
 

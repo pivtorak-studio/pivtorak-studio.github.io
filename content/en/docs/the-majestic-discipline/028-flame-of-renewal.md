@@ -90,9 +90,7 @@ guiding_question: What must be consciously released for a stronger future to eme
 
 ![Flame Of Renewal](/images/the-majestic-discipline-028-flame-of-renewal.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐦‍🔥🌋🔥 Flame Of Renewal
+# 🐦‍🔥🌋🔥 Flame Of Renewal | The Majestic Discipline
 
 The phoenix stands in full flame on a dark cliff — a moment of conscious ending, when the old burns away to clear the path for a new cycle. Its posture is calm, knowing that fire marks the beginning of transformation.  
 

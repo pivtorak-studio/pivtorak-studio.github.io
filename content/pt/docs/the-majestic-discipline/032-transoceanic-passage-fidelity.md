@@ -97,10 +97,7 @@ guiding_question: "Consegues manter-te fiel à tua direção quando o destino ai
 
 ![Travessia Transoceânica Fidelidade](/images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp)
 
-**⊙ A Disciplina Majestosa**
-
-
-# 🐢🌊🧭 Travessia Transoceânica. Fidelidade   
+# 🐢🌊🧭 Travessia Transoceânica. Fidelidade | A Disciplina Majestosa   
 
 **Transoceanic Passage Fidelity**
 

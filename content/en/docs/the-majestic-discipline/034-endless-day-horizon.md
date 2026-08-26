@@ -105,9 +105,7 @@ guiding_question: What do I see beyond the horizon?
 
 ![Endless Day Horizon](/images/the-majestic-discipline-034-endless-day-horizon.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🕊️🌅🌍 Endless Day Horizon
+# 🕊️🌅🌍 Endless Day Horizon | The Majestic Discipline
 
 The Arctic Tern performs the longest migration on Earth. Each year it travels from the Arctic to Antarctica and back, following the summer of both hemispheres. In this work, its silhouette rises above a polar horizon where the sun never sets. It symbolizes a transition from local perspective to planetary scale.
 

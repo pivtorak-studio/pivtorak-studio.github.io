@@ -97,9 +97,7 @@ guiding_question: "Quando finalmente chegares, reconhecerás que regressaste à 
 
 ![Ponto de Retorno. Identidade](/images/the-majestic-discipline-033-point-of-return-identity.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐢🏝️🌙 Ponto de Retorno. Identidade  
+# 🐢🏝️🌙 Ponto de Retorno. Identidade | A Disciplina Majestosa  
 
 **Point of Return. Identity**
 

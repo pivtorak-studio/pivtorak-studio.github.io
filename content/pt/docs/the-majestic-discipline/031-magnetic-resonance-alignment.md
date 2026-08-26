@@ -97,9 +97,7 @@ guiding_question: "Consegues confiar na direção que já existe dentro de ti?"
 
 ![Ressonância Magnética. Ajuste ](/images/the-majestic-discipline-031-magnetic-resonance-alignment.webp)
 
-**⊙ A Disciplina Majestosa**
-
-# 🐢🧭🌊 Ressonância Magnética. Ajuste  
+# 🐢🧭🌊 Ressonância Magnética. Ajuste | A Disciplina Majestosa  
 
 **Magnetic Resonance. Alignment**
 

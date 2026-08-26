@@ -91,9 +91,7 @@ guiding_question: What quiet beginning deserves your care today so it can become
 
 ![Rebirth And Hope](/images/the-majestic-discipline-029-rebirth-and-hope.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐦‍🔥🥚✨ Rebirth And Hope
+# 🐦‍🔥🥚✨ Rebirth And Hope | The Majestic Discipline
 
 A glowing phoenix egg rests in warm ash — the first sign of life after the cleansing fire. It is a moment of stillness, when the new form is not yet seen but already present in potential. 
 

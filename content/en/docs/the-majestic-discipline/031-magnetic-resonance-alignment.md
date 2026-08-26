@@ -97,9 +97,7 @@ guiding_question: "Can you trust the direction that already lives within you?"
 
 ![Magnetic Resonance. Alignment](/images/the-majestic-discipline-031-magnetic-resonance-alignment.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🧭🌊 Magnetic Resonance. Alignment
+# 🧭🌊 Magnetic Resonance. Alignment | The Majestic Discipline
 
 A sea turtle moves through the deep ocean, reading the invisible magnetic lines of the Earth. It navigates not by sight, but by resonance embedded within its body.  
 

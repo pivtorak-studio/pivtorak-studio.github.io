@@ -119,9 +119,7 @@ guiding_question: Can every seemingly chaotic step become part of a perfectly co
 
 ![Sum of Vectors](/images/the-majestic-discipline-038-sum-of-vectors.webp)
 
-**⊙ The Majestic Discipline**
-
-# 🐜 ➜ ☀️ Sum of Vectors
+# 🐜 ➜ ☀️ Sum of Vectors | The Majestic Discipline
 
 The desert ant **Cataglyphis** no longer stands at the zero point—it is moving. Its path appears random: short bursts, sudden turns, and sharp zigzags across the endless sand. Yet every step is part of a precise mathematical computation. An invisible network of vectors is created continuously through motion itself.
 

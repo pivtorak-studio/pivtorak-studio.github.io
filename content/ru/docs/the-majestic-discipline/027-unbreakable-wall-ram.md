@@ -82,9 +82,8 @@ guiding_question: "Когда истинная сила должна стать 
 </script>
 
 ![Несокрушимость. Стена. Таран.](/images/the-majestic-discipline-027-unbreakable-wall-ram.webp)
-**⊙ Величественная Дисциплина**
 
-# 🐻🌪️🧱 Несокрушимость. Стена. Таран.
+# 🐻🌪️🧱 Несокрушимость. Стена. Таран | Величественная Дисциплина  
 
 **Unbreakable Force Momentum**
 

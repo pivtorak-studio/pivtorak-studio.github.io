@@ -1,0 +1,50 @@
+<nav class="series-navigation" aria-label="Series navigation">
+
+  {{/* Breadcrumbs */}}
+  <div class="breadcrumbs">
+    <a href="{{ .Site.Home.RelPermalink }}">
+      {{ .Site.Home.LinkTitle }}
+    </a>
+
+    {{ range .Ancestors.Reverse }}
+      {{ if not .IsHome }}
+        <span aria-hidden="true"> / </span>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    {{ end }}
+
+    <span aria-hidden="true"> / </span>
+    <span aria-current="page">{{ .LinkTitle }}</span>
+  </div>
+
+  {{/* Series Link */}}
+  {{ with .Params.series_page }}
+    <div class="series-link">
+      <span>{{ i18n "series" | default "Series" }}:</span>
+      <a href="{{ . }}">
+        {{ $.Params.series_title }}
+      </a>
+    </div>
+  {{ end }}
+
+  {{/* Series Map */}}
+  {{ $series := .Params.series }}
+  {{ $pages := where .Site.RegularPages "Params.series" $series }}
+
+  {{ if $pages }}
+    <div class="series-map">
+      <h2>{{ i18n "series_map" | default "Series Map" }}</h2>
+
+      <ul>
+        {{ range sort $pages "Params.series_index" }}
+          <li{{ if eq .RelPermalink $.RelPermalink }} class="current"{{ end }}>
+            <a href="{{ .RelPermalink }}">
+              {{ printf "%03d" .Params.series_index }}. {{ .LinkTitle }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+
+</nav>

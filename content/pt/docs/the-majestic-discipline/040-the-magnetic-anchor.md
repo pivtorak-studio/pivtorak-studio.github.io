@@ -127,6 +127,8 @@ O pombo-correio oferece aqui uma metáfora poderosa: a navegação não depende 
 Casa, então, é mais do que um destino geográfico. Pode tornar-se uma coordenada interior: uma relação estável com aquilo que importa, com os nossos valores e com aquilo para que estamos a caminhar.  
 Quando essa coordenada é clara, a distância não apaga a direção.  
 
+**âncora magnética · centro interior · ponto de referência · base de origem · enraizamento · orientação interior · soberania · direção**
+
 ## Estado Interior
 
 O silêncio é o espaço onde o centro se torna perceptível.  
@@ -134,8 +136,6 @@ A disciplina é regressar a esse centro antes de reagir a cada novo sinal.
 A ação começa não pela urgência, mas pela orientação: primeiro perceber o que importa, depois permitir que o movimento aconteça.  
 Quem transporta uma âncora interior pode entrar num território desconhecido sem deixar que esse território defina completamente quem é.  
 O mundo pode continuar envolto em nevoeiro. A direção não precisa de desaparecer.  
-
-**âncora magnética · centro interior · ponto de referência · base de origem · enraizamento · orientação interior · soberania · direção**
 
 Não precisamos de conhecer todo o percurso antes de começar. Precisamos de conhecer o ponto a partir do qual a nossa direção é medida.  
 A próxima disciplina não será apenas ter um centro, mas aprender a **ler o campo à nossa volta**.

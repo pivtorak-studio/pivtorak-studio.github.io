@@ -125,11 +125,11 @@ Um nobre pombo-correio voa muito acima das nuvens, com o corpo alinhado com uma 
 
 A orientação começa quando deixamos de tratar o ambiente como ruído e começamos a perguntar que informação está a atravessá-lo. Todos os sistemas têm padrões: mudanças de pressão, direção, ritmo, comportamento, atenção, oportunidade e resistência. A maioria permanece invisível quando a mente está sobrecarregada por acontecimentos isolados. O observador disciplinado aprende a perceber relações em vez de simplesmente acumular factos. Isto não significa prever tudo nem confiar em qualquer intuição; significa desenvolver sensibilidade interior suficiente para distinguir um sinal significativo de uma perturbação passageira. O pombo-correio oferece uma imagem precisa desta disciplina: a sua navegação não depende de uma única pista, mas da integração de diferentes fontes de informação, incluindo sinais geomagnéticos e solares. Quando o campo muda, a tarefa não é entrar em pânico — é recalibrar.
 
+**magnetorreceção · campo geomagnético · sinais invisíveis · reconhecimento de padrões · bússola interior · afinação · orientação**
+
 ## Estado Interior
 
 Existe um tipo particular de silêncio necessário para isso: o silêncio em que a informação pode chegar antes de o julgamento assumir o controlo. Aqui, disciplina não é rigidez, mas **afinação** — a capacidade de permanecer suficientemente estável para perceber o que está a mudar à nossa volta. A consciência só se torna útil quando pode transformar-se em ação sem se transformar em ansiedade. Não precisamos de compreender todas as linhas do campo; precisamos de nos tornar suficientemente sensíveis para reconhecer aquela que importa agora.
-
-**magnetorreceção · campo geomagnético · sinais invisíveis · reconhecimento de padrões · bússola interior · afinação · orientação**
 
 Encontrar o campo é apenas o começo; a disciplina mais profunda é aprender a mover-se dentro dele sem perder a própria direção. Quando a estrutura invisível se torna percetível, a pergunta seguinte já não é para onde o campo conduz — mas se conseguimos permanecer fiéis ao vetor que escolhemos.
 

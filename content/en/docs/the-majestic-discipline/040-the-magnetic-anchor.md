@@ -133,6 +133,8 @@ Home, then, is more than a geographical destination. It can become an internal c
 
 When that coordinate is clear, distance does not erase direction.
 
+**magnetic anchor · inner centre · home base · point of reference · grounding · inner orientation · sovereignty · direction**
+
 ## Inner State
 
 Silence is the space in which the centre becomes perceptible.  
@@ -140,8 +142,6 @@ Discipline is returning to that centre before reacting to every new signal.
 Action begins not with urgency, but with orientation: first knowing what matters, then allowing movement to follow.  
 A person who carries an inner anchor can enter unfamiliar territory without becoming entirely defined by it.  
 The world may remain foggy. The direction does not have to.  
-
-**magnetic anchor · inner centre · home base · point of reference · grounding · inner orientation · sovereignty · direction**
 
 You do not need to know the entire route before you begin. You need to know the point from which your direction is measured.
 

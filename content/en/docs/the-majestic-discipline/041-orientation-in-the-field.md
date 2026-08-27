@@ -125,11 +125,11 @@ A noble homing pigeon flies high above the clouds, its body aligned with an invi
 
 Orientation begins when you stop treating the environment as noise and begin asking what information is moving through it. Every system has patterns: changes in pressure, direction, rhythm, behaviour, attention, opportunity, and resistance. Most of them remain invisible when the mind is overwhelmed by isolated events. The disciplined observer learns to notice relationships rather than merely collect facts. This does not mean predicting everything or trusting every intuition; it means developing enough inner sensitivity to distinguish a meaningful signal from temporary disturbance. The homing pigeon offers a precise image of this discipline: its navigation is not based on a single cue, but on the integration of different sources of information, including geomagnetic and solar cues. When the field changes, the task is not to panic — it is to recalibrate.
 
+**magnetoreception · geomagnetic field · invisible signals · pattern recognition · inner compass · fine calibration · orientation**
+
 ## Inner State
 
 There is a particular kind of silence required for this: the silence in which information can arrive before judgement takes over. Discipline here is not rigidity but **fine calibration** — the ability to remain stable enough to notice what is changing around you. Awareness becomes useful only when it can enter action without becoming anxiety. You do not need to understand every line in the field; you need to become sensitive enough to recognize the one that matters now.
-
-**magnetoreception · geomagnetic field · invisible signals · pattern recognition · inner compass · fine calibration · orientation**
 
 Finding the field is only the beginning; the deeper discipline is learning how to move within it without losing your own direction. Once the invisible structure becomes perceptible, the next question is no longer where the field leads — but whether you can remain faithful to your chosen vector.
 

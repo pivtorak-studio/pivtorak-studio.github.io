@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <article class="markdown book-article">
+    {{- .Content -}}
+
+    {{ if .Params.series }}
+      {{ partial "series-navigation.html" . }}
+    {{ end }}
+  </article>
+{{ end }}

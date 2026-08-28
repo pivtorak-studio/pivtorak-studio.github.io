@@ -2,25 +2,51 @@
 id: the-majestic-discipline-031-magnetic-resonance-alignment
 language: pt
 translation_of: the-majestic-discipline-031-magnetic-resonance-alignment
-title: "031 Ressonância Magnética. Ajuste"
-description: "Uma tartaruga marinha navega pelas profundezas do oceano em ressonância com o campo magnético da Terra, mostrando que a verdadeira direção nasce do alinhamento interior."
-summary: "A primeira etapa da Estratégia da Tartaruga Marinha explora a ressonância magnética como símbolo de lei interior, serenidade e orientação autêntica."
+title: 031 Ressonância Magnética. Ajuste
+description: Uma tartaruga marinha navega pelas profundezas do oceano em ressonância com o campo magnético da Terra, mostrando que a verdadeira direção nasce do alinhamento interior.
+summary: A primeira etapa da Estratégia da Tartaruga Marinha explora a ressonância magnética como símbolo de lei interior, serenidade e orientação autêntica.
 event_date: 2026-01-07T11:00:00
 publication_date: 2026-01-07T11:00:00
 lastmod: 2026-01-07T11:00:00
 slug: 031-magnetic-resonance-alignment
-tags: [Ressonância Magnética, Ajuste, Tartaruga Marinha, Navegação Quântica, Bússola Interior, Campo Magnético da Terra, Serenidade, Disciplina, Identidade, Janeiro]
-keywords: [ressonância magnética, estratégia da tartaruga marinha, bússola interior, campo magnético da Terra, navegação quântica, ajuste, identidade, navegação, disciplina majestosa]
-categories: [A Disciplina Majestosa, Navegação, Estratégias da Natureza, Filosofia]
-series: ADisciplinaMajestosa
+tags:
+  - Ressonância Magnética
+  - Ajuste
+  - Tartaruga Marinha
+  - Navegação Quântica
+  - Bússola Interior
+  - Campo Magnético da Terra
+  - Serenidade
+  - Disciplina
+  - Identidade
+  - Janeiro
+keywords:
+  - ressonância magnética
+  - estratégia da tartaruga marinha
+  - bússola interior
+  - campo magnético da Terra
+  - navegação quântica
+  - ajuste
+  - identidade
+  - navegação
+  - disciplina majestosa
+categories:
+  - A Disciplina Majestosa
+  - Navegação
+  - Estratégias da Natureza
+  - Filosofia
+series: TheMajesticDiscipline
 series_index: 31
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-031-magnetic-resonance-alignment.webp
-alt: "Uma majestosa tartaruga marinha nada nas profundezas do oceano entre linhas douradas do campo magnético da Terra enquanto o seu casco entra em ressonância com elas."
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Uma majestosa tartaruga marinha nada nas profundezas do oceano entre linhas douradas do campo magnético da Terra enquanto o seu casco entra em ressonância com elas.
+related:
+  - /pt/docs/the-majestic-discipline/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/031-magnetic-resonance-alignment/
 toc: true
@@ -36,7 +62,7 @@ cycle_part: 1
 discipline_principle: Alinhamento Interior
 system_level: Individual
 navigation_mode: Ressonância Magnética
-guiding_question: "Consegues confiar na direção que já existe dentro de ti?"
+guiding_question: Consegues confiar na direção que já existe dentro de ti?
 ---
 <script type="application/ld+json">  
 {  

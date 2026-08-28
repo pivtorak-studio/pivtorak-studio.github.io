@@ -38,7 +38,7 @@ categories:
   - Філософія
   - Навігація
   - Системне мислення
-series: ВеличнаДисципліна
+series: TheMajesticDiscipline
 series_index: 39
 research_origin: PT
 status: published

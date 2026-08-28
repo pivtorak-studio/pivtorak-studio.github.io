@@ -9,18 +9,50 @@ event_date: 2025-12-01T13:00:00
 publication_date: 2025-12-01T13:00:00
 lastmod: 2025-12-01T13:00:00
 slug: 030-rise-to-horizon
-tags: [Estratégia da Fénix, Fénix, Ascensão, Novo Horizonte, Voo, Transformação, Renovação, Liderança, Resiliência, Pensamento Estratégico, Disciplina, A Disciplina Majestosa, Nova Realidade]
-keywords: [fénix, voo, horizonte, transformação, renovação, liderança, resiliência, estratégia, disciplina, pensamento sistémico, Nova Realidade, reconstrução pacífica]
-categories: [A Disciplina Majestosa, Estratégia, Liderança, Filosofia]
-series: ADisciplinaMajestosa
+tags:
+  - Estratégia da Fénix
+  - Fénix
+  - Ascensão
+  - Novo Horizonte
+  - Voo
+  - Transformação
+  - Renovação
+  - Liderança
+  - Resiliência
+  - Pensamento Estratégico
+  - Disciplina
+  - A Disciplina Majestosa
+  - Nova Realidade
+keywords:
+  - fénix
+  - voo
+  - horizonte
+  - transformação
+  - renovação
+  - liderança
+  - resiliência
+  - estratégia
+  - disciplina
+  - pensamento sistémico
+  - Nova Realidade
+  - reconstrução pacífica
+categories:
+  - A Disciplina Majestosa
+  - Estratégia
+  - Liderança
+  - Filosofia
+series: TheMajesticDiscipline
 series_index: 30
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-030-rise-to-horizon.webp
 alt: Uma majestosa Fénix voa sobre uma paisagem ao amanhecer, deixando um rasto luminoso das suas asas douradas, simbolizando renovação, propósito e novos horizontes.
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+related:
+  - /pt/docs/the-majestic-discipline/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/030-rise-to-horizon/
 toc: true

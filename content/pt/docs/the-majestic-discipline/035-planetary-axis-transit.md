@@ -36,7 +36,7 @@ categories:
   - Estratégia
   - Navegação
   - Filosofia Pessoal
-series: ADisciplinaMajestosa
+series: TheMajesticDiscipline
 series_index: 35
 country: PT
 status: published

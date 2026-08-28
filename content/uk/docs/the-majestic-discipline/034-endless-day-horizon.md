@@ -36,7 +36,7 @@ categories:
   - Стратегія
   - Навігація
   - Особиста Філософія
-series: ВеличнаДисципліна
+series: TheMajesticDiscipline
 series_index: 34
 country: PT
 status: published

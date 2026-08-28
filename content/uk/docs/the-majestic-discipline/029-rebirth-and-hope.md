@@ -9,18 +9,50 @@ event_date: 2025-12-01T12:00:00
 publication_date: 2025-12-01T12:00:00
 lastmod: 2025-12-01T12:00:00
 slug: 029-rebirth-and-hope
-tags: [Стратегія Фенікса, Фенікс, Відродження І Надія, Надія, Відродження, Новий Початок, Трансформація, Стійкість, Лідерство, Системне Мислення, Дисципліна, Велична Дисципліна, Нова Реальність]
-keywords: [фенікс, відродження, надія, оновлення, трансформація, стійкість, лідерство, стратегія, дисципліна, системне мислення, Нова Реальність, мирна відбудова]
-categories: [Велична Дисципліна, Стратегія, Лідерство, Філософія]
-series: ВеличнаДисципліна
+tags:
+  - Стратегія Фенікса
+  - Фенікс
+  - Відродження І Надія
+  - Надія
+  - Відродження
+  - Новий Початок
+  - Трансформація
+  - Стійкість
+  - Лідерство
+  - Системне Мислення
+  - Дисципліна
+  - Велична Дисципліна
+  - Нова Реальність
+keywords:
+  - фенікс
+  - відродження
+  - надія
+  - оновлення
+  - трансформація
+  - стійкість
+  - лідерство
+  - стратегія
+  - дисципліна
+  - системне мислення
+  - Нова Реальність
+  - мирна відбудова
+categories:
+  - Велична Дисципліна
+  - Стратегія
+  - Лідерство
+  - Філософія
+series: TheMajesticDiscipline
 series_index: 29
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-029-rebirth-and-hope.webp
 alt: Світле яйце Фенікса лежить у теплому попелі, оточене м'яким сяйвом, символізуючи надію, відродження та тихе народження нового майбутнього.
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
-authors: [Anna Pivtorak]
+related:
+  - /uk/docs/the-majestic-discipline/
+  - /uk/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/029-rebirth-and-hope/
 toc: true

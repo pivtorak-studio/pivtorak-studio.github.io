@@ -38,7 +38,7 @@ categories:
   - Философия
   - ВизуальноеЭссе
   - ВеличественнаяДисциплина
-series: ВеличественнаяДисциплина
+series: TheMajesticDiscipline
 series_index: 25
 research_origin: PT
 status: published

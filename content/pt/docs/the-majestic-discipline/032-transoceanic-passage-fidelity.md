@@ -2,25 +2,51 @@
 id: the-majestic-discipline-032-transoceanic-passage-fidelity
 language: pt
 translation_of: the-majestic-discipline-032-transoceanic-passage-fidelity
-title: "032 Travessia Transoceânica. Fidelidade"
-description: "Uma tartaruga marinha atravessa o oceano aberto com fidelidade inabalável ao seu destino, demonstrando que a verdadeira navegação é sustentada pelo compromisso e não pela certeza."
-summary: "A segunda etapa da Estratégia da Tartaruga Marinha explora a fidelidade como disciplina de manter a direção através da distância, da incerteza e das correntes poderosas."
+title: 032 Travessia Transoceânica. Fidelidade
+description: Uma tartaruga marinha atravessa o oceano aberto com fidelidade inabalável ao seu destino, demonstrando que a verdadeira navegação é sustentada pelo compromisso e não pela certeza.
+summary: A segunda etapa da Estratégia da Tartaruga Marinha explora a fidelidade como disciplina de manter a direção através da distância, da incerteza e das correntes poderosas.
 event_date: 2026-01-07T12:00:00
 publication_date: 2026-01-07T12:00:00
 lastmod: 2026-01-07T12:00:00
 slug: 032-transoceanic-passage-fidelity
-tags: [Travessia Transoceânica, Fidelidade, Tartaruga Marinha, Oceano Aberto, Navegação Quântica, Resistência, Fluxo, Direção, Resiliência, Janeiro]
-keywords: [travessia transoceânica, fidelidade, estratégia da tartaruga marinha, navegação oceânica, resistência, resiliência, navegação quântica, movimento, disciplina majestosa]
-categories: [A Disciplina Majestosa, Navegação, Estratégias da Natureza, Filosofia]
-series: ADisciplinaMajestosa
+tags:
+  - Travessia Transoceânica
+  - Fidelidade
+  - Tartaruga Marinha
+  - Oceano Aberto
+  - Navegação Quântica
+  - Resistência
+  - Fluxo
+  - Direção
+  - Resiliência
+  - Janeiro
+keywords:
+  - travessia transoceânica
+  - fidelidade
+  - estratégia da tartaruga marinha
+  - navegação oceânica
+  - resistência
+  - resiliência
+  - navegação quântica
+  - movimento
+  - disciplina majestosa
+categories:
+  - A Disciplina Majestosa
+  - Navegação
+  - Estratégias da Natureza
+  - Filosofia
+series: TheMajesticDiscipline
 series_index: 32
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp
-alt: "Uma poderosa tartaruga marinha nada pelas profundezas turbulentas e iluminadas do oceano, atravessando fortes correntes com fidelidade inabalável ao seu destino invisível."
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Uma poderosa tartaruga marinha nada pelas profundezas turbulentas e iluminadas do oceano, atravessando fortes correntes com fidelidade inabalável ao seu destino invisível.
+related:
+  - /pt/docs/the-majestic-discipline/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/032-transoceanic-passage-fidelity/
 toc: true
@@ -36,7 +62,7 @@ cycle_part: 2
 discipline_principle: Fidelidade Inabalável
 system_level: Individual
 navigation_mode: Navegação Transoceânica
-guiding_question: "Consegues manter-te fiel à tua direção quando o destino ainda é invisível?"
+guiding_question: Consegues manter-te fiel à tua direção quando o destino ainda é invisível?
 ---
 <script type="application/ld+json">  
 {  

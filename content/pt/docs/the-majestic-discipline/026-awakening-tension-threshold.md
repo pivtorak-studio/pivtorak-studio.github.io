@@ -2,25 +2,54 @@
 id: the-majestic-discipline-026-awakening-tension-threshold
 language: pt
 translation_of: the-majestic-discipline-026-awakening-tension-threshold
-title: "026 Despertar. Limite Tensão"
-description: "Um urso que emerge das sombras torna-se símbolo do despertar disciplinado, da força visível e do momento em que o poder acumulado estabelece limites claros antes da ação decisiva."
+title: 026 Despertar. Limite Tensão
+description: Um urso que emerge das sombras torna-se símbolo do despertar disciplinado, da força visível e do momento em que o poder acumulado estabelece limites claros antes da ação decisiva.
 summary: "A segunda etapa da estratégia do Urso Europeu: despertar, prontidão estratégica e demonstração responsável de força."
 event_date: 2025-11-20T12:00:00
 publication_date: 2025-11-20T12:00:00
 lastmod: 2025-11-20T12:00:00
 slug: 026-awakening-tension-threshold
-tags: [Despertar, LimiteDeTensão, Urso, UrsoEuropeu, Estratégia, Disciplina, Prontidão, Limites, Força, Responsabilidade, DisciplinaMajestosa]
-keywords: [despertar limite tensão, urso europeu, prontidão estratégica, força visível, poder responsável, simbolismo geopolítico, disciplina majestosa, estratégia simbólica, limites, Pivtorak Studio]
-categories: [EstratégiaSimbólica, Geopolítica, Filosofia, EnsaioVisual, DisciplinaMajestosa]
-series: ADisciplinaMajestosa
+tags:
+  - Despertar
+  - LimiteDeTensão
+  - Urso
+  - UrsoEuropeu
+  - Estratégia
+  - Disciplina
+  - Prontidão
+  - Limites
+  - Força
+  - Responsabilidade
+  - DisciplinaMajestosa
+keywords:
+  - despertar limite tensão
+  - urso europeu
+  - prontidão estratégica
+  - força visível
+  - poder responsável
+  - simbolismo geopolítico
+  - disciplina majestosa
+  - estratégia simbólica
+  - limites
+  - Pivtorak Studio
+categories:
+  - EstratégiaSimbólica
+  - Geopolítica
+  - Filosofia
+  - EnsaioVisual
+  - DisciplinaMajestosa
+series: TheMajesticDiscipline
 series_index: 26
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-026-awakening-tension-threshold.webp
-alt: "Um grande urso emerge de uma mata escura. Ele ergue-se sobre as patas traseiras, parcialmente iluminado pela luz do dia. O seu rugido espalha ondas no ar, e um ramo partido ao lado indica que o despertar já começou."
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
-authors: ["Anna Pivtorak"]
+alt: Um grande urso emerge de uma mata escura. Ele ergue-se sobre as patas traseiras, parcialmente iluminado pela luz do dia. O seu rugido espalha ondas no ar, e um ramo partido ao lado indica que o despertar já começou.
+related:
+  - /pt/docs/the-majestic-discipline/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/026-awakening-tension-threshold/
 toc: true
@@ -36,7 +65,7 @@ cycle_part: 2
 discipline_principle: Despertar Estratégico
 system_level: Civilizacional
 navigation_mode: Sequencial
-guiding_question: "Como pode uma força silenciosa tornar-se visível sem perder a sua disciplina?"
+guiding_question: Como pode uma força silenciosa tornar-se visível sem perder a sua disciplina?
 ---
 <script type="application/ld+json">
 {

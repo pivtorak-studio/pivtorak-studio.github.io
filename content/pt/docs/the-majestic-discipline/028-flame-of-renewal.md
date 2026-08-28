@@ -9,18 +9,50 @@ event_date: 2025-12-01T11:00:00
 publication_date: 2025-12-01T11:00:00
 lastmod: 2025-12-01T11:00:00
 slug: 028-flame-of-renewal
-tags: [Estratégia da Fénix, Fénix, Chama De Renovação, Fogo Purificador, Transformação, Renovação, Liderança em Crise, Pensamento Estratégico, Resiliência, Pensamento Sistémico, Disciplina, A Disciplina Majestosa, Nova Realidade]
-keywords: [fénix, chama, renovação, transformação, resiliência, liderança, gestão de crises, estratégia, disciplina, pensamento sistémico, Nova Realidade, reconstrução pacífica]
-categories: [A Disciplina Majestosa, Estratégia, Liderança, Filosofia]
-series: ADisciplinaMajestosa
+tags:
+  - Estratégia da Fénix
+  - Fénix
+  - Chama De Renovação
+  - Fogo Purificador
+  - Transformação
+  - Renovação
+  - Liderança em Crise
+  - Pensamento Estratégico
+  - Resiliência
+  - Pensamento Sistémico
+  - Disciplina
+  - A Disciplina Majestosa
+  - Nova Realidade
+keywords:
+  - fénix
+  - chama
+  - renovação
+  - transformação
+  - resiliência
+  - liderança
+  - gestão de crises
+  - estratégia
+  - disciplina
+  - pensamento sistémico
+  - Nova Realidade
+  - reconstrução pacífica
+categories:
+  - A Disciplina Majestosa
+  - Estratégia
+  - Liderança
+  - Filosofia
+series: TheMajesticDiscipline
 series_index: 28
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-028-flame-of-renewal.webp
 alt: Fénix serena envolvida por chamas purificadoras no topo de uma formação rochosa, simbolizando transformação consciente, resiliência e o início da renovação.
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+related:
+  - /pt/docs/the-majestic-discipline/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/028-flame-of-renewal/
 toc: true

@@ -38,7 +38,7 @@ categories:
   - Filosofia
   - EnsaioVisual
   - DisciplinaMajestosa
-series: ADisciplinaMajestosa
+series: TheMajesticDiscipline
 series_index: 25
 research_origin: PT
 status: published

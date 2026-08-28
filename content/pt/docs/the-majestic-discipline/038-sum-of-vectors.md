@@ -38,7 +38,7 @@ categories:
   - Filosofia
   - Navegação
   - Pensamento Sistémico
-series: ADisciplinaMajestosa
+series: TheMajesticDiscipline
 series_index: 38
 research_origin: PT
 status: published

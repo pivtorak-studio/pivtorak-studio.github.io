@@ -9,18 +9,50 @@ event_date: 2025-12-01T12:00:00
 publication_date: 2025-12-01T12:00:00
 lastmod: 2025-12-01T12:00:00
 slug: 029-rebirth-and-hope
-tags: [Estratégia da Fénix, Fénix, Renascimento E Esperança, Esperança, Renovação, Novo Começo, Transformação, Resiliência, Liderança, Pensamento Sistémico, Disciplina, A Disciplina Majestosa, Nova Realidade]
-keywords: [fénix, renascimento, esperança, renovação, transformação, resiliência, liderança, estratégia, disciplina, pensamento sistémico, Nova Realidade, reconstrução pacífica]
-categories: [A Disciplina Majestosa, Estratégia, Liderança, Filosofia]
-series: ADisciplinaMajestosa
+tags:
+  - Estratégia da Fénix
+  - Fénix
+  - Renascimento E Esperança
+  - Esperança
+  - Renovação
+  - Novo Começo
+  - Transformação
+  - Resiliência
+  - Liderança
+  - Pensamento Sistémico
+  - Disciplina
+  - A Disciplina Majestosa
+  - Nova Realidade
+keywords:
+  - fénix
+  - renascimento
+  - esperança
+  - renovação
+  - transformação
+  - resiliência
+  - liderança
+  - estratégia
+  - disciplina
+  - pensamento sistémico
+  - Nova Realidade
+  - reconstrução pacífica
+categories:
+  - A Disciplina Majestosa
+  - Estratégia
+  - Liderança
+  - Filosofia
+series: TheMajesticDiscipline
 series_index: 29
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-029-rebirth-and-hope.webp
 alt: Um ovo luminoso da Fénix repousa sobre cinzas quentes, envolvido por uma luz suave, simbolizando esperança, renovação e o nascimento silencioso de um novo futuro.
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+related:
+  - /pt/docs/the-majestic-discipline/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/029-rebirth-and-hope/
 toc: true

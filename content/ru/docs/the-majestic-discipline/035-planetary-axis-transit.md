@@ -36,7 +36,7 @@ categories:
   - Стратегия
   - Навигация
   - Личная Философия
-series: ВеличественнаяДисциплина
+series: TheMajesticDiscipline
 series_index: 35
 country: PT
 status: published

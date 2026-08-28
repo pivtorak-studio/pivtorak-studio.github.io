@@ -9,18 +9,50 @@ event_date: 2025-12-01T13:00:00
 publication_date: 2025-12-01T13:00:00
 lastmod: 2025-12-01T13:00:00
 slug: 030-rise-to-horizon
-tags: [Стратегія Фенікса, Фенікс, Зліт, Новий Горизонт, Політ, Трансформація, Відродження, Лідерство, Стійкість, Стратегічне Мислення, Дисципліна, Велична Дисципліна, Нова Реальність]
-keywords: [фенікс, політ, горизонт, трансформація, відродження, лідерство, стійкість, стратегія, дисципліна, системне мислення, Нова Реальність, мирна відбудова]
-categories: [Велична Дисципліна, Стратегія, Лідерство, Філософія]
-series: ВеличнаДисципліна
+tags:
+  - Стратегія Фенікса
+  - Фенікс
+  - Зліт
+  - Новий Горизонт
+  - Політ
+  - Трансформація
+  - Відродження
+  - Лідерство
+  - Стійкість
+  - Стратегічне Мислення
+  - Дисципліна
+  - Велична Дисципліна
+  - Нова Реальність
+keywords:
+  - фенікс
+  - політ
+  - горизонт
+  - трансформація
+  - відродження
+  - лідерство
+  - стійкість
+  - стратегія
+  - дисципліна
+  - системне мислення
+  - Нова Реальність
+  - мирна відбудова
+categories:
+  - Велична Дисципліна
+  - Стратегія
+  - Лідерство
+  - Філософія
+series: TheMajesticDiscipline
 series_index: 30
 research_origin: PT
 status: published
 featured: true
 image: /images/the-majestic-discipline-030-rise-to-horizon.webp
 alt: Величний Фенікс летить над світанковим ландшафтом, залишаючи золотий світловий слід своїх крил, символізуючи відродження, покликання та безмежні горизонти.
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
-authors: [Anna Pivtorak]
+related:
+  - /uk/docs/the-majestic-discipline/
+  - /uk/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/030-rise-to-horizon/
 toc: true

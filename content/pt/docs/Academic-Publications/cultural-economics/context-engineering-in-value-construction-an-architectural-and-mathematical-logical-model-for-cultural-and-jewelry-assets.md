@@ -61,7 +61,7 @@ Os métodos tradicionais de avaliação de bens e práticas bancárias frequente
 Existe uma ausência de um modelo formalizado e matematicamente fundamentado que explique a relação direta entre o **contexto projetado por especialistas** e o mecanismo de formação do valor de mercado.
 
 **Revisão da literatura:**  
-O estudo baseia-se em trabalhos fundamentais nas áreas do marketing (**O. Korchynska**), segurança económica (**I. Chornodid**), ciência dos materiais (**T. Artiukh**), instrumentos financeiros (**L. Hulyaieva**) e perícia sistémica (**S. Indutnyi**, **R. Platonov**).
+O estudo baseia-se em trabalhos fundamentais nas áreas do marketing (**O. Korchynska**), segurança económica (**I. Chornodid**), ciência dos materiais (**T. Artiukh**), instrumentos financeiros (**L. Hulyaieva**) e perícia sistémica (**V. Indutnyi**, **B. Platonov**).
 
 Num enquadramento teórico mais amplo, a formação de valor é analisada através dos conceitos de **assimetria de informação** (Akerlof, 1970), **capital simbólico** (Bourdieu, 1986) e **economia da cultura** (Throsby, 2001). Adicionalmente, o conceito de **antifragilidade** (Taleb, 2012) e a teoria dos **conjuntos difusos** (Zadeh, 1965) permitem interpretar a natureza multidimensional e incerta da avaliação.
 

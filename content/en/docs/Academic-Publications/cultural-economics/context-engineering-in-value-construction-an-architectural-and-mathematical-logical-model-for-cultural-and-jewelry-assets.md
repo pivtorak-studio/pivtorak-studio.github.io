@@ -61,7 +61,7 @@ Traditional approaches to commodity valuation and banking practices often overlo
 There is a lack of a formalized, mathematically grounded model that explains the direct relationship between **expert-designed context** and the mechanisms of market value formation.
 
 **Literature review:**  
-The study builds upon foundational works in marketing (**O. Korchynska**), economic security (**I. Chornodid**), commodity science (**T. Artiukh**), financial instruments (**L. Hulyaieva**), and systemic expertise (**S. Indutnyi**, **R. Platonov**).
+The study builds upon foundational works in marketing (**O. Korchynska**), economic security (**I. Chornodid**), commodity science (**T. Artiukh**), financial instruments (**L. Hulyaieva**), and systemic expertise (**V. Indutnyi**, **B. Platonov**).
 
 In a broader theoretical framework, value formation is examined through the lens of **information asymmetry** (Akerlof, 1970), **symbolic capital** (Bourdieu, 1986), and **cultural economics** (Throsby, 2001). Additionally, the concept of **antifragility** (Taleb, 2012) and the theory of **fuzzy systems** (Zadeh, 1965) provide complementary perspectives for interpreting uncertainty and multidimensional valuation.
 

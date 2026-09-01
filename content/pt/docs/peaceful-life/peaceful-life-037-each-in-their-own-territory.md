@@ -100,7 +100,7 @@ search: indexed
 
 ![Cada Um no Seu Território | Vida Pacífica](/images/peaceful-life-037-each-in-their-own-territory.webp)
 
-# 🐻🌳🐬🌊 Cada Um no Seu Território | Vida Pacífica
+# 🐻❄️🐬🌊 Cada Um no Seu Território | Vida Pacífica
 
 _A paz começa com uma compreensão simples: o espaço de outro não se torna seu apenas porque o deseja._
 

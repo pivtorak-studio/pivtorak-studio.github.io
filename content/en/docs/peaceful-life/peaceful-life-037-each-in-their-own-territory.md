@@ -100,7 +100,7 @@ search: indexed
 
 ![Each in Their Own Territory | Peaceful Life](/images/peaceful-life-037-each-in-their-own-territory.webp)
 
-# 🐻🌳🐬🌊 Each in Their Own Territory | Peaceful Life
+# 🐻❄️🐬🌊 Each in Their Own Territory | Peaceful Life
 
 _Peace begins with a simple understanding: another place does not become yours merely because you want it._
 

@@ -102,7 +102,7 @@ search: indexed
 
 # 🐻🌳🐬🌊 Each in Their Own Territory | Peaceful Life
 
-_Peace begins with a simple understanding: another place does not become ours merely because we want it._
+_Peace begins with a simple understanding: another place does not become yours merely because you want it._
 
 Every living creature has its own environment, its own space, and its own natural boundaries. A peaceful world begins when we can recognize those boundaries without turning difference into a reason for conflict.
 

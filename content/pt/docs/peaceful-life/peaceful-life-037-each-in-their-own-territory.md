@@ -102,7 +102,7 @@ search: indexed
 
 # 🐻🌳🐬🌊 Cada Um no Seu Território | Vida Pacífica
 
-_A paz começa com uma compreensão simples: o espaço de outro não se torna nosso apenas porque o desejamos._
+_A paz começa com uma compreensão simples: o espaço de outro não se torna seu apenas porque o deseja._
 
 Cada ser vivo tem o seu ambiente, o seu espaço e os seus limites naturais. Um mundo pacífico começa quando somos capazes de reconhecer esses limites sem transformar a diferença numa razão para o conflito.
 

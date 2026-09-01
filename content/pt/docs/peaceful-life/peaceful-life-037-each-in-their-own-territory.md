@@ -3,7 +3,7 @@ id: peaceful-life-037-each-in-their-own-territory
 language: pt
 translation_of: peaceful-life-037-each-in-their-own-territory
 title: 037 Cada Um no Seu Território
-description: Uma vida pacífica começa pelo respeito pelos limites naturais. Um urso na floresta e uma orca no oceano lembram-nos que territórios diferentes não têm de se transformar em razões para o conflito.
+description: Uma vida pacífica começa pelo respeito pelos limites naturais. Um urso-polar no Ártico e uma orca no oceano lembram-nos que territórios diferentes não têm de se transformar em razões para o conflito.
 event_date: 2026-09-01T15:00:00+01:00
 publication_date: 2026-09-01T15:00:00+01:00
 lastmod: 2026-09-01T15:00:00+01:00
@@ -30,7 +30,7 @@ research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-037-each-in-their-own-territory.webp
-alt: Desenho detalhado a giz num quadro escolar, com um urso castanho entre abetos e montanhas à esquerda e uma orca a nadar num oceano azul profundo à direita, separados por uma fronteira pacífica.
+alt: "Desenho detalhado a giz num quadro escolar: à esquerda, um urso-polar entre neve, gelo e montanhas do Ártico; à direita, uma orca a nadar num oceano profundo sob as ondas; os dois mundos estão separados por uma fronteira pacífica."
 related:
   - /pt/docs/peaceful-life/
   - /pt/docs/timeline/
@@ -51,7 +51,7 @@ search: indexed
   "url": "https://pivtorak.studio/pt/docs/peaceful-life/037-each-in-their-own-territory/",
   "inLanguage": "pt",
   "headline": "Cada Um no Seu Território | Vida Pacífica",
-  "description": "Uma vida pacífica começa pelo respeito pelos limites naturais. Um urso na floresta e uma orca no oceano lembram-nos que territórios diferentes não têm de se transformar em razões para o conflito.",
+  "description": "Uma vida pacífica começa pelo respeito pelos limites naturais. Um urso-polar no Ártico e uma orca no oceano lembram-nos que territórios diferentes não têm de se transformar em razões para o conflito.",
   "datePublished": "2026-09-01T15:00:00+01:00",
   "dateModified": "2026-09-01T15:00:00+01:00",
   "author": {
@@ -66,7 +66,7 @@ search: indexed
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-037-each-in-their-own-territory.webp",
-    "caption": "Desenho a giz num quadro escolar com um urso na floresta e uma orca no oceano, separados por uma fronteira pacífica."
+    "caption": "Desenho a giz num quadro escolar: um urso-polar no Ártico e uma orca no oceano, separados por uma fronteira pacífica."
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
@@ -108,11 +108,10 @@ Cada ser vivo tem o seu ambiente, o seu espaço e os seus limites naturais. Um m
 
 ## O Que Vemos
 
-Num quadro escolar, dois mundos podem existir lado a lado.  
-À esquerda, uma floresta densa, abetos, montanhas e um urso a viver no seu ambiente natural. À direita, o oceano profundo, as ondas e uma orca a mover-se livremente no seu próprio elemento.  
-Não há ataque. Não há setas. Não há conquista. Não há luta pela posse.  
-Apenas uma fronteira pacífica entre dois mundos diferentes.  
-O urso não precisa do oceano. A orca não precisa da floresta. São vizinhos diferentes — e isso é perfeitamente normal.  
+Num quadro escolar, dois mundos diferentes podem existir pacificamente lado a lado.   
+À esquerda — o Ártico, montanhas cobertas de neve, blocos de gelo e um urso-polar no seu ambiente natural.  
+À direita — o oceano profundo, as ondas e uma orca a mover-se livremente no seu próprio elemento. Nenhum ataque.  
+Nenhuma seta. Nenhuma conquista. Nenhuma luta pela posse. Apenas uma fronteira pacífica entre dois mundos diferentes. O urso-polar não precisa do oceano. A orca não precisa do gelo do Ártico. São vizinhos diferentes — e não há nada de anormal nisso.
 
 ## O Que Revela
 
@@ -139,7 +138,7 @@ E talvez esta seja a primeira lição que vale a pena escrever num quadro escola
 A próxima lição pode começar com uma pergunta ainda mais difícil: o que acontece quando alguém decide que o limite do outro é apenas um obstáculo?
 
 **Alt-text:**   
-Desenho detalhado a giz num quadro escolar, com um urso castanho entre abetos e montanhas à esquerda e uma orca a nadar num oceano azul profundo à direita, separados por uma fronteira pacífica.
+Desenho detalhado a giz num quadro escolar: à esquerda, um urso-polar entre neve, gelo e montanhas do Ártico; à direita, uma orca a nadar num oceano profundo sob as ondas; os dois mundos estão separados por uma fronteira pacífica.
 
 _Vida Pacífica. Cada Um no Seu Território. AP | Pivtorak.Studio. 01.09.2026_  
 © Anna Pivtorak (Kostyuk)

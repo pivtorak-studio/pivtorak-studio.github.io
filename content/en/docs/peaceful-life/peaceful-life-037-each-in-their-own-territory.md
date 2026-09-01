@@ -3,7 +3,7 @@ id: peaceful-life-037-each-in-their-own-territory
 language: en
 translation_of: peaceful-life-037-each-in-their-own-territory
 title: 037 Each in Their Own Territory
-description: A peaceful life begins with respecting natural boundaries. A bear in the forest and an orca in the ocean remind us that different territories do not have to become reasons for conflict.
+description: A peaceful life begins with respect for natural boundaries. A polar bear in the Arctic and an orca in the ocean remind us that different territories do not have to become reasons for conflict.
 event_date: 2026-09-01T15:00:00+01:00
 publication_date: 2026-09-01T15:00:00+01:00
 lastmod: 2026-09-01T15:00:00+01:00
@@ -30,7 +30,7 @@ research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-037-each-in-their-own-territory.webp
-alt: A detailed chalk drawing on a school blackboard showing a brown bear among fir trees and mountains on the left and an orca swimming in a deep blue ocean on the right, with a peaceful boundary between the two worlds.
+alt: "A detailed chalk drawing on a school blackboard: on the left, a polar bear among Arctic snow, ice, and mountains; on the right, an orca swimming in a deep ocean beneath the waves; the two worlds are separated by a peaceful boundary."
 related:
   - /en/docs/peaceful-life/
   - /en/docs/timeline/
@@ -51,7 +51,7 @@ search: indexed
   "url": "https://pivtorak.studio/en/docs/peaceful-life/037-each-in-their-own-territory/",
   "inLanguage": "en",
   "headline": "Each in Their Own Territory | Peaceful Life",
-  "description": "A peaceful life begins with respecting natural boundaries. A bear in the forest and an orca in the ocean remind us that different territories do not have to become reasons for conflict.",
+  "description": "A peaceful life begins with respect for natural boundaries. A polar bear in the Arctic and an orca in the ocean remind us that different territories do not have to become reasons for conflict.",
   "datePublished": "2026-09-01T15:00:00+01:00",
   "dateModified": "2026-09-01T15:00:00+01:00",
   "author": {
@@ -66,7 +66,7 @@ search: indexed
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-037-each-in-their-own-territory.webp",
-    "caption": "A chalk drawing on a school blackboard showing a bear in a forest and an orca in the ocean, separated by a peaceful boundary."
+    "caption": "A chalk drawing on a school blackboard: a polar bear in the Arctic and an orca in the ocean, separated by a peaceful boundary."
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
@@ -108,11 +108,9 @@ Every living creature has its own environment, its own space, and its own natura
 
 ## What We See
 
-On a school blackboard, two worlds can exist side by side.  
-On the left, a dense forest, fir trees, mountains, and a bear living in its natural surroundings. On the right, the deep ocean, waves, and an orca moving freely through its own element.  
-There is no attack. No arrows. No conquest. No struggle for ownership.  
-Only a peaceful boundary between two different worlds.  
-The bear does not need the ocean. The orca does not need the forest. They are different neighbours, and that is perfectly normal.  
+On a school blackboard, two different worlds can exist peacefully side by side.  
+On the left — the Arctic, snowy mountains, ice floes, and a polar bear in its natural environment.  On the right — the deep ocean, waves, and an orca moving freely through its own element.  
+No attacks. No arrows. No conquests. No struggle for ownership. Only a peaceful boundary between two different worlds. The polar bear does not need the ocean. The orca does not need the Arctic ice. They are different neighbours — and there is nothing abnormal about that.
 
 ## What It Reveals
 
@@ -138,7 +136,7 @@ And perhaps this is the first lesson worth putting on a school blackboard: **you
 The next lesson can begin with an even more difficult question: what happens when someone decides that another's boundary is merely an obstacle?  
 
 **Alt-text:**   
-A detailed chalk drawing on a school blackboard showing a brown bear among fir trees and mountains on the left, and an orca swimming in a deep blue ocean on the right, separated by a peaceful boundary.
+A detailed chalk drawing on a school blackboard: on the left, a polar bear among Arctic snow, ice, and mountains; on the right, an orca swimming in a deep ocean beneath the waves; the two worlds are separated by a peaceful boundary.
 
 _Peaceful Life. Each in Their Own Territory. AP | Pivtorak.Studio. 01.09.2026_  
 © Anna Pivtorak (Kostyuk)

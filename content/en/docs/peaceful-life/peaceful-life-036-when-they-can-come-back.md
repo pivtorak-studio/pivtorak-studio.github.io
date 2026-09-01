@@ -8,16 +8,33 @@ event_date: 2026-08-12T08:00:00+01:00
 publication_date: 2026-08-12T08:00:00+01:00
 lastmod: 2026-08-12T08:00:00+01:00
 slug: 036-when-they-can-come-back
-tags: [peaceful-life, animals, birds, nature, return, peace]
-keywords: [peaceful life, animals, birds, nature, return, habitat, peace, storks, wildlife]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - animals
+  - birds
+  - nature
+  - return
+  - peace
+keywords:
+  - peaceful life
+  - animals
+  - birds
+  - nature
+  - return
+  - habitat
+  - peace
+  - storks
+  - wildlife
+series: PeacefulLife
 series_index: 36
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-036-when-they-can-come-back.webp
 alt: A family of storks returning to a peaceful rural landscape at dawn. One stork stands on a nest while another approaches in flight, with green fields, quiet water, and soft morning light surrounding them.
-related: [/en/docs/peaceful-life/, /en/docs/timeline/]
+related:
+  - /en/docs/peaceful-life/
+  - /en/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/036-when-they-can-come-back/
@@ -75,9 +92,8 @@ search: indexed
 
 ![When They Can Come Back](/images/peaceful-life-036-when-they-can-come-back.webp)
 
-**🌱☀️ PeacefulLife**
 
-# 🪶🪹🌤️ When They Can Come Back
+# 🪶🪹🌤️ When They Can Come Back | Peaceful Life
 
 _One of the quietest signs of peace is when life returns by itself._
 

@@ -31,7 +31,7 @@ categories:
   - Vida Pacífica
   - Humanidade
   - Família
-series: VidaPacífica
+series: PeacefulLife
 series_index: 17
 country: PT
 status: published

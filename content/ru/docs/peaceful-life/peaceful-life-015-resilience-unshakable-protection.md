@@ -1,89 +1,47 @@
 ---
-
-id: peaceful-life-015-resilience-unshakable-protection  
-language: ru  
+id: peaceful-life-015-resilience-unshakable-protection
+language: ru
 translation_of: peaceful-life-015-resilience-unshakable-protection
-
 title: 015 Стойкость. Непоколебимая защита
-
 description: Настоящая защита начинается с прочного основания. Размышление о стойкости, безопасности и спокойной силе, сохраняющей жизнь в трудные времена.
-
 summary: Глубокие корни, защищённый дом и уверенность перед ветром. Эта статья исследует стойкость как силу, которая оберегает семьи, сообщества и мирную жизнь.
-
-event_date: 2025-10-13T13:00:00  
-publication_date: 2025-10-13T13:00:00  
+event_date: 2025-10-13T13:00:00
+publication_date: 2025-10-13T13:00:00
 lastmod: 2025-10-13T13:00:00
-
 slug: 015-resilience-unshakable-protection
-
 tags:
-
-- Мирная Жизнь
-    
-- Стойкость
-    
-- Защита
-    
-- Безопасность
-    
-- Сила
-    
-- Октябрь
-    
-- Дом
-    
-- Стабильность
-    
-
+  - Мирная Жизнь
+  - Стойкость
+  - Защита
+  - Безопасность
+  - Сила
+  - Октябрь
+  - Дом
+  - Стабильность
 keywords:
-
-- стойкость
-    
-- непоколебимая защита
-    
-- безопасность
-    
-- стабильность
-    
-- мирная жизнь
-    
-- прочный фундамент
-    
-
+  - стойкость
+  - непоколебимая защита
+  - безопасность
+  - стабильность
+  - мирная жизнь
+  - прочный фундамент
 categories:
-
-- Мирная Жизнь
-    
-
+  - Мирная Жизнь
 series:
-
-- Мирная Жизнь
-    
-
+  - PeacefulLife
 series_index: 15
-
-country: PT  
-status: published  
+country: PT
+status: published
 featured: true
-
 image: /images/peaceful-life-015-resilience-unshakable-protection.webp
-
 alt: Защищённый дом среди осеннего пейзажа и дерево с глубокими корнями, которое остаётся устойчивым на ветру, символизируя стойкость и безопасность.
-
 related:
-
-- /ru/docs/peaceful-life/
-    
-- /ru/docs/timeline/
-    
-
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
 authors: Anna Pivtorak
-
 draft: false
-
-canonical: [https://pivtorak.studio/ru/docs/peaceful-life/015-resilience-unshakable-protection/]
-
-## toc: true  
+canonical:
+  - https://pivtorak.studio/ru/docs/peaceful-life/015-resilience-unshakable-protection/
 weight: 15
 completion: 100
 seo: true

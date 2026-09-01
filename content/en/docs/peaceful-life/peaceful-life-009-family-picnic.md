@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 9
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![Family Picnic](/images/peaceful-life-009-family-picnic.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧺🌳☀️  Family Picnic
+# 🧺🌳☀️  Family Picnic | Peaceful Life
 
 _Where there is no war — gratitude ripens_
 

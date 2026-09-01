@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 6
 country: PT
 status: published
@@ -81,9 +81,7 @@ search: indexed
 
 ![Self-Care](/images/peaceful-life-006-self-care.webp)
 
-**🌱☀️ Peaceful Life**
-
-# ☕🌿🏡 Self-Care 
+# ☕🌿🏡 Self-Care | Peaceful Life 
 
 *When silence speaks louder than plans*
 

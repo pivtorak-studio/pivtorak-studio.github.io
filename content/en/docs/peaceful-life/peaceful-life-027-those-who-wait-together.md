@@ -100,9 +100,7 @@ search: indexed
 
 ![Those Who Wait Together](/images/peaceful-life-027-those-who-wait-together.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🐕‍🦺🤍🚪 Those Who Wait Together
+# 🐕‍🦺🤍🚪 Those Who Wait Together | Peaceful Life
 
 _Not about loyalty. About belonging._
 

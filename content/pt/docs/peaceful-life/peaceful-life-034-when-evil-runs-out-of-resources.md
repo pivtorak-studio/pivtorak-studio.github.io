@@ -8,16 +8,31 @@ event_date: 2026-08-12T06:00:00+01:00
 publication_date: 2026-08-12T06:00:00+01:00
 lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
-tags: [peaceful-life, children, peace, evil, resources]
-keywords: [infância em paz, vida pacífica, mal, recursos, crianças, segurança, guerra, paz]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - children
+  - peace
+  - evil
+  - resources
+keywords:
+  - infância em paz
+  - vida pacífica
+  - mal
+  - recursos
+  - crianças
+  - segurança
+  - guerra
+  - paz
+series: PeacefulLife
 series_index: 34
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-034-when-evil-runs-out-of-resources.webp
 alt: Um quarto de criança tranquilo durante a noite, iluminado suavemente pela luz da lua que entra pela janela. Lá fora, o céu escuro dissolve-se gradualmente em partículas dispersas, enquanto o quarto permanece calmo e protegido.
-related: [/pt/docs/peaceful-life/, /pt/docs/timeline/]
+related:
+  - /pt/docs/peaceful-life/
+  - /pt/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/034-when-evil-runs-out-of-resources/

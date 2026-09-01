@@ -41,7 +41,7 @@ categories:
   - Animais
   - Segurança Humana
   - Design Político
-series: VidaPacífica
+series: PeacefulLife
 series_index: 27
 country: PT
 status: published

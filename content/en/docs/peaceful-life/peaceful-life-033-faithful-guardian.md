@@ -103,9 +103,7 @@ search: indexed
 
 ![Faithful Guardian](/images/peaceful-life-033-faithful-guardian.webp)
 
-**🌱☀️ Мирне Життя**
-
-# 🐕🛡️🌙 Faithful Guardian 
+# 🐕🛡️🌙 Faithful Guardian | Peaceful Life 
 
 _Some guardians never speak. They simply stay._
 

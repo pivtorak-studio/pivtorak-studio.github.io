@@ -28,7 +28,7 @@ keywords:
 categories:
   - Мирне Життя
 series:
-  - Мирне Життя
+  - PeacefulLife
 series_index: 10
 country: PT
 status: published

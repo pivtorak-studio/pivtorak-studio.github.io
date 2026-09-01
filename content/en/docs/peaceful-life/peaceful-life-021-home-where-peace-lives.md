@@ -96,9 +96,7 @@ search: indexed
 
 ![Home Where Peace Lives](/images/peaceful-life-021-home-where-peace-lives.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🔥🏡🤍 Home Where Peace Lives
+# 🔥🏡🤍 Home Where Peace Lives | Peaceful Life
 
 _Peace is born where the heart stops defending itself._
 

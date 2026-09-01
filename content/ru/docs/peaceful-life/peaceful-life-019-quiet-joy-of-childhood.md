@@ -30,7 +30,7 @@ categories:
   - Мирная Жизнь
   - Детство
   - Семья
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 19
 country: PT
 status: published

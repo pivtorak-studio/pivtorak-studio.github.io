@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 15
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![Resilience. Unshakable Protection](/images/peaceful-life-015-resilience-unshakable-protection.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🛡️🏰🛠️ Resilience. Unshakable Protection 
+# 🛡️🏰🛠️ Resilience. Unshakable Protection | Peaceful Life 
 
 _When the wind of change doesn’t destroy but tests — we hold steady._
 

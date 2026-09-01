@@ -40,7 +40,7 @@ categories:
   - Родина
   - Людська Безпека
   - Політичний Дизайн
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 25
 country: PT
 status: published

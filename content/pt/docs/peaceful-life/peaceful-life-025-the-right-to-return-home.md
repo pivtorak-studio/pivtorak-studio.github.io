@@ -40,7 +40,7 @@ categories:
   - Família
   - Segurança Humana
   - Design Político
-series: VidaPacífica
+series: PeacefulLife
 series_index: 25
 country: PT
 status: published

@@ -33,7 +33,7 @@ categories:
   - Peaceful Life
   - Society
   - Human Resilience
-series: Peaceful Life
+series: PeacefulLife
 series_index: 30
 country: PT
 status: published
@@ -96,9 +96,7 @@ search: indexed
 
 ![A Song Stronger Than Noise](/images/peaceful-life-030-a-song-stronger-than-noise.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🎧🤦🏻‍♀️🎶 A Song Stronger Than Noise
+# 🎧🤦🏻‍♀️🎶 A Song Stronger Than Noise | Peaceful Life
 
 _Sometimes peace does not begin when the explosions stop.    
 Sometimes it begins when a person finds a sound stronger than fear._

@@ -8,16 +8,32 @@ event_date: 2026-08-12T07:00:00+01:00
 publication_date: 2026-08-12T07:00:00+01:00
 lastmod: 2026-08-12T07:00:00+01:00
 slug: 035-when-you-no-longer-have-to-be-strong
-tags: [peaceful-life, adults, peace, strength, choice, resources]
-keywords: [peaceful life, adults, strength, choice, danger, evil, resources, peace]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - adults
+  - peace
+  - strength
+  - choice
+  - resources
+keywords:
+  - peaceful life
+  - adults
+  - strength
+  - choice
+  - danger
+  - evil
+  - resources
+  - peace
+series: PeacefulLife
 series_index: 35
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp
 alt: An adult sitting quietly by a window at dawn, with a heavy stone-like shadow dissolving behind them. A simple compass rests nearby, while soft morning light enters the peaceful room.
-related: [/en/docs/peaceful-life/, /en/docs/timeline/]
+related:
+  - /en/docs/peaceful-life/
+  - /en/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/035-when-you-no-longer-have-to-be-strong/
@@ -74,9 +90,7 @@ search: indexed
 
 ![When You No Longer Have to Be Strong](/images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp)
 
-**🌱☀️ PeacefulLife**
-
-# 🪨🧭✨ When You No Longer Have to Be Strong
+# 🪨🧭✨ When You No Longer Have to Be Strong | Peaceful Life
 
 _Rest becomes possible when danger no longer sets the rhythm of life._
 

@@ -32,7 +32,7 @@ keywords:
   - відповідальний чоловік
   - мирне життя
   - Anna Pivtorak
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 31
 research_origin: PT
 status: published

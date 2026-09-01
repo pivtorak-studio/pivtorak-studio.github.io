@@ -31,7 +31,7 @@ categories:
   - Мирная Жизнь
   - Философия
   - Семья
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 16
 country: PT
 status: published

@@ -100,9 +100,7 @@ search: indexed
 
 ![The Right to Remain a Child](/images/peaceful-life-026-the-right-to-remain-a-child.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 👧🏻🧸🛏️ The Right to Remain a Child
+# 👧🏻🧸🛏️ The Right to Remain a Child | Peaceful Life
 
 _Not about rescue. About nothing being taken away._
 

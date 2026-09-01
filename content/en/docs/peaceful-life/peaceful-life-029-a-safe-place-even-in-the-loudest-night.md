@@ -33,7 +33,7 @@ categories:
   - Peaceful Life
   - Nature
   - Animal Welfare
-series: Peaceful Life
+series: PeacefulLife
 series_index: 29
 country: PT
 status: published
@@ -96,9 +96,7 @@ search: indexed
 
 ![A Safe Place Even in the Loudest Night](/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🚗🦌🌿 A Safe Place Even in the Loudest Night
+# 🚗🦌🌿 A Safe Place Even in the Loudest Night | Peaceful Life
 
 _When the world becomes too loud, every living being begins to search for a place where fear can rest for a while._
 

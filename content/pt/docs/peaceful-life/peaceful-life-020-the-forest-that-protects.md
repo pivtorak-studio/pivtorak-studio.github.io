@@ -30,7 +30,7 @@ categories:
   - Vida Pacífica
   - Natureza
   - Vida Selvagem
-series: VidaPacífica
+series: PeacefulLife
 series_index: 20
 country: PT
 status: published

@@ -41,7 +41,7 @@ categories:
   - Дитинство
   - Людська Безпека
   - Політичний Дизайн
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 26
 country: PT
 status: published

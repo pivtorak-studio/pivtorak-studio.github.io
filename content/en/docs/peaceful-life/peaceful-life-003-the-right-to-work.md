@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 3
 country: PT
 status: published
@@ -91,9 +91,7 @@ search: indexed
 
 ![The Right to Work](/images/peaceful-life-003-the-right-to-work.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧑🏽‍🌾🌾🔧 The Right to Work
+# 🧑🏽‍🌾🌾🔧 The Right to Work | Peaceful Life
 
 _Earning a living is not a luxury_
 

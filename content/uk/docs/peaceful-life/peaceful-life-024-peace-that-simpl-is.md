@@ -39,7 +39,7 @@ categories:
   - Тварини
   - Культура Миру
   - Політичний Дизайн
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 24
 country: PT
 status: published

@@ -28,7 +28,7 @@ keywords:
 categories:
   - Vida Pacífica
 series:
-  - Vida Pacífica
+  - PeacefulLife
 series_index: 2
 country: PT
 status: published

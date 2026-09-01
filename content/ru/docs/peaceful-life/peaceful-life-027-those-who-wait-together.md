@@ -41,7 +41,7 @@ categories:
   - Животные
   - Человеческая Безопасность
   - Политический Дизайн
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 27
 country: PT
 status: published

@@ -8,16 +8,32 @@ event_date: 2026-08-12T07:00:00+01:00
 publication_date: 2026-08-12T07:00:00+01:00
 lastmod: 2026-08-12T07:00:00+01:00
 slug: 035-when-you-no-longer-have-to-be-strong
-tags: [peaceful-life, adults, peace, strength, choice, resources]
-keywords: [vida em paz, adultos, força, escolha, perigo, mal, recursos, paz]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - adults
+  - peace
+  - strength
+  - choice
+  - resources
+keywords:
+  - vida em paz
+  - adultos
+  - força
+  - escolha
+  - perigo
+  - mal
+  - recursos
+  - paz
+series: PeacefulLife
 series_index: 35
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp
 alt: Um adulto sentado tranquilamente junto a uma janela ao amanhecer, enquanto uma sombra pesada, semelhante a uma pedra, se dissolve atrás dele. Perto está uma bússola simples, enquanto a suave luz da manhã entra no quarto tranquilo.
-related: [/pt/docs/peaceful-life/, /pt/docs/timeline/]
+related:
+  - /pt/docs/peaceful-life/
+  - /pt/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/035-when-you-no-longer-have-to-be-strong/

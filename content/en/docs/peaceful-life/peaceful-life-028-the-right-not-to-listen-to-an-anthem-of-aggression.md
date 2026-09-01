@@ -33,7 +33,7 @@ categories:
   - Peaceful Life
   - Society
   - Human Dignity
-series: Peaceful Life
+series: PeacefulLife
 series_index: 28
 country: PT
 status: published
@@ -91,9 +91,7 @@ search: indexed
 
 ![The Right Not to Listen to an Anthem of Aggression](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🎧🧍‍♀️🤍 The Right Not to Listen to an Anthem of Aggression
+# 🎧🧍‍♀️🤍 The Right Not to Listen to an Anthem of Aggression | Peaceful Life
 
 _Sometimes peace begins not with words.    
 Sometimes it begins with the decision not to listen to what brings pain._

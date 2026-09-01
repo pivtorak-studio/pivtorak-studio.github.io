@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 2
 country: PT
 status: published
@@ -89,9 +89,7 @@ search: indexed
 
 ![Nature Has the Right to Live](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🌳🦌🌿 Nature Has the Right to Live
+# 🌳🦌🌿 Nature Has the Right to Live | Peaceful Life
 
 _Forests are not a target_
 

@@ -30,7 +30,7 @@ categories:
   - Мирная Жизнь
   - Природа
   - Дикая Природа
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 20
 country: PT
 status: published

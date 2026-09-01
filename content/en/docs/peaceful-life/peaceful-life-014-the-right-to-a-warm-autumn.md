@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 14
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![The Right to a Warm Autumn](/images/peaceful-life-014-the-right-to-a-warm-autumn.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🐇🍁🌾 The Right to a Warm Autumn
+# 🐇🍁🌾 The Right to a Warm Autumn | Peaceful Life
 
 _Even when the world cools down — life still deserves warmth._
 

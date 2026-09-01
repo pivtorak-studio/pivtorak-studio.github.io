@@ -33,7 +33,7 @@ categories:
   - Мирне Життя
   - Суспільство
   - Людська Гідність
-series: Peaceful Life
+series: PeacefulLife
 series_index: 28
 country: PT
 status: published

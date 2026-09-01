@@ -30,7 +30,7 @@ categories:
   - Мирне Життя
   - Дім
   - Родина
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 21
 country: PT
 status: published

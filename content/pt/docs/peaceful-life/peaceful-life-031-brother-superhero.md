@@ -33,7 +33,7 @@ keywords:
   - homens responsáveis
   - vida pacífica
   - Anna Pivtorak
-series: VidaPacífica
+series: PeacefulLife
 series_index: 31
 research_origin: PT
 status: published

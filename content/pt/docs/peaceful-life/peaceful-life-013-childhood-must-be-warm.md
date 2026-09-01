@@ -28,7 +28,7 @@ keywords:
 categories:
   - Vida Pacífica
 series:
-  - Vida Pacífica
+  - PeacefulLife
 series_index: 13
 country: PT
 status: published
@@ -48,7 +48,7 @@ seo: true
 distribution: true
 search: indexed
 ---
-<script type="application/ld+json">
+PeacefulLife<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",

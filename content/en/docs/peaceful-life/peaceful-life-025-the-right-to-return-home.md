@@ -99,9 +99,7 @@ search: indexed
 
 ![The Right To Return Home](/images/peaceful-life-025-the-right-to-return-home.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧑‍🧑‍🧒🏠🔑 The Right To Return Home
+# 🧑‍🧑‍🧒🏠🔑 The Right To Return Home | Peaceful Life
 
 _Safety as a condition of life, not a privilege or a reward._
 

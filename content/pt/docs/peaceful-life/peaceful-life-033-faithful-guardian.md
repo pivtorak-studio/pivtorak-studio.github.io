@@ -32,7 +32,7 @@ keywords:
   - família
   - vida pacífica
   - Anna Pivtorak
-series: VidaPacífica
+series: PeacefulLife
 series_index: 33
 research_origin: PT
 status: published

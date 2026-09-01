@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 1
 country: PT
 status: published
@@ -89,9 +89,7 @@ search: indexed
 
 ![Invisible to Threats](/images/peaceful-life-001-invisible-to-threats.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧒🏻🕊️🛡️Invisible to Threats
+# 🧒🏻🕊️🛡️Invisible to Threats | Peaceful Life
 
 _Children and animals — outside the zone of pain_
 

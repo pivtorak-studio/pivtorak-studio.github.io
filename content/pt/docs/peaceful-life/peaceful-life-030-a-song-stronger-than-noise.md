@@ -33,7 +33,7 @@ categories:
   - Vida Pacífica
   - Sociedade
   - Resiliência Humana
-series: Vida Pacífica
+series: PeacefulLife
 series_index: 30
 country: PT
 status: published

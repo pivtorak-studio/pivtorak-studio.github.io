@@ -41,7 +41,7 @@ categories:
   - Infância
   - Segurança Humana
   - Design Político
-series: VidaPacífica
+series: PeacefulLife
 series_index: 26
 country: PT
 status: published

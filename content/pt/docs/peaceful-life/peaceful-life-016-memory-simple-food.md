@@ -31,7 +31,7 @@ categories:
   - Vida Pacífica
   - Filosofia
   - Família
-series: VidaPacífica
+series: PeacefulLife
 series_index: 16
 country: PT
 status: published

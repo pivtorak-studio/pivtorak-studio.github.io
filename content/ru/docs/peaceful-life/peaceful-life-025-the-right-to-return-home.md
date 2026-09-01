@@ -40,7 +40,7 @@ categories:
   - Семья
   - Человеческая Безопасность
   - Политический Дизайн
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 25
 country: PT
 status: published

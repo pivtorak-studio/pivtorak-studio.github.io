@@ -96,9 +96,7 @@ search: indexed
 
 ![Warmth That Returns](/images/peaceful-life-017-warmth-that-returns.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧣🐕🔥 Warmth That Returns
+# 🧣🐕🔥 Warmth That Returns | Peaceful Life
 
 _Goodness given sincerely always finds its way back._
 

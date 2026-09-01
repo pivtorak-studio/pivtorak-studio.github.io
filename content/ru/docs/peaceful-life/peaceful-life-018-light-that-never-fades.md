@@ -31,7 +31,7 @@ categories:
   - Мирная Жизнь
   - Размышления
   - Духовность
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 18
 country: PT
 status: published

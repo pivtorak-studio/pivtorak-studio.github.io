@@ -33,7 +33,7 @@ categories:
   - Мирная Жизнь
   - Общество
   - Человеческая Устойчивость
-series: Мирная Жизнь
+series: PeacefulLife
 series_index: 30
 country: PT
 status: published

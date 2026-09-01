@@ -8,16 +8,33 @@ event_date: 2026-08-12T08:00:00+01:00
 publication_date: 2026-08-12T08:00:00+01:00
 lastmod: 2026-08-12T08:00:00+01:00
 slug: 036-when-they-can-come-back
-tags: [peaceful-life, animals, birds, nature, return, peace]
-keywords: [мирне життя, тварини, птахи, природа, повернення, середовище існування, мир, лелеки, дика природа]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - animals
+  - birds
+  - nature
+  - return
+  - peace
+keywords:
+  - мирне життя
+  - тварини
+  - птахи
+  - природа
+  - повернення
+  - середовище існування
+  - мир
+  - лелеки
+  - дика природа
+series: PeacefulLife
 series_index: 36
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-036-when-they-can-come-back.webp
 alt: Сім’я лелек повертається до спокійного сільського краєвиду на світанку. Один лелека стоїть у гнізді, а інший наближається в польоті; навколо зелені поля, тиха вода й м’яке ранкове світло.
-related: [/uk/docs/peaceful-life/, /uk/docs/timeline/]
+related:
+  - /uk/docs/peaceful-life/
+  - /uk/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /uk/docs/peaceful-life/036-when-they-can-come-back/

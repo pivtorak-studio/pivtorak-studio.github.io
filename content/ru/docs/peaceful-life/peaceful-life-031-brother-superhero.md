@@ -32,7 +32,7 @@ keywords:
   - ответственный мужчина
   - мирная жизнь
   - Anna Pivtorak
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 31
 research_origin: PT
 status: published

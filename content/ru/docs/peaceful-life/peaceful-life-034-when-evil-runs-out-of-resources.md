@@ -8,16 +8,31 @@ event_date: 2026-08-12T06:00:00+01:00
 publication_date: 2026-08-12T06:00:00+01:00
 lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
-tags: [peaceful-life, children, peace, evil, resources]
-keywords: [мирное детство, мирная жизнь, зло, ресурс, дети, безопасность, война, мир]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - children
+  - peace
+  - evil
+  - resources
+keywords:
+  - мирное детство
+  - мирная жизнь
+  - зло
+  - ресурс
+  - дети
+  - безопасность
+  - война
+  - мир
+series: PeacefulLife
 series_index: 34
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-034-when-evil-runs-out-of-resources.webp
 alt: Спокойная детская комната ночью, в которую через окно мягко проникает лунный свет. За окном тёмное небо постепенно распадается на рассеянные частицы, а комната остаётся спокойной и защищённой.
-related: [/ru/docs/peaceful-life/, /ru/docs/timeline/]
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /ru/docs/peaceful-life/034-when-evil-runs-out-of-resources/

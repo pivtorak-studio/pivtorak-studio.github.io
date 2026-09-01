@@ -118,9 +118,7 @@ search: indexed
 
 ![Light That Never Fades](/images/peaceful-life-018-light-that-never-fades.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🌌🪶🕊️ Light That Never Fades
+# 🌌🪶🕊️ Light That Never Fades | Peaceful Life
 
 _Light does not disappear — it simply moves into silence._
 

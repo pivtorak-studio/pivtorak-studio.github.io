@@ -99,9 +99,7 @@ search: indexed
 
 ![Peace Drawn by Hands](/images/peaceful-life-022-peace-drawn-by-hands.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧒🏻☀️🖍️ Peace Drawn by Hands
+# 🧒🏻☀️🖍️ Peace Drawn by Hands | Peaceful Life
 
 _Peace begins where it is not feared to be touched._
 

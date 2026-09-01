@@ -38,7 +38,7 @@ categories:
   - Responsabilidade Social
   - Cultura de Paz
   - Design Político
-series: VidaPacífica
+series: PeacefulLife
 series_index: 23
 country: PT
 status: published

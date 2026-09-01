@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 12
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![Autumn Reserve](/images/peaceful-life-012-autumn-reserve.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🐿️🌰🍂 Autumn Reserve
+# 🐿️🌰🍂 Autumn Reserve | Peaceful Life
 
 _About care that begins on time_
 

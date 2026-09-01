@@ -8,16 +8,32 @@ event_date: 2026-08-12T07:00:00+01:00
 publication_date: 2026-08-12T07:00:00+01:00
 lastmod: 2026-08-12T07:00:00+01:00
 slug: 035-when-you-no-longer-have-to-be-strong
-tags: [peaceful-life, adults, peace, strength, choice, resources]
-keywords: [мирная жизнь, взрослые, сила, выбор, опасность, зло, ресурс, мир]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - adults
+  - peace
+  - strength
+  - choice
+  - resources
+keywords:
+  - мирная жизнь
+  - взрослые
+  - сила
+  - выбор
+  - опасность
+  - зло
+  - ресурс
+  - мир
+series: PeacefulLife
 series_index: 35
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp
 alt: Взрослый спокойно сидит у окна на рассвете, а позади него растворяется тяжёлая тень, похожая на камень. Рядом лежит простой компас, а мягкий утренний свет входит в спокойную комнату.
-related: [/ru/docs/peaceful-life/, /ru/docs/timeline/]
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /ru/docs/peaceful-life/035-when-you-no-longer-have-to-be-strong/

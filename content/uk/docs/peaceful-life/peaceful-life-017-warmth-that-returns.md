@@ -31,7 +31,7 @@ categories:
   - Мирне Життя
   - Людяність
   - Родина
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 17
 country: PT
 status: published

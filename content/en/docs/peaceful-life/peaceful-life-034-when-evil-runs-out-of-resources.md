@@ -8,16 +8,31 @@ event_date: 2026-08-12T06:00:00+01:00
 publication_date: 2026-08-12T06:00:00+01:00
 lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
-tags: [peaceful-life, children, peace, evil, resources]
-keywords: [peaceful childhood, peaceful life, evil, resources, children, safety, war, peace]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - children
+  - peace
+  - evil
+  - resources
+keywords:
+  - peaceful childhood
+  - peaceful life
+  - evil
+  - resources
+  - children
+  - safety
+  - war
+  - peace
+series: PeacefulLife
 series_index: 34
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-034-when-evil-runs-out-of-resources.webp
 alt: A peaceful child’s room at night, with soft moonlight entering through the window. Outside, the dark sky gradually dissolves into scattered particles, while the room remains calm and protected.
-related: [/en/docs/peaceful-life/, /en/docs/timeline/]
+related:
+  - /en/docs/peaceful-life/
+  - /en/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/034-when-evil-runs-out-of-resources/
@@ -74,9 +89,7 @@ search: indexed
 
 ![When Evil Runs Out of Resources](/images/peaceful-life-034-when-evil-runs-out-of-resources.webp)
 
-**🌱☀️ PeacefulLife**
-
-# 🌑🌀✨ When Evil Runs Out of Resources
+# 🌑🌀✨ When Evil Runs Out of Resources | Peaceful Life
 
 _No child should have to be brave just to feel safe._
 

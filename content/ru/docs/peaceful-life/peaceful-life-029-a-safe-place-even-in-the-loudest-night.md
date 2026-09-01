@@ -33,7 +33,7 @@ categories:
   - Мирная Жизнь
   - Природа
   - Защита Животных
-series: Мирная Жизнь
+series: PeacefulLife
 series_index: 29
 country: PT
 status: published

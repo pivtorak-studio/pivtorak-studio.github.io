@@ -33,7 +33,7 @@ categories:
   - Vida Pacífica
   - Natureza
   - Bem-Estar Animal
-series: Vida Pacífica
+series: PeacefulLife
 series_index: 29
 country: PT
 status: published

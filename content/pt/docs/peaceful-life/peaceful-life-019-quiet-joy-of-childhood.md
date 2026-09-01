@@ -30,7 +30,7 @@ categories:
   - Vida Pacífica
   - Infância
   - Família
-series: VidaPacífica
+series: PeacefulLife
 series_index: 19
 country: PT
 status: published

@@ -40,7 +40,7 @@ categories:
   - Дети
   - Культура Мира
   - Политический Дизайн
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 22
 country: PT
 status: published

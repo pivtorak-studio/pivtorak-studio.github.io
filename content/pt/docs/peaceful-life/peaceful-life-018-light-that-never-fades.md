@@ -31,7 +31,7 @@ categories:
   - Vida Pacífica
   - Reflexão
   - Espiritualidade
-series: VidaPacífica
+series: PeacefulLife
 series_index: 18
 country: PT
 status: published

@@ -8,16 +8,33 @@ event_date: 2026-08-12T08:00:00+01:00
 publication_date: 2026-08-12T08:00:00+01:00
 lastmod: 2026-08-12T08:00:00+01:00
 slug: 036-when-they-can-come-back
-tags: [peaceful-life, animals, birds, nature, return, peace]
-keywords: [мирная жизнь, животные, птицы, природа, возвращение, среда обитания, мир, аисты, дикая природа]
-series: Peaceful Life
+tags:
+  - peaceful-life
+  - animals
+  - birds
+  - nature
+  - return
+  - peace
+keywords:
+  - мирная жизнь
+  - животные
+  - птицы
+  - природа
+  - возвращение
+  - среда обитания
+  - мир
+  - аисты
+  - дикая природа
+series: PeacefulLife
 series_index: 36
 research_origin: UA
 status: published
 featured: true
 image: /images/peaceful-life-036-when-they-can-come-back.webp
 alt: Семья аистов возвращается на спокойный сельский ландшафт на рассвете. Один аист стоит на гнезде, а другой приближается в полёте; вокруг зелёные поля, тихая вода и мягкий утренний свет.
-related: [/ru/docs/peaceful-life/, /ru/docs/timeline/]
+related:
+  - /ru/docs/peaceful-life/
+  - /ru/docs/timeline/
 authors: Anna Pivtorak
 draft: false
 canonical: /ru/docs/peaceful-life/036-when-they-can-come-back/

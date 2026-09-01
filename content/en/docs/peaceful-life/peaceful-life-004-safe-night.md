@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 4
 country: PT
 status: published
@@ -90,9 +90,7 @@ search: indexed
 
 ![Safe Night. Circle of Trust](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🪵🔥🌌 Safe Night. Circle of Trust
+# 🪵🔥🌌 Safe Night. Circle of Trust | Peaceful Life
 
 *Teenagers have the right to a peaceful hike*
 

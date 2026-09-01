@@ -107,9 +107,7 @@ search: indexed
 
 ![Brother Superhero](/images/peaceful-life-031-brother-superhero.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧒🏻🦸🏻‍♂️🛡️ Brother Superhero
+# 🧒🏻🦸🏻‍♂️🛡️ Brother Superhero | Peaceful Life
 
 _Some of the strongest heroes never fly. They simply stay beside us._
 

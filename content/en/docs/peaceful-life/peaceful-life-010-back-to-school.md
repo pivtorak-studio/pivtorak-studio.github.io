@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 10
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![Back to School](/images/peaceful-life-010-back-to-school.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 📚🚌🧠 Back to School
+# 📚🚌🧠 Back to School | Peaceful Life
 
 _School is a space for future, not for fear_
 

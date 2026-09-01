@@ -30,7 +30,7 @@ categories:
   - Vida Pacífica
   - Lar
   - Família
-series: VidaPacífica
+series: PeacefulLife
 series_index: 21
 country: PT
 status: published

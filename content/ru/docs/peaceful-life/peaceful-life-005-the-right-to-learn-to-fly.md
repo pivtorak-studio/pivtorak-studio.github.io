@@ -28,7 +28,7 @@ keywords:
 categories:
   - Мирная Жизнь
 series:
-  - Мирная Жизнь
+  - PeacefulLife
 series_index: 5
 country: PT
 status: published

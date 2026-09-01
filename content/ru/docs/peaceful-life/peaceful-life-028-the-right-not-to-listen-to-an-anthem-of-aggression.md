@@ -33,7 +33,7 @@ categories:
   - Мирная Жизнь
   - Общество
   - Человеческое Достоинство
-series: Peaceful Life
+series: PeacefulLife
 series_index: 28
 country: PT
 status: published

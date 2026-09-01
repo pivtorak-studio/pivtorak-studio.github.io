@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 8
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![The Right to Ripen](/images/peaceful-life-008-the-right-to-ripen.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🌾☀️🌿 The Right to Ripen
+# 🌾☀️🌿 The Right to Ripen | Peaceful Life
 
  _These are the ears that endured the whole journey._
 

@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 5
 country: PT
 status: published
@@ -90,9 +90,7 @@ search: indexed
 
 ![The Right to Learn to Fly](/images/peaceful-life-005-the-right-to-learn-to-fly.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🕊️🌿🪽 The Right to Learn to Fly
+# 🕊️🌿🪽 The Right to Learn to Fly | Peaceful Life
 
 *They are not a threat. They are still learning.*
 

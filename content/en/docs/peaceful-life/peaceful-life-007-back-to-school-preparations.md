@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 7
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![Back-to-School Preparations](/images/peaceful-life-007-back-to-school-preparations.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧒🎒📝 Back-to-School Preparations
+# 🧒🎒📝 Back-to-School Preparations | Peaceful Life
 
 _When peace makes space for pencils, not fear._
 

@@ -30,7 +30,7 @@ categories:
   - Мирне Життя
   - Природа
   - Тварини
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 20
 country: PT
 status: published

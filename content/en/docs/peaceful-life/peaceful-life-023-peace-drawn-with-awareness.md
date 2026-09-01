@@ -99,9 +99,7 @@ search: indexed
 
 ![Peace Drawn with Awareness](/images/peaceful-life-023-peace-drawn-with-awareness.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧑‍🤝‍🧑📐🤍 Peace Drawn with Awareness
+# 🧑‍🤝‍🧑📐🤍 Peace Drawn with Awareness | Peaceful Life
 
 _Peace emerges where responsibility takes the form of care._
 

@@ -101,10 +101,7 @@ search: indexed
 
 ![Equal. Side by Side](/images/peaceful-life-032-equal-side-by-side.webp)
 
-**🌱☀️ Peaceful Life**
-
-
-# 👫🦸❤️ Equal. Side by Side.
+# 👫🦸❤️ Equal. Side by Side | Peaceful Life
 
 _The strongest relationships are built not on power, but on equality._
 

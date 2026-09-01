@@ -41,7 +41,7 @@ categories:
   - Детство
   - Человеческая Безопасность
   - Политический Дизайн
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 26
 country: PT
 status: published

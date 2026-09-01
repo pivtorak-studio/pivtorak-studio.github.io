@@ -31,7 +31,7 @@ categories:
   - Мирная Жизнь
   - Человечность
   - Семья
-series: МирнаяЖизнь
+series: PeacefulLife
 series_index: 17
 country: PT
 status: published

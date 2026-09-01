@@ -1,89 +1,47 @@
 ---
-
-id: peaceful-life-015-resilience-unshakable-protection  
-language: pt  
+id: peaceful-life-015-resilience-unshakable-protection
+language: pt
 translation_of: peaceful-life-015-resilience-unshakable-protection
-
 title: 015 Resiliência. Proteção Inabalável
-
 description: A verdadeira proteção começa com fundamentos sólidos. Uma reflexão sobre resiliência, segurança e a força tranquila que preserva a vida em tempos difíceis.
-
 summary: Raízes profundas, um lar protegido e a confiança para resistir ao vento. Este artigo explora a resiliência como uma força que protege famílias, comunidades e uma vida pacífica.
-
-event_date: 2025-10-13T13:00:00  
-publication_date: 2025-10-13T13:00:00  
+event_date: 2025-10-13T13:00:00
+publication_date: 2025-10-13T13:00:00
 lastmod: 2025-10-13T13:00:00
-
 slug: 015-resilience-unshakable-protection
-
 tags:
-
-- Vida Pacífica
-    
-- Resiliência
-    
-- Proteção
-    
-- Segurança
-    
-- Força
-    
-- Outubro
-    
-- Lar
-    
-- Estabilidade
-    
-
+  - Vida Pacífica
+  - Resiliência
+  - Proteção
+  - Segurança
+  - Força
+  - Outubro
+  - Lar
+  - Estabilidade
 keywords:
-
-- resiliência
-    
-- proteção inabalável
-    
-- segurança
-    
-- estabilidade
-    
-- vida pacífica
-    
-- bases sólidas
-    
-
+  - resiliência
+  - proteção inabalável
+  - segurança
+  - estabilidade
+  - vida pacífica
+  - bases sólidas
 categories:
-
-- Vida Pacífica
-    
-
+  - Vida Pacífica
 series:
-
-- Vida Pacífica
-    
-
+  - PeacefulLife
 series_index: 15
-
-country: PT  
-status: published  
+country: PT
+status: published
 featured: true
-
 image: /images/peaceful-life-015-resilience-unshakable-protection.webp
-
 alt: Uma casa protegida numa paisagem de outono enquanto uma árvore de raízes profundas permanece firme ao vento, simbolizando resiliência e segurança.
-
 related:
-
-- /pt/docs/peaceful-life/
-    
-- /pt/docs/timeline/
-    
-
+  - /pt/docs/peaceful-life/
+  - /pt/docs/timeline/
 authors: Anna Pivtorak
-
 draft: false
-
-canonical: [https://pivtorak.studio/pt/docs/peaceful-life/015-resilience-unshakable-protection/]
-
-## toc: true  
+canonical:
+  - https://pivtorak.studio/pt/docs/peaceful-life/015-resilience-unshakable-protection/
 weight: 15
 completion: 100
 seo: true

@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 13
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![Childhood Must Be Warm](/images/peaceful-life-013-childhood-must-be-warm.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧒🏻🏠🔥 Childhood Must Be Warm
+# 🧒🏻🏠🔥 Childhood Must Be Warm | Peaceful Life
 
 _The right to safety and home comfort_
 

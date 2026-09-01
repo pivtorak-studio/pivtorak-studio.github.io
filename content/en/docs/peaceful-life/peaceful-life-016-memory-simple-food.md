@@ -96,9 +96,7 @@ search: indexed
 
 ![Memory. Simple Food](/images/peaceful-life-016-memory-simple-food.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🕯️🍞💧 Memory. Simple Food
+# 🕯️🍞💧 Memory. Simple Food | Peaceful Life
 
 _Gratitude begins with silence — when we see the simple as a miracle._
 

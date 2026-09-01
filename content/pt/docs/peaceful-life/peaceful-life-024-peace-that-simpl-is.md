@@ -39,7 +39,7 @@ categories:
   - Animais
   - Cultura de Paz
   - Design Político
-series: VidaPacífica
+series: PeacefulLife
 series_index: 24
 country: PT
 status: published

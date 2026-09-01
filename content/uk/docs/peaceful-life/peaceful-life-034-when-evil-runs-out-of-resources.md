@@ -23,7 +23,7 @@ keywords:
   - безпека
   - війна
   - мир
-series: Peaceful Life
+series: PeacefulLife
 series_index: 34
 research_origin: UA
 status: published

@@ -96,9 +96,7 @@ search: indexed
 
 ![Quiet Joy of Childhood](/images/peaceful-life-019-quiet-joy-of-childhood.webp)
 
-**🌱☀️ Peaceful Life**
-
-# ❄️🧒🏻🕯️ Quiet Joy of Childhood
+# ❄️🧒🏻🕯️ Quiet Joy of Childhood | Peaceful Life
 
 _Joy arrives quietly — like snow falling in the evening light._
 

@@ -38,7 +38,7 @@ categories:
   - Соціальна Відповідальність
   - Культура Миру
   - Політичний Дизайн
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 23
 country: PT
 status: published

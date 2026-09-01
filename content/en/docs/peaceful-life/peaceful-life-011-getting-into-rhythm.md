@@ -28,7 +28,7 @@ keywords:
 categories:
   - Peaceful Life
 series:
-  - Peaceful Life
+  - PeacefulLife
 series_index: 11
 country: PT
 status: published
@@ -80,9 +80,7 @@ search: indexed
 
 ![Getting Into Rhythm](/images/peaceful-life-011-getting-into-rhythm.webp)
 
-**🌱☀️ Peaceful Life**
-
-# 🧑‍💻📆☕ Getting Into Rhythm
+# 🧑‍💻📆☕ Getting Into Rhythm | Peaceful Life
 
 _When morning coffee opens the space for new possibilities_
 

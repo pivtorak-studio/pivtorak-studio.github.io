@@ -30,7 +30,7 @@ keywords:
   - родина
   - мирне життя
   - Anna Pivtorak
-series: МирнеЖиття
+series: PeacefulLife
 series_index: 32
 research_origin: PT
 status: published

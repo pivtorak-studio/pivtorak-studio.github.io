@@ -4,6 +4,8 @@ defaultContentLanguageInSubdir = true
 title = 'Pivtorak.Studio'
 theme = 'hugo-book'
 
+enableRobotsTXT = true
+
 [languages]
   [languages.uk]
     languageName = 'UA'

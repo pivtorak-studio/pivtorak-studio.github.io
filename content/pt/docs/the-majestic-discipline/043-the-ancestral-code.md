@@ -47,8 +47,8 @@ guiding_question: O que transporto dentro de mim que começou antes de eu saber 
   "description": "O Código Ancestral explora os padrões herdados, a orientação biológica e a resiliência profunda transmitidos através das gerações, tendo a borboleta-monarca como símbolo da herança ancestral.",
   "url": "https://pivtorak.studio/pt/docs/the-majestic-discipline/043-the-ancestral-code/",
   "inLanguage": "pt-PT",
-  "datePublished": "2026-09-19T09:00:00+01:00",
-  "dateModified": "2026-09-19T09:00:00+01:00",
+  "datePublished": "2026-09-19T06:00:00+01:00",
+  "dateModified": "2026-09-19T06:00:00+01:00",
   "author": {
     "@type": "Person",
     "name": "Anna Pivtorak"

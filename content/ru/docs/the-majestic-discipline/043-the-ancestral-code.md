@@ -47,8 +47,8 @@ guiding_question: Что я несу в себе, что началось ещё
   "description": "Генетический Код исследует унаследованные закономерности, биологическую ориентацию и глубокую устойчивость, передаваемые через поколения, используя бабочку-монарха как символ наследия предков.",
   "url": "https://pivtorak.studio/ru/docs/the-majestic-discipline/043-the-ancestral-code/",
   "inLanguage": "ru",
-  "datePublished": "2026-09-19T09:00:00+01:00",
-  "dateModified": "2026-09-19T09:00:00+01:00",
+  "datePublished": "2026-09-19T06:00:00+01:00",
+  "dateModified": "2026-09-19T06:00:00+01:00",
   "author": {
     "@type": "Person",
     "name": "Anna Pivtorak"

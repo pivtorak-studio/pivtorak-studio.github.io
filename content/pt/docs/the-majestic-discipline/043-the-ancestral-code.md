@@ -114,7 +114,7 @@ Muitas vezes imaginamos que tudo o que é importante começa com uma decisão co
 
 **herança ancestral · código genético · memória entre gerações · resiliência interior · orientação biológica · raízes**
 
-### Estado Interior
+## Estado Interior
 
 Existe uma força particular em compreender que não chegámos aqui vindos do nada. Por baixo do ruído das circunstâncias imediatas, algo mais antigo pode oferecer-nos continuidade e enraizamento. A consciência das nossas raízes não elimina a necessidade de escolher; dá às nossas escolhas um contexto mais profundo. Tornamo-nos mais serenos quando compreendemos que o nosso primeiro passo nunca é verdadeiramente o início.
 

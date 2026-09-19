@@ -119,7 +119,7 @@ An unchanged vector does not mean refusing to adapt; it means knowing what must 
 
 The inner state behind an inevitable return is remarkably quiet. There is no frantic effort to control every variable, because the essential direction has already been decided. Discipline becomes the ability to maintain that orientation while remaining sensitive enough to respond to the field around you. Action then becomes lighter: not passive, not rigid, but exact.
 
-When the center is stable, the journey stops being a search for certainty and becomes an expression of alignment. The next step of the strategy is therefore not to strengthen the destination, but to trust the field enough to recognize how it is guiding you toward it.
+*When the center is stable, the journey stops being a search for certainty and becomes an expression of alignment. The next step of the strategy is therefore not to strengthen the destination, but to trust the field enough to recognize how it is guiding you toward it.*
 
 **Keep the vector. Let the world reveal the path.**
 

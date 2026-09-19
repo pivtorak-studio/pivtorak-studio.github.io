@@ -119,7 +119,7 @@ Um vetor inalterado não significa recusar a adaptação; significa saber o que 
 
 O estado interior por trás de um regresso inevitável é extraordinariamente silencioso. Não existe uma necessidade frenética de controlar todas as variáveis, porque a direção essencial já foi decidida. A disciplina torna-se a capacidade de manter essa orientação, permanecendo suficientemente sensível para responder ao campo à nossa volta. A ação torna-se então mais leve: não passiva, não rígida, mas precisa.
 
-Quando o centro permanece estável, a viagem deixa de ser uma procura de certeza e passa a ser uma expressão de alinhamento. O próximo passo da estratégia não é, portanto, fortalecer o destino, mas confiar suficientemente no campo para reconhecer como ele nos conduz até ele.
+*Quando o centro permanece estável, a viagem deixa de ser uma procura de certeza e passa a ser uma expressão de alinhamento. O próximo passo da estratégia não é, portanto, fortalecer o destino, mas confiar suficientemente no campo para reconhecer como ele nos conduz até ele.*
 
 **Mantém o vetor. Deixa o mundo revelar o caminho.**
 

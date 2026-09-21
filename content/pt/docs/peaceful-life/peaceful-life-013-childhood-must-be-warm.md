@@ -48,7 +48,7 @@ seo: true
 distribution: true
 search: indexed
 ---
-PeacefulLife<script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",

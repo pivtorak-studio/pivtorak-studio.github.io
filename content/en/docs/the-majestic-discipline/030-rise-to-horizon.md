@@ -38,6 +38,7 @@ system_level: Evolutionary
 navigation_mode: Sequential
 guiding_question: Where will your renewed strength carry you once you choose to fly?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

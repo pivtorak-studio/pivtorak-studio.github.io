@@ -84,6 +84,7 @@ success_indicator:
   - Os Indivíduos Podem Regressar a Casa
 symbol: Núcleo Humano
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

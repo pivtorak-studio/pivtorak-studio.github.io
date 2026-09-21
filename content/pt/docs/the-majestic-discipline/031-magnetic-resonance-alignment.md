@@ -64,6 +64,7 @@ system_level: Individual
 navigation_mode: Ressonância Magnética
 guiding_question: Consegues confiar na direção que já existe dentro de ti?
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

@@ -41,6 +41,7 @@ system_position: обсерваторія
 framework_type: атлас
 entry_point: спостереження
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

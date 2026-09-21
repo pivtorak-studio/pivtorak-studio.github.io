@@ -70,6 +70,7 @@ system_level: Трансформаційний
 navigation_mode: Послідовний
 guiding_question: Від чого потрібно свідомо відмовитися сьогодні, щоб завтра народилося сильніше майбутнє?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

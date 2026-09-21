@@ -88,6 +88,7 @@ project: IranPersiaCivilizationalTransition
 project_stage: VII. RevivalOfIdentity
 navigation_order: 07-03
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

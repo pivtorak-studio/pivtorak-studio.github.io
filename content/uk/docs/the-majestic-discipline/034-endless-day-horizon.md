@@ -68,6 +68,7 @@ system_level: планетарний
 navigation_mode: небесний
 guiding_question: Що я бачу за горизонтом?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

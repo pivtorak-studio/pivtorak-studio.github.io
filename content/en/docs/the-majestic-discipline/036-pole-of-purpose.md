@@ -68,6 +68,7 @@ system_level: planetary
 navigation_mode: polar
 guiding_question: Where do all my paths converge?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

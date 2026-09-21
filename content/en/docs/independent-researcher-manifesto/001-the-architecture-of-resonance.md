@@ -51,6 +51,7 @@ validation_question: "Does this artifact increase its value through context, int
 success_indicator: "Creation of autonomous meaning systems capable of generating value across generations"
 symbol: "tetrahedron within cube"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

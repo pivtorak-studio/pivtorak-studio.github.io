@@ -38,6 +38,7 @@ system_level: Transformational
 navigation_mode: Sequential
 guiding_question: What must be consciously released for a stronger future to emerge?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

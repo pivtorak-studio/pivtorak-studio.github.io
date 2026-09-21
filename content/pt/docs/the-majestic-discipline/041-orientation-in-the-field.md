@@ -38,6 +38,7 @@ system_level: Orientação Ambiental
 navigation_mode: Magnetorreceção
 guiding_question: "Que sinais invisíveis estão a moldar o campo através do qual me movo?"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

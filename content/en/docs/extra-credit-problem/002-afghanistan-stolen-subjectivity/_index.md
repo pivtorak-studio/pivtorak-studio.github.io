@@ -47,6 +47,7 @@ system_role: "Analysis of dehumanization mechanisms and the reconstruction of hu
 entry_point: "The collapse of patriarchal responsibility and the transformation of children into survival resources."
 navigation_order: 002
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

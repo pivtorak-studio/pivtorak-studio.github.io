@@ -54,6 +54,7 @@ system_position: "кореневий вузол"
 framework_type: "еволюційна серія маніфестів"
 entry_point: "дослідницька ідентичність"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

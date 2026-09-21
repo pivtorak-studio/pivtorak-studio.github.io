@@ -51,6 +51,7 @@ validation_question: "Чи здатна структура існувати бе
 success_indicator: "Інші добровільно входять у систему та починають діяти в її межах"
 symbol: "тетраедр, що породжує креслення"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

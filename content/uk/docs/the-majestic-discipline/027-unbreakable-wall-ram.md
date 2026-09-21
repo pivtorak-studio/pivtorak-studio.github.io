@@ -67,6 +67,7 @@ system_level: Цивілізаційний
 navigation_mode: Послідовний
 guiding_question: Коли справжня сила покликана стати одночасно стіною захисту та силою прориву?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

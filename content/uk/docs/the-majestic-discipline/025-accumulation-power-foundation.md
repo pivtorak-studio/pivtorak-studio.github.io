@@ -67,6 +67,7 @@ system_level: Цивілізаційний
 navigation_mode: Послідовний
 guiding_question: Яка сила формується задовго до того, як стає видимою?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

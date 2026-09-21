@@ -69,6 +69,7 @@ system_level: Sistema Interno de Coordenadas
 navigation_mode: Integração do Percurso
 guiding_question: Consigo manter a orientação perfeita quando todas as referências exteriores desaparecem?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

@@ -67,6 +67,7 @@ system_level: Civilizacional
 navigation_mode: Sequencial
 guiding_question: Que tipo de força se constrói muito antes de se tornar visível?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

@@ -83,6 +83,7 @@ atlas_node: 0
 ontology_class: ResearchAtlas
 bookCollapseSection: true
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

@@ -40,6 +40,7 @@ guiding_question: Что становится возможным, когда в�
 return_point: Киев, Украина
 return_coordinates: [50.4501, 30.5234]
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

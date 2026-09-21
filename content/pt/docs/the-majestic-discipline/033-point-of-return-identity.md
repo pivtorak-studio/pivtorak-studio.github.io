@@ -64,6 +64,7 @@ system_level: Individual
 navigation_mode: Navegação de Retorno
 guiding_question: Quando finalmente chegares, reconhecerás que regressaste à tua verdadeira natureza?
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

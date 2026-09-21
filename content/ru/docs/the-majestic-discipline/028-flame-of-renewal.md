@@ -70,6 +70,7 @@ system_level: Трансформационный
 navigation_mode: Последовательный
 guiding_question: От чего необходимо осознанно отказаться, чтобы появилось более сильное будущее?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -67,6 +67,7 @@ system_level: Autonomous Navigation System
 navigation_mode: Direct Return
 guiding_question: Can I trust my own integrated understanding enough to walk the shortest path home?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

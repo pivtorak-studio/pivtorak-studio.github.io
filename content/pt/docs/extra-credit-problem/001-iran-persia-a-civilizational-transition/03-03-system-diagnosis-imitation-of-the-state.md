@@ -89,6 +89,7 @@ project: IranPersiaCivilizationalTransition
 project_stage: III. SystemDiagnosis
 navigation_order: 03-03
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -64,6 +64,7 @@ system_level: Individual
 navigation_mode: Navegação Transoceânica
 guiding_question: Consegues manter-te fiel à tua direção quando o destino ainda é invisível?
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

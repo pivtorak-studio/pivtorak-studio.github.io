@@ -81,6 +81,7 @@ success_indicator:
   - Інші Можуть Продовжити Розвиток
 symbol: Відкритий Вектор
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

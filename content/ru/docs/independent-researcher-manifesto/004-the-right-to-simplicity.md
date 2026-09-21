@@ -41,6 +41,7 @@ validation_question: "Защищает ли эта система простую
 success_indicator: [Люди Могут Безопасно Возвращаться Домой, Дети Остаются Детьми, Повседневная Жизнь Становится Возможной]
 symbol: Защищённое Ядро
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -51,6 +51,7 @@ validation_question: "Создаёт ли эта среда понимание, 
 success_indicator: "Творческая конструкция изменяет восприятие, поведение или концептуальные модели"
 symbol: "Дракон Баланса (Эсме)"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

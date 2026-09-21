@@ -72,6 +72,7 @@ validation_question: O ambiente criado produz compreensão que não poderia emer
 success_indicator: O construto criativo altera a perceção, o comportamento ou os modelos conceptuais
 symbol: Dragão do Equilíbrio (Esmée)
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

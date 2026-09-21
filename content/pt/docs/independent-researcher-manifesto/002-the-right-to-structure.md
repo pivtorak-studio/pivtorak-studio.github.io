@@ -72,6 +72,7 @@ validation_question: A estrutura consegue sustentar-se sem permissão externa ou
 success_indicator: Outros entram voluntariamente e operam dentro do sistema concebido
 symbol: tetraedro a gerar plantas arquitetónicas
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

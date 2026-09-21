@@ -67,6 +67,7 @@ system_level: Динамическая Система Координат
 navigation_mode: Непрерывное Интегрирование Пути
 guiding_question: Может ли каждый кажущийся хаотичным шаг стать частью идеально согласованного направления?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

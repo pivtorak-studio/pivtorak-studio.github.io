@@ -68,6 +68,7 @@ system_level: планетарний
 navigation_mode: меридіан
 guiding_question: Як я утримую свій курс?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

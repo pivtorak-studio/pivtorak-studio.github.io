@@ -26,6 +26,7 @@ related:
   - path-a-state-visualization-system-a-map-of-movement
 weight: 101
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

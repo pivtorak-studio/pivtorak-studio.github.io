@@ -38,6 +38,7 @@ system_level: Ориентация в Среде
 navigation_mode: Магниторецепция
 guiding_question: "Какие невидимые сигналы формируют поле, через которое я движусь?"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

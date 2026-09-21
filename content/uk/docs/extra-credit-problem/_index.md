@@ -43,6 +43,7 @@ system_position: мета-серія
 framework_type: карта-трансформації
 entry_point: трагедія
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

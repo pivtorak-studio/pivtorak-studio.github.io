@@ -64,6 +64,7 @@ system_level: Личность
 navigation_mode: Магнитный Резонанс
 guiding_question: Способен ли ты доверять направлению, которое уже живёт внутри тебя?
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

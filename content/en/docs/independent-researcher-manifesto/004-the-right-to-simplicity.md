@@ -41,6 +41,7 @@ validation_question: "Does this system protect simple human life?"
 success_indicator: [People Can Return Home Safely, Children Remain Children, Everyday Life Becomes Possible]
 symbol: Protected Core
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

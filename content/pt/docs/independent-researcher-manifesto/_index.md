@@ -68,6 +68,7 @@ system_position: nó raiz
 framework_type: série evolutiva de manifestos
 entry_point: identidade de investigação
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

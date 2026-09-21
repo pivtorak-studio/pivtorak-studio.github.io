@@ -56,6 +56,7 @@ seo: true
 distribution: true
 search: indexed
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

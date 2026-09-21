@@ -41,6 +41,7 @@ validation_question: "Улучшает ли эта система реальну
 success_indicator: [Люди Живут Безопасно, Семьи Остаются Вместе, Творчество Процветает, Люди Могут Возвращаться Домой]
 symbol: Человеческое Ядро
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

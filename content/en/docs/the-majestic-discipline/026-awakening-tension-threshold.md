@@ -38,6 +38,7 @@ system_level: Civilizational
 navigation_mode: Sequential
 guiding_question: "How does quiet strength become visible without losing its discipline?"
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

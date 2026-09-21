@@ -82,6 +82,7 @@ project_stage: I. Tragedy
 navigation_order: 1
 timeline: /timeline/
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

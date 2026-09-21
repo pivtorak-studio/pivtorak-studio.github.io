@@ -38,6 +38,7 @@ system_level: Індивід усередині роду
 navigation_mode: sequential
 guiding_question: Що я несу в собі, що почалося ще до того, як я навчився обирати?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

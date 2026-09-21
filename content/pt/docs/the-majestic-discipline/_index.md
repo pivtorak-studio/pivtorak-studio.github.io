@@ -72,6 +72,7 @@ system_position: observatório
 framework_type: atlas
 entry_point: observação
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

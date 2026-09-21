@@ -67,6 +67,7 @@ system_level: Sistema Autónomo de Navegação
 navigation_mode: Regresso Direto
 guiding_question: Consigo confiar plenamente no meu conhecimento integrado para seguir diretamente para casa?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

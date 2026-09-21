@@ -68,6 +68,7 @@ system_level: planetário
 navigation_mode: celeste
 guiding_question: O que vejo para além do horizonte?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

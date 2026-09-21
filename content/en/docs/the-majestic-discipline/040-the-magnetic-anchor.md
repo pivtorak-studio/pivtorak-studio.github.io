@@ -38,6 +38,7 @@ system_level: Inner Orientation
 navigation_mode: Magnetic Anchor
 guiding_question: "What is the point from which I measure my direction?"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

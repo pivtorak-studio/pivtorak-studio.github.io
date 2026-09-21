@@ -82,6 +82,7 @@ success_indicator:
   - A Vida Quotidiana Torna-se Possível
 symbol: Núcleo Protegido
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

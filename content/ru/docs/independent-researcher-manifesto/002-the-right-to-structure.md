@@ -51,6 +51,7 @@ validation_question: "Способна ли структура существо�
 success_indicator: "Другие добровольно входят в систему и начинают действовать внутри неё"
 symbol: "тетраэдр, создающий чертежи"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

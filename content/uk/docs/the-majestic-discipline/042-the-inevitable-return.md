@@ -40,6 +40,7 @@ guiding_question: Що стає можливим, коли вектор зали
 return_point: Київ, Україна
 return_coordinates: [50.4501, 30.5234]
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

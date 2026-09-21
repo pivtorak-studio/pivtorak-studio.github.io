@@ -72,6 +72,7 @@ validation_question: Este artefacto aumenta o seu valor através do contexto, da
 success_indicator: Criação de sistemas autónomos de significado capazes de gerar valor ao longo de gerações
 symbol: tetraedro dentro de cubo
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

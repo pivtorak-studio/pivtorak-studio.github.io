@@ -40,6 +40,7 @@ guiding_question: What becomes possible when the vector remains unchanged?
 return_point: Kyiv, Ukraine
 return_coordinates: [50.4501, 30.5234]
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

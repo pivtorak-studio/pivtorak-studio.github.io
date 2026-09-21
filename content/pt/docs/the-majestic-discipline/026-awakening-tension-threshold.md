@@ -67,6 +67,7 @@ system_level: Civilizacional
 navigation_mode: Sequencial
 guiding_question: Como pode uma força silenciosa tornar-se visível sem perder a sua disciplina?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

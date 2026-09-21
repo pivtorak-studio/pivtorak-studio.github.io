@@ -87,6 +87,7 @@ project: IranPersiaCivilizationalTransition
 project_stage: V. ProtestEnvironment
 navigation_order: 05-01
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

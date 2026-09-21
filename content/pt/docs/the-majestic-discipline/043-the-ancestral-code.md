@@ -38,6 +38,7 @@ system_level: Indivíduo dentro da linhagem
 navigation_mode: sequential
 guiding_question: O que transporto dentro de mim que começou antes de eu saber escolher?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

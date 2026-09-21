@@ -67,6 +67,7 @@ system_level: Civilizational
 navigation_mode: Sequential
 guiding_question: What kind of strength is built long before it becomes visible?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

@@ -70,6 +70,7 @@ system_level: Evolutivo
 navigation_mode: Sequencial
 guiding_question: Para onde a tua força renovada te levará quando escolheres voar?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

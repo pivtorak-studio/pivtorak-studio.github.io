@@ -64,6 +64,7 @@ system_level: Личность
 navigation_mode: Навигация Возвращения
 guiding_question: Когда ты наконец достигнешь цели, узнаешь ли ты в ней свою подлинную природу?
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

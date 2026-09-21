@@ -67,6 +67,7 @@ system_level: Автономная Система Навигации
 navigation_mode: Прямое Возвращение
 guiding_question: Достаточно ли я доверяю собственному интегрированному знанию, чтобы выбрать самый короткий путь домой?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

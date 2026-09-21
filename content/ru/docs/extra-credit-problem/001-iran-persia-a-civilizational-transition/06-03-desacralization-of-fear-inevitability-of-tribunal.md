@@ -81,6 +81,7 @@ project: IranPersiaCivilizationalTransition
 project_stage: VI. DesacralizationOfFear
 navigation_order: 06-03
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

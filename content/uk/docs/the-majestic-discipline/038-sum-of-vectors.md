@@ -67,6 +67,7 @@ system_level: Динамічна Система Координат
 navigation_mode: Безперервне Інтегрування Шляху
 guiding_question: Чи може кожен, навіть хаотичний на вигляд крок, стати частиною ідеально узгодженого напрямку?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

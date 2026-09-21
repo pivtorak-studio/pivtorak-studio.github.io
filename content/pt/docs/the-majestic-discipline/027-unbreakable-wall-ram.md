@@ -67,6 +67,7 @@ system_level: Civilizacional
 navigation_mode: Sequencial
 guiding_question: Quando é que a verdadeira força é chamada a tornar-se simultaneamente uma muralha de proteção e uma força de avanço?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

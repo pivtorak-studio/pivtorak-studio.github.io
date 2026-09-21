@@ -70,6 +70,7 @@ system_level: Transformacional
 navigation_mode: Sequencial
 guiding_question: O que deve ser conscientemente deixado para trás para que um futuro mais forte possa nascer?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -38,6 +38,7 @@ system_level: Внутренняя Ориентация
 navigation_mode: Магнитная Точка Отсчёта
 guiding_question: "Относительно какой точки я измеряю своё направление?"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

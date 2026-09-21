@@ -67,6 +67,7 @@ system_level: Sistema Dinâmico de Coordenadas
 navigation_mode: Integração Contínua do Percurso
 guiding_question: Será que cada passo aparentemente caótico pode tornar-se parte de uma direção perfeitamente coerente?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

@@ -38,6 +38,7 @@ system_level: Individual
 navigation_mode: Magnetic Resonance
 guiding_question: "Can you trust the direction that already lives within you?"
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

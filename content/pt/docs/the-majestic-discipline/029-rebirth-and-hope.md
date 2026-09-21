@@ -70,6 +70,7 @@ system_level: Regenerativo
 navigation_mode: Sequencial
 guiding_question: Que novo começo silencioso merece hoje o teu cuidado para se tornar a força de amanhã?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

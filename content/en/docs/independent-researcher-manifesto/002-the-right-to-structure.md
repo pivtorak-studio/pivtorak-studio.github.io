@@ -51,6 +51,7 @@ validation_question: "Can the structure sustain itself without external permissi
 success_indicator: "Others voluntarily enter and operate within the designed system"
 symbol: "tetrahedron generating blueprints"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

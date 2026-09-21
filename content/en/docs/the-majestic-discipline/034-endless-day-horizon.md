@@ -68,6 +68,7 @@ system_level: planetary
 navigation_mode: celestial
 guiding_question: What do I see beyond the horizon?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

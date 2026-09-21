@@ -38,6 +38,7 @@ system_level: Environmental Orientation
 navigation_mode: Magnetoreception
 guiding_question: "What invisible signals are shaping the field through which I move?"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

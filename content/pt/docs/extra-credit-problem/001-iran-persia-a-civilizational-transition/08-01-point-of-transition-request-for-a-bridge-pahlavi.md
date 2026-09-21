@@ -92,6 +92,7 @@ project: IranPersiaCivilizationalTransition
 project_stage: VIII. PointOfTransition
 navigation_order: 08-01
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

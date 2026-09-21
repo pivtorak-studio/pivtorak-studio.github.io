@@ -47,6 +47,7 @@ system_role: "Анализ механизмов дегуманизации и в
 entry_point: "Коллапс патриархальной ответственности и превращение детей в ресурсы выживания."
 navigation_order: 002
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

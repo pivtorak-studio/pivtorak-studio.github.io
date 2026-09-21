@@ -54,6 +54,7 @@ system_position: "корневой узел"
 framework_type: "эволюционная серия манифестов"
 entry_point: "исследовательская идентичность"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

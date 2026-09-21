@@ -36,6 +36,7 @@ verification_model: "Source → Generated Build → Live"
 research_status: confirmed
 technical_status: verified
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

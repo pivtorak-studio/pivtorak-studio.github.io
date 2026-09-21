@@ -38,6 +38,7 @@ system_level: Individual
 navigation_mode: Transoceanic Navigation
 guiding_question: "Can you remain faithful to your direction when the destination is still invisible?"
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

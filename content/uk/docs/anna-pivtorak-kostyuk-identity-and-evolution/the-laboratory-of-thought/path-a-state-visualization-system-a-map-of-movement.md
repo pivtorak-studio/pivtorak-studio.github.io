@@ -24,6 +24,7 @@ related:
   - freedom-and-meta-control
 weight: "102"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

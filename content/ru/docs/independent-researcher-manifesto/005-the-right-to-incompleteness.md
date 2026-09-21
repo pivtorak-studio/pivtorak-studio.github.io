@@ -42,6 +42,7 @@ validation_question: "Остаётся ли эта система открыто
 success_indicator: [Появляются Новые Идеи, Структуры Эволюционируют, Другие Могут Продолжить Работу]  
 symbol: Открытый Вектор
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

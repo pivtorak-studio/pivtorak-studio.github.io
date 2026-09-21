@@ -38,6 +38,7 @@ system_level: Individual
 navigation_mode: Return Navigation
 guiding_question: "When you finally arrive, will you recognize that you have returned to your true nature?"
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

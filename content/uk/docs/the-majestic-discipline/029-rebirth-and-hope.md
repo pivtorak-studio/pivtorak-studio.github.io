@@ -70,6 +70,7 @@ system_level: Регенеративний
 navigation_mode: Послідовний
 guiding_question: Який тихий початок сьогодні заслуговує на вашу турботу, щоб завтра стати новою силою?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

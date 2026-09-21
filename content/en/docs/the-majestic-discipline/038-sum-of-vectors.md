@@ -67,6 +67,7 @@ system_level: Dynamic Coordinate System
 navigation_mode: Continuous Path Integration
 guiding_question: Can every seemingly chaotic step become part of a perfectly coherent direction?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

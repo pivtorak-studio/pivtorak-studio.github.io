@@ -71,6 +71,7 @@ system_position: meta-series
 framework_type: transformation-map
 entry_point: tragedy
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

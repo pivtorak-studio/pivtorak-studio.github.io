@@ -38,6 +38,7 @@ system_level: Orientação Interior
 navigation_mode: Âncora Magnética
 guiding_question: "A partir de que ponto meço a minha direção?"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

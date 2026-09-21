@@ -68,6 +68,7 @@ system_level: planetário
 navigation_mode: meridiano
 guiding_question: Como mantenho o meu rumo?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

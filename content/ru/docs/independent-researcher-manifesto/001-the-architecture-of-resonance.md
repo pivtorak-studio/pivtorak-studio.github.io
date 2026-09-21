@@ -51,6 +51,7 @@ validation_question: "Увеличивает ли этот артефакт св
 success_indicator: "Создание автономных систем смыслов, способных генерировать ценность через поколения"
 symbol: "тетраэдр внутри куба"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

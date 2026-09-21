@@ -67,6 +67,7 @@ system_level: Цивілізаційний
 navigation_mode: Послідовний
 guiding_question: Як тиха сила стає видимою, не втрачаючи своєї дисципліни?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

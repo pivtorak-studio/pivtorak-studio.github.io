@@ -69,6 +69,7 @@ system_level: Внутрішня Система Координат
 navigation_mode: Інтегрування Шляху
 guiding_question: Чи зможу я зберегти точну орієнтацію, коли зникнуть усі зовнішні орієнтири?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

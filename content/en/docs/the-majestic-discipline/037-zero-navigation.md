@@ -69,6 +69,7 @@ system_level: Internal Coordinate System
 navigation_mode: Path Integration
 guiding_question: Can I remain perfectly oriented even when every external reference disappears?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

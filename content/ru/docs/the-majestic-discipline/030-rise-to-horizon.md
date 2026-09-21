@@ -70,6 +70,7 @@ system_level: Эволюционный
 navigation_mode: Последовательный
 guiding_question: Куда приведёт вас обновлённая сила, если вы решитесь взлететь?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

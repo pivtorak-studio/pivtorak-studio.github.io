@@ -38,6 +38,7 @@ system_level: Regenerative
 navigation_mode: Sequential
 guiding_question: What quiet beginning deserves your care today so it can become tomorrow's strength?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

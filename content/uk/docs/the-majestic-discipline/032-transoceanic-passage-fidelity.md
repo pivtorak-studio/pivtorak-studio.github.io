@@ -64,6 +64,7 @@ system_level: Особистість
 navigation_mode: Трансокеанічна Навігація
 guiding_question: Чи можеш ти зберігати вірність своєму напрямку, коли ціль ще невидима?
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

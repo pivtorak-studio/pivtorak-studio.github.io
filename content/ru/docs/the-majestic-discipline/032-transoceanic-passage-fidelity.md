@@ -64,6 +64,7 @@ system_level: Личность
 navigation_mode: Трансокеаническая Навигация
 guiding_question: Способен ли ты сохранить верность своему направлению, когда цель ещё не видна?
 ---
+
 <script type="application/ld+json">  
 {  
 "@context": "https://schema.org",  

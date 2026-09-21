@@ -38,6 +38,7 @@ system_level: Рід і його новий центр
 navigation_mode: sequential
 guiding_question: Що я можу зібрати з минулого, щоб стати основою для того, що буде далі?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

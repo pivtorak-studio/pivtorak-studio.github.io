@@ -57,6 +57,7 @@ system_level: Individual within the lineage
 navigation_mode: sequential
 guiding_question: What do I carry within me that began before I knew how to choose?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

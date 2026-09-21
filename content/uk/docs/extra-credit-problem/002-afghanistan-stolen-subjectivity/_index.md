@@ -105,6 +105,7 @@ system_role: Аналіз механізмів дегуманізації та �
 entry_point: Колапс патріархальної відповідальності та перетворення дітей на ресурси виживання.
 navigation_order: 2
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

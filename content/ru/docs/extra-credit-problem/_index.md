@@ -71,6 +71,7 @@ system_position: мета-серия
 framework_type: карта-трансформации
 entry_point: трагедия
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

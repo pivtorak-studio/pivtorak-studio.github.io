@@ -38,6 +38,7 @@ system_level: Linhagem e o seu centro emergente
 navigation_mode: sequential
 guiding_question: O que posso reunir do passado para me tornar uma base para aquilo que vem a seguir?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

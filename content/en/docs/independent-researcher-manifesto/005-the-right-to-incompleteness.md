@@ -81,6 +81,7 @@ success_indicator:
   - Others Can Build Upon It
 symbol: Open Vector
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

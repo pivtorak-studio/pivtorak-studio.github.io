@@ -68,6 +68,7 @@ system_level: planetary
 navigation_mode: meridian
 guiding_question: How do I maintain my course?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

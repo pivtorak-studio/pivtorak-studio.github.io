@@ -38,6 +38,7 @@ system_level: Род и формирующийся центр
 navigation_mode: sequential
 guiding_question: Что я могу собрать из прошлого, чтобы стать основой для того, что последует дальше?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

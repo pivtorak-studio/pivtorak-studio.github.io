@@ -51,6 +51,7 @@ validation_question: "Does the created environment produce understanding that ca
 success_indicator: "The creative construct changes perception, behavior, or conceptual frameworks"
 symbol: "Dragon of Balance (Esmée)"
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

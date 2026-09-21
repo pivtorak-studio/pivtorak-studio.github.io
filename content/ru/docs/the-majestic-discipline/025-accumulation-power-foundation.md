@@ -67,6 +67,7 @@ system_level: Цивилизационный
 navigation_mode: Последовательный
 guiding_question: Какая сила создаётся задолго до того, как становится заметной?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

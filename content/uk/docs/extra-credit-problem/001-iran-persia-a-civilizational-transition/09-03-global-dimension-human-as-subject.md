@@ -90,6 +90,7 @@ project: IranPersiaCivilizationalTransition
 project_stage: IX. Persia2.0GlobalDimension
 navigation_order: 09-03
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

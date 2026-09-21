@@ -81,6 +81,7 @@ success_indicator:
   - Outros Podem Construir Sobre Elas
 symbol: Vetor Aberto
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

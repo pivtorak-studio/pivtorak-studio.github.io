@@ -69,6 +69,7 @@ system_level: Внутренняя система координат
 navigation_mode: Интегрирование пути
 guiding_question: Смогу ли я сохранить точную ориентацию, если исчезнут все внешние ориентиры?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

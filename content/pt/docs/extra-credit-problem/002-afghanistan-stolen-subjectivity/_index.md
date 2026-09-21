@@ -47,6 +47,7 @@ system_role: "Análise dos mecanismos de desumanização e reconstrução da sub
 entry_point: "O colapso da responsabilidade patriarcal e a transformação das crianças em recursos de sobrevivência."
 navigation_order: 002
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

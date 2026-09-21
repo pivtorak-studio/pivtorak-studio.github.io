@@ -38,6 +38,7 @@ system_level: Generation within the lineage
 navigation_mode: sequential
 guiding_question: What can I carry forward so that the movement continues beyond me?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

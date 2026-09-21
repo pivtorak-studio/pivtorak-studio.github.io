@@ -38,6 +38,7 @@ system_level: Покоління всередині роду
 navigation_mode: sequential
 guiding_question: Що я можу понести далі, щоб рух продовжився за межами мене?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

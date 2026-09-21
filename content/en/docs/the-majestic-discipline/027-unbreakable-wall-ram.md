@@ -38,6 +38,7 @@ system_level: Civilizational
 navigation_mode: Sequential
 guiding_question: "When is true strength called to become both a wall of protection and a force of breakthrough?"
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

@@ -80,6 +80,7 @@ navigation_order: 02-02
 timeline: /timeline/
 research_origin: Portugal
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

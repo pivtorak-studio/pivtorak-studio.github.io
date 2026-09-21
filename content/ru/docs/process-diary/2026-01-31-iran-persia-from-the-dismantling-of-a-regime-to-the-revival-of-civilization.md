@@ -65,6 +65,7 @@ next_vector:
   - CivilizationalResearch
 weight: 20260131
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -38,6 +38,7 @@ system_level: Lineage and its emerging centre
 navigation_mode: sequential
 guiding_question: What can I gather from the past to become a foundation for what comes next?
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

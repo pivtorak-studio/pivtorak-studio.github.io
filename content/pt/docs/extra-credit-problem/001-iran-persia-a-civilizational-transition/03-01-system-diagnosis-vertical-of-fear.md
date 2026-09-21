@@ -91,6 +91,7 @@ project_stage: III. SystemDiagnosis
 navigation_order: 03-01
 research_origin: Portugal
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

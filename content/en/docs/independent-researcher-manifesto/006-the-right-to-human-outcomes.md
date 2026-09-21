@@ -41,6 +41,7 @@ validation_question: "Does this system improve real human life?"
 success_indicator: [People Live Safely, Families Remain Connected, Creativity Flourishes, Individuals Can Return Home]
 symbol: Human Core
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

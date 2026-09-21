@@ -67,6 +67,7 @@ system_level: Цивилизационный
 navigation_mode: Последовательный
 guiding_question: Когда истинная сила должна стать одновременно стеной защиты и силой прорыва?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

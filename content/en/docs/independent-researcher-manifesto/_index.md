@@ -68,6 +68,7 @@ system_position: root node
 framework_type: evolving manifesto series
 entry_point: research identity
 ---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

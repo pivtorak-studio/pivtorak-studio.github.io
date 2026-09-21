@@ -68,6 +68,7 @@ system_level: планетарний
 navigation_mode: полярний
 guiding_question: Де сходяться всі мої шляхи?
 ---
+
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

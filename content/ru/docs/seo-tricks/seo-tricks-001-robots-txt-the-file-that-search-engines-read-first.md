@@ -165,20 +165,20 @@ _Прежде чем поисковая система начнёт исслед
 
 Сначала мы проверили конфигурацию Hugo на наличие параметра, отвечающего за генерацию этого файла:
 
-```
+```text
 enableRobotsTXT = true
 ```
 
 Затем мы поискали явный шаблон `robots.txt` в проекте и в теме:
 
-```
+```text
 layouts/robots.txt
 themes/hugo-book/layouts/robots.txt
 ```
 
 Также мы проверили, не существует ли уже статического файла:
 
-```
+```text
 static/robots.txt
 ```
 
@@ -188,7 +188,7 @@ static/robots.txt
 
 Наконец, вместо того чтобы сразу выполнять деплой непроверенного изменения, мы запустили локальную сборку Hugo и проверили созданный результат:
 
-```
+```text
 E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 ```
 
@@ -208,13 +208,13 @@ E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 
 В исходной конфигурации было:
 
-```
+```text
 enableRobotsTXT = true
 ```
 
 После сборки Hugo создал:
 
-```
+```text
 E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 ```
 
@@ -224,7 +224,7 @@ E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 
 Вместо небольшого текстового файла, например:
 
-```
+```text
 User-agent: *
 Allow: /
 
@@ -233,7 +233,7 @@ Sitemap: https://pivtorak.studio/sitemap.xml
 
 сгенерированный файл имел размер около **34 KB** и начинался так:
 
-```
+```text
 Pivtorak.Studio
 - ...
 ```
@@ -264,7 +264,7 @@ Pivtorak.Studio
 
 Поэтому на этом этапе результат проверки выглядел так:
 
-```
+```text
 Source
    ↓
 enableRobotsTXT = true

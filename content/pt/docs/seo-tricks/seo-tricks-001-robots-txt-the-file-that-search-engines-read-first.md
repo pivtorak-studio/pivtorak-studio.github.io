@@ -58,7 +58,7 @@ verification_model: Source → Generated Build → Live
 research_status: confirmed
 technical_status: verified
 ---
-****
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -165,20 +165,20 @@ Em seguida, seguimos o processo de construção do site e a forma como o Hugo po
 
 Primeiro, verificámos a configuração do Hugo à procura da definição responsável pela geração do ficheiro:
 
-```
+```text
 enableRobotsTXT = true
 ```
 
 Depois, procurámos um template `robots.txt` explícito no projeto e no tema:
 
-```
+```text
 layouts/robots.txt
 themes/hugo-book/layouts/robots.txt
 ```
 
 Verificámos também se já existia um ficheiro estático:
 
-```
+```text
 static/robots.txt
 ```
 
@@ -188,7 +188,7 @@ Em seguida, analisámos os templates de texto do tema Hugo e os formatos de outp
 
 Por fim, em vez de fazer imediatamente o deploy de uma alteração ainda não verificada, executámos uma build local do Hugo e inspecionámos o resultado gerado:
 
-```
+```text
 E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 ```
 
@@ -208,13 +208,13 @@ Por isso, parámos antes de fazer commit ou deploy.
 
 Na configuração de origem tínhamos:
 
-```
+```text
 enableRobotsTXT = true
 ```
 
 Depois da build, o Hugo criou:
 
-```
+```text
 E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 ```
 
@@ -224,7 +224,7 @@ Mas, quando abrimos o ficheiro gerado, encontrámos algo muito diferente do que 
 
 Em vez de um pequeno ficheiro de texto como:
 
-```
+```text
 User-agent: *
 Allow: /
 
@@ -233,7 +233,7 @@ Sitemap: https://pivtorak.studio/sitemap.xml
 
 o ficheiro gerado tinha aproximadamente **34 KB** e começava assim:
 
-```
+```text
 Pivtorak.Studio
 - ...
 ```
@@ -264,7 +264,7 @@ A build tinha criado corretamente um ficheiro no caminho esperado, mas **o conte
 
 Assim, o resultado da verificação nesta fase era:
 
-```
+```text
 Source
    ↓
 enableRobotsTXT = true

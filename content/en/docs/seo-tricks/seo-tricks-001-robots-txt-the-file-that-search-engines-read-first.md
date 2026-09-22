@@ -165,20 +165,20 @@ We then traced how the site was built and how Hugo could generate `robots.txt`.
 
 First, we checked the Hugo configuration for the setting responsible for generating the file:
 
-```
+```text
 enableRobotsTXT = true
 ```
 
 Next, we looked for an explicit `robots.txt` template in the project and in the theme:
 
-```
+```text
 layouts/robots.txt
 themes/hugo-book/layouts/robots.txt
 ```
 
 We also checked whether a static file already existed:
 
-```
+```text
 static/robots.txt
 ```
 
@@ -188,7 +188,7 @@ We then examined the Hugo theme's text templates and the available output format
 
 Finally, instead of deploying an unverified change, we ran a local Hugo build and inspected the generated output:
 
-```
+```text
 E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 ```
 
@@ -208,13 +208,13 @@ We therefore stopped before committing or deploying anything.
 
 The source configuration contained:
 
-```
+```text
 enableRobotsTXT = true
 ```
 
 After the build, Hugo created:
 
-```
+```text
 E:\GitHubProjects\pivtorak.studio.github.io\public\robots.txt
 ```
 
@@ -224,7 +224,7 @@ But opening the generated file revealed something very different from the expect
 
 Instead of a small plain-text file such as:
 
-```
+```text
 User-agent: *
 Allow: /
 
@@ -233,7 +233,7 @@ Sitemap: https://pivtorak.studio/sitemap.xml
 
 the generated file was approximately **34 KB** and began with:
 
-```
+```text
 Pivtorak.Studio
 - ...
 ```
@@ -264,7 +264,7 @@ The build had successfully produced a file at the expected path, but the **conte
 
 Therefore, the correct verification result at this stage was:
 
-```
+```text
 Source
    ↓
 enableRobotsTXT = true

@@ -2,24 +2,40 @@
 id: seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work
 language: uk
 translation_of: seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work
-title: "002 Robots.txt – Коли файл існує, але не працює"
-description: "Реальне SEO-розслідування в Hugo, яке показує, як robots.txt може існувати за правильним URL, але містити неправильний вміст через вибір шаблону."
-summary: "Файл robots.txt існував, але Hugo генерував неочікуваний вміст із універсального шаблону. Виправленням стало створення явного шаблону layouts/robots.txt і перевірка за ланцюжком Source → Build → Live."
+title: 002 Robots.txt – Коли файл існує, але не працює
+description: Реальне SEO-розслідування в Hugo, яке показує, як robots.txt може існувати за правильним URL, але містити неправильний вміст через вибір шаблону.
+summary: Файл robots.txt існував, але Hugo генерував неочікуваний вміст із універсального шаблону. Виправленням стало створення явного шаблону layouts/robots.txt і перевірка за ланцюжком Source → Build → Live.
 event_date: 2026-09-22T15:00:00
 publication_date: 2026-09-22T15:00:00
 slug: robots-txt-when-a-file-exists-but-doesnt-work
-tags: [robots.txt, Hugo, technical-SEO, template-lookup, site-verification]
-keywords: [robots.txt, Hugo robots.txt, технічне SEO, вибір шаблону Hugo, перевірка robots.txt, Source Build Live]
-categories: [seo-tricks, technical-seo]
+tags:
+  - robots.txt
+  - Hugo
+  - technical-SEO
+  - template-lookup
+  - site-verification
+keywords:
+  - robots.txt
+  - Hugo robots.txt
+  - технічне SEO
+  - вибір шаблону Hugo
+  - перевірка robots.txt
+  - Source Build Live
+categories:
+  - seo-tricks
+  - technical-seo
 series: SEOTricks
 series_index: 2
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work.webp
-alt: "Темна технічна ілюстрація, що показує розслідування robots.txt через рівні Source, Build і Live."
-related: [/uk/docs/seo-tricks/, /uk/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Темна технічна ілюстрація, що показує розслідування robots.txt через рівні Source, Build і Live.
+related:
+  - /uk/docs/seo-tricks/
+  - /uk/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/seo-tricks/robots-txt-when-a-file-exists-but-doesnt-work/
 toc: true
@@ -34,6 +50,7 @@ primary_topic: robots.txt
 verification_model: Source → Build → Live
 research_status: confirmed
 technical_status: verified
+lastmod: 2026-09-22T15:00:00
 ---
 
 <script type="application/ld+json">

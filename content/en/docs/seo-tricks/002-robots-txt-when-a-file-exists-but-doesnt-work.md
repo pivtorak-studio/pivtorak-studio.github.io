@@ -2,24 +2,40 @@
 id: seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work
 language: en
 translation_of: seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work
-title: "002 Robots.txt – When a File Exists but Doesn't Work"
-description: "A real Hugo SEO investigation showing how robots.txt can exist at the correct URL and still contain the wrong content because of template lookup."
-summary: "The robots.txt file existed, but Hugo generated unexpected content from a catch-all template. The fix was an explicit layouts/robots.txt template, verified through Source → Build → Live."
+title: 002 Robots.txt – When a File Exists but Doesn't Work
+description: A real Hugo SEO investigation showing how robots.txt can exist at the correct URL and still contain the wrong content because of template lookup.
+summary: The robots.txt file existed, but Hugo generated unexpected content from a catch-all template. The fix was an explicit layouts/robots.txt template, verified through Source → Build → Live.
 event_date: 2026-09-22T15:00:00
 publication_date: 2026-09-22T15:00:00
 slug: robots-txt-when-a-file-exists-but-doesnt-work
-tags: [robots.txt, Hugo, technical-SEO, template-lookup, site-verification]
-keywords: [robots.txt, Hugo robots.txt, technical SEO, Hugo template lookup, robots.txt troubleshooting, Source Build Live]
-categories: [seo-tricks, technical-seo]
+tags:
+  - robots.txt
+  - Hugo
+  - technical-SEO
+  - template-lookup
+  - site-verification
+keywords:
+  - robots.txt
+  - Hugo robots.txt
+  - technical SEO
+  - Hugo template lookup
+  - robots.txt troubleshooting
+  - Source Build Live
+categories:
+  - seo-tricks
+  - technical-seo
 series: SEOTricks
 series_index: 2
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work.webp
-alt: "A dark technical illustration showing a robots.txt investigation through Source, Build, and Live verification levels."
-related: [/en/docs/seo-tricks/, /en/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: A dark technical illustration showing a robots.txt investigation through Source, Build, and Live verification levels.
+related:
+  - /en/docs/seo-tricks/
+  - /en/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/seo-tricks/robots-txt-when-a-file-exists-but-doesnt-work/
 toc: true
@@ -34,6 +50,7 @@ primary_topic: robots.txt
 verification_model: Source → Build → Live
 research_status: confirmed
 technical_status: verified
+lastmod: 2026-09-22T15:00:00
 ---
 
 <script type="application/ld+json">

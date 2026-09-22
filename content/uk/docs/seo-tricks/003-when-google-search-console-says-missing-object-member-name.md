@@ -2,24 +2,39 @@
 id: seo-tricks-003-when-google-search-console-says-missing-object-member-name
 language: uk
 translation_of: seo-tricks-003-when-google-search-console-says-missing-object-member-name
-title: "003 Коли Google Search Console Повідомляє — Немає } або Імені Компонента Об’єкта"
+title: 003 Коли Google Search Console Повідомляє — Немає } або Імені Компонента Об’єкта
 description: "Реальний кейс Google Search Console: дослідження та виправлення помилки аналізу структурованих даних, спричиненої способом розміщення JSON-LD після YAML front matter у Markdown-файлах Hugo."
-summary: "Google Search Console повідомив, що структуровані дані не можна проаналізувати через відсутність } або імені компонента об’єкта. Розслідування виявило проблему в розділенні YAML front matter і JSON-LD, яка стосувалася 565 Markdown-файлів."
+summary: Google Search Console повідомив, що структуровані дані не можна проаналізувати через відсутність } або імені компонента об’єкта. Розслідування виявило проблему в розділенні YAML front matter і JSON-LD, яка стосувалася 565 Markdown-файлів.
 event_date: 2026-09-22T18:00
 publication_date: 2026-09-22T18:00
 slug: when-google-search-console-says-missing-object-member-name
-tags: [Google Search Console, структуровані дані, JSON-LD, Hugo, SEO-налагодження]
-keywords: [Google Search Console структуровані дані, немає імені компонента об’єкта, помилка аналізу JSON-LD, помилка аналізу структурованих даних, Hugo JSON-LD]
-categories: [SEO, Технічне SEO]
+tags:
+  - Google Search Console
+  - структуровані дані
+  - JSON-LD
+  - Hugo
+  - SEO-налагодження
+keywords:
+  - Google Search Console структуровані дані
+  - немає імені компонента об’єкта
+  - помилка аналізу JSON-LD
+  - помилка аналізу структурованих даних
+  - Hugo JSON-LD
+categories:
+  - SEO
+  - Технічне SEO
 series: SEOTricks
 series_index: 3
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks-003-when-google-search-console-says-missing-object-member-name.webp
-alt: "Google Search Console підтверджує, що проблему аналізу структурованих даних усунуто"
-related: [/uk/docs/seo-tricks/, /uk/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Google Search Console підтверджує, що проблему аналізу структурованих даних усунуто
+related:
+  - /uk/docs/seo-tricks/
+  - /uk/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/seo-tricks/when-google-search-console-says-missing-object-member-name/
 toc: true
@@ -28,12 +43,13 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "виправлення помилок аналізу структурованих даних у Google Search Console"
-article_type: "практичний кейс із SEO-налагодження"
-primary_topic: "аналіз структурованих даних у Google Search Console"
-verification_model: "Source → Build → Live"
+search_intent: виправлення помилок аналізу структурованих даних у Google Search Console
+article_type: практичний кейс із SEO-налагодження
+primary_topic: аналіз структурованих даних у Google Search Console
+verification_model: Source → Build → Live
 research_status: confirmed
 technical_status: verified
+lastmod: 2026-09-22T18:00:00
 ---
 
 <script type="application/ld+json">

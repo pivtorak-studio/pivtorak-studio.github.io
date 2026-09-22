@@ -2,24 +2,39 @@
 id: seo-tricks-003-when-google-search-console-says-missing-object-member-name
 language: en
 translation_of: seo-tricks-003-when-google-search-console-says-missing-object-member-name
-title: "003 When Google Search Console Says — Missing } or Object Member Name"
+title: 003 When Google Search Console Says — Missing } or Object Member Name
 description: "A real Google Search Console case: investigating and fixing a structured data parsing error caused by the way JSON-LD was placed after YAML front matter in Hugo Markdown files."
-summary: "Google Search Console reported that structured data could not be parsed because of a missing } or object member name. The investigation found the underlying issue in the separation between YAML front matter and JSON-LD, affecting 565 Markdown files."
+summary: Google Search Console reported that structured data could not be parsed because of a missing } or object member name. The investigation found the underlying issue in the separation between YAML front matter and JSON-LD, affecting 565 Markdown files.
 event_date: 2026-09-22T18:00
 publication_date: 2026-09-22T18:00
 slug: when-google-search-console-says-missing-object-member-name
-tags: [Google Search Console, structured data, JSON-LD, Hugo, SEO debugging]
-keywords: [Google Search Console structured data, missing object member name, JSON-LD parsing error, structured data parsing error, Hugo JSON-LD]
-categories: [SEO, Technical SEO]
+tags:
+  - Google Search Console
+  - structured data
+  - JSON-LD
+  - Hugo
+  - SEO debugging
+keywords:
+  - Google Search Console structured data
+  - missing object member name
+  - JSON-LD parsing error
+  - structured data parsing error
+  - Hugo JSON-LD
+categories:
+  - SEO
+  - Technical SEO
 series: SEOTricks
 series_index: 3
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks-003-when-google-search-console-says-missing-object-member-name.webp
-alt: "Google Search Console confirming that a structured data parsing issue has been resolved"
-related: [/en/docs/seo-tricks/, /en/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Google Search Console confirming that a structured data parsing issue has been resolved
+related:
+  - /en/docs/seo-tricks/
+  - /en/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/seo-tricks/when-google-search-console-says-missing-object-member-name/
 toc: true
@@ -28,12 +43,13 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "troubleshooting Google Search Console structured data parsing errors"
-article_type: "SEO troubleshooting case study"
-primary_topic: "Google Search Console structured data parsing"
-verification_model: "Source → Build → Live"
+search_intent: troubleshooting Google Search Console structured data parsing errors
+article_type: SEO troubleshooting case study
+primary_topic: Google Search Console structured data parsing
+verification_model: Source → Build → Live
 research_status: confirmed
 technical_status: verified
+lastmod: 2026-09-22T18:00:00
 ---
 
 <script type="application/ld+json">

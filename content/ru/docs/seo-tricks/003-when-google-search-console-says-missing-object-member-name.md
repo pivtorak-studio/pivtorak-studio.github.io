@@ -2,24 +2,39 @@
 id: seo-tricks-003-when-google-search-console-says-missing-object-member-name
 language: ru
 translation_of: seo-tricks-003-when-google-search-console-says-missing-object-member-name
-title: "003 Когда Google Search Console Сообщает — Отсутствует } или Имя Компонента Объекта"
+title: 003 Когда Google Search Console Сообщает — Отсутствует } или Имя Компонента Объекта
 description: "Реальный случай из Google Search Console: исследование и исправление ошибки анализа структурированных данных, вызванной способом размещения JSON-LD после YAML front matter в Markdown-файлах Hugo."
-summary: "Google Search Console сообщил о невозможности проанализировать структурированные данные из-за отсутствия } или имени компонента объекта. Расследование выявило проблему в разделении YAML front matter и JSON-LD, которая затрагивала 565 Markdown-файлов."
+summary: Google Search Console сообщил о невозможности проанализировать структурированные данные из-за отсутствия } или имени компонента объекта. Расследование выявило проблему в разделении YAML front matter и JSON-LD, которая затрагивала 565 Markdown-файлов.
 event_date: 2026-09-22T18:00
 publication_date: 2026-09-22T18:00
 slug: when-google-search-console-says-missing-object-member-name
-tags: [Google Search Console, структурированные данные, JSON-LD, Hugo, SEO-отладка]
-keywords: [Google Search Console структурированные данные, отсутствует имя компонента объекта, ошибка анализа JSON-LD, ошибка анализа структурированных данных, Hugo JSON-LD]
-categories: [SEO, Техническое SEO]
+tags:
+  - Google Search Console
+  - структурированные данные
+  - JSON-LD
+  - Hugo
+  - SEO-отладка
+keywords:
+  - Google Search Console структурированные данные
+  - отсутствует имя компонента объекта
+  - ошибка анализа JSON-LD
+  - ошибка анализа структурированных данных
+  - Hugo JSON-LD
+categories:
+  - SEO
+  - Техническое SEO
 series: SEOTricks
 series_index: 3
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks-003-when-google-search-console-says-missing-object-member-name.webp
-alt: "Google Search Console подтверждает, что проблема анализа структурированных данных была устранена"
-related: [/ru/docs/seo-tricks/, /ru/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Google Search Console подтверждает, что проблема анализа структурированных данных была устранена
+related:
+  - /ru/docs/seo-tricks/
+  - /ru/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/seo-tricks/when-google-search-console-says-missing-object-member-name/
 toc: true
@@ -28,12 +43,13 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "исправление ошибок анализа структурированных данных в Google Search Console"
-article_type: "практический кейс по SEO-отладке"
-primary_topic: "анализ структурированных данных в Google Search Console"
-verification_model: "Source → Build → Live"
+search_intent: исправление ошибок анализа структурированных данных в Google Search Console
+article_type: практический кейс по SEO-отладке
+primary_topic: анализ структурированных данных в Google Search Console
+verification_model: Source → Build → Live
 research_status: confirmed
 technical_status: verified
+lastmod: 2026-09-22T18:00:00
 ---
 
 <script type="application/ld+json">

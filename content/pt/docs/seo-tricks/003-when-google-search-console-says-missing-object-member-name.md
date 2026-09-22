@@ -2,24 +2,39 @@
 id: seo-tricks-003-when-google-search-console-says-missing-object-member-name
 language: pt
 translation_of: seo-tricks-003-when-google-search-console-says-missing-object-member-name
-title: "003 Quando o Google Search Console Diz — Falta } Ou o Nome de Um Membro do Objeto"
+title: 003 Quando o Google Search Console Diz — Falta } Ou o Nome de Um Membro do Objeto
 description: "Um caso real do Google Search Console: investigação e correção de um erro de análise de dados estruturados causado pela forma como o JSON-LD estava colocado depois do YAML front matter nos ficheiros Markdown do Hugo."
-summary: "O Google Search Console comunicou que os dados estruturados não podiam ser analisados devido à ausência de } ou do nome de um membro do objeto. A investigação identificou o problema na separação entre o YAML front matter e o JSON-LD, afetando 565 ficheiros Markdown."
+summary: O Google Search Console comunicou que os dados estruturados não podiam ser analisados devido à ausência de } ou do nome de um membro do objeto. A investigação identificou o problema na separação entre o YAML front matter e o JSON-LD, afetando 565 ficheiros Markdown.
 event_date: 2026-09-22T18:00
 publication_date: 2026-09-22T18:00
 slug: when-google-search-console-says-missing-object-member-name
-tags: [Google Search Console, dados estruturados, JSON-LD, Hugo, debugging SEO]
-keywords: [Google Search Console dados estruturados, falta do nome de um membro do objeto, erro de análise JSON-LD, erro de análise de dados estruturados, Hugo JSON-LD]
-categories: [SEO, SEO técnico]
+tags:
+  - Google Search Console
+  - dados estruturados
+  - JSON-LD
+  - Hugo
+  - debugging SEO
+keywords:
+  - Google Search Console dados estruturados
+  - falta do nome de um membro do objeto
+  - erro de análise JSON-LD
+  - erro de análise de dados estruturados
+  - Hugo JSON-LD
+categories:
+  - SEO
+  - SEO técnico
 series: SEOTricks
 series_index: 3
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks-003-when-google-search-console-says-missing-object-member-name.webp
-alt: "Google Search Console confirma que um problema de análise de dados estruturados foi resolvido"
-related: [/pt/docs/seo-tricks/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Google Search Console confirma que um problema de análise de dados estruturados foi resolvido
+related:
+  - /pt/docs/seo-tricks/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/seo-tricks/when-google-search-console-says-missing-object-member-name/
 toc: true
@@ -28,12 +43,13 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "resolver erros de análise de dados estruturados no Google Search Console"
-article_type: "caso prático de troubleshooting SEO"
-primary_topic: "análise de dados estruturados no Google Search Console"
-verification_model: "Source → Build → Live"
+search_intent: resolver erros de análise de dados estruturados no Google Search Console
+article_type: caso prático de troubleshooting SEO
+primary_topic: análise de dados estruturados no Google Search Console
+verification_model: Source → Build → Live
 research_status: confirmed
 technical_status: verified
+lastmod: 2026-09-22T18:00:00
 ---
 
 <script type="application/ld+json">

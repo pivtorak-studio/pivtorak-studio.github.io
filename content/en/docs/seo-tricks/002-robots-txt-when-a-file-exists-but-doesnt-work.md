@@ -91,7 +91,7 @@ technical_status: verified
 
 # Robots.txt: When a File Exists but Doesn't Work | SEO Tricks
 
-_The file was there. The URL was correct. The server returned it. And yet — it was not doing what_ `_robots.txt_` _was supposed to do._
+_The file was there. The URL was correct. The server returned it. And yet — it was not doing what_ *`robots.txt`* _was supposed to do._
 
 ## Quick Summary Box
 

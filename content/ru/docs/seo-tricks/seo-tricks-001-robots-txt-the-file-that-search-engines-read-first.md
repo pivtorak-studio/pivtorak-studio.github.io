@@ -2,16 +2,35 @@
 id: seo-tricks-001-robots-txt-the-file-that-search-engines-read-first
 language: ru
 translation_of: seo-tricks-001-robots-txt-the-file-that-search-engines-read-first
-title: "001 Robots.txt – Файл, который поисковые системы читают первым | SEO Хитрости"
+title: 001 Robots.txt – Файл, который поисковые системы читают первым
 description: "Практическая проверка robots.txt в техническом SEO: что делает этот файл, почему он важен для сканирования и как проверить его путь от исходных файлов до сгенерированной сборки и работающего сайта."
-summary: "Robots.txt — это директива для сканирования, а не команда для индексации или ранжирования. Эта SEO-проверка показывает, как убедиться, что файл существует, содержит нужные инструкции и корректно доступен на работающем сайте."
+summary: Robots.txt — это директива для сканирования, а не команда для индексации или ранжирования. Эта SEO-проверка показывает, как убедиться, что файл существует, содержит нужные инструкции и корректно доступен на работающем сайте.
 event_date: 2026-09-07T21:00:00
 publication_date: 2026-09-07T21:00:00
 lastmod: 2026-09-07T21:00:00
 slug: robots-txt-the-file-that-search-engines-read-first
-tags: [robots.txt, техническое SEO, сканирование, crawl budget, sitemap, Hugo, проверка сайта]
-keywords: [robots.txt, SEO robots.txt, сканирование robots.txt, директивы robots.txt, crawl budget, sitemap, техническое SEO, проверка robots.txt, Hugo robots.txt]
-categories: [SEO Хитрости, Техническое SEO, Сканирование]
+tags:
+  - robots.txt
+  - техническое SEO
+  - сканирование
+  - crawl budget
+  - sitemap
+  - Hugo
+  - проверка сайта
+keywords:
+  - robots.txt
+  - SEO robots.txt
+  - сканирование robots.txt
+  - директивы robots.txt
+  - crawl budget
+  - sitemap
+  - техническое SEO
+  - проверка robots.txt
+  - Hugo robots.txt
+categories:
+  - SEO Хитрости
+  - Техническое SEO
+  - Сканирование
 series: SEOTricks
 series_index: 1
 research_origin: Pivtorak.Studio
@@ -19,20 +38,23 @@ status: published
 featured: true
 image: /images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first.webp
 alt: "Диаграмма проверки robots.txt на трех уровнях: Source, Generated Build и Live website."
-related: [/ru/docs/seo-tricks/, /ru/docs/timeline/]
-authors: [Anna Pivtorak]
+related:
+  - /ru/docs/seo-tricks/
+  - /ru/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
-canonical: https://pivtorak.studio/ru/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/
+canonical: https://pivtorak.studio/ru/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/
 toc: true
 weight: 1
 completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "SEO-проверка robots.txt"
-article_type: "техническое SEO-исследование"
-primary_topic: "robots.txt"
-verification_model: "Source → Generated Build → Live"
+search_intent: SEO-проверка robots.txt
+article_type: техническое SEO-исследование
+primary_topic: robots.txt
+verification_model: Source → Generated Build → Live
 research_status: confirmed
 technical_status: verified
 ---
@@ -41,14 +63,14 @@ technical_status: verified
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "@id": "https://pivtorak.studio/ru/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/#article",
-  "headline": "001 Robots.txt – Файл, который поисковые системы читают первым | SEO Хитрости",
+  "@id": "https://pivtorak.studio/ru/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/#article",
+  "headline": "001 Robots.txt – Файл, который поисковые системы читают первым",
   "description": "Практическая проверка robots.txt в техническом SEO: что делает этот файл, почему он важен для сканирования и как проверить его путь от исходных файлов до сгенерированной сборки и работающего сайта.",
   "inLanguage": "ru",
-  "url": "https://pivtorak.studio/ru/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/",
+  "url": "https://pivtorak.studio/ru/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://pivtorak.studio/ru/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/"
+    "@id": "https://pivtorak.studio/ru/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/"
   },
   "image": "https://pivtorak.studio/images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first.webp",
   "author": {

@@ -2,53 +2,75 @@
 id: seo-tricks-001-robots-txt-the-file-that-search-engines-read-first
 language: pt
 translation_of: seo-tricks-001-robots-txt-the-file-that-search-engines-read-first
-title: "001 Robots.txt – O ficheiro que os motores de pesquisa leem primeiro | Truques de SEO"
+title: 001 Robots.txt – O ficheiro que os motores de pesquisa leem primeiro
 description: "Uma verificação prática de SEO técnico do robots.txt: o que faz o ficheiro, porque é importante para o crawling e como verificar o percurso desde a origem até ao build gerado e ao website em produção."
-summary: "O robots.txt é uma diretiva de crawling, não um comando de indexação ou de ranking. Esta verificação de SEO mostra como confirmar que o ficheiro existe, contém as instruções pretendidas e chega corretamente ao website em produção."
+summary: O robots.txt é uma diretiva de crawling, não um comando de indexação ou de ranking. Esta verificação de SEO mostra como confirmar que o ficheiro existe, contém as instruções pretendidas e chega corretamente ao website em produção.
 event_date: 2026-09-07T21:00:00
 publication_date: 2026-09-07T21:00:00
 lastmod: 2026-09-07T21:00:00
 slug: robots-txt-the-file-that-search-engines-read-first
-tags: [robots.txt, SEO técnico, crawling, crawl budget, sitemap, Hugo, verificação de website]
-keywords: [robots.txt, SEO robots.txt, crawling robots.txt, diretivas robots.txt, crawl budget, sitemap, SEO técnico, verificação robots.txt, Hugo robots.txt]
-categories: [Truques de SEO, SEO Técnico, Crawling]
+tags:
+  - robots.txt
+  - SEO técnico
+  - crawling
+  - crawl budget
+  - sitemap
+  - Hugo
+  - verificação de website
+keywords:
+  - robots.txt
+  - SEO robots.txt
+  - crawling robots.txt
+  - diretivas robots.txt
+  - crawl budget
+  - sitemap
+  - SEO técnico
+  - verificação robots.txt
+  - Hugo robots.txt
+categories:
+  - Truques de SEO
+  - SEO Técnico
+  - Crawling
 series: SEOTricks
 series_index: 1
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first.webp
-alt: "Diagrama de verificação de robots.txt em três níveis, mostrando as verificações Source, Generated Build e Live website."
-related: [/pt/docs/seo-tricks/, /pt/docs/timeline/]
-authors: [Anna Pivtorak]
+alt: Diagrama de verificação de robots.txt em três níveis, mostrando as verificações Source, Generated Build e Live website.
+related:
+  - /pt/docs/seo-tricks/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 draft: false
-canonical: https://pivtorak.studio/pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/
+canonical: https://pivtorak.studio/pt/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/
 toc: true
 weight: 1
 completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "verificação SEO do robots.txt"
-article_type: "investigação de SEO técnico"
-primary_topic: "robots.txt"
-verification_model: "Source → Generated Build → Live"
+search_intent: verificação SEO do robots.txt
+article_type: investigação de SEO técnico
+primary_topic: robots.txt
+verification_model: Source → Generated Build → Live
 research_status: confirmed
 technical_status: verified
 ---
-
+****
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "@id": "https://pivtorak.studio/pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/#article",
-  "headline": "001 Robots.txt – O ficheiro que os motores de pesquisa leem primeiro | Truques de SEO",
+  "@id": "https://pivtorak.studio/pt/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/#article",
+  "headline": "001 Robots.txt – O ficheiro que os motores de pesquisa leem primeiro",
   "description": "Uma verificação prática de SEO técnico do robots.txt: o que faz o ficheiro, porque é importante para o crawling e como verificar o percurso desde a origem até ao build gerado e ao website em produção.",
   "inLanguage": "pt",
-  "url": "https://pivtorak.studio/pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/",
+  "url": "https://pivtorak.studio/pt/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://pivtorak.studio/pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/"
+    "@id": "https://pivtorak.studio/pt/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/"
   },
   "image": "https://pivtorak.studio/images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first.webp",
   "author": {

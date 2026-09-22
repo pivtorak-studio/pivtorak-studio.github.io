@@ -20,7 +20,7 @@
 <tr>
 
 <td style="border:1px solid #ccc; padding:8px;">
-{{ dateFormat "2006-01-02" .Params.publication_date }}
+{{ (time.AsTime .Params.publication_date).Format "2006-01-02" }}
 </td>
 
 <td style="border:1px solid #ccc; padding:8px;">

@@ -5,8 +5,8 @@ translation_of: seo-tricks-003-when-google-search-console-says-missing-object-me
 title: 003 Коли Google Search Console Повідомляє — Немає } або Імені Компонента Об’єкта
 description: "Реальний кейс Google Search Console: дослідження та виправлення помилки аналізу структурованих даних, спричиненої способом розміщення JSON-LD після YAML front matter у Markdown-файлах Hugo."
 summary: Google Search Console повідомив, що структуровані дані не можна проаналізувати через відсутність } або імені компонента об’єкта. Розслідування виявило проблему в розділенні YAML front matter і JSON-LD, яка стосувалася 565 Markdown-файлів.
-event_date: 2026-09-22T18:00
-publication_date: 2026-09-22T18:00
+event_date: 2026-09-22T18:00:00
+publication_date: 2026-09-22T18:00:00
 slug: when-google-search-console-says-missing-object-member-name
 tags:
   - Google Search Console

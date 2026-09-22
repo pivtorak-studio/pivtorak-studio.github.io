@@ -5,8 +5,8 @@ translation_of: seo-tricks-003-when-google-search-console-says-missing-object-me
 title: 003 Quando o Google Search Console Diz — Falta } Ou o Nome de Um Membro do Objeto
 description: "Um caso real do Google Search Console: investigação e correção de um erro de análise de dados estruturados causado pela forma como o JSON-LD estava colocado depois do YAML front matter nos ficheiros Markdown do Hugo."
 summary: O Google Search Console comunicou que os dados estruturados não podiam ser analisados devido à ausência de } ou do nome de um membro do objeto. A investigação identificou o problema na separação entre o YAML front matter e o JSON-LD, afetando 565 ficheiros Markdown.
-event_date: 2026-09-22T18:00
-publication_date: 2026-09-22T18:00
+event_date: 2026-09-22T18:00:00
+publication_date: 2026-09-22T18:00:00
 slug: when-google-search-console-says-missing-object-member-name
 tags:
   - Google Search Console

@@ -5,8 +5,8 @@ translation_of: seo-tricks-003-when-google-search-console-says-missing-object-me
 title: 003 When Google Search Console Says — Missing } or Object Member Name
 description: "A real Google Search Console case: investigating and fixing a structured data parsing error caused by the way JSON-LD was placed after YAML front matter in Hugo Markdown files."
 summary: Google Search Console reported that structured data could not be parsed because of a missing } or object member name. The investigation found the underlying issue in the separation between YAML front matter and JSON-LD, affecting 565 Markdown files.
-event_date: 2026-09-22T18:00
-publication_date: 2026-09-22T18:00
+event_date: 2026-09-22T18:00:00
+publication_date: 2026-09-22T18:00:00
 slug: when-google-search-console-says-missing-object-member-name
 tags:
   - Google Search Console

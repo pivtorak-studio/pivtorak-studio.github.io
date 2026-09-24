@@ -26,7 +26,11 @@
           {{ partial "docs/post-meta" . }}
 
           <div class="book-post-content markdown-inner">
-            {{- .Summary -}}
+            {{ with .Params.summary }}
+              {{ . }}
+            {{ else }}
+              {{ .Description }}
+            {{ end }}
           </div>
         </div>
 

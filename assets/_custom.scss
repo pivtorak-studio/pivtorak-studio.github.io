@@ -39,3 +39,11 @@
 .book-post .book-post-thumbnail img {
     aspect-ratio: 1 / 1;
 }
+
+.book-menu label svg,
+.book-menu a svg,
+.book-menu label img.book-icon,
+.book-menu a img.book-icon {
+    width: 1em;
+    height: 1em;
+}

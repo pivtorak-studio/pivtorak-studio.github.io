@@ -107,7 +107,7 @@ search: indexed
 
 <div class="float-right">
 
-![Код поведения — Pivtorak.Studio](/images/pivtorak-studio-005-pivtorak-studio-diamond-сode-of-сonduct.webp)
+![Код поведения — Pivtorak.Studio](/images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp)
 
 </div>
 

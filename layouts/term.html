@@ -1,0 +1,55 @@
+﻿{{ define "main" }}
+  <article class="markdown book-post">
+    <h1>{{ .Title }}</h1>
+
+    {{ with .Description }}
+      <p>{{ . }}</p>
+    {{ end }}
+
+    {{ with .Content }}
+      <div class="book-post-content">
+        {{ . }}
+      </div>
+    {{ end }}
+  </article>
+
+  <h2>Articles in this category</h2>
+
+  {{ range sort .Paginator.Pages }}
+    <article class="book-post markdown">
+      <h2>
+        <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
+      </h2>
+
+      <div class="book-post-container flex gap">
+        <div>
+          {{ partial "docs/post-meta" . }}
+
+          <div class="book-post-content markdown-inner">
+            {{- .Summary -}}
+          </div>
+        </div>
+
+        {{ with .Params.image }}
+          <div class="book-post-thumbnail">
+            <img src="{{ . }}" alt="{{ $.Params.alt }}" loading="lazy" />
+          </div>
+        {{ end }}
+      </div>
+    </article>
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+{{ end }}
+
+{{ define "toc-container" }}
+  <aside class="book-toc">
+    <div class="book-toc-content">
+      {{ template "toc" . }}
+    </div>
+  </aside>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/taxonomy" . }}
+{{ end }}

@@ -1,8 +1,12 @@
-﻿---
+---
 title: "Arquitetura do Conhecimento"
 description: "Um enquadramento metodológico para estruturar conhecimento, investigação e informação em sistemas coerentes."
 translationKey: "knowledge-architecture"
 ---
+
+# Arquitetura do Conhecimento
+
+*Um enquadramento metodológico para estruturar conhecimento, investigação e informação em sistemas coerentes.*
 
 A Arquitetura do Conhecimento é um enquadramento metodológico para estruturar conhecimento, investigação e informação em sistemas coerentes.
 

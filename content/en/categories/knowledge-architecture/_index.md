@@ -3,6 +3,9 @@ title: Knowledge Architecture
 description: A methodological framework for structuring knowledge, research, and information into coherent systems.
 translationKey: knowledge-architecture
 ---
+# Knowledge Architecture
+
+*A methodological framework for structuring knowledge, research, and information into coherent systems.*
 
 Knowledge Architecture is a methodological framework for structuring knowledge, research, and information into coherent systems.
 

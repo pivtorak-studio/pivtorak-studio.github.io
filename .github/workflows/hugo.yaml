@@ -20,7 +20,7 @@ jobs:
       - name: Download Theme
         run: |
           mkdir -p themes/hugo-book
-          curl -L https://github.com/alex-shpak/hugo-book/archive/refs/heads/master.tar.gz | tar -xz -C themes/hugo-book --strip-components=1
+          curl -L https://github.com/alex-shpak/hugo-book/archive/refs/tags/v0.14.0.tar.gz | tar -xz -C themes/hugo-book --strip-components=1
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3

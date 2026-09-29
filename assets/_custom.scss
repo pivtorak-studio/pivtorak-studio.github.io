@@ -1,16 +1,86 @@
+/* =========================================================
+   PIVTORAK.STUDIO — CUSTOM STYLES
+   ========================================================= */
+
+
+/* =========================================================
+   1. ARTICLE / POST THUMBNAILS
+   ---------------------------------------------------------
+   Square thumbnails used in post listings and other
+   book-post components.
+   ========================================================= */
+
 .book-post .book-post-thumbnail img {
   aspect-ratio: 1 / 1;
 }
+
+
+/* =========================================================
+   2. MENU ICONS
+   ---------------------------------------------------------
+   Keep custom menu icons compact and aligned with text.
+   ========================================================= */
 
 .book-menu label svg,
 .book-menu a svg,
 .book-menu label img.book-icon,
 .book-menu a img.book-icon {
-    width: 1em;
-    height: 1em;
+  width: 1em;
+  height: 1em;
 }
 
+
+/* =========================================================
+   3. HEADER ICONS
+   ---------------------------------------------------------
+   Keep icons in the mobile / header navigation aligned
+   with the surrounding text.
+   ========================================================= */
+
 .book-header label svg.book-icon {
-    width: 1em;
-    height: 1em;
+  width: 1em;
+  height: 1em;
+}
+
+
+/* =========================================================
+   4. ARTICLE IMAGES
+   ---------------------------------------------------------
+   Images inside article content are intentionally kept
+   small and floated to the right.
+
+   This restores the earlier Pivtorak.Studio layout:
+   the image supports the text instead of becoming a
+   full-width visual block.
+
+   The !important declarations are intentional because
+   Hugo Book Theme provides its own image sizing rules.
+   ========================================================= */
+
+.book-page article img {
+  width: 260px !important;
+  height: auto !important;
+  float: right !important;
+  margin: 0 0 1rem 1.5rem !important;
+  display: block;
+  border-radius: 8px;
+}
+
+
+/* =========================================================
+   5. ARTICLE IMAGES — MOBILE
+   ---------------------------------------------------------
+   On small screens the image becomes full-width and
+   returns to normal document flow.
+
+   This prevents a 260px floated image from taking up
+   too much horizontal space on a phone.
+   ========================================================= */
+
+@media screen and (max-width: 600px) {
+  .book-page article img {
+    width: 100% !important;
+    float: none !important;
+    margin: 1rem 0 !important;
+  }
 }

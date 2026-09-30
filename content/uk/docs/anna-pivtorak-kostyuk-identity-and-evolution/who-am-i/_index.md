@@ -1,15 +1,21 @@
 ---
 title: "Ядро: Хто Я? — Фази Ідентичності"
 description: "Серія документованих фаз ідентичності Анни Півторак: від інтуїтивного стану до системної присутності."
-keywords: ["Anna Pivtorak", "ідентичність", "еволюція", "фази", "мислення", "система"]
+keywords:
+  - Anna Pivtorak
+  - ідентичність
+  - еволюція
+  - фази
+  - мислення
+  - система
 weight: 10
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i.webp
 ---
 
-<div class="float-right">
+
 
 ![Ядро: Хто Я? — Фази Ідентичності](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i.webp)
 
-</div>
 
 # Хто Я?
 

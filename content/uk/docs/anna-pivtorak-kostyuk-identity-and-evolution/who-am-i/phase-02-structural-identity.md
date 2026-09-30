@@ -37,11 +37,7 @@ lastmod: 2026-02-26T09:00:00
 }
 </script>
 
-<div class="float-right">
-
 ![Хто Я? — Фаза IІ — Структурна Ідентичність (2026)](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i-phase-02-іtructural-identity.webp)
-
-</div>
 
 # 🌐 Анна Півторак (Костюк) – Після формування Pivtorak.Studio як структурованої системи
 

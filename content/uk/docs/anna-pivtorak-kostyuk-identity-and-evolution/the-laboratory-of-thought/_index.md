@@ -1,8 +1,15 @@
 ---
-title: "Лабораторія Думки"
+title: Лабораторія Думки
 description: "Архів рукописних конспектів як документ процесу мислення: фіксація знань, структур і логіки у часі."
-keywords: ["Anna Pivtorak", "конспекти", "архів", "мислення", "дослідження", "нотатки"]
+keywords:
+  - Anna Pivtorak
+  - конспекти
+  - архів
+  - мислення
+  - дослідження
+  - нотатки
 weight: 60
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp
 ---
 
 <div class="float-right">

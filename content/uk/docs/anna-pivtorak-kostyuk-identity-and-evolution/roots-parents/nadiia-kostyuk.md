@@ -9,11 +9,9 @@ publication_date: 2025-05-02 # Дата публікації (осмисленн
 event_type: life_node
 ---
 
-<div class="float-right">
+
 
 ![Костюк (Довбиш) Надія Миколаївна. Мудрість Матері — Ідентичність і відчуття](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-nadiia-kostyuk-dovbysh.webp)
-
-</div>
 
 # Костюк (Довбиш) Надія Миколаївна. Мудрість Матері — Ідентичність і відчуття  
 *Інтелектуальна глибина, етична основа та внутрішня точність.*   

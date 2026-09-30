@@ -44,11 +44,8 @@ weight: 1
 }
 </script>
 
-<div class="float-right">
 
 ![Анна Півторак (Костюк)](/images/anna-pivtorak-kostyuk-identity.webp)
-
-</div>
 
 # Анна Півторак (Костюк)
 

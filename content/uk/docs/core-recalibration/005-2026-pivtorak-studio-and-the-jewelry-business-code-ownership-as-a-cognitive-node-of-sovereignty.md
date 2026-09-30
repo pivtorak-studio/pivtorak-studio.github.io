@@ -87,15 +87,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![Pivtorak Studio і The Jewelry Business. Володіння кодом як когнітивний вузол суверенності](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp)
 
-</div>
-
-**⟡ Перекалібрування Ядра**
-
-# Pivtorak.Studio & TheJewelry.Business. Володіння кодом як когнітивний вузол суверенності
+# Pivtorak.Studio & TheJewelry.Business. Володіння кодом як когнітивний вузол суверенності | ⟡ Перекалібрування Ядра
 
 _Коли ти володієш кодом свого простору, тобі більше не потрібні посередники_
 

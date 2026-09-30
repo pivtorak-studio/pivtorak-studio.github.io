@@ -123,15 +123,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![Протокол Симурга. Філософія Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
 
-</div>
-
-**⟡ Перекалібрування Ядра**
-
-# Протокол Симурга. Філософія Investigadora Independente
+# Протокол Симурга. Філософія Investigadora Independente | ⟡ Перекалібрування Ядра
 
 _Справжня експертиза не шукає рецензій; вона сама створює простір для верифікації_
 

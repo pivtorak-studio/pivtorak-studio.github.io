@@ -89,15 +89,9 @@ search: indexed
 </script>
 
 
-<div class="float-right">
-
 ![Друга мова, Перший голос](/images/core-recalibration-002-2025-second-language-first-voice.webp)
 
-</div>
-
-**⟡ Перекалібрування Ядра**
-
-# Друга мова, Перший голос
+# Друга мова, Перший голос | ⟡ Перекалібрування Ядра
 
 _Не вивчення._
 _Підключення до потоків._

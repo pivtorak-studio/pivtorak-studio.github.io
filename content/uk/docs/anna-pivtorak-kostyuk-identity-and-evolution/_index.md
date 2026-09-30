@@ -1,11 +1,19 @@
 ---
-title: "🎓 Анна Півторак (Костюк) — Ідентичність та Еволюція"
+title: 🎓 Анна Півторак (Костюк) — Ідентичність та Еволюція
 description: "Архів ідентичності та еволюції Анни Півторак: шлях, корені, освіта та інтелектуальна основа Pivtorak Studio."
-keywords: ["Anna Pivtorak", "Anna Kostyuk", "ідентичність", "еволюція", "Pivtorak Studio", "мистецтвознавець", "дослідник", "архів"]
+keywords:
+  - Anna Pivtorak
+  - Anna Kostyuk
+  - ідентичність
+  - еволюція
+  - Pivtorak Studio
+  - мистецтвознавець
+  - дослідник
+  - архів
 bookCollapseSection: true
 weight: 65
-
-images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
+image:
+  - /images/anna-pivtorak-kostyuk-identity-and-evolution.webp
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
@@ -43,11 +51,7 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 </script>
 
 
-<div class="float-right">
-
 ![🎓 Анна Півторак (Костюк) — Ідентичність та Еволюція](/images/anna-pivtorak-kostyuk-identity-and-evolution.webp)
-
-</div>
 
 # 🎓 Anna Pivtorak (Kostyuk) — Ідентичність та Еволюція  
 *Цей розділ є документованою лінією формування особистості, мислення та дослідницької системи автора.*

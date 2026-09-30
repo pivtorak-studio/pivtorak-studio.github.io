@@ -55,11 +55,9 @@ weight: 101
 }
 </script>
 
-<div class="float-right">
 
 ![Матриця Руху: Одна справа — один вимір](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-the-movement-matrix-one-case-one-dimension.webp)
 
-</div>
 
 # Матриця Руху: Одна справа — один вимір    
 _Досягнута мета дає право не аналізувати кожну хвилину_  

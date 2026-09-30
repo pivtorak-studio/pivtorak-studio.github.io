@@ -1,15 +1,21 @@
 ---
 title: "Партнер: Основа Свободи"
 description: "Партнер як основа свободи: створення умов для розвитку, дослідження та реалізації системи."
-keywords: ["Anna Pivtorak", "партнер", "свобода", "підтримка", "система", "родина"]
+keywords:
+  - Anna Pivtorak
+  - партнер
+  - свобода
+  - підтримка
+  - система
+  - родина
 weight: 30
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp
 ---
 
-<div class="float-right">
+
 
 ![Партнер: Основа Свободи](/images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp)
 
-</div>
 
 # Партнер: Основа Свободи
 

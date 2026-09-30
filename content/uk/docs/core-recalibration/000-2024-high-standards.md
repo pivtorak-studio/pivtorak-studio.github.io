@@ -87,15 +87,10 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![Високі Стандарти](/images/core-recalibration-000-2024-high-standards.webp)
 
-</div>
-
-**⟡ Перекалібрування Ядра**
-
-# Високі Стандарти  
+# Високі Стандарти | ⟡ Перекалібрування Ядра  
 
 _Це не кінець — лише новий початок._  
 

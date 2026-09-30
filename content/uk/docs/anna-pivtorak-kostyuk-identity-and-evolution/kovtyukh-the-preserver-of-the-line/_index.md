@@ -1,15 +1,19 @@
 ---
 title: "Ковтюх: Збереження Тяглості Через Відмову"
 description: "Єпіфан Ковтюх як постать, що зберегла лінію: пам’ять, відповідальність і передача імені через покоління."
-keywords: ["Ковтюх", "Єпіфан Ковтюх", "родова пам'ять", "історія", "спадковість"]
+keywords:
+  - Ковтюх
+  - Єпіфан Ковтюх
+  - родова пам'ять
+  - історія
+  - спадковість
 weight: 40
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp
 ---
 
-<div class="float-right">
+
 
 ![Ковтюх: "Збереження Тяглості Через Відмову"](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
-
-</div>
 
 # Ковтюх: "Збереження Тяглості Через Відмову"
 

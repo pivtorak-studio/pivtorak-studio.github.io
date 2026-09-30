@@ -5,11 +5,9 @@ descriptions: Фундаментальний протокол Pivtorak Studio, �
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Протокол Конструювання Вартості: Архітектура Контексту](/images/architecture-of-value-001-value-construction-protocol-the-architecture-of-context-pivtorak-studio-2026.webp)
-
-</div>
 
 **∀ ◉ ∃ Архітектура Цінності**
 # Протокол Конструювання Вартості. Архітектура Контексту

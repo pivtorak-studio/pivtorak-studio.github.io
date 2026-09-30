@@ -1,15 +1,20 @@
 ---
 title: "Формування: Шкільні, Університетські та Аспірантські роки"
 description: "Формування мислення через освіту: від шкільної точності до системного підходу в університетах та дослідженнях."
-keywords: ["Anna Pivtorak", "освіта", "формування", "мислення", "університет", "PhD"]
+keywords:
+  - Anna Pivtorak
+  - освіта
+  - формування
+  - мислення
+  - університет
+  - PhD
 weight: 50
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp
 ---
 
-<div class="float-right">
+
 
 ![Формування: Шкільні, Університетські та Аспірантські роки](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp)
-
-</div>
 
 # Формування: Шкільні, Університетські та Аспірантські роки
 

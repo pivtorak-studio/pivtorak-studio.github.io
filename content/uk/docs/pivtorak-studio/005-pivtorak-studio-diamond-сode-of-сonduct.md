@@ -104,13 +104,6 @@ search: indexed
 }
 </script>
 
-
-<div class="float-right">
-
-![Код поведінки — Pivtorak.Studio](/images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp)
-
-</div>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -129,6 +122,8 @@ search: indexed
   }
 }
 </script>
+
+![Код поведінки — Pivtorak.Studio](/images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp)
 
 **🪙 Pivtorak.Studio — Формула трансформації**
 

@@ -1,15 +1,19 @@
 ---
 title: "Коріння: Батьки"
-description: "Вплив батьків як джерело мислення, принципів та внутрішньої структури."
-keywords: ["Anna Pivtorak", "батьки", "корені", "цінності", "формування"]
+description: Вплив батьків як джерело мислення, принципів та внутрішньої структури.
+keywords:
+  - Anna Pivtorak
+  - батьки
+  - корені
+  - цінності
+  - формування
 weight: 20
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp
 ---
 
-<div class="float-right">
 
-![Коріння: Батьки](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
+![Коріння: Батьки](v)
 
-</div>
 
 # Коріння: Батьки
 

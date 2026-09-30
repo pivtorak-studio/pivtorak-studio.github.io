@@ -1,15 +1,19 @@
 ---
-title: "Вчителі: Передача Знань"
+title: Вчителі. Передача Знань
 description: "Передача знання як подія: вплив учителів на формування мислення, точності та структури."
-keywords: ["Anna Pivtorak", "вчителі", "знання", "мислення", "освіта", "передача"]
+keywords:
+  - Anna Pivtorak
+  - вчителі
+  - знання
+  - мислення
+  - освіта
+  - передача
 weight: 35
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-teachers-transmission-of-knowledge.webp
 ---
-
-<div class="float-right">
 
 ![Вчителі: Передача Знань](/images/anna-pivtorak-kostyuk-identity-and-evolution-teachers-transmission-of-knowledge.webp)
 
-</div>
 
 # Вчителі: Передача Знань
 

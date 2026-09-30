@@ -1,15 +1,20 @@
 ---
 title: "Предки: Покоління Чесності"
 description: "Родинна спадковість як поле формування: цінності, що передаються поза словами і визначають межі можливого."
-keywords: ["Anna Pivtorak", "предки", "спадковість", "цінності", "рід", "цілісність"]
+keywords:
+  - Anna Pivtorak
+  - предки
+  - спадковість
+  - цінності
+  - рід
+  - цілісність
 weight: 45
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp
 ---
 
-<div class="float-right">
+
 
 ![Предки: Покоління Чесності](/images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp)
-
-</div>
 
 
 # Предки: Покоління Чесності

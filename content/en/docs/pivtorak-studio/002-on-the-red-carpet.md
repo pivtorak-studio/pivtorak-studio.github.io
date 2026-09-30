@@ -115,6 +115,7 @@ search: indexed
 **🪙 Pivtorak.Studio — The Formula of Transformation**
 
 # 🟥 On the Red Carpet <br>
+
 *My path — is already here.* <br>
 
 **19.07.2023.** This isn’t cinema. Not Cannes. Not someone else’s applause.  

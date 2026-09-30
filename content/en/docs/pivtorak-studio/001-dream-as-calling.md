@@ -110,7 +110,9 @@ search: indexed
 **🪙 Pivtorak.Studio — The Formula of Transformation**
 
 # 🕊️ Dream as Calling
+
 _When you are reminded that you have a Calling._ <br>
+
 **16.07.2023.** A white background. Silence. <br>
 And a dove — large, weightless, like an air-filled figure. <br>
 In the dream, it didn’t just appear — it touched me. <br>

@@ -81,9 +81,7 @@ search: indexed
 
 ![Entrar no Ritmo](/images/peaceful-life-011-getting-into-rhythm.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🧑‍💻📆☕ Entrar no Ritmo
+# 🧑‍💻📆☕ Entrar no Ritmo | Vida Pacífica
 
 _Quando o café da manhã abre espaço para novas possibilidades_
 

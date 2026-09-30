@@ -1,15 +1,19 @@
 ---
 title: "Ancestrais: Gerações de Integridade"
 description: "A linhagem como campo de formação: valores transmitidos para além das palavras que definem os limites do pensamento e da ação."
-keywords: ["Anna Pivtorak", "antepassados", "linhagem", "valores", "integridade"]
+keywords:
+  - Anna Pivtorak
+  - antepassados
+  - linhagem
+  - valores
+  - integridade
 weight: 45
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp
 ---
 
-<div class="float-right">
 
 ![Ancestrais: Gerações de Integridade](/images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp)
 
-</div>
 
 # Ancestrais: Gerações de Integridade
 

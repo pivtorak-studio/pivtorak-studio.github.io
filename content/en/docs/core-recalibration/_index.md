@@ -120,11 +120,8 @@ search: indexed
 </script>
 
 
-<div class="float-right">
-
 ![Core Recalibration](/images/core-recalibration.webp)
 
-</div>
 
 # Core Recalibration
 

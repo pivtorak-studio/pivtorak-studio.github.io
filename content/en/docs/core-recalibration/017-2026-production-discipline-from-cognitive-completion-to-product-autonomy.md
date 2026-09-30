@@ -79,9 +79,7 @@ search: indexed
 
 ![Production Discipline. From Cognitive Completion to Product Autonomy](/images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp)
 
-**⟡ Core Recalibration**
-
-# Production Discipline. From Cognitive Completion to Product Autonomy
+# Production Discipline. From Cognitive Completion to Product Autonomy | ⟡ Core Recalibration
 
 _Quality is an act of respect for the future life of your work._
 

@@ -4,14 +4,10 @@ title: "01-01 Armadilha da Dívida - Dependência do Crédito"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Armadilha da Dívida - Dependência do Crédito](/images/political-design-01-01.webp)
 
-</div>
-
-**Design Político**
-# 💣 I. Armadilha da Dívida. 💉 Dependência do Crédito
+# 💣 I. Armadilha da Dívida. 💉 Dependência do Crédito | Design Político
 
 _Quando o Estado pede emprestado em vez de construir, torna-se dependente da agulha externa._
 

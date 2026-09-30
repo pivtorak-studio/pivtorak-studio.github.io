@@ -22,11 +22,8 @@ weight: 1
 }
 </script>
 
-<div class="float-right">
-
 ![Context Engineering in Value Construction: An Architectural and Mathematical-Logical Model for Cultural and Jewelry Assets](/images/anna-pivtorak-сontext-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026.webp)
 
-</div>
 
 **UDC:** 330.1:7.03:671.1  
 **JEL Classification:** Z11, G32

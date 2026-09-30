@@ -61,11 +61,9 @@ weight: 100
 }
 </script>
 
-<div class="float-right">
 
 ![A Liberdade e o Meta-Controlo](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-freedom-and-meta-control.webp)
 
-</div>
 
 # A Liberdade e o Meta-Controlo
 

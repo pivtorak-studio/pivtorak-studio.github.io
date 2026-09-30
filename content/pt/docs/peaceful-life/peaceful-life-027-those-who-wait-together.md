@@ -101,9 +101,7 @@ search: indexed
 
 ![Aqueles Que Esperam Juntos](/images/peaceful-life-027-those-who-wait-together.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🐕‍🦺🤍🚪 Aqueles Que Esperam Juntos
+# 🐕‍🦺🤍🚪 Aqueles Que Esperam Juntos | Vida Pacífica
 
 _Não é sobre fidelidade. É sobre pertencimento._
 

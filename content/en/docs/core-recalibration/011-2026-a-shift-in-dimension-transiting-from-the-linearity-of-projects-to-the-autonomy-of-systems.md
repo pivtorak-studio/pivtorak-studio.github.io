@@ -98,9 +98,7 @@ search: indexed
 
 ![A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
 
-**⟡ Core Recalibration**
-
-## A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems
+# A Shift in Dimension. Transiting from the Linearity of Projects to the Autonomy of Systems | ⟡ Core Recalibration
 
 _A project is oriented toward a temporary result.    
 A system is designed for infinite reproduction and evolution._  

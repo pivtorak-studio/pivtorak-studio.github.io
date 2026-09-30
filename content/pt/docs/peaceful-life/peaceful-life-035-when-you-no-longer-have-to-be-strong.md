@@ -96,9 +96,7 @@ search: indexed
 
 ![Quando já não é preciso ser forte](/images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🪨🧭✨ Quando já não é preciso ser forte
+# 🪨🧭✨ Quando já não é preciso ser forte | Vida Pacífica
 
 _O descanso torna-se possível quando o perigo deixa de marcar o ritmo da vida._
 

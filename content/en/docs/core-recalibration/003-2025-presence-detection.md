@@ -88,15 +88,10 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![Presence Detection](/images/core-recalibration-003-2025-presence-detection.webp)
 
-</div>
 
-**⟡ Core Recalibration**
-
-# Presence Detection
+# Presence Detection | ⟡ Core Recalibration
 
 _Awareness is not silence._
 

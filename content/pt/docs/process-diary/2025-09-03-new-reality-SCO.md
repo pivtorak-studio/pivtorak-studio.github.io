@@ -4,14 +4,11 @@ title: 20250903 NovaRealidade. OCS
 weight: 20250903
 ---
 
-<div class="float-right">
+
 
 ![New Reality. SCO](/images/process-diary-20250903.webp)
 
-</div>
-
-**🪶 Diário do Processo**  
-# 2025 09 03 🌐 Nova Realidade. OCS
+# 2025 09 03 🌐 Nova Realidade. OCS | Diário do Processo
 
 Hoje senti uma inquietação inesperada — em 01.09.2025 realizou-se a cimeira da OCS na China, e eu não tinha símbolos prontos para responder.  
 Parecia que não tinha conseguido preparar-me.  

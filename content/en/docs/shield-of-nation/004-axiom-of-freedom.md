@@ -4,14 +4,10 @@ title: "004 Axiom Of Freedom"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axiom Of Freedom](/images/shield-004.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Freedom 🧠🔭📖 Teacher — Photon Of Knowledge
+# Axiom Of Freedom 🧠🔭📖 Teacher — Photon Of Knowledge | Shield Of Nation
 
 _Axiom of freedom: where the darkness of oppression threatens the people, the light of knowledge arises.  
 The teacher is a ray cutting through the gloom.  

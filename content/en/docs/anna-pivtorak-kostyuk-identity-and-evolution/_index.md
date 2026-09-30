@@ -11,7 +11,7 @@ keywords:
   - Pivtorak Studio
 bookCollapseSection: true
 weight: 111
-images:
+image:
   - /images/anna-pivtorak-kostyuk-identity-and-evolution.webp
 ---
 
@@ -48,11 +48,8 @@ images:
 </script>
 
 
-<div class="float-right">
-
 ![🎓 Anna Pivtorak (Kostyuk) — Identity & Evolution](/images/anna-pivtorak-kostyuk-identity-and-evolution.webp)
 
-</div>
 
 # 🎓 Anna Pivtorak (Kostyuk) — Identity & Evolution  
 *This section is a documented timeline of identity, thinking, and the research system behind the author.*

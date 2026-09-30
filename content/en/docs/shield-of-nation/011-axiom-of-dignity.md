@@ -4,14 +4,10 @@ title: "011 Axiom Of Dignity"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axiom Of Dignity](/images/shield-011.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Dignity 🧭🕊️💎 Citizen — Stoic Warrior
+# Axiom Of Dignity 🧭🕊️💎 Citizen — Stoic Warrior | Shield Of Nation
 
 _Axiom Of Dignity: where a person is forced to break, an inner shield arises that refuses to kneel.
 The shield is held not by hands, but by the heart._  

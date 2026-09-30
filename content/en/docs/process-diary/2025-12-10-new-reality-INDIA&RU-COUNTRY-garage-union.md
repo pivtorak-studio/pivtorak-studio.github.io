@@ -6,15 +6,9 @@ weight: 20251210
 
 
 
-<div class="float-right">
-
 ![NewReality. INDIA&RU-COUNTRY. GarageUnion](/images/process-diary-20251210.webp)
 
-</div>
-
-**🧭 Process Diary**
-
-# 2025 12 10 🌐 New Reality. INDIA & RU-COUNTRY. 🏴‍☠️ Garage Union
+# 2025 12 10 🌐 New Reality. INDIA & RU-COUNTRY. 🏴‍☠️ Garage Union | Process Diary
 
 It all began not with analysis but with smoke. Smoke rising from ceremonial fires lit by Indian women welcoming the dictator of RU-COUNTRY. I saw that moment and felt an atmospheric shift — not that India was “lost,” but that we no longer understood what defined her horizon. What guides India today? What does she seek?
 

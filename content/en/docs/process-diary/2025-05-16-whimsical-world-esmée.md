@@ -4,14 +4,10 @@ title: 20250516 Whimsical World. ESMÉE
 weight: 20250516
 ---
 
-<div class="float-right">
 
 ![Whimsical World. ESMÉE](/images/process-diary-20250516-whimsical-world-pivtorak-studio-2025.webp)
 
-</div>
-
-**🪶 Process Diary**
-# 2025 05 16 ✨ Whimsical World 🐉⚖️ ESMÉE
+# 2025 05 16 ✨ Whimsical World 🐉⚖️ ESMÉE | Process Diary
 
 **Esmée appeared when silence became more honest than words.**  
 _She was not called — she became the answer._

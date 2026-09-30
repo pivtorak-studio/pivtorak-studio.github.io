@@ -26,9 +26,9 @@ weight: 171
 
 <link rel="canonical" href="https://pivtorak.studio/pt/docs/shield-of-nation/">
 
-# #ShieldOfNation — Arquitetura da Proteção Nacional
+# ⛨ Escudo da Nação — Arquitetura da Proteção Nacional
 
-*#ShieldOfNation é uma série de investigação e visual que revela o Estado como um sistema vivo de proteção.*
+**⛨ Escudo da Nação** é uma série de investigação e visual que revela o Estado como um sistema vivo de proteção.*
 
 Esta série interpreta a nação não apenas como território ou estrutura política, mas como um ecossistema de papéis interligados, onde cada função é essencial para a sobrevivência, resiliência e desenvolvimento.
 

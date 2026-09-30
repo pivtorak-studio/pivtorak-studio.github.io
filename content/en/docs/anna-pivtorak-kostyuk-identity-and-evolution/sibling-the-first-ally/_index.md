@@ -1,15 +1,18 @@
 ---
-title: "Sibling: The First Ally"
+title: Sibling. The First Ally
 description: "The influence of a brother as the first ally: intellectual impulse, support, and action in critical moments."
-keywords: ["Anna Pivtorak", "brother", "influence", "support", "formation"]
+keywords:
+  - Anna Pivtorak
+  - brother
+  - influence
+  - support
+  - formation
 weight: 25
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp
 ---
-
-<div class="float-right">
 
 ![Sibling: The First Ally](/images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp)
 
-</div>
 
 # Sibling: The First Ally
 

@@ -4,14 +4,11 @@ title: "012 Axioma Da Fé"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axioma Da Fé](/images/shield-012.webp)
 
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Fé ✨🙏🕊️ Guardiã Do Espírito
+# Axioma Da Fé ✨🙏🕊️ Guardiã Do Espírito | Escudo da Nação
 
 _Axioma Da Fé: onde a escuridão parece infinita, surge uma luz que conduz à vitória.
 O silêncio em que nasce a vitória._  

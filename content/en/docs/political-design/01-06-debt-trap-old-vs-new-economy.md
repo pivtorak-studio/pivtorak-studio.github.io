@@ -4,14 +4,9 @@ title: "01-06 Debt Trap - Old vs New Economy"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Debt Trap - Old vs New Economy](/images/political-design-01-06.webp)
 
-</div>
-
-**Political Design**
-# 💣 I. Debt Trap. 🐌 Old vs New Economy
+# 💣 I. Debt Trap. 🐌 Old vs New Economy | Political Design
 
 _The past demands tribute from the future._
 

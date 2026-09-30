@@ -81,9 +81,8 @@ search: indexed
 
 ![O Direito de Amadurecer](/images/peaceful-life-008-the-right-to-ripen.webp)
 
-**🌱☀️ Vida Pacífica**
 
-# 🌾☀️🌿 O Direito de Amadurecer  
+# 🌾☀️🌿 O Direito de Amadurecer | Vida Pacífica  
 
 _Este campo não foi interrompido._
 

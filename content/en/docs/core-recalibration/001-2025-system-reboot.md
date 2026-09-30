@@ -88,15 +88,11 @@ search: indexed
 </script>
 
 
-<div class="float-right">
-
 ![System Reboot](/images/core-recalibration-001-2025-system-reboot.webp)
 
-</div>
 
-**⟡ Core Recalibration**
+# System Reboot | ⟡ Core Recalibration
 
-# System Reboot  
 _A new level — without announcement_  
 _(already running)_  
 

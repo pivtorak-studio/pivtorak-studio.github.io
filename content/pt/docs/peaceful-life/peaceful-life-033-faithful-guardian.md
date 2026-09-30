@@ -104,9 +104,7 @@ search: indexed
 
 ![O Guardião Fiel](/images/peaceful-life-033-faithful-guardian.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🐕🛡️🌙 O Guardião Fiel
+# 🐕🛡️🌙 O Guardião Fiel | Vida Pacífica
 
 _Há guardiões que nunca dizem uma palavra. Limitam-se a permanecer._
 

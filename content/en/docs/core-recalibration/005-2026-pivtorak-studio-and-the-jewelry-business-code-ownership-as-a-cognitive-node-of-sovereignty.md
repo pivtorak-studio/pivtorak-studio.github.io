@@ -87,15 +87,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![Pivtorak Studio and The Jewelry Business. Code Ownership as a Cognitive Node of Sovereignty](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp)
 
-</div>
-
-**⟡ Core Recalibration**
-
-# Pivtorak.Studio & TheJewelry.Business. Code Ownership as a Cognitive Node of Sovereignty
+# Pivtorak.Studio & TheJewelry.Business. Code Ownership as a Cognitive Node of Sovereignty | ⟡ Core Recalibration
 
 _When you own the code of your space, you no longer need intermediaries_
 

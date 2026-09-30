@@ -4,14 +4,10 @@ title: "01-03 Armadilha da Dívida - Futuro Acorrentado"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Armadilha da Dívida - Futuro Acorrentado](/images/political-design-01-03.webp)
 
-</div>
-
-**Design Político**
-# 💣 I. Armadilha da Dívida. ⌛ Futuro Acorrentado
+# 💣 I. Armadilha da Dívida. ⌛ Futuro Acorrentado | Design Político
 
 _O futuro não é adiado — é empenhado._
 

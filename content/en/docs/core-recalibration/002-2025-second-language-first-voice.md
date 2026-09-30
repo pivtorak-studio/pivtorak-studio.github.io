@@ -89,15 +89,10 @@ search: indexed
 </script>
 
 
-<div class="float-right">
-
 ![Second Language, First Voice](/images/core-recalibration-002-2025-second-language-first-voice.webp)
 
-</div>
+# Second Language, First Voice | ⟡ Core Recalibration
 
-**⟡ Core Recalibration**
-
-# Second Language, First Voice  
 _Not learning._
 _Tuning into currents._
 

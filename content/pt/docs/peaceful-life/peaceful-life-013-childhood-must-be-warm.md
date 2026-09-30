@@ -81,9 +81,7 @@ search: indexed
 
 ![A Infância Deve Ser Quente](/images/peaceful-life-013-childhood-must-be-warm.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🧒🏻🏠🔥 A Infância Deve Ser Quente
+# 🧒🏻🏠🔥 A Infância Deve Ser Quente | Vida Pacífica
 
 _O direito à segurança e ao conforto do lar_
 

@@ -81,9 +81,7 @@ search: indexed
 
 ![Piquenique em família](/images/peaceful-life-009-family-picnic.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🧺🌳☀️ Piquenique em família
+# 🧺🌳☀️ Piquenique em família | Vida Pacífica
 
 _Onde não há guerra — amadurece a gratidão_
 

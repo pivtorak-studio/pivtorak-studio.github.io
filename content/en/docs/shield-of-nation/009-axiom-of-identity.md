@@ -4,14 +4,11 @@ title: "009 Axiom Of Identity"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axiom Of Identity](/images/shield-009.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Identity 🎨🎙️📜 Artist — Voice Of Truth
+# Axiom Of Identity 🎨🎙️📜 Artist — Voice Of Truth | Shield Of Nation
 
 _Axiom of identity: where the enemy tries to erase, a voice arises that creates.  
 The artist is the mirror of the people and the light of their soul.  

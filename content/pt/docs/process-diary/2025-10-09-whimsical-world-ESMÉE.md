@@ -4,14 +4,11 @@ title: 20251009 MundoCaprichoso. ESMÉE
 weight: 20251009
 ---
 
-<div class="float-right">
+
 
 ![Mundo Caprichoso. ESMÉE](/images/process-diary-20251009.webp)
 
-</div>
-
-**🪶 Diário do Processo**  
-# 2025 10 09 ✨ Mundo Caprichoso 🐉⚖️ ESMÉE 
+# 2025 10 09 ✨ Mundo Caprichoso 🐉⚖️ ESMÉE | Diário do Processo 
 
 **Esmée — o equilíbrio que já não sonha.**
 _Ela não procura mais a harmonia — ela respira-a._

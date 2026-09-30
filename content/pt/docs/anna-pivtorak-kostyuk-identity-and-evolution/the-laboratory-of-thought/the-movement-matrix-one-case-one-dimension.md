@@ -55,11 +55,9 @@ weight: 101
 }
 </script>
 
-<div class="float-right">
 
 ![Path: Sistema de Visualização de Estados. Mapa de Movimento. Tabela](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-the-movement-matrix-one-case-one-dimension.webp)
 
-</div>
 
 # A Matriz de Movimento: Um Caso — Uma Dimensão   
 _Um objetivo alcançado dá o direito de não analisar cada minuto_

@@ -105,9 +105,7 @@ search: indexed
 
 ![O Irmão Super-Herói](/images/peaceful-life-031-brother-superhero.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🧒🏻🦸🏻‍♂️🛡️ O Irmão Super-Herói
+# 🧒🏻🦸🏻‍♂️🛡️ O Irmão Super-Herói | Vida Pacífica
 
 _Os maiores heróis nem sempre voam. Muitas vezes limitam-se a caminhar ao nosso lado._
 

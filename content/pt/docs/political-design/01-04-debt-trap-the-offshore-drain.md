@@ -4,14 +4,11 @@ title: "01-04 Armadilha da Dívida - A Fuga de Capitais"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Armadilha da Dívida - A Fuga de Capitais](/images/political-design-01-04.webp)
 
-</div>
-
-**Design Político**
-# 💣 I. Armadilha da Dívida. 🕳️ A Fuga de Capitais
+# 💣 I. Armadilha da Dívida. 🕳️ A Fuga de Capitais | Design Político
 
 _O capital não foge dos impostos — foge da incerteza._
 

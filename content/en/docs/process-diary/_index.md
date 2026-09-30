@@ -26,8 +26,8 @@ weight: 121
 
 <link rel="canonical" href="https://pivtorak.studio/docs/process-diary/">
 
-# #ProcessDiary — Process as Provenance  
-*#ProcessDiary is a series documenting not the result, but the formation of the system itself.*
+# Process Diary — Process as Provenance  
+***Process Diary** is a series documenting not the result, but the formation of the system itself.*
 
 This is not a diary in the conventional sense.    
 It operates as a **tool for recording decisions, shifts, and operational logic**.

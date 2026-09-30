@@ -4,14 +4,9 @@ title: "008 Axiom of Revival"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Axiom of Revival](/images/shield-008.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom of Revival 🌾🚜☀️ Farmer — Guardian Of Bread
+# Axiom of Revival 🌾🚜☀️ Farmer — Guardian Of Bread | Shield Of Nation
 
 _Axiom of Revival: as long as the land bears fruit, the people stand.  
 The farmer is the guardian of bread, the keeper of existence.  

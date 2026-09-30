@@ -4,14 +4,11 @@ title: "006 Axioma Da Unidade"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axioma Da Unidade](/images/shield-006.webp)
 
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Unidade 🫂📦🕊️ Voluntário — Escudo Invisível
+# Axioma Da Unidade 🫂📦🕊️ Voluntário — Escudo Invisível | Escudo da Nação
 
 _Axioma da unidade: onde a destruição divide, surge a mão que ajuda.  
 O voluntário é o escudo invisível, mas sempre sentido.  

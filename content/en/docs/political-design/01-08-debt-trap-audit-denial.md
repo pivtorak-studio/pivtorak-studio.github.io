@@ -4,15 +4,10 @@ title: "01-08 Debt Trap - Audit Denial"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Debt Trap - Audit Denial](/images/political-design-01-08.webp)
 
-</div>
-
-**Political Design**
-
-# 💣 I. Debt Trap. 🦯 Audit Denial
+# 💣 I. Debt Trap. 🦯 Audit Denial | Political Design
 
 _Problems grow in the dark — especially the ones no one wants to measure._
 

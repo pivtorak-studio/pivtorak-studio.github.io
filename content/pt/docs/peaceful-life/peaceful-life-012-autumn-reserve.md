@@ -81,9 +81,7 @@ search: indexed
 
 ![Reserva de Outono](/images/peaceful-life-012-autumn-reserve.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🐿️🌰🍂 Reserva de Outono
+# 🐿️🌰🍂 Reserva de Outono | Vida Pacífica
 
 _Sobre o cuidado que começa no tempo certo_
 

@@ -1,15 +1,20 @@
 ---
 title: "Irmão: O Primeiro Aliado"
 description: "A influência do irmão como primeiro aliado: impulso intelectual, apoio e ação em momentos críticos."
-keywords: ["Anna Pivtorak", "irmão", "influência", "apoio", "formação"]
+keywords:
+  - Anna Pivtorak
+  - irmão
+  - influência
+  - apoio
+  - formação
 weight: 25
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp
 ---
 
-<div class="float-right">
+
 
 ![Irmão: O Primeiro Aliado](/images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp)
 
-</div>
 
 # Irmão: O Primeiro Aliado
 

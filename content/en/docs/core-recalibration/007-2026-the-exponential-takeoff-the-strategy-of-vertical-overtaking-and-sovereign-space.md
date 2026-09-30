@@ -115,15 +115,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space](/images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp)
 
-</div>
-
-**⟡ Core Recalibration**
-
-# The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space
+# The Exponential Takeoff. The Strategy of Vertical Overtaking and Sovereign Space | ⟡ Core Recalibration
 
 _If a door is closed in front of you — do not knock. Take flight._
 

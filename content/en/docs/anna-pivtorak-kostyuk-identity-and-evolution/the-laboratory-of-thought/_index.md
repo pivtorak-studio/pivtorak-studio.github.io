@@ -1,15 +1,19 @@
 ---
-title: "The Laboratory of Thought"
+title: The Laboratory of Thought
 description: "An archive of handwritten notebooks documenting the process of thinking: structures, logic, and knowledge formation over time."
-keywords: ["Anna Pivtorak", "notebooks", "archive", "thinking", "research", "notes"]
+keywords:
+  - Anna Pivtorak
+  - notebooks
+  - archive
+  - thinking
+  - research
+  - notes
 weight: 60
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp
 ---
-
-<div class="float-right">
 
 ![The Laboratory of Thought](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp)
 
-</div>
 
 # The Laboratory of Thought
 

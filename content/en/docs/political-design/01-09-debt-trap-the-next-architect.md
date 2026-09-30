@@ -4,20 +4,12 @@ title: "01-09 Debt Trap - The Next Architect"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Debt Trap - The Next Architect](/images/political-design-01-09b.webp)
 
-</div>
-
-<div class="float-right">
-
 ![Debt Trap - The Next Architect](/images/political-design-01-09a.webp)
 
-</div>
-
-**Political Design**
-# 💣 I. Debt Trap. 🏗️ The Next Architect
+# 💣 I. Debt Trap. 🏗️ The Next Architect | Political Design
 
 _Systems age faster than their managers — only a new architect can stop the leakage of time._
 

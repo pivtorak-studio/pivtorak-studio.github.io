@@ -4,15 +4,10 @@ title: "008 Axioma Do Renascimento"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axioma Do Renascimento](/images/shield-008.webp)
 
-</div>
-
-**Escudo Da Nação**
-
-# Axioma Do Renascimento 🌾🚜☀️ Agricultor — Guardião Do Pão
+# Axioma Do Renascimento 🌾🚜☀️ Agricultor — Guardião Do Pão | Escudo da Nação
 
 _Axioma da vida: enquanto a terra dá frutos, o povo permanece.  
 O agricultor é o guardião do pão, sustentáculo da existência.  

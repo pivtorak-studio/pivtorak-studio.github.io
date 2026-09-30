@@ -97,9 +97,7 @@ search: indexed
 
 ![A Floresta Que Protege](/images/peaceful-life-020-the-forest-that-protects.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🌲🦊✨ A Floresta Que Protege
+# 🌲🦊✨ A Floresta Que Protege | Vida Pacífica
 
 _A natureza nos guarda no silêncio, mesmo quando não percebemos._
 

@@ -8,11 +8,10 @@ date: 2025-05-02
 event_date: 2021-05-02
 ---
 
-<div class="float-right">
+
 
 ![Nadiia Mykolaivna (Dovbysh) Kostyuk. Sabedoria da Mãe — Identidade e Sensibilidades](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-nadiia-kostyuk-dovbysh.webp)
 
-</div>
 
 # Nadiia Mykolaivna (Dovbysh) Kostyuk. Sabedoria da Mãe — Identidade e Sensibilidades
 

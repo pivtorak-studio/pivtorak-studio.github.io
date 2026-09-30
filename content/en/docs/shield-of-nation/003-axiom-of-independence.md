@@ -3,14 +3,10 @@ title: "003 Axiom Of Independence"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axiom Of Independence](/images/shield-003.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Independence ⚡️💡🛠️ Energy Worker — Blacksmith Of Light
+# Axiom Of Independence ⚡️💡🛠️ Energy Worker — Blacksmith Of Light | Shield Of Nation
 
 _Axiom of independence: where darkness tries to break the people, light is born.  
 The spark in the hands of an energy worker is a ray of freedom.  

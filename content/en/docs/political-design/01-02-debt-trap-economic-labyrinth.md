@@ -4,15 +4,10 @@ title: "01-02 Debt Trap - Economic Labyrinth"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Debt Trap - Economic Labyrinth](/images/political-design-01-02.webp)
 
-</div>
-
- **Political Design**
-
-# 💣 I. Debt Trap. 🕸️ Economic Labyrinth
+# 💣 I. Debt Trap. 🕸️ Economic Labyrinth | Political Design
 
 _When bureaucracy grows faster than the economy, investment becomes prey._
 

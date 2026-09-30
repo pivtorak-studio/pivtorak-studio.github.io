@@ -97,9 +97,7 @@ search: indexed
 
 ![Uma Canção Mais Forte do Que o Ruído](/images/peaceful-life-030-a-song-stronger-than-noise.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🎧🤦🏻‍♀️🎶 Uma Canção Mais Forte do Que o Ruído
+# 🎧🤦🏻‍♀️🎶 Uma Canção Mais Forte do Que o Ruído | Vida Pacífica
 
 _Por vezes, a paz não começa quando as explosões terminam.    
 Por vezes, começa quando uma pessoa encontra um som mais forte do que o medo._

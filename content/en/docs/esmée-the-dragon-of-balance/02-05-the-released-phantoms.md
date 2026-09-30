@@ -7,14 +7,10 @@ publication_date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 
-<div class="float-right">
-
 ![🐉⚖️ ESMÉE. 🌀 The Released Phantoms](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 The Released Phantoms | The Dragon of Balance 
 
-**✨ WhimsicalWorld**
-# 🐉⚖️ ESMÉE. 🌀 The Released Phantoms
 _Alchemy of memory. Where fear becomes knowledge._
 
 Esmée sits in a beam of light that passes through broken structures — the remnants of old regimes, symbols of power, and shadows of control. She neither fights nor flees them — she observes. What once was darkness begins to take shape as a map, a code, a system.

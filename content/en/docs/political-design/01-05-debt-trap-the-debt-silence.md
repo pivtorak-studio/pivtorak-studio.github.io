@@ -4,14 +4,9 @@ title: "01-05 Debt Trap - The Debt Silence"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Debt Trap - The Debt Silence](/images/political-design-01-05.webp)
 
-</div>
-
-**Political Design**
-# 💣 I. Debt Trap. 🙊 The Debt Silence
+# 💣 I. Debt Trap. 🙊 The Debt Silence | Political Design
 
 _When truth becomes dangerous, even the walls start speaking louder than politicians._
 

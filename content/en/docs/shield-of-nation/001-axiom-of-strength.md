@@ -4,14 +4,9 @@ title: "001 Axiom Of Strength"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Axiom Of Strength](/images/shield-001.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Strength 🪖🛡️⚓️ Military Defense
+# Axiom Of Strength 🪖🛡️⚓️ Military Defense | Shield Of Nation
 
 _Axiom of strength: where the enemy comes with weapons, a warrior rises.  
 Unbreakable as armor. Invisible as prayer. Inevitable as dawn._

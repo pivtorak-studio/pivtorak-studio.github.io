@@ -1,8 +1,14 @@
 ---
-title: "Kovtyukh — Continuity Under Renunciation"
+title: Kovtyukh — Continuity Under Renunciation
 description: "Epifan Kovtyukh as a figure who preserved the lineage: memory, responsibility, and transmission across generations."
-keywords: ["Kovtyukh", "Epifan Kovtyukh", "lineage", "memory", "history"]
+keywords:
+  - Kovtyukh
+  - Epifan Kovtyukh
+  - lineage
+  - memory
+  - history
 weight: 40
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp
 ---
 
 <div class="float-right">

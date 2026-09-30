@@ -4,14 +4,11 @@ title: 20250516 Mundo Caprichoso. ESMÉE
 weight: 20250516
 ---
 
-<div class="float-right">
+
 
 ![Mundo Caprichoso. ESMÉE](/images/process-diary-20250516-whimsical-world-pivtorak-studio-2025.webp)
 
-</div>
-
-**🪶 Diário do Processo**
-# 2025 05 16 ✨ Mundo Caprichoso 🐉⚖️ ESMÉE
+# 2025 05 16 ✨ Mundo Caprichoso 🐉⚖️ ESMÉE | Diário do Processo
 
 **Esmée surgiu quando o silêncio se tornou mais honesto do que as palavras.**  
 _Ela não foi chamada — tornou-se a resposta._

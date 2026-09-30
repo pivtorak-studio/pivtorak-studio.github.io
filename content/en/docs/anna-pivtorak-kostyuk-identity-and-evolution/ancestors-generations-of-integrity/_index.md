@@ -1,8 +1,15 @@
 ---
 title: "Ancestors: Generations of Integrity"
 description: "Lineage as a field of formation: values transmitted beyond words that define the limits of action and thought."
-keywords: ["Anna Pivtorak", "ancestors", "lineage", "values", "integrity"]
+keywords:
+  - Anna Pivtorak
+  - ancestors
+  - lineage
+  - values
+  - integrity
 weight: 45
+image:
+  - /images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp
 ---
 
 <div class="float-right">

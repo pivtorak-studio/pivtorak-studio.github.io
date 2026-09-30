@@ -4,14 +4,11 @@ title: "01-06 Armadilha da Dívida - Velha vs Nova Economia"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Armadilha da Dívida - Velha vs Nova Economia](/images/political-design-01-06.webp)
 
-</div>
-
-**Design Político**
-# 💣 I. A Armadilha da Dívida. 🐌 Velha vs Nova Economia
+# 💣 I. A Armadilha da Dívida. 🐌 Velha vs Nova Economia | Design Político
 
 _O passado exige tributo ao futuro._
 

@@ -92,9 +92,7 @@ search: indexed
 
 ![O Direito de Não Ouvir um Hino de Agressão](/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🎧🧍‍♀️🤍 O Direito de Não Ouvir um Hino de Agressão
+# 🎧🧍‍♀️🤍 O Direito de Não Ouvir um Hino de Agressão | Vida Pacífica
 
 _Por vezes, a paz não começa com palavras.    
 Por vezes, começa com a decisão de não ouvir aquilo que traz dor._

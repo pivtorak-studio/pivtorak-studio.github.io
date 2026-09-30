@@ -1,15 +1,17 @@
 ---
 title: "Roots: Parents"
-description: "Parental influence as the source of thinking, principles, and internal structure."
-keywords: ["Anna Pivtorak", "parents", "roots", "values", "formation"]
+description: Parental influence as the source of thinking, principles, and internal structure.
+keywords:
+  - Anna Pivtorak
+  - parents
+  - roots
+  - values
+  - formation
 weight: 20
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp
 ---
 
-<div class="float-right">
-
 ![Roots: Parents](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
-
-</div>
 
 # Roots: Parents
 

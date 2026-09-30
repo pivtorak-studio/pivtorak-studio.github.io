@@ -4,14 +4,9 @@ title: "01-04 Debt Trap - The Offshore Drain"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Debt Trap - The Offshore Drain](/images/political-design-01-04.webp)
 
-</div>
-
-**Political Design**
-# 💣 I. Debt Trap. 🕳️ The Offshore Drain
+# 💣 I. Debt Trap. 🕳️ The Offshore Drain | Political Design
 
 _Capital doesn’t flee taxes — it flees uncertainty._
 

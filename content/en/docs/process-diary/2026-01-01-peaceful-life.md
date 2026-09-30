@@ -6,14 +6,9 @@ weight: 20260101
 
  
 
-<div class="float-right">
-
 ![PeacefulLife](/images/process-diary-20260101.webp)
 
-</div>
-
-**🧭 Process Diary**
-# 2026 01 01 🌞 Peaceful Life
+# 2026 01 01 🌞 Peaceful Life | Process Diary
 
 It did not arrive as an idea.  
 It came as an inner need to hold something steady while the world was shifting.

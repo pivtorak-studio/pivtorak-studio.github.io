@@ -7,14 +7,10 @@ weight: 20260109
 
 
 
-<div class="float-right">
 
 ![NewReality. IntellectAndResponsibility](/images/process-diary-20260109.webp)
 
-</div>
-
-🧭 **Process Diary**
-# 2026 01 09 🌐 New Reality. Intellect and Responsibility
+# 2026 01 09 🌐 New Reality. Intellect and Responsibility | Process Diary
 
 It all started with dissecting the ru-empire's power system. But amidst the calculations, an image emerged: "people in expensive watches legalizing evil." 
 We realized that evil feeds not only on oil but on the silent complicity of the elites.

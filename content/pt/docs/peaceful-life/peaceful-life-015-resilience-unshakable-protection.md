@@ -81,9 +81,8 @@ search: indexed
 
 ![Resiliência. Proteção Inabalável](/images/peaceful-life-015-resilience-unshakable-protection.webp)
 
-**🌱☀️ Vida Pacífica**
 
-# 🛡️🏰🛠️ Resiliência. Proteção Inabalável
+# 🛡️🏰🛠️ Resiliência. Proteção Inabalável | Vida Pacífica
 
 _Quando o vento da mudança não destrói, mas prova — permanecemos firmes._
 

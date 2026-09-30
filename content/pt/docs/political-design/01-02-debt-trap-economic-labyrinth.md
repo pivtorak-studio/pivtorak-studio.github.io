@@ -4,14 +4,11 @@ title: "01-02 Armadilha da Dívida - Labirinto Económico"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Armadilha da Dívida - Labirinto Económico](/images/political-design-01-02.webp)
 
-</div>
-
- **Design Político**
-# 💣 I. Armadilha da Dívida. 🕸️ Labirinto Económico
+# 💣 I. Armadilha da Dívida. 🕸️ Labirinto Económico | Design Político
 
 _Quando a burocracia substitui a lógica, o investimento deixa de avançar._
 

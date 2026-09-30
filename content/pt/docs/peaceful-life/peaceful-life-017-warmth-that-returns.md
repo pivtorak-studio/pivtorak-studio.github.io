@@ -97,9 +97,8 @@ search: indexed
 
 ![O Calor Que Retorna](/images/peaceful-life-017-warmth-that-returns.webp)
 
-**🌱☀️ Vida Pacífica**
 
-# 🧣🐕🔥 O Calor Que Retorna
+# 🧣🐕🔥 O Calor Que Retorna | Vida Pacífica
 
 _A bondade dada com sinceridade sempre encontra o caminho de volta._
 

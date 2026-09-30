@@ -26,8 +26,9 @@ weight: 121
 
 <link rel="canonical" href="https://pivtorak.studio/docs/process-diary/">
 
-# #ProcessDiary — Processo como Proveniência  
-*A #ProcessDiary é uma série que documenta não o resultado, mas a formação do próprio sistema.*
+# Diário do Processo— Processo como Proveniência  
+
+*A **Diário do Processo** é uma série que documenta não o resultado, mas a formação do próprio sistema.*
 
 Não se trata de um diário no sentido convencional.  
 Funciona como uma **ferramenta de registo de decisões, mudanças e lógica operacional**.  

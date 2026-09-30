@@ -105,9 +105,7 @@ search: indexed
 
 ![Public Incompleteness. The Architecture of a Living Sovereign System](/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp)
 
-**⟡ Core Recalibration**
-
-# Public Incompleteness. The Architecture of a Living Sovereign System
+# Public Incompleteness. The Architecture of a Living Sovereign System | ⟡ Core Recalibration
 
 _A living system breathes openly._
 

@@ -90,9 +90,7 @@ search: indexed
 
 ![A Natureza Tem Direito à Vida](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🌳🦌🌿 A Natureza Tem Direito à Vida
+# 🌳🦌🌿 A Natureza Tem Direito à Vida | Vida Pacífica
 
 _As florestas não são alvos_
 

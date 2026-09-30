@@ -54,11 +54,9 @@ weight: "102"
 }
 </script>
 
-<div class="float-right">
 
 ![Path: Sistema de Visualização de Estados. Mapa de Movimento](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp)
 
-</div>
 
 # Path: Sistema de Visualização de Estados. Mapa de Movimento     
 _A clareza é mais forte do que a motivação_   

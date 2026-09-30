@@ -4,20 +4,13 @@ title: "01-09 Armadilha da Dívida - O Próximo Arquiteto"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Armadilha da Dívida - O Próximo Arquiteto](/images/political-design-01-09b.webp)
 
-</div>
-
-<div class="float-right">
-
 ![Armadilha da Dívida - O Próximo Arquiteto](/images/political-design-01-09a.webp)
-
-</div>
-
-**Design Político**
-# 💣 I. A Armadilha da Dívida. 🏗️ O Próximo Arquiteto
+**
+# 💣 I. A Armadilha da Dívida. 🏗️ O Próximo Arquiteto | Design Político
 
 _Os sistemas envelhecem mais depressa do que quem os gere — só um novo arquiteto consegue travar o desperdício do tempo._
 

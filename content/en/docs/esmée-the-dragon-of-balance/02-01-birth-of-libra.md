@@ -7,14 +7,11 @@ publication_date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 🌀 Birth of Libra](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 Birth of Libra | The Dragon of Balance 
 
-**✨ WhimsicalWorld**
-# 🐉⚖️ ESMÉE. 🌀 Birth of Libra.
 _The Equilibrium of Origin._
 
 The world begins not with an explosion, but with a breath. Esmée opens her eyes in the streams of light flowing through her — between two wings: one human, one draconic. One remembers shadow, the other remembers flight. She doesn’t choose which one is true, because both are her essence.

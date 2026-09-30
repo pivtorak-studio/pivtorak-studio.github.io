@@ -87,15 +87,11 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
-</div>
 
-**⟡ Core Recalibration**
-
-# The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking  
+# The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategic Thinking | ⟡ Core Recalibration  
 
 _Rhythm as a warm-up before code_
 

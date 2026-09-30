@@ -4,14 +4,10 @@ title: "007 Axiom Of Hope"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axiom Of Hope](/images/shield-007.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Hope 🧑‍🚒💧🔥 Rescuer — Guardian Of Fire
+# Axiom Of Hope 🧑‍🚒💧🔥 Rescuer — Guardian Of Fire | Shield Of Nation
 
 _Axiom of hope: in the fire of destruction, there is always a hand that saves.  
 The rescuer is the flame that does not burn but protects.  

@@ -1,6 +1,6 @@
 ---
 title: ⎚ Political Design
-description: "#PoliticalDesign is a research series exploring politics as system design. From debt traps to elections and governance, the state is reimagined as a product."
+description: Political Design is a research series exploring politics as system design. From debt traps to elections and governance, the state is reimagined as a product.
 bookCollapseSection: true
 weight: 161
 ---
@@ -26,9 +26,9 @@ weight: 161
 
 <link rel="canonical" href="https://pivtorak.studio/en/docs/political-design/">
 
-# #PoliticalDesign — Politics as System Architecture and Design
+# ⎚ Political Design — Politics as System Architecture and Design
 
-*#PoliticalDesign is a research and visual series dedicated to understanding modern political systems as designed environments.*
+**⎚ Political Design** is a research and visual series dedicated to understanding modern political systems as designed environments.*
 
 Rather than treating politics as a collection of events or personalities, this series approaches it as an architecture of processes, interfaces, and decisions. Each work functions as a module — a conceptual unit that reveals hidden mechanisms of power, economy, and social interaction.
 

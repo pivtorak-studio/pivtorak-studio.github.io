@@ -4,14 +4,12 @@ title: "010 Axioma Da Memória"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axioma Da Memória](/images/shield-010.webp)
 
-</div>
+# Axioma Da Memória 🕯️📚🏰 Historiador — Guardião Do Tempo | Escudo da Nação
 
-**Escudo Da Nação**
-# Axioma Da Memória 🕯️📚🏰 Historiador — Guardião Do Tempo
 _Axioma Da Memória: onde o inimigo tenta apagar o passado, surge a verdade que devolve a voz.
 Aquele que devolve a voz dos mortos para ensinar os vivos._  
 _Sua pena é mais afiada que qualquer espada, pois restaura a verdade que tentaram apagar._

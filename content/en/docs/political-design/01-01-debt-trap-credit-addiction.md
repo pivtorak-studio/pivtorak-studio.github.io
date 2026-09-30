@@ -4,14 +4,12 @@ title: "01-01 Debt Trap - Credit Addiction"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Debt Trap - Credit Addiction](/images/political-design-01-01.webp)
 
-</div>
 
-**Political Design**
-# 💣 I. Debt Trap. 💉 Credit Addiction
+
+# 💣 I. Debt Trap. 💉 Credit Addiction | Political Design
 
 _When a state borrows instead of building, it becomes addicted to the external needle._
 

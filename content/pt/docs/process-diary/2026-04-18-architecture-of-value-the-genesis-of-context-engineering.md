@@ -10,8 +10,7 @@ weight: 20260418
 
 </div>
 
-🧭 **Diário do Processo**
-# 2026 04 18 ∀ ◉ ∃ Arquitetura de Valor. A Génese da Engenharia de Contexto
+# 2026 04 18 ∀ ◉ ∃ Arquitetura de Valor. A Génese da Engenharia de Contexto | Diário do Processo
 
 **Objetivo do registo:** Fixar os pontos de intersecção das ciências exatas, da arte e do conhecimento intuitivo que levaram à criação de um modelo matemático-lógico de valor.
 

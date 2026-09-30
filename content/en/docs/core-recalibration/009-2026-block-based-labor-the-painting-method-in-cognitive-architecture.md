@@ -105,9 +105,7 @@ search: indexed
 
 ![Block-Based Labor. The Painting Method in Cognitive Architecture](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
 
-**⟡ Core Recalibration**
-
-# Block-Based Labor. The Painting Method in Cognitive Architecture
+# Block-Based Labor. The Painting Method in Cognitive Architecture | ⟡ Core Recalibration
 
 _Mastery lies in ensuring the system is integrated at every microcycle of its creation._
 

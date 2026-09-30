@@ -71,9 +71,7 @@ search: indexed
 
 ![Management of Sufficiency Threshold. Maximum is not Optimum](/images/core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.webp)
 
-**⟡ Core Recalibration**
-
-# Management of Sufficiency Threshold. Maximum is not Optimum
+# Management of Sufficiency Threshold. Maximum is not Optimum | ⟡ Core Recalibration
 
 _"Done" is also a form of mastery._
 

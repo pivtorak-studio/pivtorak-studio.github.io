@@ -81,9 +81,7 @@ search: indexed
 
 ![Volta às Aulas](/images/peaceful-life-010-back-to-school.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 📚🚌🧠 Volta às Aulas
+# 📚🚌🧠 Volta às Aulas | Vida Pacífica
 
 _A escola é um espaço de futuro, não de medo_
 

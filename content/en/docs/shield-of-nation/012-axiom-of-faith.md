@@ -4,14 +4,9 @@ title: "012 Axiom Of Faith"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Axiom Of Faith](/images/shield-012.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Faith ✨🙏🕊️ Guardian Of Spirit
+# Axiom Of Faith ✨🙏🕊️ Guardian Of Spirit | Shield Of Nation
 
 _Axiom Of Faith: where darkness seems endless, a light arises that leads to victory.
 Silence in which victory is born._  

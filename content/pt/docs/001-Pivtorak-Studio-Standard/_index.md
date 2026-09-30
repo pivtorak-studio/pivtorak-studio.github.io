@@ -5,6 +5,7 @@ bookCollapseSection: true
 weight: 61
 event_date: 2025-01-07
 publication_date: 2025-01-07
+image: /images/001-pivtorak-studio-standard.webp
 ---
 ![Pivtorak Studio Standard](/images/001-pivtorak-studio-standard.webp)
 

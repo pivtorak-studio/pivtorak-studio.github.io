@@ -99,9 +99,7 @@ search: indexed
 
 ![The Architecture of Meaning Environments. The Vitruvian Triad of Sovereign Thinking](/images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp)
 
-**⟡ Core Recalibration**
-
-# The Architecture of Meaning Environments. The Vitruvian Triad of Sovereign Thinking
+# The Architecture of Meaning Environments. The Vitruvian Triad of Sovereign Thinking | ⟡ Core Recalibration
 
 _Construction creates objects.     
 Architecture designs the environments in which those objects become possible._   

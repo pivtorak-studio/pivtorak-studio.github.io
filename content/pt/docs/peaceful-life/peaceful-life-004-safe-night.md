@@ -91,9 +91,7 @@ search: indexed
 
 ![Noite Segura. Círculo de Confiança](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🪵🔥🌌 Noite Segura. Círculo de Confiança
+# 🪵🔥🌌 Noite Segura. Círculo de Confiança | Vida Pacífica
 
 *Adolescentes têm direito a um acampamento tranquilo*
 

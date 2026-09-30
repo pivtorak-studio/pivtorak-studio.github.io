@@ -109,10 +109,7 @@ weight: 20260131
 
 ![2026 01 31 ✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: From the Dismantling of a Regime to the Revival of Civilization](/images/process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization.webp)
 
-
-**🧭 Process Diary**
-
-# 2026 01 31 ✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: From the Dismantling of a Regime to the Revival of Civilization
+# 2026 01 31 ✯ Extra Credit Problem (The Asterisk Problem). Iran – Persia: From the Dismantling of a Regime to the Revival of Civilization | Process Diary
 
 This series did not begin with Persia.
 

@@ -116,6 +116,7 @@ search: indexed
 **🪙 Pivtorak.Studio — The Formula of Transformation**
 
 # 📍 The Presence  
+
 *The formula is already at work.*
 
 **10.08.2023.** I didn’t just walk away from different systems.  

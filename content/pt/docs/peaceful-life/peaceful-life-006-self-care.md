@@ -82,9 +82,7 @@ search: indexed
 
 ![Cuidar de Si](/images/peaceful-life-006-self-care.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# ☕🌿🏡 Cuidar de Si
+# ☕🌿🏡 Cuidar de Si | Vida Pacífica
 
 *Quando o silêncio fala mais alto do que os planos*
 

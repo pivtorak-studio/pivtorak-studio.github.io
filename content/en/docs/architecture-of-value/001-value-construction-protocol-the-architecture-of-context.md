@@ -5,14 +5,10 @@ descriptions: A foundational protocol by Pivtorak Studio that redefines the natu
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Value Construction Protocol: The Architecture of Context](/images/architecture-of-value-001-value-construction-protocol-the-architecture-of-context-pivtorak-studio-2026.webp)
 
-</div>
 
-**∀ ◉ ∃ Architecture of Value**
-# Value Construction Protocol: The Architecture of Context
+# Value Construction Protocol: The Architecture of Context | ∀ ◉ ∃ Architecture of Value
 
 ## 0. Status & Identification  
 - **Type:** Conceptual / Applied Protocol (White Paper)  

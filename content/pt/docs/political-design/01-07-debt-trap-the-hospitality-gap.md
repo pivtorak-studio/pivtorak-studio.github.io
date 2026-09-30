@@ -4,14 +4,10 @@ title: "01-07 Armadilha da Dívida - A Lacuna da Hospitalidade"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Armadilha da Dívida - A Lacuna da Hospitalidade](/images/political-design-01-07.webp)
 
-</div>
-
-**Design Político**
-# 💣 I. A Armadilha da Dívida. 🚧 A Lacuna da Hospitalidade
+# 💣 I. A Armadilha da Dívida. 🚧 A Lacuna da Hospitalidade | Design Político
 
 _A confiança desaparece quando a autoridade entra como suspeita._
 

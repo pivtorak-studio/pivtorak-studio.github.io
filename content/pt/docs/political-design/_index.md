@@ -1,6 +1,6 @@
 ---
 title: ⎚ Design Político
-description: "Série #PoliticalDesign: análise da política como design de sistemas. Dívida, eleições, poder e Estado reinterpretados como produto e arquitetura."
+description: "Série Political Design: análise da política como design de sistemas. Dívida, eleições, poder e Estado reinterpretados como produto e arquitetura."
 bookCollapseSection: true
 weight: 161
 ---
@@ -26,9 +26,9 @@ weight: 161
 
 <link rel="canonical" href="https://pivtorak.studio/pt/docs/political-design/">
 
-# #PoliticalDesign — Política como Arquitetura e Design de Sistemas
+# Design Político — Política como Arquitetura e Design de Sistemas
 
-*#PoliticalDesign é uma série de investigação e expressão visual dedicada à análise dos sistemas políticos contemporâneos como ambientes projetados.*
+****Design Político** é uma série de investigação e expressão visual dedicada à análise dos sistemas políticos contemporâneos como ambientes projetados.*
 
 Em vez de tratar a política como um conjunto de eventos ou figuras, esta série aborda-a como uma arquitetura de processos, interfaces e decisões. Cada obra funciona como um módulo — uma unidade conceptual que revela mecanismos ocultos de poder, economia e interação social.
 

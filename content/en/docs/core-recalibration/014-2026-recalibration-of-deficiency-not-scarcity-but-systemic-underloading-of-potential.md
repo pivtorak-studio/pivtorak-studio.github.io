@@ -106,9 +106,7 @@ search: indexed
 
 ![Recalibration of Deficiency. Not Scarcity, but Systemic Underloading of Potential](/images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.webp)
 
-**⟡ Core Recalibration**
-
-# Recalibration of Deficiency. Not Scarcity, but Systemic Underloading of Potential  
+# Recalibration of Deficiency. Not Scarcity, but Systemic Underloading of Potential | ⟡ Core Recalibration  
 
 _The architecture of an unmapped universe_  
 

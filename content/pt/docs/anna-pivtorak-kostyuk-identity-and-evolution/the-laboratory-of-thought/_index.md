@@ -1,15 +1,20 @@
 ---
-title: "O Laboratório do Pensamento"
+title: O Laboratório do Pensamento
 description: "Arquivo de cadernos manuscritos como registo do processo de pensamento: formação de conhecimento, estrutura e lógica ao longo do tempo."
-keywords: ["Anna Pivtorak", "cadernos", "arquivo", "pensamento", "investigação", "notas"]
+keywords:
+  - Anna Pivtorak
+  - cadernos
+  - arquivo
+  - pensamento
+  - investigação
+  - notas
 weight: 60
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp
 ---
 
-<div class="float-right">
 
 ![O Laboratório do Pensamento](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp)
 
-</div>
 
 # O Laboratório do Pensamento
 

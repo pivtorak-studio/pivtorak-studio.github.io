@@ -94,9 +94,7 @@ search: indexed
 
 ![Scale Evolution. From Daily Work to Research Program](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
 
-**⟡ Core Recalibration**
-
-# Scale Evolution. From Daily Work to Research Program
+# Scale Evolution. From Daily Work to Research Program | ⟡ Core Recalibration
 
 *The Systemic Transformation of the Unit of Thought*
 

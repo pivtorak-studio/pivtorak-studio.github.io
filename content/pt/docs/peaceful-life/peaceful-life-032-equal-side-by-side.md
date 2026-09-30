@@ -102,9 +102,7 @@ search: indexed
 
 ![Iguais. Lado a Lado.](/images/peaceful-life-032-equal-side-by-side.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 👫🦸❤️ Iguais. Lado a Lado.
+# 👫🦸❤️ Iguais. Lado a Lado | Vida Pacífica
 
 _As relações mais fortes constroem-se na igualdade, não no poder._
 

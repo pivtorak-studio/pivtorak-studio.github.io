@@ -100,9 +100,7 @@ search: indexed
 
 ![Paz Desenhada com Consciência](/images/peaceful-life-023-peace-drawn-with-awareness.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🧑‍🤝‍🧑📐🤍 Paz Desenhada com Consciência
+# 🧑‍🤝‍🧑📐🤍 Paz Desenhada com Consciência | Vida Pacífica
 
 _A paz surge quando a responsabilidade assume a forma de cuidado._
 

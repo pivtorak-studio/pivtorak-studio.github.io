@@ -4,15 +4,10 @@ title: 20251130 NovaRealidade. Ucrânia. PlanoDePaz
 weight: 20251130
 ---
 
-<div class="float-right">
 
 ![NovaRealidade. Ucrânia. PlanoDePaz](/images/process-diary-20251130.webp)
 
-</div>
-
-**🧭 Diário do Processo**
-
-# 2025 11 30 🌐 Nova Realidade. Ucrânia. Plano de Paz
+# 2025 11 30 🌐 Nova Realidade. Ucrânia. Plano de Paz | Diário do Processo
 
 O primeiro impulso de uma sensação súbita de falsidade.  
 Vi o “plano de paz” de Trump e senti-me como na escola: alguém a entregar um trabalho copiado às pressas, com todos os erros, mas apresentado como original.  

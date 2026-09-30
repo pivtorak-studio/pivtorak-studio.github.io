@@ -94,9 +94,7 @@ search: indexed
 
 ![Quando o mal fica sem recursos](/images/peaceful-life-034-when-evil-runs-out-of-resources.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🌑🌀✨ Quando o mal fica sem recursos
+# 🌑🌀✨ Quando o mal fica sem recursos | Vida Pacífica
 
 _Nenhuma criança deveria ter de ser corajosa apenas para se sentir segura._
 

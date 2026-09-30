@@ -5,14 +5,10 @@ weight: 20260109
 ---
 
 
-<div class="float-right">
 
 ![Nova Realidade. Intelecto e Responsabilidade](/images/process-diary-20260109.webp)
 
-</div>
-
-🧭 **Diário do Processo**
-# 2026 01 09 🌐 Nova Realidade. Intelecto e Responsabilidade
+# 2026 01 09 🌐 Nova Realidade. Intelecto e Responsabilidade | Diário do Processo
 
 Tudo começou com a dissecação do sistema de alimentação do ru-império. Mas, entre os cálculos, surgiu uma imagem: "pessoas com relógios caros que legalizam o mal". 
 Percebemos que o mal não se alimenta apenas de petróleo, mas também da complacência silenciosa das elites.

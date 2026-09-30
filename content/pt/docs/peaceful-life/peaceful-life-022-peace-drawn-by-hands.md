@@ -100,9 +100,7 @@ search: indexed
 
 ![Paz Desenhada pelas Mãos](/images/peaceful-life-022-peace-drawn-by-hands.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🧒🏻☀️🖍️ Paz Desenhada pelas Mãos
+# 🧒🏻☀️🖍️ Paz Desenhada pelas Mãos | Vida Pacífica
 
 _A paz começa onde não se tem medo de lhe tocar._
 

@@ -4,14 +4,11 @@ title: "01-05 Armadilha da Dívida - O Silêncio da Dívida"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Armadilha da Dívida - O Silêncio da Dívida](/images/political-design-01-05.webp)
 
-</div>
-
-**Design Político**
-# 💣 I. Armadilha da Dívida. 🙊 O Silêncio da Dívida
+# 💣 I. Armadilha da Dívida. 🙊 O Silêncio da Dívida | Design Político
 
 _Quando a verdade se torna perigosa, até as paredes começam a falar mais alto do que os políticos._
 

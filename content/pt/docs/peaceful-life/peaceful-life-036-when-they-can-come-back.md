@@ -98,9 +98,7 @@ search: indexed
 
 ![Quando podem voltar](/images/peaceful-life-036-when-they-can-come-back.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🪶🪹🌤️ Quando podem voltar
+# 🪶🪹🌤️ Quando podem voltar | Vida Pacífica
 
 _Um dos sinais mais silenciosos da paz é quando a vida regressa por si própria._
 

@@ -109,9 +109,7 @@ search: indexed
 
 ![Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty](/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp)
 
-**⟡ Core Recalibration**
-
-# Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty
+# Coordinates of the Heart. Vector Navigation and the Ethics of Inner Honesty | ⟡ Core Recalibration
 
 _The heart determines the direction and answers the question "Where?".   
 The mind constructs the route and answers the question "How?"._    

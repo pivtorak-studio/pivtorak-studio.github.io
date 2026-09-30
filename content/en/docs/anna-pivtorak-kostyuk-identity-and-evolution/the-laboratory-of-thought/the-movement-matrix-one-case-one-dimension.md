@@ -55,11 +55,7 @@ weight: 101
 }
 </script>
 
-<div class="float-right">
-
 ![The Movement Matrix: One Case — One Dimension](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-the-movement-matrix-one-case-one-dimension.webp)
-
-</div>
 
 # The Movement Matrix: One Case — One Dimension    
 _A achieved goal grants the right not to analyze every minute_

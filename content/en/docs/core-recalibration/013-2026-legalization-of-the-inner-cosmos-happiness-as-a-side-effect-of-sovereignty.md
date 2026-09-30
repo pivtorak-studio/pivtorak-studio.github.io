@@ -129,9 +129,7 @@ search: indexed
 
 ![Legalization of the Inner Cosmos. Happiness as a Side Effect of Sovereignty](/images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty.webp)
 
-**⟡ Core Recalibration**
-
-# Legalization of the Inner Cosmos. Happiness as a Side Effect of Sovereignty  
+# Legalization of the Inner Cosmos. Happiness as a Side Effect of Sovereignty | ⟡ Core Recalibration  
 
 _From self-scanning to a sovereign field_   
 

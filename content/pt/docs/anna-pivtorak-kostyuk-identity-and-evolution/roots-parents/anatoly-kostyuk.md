@@ -9,11 +9,10 @@ publication_date: 2025-06-14 # Data de publicação do artigo
 event_type: life_node
 ---
 
-<div class="float-right">
+
 
 ![Anatoly Ivanovich Kostyuk. Legado do Pai — Identidade e Princípios](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-anatoly-kostyuk.webp)
 
-</div>
 
 
 # Anatoly Ivanovich Kostyuk. Legado do Pai — Identidade e Princípios  

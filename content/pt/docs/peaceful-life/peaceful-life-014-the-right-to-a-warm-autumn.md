@@ -81,9 +81,8 @@ search: indexed
 
 ![O Direito a um Outono Aconchegante](/images/peaceful-life-014-the-right-to-a-warm-autumn.webp)
 
-**🌱☀️ Vida Pacífica**
 
-# 🐇🍁🌾 O Direito a um Outono Aconchegante
+# 🐇🍁🌾 O Direito a um Outono Aconchegante | Vida Pacífica
 
 _Mesmo quando o mundo arrefece — a vida tem direito ao calor._
 

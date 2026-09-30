@@ -4,14 +4,9 @@ title: "01-03 Debt Trap - Bonded Future"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Debt Trap - Bonded Future](/images/political-design-01-03.webp)
 
-</div>
-
-**Political Design**
-# 💣 I. Debt Trap. ⌛ Bonded Future
+# 💣 I. Debt Trap. ⌛ Bonded Future | Political Design
 
 _The future isn’t delayed — it is collateralized._
 

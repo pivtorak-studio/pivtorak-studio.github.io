@@ -4,14 +4,9 @@ title: 20251130 NewReality. Ukraine. PeacePlan
 weight: 20251130
 ---
 
-<div class="float-right">
-
 ![NewReality. Ukraine. PeacePlan](/images/process-diary-20251130.webp)
 
-</div>
-
-**🧭 Process Diary**
-# 2025 11 30 🌐 New Reality. Ukraine. Peace Plan
+# 2025 11 30 🌐 New Reality. Ukraine. Peace Plan | Process Diary
 
 The first impulse came from a sharp feeling — a sense of falsehood.  
 I saw Trump’s Peace Plan and instantly felt like a student again, watching someone bring a poorly copied assignment, full of errors, yet presented as their own.  

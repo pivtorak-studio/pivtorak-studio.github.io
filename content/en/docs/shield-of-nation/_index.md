@@ -26,9 +26,9 @@ weight: 171
 
 <link rel="canonical" href="https://pivtorak.studio/en/docs/shield-of-nation/">
 
-# #ShieldOfNation — Architecture of National Protection
+# ⛨ Shield of Nation — Architecture of National Protection
 
-*#ShieldOfNation is a research and visual series that reveals the state as a living system of protection.*
+***⛨ Shield of Nation** is a research and visual series that reveals the state as a living system of protection.*
 
 This series interprets the nation not merely as a territory or political structure, but as a multi-layered ecosystem of roles, where each function is essential for survival, resilience, and development.
 

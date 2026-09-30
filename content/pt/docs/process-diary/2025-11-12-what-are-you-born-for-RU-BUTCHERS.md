@@ -4,15 +4,11 @@ title: 20251112 ParaQueNasceu. RU-CARNEFICINAS
 weight: 20251112
 ---
 
-<div class="float-right">
+
 
 ![ParaQueNasceu. RU-CARNEFICINAS](/images/process-diary-20251112.webp)
 
-</div>
-
-**🧭 Diário do Processo**
-
-# 2025 11 12 ⁉️ ParaQueNasceu 🥩🪓 RU-CARNEFICINAS
+# 2025 11 12 ⁉️ ParaQueNasceu 🥩🪓 RU-CARNEFICINAS | Diário do Processo
 
 Este bloco nasceu de forma súbita — como resistência, como recusa instintiva diante da arrogância do mal.  
 No fim de outubro, o ar estava denso e silencioso.  

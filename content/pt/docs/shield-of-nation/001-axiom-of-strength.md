@@ -4,14 +4,10 @@ title: "001 Axioma Da Força"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axioma Da Força](/images/shield-001.webp)
 
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Força 🪖🛡️⚓️ Defesa Militar
+# Axioma Da Força 🪖🛡️⚓️ Defesa Militar | Escudo da Nação
 
 _Axioma da força: onde o inimigo vem com armas, ergue-se o guerreiro.  
 Inquebrável como a armadura. Invisível como a oração. Inevitável como o amanhecer._

@@ -4,14 +4,10 @@ title: "003 Axioma Da Independência"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axioma Da Independência](/images/shield-003.webp)
 
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Independência ⚡️💡🛠️ Energético — Ferreiro Da Luz
+# Axioma Da Independência ⚡️💡🛠️ Energético — Ferreiro Da Luz | Escudo da Nação
 
 _Axioma da independência: onde a escuridão tenta quebrar o povo, nasce a luz.  
 A faísca nas mãos do energético é um raio de liberdade.  

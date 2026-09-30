@@ -97,9 +97,7 @@ search: indexed
 
 ![A Alegria Silenciosa Da Infância](/images/peaceful-life-019-quiet-joy-of-childhood.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# ❄️🧒🏻🕯️ A Alegria Silenciosa Da Infância
+# ❄️🧒🏻🕯️ A Alegria Silenciosa Da Infância | Vida Pacífica
 
 _A alegria chega em silêncio — como a neve caindo na luz do entardecer._
 

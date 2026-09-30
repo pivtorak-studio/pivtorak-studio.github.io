@@ -1,15 +1,19 @@
 ---
 title: "A Formação: Anos Escolares, Universitários e de Doutoramento"
 description: "A formação do pensamento através da educação: da precisão inicial à construção de sistemas."
-keywords: ["Anna Pivtorak", "educação", "formação", "pensamento"]
+keywords:
+  - Anna Pivtorak
+  - educação
+  - formação
+  - pensamento
 weight: 50
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp
 ---
 
-<div class="float-right">
+
 
 ![A Formação: Anos Escolares, Universitários e de Doutoramento](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp)
 
-</div>
 
 # A Formação: Anos Escolares, Universitários e de Doutoramento
 

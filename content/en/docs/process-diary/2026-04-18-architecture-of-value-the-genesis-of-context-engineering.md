@@ -4,14 +4,10 @@ title: 20260418 ∀ ◉ ∃ Architecture of Value. The Genesis of Context Engine
 weight: 20260418
 ---
 
-<div class="float-right">
-
 ![∀ ◉ ∃ Architecture of Value. The Genesis of Context Engineering](/images/process-diary-2026-04-18-architecture-of-value-the-genesis-of-context-engineering.webp)
 
-</div>
-
 🧭 **Process Diary**
-# Process Diary 2026 04 18 ∀ ◉ ∃ Architecture of Value. The Genesis of Context Engineering
+# 2026 04 18 ∀ ◉ ∃ Architecture of Value. The Genesis of Context Engineering | Process Diary
 
 **Goal of the entry:** To fix the intersection points of exact sciences, art, and intuitive knowledge that led to the creation of a mathematical-logical model of value.
 

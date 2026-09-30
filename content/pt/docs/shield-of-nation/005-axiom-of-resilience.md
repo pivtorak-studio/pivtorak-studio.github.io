@@ -4,14 +4,11 @@ title: "005 Axioma Da Resiliência"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axioma Da Resiliência](/images/shield-005.webp)
 
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Resiliência 🩺🌱🚑 Médico — Raiz De Aço
+# Axioma Da Resiliência 🩺🌱🚑 Médico — Raiz De Aço | Escudo da Nação
 
 _Axioma da resiliência: onde o corpo está ferido, surge a mão da cura.  
 O médico é a raiz que sustenta a vida na tempestade mais feroz.  

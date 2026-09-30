@@ -81,9 +81,7 @@ search: indexed
 
 ![Preparação para a Escola](/images/peaceful-life-007-back-to-school-preparations.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🧒🎒📝 Preparação para a Escola
+# 🧒🎒📝 Preparação para a Escola | Vida Pacífica
 
 _Quando a paz abre espaço para lápis — não para o medo._
 

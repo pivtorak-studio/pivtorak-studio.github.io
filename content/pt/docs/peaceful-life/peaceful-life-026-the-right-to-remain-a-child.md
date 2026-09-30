@@ -101,9 +101,8 @@ search: indexed
 
 ![O Direito de Continuar Criança](/images/peaceful-life-026-the-right-to-remain-a-child.webp)
 
-**🌱☀️ Vida Pacífica**
 
-# 👧🏻🧸🛏️ O Direito de Continuar Criança
+# 👧🏻🧸🛏️ O Direito de Continuar Criança | Vida Pacífica
 
 _Não é sobre resgate. É sobre nada ser tirado._
 

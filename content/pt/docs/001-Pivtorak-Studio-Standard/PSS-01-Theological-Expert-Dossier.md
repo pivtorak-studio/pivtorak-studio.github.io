@@ -1,6 +1,6 @@
 ---
-title: "PSS-01: Dossier de Especialista Teológico"
-description: "Padrão aberto para o desenvolvimento de dossiers periciais para objetos de significado teológico e sagrado."
+title: PSS-01 Dossier de Especialista Teológico
+description: Padrão aberto para o desenvolvimento de dossiers periciais para objetos de significado teológico e sagrado.
 ---
 
 # PSS-01: Padrão de Dossier Pericial Teológico

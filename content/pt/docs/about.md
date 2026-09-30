@@ -34,11 +34,8 @@ weight: 1
 }
 </script>
 
-<div class="float-right">
 
 ![Anna Pivtorak (Kostyuk) — Página Oficial](/images/anna-pivtorak-kostyuk-identity.webp)
-
-</div>
 
 # Anna Pivtorak (Kostyuk)
 

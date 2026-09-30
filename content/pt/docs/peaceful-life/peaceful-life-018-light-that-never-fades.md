@@ -97,9 +97,7 @@ search: indexed
 
 ![A Luz Que Nunca Se Apaga](/images/peaceful-life-018-light-that-never-fades.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🌌🪶🕊️ A Luz Que Nunca Se Apaga
+# 🌌🪶🕊️ A Luz Que Nunca Se Apaga | Vida Pacífica
 
 _A luz não desaparece — apenas se move para o silêncio._
 

@@ -4,14 +4,11 @@ title: "004 Axioma Da Liberdade"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axioma Da Liberdade](/images/shield-004.webp)
 
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Liberdade 🧠🔭📖 Professor — Fóton Do Conhecimento
+# Axioma Da Liberdade 🧠🔭📖 Professor — Fóton Do Conhecimento | Escudo da Nação
 
 _Axioma da liberdade: onde a escuridão da opressão ameaça o povo, surge a luz do conhecimento.  
 O professor é o raio que corta a escuridão.  

@@ -7,14 +7,11 @@ publication_date: 2025-05-16 # Publication date
 event_type: transformation
 ---
 
-<div class="float-right">
-
 ![🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
 
-</div>
 
-**✨ WhimsicalWorld**
-# 🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow.
+# 🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow | The Dragon of Balance 
+
 *She doesn’t save. She sows.*  
 
 Ash still hangs in the air. The ground is grey and warm. But **she does not wait for permission.**  

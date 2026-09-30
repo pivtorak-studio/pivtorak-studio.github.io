@@ -91,9 +91,7 @@ search: indexed
 
 ![O Direito de Aprender a Voar](/images/peaceful-life-005-the-right-to-learn-to-fly.webp)
 
-**🌱☀️ Vida Pacífica**
-
-# 🕊️🌿🪽 O Direito de Aprender a Voar
+# 🕊️🌿🪽 O Direito de Aprender a Voar | Vida Pacífica
 
 *Nem todos já sabem. Mas todos têm o direito de tentar.*
 

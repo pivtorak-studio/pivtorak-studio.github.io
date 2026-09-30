@@ -4,14 +4,9 @@ title: "005 Axiom Of Resilience"
 weight: 1
 ---
 
-<div class="float-right">
-
 ![Axiom Of Resilience](/images/shield-005.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Resilience 🩺🌱🚑 Medic — Steel Root
+# Axiom Of Resilience 🩺🌱🚑 Medic — Steel Root | Shield Of Nation
 
 _Axiom of resilience: where the body is wounded, the hand of healing arises.  
 The medic is the root that holds life through the fiercest storm.  

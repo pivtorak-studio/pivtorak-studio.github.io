@@ -4,14 +4,10 @@ title: "007 Axioma Da Esperança"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axioma Da Esperança](/images/shield-007.webp)
-
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Esperança 🧑‍🚒💧🔥 Socorrista — Guardião Do Fogo
+# Axioma Da Esperança 🧑‍🚒💧🔥 Socorrista — Guardião Do Fogo | Escudo da Nação
 
 _Axioma da esperança: no fogo da destruição, sempre surge a mão que salva.  
 O socorrista é a chama que não queima, mas protege.  

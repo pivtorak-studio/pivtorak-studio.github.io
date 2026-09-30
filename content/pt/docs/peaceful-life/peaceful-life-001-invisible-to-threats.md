@@ -90,9 +90,9 @@ search: indexed
 
 ![Invisíveis às Ameaças](/images/peaceful-life-001-invisible-to-threats.webp)
 
-**🌱☀️ Vida Pacífica**
 
-# 🧒🏻🕊️🛡️ Invisíveis às Ameaças
+
+# 🧒🏻🕊️🛡️ Invisíveis às Ameaças | Vida Pacífica
 
 _Crianças e animais — fora da zona da dor_
 

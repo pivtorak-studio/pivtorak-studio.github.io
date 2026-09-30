@@ -4,14 +4,10 @@ title: "010 Axiom Of Memory"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axiom Of Memory](/images/shield-010.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Memory 🕯️📚🏰 Historian — Keeper Of Time
+# Axiom Of Memory 🕯️📚🏰 Historian — Keeper Of Time | Shield Of Nation
 
 _Axiom Of Memory: where the enemy tries to erase the past, truth arises and restores the voice.
 The one who returns the voice of the dead to teach the living._  

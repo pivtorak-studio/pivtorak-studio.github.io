@@ -4,15 +4,9 @@ title: 20251112 WhatAreYouBornFor. RU-BUTCHERS
 weight: 20251112
 ---
 
-<div class="float-right">
-
 ![WhatAreYouBornFor. RU-BUTCHERS](/images/process-diary-20251112.webp)
 
-</div>
-
-**🧭 Process Diary**
-
-# 2025 11 12 ⁉️ WhatAreYouBornFor 🥩🪓 RU-BUTCHERS
+# 2025 11 12 ⁉️ WhatAreYouBornFor 🥩🪓 RU-BUTCHERS | Process Diary
 
 This block emerged suddenly — as resistance, as an instinctive protest against the arrogance of evil.  
 By late October, the air was heavy with silence. Something was forming — as if the world was waiting for a verdict it didn’t yet know was its own.  

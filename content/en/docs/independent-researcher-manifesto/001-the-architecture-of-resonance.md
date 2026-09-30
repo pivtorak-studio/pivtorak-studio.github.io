@@ -99,6 +99,7 @@ symbol: "tetrahedron within cube"
 </script>
 
 ![Independent Researcher Manifesto: The Architecture of Resonance](/images/independent-researcher-manifesto-001-the-architecture-of-resonance.webp)
+
 # Independent Researcher Manifesto: The Architecture of Resonance
 
 ## 1. Reference Point: From Observation to Design 

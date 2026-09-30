@@ -4,14 +4,10 @@ title: "006 Axiom Of Unity"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Axiom Of Unity](/images/shield-006.webp)
 
-</div>
-
-**Shield Of The Nation**
-# Axiom Of Unity 🫂📦🕊️ Volunteer — Invisible Shield
+# Axiom Of Unity 🫂📦🕊️ Volunteer — Invisible Shield | Shield Of Nation
 
 _Axiom of unity: where destruction divides, a helping hand arises.  
 The volunteer is a shield unseen, but always felt.  

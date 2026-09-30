@@ -4,14 +4,10 @@ title: 20251009 WhimsicalWorld. ESMÉE
 weight: 20251009
 ---
 
-<div class="float-right">
 
 ![Whimsical World. ESMÉE](/images/process-diary-20251009.webp)
 
-</div>
-
-**🪶 Process Diary**  
-# 2025 10 09 ✨ Whimsical World 🐉⚖️ ESMÉE 
+# 2025 10 09 ✨ Whimsical World 🐉⚖️ ESMÉE | Process Diary 
 
 **Esmée — the balance that dreams no more.**
 _She no longer seeks harmony — she breathes it._

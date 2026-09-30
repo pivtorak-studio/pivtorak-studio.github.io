@@ -109,9 +109,7 @@ weight: 20260131
 ![2026 01 31 ✯ Desafio de Nível Superior (Problema com Estrela). Irão – Pérsia: Do Desmantelamento de um Regime ao Renascimento de uma Civilização](/images/process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization.webp)
 
 
-**🧭 Diário do Processo**
-
-# 2026 01 31 ✯ Desafio de Nível Superior (Problema com Estrela). Irão – Pérsia: Do Desmantelamento de um Regime ao Renascimento de uma Civilização
+# 2026 01 31 ✯ Desafio de Nível Superior (Problema com Estrela). Irão – Pérsia: Do Desmantelamento de um Regime ao Renascimento de uma Civilização | Diário do Processo
 
 Esta série não começou com a Pérsia.  
 

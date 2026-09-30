@@ -9,12 +9,7 @@ publication_date: 2025-05-02 # Date the article was published (event interpretat
 event_type: life_node
 ---
 
-<div class="float-right">
-
-![Nadiia Mykolaivna (Dovbysh) Kostyuk. Mother’s Wisdom — Identity and Sensibilities
-](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-nadiia-kostyuk-dovbysh.webp)
-
-</div>
+![Nadiia Mykolaivna (Dovbysh) Kostyuk. Mother’s Wisdom — Identity and Sensibilities](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-nadiia-kostyuk-dovbysh.webp)
 
 # Nadiia Mykolaivna (Dovbysh) Kostyuk. Mother’s Wisdom — Identity and Sensibilities
 

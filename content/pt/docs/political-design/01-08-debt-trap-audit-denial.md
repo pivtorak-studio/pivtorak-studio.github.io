@@ -4,14 +4,10 @@ title: "01-08 Armadilha da Dívida - Negação de Auditoria"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Armadilha da Dívida - Negação de Auditoria](/images/political-design-01-08.webp)
 
-</div>
-
-**Design Político**
-# 💣 I. A Armadilha da Dívida. 🦯 Negação de Auditoria
+# 💣 I. A Armadilha da Dívida. 🦯 Negação de Auditoria | Design Político
 
 _Os problemas crescem no escuro — sobretudo aqueles que ninguém quer medir._
 

@@ -96,7 +96,7 @@ search: indexed
 
 # 🌱☀️ Vida Pacífica
 
-#PeacefulLife é uma série de trabalhos dedicada às coisas simples que tornam possível uma vida em paz.
+**Vida Pacífica** é uma série de trabalhos dedicada às coisas simples que tornam possível uma vida em paz.
 
 Uma infância sem medo.
 Natureza sem destruição.

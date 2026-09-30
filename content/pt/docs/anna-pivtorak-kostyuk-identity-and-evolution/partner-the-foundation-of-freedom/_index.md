@@ -9,13 +9,12 @@ keywords:
   - sistema
   - família
 weight: 111
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp
 ---
 
-<div class="float-right">
 
 ![Parceiro: Fundação da Liberdade](/images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp)
 
-</div>
 
 # Parceiro: Fundação da Liberdade
 

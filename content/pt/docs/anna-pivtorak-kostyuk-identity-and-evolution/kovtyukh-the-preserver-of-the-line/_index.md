@@ -1,15 +1,19 @@
 ---
-title: "Kovtyukh — Continuidade sob Renúncia"
+title: Kovtyukh — Continuidade sob Renúncia
 description: "Epifan Kovtyukh como figura que preservou a linhagem: memória, responsabilidade e transmissão entre gerações."
-keywords: ["Kovtyukh", "Epifan Kovtyukh", "linhagem", "memória", "história"]
+keywords:
+  - Kovtyukh
+  - Epifan Kovtyukh
+  - linhagem
+  - memória
+  - história
 weight: 40
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp
 ---
 
-<div class="float-right">
 
 ![Kovtyukh "Continuidade sob Renúncia"](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
 
-</div>
 
 # Kovtyukh "Continuidade sob Renúncia"
 

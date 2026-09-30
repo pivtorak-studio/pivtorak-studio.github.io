@@ -1,15 +1,20 @@
 ---
 title: "Professores: Transmissão do Conhecimento"
 description: "A transmissão do conhecimento como evento: o papel dos professores na formação do pensamento, precisão e estrutura."
-keywords: ["Anna Pivtorak", "professores", "conhecimento", "pensamento", "educação", "transmissão"]
+keywords:
+  - Anna Pivtorak
+  - professores
+  - conhecimento
+  - pensamento
+  - educação
+  - transmissão
 weight: 35
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-teachers-transmission-of-knowledge.webp
 ---
 
-<div class="float-right">
 
 ![Professores: Transmissão do Conhecimento](/images/anna-pivtorak-kostyuk-identity-and-evolution-teachers-transmission-of-knowledge.webp)
 
-</div>
 
 # Professores: Transmissão do Conhecimento
 

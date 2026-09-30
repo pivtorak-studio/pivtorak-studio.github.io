@@ -6,15 +6,11 @@ weight: 20251210
 
  
 
-<div class="float-right">
+
 
 ![NovaRealidade. ÍNDIA&RU-PAÍS. UniãoDeGaragem](/images/process-diary-20251210.webp)
 
-</div>
-
-**🧭 Diário do Processo**
-
-# 2025 12 10 🌐 Nova Realidade. ÍNDIA & RU-PAÍS. 🏴‍☠️ União de Garagem
+# 2025 12 10 🌐 Nova Realidade. ÍNDIA & RU-PAÍS. 🏴‍☠️ União de Garagem | Diário do Processo
 
 Tudo começou não com dados, mas com fumo. Fumo que subia dos rituais de mulheres indianas ao receber o ditador da RU-PAÍS. Esse momento criou uma fratura: não que a Índia estivesse “perdida”, mas que já não compreendíamos a direção do seu olhar. O que guia a Índia hoje? O que realmente procura?
 

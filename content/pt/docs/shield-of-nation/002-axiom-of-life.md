@@ -4,14 +4,11 @@ title: "002 Axioma Da Vida"
 weight: 1
 ---
 
-<div class="float-right">
+
 
 ![Axioma Da Vida](/images/shield-002.webp)
 
-</div>
-
-**Escudo Da Nação**
-# Axioma Da Vida 👶🏽💡🛡️ Parteira-Portadora Da Luz
+# Axioma Da Vida 👶🏽💡🛡️ Parteira-Portadora Da Luz | Escudo da Nação
 
 _Axioma da vida: onde se ouve o primeiro choro do recém-nascido, ergue-se uma lanterna inquebrável.  
 Luz que vence a escuridão da guerra.  

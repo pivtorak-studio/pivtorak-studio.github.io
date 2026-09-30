@@ -4,14 +4,9 @@ title: 20250903 NewReality. SCO
 weight: 20250903
 ---
 
-<div class="float-right">
-
 ![New Reality. SCO](/images/process-diary-20250903.webp)
 
-</div>
-
-**🪶 Process Diary**  
-# 2025 09 03 🌐 New Reality. SCO
+# 2025 09 03 🌐 New Reality. SCO | Process Diary
 
 Today I felt an unexpected unease — on 01.09.2025 the SCO summit took place in China, and I had no ready symbols to respond.  
 It seemed I hadn’t managed to prepare.  

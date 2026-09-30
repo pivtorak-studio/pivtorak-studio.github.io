@@ -4,14 +4,10 @@ title: "01-07 Debt Trap - The Hospitality Gap"
 weight: 1
 ---
 
-<div class="float-right">
 
 ![Debt Trap - The Hospitality Gap](/images/political-design-01-07.webp)
 
-</div>
-
-**Political Design**
-# 💣 I. Debt Trap. 🚧 The Hospitality Gap
+# 💣 I. Debt Trap. 🚧 The Hospitality Gap | Political Design
 
 _Trust dissolves when authority arrives as suspicion._
 

@@ -79,9 +79,7 @@ search: indexed
 
 ![Architecture of Civilizational Endurance. From Regularity to Sovereign Rhythm](/images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp)
 
-**⟡ Core Recalibration**
-
-# Architecture of Civilizational Endurance. From Regularity to Sovereign Rhythm  
+# Architecture of Civilizational Endurance. From Regularity to Sovereign Rhythm | ⟡ Core Recalibration  
 
 _When scale exceeds the capacity of willpower, rhythm becomes the architecture of motion._   
 

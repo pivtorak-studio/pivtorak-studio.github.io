@@ -99,9 +99,8 @@ search: indexed
 
 ![Paz Que Simplesmente É](/images/peaceful-life-024-peace-that-simpl-is.webp)
 
-**🌱☀️ Vida Pacífica**
 
-# 🐾🕊️🤲 Paz Que Simplesmente É
+# 🐾🕊️🤲 Paz Que Simplesmente É | Vida Pacífica
 
 _A paz nem sempre é criada. Às vezes, basta deixá-la existir._
 

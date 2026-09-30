@@ -87,15 +87,11 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![High Standards](/images/core-recalibration-000-2024-high-standards.webp)
 
-</div>
+# High Standards | ⟡ Core Recalibration
 
-**⟡ Core Recalibration**
-
-# High Standards    
 _Not the end — only a new beginning._   
 
 There comes a moment when exceeding personal standards is no longer a challenge, but a natural rhythm.  

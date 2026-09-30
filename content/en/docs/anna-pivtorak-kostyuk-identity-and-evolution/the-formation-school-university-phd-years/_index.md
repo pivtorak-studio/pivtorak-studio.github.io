@@ -1,15 +1,19 @@
 ---
 title: "The Formation: School, University & PhD Years"
 description: "The formation of thinking through education: from early precision to structured systems across disciplines."
-keywords: ["Anna Pivtorak", "education", "formation", "thinking", "university", "PhD"]
+keywords:
+  - Anna Pivtorak
+  - education
+  - formation
+  - thinking
+  - university
+  - PhD
 weight: 50
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp
 ---
-
-<div class="float-right">
 
 ![The Formation: School, University & PhD Years](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-formation-school-university-phd-years.webp)
 
-</div>
 
 # The Formation: School, University & PhD Years
 

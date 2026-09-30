@@ -122,15 +122,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![The Simurgh Protocol. The Philosophy of an Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
 
-</div>
-
-**⟡ Core Recalibration**
-
-# The Simurgh Protocol. The Philosophy of an Investigadora Independente
+# The Simurgh Protocol. The Philosophy of an Investigadora Independente | ⟡ Core Recalibration
 
 _True expertise does not seek peer reviews; it creates its own space for verification_
 

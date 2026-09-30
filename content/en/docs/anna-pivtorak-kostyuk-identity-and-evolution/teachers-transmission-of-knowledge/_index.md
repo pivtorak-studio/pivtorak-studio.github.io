@@ -1,15 +1,18 @@
 ---
 title: "Teachers: Transmission of Knowledge"
 description: "Knowledge transmission as an event: the role of teachers in shaping thinking, precision, and structure."
-keywords: ["Anna Pivtorak", "teachers", "knowledge", "thinking", "education", "transmission"]
+keywords:
+  - Anna Pivtorak
+  - teachers
+  - knowledge
+  - thinking
+  - education
+  - transmission
 weight: 35
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-teachers-transmission-of-knowledge.webp
 ---
 
-<div class="float-right">
-
 ![Teachers: Transmission of Knowledge](/images/anna-pivtorak-kostyuk-identity-and-evolution-teachers-transmission-of-knowledge.webp)
-
-</div>
 
 # Teachers: Transmission of Knowledge
 

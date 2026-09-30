@@ -1,15 +1,18 @@
 ---
 title: "Partner: The Foundation of Freedom"
 description: "The partner as the foundation of freedom: creating conditions for development, research, and system realization."
-keywords: ["Anna Pivtorak", "partner", "freedom", "support", "system", "family"]
+keywords:
+  - Anna Pivtorak
+  - partner
+  - freedom
+  - support
+  - system
+  - family
 weight: 30
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp
 ---
 
-<div class="float-right">
-
 ![Partner: The Foundation of Freedom](/images/anna-pivtorak-kostyuk-identity-and-evolution-partner-the-foundation-of-freedom.webp)
-
-</div>
 
 # Partner: The Foundation of Freedom
 

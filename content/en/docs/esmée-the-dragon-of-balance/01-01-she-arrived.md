@@ -7,14 +7,12 @@ publication_date: 2025-05-16 # Publication date
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 📍She arrived. And that is enough](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
 
-</div>
 
-**✨ WhimsicalWorld**
-# 🐉⚖️ ESMÉE. 📍She arrived. And that is enough.  
+# 🐉⚖️ ESMÉE. 📍She arrived. And that is enough | The Dragon of Balance 
+
 _From now on, everything will be seen._  
 _Every action. Every decision. Every measure._  
 

@@ -81,11 +81,12 @@ related:
   ]
 }
 
-![КОНЦЕПТУАЛЬНАЯ СИСТЕМА ФОРМИРОВАНИЯ ДОЛГОСРОЧНЫХ СТРУКТУР ЦЕННОСТИ](/images/pivtorak-studio-001-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp)
 
 **∴ 0.01 | Pivtorak.Studio — Официальный Вебсайт | Анна Пивторак (Костюк)**
 
 ## КОНЦЕПТУАЛЬНАЯ СИСТЕМА ФОРМИРОВАНИЯ ДОЛГОСРОЧНЫХ СТРУКТУР ЦЕННОСТИ
+
+![КОНЦЕПТУАЛЬНАЯ СИСТЕМА ФОРМИРОВАНИЯ ДОЛГОСРОЧНЫХ СТРУКТУР ЦЕННОСТИ](/images/pivtorak-studio-001-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp)
 
 ### I. Системная Атрибуция  
 

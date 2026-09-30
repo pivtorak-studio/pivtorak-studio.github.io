@@ -56,11 +56,11 @@ related:
 </script>
 
 
-![UM SISTEMA CONCEPTUAL PARA A FORMAÇÃO DE ESTRUTURAS DE VALOR A LONGO PRAZO](/images/pivtorak-studio-001-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp)
-
 **∴ 0.01 | Pivtorak.Studio — Site Oficial | Anna Pivtorak (Kostyuk)**
 
 ## UM SISTEMA CONCEPTUAL PARA A FORMAÇÃO DE ESTRUTURAS DE VALOR A LONGO PRAZO  
+
+![UM SISTEMA CONCEPTUAL PARA A FORMAÇÃO DE ESTRUTURAS DE VALOR A LONGO PRAZO](/images/pivtorak-studio-001-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp)
 
 ### I. Atribuição do Sistema  
 

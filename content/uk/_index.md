@@ -56,11 +56,11 @@ related:
 </script>
 
 
-![КОНЦЕПТУАЛЬНА СИСТЕМА ФОРМУВАННЯ ДОВГОСТРОКОВИХ СТРУКТУР ЦІННОСТІ](/images/pivtorak-studio-001-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp)
-
 **∴ 0.01 | Pivtorak.Studio — Офіційний Вебсайт | Анна Півторак (Костюк)**  
 
 ## КОНЦЕПТУАЛЬНА СИСТЕМА ФОРМУВАННЯ ДОВГОСТРОКОВИХ СТРУКТУР ЦІННОСТІ
+
+![КОНЦЕПТУАЛЬНА СИСТЕМА ФОРМУВАННЯ ДОВГОСТРОКОВИХ СТРУКТУР ЦІННОСТІ](/images/pivtorak-studio-001-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp)
 
 ### I. Системна Атрибуція (System Attribution)  
 

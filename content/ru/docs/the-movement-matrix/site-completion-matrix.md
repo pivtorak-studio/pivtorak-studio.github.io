@@ -82,9 +82,10 @@ layout: matrix
 }
 </script>
 
-![Матрица Завершённости Сайта](/images/the-movement-matrix-site-completion-matrix.webp)
 
 # ⊞ Матрица Завершённости Сайта
+
+![Матрица Завершённости Сайта](/images/the-movement-matrix-site-completion-matrix.webp)
 
 Матрица Завершённости Сайта — это рабочая панель, предназначенная для отслеживания состояния материалов Pivtorak.Studio.
 

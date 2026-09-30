@@ -83,9 +83,10 @@ layout: matrix
 }
 </script>
 
-![Matriz de Conclusão do Site](/images/the-movement-matrix-site-completion-matrix.webp)
 
 # ⊞ Matriz de Conclusão do Site
+
+![Matriz de Conclusão do Site](/images/the-movement-matrix-site-completion-matrix.webp)
 
 A Matriz de Conclusão do Site é um painel de trabalho utilizado para acompanhar o estado dos conteúdos da Pivtorak.Studio.
 

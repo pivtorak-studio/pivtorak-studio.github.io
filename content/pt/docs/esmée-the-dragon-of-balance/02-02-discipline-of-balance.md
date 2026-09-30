@@ -9,9 +9,11 @@ event_type: transformation
 
 
 
-![🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
 
 _Silêncio que sustenta as asas._
 

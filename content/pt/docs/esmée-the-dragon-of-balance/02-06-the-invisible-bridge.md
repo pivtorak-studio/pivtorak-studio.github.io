@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 A Ponte Invisível](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 A Ponte Invisível | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌀 A Ponte Invisível](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
 
 _As Balanças do Novo Destino. Onde a confiança substitui o sonho._
 

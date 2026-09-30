@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
+
  
 # 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
 
 *Ela não é líder. Mas, por alguma razão, tudo começa a florescer atrás dela.*  
 

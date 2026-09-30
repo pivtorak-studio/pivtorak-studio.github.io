@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
 
 *A partir de agora, tudo será visto.*  
 *Cada ação. Cada decisão. Cada medida.*

@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Светлая Ирония](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Светлая Ирония | Дракон Равновесия
+
+![🐉⚖️ ESMÉE. 🌀 Светлая Ирония](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
 
 _Дракон, который смеётся._
 

@@ -8,9 +8,12 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється | Дракон Рівноваги
+
+![🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
+
 *Вона не лідер.*  
 *Але чомусь саме за нею все починає розквітати.*
 

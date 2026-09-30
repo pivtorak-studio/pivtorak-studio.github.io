@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
 
 _Alquimia da memória. Onde o medo se transforma em conhecimento._
 

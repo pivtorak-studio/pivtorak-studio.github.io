@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Рождение Весов](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Рождение Весов | Дракон Равновесия
+
+![🐉⚖️ ESMÉE. 🌀 Рождение Весов](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
 
 _Равновесие Истока._
 

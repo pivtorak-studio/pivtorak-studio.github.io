@@ -9,9 +9,11 @@ event_type: transformation
 
 
 
-![🐉⚖️ ESMÉE. 🌀 Ironia de Luz](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Ironia de Luz | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌀 Ironia de Luz](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
 
 _O dragão que sorri._
 

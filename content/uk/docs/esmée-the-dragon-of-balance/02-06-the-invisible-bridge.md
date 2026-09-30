@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Невидимий Міст](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE.🌀 Невидимий Міст | Дракон Рівноваги
+
+![🐉⚖️ ESMÉE. 🌀 Невидимий Міст](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
 
 _Ваги Нової Долі. Там, де впевненість замінює мрію._
 

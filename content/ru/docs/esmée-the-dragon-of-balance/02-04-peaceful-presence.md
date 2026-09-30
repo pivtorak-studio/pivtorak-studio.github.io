@@ -7,10 +7,12 @@ publication_date: 2025-10-09 # Дата публикации
 event_type: transformation
 ---
 
-![🐉⚖️ ESMÉE. 🌀 Мирное Присутствие](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
+
 
 
 # 🐉⚖️ ESMÉE. 🌀 Мирное Присутствие | Дракон Равновесия
+
+![🐉⚖️ ESMÉE. 🌀 Мирное Присутствие](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
 
 _Когда дракон спит, мир растёт._
 

@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Невидимый Мост](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Невидимый Мост | Дракон Равновесия
+
+![🐉⚖️ ESMÉE. 🌀 Невидимый Мост](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
 
 _Весы Новой Судьбы. Там, где уверенность заменяет мечту._
 

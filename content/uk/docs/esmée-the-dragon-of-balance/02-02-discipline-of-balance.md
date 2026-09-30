@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE.🌀 Дисципліна Рівноваги | Дракон Рівноваги
+
+![🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
 
 _Тиша, що тримає крила._
 

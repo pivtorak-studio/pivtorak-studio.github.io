@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы | Дракон Равновесия
+
+![🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
 
 *Она не спасает. Она сеет.*  
 

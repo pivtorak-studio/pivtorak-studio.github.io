@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы | Дракон Равновесия
+
+![🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
 
 _Алхимия воспоминаний. Там, где страх превращается в знание._
 

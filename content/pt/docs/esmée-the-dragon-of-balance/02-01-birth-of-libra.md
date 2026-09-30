@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Nascimento da Balança](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌀 Nascimento da Balança](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
 
 _O Equilíbrio da Origem._
 

@@ -7,9 +7,11 @@ publication_date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 
-![🐉⚖️ ESMÉE. 🌀 Discipline of Balance](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Discipline of Balance | The Dragon of Balance 
+
+![🐉⚖️ ESMÉE. 🌀 Discipline of Balance](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
 
 _Silence that holds the wings._
 

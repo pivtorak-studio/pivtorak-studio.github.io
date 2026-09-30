@@ -7,9 +7,10 @@ publication_date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 
-![🐉⚖️ ESMÉE. 🌀 Light Irony](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
 
 # 🐉⚖️ ESMÉE. 🌀 Light Irony | The Dragon of Balance 
+
+![🐉⚖️ ESMÉE. 🌀 Light Irony](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
 
 _The dragon who laughs._
 

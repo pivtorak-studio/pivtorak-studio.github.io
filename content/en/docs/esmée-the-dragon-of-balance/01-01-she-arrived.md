@@ -8,10 +8,10 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 📍She arrived. And that is enough](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
-
 
 # 🐉⚖️ ESMÉE. 📍She arrived. And that is enough | The Dragon of Balance 
+
+![🐉⚖️ ESMÉE. 📍She arrived. And that is enough](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
 
 _From now on, everything will be seen._  
 _Every action. Every decision. Every measure._  

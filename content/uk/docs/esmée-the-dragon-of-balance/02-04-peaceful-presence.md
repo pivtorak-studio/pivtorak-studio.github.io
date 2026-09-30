@@ -8,9 +8,11 @@ event_type: transformation
 ---
 
 
-![🐉⚖️ ESMÉE. 🌀 Мирна Присутність](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE.🌀 Мирна Присутність | Дракон Рівноваги
+
+![🐉⚖️ ESMÉE. 🌀 Мирна Присутність](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
 
 _Коли дракон спить, світ росте._
 

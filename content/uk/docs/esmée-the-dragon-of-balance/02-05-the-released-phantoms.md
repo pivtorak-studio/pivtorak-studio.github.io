@@ -7,10 +7,12 @@ publication_date: 2025-10-09 # Дата, коли стаття була опуб
 event_type: transformation
 ---
 
-![🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
+
 
 
 # 🐉⚖️ ESMÉE.🌀 Фантоми, які Відпущено | Дракон Рівноваги
+
+![🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
 
 _Алхімія спогадів. Там, де страх перетворюється на знання._
 

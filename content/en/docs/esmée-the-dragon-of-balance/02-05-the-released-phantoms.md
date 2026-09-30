@@ -7,9 +7,9 @@ publication_date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 
-![🐉⚖️ ESMÉE. 🌀 The Released Phantoms](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
-
 # 🐉⚖️ ESMÉE. 🌀 The Released Phantoms | The Dragon of Balance 
+
+![🐉⚖️ ESMÉE. 🌀 The Released Phantoms](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
 
 _Alchemy of memory. Where fear becomes knowledge._
 

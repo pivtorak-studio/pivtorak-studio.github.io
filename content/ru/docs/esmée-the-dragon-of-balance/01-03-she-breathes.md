@@ -7,9 +7,11 @@ publication_date: 2025-05-16 # Дата публикации
 event_type: transformation
 ---
 
-![🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются  | Дракон Равновесия
+
+![🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
 
 *Она не лидер.*
 *Но почему-то именно за ней всё начинает расцветать.*

@@ -9,9 +9,11 @@ event_type: transformation
 
 
 
-![🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
 
 *Ela não salva. Ela semeia.*
 

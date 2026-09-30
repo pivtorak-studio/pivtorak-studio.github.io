@@ -9,9 +9,11 @@ event_type: transformation
 
 
 
-![🐉⚖️ ESMÉE. 🌀 Presença Pacífica](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
+
 
 # 🐉⚖️ ESMÉE. 🌀 Presença Pacífica | O Dragão do Equilíbrio
+
+![🐉⚖️ ESMÉE. 🌀 Presença Pacífica](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
 
 _Quando o dragão dorme, o mundo cresce._
 

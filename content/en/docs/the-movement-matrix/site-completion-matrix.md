@@ -84,9 +84,10 @@ layout: matrix
 }
 </script>
 
-![Site Completion Matrix](/images/the-movement-matrix-site-completion-matrix.webp)
 
 # ⊞ Site Completion Matrix
+
+![Site Completion Matrix](/images/the-movement-matrix-site-completion-matrix.webp)
 
 The Site Completion Matrix is a working dashboard used to monitor the state of content across Pivtorak.Studio.
 

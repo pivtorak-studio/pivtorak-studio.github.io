@@ -115,15 +115,11 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano](/images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp)
 
-</div>
 
-**⟡ Recalibração do Núcleo**
-
-# A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano
+# A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e Espaço Soberano | ⟡ Recalibração do Núcleo
 
 _Se uma porta se fecha diante de ti — não batas. Levanta voo._
 

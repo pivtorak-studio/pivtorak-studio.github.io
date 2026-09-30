@@ -54,11 +54,11 @@ weight: "102"
 }
 </script>
 
-<div class="float-right">
+
 
 ![Path: Система визуализации состояний. Карта движения.](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp)
 
-</div>
+
 
 # Path: Система визуализации состояний. Карта движения    
 _Ясность сильнее мотивации_   

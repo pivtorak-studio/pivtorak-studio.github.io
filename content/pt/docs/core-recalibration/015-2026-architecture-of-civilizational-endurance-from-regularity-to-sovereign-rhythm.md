@@ -109,9 +109,7 @@ search: indexed
 
 ![Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano](/images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano   
+# Arquitetura da Endurance Civilizacional. Da Regularidade ao Ritmo Soberano | ⟡ Recalibração do Núcleo   
 
 _Quando a escala excede a capacidade da força de vontade, o ritmo torna-se a arquitetura do movimento._  
 

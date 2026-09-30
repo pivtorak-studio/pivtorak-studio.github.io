@@ -109,9 +109,7 @@ search: indexed
 
 ![Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna](/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna
+# Coordenadas do Coração. Navegação do Vetor e a Ética da Honestidade Interna | ⟡ Recalibração do Núcleo
 
 _O coração determina a direção e responde à pergunta "Para onde?".   
 A mente constrói a rota e responde à pergunta "Como?"._   

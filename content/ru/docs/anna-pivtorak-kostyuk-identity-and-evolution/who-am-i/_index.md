@@ -1,15 +1,20 @@
 ---
 title: "Ядро: Кто Я? — Фазы идентичности"
-description: "Последовательность фаз, отражающих эволюцию мышления и формирование системы."
-keywords: ["Anna Pivtorak", "идентичность", "эволюция", "фазы", "система"]
+description: Последовательность фаз, отражающих эволюцию мышления и формирование системы.
+keywords:
+  - Anna Pivtorak
+  - идентичность
+  - эволюция
+  - фазы
+  - система
 weight: 10
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i.webp
 ---
 
-<div class="float-right">
+
 
 ![Ядро: Кто Я? — Фазы идентичности](/images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i.webp)
 
-</div>
 
 # Кто Я?  
 

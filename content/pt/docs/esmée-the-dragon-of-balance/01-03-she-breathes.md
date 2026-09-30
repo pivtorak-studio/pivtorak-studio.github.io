@@ -7,14 +7,11 @@ publication_date: 2025-05-16 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
+ 
+# 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece | O Dragão do Equilíbrio
 
-</div>
-
-**✨ MundoCaprichoso**
-# 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece.
 *Ela não é líder. Mas, por alguma razão, tudo começa a florescer atrás dela.*  
 
 O mundo já não está queimado. Está vivo. Em flor.  

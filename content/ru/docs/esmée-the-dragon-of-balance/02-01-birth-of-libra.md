@@ -7,14 +7,11 @@ publication_date: 2025-10-09 # Дата публикации
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 🌀 Рождение Весов](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 Рождение Весов | Дракон Равновесия
 
-**✨ ПричудливыйМир**
-# 🐉⚖️ ESMÉE. 🌀 Рождение Весов
 _Равновесие Истока._
 
 Мир рождается не из взрыва, а из дыхания.  

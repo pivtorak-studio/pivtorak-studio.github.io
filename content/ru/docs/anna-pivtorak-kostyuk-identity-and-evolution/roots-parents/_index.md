@@ -1,15 +1,19 @@
 ---
 title: "Корни: Родители"
-description: "Влияние родителей как источник мышления, принципов и внутренней структуры."
-keywords: ["Anna Pivtorak", "родители", "корни", "ценности", "формирование"]
+description: Влияние родителей как источник мышления, принципов и внутренней структуры.
+keywords:
+  - Anna Pivtorak
+  - родители
+  - корни
+  - ценности
+  - формирование
 weight: 20
+image: anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp
 ---
 
-<div class="float-right">
+
 
 ![Корни: Родители](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents.webp)
-
-</div>
 
 # Корни: Родители
 

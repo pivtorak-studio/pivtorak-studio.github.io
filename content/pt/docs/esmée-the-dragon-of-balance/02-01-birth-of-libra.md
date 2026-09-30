@@ -7,14 +7,11 @@ publication_date: 2025-10-09 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 🌀 Nascimento da Balança](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança | O Dragão do Equilíbrio
 
-**✨ MundoCaprichoso**
-# 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança.
 _O Equilíbrio da Origem._
 
 O mundo nasce do sopro, não da explosão. Esmée abre os olhos em correntes de luz que passam através dela — entre duas asas: uma humana e outra dracônica. Uma lembra a sombra, a outra o voo. Ela não escolhe qual é verdadeira, porque ambas são sua essência.

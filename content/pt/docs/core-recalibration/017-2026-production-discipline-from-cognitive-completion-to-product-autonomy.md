@@ -80,9 +80,7 @@ search: indexed
 
 ![Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto](/images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto
+# Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto | ⟡ Recalibração do Núcleo
 
 _A qualidade é uma forma de respeito pela vida futura da própria obra._
 

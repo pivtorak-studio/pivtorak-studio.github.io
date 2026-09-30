@@ -128,9 +128,7 @@ search: indexed
 
 ![Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania](/images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania  
+# Legalização do Cosmos Interior. A Felicidade como Efeito Secundário da Soberania | ⟡ Recalibração do Núcleo  
 
 _Do autoscrutínio ao campo soberano_  
 

@@ -41,11 +41,9 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 </script>
 
 
-<div class="float-right">
 
 ![🎓 Анна Пивторак (Костюк) — Ідентичність та Еволюція](/images/anna-pivtorak-kostyuk-identity-and-evolution.webp)
 
-</div>
 
 # 🎓 Анна Пивторак (Костюк) - Идентичность и Эволюция
 *Этот раздел является документированной линией формирования личности, мышления и исследовательской системы автора.*

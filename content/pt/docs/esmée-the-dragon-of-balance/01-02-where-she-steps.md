@@ -7,14 +7,12 @@ publication_date: 2025-05-16 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
+
 
 ![🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores | O Dragão do Equilíbrio
 
-**✨ MundoCaprichoso**
-# 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores.
 *Ela não salva. Ela semeia.*
 
 Ainda há cinza no ar. O solo está cinzento e morno. Mas **ela não espera permissão.**  

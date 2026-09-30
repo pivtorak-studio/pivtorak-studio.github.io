@@ -98,9 +98,7 @@ search: indexed
 
 ![Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas](/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas
+# Mudança de Dimensão. A Transição da Linearidade dos Projetos para a Autonomia dos Sistemas | ⟡ Recalibração do Núcleo
 
 _O projeto está orientado para um resultado temporário.   
 O sistema foca-se na reprodução e evolução infinitas._

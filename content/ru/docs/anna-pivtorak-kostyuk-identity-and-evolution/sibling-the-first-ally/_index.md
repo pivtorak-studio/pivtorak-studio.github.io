@@ -1,15 +1,20 @@
 ---
-title: "Брат: Первый Союзник"
+title: Брат. Первый Союзник
 description: "Влияние брата как первого союзника: интеллектуальный импульс, поддержка и действия в критические моменты."
-keywords: ["Anna Pivtorak", "брат", "влияние", "поддержка", "формирование"]
+keywords:
+  - Anna Pivtorak
+  - брат
+  - влияние
+  - поддержка
+  - формирование
 weight: 25
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp
 ---
 
-<div class="float-right">
+
 
 ![Брат: Первый Союзник](/images/anna-pivtorak-kostyuk-identity-and-evolution-sibling-the-first-ally.webp)
 
-</div>
 
 # Брат: Первый Союзник
 

@@ -118,11 +118,11 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
+
 
 ![Перекалибровка Ядра](/images/core-recalibration.webp)
 
-</div>
+
 
 # Перекалибровка Ядра
 

@@ -88,15 +88,11 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![Detecção de Presença](/images/core-recalibration-003-2025-presence-detection.webp)
 
-</div>
 
-**⟡ Recalibração do Núcleo**
+# Detecção de Presença | ⟡ Recalibração do Núcleo
 
-# Detecção de Presença
 _Consciência não é silêncio._
 _É ritmo — reconhecido._
 

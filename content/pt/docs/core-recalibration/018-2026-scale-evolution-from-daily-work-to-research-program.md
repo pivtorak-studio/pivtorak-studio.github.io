@@ -94,9 +94,7 @@ search: indexed
 
 ![Evolução de Escala. Do Trabalho Diário ao Programa de Investigação](/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Evolução de Escala. Do Trabalho Diário ao Programa de Investigação
+# Evolução de Escala. Do Trabalho Diário ao Programa de Investigação | ⟡ Recalibração do Núcleo
 
 *A Transformação Sistémica da Unidade de Pensamento*
 

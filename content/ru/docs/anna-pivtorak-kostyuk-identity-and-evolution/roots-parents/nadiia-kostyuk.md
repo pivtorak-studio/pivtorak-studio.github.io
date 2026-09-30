@@ -9,11 +9,9 @@ publication_date: 2025-05-02 # Дата, когда статья была опу
 event_type: life_node
 ---
 
-<div class="float-right">
+
 
 ![Костюк (Довбыш) Надежда Николаевна. Мудрость Матери — Идентичность и чувствование](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-nadiia-kostyuk-dovbysh.webp)
-
-</div>
 
 # Костюк (Довбыш) Надежда Николаевна. Мудрость Матери — Идентичность и чувствование
 

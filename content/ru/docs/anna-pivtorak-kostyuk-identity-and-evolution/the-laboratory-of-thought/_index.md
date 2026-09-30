@@ -1,15 +1,20 @@
 ---
-title: "Лаборатория Мысли"
+title: Лаборатория Мысли
 description: "Архив рукописных конспектов как фиксация процесса мышления: формирование знаний, структуры и логики во времени."
-keywords: ["Anna Pivtorak", "конспекты", "архив", "мышление", "исследование", "заметки"]
+keywords:
+  - Anna Pivtorak
+  - конспекты
+  - архив
+  - мышление
+  - исследование
+  - заметки
 weight: 60
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp
 ---
 
-<div class="float-right">
 
 ![Лаборатория Мысли](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp)
 
-</div>
 
 # Лаборатория Мысли
 

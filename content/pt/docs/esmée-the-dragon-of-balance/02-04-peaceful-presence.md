@@ -7,14 +7,12 @@ publication_date: 2025-10-09 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
+
 
 ![🐉⚖️ ESMÉE. 🌀 Presença Pacífica](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 Presença Pacífica | O Dragão do Equilíbrio
 
-**✨ MundoCaprichoso**
-# 🐉⚖️ ESMÉE. 🌀 Presença Pacífica
 _Quando o dragão dorme, o mundo cresce._
 
 O silêncio não é vazio — é o respirar da vida. Esmée descansa na relva, e à sua volta crescem flores, borboletas pousam nas asas e o ar brilha suavemente. Ela não desaparece — apenas se permite existir. Não é sono, mas quietude consciente, onde a presença fala mais alto que o movimento.

@@ -1,15 +1,20 @@
 ---
-title: "Предки: Поколения Честности"
+title: Предки. Поколения Честности
 description: "Наследие как поле формирования: ценности, передающиеся вне слов и определяющие границы мышления и действия."
-keywords: ["Anna Pivtorak", "предки", "наследие", "ценности", "целостность"]
+keywords:
+  - Anna Pivtorak
+  - предки
+  - наследие
+  - ценности
+  - целостность
 weight: 45
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp
 ---
 
-<div class="float-right">
+
 
 ![Предки: Поколения Честности](/images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp)
 
-</div>
 
 # Предки: Поколения Честности
 

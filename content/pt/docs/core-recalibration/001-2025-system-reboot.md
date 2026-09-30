@@ -93,9 +93,7 @@ search: indexed
 
 </div>
 
-**⟡ Recalibração do Núcleo**
-
-# Reinicialização do Sistema  
+# Reinicialização do Sistema | ⟡ Recalibração do Núcleo  
 
 _Um novo nível — sem anúncio_  
 _(já em funcionamento)_  

@@ -105,9 +105,7 @@ search: indexed
 
 ![Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva](/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva
+# Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva | ⟡ Recalibração do Núcleo
 
 _A mestria consiste em garantir que o sistema seja íntegro em cada microciclo da sua criação._
 

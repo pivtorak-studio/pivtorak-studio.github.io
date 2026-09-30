@@ -7,14 +7,12 @@ publication_date: 2025-10-09 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
+
 
 ![🐉⚖️ ESMÉE. 🌀 Ironia de Luz](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 Ironia de Luz | O Dragão do Equilíbrio
 
-**✨ MundoCaprichoso**
-# 🐉⚖️ ESMÉE. 🌀 Ironia de Luz
 _O dragão que sorri._
 
 O mundo de Esmée brilha em sorrisos. Aqui, a força não precisa ser provada — ela simplesmente flui. Ela está sentada entre criaturas fantásticas, nascidas dos ecos dos sonhos, e permite que o mundo permaneça deliciosamente imperfeito. Seu riso não é rebeldia, é sabedoria — saber que até as sombras passam.

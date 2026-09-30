@@ -104,11 +104,8 @@ search: indexed
 </script>
 
 
-<div class="float-right">
-
 ![Контур реализации — Pivtorak.Studio](/images/pivtorak-studio-007-pivtorak-studio-execution-framework.webp)
 
-</div>
 
 
 **🪙 Pivtorak.Studio — Формула трансформации**

@@ -125,7 +125,7 @@ search: indexed
 
 # Recalibração do Núcleo
 
-“Recalibração do Núcleo” é uma série de textos sobre a transformação da arquitetura interna do ser humano.
+**⟡ Recalibração do Núcleo** é uma série de textos sobre a transformação da arquitetura interna do ser humano.
 
 Não é motivação.
 Não é produtividade.

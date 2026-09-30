@@ -7,14 +7,11 @@ publication_date: 2025-10-09 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados | O Dragão do Equilíbrio
 
-**✨ MundoCaprichoso**
-# 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados
 _Alquimia da memória. Onde o medo se transforma em conhecimento._
 
 Esmée está sentada sob a luz que atravessa antigas estruturas — símbolos de poder, sombras de regimes. Ela não foge nem luta — apenas observa. O que era escuridão começa a se organizar: mapa, código, sistema.

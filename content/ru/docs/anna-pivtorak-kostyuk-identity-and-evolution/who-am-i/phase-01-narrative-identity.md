@@ -29,11 +29,10 @@ lastmod: 2025-03-12T09:00:00
 }
 </script>
 
-<div class="float-right">
+
 
 ![Кто Я? — Фаза I — Наративная Идентичность (2025)](/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp)
 
-</div>
 
 # ✨ Анна Пивторак (Костюк) – Истории в образах  
 

@@ -106,9 +106,7 @@ search: indexed
 
 ![Recalibração da Deficiêncial: Não Escassez, mas Subcarregamento Sistémico do Potencial](/images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Recalibração da Deficiêncial: Não Escassez, mas Subcarregamento Sistémico do Potencial  
+# Recalibração da Deficiêncial: Não Escassez, mas Subcarregamento Sistémico do Potencial | ⟡ Recalibração do Núcleo  
 
 _A arquitetura de um universo sem mapa_  
 

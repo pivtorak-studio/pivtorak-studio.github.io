@@ -9,11 +9,10 @@ publication_date: 2025-06-14 # Дата, когда статья была опу
 event_type: life_node
 ---
 
-<div class="float-right">
+
 
 ![Костюк Анатолий Иванович. Наследие Отца — Идентичность и принципы](/images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-anatoly-kostyuk.webp)
 
-</div>
 
 # Костюк Анатолий Иванович. Наследие Отца — Идентичность и принципы  
 *Принципы действия, ответственности и структурного видения.*  

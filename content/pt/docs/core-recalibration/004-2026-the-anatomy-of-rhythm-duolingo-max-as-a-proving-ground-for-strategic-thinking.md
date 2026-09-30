@@ -87,15 +87,10 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
-</div>
-
-**⟡ Recalibração do Núcleo**
-
-# A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico
+# A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Estratégico | ⟡ Recalibração do Núcleo
 
 _O ritmo como aquecimento antes do código_
 

@@ -122,16 +122,12 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
+
 
 ![O Protocolo Simurg. A Filosofia de uma Investigadora Independente](/images/core-recalibration-006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente.webp)
 
-</div>
 
-**⟡ Recalibração do Núcleo**
-
-
-# O Protocolo Simurg. A Filosofia de uma Investigadora Independente
+# O Protocolo Simurg. A Filosofia de uma Investigadora Independente | ⟡ Recalibração do Núcleo
 
 _A verdadeira especialização não procura revisões por pares; cria o seu próprio espaço de verificação_
 

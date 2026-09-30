@@ -89,15 +89,11 @@ search: indexed
 </script>
 
 
-<div class="float-right">
 
 ![Segunda Língua, Primeira Voz](/images/core-recalibration-002-2025-second-language-first-voice.webp)
 
-</div>
 
-**⟡ Recalibração do Núcleo**
-
-# Segunda Língua, Primeira Voz
+# Segunda Língua, Primeira Voz | ⟡ Recalibração do Núcleo
 
 _Não é aprendizagem._
 _É sintonia com os fluxos._

@@ -87,15 +87,10 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
-
 ![Pivtorak Studio e The Jewelry Business. A Posse do Código como Nó Cognitivo de Soberania](/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp)
 
-</div>
 
-**⟡ Recalibração do Núcleo**
-
-# Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó Cognitivo de Soberania  
+# Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó Cognitivo de Soberania | ⟡ Recalibração do Núcleo  
 
 _Epígrafe: Quando dominas o código do teu espaço, já não precisas de intermediários_  
 

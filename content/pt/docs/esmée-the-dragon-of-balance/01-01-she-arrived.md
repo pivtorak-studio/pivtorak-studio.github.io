@@ -7,14 +7,11 @@ publication_date: 2025-05-16 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta | O Dragão do Equilíbrio
 
-**✨ MundoCaprichoso** 
-# 🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta.
 *A partir de agora, tudo será visto.*  
 *Cada ação. Cada decisão. Cada medida.*
 

@@ -7,14 +7,11 @@ publication_date: 2025-10-09 # Data de publicação
 event_type: transformation
 ---
 
-<div class="float-right">
 
 ![🐉⚖️ ESMÉE. 🌀 A Ponte Invisível](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
 
-</div>
+# 🐉⚖️ ESMÉE. 🌀 A Ponte Invisível | O Dragão do Equilíbrio
 
-**✨ MundoCaprichoso**
-# 🐉⚖️ ESMÉE. 🌀 A Ponte Invisível
 _As Balanças do Novo Destino. Onde a confiança substitui o sonho._
 
 Esmée está na linha entre o visível e o invisível. Atrás — o mundo compreendido; à frente — o espaço que não precisa de palavras. Nas mãos, ela segura as balanças — não de julgamento, mas de direção. Ela não pesa o mundo; ela se alinha com ele.

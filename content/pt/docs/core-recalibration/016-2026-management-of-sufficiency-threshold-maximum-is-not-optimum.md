@@ -70,9 +70,7 @@ search: indexed
 
 ![Gestão do Limite de Suficiência. O Máximo não é o Óptimo](/images/core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.webp)
 
-**⟡ Recalibração do Núcleo**
-
-# Gestão do Limite de Suficiência. O Máximo não é o Óptimo
+# Gestão do Limite de Suficiência. O Máximo não é o Óptimo | ⟡ Recalibração do Núcleo
 
 _«Pronto» — também é uma forma de mestria._
 

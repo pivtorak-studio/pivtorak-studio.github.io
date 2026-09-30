@@ -87,15 +87,12 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
+
 
 ![Анатомия Ритма. Duolingo Max как полигон стратегического мышления](/images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp)
 
-</div>
 
-**⟡ Перекалибровка Ядра**
-
-# Анатомия Ритма. Duolingo Max как полигон стратегического мышления
+# Анатомия Ритма. Duolingo Max как полигон стратегического мышления | ⟡ Перекалибровка Ядра
 
 _Ритм как разминка перед кодом_
 

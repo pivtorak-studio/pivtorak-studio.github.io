@@ -55,11 +55,10 @@ weight: 101
 }
 </script>
 
-<div class="float-right">
+
 
 ![Path: Система визуализации состояний. Карта движения. Таблица](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-the-movement-matrix-one-case-one-dimension.webp)
 
-</div>
 
 # Матрица Движения: Одно дело — одно измерение   
 _Достигнутая цель дает право не анализировать каждую минуту_

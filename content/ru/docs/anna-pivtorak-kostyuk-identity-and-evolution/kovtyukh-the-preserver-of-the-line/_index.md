@@ -1,15 +1,18 @@
 ---
 title: "Ковтюх: Сохранение непрерывности через отказ"
 description: "Епифан Ковтюх как фигура, сохранившая линию: память, ответственность и передача через поколения."
-keywords: ["Ковтюх", "Епифан Ковтюх", "род", "память", "история"]
+keywords:
+  - Ковтюх
+  - Епифан Ковтюх
+  - род
+  - память
+  - история
 weight: 40
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp
 ---
 
-<div class="float-right">
 
 ![Ковтюх: "Сохранение непрерывности через отказ"](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
-
-</div>
 
 # Ковтюх: "Сохранение непрерывности через отказ"
 

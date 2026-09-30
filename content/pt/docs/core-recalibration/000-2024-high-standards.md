@@ -88,15 +88,11 @@ search: indexed
 </script>
 
 
-<div class="float-right">
+
 
 ![Padrões Elevados](/images/core-recalibration-000-2024-high-standards.webp)
 
-</div>
-
-**⟡ Recalibração do Núcleo**
-
-# Padrões Elevados
+# Padrões Elevados | ⟡ Recalibração do Núcleo
 
 _Não é o fim — é apenas um novo começo._
 

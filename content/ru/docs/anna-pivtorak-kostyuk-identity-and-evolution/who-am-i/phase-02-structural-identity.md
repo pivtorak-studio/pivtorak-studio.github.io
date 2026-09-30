@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i-phase-02-іtructural-identity.webp
 title: Фаза II — Структурная Идентичность (2026)
 description: The second phase of identity – transition from narrative to system thinking and structural construction.
 weight: 4

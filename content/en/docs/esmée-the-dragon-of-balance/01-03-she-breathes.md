@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp
 title: "01.03 🐉⚖️ ESMÉE. 🌈 She doesn’t open the Gate. She breathes — and it appears"
 weight: 3
 event_date: 2025-05-16T12:00:00 # Date of the event (framework formulation)

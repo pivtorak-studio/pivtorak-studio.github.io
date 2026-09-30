@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-01.webp
 title: "01-01 Долговая ловушка - Кредитная Зависимость"
 weight: 1
 ---

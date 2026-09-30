@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-06.webp
 title: "01-06 Debt Trap - Old vs New Economy"
 weight: 1
 ---

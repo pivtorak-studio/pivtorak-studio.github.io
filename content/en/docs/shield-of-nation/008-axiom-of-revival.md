@@ -1,4 +1,5 @@
 ---
+image: /images/shield-008.webp
 title: "008 Axiom of Revival"
 weight: 1
 ---

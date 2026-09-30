@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp
 title: Fase I — Identidade Narrativa (2025)
 descriptions: Primeira fase documentada da identidade como narradora visual e investigadora.
 weight: 3

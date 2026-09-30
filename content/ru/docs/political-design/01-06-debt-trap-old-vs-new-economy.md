@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-06.webp
 title: "01-06 Долговая ловушка - Старая vs Новая Экономика"
 weight: 1
 ---

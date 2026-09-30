@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-09b.webp
 title: "01-09 Debt Trap - The Next Architect"
 weight: 1
 ---

@@ -1,4 +1,5 @@
 ---
+image: /images/shield-001.webp
 title: "001 Axiom Of Strength"
 weight: 1
 ---

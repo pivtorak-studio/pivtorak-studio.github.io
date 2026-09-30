@@ -1,4 +1,5 @@
 ---
+image: /images/shield-003.webp
 title: "003 Аксіома Незалежності"
 weight: 1
 ---

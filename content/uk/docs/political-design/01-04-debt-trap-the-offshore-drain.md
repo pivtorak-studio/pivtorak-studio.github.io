@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-04.webp
 title: "01-04 Боргова пастка - Витік Капіталу"
 weight: 1
 ---

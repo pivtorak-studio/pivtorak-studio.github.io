@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-02.webp
 title: "01-02 Боргова пастка - Економічний Лабіринт"
 weight: 1
 ---

@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp
 title: "02.01 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança"
 weight: 4
 event_date: 2025-10-09T10:00:00 # Data do evento (formulação da estrutura)

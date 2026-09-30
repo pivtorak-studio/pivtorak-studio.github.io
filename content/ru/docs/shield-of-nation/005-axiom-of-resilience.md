@@ -1,4 +1,5 @@
 ---
+image: /images/shield-005.webp
 title: "005 Аксиома Несокрушимости"
 weight: 1
 ---

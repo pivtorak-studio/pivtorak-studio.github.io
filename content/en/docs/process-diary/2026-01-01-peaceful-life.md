@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20260101.webp
 title: 20260101 PeacefulLife
 weight: 20260101
 ---

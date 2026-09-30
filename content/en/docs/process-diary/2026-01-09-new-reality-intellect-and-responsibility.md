@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20260109.webp
 title: 20260109 NewReality. IntellectAndResponsibility
 weight: 20260109
 ---

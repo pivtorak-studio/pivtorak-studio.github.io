@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp
 title: "01.03 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece"
 weight: 3
 event_date: 2025-05-16T12:00:00 # Data do evento (formulação da estrutura)

@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp
 title: "02.03 🐉⚖️ ESMÉE. 🌀 Ironia de Luz"
 weight: 6
 event_date: 2025-10-09T12:00:00 # Data do evento 

@@ -1,4 +1,5 @@
 ---
+image: /images/shield-005.webp
 title: "005 Axiom Of Resilience"
 weight: 1
 ---

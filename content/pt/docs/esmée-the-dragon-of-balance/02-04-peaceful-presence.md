@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp
 title: "02.04 🐉⚖️ ESMÉE. 🌀 Presença Pacífica"
 weight: 7
 event_date: 2025-10-09T13:00:00 # Data do evento

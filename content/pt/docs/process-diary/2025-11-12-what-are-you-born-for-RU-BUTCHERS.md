@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251112.webp
 title: 20251112 ParaQueNasceu. RU-CARNEFICINAS
 weight: 20251112
 ---

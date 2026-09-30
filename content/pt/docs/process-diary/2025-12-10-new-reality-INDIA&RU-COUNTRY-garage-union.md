@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251210.webp
 title: 20251210 NovaRealidade. ÍNDIA&RU-PAÍS. UniãoDeGaragem
 weight: 20251210
 ---

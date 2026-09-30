@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp
 title: "01.03 🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється"
 weight: 3
 event_date: 2025-05-16T12:00:00 # Дата події, про яку йдеться (для Хронології)

@@ -1,4 +1,5 @@
 ---
+image: /images/shield-012.webp
 title: "012 Аксиома Веры"
 weight: 1
 ---

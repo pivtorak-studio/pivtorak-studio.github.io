@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-09b.webp
 title: "01-09 Armadilha da Dívida - O Próximo Arquiteto"
 weight: 1
 ---

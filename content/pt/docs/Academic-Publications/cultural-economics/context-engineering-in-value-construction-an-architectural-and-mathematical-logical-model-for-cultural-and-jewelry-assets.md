@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-сontext-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026.webp
 title: "Engenharia de Contexto na Construção de Valor: Um Modelo Arquitetónico e Matemático-Lógico para Ativos Culturais e Joalheiros"
 descriptions: Este estudo propõe um novo paradigma para a formação de valor em ativos únicos através da arquitetura de contexto. Apresenta o modelo V = f(C), no qual o valor é entendido como uma função de significado estruturado, e não apenas de características materiais. Integrando economia, lógica formal e teoria cultural, o artigo introduz o conceito de Value Passport como mecanismo de estabilização de valor, redução da assimetria de informação e reforço da confiança em ativos culturais e joalheiros no mercado global.
 weight: 1

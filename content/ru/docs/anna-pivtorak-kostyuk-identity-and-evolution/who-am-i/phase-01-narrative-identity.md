@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp
 title: Фаза I — Наративная Идентичность (2025)
 descriptions: Первая зафиксированная фаза идентичности как визуального сторителлера и исследователя.
 weight: 3

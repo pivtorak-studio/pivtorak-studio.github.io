@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251009.webp
 title: 20251009 MundoCaprichoso. ESMÉE
 weight: 20251009
 ---

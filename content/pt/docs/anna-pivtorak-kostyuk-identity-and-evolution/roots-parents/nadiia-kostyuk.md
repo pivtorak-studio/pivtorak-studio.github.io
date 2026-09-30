@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-nadiia-kostyuk-dovbysh.webp
 title: Sabedoria da Mãe — Identidade e Sensibilidades
 description: A influência da mãe como fonte de base ética, precisão interior e capacidade de sentir a estrutura da vida. Não é uma biografia, mas um ambiente formado.
 keywords: mãe, sabedoria, sensibilidade, ambiente, cultura, precisão, beleza, educação, família

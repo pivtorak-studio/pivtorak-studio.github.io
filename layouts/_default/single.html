@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <article class="markdown book-article">
+  <article class="markdown book-article" data-main-image="{{ .Params.image }}">
     {{- .Content -}}
 
     {{ if .Params.series }}

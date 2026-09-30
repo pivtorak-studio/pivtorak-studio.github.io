@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251130.webp
 title: 20251130 NovaRealidade. Ucrânia. PlanoDePaz
 weight: 20251130
 ---

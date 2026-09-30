@@ -1,4 +1,5 @@
 ---
+image: /images/shield-008.webp
 title: "008 Аксіома Відродження"
 weight: 1
 ---

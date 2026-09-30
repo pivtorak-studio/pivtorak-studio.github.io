@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-08.webp
 title: "01-08 Боргова пастка - Відмова В Аудиті"
 weight: 1
 ---

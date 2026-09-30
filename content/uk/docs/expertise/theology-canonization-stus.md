@@ -1,4 +1,5 @@
 ---
+image: /images/Grace-logo.webp
 title: "Теологія. Громадянське Прославлення. Василь Стус"
 weight: 1
 ---

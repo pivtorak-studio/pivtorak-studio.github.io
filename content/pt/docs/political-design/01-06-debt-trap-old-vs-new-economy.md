@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-06.webp
 title: "01-06 Armadilha da Dívida - Velha vs Nova Economia"
 weight: 1
 ---

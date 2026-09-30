@@ -1,4 +1,5 @@
 ---
+image: /images/shield-001.webp
 title: "001 Axioma Da Força"
 weight: 1
 ---

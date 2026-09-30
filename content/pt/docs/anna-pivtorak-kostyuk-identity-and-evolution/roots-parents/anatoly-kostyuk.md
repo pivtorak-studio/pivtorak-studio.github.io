@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-anatoly-kostyuk.webp
 title: Legado do Pai — Identidade e Princípios
 description: A influência do pai como fonte de pensamento estruturado, responsabilidade e capacidade de decisão. Não é uma biografia, mas um sistema transmitido.
 keywords: pai, legado, pensamento, estrutura, responsabilidade, princípios, engenharia, ciência, influência, família

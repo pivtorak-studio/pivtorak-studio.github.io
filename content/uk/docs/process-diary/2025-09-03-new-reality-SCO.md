@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20250903.webp
 title: 20250903 НоваРеальність. ШОС
 weight: 20250903
 ---

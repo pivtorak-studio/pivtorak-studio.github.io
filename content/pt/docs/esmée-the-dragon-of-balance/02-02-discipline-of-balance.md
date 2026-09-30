@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp
 title: "02.02 🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio"
 weight: 5
 event_date: 2025-10-09T11:00:00 # Data do evento (formulação da estrutura)

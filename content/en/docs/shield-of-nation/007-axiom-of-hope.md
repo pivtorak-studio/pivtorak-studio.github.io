@@ -1,4 +1,5 @@
 ---
+image: /images/shield-007.webp
 title: "007 Axiom Of Hope"
 weight: 1
 ---

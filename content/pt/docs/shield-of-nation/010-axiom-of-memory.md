@@ -1,4 +1,5 @@
 ---
+image: /images/shield-010.webp
 title: "010 Axioma Da Memória"
 weight: 1
 ---

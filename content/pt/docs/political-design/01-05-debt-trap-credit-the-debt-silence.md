@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-05.webp
 title: "01-05 Armadilha da Dívida - O Silêncio da Dívida"
 weight: 1
 ---

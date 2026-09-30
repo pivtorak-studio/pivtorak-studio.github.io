@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp
 title: Фаза I — Наративна Ідентичність (2025)
 descriptions: Перша зафіксована фаза ідентичності Анни Півторак як візуального сторітелера та дослідниці.
 weight: 3

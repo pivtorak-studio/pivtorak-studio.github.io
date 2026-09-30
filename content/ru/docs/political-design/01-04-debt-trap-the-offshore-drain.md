@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-04.webp
 title: "01-04 Долговая ловушка - Утечка Капитала"
 weight: 1
 ---

@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-07.webp
 title: "01-07 Долговая ловушка - Разрыв Гостеприимства"
 weight: 1
 ---

@@ -1,4 +1,5 @@
 ---
+image: /images/shield-001.webp
 title: "001 Аксиома Cилы"
 weight: 1
 ---

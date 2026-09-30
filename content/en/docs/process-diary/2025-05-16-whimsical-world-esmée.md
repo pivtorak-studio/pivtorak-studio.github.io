@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20250516-whimsical-world-pivtorak-studio-2025.webp
 title: 20250516 Whimsical World. ESMÉE
 weight: 20250516
 ---

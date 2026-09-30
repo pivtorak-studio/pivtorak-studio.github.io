@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-07.webp
 title: "01-07 Armadilha da Dívida - A Lacuna da Hospitalidade"
 weight: 1
 ---

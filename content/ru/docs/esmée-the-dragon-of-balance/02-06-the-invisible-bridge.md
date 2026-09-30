@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp
 title: "02.06 🐉⚖️ ESMÉE. 🌀 Невидимый Мост"
 weight: 9
 event_date: 2025-10-09T15:00:00 # Дата события 

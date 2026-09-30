@@ -1,4 +1,5 @@
 ---
+image: /images/architecture-of-value-001-value-construction-protocol-the-architecture-of-context-pivtorak-studio-2026.webp
 title: "001 Value Construction Protocol: The Architecture of Context"
 descriptions: A foundational protocol by Pivtorak Studio that redefines the nature of value. We transition from passive object valuation to the active engineering of contextual systems. Grounded in formal logic ($\forall, \exists$) and systems architecture, the protocol defines value as a managed function of time, expertise, and informational density. It is a strategic framework for transforming material objects into non-fragile assets for the future.
 weight: 1

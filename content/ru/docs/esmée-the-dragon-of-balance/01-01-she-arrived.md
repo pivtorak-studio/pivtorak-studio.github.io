@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp
 title: "01.01 🐉⚖️ ESMÉE. 📍Она прибыла. И этого достаточно"
 weight: 1
 event_date: 2025-05-16T10:00:00 # Дата события (формулирование контура)

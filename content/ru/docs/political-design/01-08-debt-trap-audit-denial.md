@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-08.webp
 title: "01-08 Долговая ловушка - Отказ в Аудите"
 weight: 1
 ---

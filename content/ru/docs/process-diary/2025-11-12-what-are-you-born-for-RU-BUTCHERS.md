@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251112.webp
 title: 20251112 ДляЧегоТыРождён. RU-БОЙНИ
 weight: 20251112
 ---

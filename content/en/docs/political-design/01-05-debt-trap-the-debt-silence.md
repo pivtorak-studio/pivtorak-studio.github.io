@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-05.webp
 title: "01-05 Debt Trap - The Debt Silence"
 weight: 1
 ---

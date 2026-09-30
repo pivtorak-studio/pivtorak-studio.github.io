@@ -1,4 +1,5 @@
 ---
+image: /images/shield-006.webp
 title: "006 Axiom Of Unity"
 weight: 1
 ---

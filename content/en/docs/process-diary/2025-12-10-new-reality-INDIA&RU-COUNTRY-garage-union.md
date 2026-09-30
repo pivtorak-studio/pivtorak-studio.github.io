@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251210.webp
 title: 20251210 NewReality. INDIA&RU-COUNTRY. GarageUnion
 weight: 20251210
 ---

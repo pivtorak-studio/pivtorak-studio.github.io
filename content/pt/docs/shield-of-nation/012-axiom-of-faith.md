@@ -1,4 +1,5 @@
 ---
+image: /images/shield-012.webp
 title: "012 Axioma Da Fé"
 weight: 1
 ---

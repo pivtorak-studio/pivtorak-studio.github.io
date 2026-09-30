@@ -1,4 +1,5 @@
 ---
+image: /images/shield-009.webp
 title: "009 Axiom Of Identity"
 weight: 1
 ---

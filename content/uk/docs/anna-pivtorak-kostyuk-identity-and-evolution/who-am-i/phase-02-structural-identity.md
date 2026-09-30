@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i-phase-02-іtructural-identity.webp
 title: Фаза IІ — Структурна Ідентичність (2026)
 description: Друга фаза ідентичності Анни Півторак – перехід від наративу до системного мислення та побудови структури.
 weight: 4

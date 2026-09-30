@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251121.webp
 title: 20251121 ВеличнаДисципліна. ВедмідьЄвропи
 weight: 20251121
 ---

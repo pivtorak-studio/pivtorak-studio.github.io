@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-anatoly-kostyuk.webp
 title: Father’s Legacy — Identity and Principles
 description: The influence of a father as a source of structured thinking, responsibility, and decision-making. Not a biography, but a transmitted system.
 keywords: father, legacy, thinking, structure, responsibility, principles, engineering, science, influence, family

@@ -1,4 +1,5 @@
 ---
+image: /images/shield-004.webp
 title: "004 Axioma Da Liberdade"
 weight: 1
 ---

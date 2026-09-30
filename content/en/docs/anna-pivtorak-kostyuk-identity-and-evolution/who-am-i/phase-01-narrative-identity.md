@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp
 title: Phase I — Narrative Identity (2025)
 descriptions: The first documented phase of identity as a visual storyteller and researcher.
 weight: 3

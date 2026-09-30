@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-07.webp
 title: "01-07 Debt Trap - The Hospitality Gap"
 weight: 1
 ---

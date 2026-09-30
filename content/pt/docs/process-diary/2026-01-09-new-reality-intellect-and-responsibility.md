@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20260109.webp
 title: 20260109 Nova Realidade. Intelecto e Responsabilidade
 weight: 20260109
 ---

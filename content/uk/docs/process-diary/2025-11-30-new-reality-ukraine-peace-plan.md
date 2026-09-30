@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251130.webp
 title: 20251130 НоваРеальність. Україна. МирнийПлан
 weight: 20251130
 ---

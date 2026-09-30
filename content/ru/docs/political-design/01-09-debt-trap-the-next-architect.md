@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-09b.webp
 title: "01-09 Долговая ловушка - Следующий Архитектор"
 weight: 1
 ---

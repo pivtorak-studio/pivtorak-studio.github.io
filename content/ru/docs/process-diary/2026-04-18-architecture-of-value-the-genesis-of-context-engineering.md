@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-2026-04-18-architecture-of-value-the-genesis-of-context-engineering.webp
 title: 20260418 ∀ ◉ ∃ Архитектура Ценности. Генезис Контекстной Инженерии
 weight: 20260418
 ---

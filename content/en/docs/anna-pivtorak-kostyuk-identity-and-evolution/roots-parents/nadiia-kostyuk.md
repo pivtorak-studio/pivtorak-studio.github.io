@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-roots-parents-nadiia-kostyuk-dovbysh.webp
 title: Mother’s Wisdom — Identity and Sensibilities
 description: The influence of a mother as a source of ethical foundation, inner precision, and the ability to perceive the structure of life. Not a biography, but a formed environment.
 keywords: mother, wisdom, sensibility, environment, culture, precision, beauty, upbringing, family

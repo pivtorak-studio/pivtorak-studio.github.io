@@ -1,4 +1,5 @@
 ---
+image: /images/shield-002.webp
 title: "002 Аксиома Жизни"
 weight: 1
 ---

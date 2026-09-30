@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution-who-am-i-phase-02-іtructural-identity.webp
 title: Fase II — Identidade Estrutural (2026)
 description: Segunda fase da identidade – transição da narrativa para o pensamento sistémico e construção estrutural.
 weight: 4

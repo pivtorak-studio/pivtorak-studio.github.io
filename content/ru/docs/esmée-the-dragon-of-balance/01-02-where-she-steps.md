@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp
 title: "01.02 🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы"
 weight: 2
 event_date: 2025-05-16T11:00:00 # Дата события (формулирование контура)

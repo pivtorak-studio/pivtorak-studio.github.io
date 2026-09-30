@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251210.webp
 title: 20251210 НоваРеальність. ІНДІЯіRU-КРАЇНА. ГаражнийСоюз
 weight: 20251210
 ---

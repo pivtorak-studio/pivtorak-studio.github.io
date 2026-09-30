@@ -1,4 +1,5 @@
 ---
+image: /images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp
 title: "02.05 🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено"
 weight: 8
 event_date: 2025-10-09T14:00:00 # Дата події, про яку йдеться (для Хронології)

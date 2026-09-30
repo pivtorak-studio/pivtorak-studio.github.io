@@ -1,4 +1,5 @@
 ---
+image: /images/anna-pivtorak-сontext-engineering-in-value-construction-an-architectural-and-mathematical-logical-model-for-cultural-and-jewelry-assets-pivtorak-studio-15-04-2026.webp
 title: "Context Engineering in Value Construction: An Architectural and Mathematical-Logical Model for Cultural and Jewelry Assets"
 descriptions: This study introduces a new paradigm for value formation in unique assets through context architecture. It presents the model V = f(C), where value is treated as a function of structured meaning rather than purely material properties. Integrating economics, formal logic, and cultural theory, the paper develops the concept of the Value Passport as a mechanism for value stabilization, reduction of information asymmetry, and increased trust in cultural and jewelry assets within global markets.
 weight: 1

@@ -1,4 +1,5 @@
 ---
+image: /images/process-diary-20251112.webp
 title: 20251112 WhatAreYouBornFor. RU-BUTCHERS
 weight: 20251112
 ---

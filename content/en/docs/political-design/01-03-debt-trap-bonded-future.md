@@ -1,4 +1,5 @@
 ---
+image: /images/political-design-01-03.webp
 title: "01-03 Debt Trap - Bonded Future"
 weight: 1
 ---

@@ -1,4 +1,5 @@
 ---
+image: /images/shield-011.webp
 title: "011 Axioma Da Dignidade"
 weight: 1
 ---

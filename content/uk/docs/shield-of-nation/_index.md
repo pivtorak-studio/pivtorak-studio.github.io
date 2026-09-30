@@ -3,6 +3,8 @@ title: ⛨ Щит Нації
 description: "Дослідницька серія #ShieldOfNation: система життєздатності держави через ролі, що формують захист, стійкість і майбутнє."
 bookCollapseSection: true
 weight: 85
+event_date: 2025-10-01T06:00:00
+publication_date: 2025-10-01T06:00:00
 ---
 
 <script type="application/ld+json">

@@ -2,6 +2,8 @@
 title: ⛨ Щит Нации
 description: "Исследовательская серия #ShieldOfNation: система жизнеспособности государства через роли, формирующие защиту, устойчивость и будущее."
 bookCollapseSection: true
+event_date: 2025-10-01T06:00:00
+publication_date: 2025-10-01T06:00:00
 ---
 
 <script type="application/ld+json">

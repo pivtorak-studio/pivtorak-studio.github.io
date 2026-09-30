@@ -1,7 +1,9 @@
 ---
 image: /images/shield-012.webp
-title: "012 Axiom Of Faith"
-weight: 1
+title: 012 Axiom Of Faith
+weight: 12
+event_date: 2025-10-14T13:00:00
+publication_date: 2025-10-14T13:00:00
 ---
 
 ![Axiom Of Faith](/images/shield-012.webp)

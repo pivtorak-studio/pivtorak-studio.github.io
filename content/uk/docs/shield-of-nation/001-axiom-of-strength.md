@@ -1,7 +1,9 @@
 ---
 image: /images/shield-001.webp
-title: "001 Аксіома Cили"
+title: 001 Аксіома Cили
 weight: 1
+event_date: 2025-10-01T11:00:00
+publication_date: 2025-10-01T11:00:00
 ---
 
 

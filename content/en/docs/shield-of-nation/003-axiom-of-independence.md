@@ -1,6 +1,9 @@
 ---
-title: "003 Axiom Of Independence"
-weight: 1
+title: 003 Axiom Of Independence
+weight: 3
+image: /images/shield-003.webp
+event_date: 2025-10-01T13:00:00
+publication_date: 2025-10-01T13:00:00
 ---
 
 

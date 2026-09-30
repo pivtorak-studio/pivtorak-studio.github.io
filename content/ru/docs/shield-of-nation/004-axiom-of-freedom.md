@@ -2,6 +2,8 @@
 image: /images/shield-004.webp
 title: 004 Аксиома Свободы
 weight: 4
+event_date: 2025-10-02T11:00:00
+publication_date: 2025-10-02T11:00:00
 ---
 
 

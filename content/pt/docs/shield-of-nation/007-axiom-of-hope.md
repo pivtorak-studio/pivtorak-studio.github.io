@@ -1,7 +1,9 @@
 ---
 image: /images/shield-007.webp
-title: "007 Axioma Da Esperança"
-weight: 1
+title: 007 Axioma Da Esperança
+weight: 7
+event_date: 2025-10-03T11:00:00
+publication_date: 2025-10-03T11:00:00
 ---
 
 

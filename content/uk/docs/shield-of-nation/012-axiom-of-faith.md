@@ -2,6 +2,8 @@
 image: /images/shield-012.webp
 title: 012 Аксіома Віри
 weight: 12
+event_date: 2025-10-14T13:00:00
+publication_date: 2025-10-14T13:00:00
 ---
 
 

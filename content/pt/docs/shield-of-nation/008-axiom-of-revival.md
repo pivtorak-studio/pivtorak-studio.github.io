@@ -1,7 +1,9 @@
 ---
 image: /images/shield-008.webp
-title: "008 Axioma Do Renascimento"
-weight: 1
+title: 008 Axioma Do Renascimento
+weight: 8
+event_date: 2025-10-03T11:00:00
+publication_date: 2025-10-03T11:00:00
 ---
 
 

@@ -2,6 +2,8 @@
 image: /images/shield-003.webp
 title: 003 Аксиома Независимости
 weight: 3
+event_date: 2025-10-01T13:00:00
+publication_date: 2025-10-01T13:00:00
 ---
 
 

@@ -2,6 +2,8 @@
 image: /images/shield-002.webp
 title: 002 Аксіома Життя
 weight: 2
+event_date: 2025-10-01T12:00:00
+publication_date: 2025-10-01T12:00:00
 ---
 
 

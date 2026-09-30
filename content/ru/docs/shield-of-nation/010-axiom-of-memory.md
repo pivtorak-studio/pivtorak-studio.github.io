@@ -2,6 +2,8 @@
 image: /images/shield-010.webp
 title: 010 Аксиома Памяти
 weight: 10
+event_date: 2025-10-14T11:00:00
+publication_date: 2025-10-14T11:00:00
 ---
 
 

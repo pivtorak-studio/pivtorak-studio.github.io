@@ -2,6 +2,8 @@
 image: /images/shield-006.webp
 title: 006 Аксиома Единства
 weight: 6
+event_date: 2025-10-02T13:00:00
+publication_date: 2025-10-02T13:00:00
 ---
 
 

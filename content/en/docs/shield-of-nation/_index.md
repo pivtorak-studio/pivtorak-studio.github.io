@@ -3,6 +3,8 @@ title: ⛨ Shield of Nation
 description: "Research series #ShieldOfNation: the system of national resilience through roles that shape protection, stability, and future."
 bookCollapseSection: true
 weight: 171
+event_date: 2025-10-01T06:00:00
+publication_date: 2025-10-01T06:00:00
 ---
 
 <script type="application/ld+json">

@@ -1,7 +1,9 @@
 ---
 image: /images/shield-011.webp
-title: "011 Axiom Of Dignity"
-weight: 1
+title: 011 Axiom Of Dignity
+weight: 11
+event_date: 2025-10-14T12:00:00
+pu: 2025-10-14T12:00:00
 ---
 
 

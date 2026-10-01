@@ -37,60 +37,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <!-- KaTeX support for mathematical formulas END -->
 
-<!-- Move the main article image below the title BEGIN -->
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const article = document.querySelector(".book-article");
-  if (!article) return;
-
-  const title = article.querySelector("h1");
-  if (!title) return;
-
-  let mainImagePath = article.dataset.mainImage;
-
-  if (!mainImagePath) {
-    const schema = document.querySelector(
-      'script[type="application/ld+json"]'
-    );
-
-    if (schema) {
-      try {
-        const data = JSON.parse(schema.textContent);
-        mainImagePath = data.image || "";
-      } catch (e) {
-        return;
-      }
-    }
-  }
-
-  if (!mainImagePath) return;
-
-  const mainImagePathRelative =
-    new URL(mainImagePath, window.location.origin).pathname;
-
-  const mainImage = article.querySelector(
-    `img[src="${mainImagePathRelative}"]`
-  );
-
-  if (!mainImage) return;
-
-  // Only move the main image when it appears before the title.
-  if (mainImage.compareDocumentPosition(title) & Node.DOCUMENT_POSITION_FOLLOWING) {
-    const imageBlock = mainImage.closest("p");
-
-    if (
-      imageBlock &&
-      imageBlock.children.length === 1 &&
-      imageBlock.firstElementChild === mainImage
-    ) {
-      title.insertAdjacentElement("afterend", imageBlock);
-    }
-  }
-});
-</script>
-
-<!-- Move the main article image below the title END -->
 
 {{- with .Page.Params.BookHref -}}
   <meta http-equiv="Refresh" content="0; url='{{ . }}'" />

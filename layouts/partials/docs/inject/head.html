@@ -1,0 +1,25 @@
+﻿<script>
+function moveMainImage() {
+  const article = document.querySelector(".book-article");
+  if (!article) return;
+
+  const title = article.querySelector("h1");
+  if (!title) return;
+
+  const imageBeforeTitle = title.previousElementSibling;
+
+  if (
+    imageBeforeTitle &&
+    imageBeforeTitle.tagName === "P" &&
+    imageBeforeTitle.querySelector("img")
+  ) {
+    title.insertAdjacentElement("afterend", imageBeforeTitle);
+  }
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", moveMainImage);
+} else {
+  moveMainImage();
+}
+</script>

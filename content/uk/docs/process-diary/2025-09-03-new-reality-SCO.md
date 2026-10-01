@@ -19,29 +19,21 @@ weight: 20250903
 ЄС, Україну й США показали сильними та самодостатніми, додали друзів демократій.  
 Глобальному Півдню дали не поле боротьби, а простір росту і можливостей.
 
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-02.webp)
 
-</div>
 
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-01.webp)
 
-</div>
 
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-05.webp)
 
-</div>
 
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
 
-</div>
 
 Цей день став моментом перерисовки світу.  
 І народив три образи: 

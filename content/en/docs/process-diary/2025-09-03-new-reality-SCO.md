@@ -16,29 +16,21 @@ But then the shift happened. We began to **rewrite the mistakes of the world ord
 We highlighted the conflicts and dishonesty within the SCO.  
 We showed the EU, Ukraine, and the USA as strong and self-sufficient, joined by the friends of democracies.  
 We gave the Global South not a battlefield, but a field of growth and opportunities.
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-02.webp)
 
-</div>
 
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-01.webp)
 
-</div>
 
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-05.webp)
 
-</div>
 
-<div class="float-right">
 
 ![New Reality. SCO](/images/process-diary-20250903-03-04.webp)
 
-</div>
 
 This day became a moment of redrawing the world.  
 And it gave birth to three images: 

@@ -41,11 +41,9 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 </script>
 
 
-<div class="float-right">
 
 ![🎓 Anna Pivtorak (Kostyuk) — Identidade & Evolução](/images/anna-pivtorak-kostyuk-identity-and-evolution.webp)
 
-</div>
 
 # 🎓 Anna Pivtorak (Kostyuk) — Identidade & Evolução  
 *Este espaço é um arquivo da evolução da identidade e do pensamento da autora.*

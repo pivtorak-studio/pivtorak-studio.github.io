@@ -11,11 +11,9 @@ weight: 40
 image: /images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp
 ---
 
-<div class="float-right">
 
 ![Kovtyukh — Continuity Under Renunciation](/images/anna-pivtorak-kostyuk-identity-and-evolution-kovtyukh-continuity-under-renunciation.webp)
 
-</div>
 
 # Kovtyukh "Continuity Under Renunciation"
 

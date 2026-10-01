@@ -60,11 +60,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![Anna Pivtorak (Kostyuk) – Achievements](/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp)
 
-</div>
 
 # 🏆 Anna Pivtorak (Kostyuk) – Achievements  
 

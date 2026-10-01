@@ -4,11 +4,9 @@ title: 20260418 ∀ ◉ ∃ Архитектура Ценности. Генез�
 weight: 20260418
 ---
 
-<div class="float-right">
 
 ![∀ ◉ ∃ Архитектура Ценности. Генезис Контекстной Инженерии](/images/process-diary-2026-04-18-architecture-of-value-the-genesis-of-context-engineering.webp)
 
-</div>
 
 # 2026 04 18 ∀ ◉ ∃ Архитектура Ценности. Генезис Контекстной Инженерии | Дневник Процесса
 

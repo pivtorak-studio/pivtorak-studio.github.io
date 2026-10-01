@@ -87,11 +87,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![Reinicialização do Sistema](/images/core-recalibration-001-2025-system-reboot.webp)
 
-</div>
 
 # Reinicialização do Sistema | ⟡ Recalibração do Núcleo  
 

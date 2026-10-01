@@ -29,11 +29,9 @@ lastmod: 2025-03-12T09:00:00
 }
 </script>
 
-<div class="float-right">
 
 ![Quem sou eu? — Fase I — Identidade Narrativa](/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp)
 
-</div>
 
 # ✨ Anna Pivtorak (Kostyuk) – Histórias em Imagens   
 

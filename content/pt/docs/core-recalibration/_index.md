@@ -117,11 +117,9 @@ search: indexed
 }
 </script>
 
-<div class="float-right">
 
 ![Recalibração do Núcleo](/images/core-recalibration.webp)
 
-</div>
 
 # Recalibração do Núcleo
 

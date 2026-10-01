@@ -4,11 +4,9 @@ title: 20260418 ∀ ◉ ∃ Arquitetura de Valor. A Génese da Engenharia de Con
 weight: 20260418
 ---
 
-<div class="float-right">
 
 ![∀ ◉ ∃ Arquitetura de Valor. A Génese da Engenharia de Contexto](/images/process-diary-2026-04-18-architecture-of-value-the-genesis-of-context-engineering.webp)
 
-</div>
 
 # 2026 04 18 ∀ ◉ ∃ Arquitetura de Valor. A Génese da Engenharia de Contexto | Diário do Processo
 

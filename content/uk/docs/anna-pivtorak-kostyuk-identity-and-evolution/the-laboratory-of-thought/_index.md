@@ -12,11 +12,9 @@ weight: 60
 image: /images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp
 ---
 
-<div class="float-right">
 
 ![Лабораторія Думки](/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought.webp)
 
-</div>
 
 # Лабораторія Думки
 

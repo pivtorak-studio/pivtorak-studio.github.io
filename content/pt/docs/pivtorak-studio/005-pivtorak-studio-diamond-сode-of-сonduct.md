@@ -105,11 +105,9 @@ search: indexed
 </script>
 
 
-<div class="float-right">
 
 ![Código de Conduta — Pivtorak.Studio](/images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp)
 
-</div>
 
 <script type="application/ld+json">
 {

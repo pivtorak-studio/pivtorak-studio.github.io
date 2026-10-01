@@ -12,11 +12,9 @@ image:
   - /images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp
 ---
 
-<div class="float-right">
 
 ![Ancestors: Generations of Integrity](/images/anna-pivtorak-kostyuk-identity-and-evolution-ancestors-generations-of-integrity.webp)
 
-</div>
 
 # Ancestors: Generations of Integrity
 

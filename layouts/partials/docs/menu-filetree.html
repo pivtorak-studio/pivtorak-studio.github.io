@@ -9,14 +9,17 @@
   {{ $pages := where $section.Pages "Params.bookHidden" "ne" true }}
   {{ $toolsSlugs := slice "calculators" "converters" "templates" "seo-tricks" }}
   {{ $archiveSlugs := slice "timeline" "the-movement-matrix" }}
+  {{ $identitySlugs := slice "pivtorak-studio" "anna-pivtorak-kostyuk-identity-and-evolution" "independent-researcher-manifesto" }}
   {{ $toolsState := newScratch }}
   {{ $archiveState := newScratch }}
+  {{ $identityState := newScratch }}
 
   <ul>
     {{ range $pages }}
       {{ $page := . }}
       {{ $isToolsPage := and $isRoot $page.IsSection (in $toolsSlugs (path.Base $page.File.Dir)) }}
       {{ $isArchivePage := and $isRoot $page.IsSection (in $archiveSlugs (path.Base $page.File.Dir)) }}
+      {{ $isIdentityPage := and $isRoot (or (and $page.IsPage (eq (path.Base $page.File.Path) "about.md")) (and $page.IsSection (in $identitySlugs (path.Base $page.File.Dir)))) }}
 
       {{ if $isToolsPage }}
         {{ if not ($toolsState.Get "rendered") }}
@@ -53,6 +56,25 @@
             </ul>
           </li>
           {{ $archiveState.Set "rendered" true }}
+        {{ end }}
+      {{ else if $isIdentityPage }}
+        {{ if not ($identityState.Get "rendered") }}
+          <li class="book-section-flat book-menu-group">
+            <h2 class="book-menu-group-title">{{ i18n "identity" }}</h2>
+            <ul>
+              {{ range $pages }}
+                {{ $identityPage := . }}
+                {{ $isIdentityChild := or (and $identityPage.IsPage (eq (path.Base $identityPage.File.Path) "about.md")) (and $identityPage.IsSection (in $identitySlugs (path.Base $identityPage.File.Dir))) }}
+                {{ if $isIdentityChild }}
+                  <li {{- if $identityPage.Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
+                    {{ template "book-page-link" (dict "Page" $identityPage "CurrentPage" $currentPage) }}
+                    {{ template "book-section-children" (dict "Section" $identityPage "CurrentPage" $currentPage "IsRoot" false) }}
+                  </li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          </li>
+          {{ $identityState.Set "rendered" true }}
         {{ end }}
       {{ else if $page.IsSection }}
         <li {{- if $page.Params.BookFlatSection }} class="book-section-flat" {{ end -}}>

@@ -2,3 +2,5 @@ tools:
   other: Tools
 archive:
   other: Archive
+identity:
+  other: Identity

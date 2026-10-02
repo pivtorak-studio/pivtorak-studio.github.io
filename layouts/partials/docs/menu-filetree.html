@@ -8,12 +8,15 @@
   {{ $isRoot := .IsRoot }}
   {{ $pages := where $section.Pages "Params.bookHidden" "ne" true }}
   {{ $toolsSlugs := slice "calculators" "converters" "templates" "seo-tricks" }}
+  {{ $archiveSlugs := slice "timeline" "the-movement-matrix" }}
   {{ $toolsState := newScratch }}
+  {{ $archiveState := newScratch }}
 
   <ul>
     {{ range $pages }}
       {{ $page := . }}
       {{ $isToolsPage := and $isRoot $page.IsSection (in $toolsSlugs (path.Base $page.File.Dir)) }}
+      {{ $isArchivePage := and $isRoot $page.IsSection (in $archiveSlugs (path.Base $page.File.Dir)) }}
 
       {{ if $isToolsPage }}
         {{ if not ($toolsState.Get "rendered") }}
@@ -32,6 +35,24 @@
             </ul>
           </li>
           {{ $toolsState.Set "rendered" true }}
+        {{ end }}
+      {{ else if $isArchivePage }}
+        {{ if not ($archiveState.Get "rendered") }}
+          <li class="book-section-flat book-menu-group">
+            <h2 class="book-menu-group-title">{{ i18n "archive" }}</h2>
+            <ul>
+              {{ range $pages }}
+                {{ $archivePage := . }}
+                {{ if and $archivePage.IsSection (in $archiveSlugs (path.Base $archivePage.File.Dir)) }}
+                  <li {{- if $archivePage.Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
+                    {{ template "book-page-link" (dict "Page" $archivePage "CurrentPage" $currentPage) }}
+                    {{ template "book-section-children" (dict "Section" $archivePage "CurrentPage" $currentPage "IsRoot" false) }}
+                  </li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          </li>
+          {{ $archiveState.Set "rendered" true }}
         {{ end }}
       {{ else if $page.IsSection }}
         <li {{- if $page.Params.BookFlatSection }} class="book-section-flat" {{ end -}}>

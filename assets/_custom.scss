@@ -84,3 +84,38 @@
     margin: 1rem 0 !important;
   }
 }
+
+
+/* =========================================================
+   6. DESKTOP THREE-COLUMN GEOMETRY — ITERATION 01
+   ---------------------------------------------------------
+   Keep Hugo Book's mobile breakpoint and mobile column
+   behavior intact. Apply the geometry override only above
+   the theme's 56rem mobile breakpoint.
+   ========================================================= */
+
+@media screen and (min-width: 57rem) {
+  .container {
+    max-width: 100rem;
+  }
+
+  main.container {
+    gap: 2rem;
+  }
+
+  .book-menu {
+    flex: 0 0 15rem;
+  }
+
+  .book-menu .book-menu-content {
+    width: 15rem;
+  }
+
+  .book-toc {
+    flex: 0 0 15rem;
+  }
+
+  .book-toc .book-toc-content {
+    width: 15rem;
+  }
+}

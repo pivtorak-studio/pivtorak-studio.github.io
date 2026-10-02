@@ -162,7 +162,7 @@ A resposta chegou rapidamente e de forma calorosa:
 
 Essa simples garantia mudou tudo. Não havia qualquer pressão para representar. Apenas uma porta aberta para explorar.
 
-## A Sala, o Tapete Cinzento e a Faixa Branca
+## A Sala, o Tapete Cinzento e a Tira Branca
 
 O local do nosso primeiro encontro foi o _Centro de Informação Turística_. Quando entrei, o ambiente pareceu-me surpreendentemente acolhedor e tranquilo.
 
@@ -174,13 +174,13 @@ O dinamizador explicou as principais regras do nosso espaço comum:
 
 Havia um grande tapete cinzento no chão. Foi-nos proposto que tirássemos os sapatos, se quiséssemos, para nos sentirmos mais à vontade. No início, mantive os meus calçados. Mas, cinco minutos depois, tirei-os. Sentar-me descalça no tapete era simplesmente mais confortável.
 
-Cada um de nós recebeu um novelo de uma faixa de tecido branco de malha — macia, agradável ao toque e flexível. E, no centro, encontrava-se um novelo cinzento igualmente grande.
+Cada um de nós recebeu um novelo de uma tira de tecido branco de malha — macia, agradável ao toque e flexível. E, no centro, encontrava-se um novelo cinzento igualmente grande.
 
 ## Criar o Caminho
 
 ![_Topografia Viva. O Caminho nas Minhas Mãos. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands-01.webp)
 
-A música começou e, com ela, surgiu a primeira tarefa: desenrolar a nossa faixa branca pelo chão, criando o nosso próprio caminho desde o lugar onde estávamos sentados até ao novelo cinzento central.
+A música começou e, com ela, surgiu a primeira tarefa: desenrolar a nossa tira branca pelo chão, criando o nosso próprio caminho desde o lugar onde estávamos sentados até ao novelo cinzento central.
 
 As crianças que estavam na sala com os pais integraram-se naturalmente nesta brincadeira desde o primeiro momento.
 
@@ -237,7 +237,7 @@ Formámos pares, movimentando-nos pela sala como um único organismo sincronizad
 
 Para o exercício final, voltámos a sentar-nos no tapete. A música era igualmente suave.
 
-Foi-nos proposto que voltássemos a enrolar as nossas faixas brancas, refazendo o caminho desde o novelo central até nós próprios.
+Foi-nos proposto que voltássemos a enrolar as nossas tiras brancas, refazendo o caminho desde o novelo central até nós próprios.
 
 Enquanto enrolava o material macio num pequeno novelo, fui tomada por uma sensação extraordinária. O caminho já não estava estendido pelo chão. Já não era uma linha que conduzia ao desconhecido. Estava completo, inteiro, e repousava tranquilamente nas minhas mãos.
 
@@ -267,7 +267,7 @@ E quando a música termina, percebemos que não deixamos o nosso caminho para tr
 
 ## P.S.
 
-Estou sentada descalça no tapete. Nas minhas mãos está uma faixa branca enrolada — o meu caminho. Há apenas um momento, estava estendida pela sala, criando uma trajetória e mudando de ritmo com a música.
+Estou sentada descalça no tapete. Nas minhas mãos está uma tira branca enrolada — o meu caminho. Há apenas um momento, estava estendida pela sala, criando uma trajetória e mudando de ritmo com a música.
 
 Agora está novamente nas minhas mãos.
 

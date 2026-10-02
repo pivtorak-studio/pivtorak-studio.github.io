@@ -59,8 +59,8 @@ related:
 
 **∴ 0.01 | Pivtorak.Studio – Official Website | Anna Pivtorak (Kostyuk)**  
 
-## A CONCEPTUAL SYSTEM FOR THE FORMATION OF LONG-TERM VALUE STRUCTURES  
-
+## A Conceptual System For The Formation Of Long-Term Value Structures
+  
 ![A CONCEPTUAL SYSTEM FOR THE FORMATION OF LONG-TERM VALUE STRUCTURES](/images/pivtorak-studio-001-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp)
 
 ### I. System Attribution  

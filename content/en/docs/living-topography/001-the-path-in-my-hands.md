@@ -180,6 +180,8 @@ Each of us was given a ball of white knitted fabric — soft, pleasant to the to
 
 ## Creating the Path
 
+![_Living Topography. The Path in My Hands. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands-01.webp)
+
 The music began, and with it came the first task: to unwind our white strips across the floor, creating our own paths from where we were sitting towards the central grey ball.
 
 The children who were in the room with their parents naturally joined the game from the very beginning.
@@ -272,8 +274,6 @@ I am sitting barefoot on the carpet. In my hands is a rolled-up white strip — 
 Now it is back in my hands.
 
 And the most remarkable feeling is not where this path was leading, but the fact that I can hold it, touch it, and carry it with me wherever I go.
-
-![_Living Topography. The Path in My Hands. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands-01.webp)
 
 **Alt-text:**   
 Hands holding a white fabric path over a dark grey carpet.

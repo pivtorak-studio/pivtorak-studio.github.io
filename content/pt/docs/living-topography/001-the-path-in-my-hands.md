@@ -178,6 +178,8 @@ Cada um de nós recebeu um novelo de uma faixa de tecido branco de malha — mac
 
 ## Criar o Caminho
 
+![_Topografia Viva. O Caminho nas Minhas Mãos. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands-01.webp)
+
 A música começou e, com ela, surgiu a primeira tarefa: desenrolar a nossa faixa branca pelo chão, criando o nosso próprio caminho desde o lugar onde estávamos sentados até ao novelo cinzento central.
 
 As crianças que estavam na sala com os pais integraram-se naturalmente nesta brincadeira desde o primeiro momento.
@@ -270,8 +272,6 @@ Estou sentada descalça no tapete. Nas minhas mãos está uma faixa branca enrol
 Agora está novamente nas minhas mãos.
 
 E a sensação mais extraordinária não é saber para onde este caminho me levava, mas saber que posso segurá-lo, tocá-lo e levá-lo comigo para onde quer que vá.
-
-![_Topografia Viva. O Caminho nas Minhas Mãos. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands-01.webp)
 
 **Alt-text:**   
 Mãos a segurar um caminho de tecido branco sobre um tapete cinzento escuro.

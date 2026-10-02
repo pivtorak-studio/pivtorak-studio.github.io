@@ -34,6 +34,9 @@ seo: true
 distribution: true
 search: indexed
 bookCollapseSection: true
+event_date: 2026-10-01T18:30:00+01:00
+publication_date: 2026-10-01T18:30:00+01:00
+lastmod: 2026-10-01T18:30:00+01:00
 ---
 
 <script type="application/ld+json">

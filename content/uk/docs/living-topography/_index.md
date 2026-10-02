@@ -27,12 +27,13 @@ related:
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/living-topography/
-weight: 1
+weight: 114
 toc: false
 completion: 100
 seo: true
 distribution: true
 search: indexed
+bookCollapseSection: true
 ---
 
 <script type="application/ld+json">

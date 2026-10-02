@@ -35,6 +35,71 @@ distribution: true
 search: indexed
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/en/docs/living-topography/#webpage",
+  "name": "Living Topography",
+  "description": "A series about embodied experiences, human encounters, movement, and the living maps created between people, places, and moments.",
+  "inLanguage": "en",
+  "url": "https://pivtorak.studio/en/docs/living-topography/",
+  "mainEntity": {
+    "@type": "CreativeWorkSeries",
+    "@id": "https://pivtorak.studio/en/docs/living-topography/#series",
+    "name": "Living Topography",
+    "description": "A series about experiences that cannot be fully captured by static maps — encounters, movements, connections, and traces that emerge through being present.",
+    "url": "https://pivtorak.studio/en/docs/living-topography/",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://pivtorak.studio/images/living-topography-series.webp",
+      "caption": "Dark topographic surface with flowing paths, traces, nodes and connections, representing Living Topography"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Anna Pivtorak",
+      "url": "https://pivtorak.studio/en/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Pivtorak.Studio",
+      "url": "https://pivtorak.studio/"
+    },
+    "keywords": [
+      "Living Topography",
+      "embodied experience",
+      "human encounters",
+      "movement",
+      "intercultural dialogue",
+      "creative practice"
+    ],
+    "hasPart": [
+      {
+        "@type": "Article",
+        "@id": "https://pivtorak.studio/en/docs/living-topography/001-the-path-in-my-hands/#article",
+        "headline": "001 The Path in My Hands",
+        "url": "https://pivtorak.studio/en/docs/living-topography/001-the-path-in-my-hands/"
+      }
+    ]
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/living-topography-series.webp",
+    "caption": "Dark topographic surface with flowing paths, traces, nodes and connections, representing Living Topography"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak",
+    "url": "https://pivtorak.studio/en/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  }
+}
+</script>
+
 # Living Topography
 
 ![_Living Topography.  AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography.webp)

@@ -35,6 +35,71 @@ distribution: true
 search: indexed
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/pt/docs/living-topography/#webpage",
+  "name": "Living Topography",
+  "description": "Uma série sobre experiências incorporadas, encontros humanos, movimento e os mapas vivos que se criam entre pessoas, lugares e momentos.",
+  "inLanguage": "pt-PT",
+  "url": "https://pivtorak.studio/pt/docs/living-topography/",
+  "mainEntity": {
+    "@type": "CreativeWorkSeries",
+    "@id": "https://pivtorak.studio/pt/docs/living-topography/#series",
+    "name": "Living Topography",
+    "description": "Uma série sobre experiências que não podem ser totalmente captadas por mapas estáticos — encontros, movimentos, ligações e marcas que surgem através da presença.",
+    "url": "https://pivtorak.studio/pt/docs/living-topography/",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://pivtorak.studio/images/living-topography-series.webp",
+      "caption": "Superfície topográfica escura com caminhos, traços, nós e ligações fluidas, representando Living Topography"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Anna Pivtorak",
+      "url": "https://pivtorak.studio/pt/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Pivtorak.Studio",
+      "url": "https://pivtorak.studio/"
+    },
+    "keywords": [
+      "Living Topography",
+      "experiência incorporada",
+      "encontros humanos",
+      "movimento",
+      "diálogo intercultural",
+      "prática criativa"
+    ],
+    "hasPart": [
+      {
+        "@type": "Article",
+        "@id": "https://pivtorak.studio/pt/docs/living-topography/001-the-path-in-my-hands/#article",
+        "headline": "001 O Caminho nas Minhas Mãos",
+        "url": "https://pivtorak.studio/pt/docs/living-topography/001-the-path-in-my-hands/"
+      }
+    ]
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/living-topography-series.webp",
+    "caption": "Superfície topográfica escura com caminhos, traços, nós e ligações fluidas, representando Living Topography"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak",
+    "url": "https://pivtorak.studio/pt/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  }
+}
+</script>
+
 # Topografia Viva
 
 ![_Topografia Viva.  AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography.webp)

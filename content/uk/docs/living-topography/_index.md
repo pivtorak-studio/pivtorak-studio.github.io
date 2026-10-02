@@ -35,6 +35,71 @@ distribution: true
 search: indexed
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/uk/docs/living-topography/#webpage",
+  "name": "Жива Топографія",
+  "description": "Серія про втілені досвіди, людські зустрічі, рух і живі карти, що виникають між людьми, місцями та моментами.",
+  "inLanguage": "uk",
+  "url": "https://pivtorak.studio/uk/docs/living-topography/",
+  "mainEntity": {
+    "@type": "CreativeWorkSeries",
+    "@id": "https://pivtorak.studio/uk/docs/living-topography/#series",
+    "name": "Living Topography",
+    "description": "Серія про досвіди, які неможливо повністю зафіксувати на статичній карті — зустрічі, рухи, зв'язки та сліди, що виникають завдяки присутності.",
+    "url": "https://pivtorak.studio/uk/docs/living-topography/",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://pivtorak.studio/images/living-topography-series.webp",
+      "caption": "Темна топографічна поверхня з плавними шляхами, слідами, вузлами та зв'язками, що представляють Living Topography"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Anna Pivtorak",
+      "url": "https://pivtorak.studio/uk/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Pivtorak.Studio",
+      "url": "https://pivtorak.studio/"
+    },
+    "keywords": [
+      "Living Topography",
+      "втілений досвід",
+      "людські зустрічі",
+      "рух",
+      "міжкультурний діалог",
+      "творча практика"
+    ],
+    "hasPart": [
+      {
+        "@type": "Article",
+        "@id": "https://pivtorak.studio/uk/docs/living-topography/001-the-path-in-my-hands/#article",
+        "headline": "001 Шлях у Моїх Руках",
+        "url": "https://pivtorak.studio/uk/docs/living-topography/001-the-path-in-my-hands/"
+      }
+    ]
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/living-topography-series.webp",
+    "caption": "Темна топографічна поверхня з плавними шляхами, слідами, вузлами та зв'язками, що представляють Living Topography"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak",
+    "url": "https://pivtorak.studio/uk/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  }
+}
+</script>
+
 # Жива Топографія
 
 ![_Жива Топографія.  AP | Pivtorak.Studio. 01.10.2026_ © Анна Півторак (Костюк)](/images/living-topography.webp)

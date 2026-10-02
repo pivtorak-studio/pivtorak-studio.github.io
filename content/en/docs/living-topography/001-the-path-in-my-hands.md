@@ -3,46 +3,54 @@ id: living-topography-001-the-path-in-my-hands
 language: en
 translation_of: living-topography-001-the-path-in-my-hands
 translation_key: living-topography-001-the-path-in-my-hands
-
-title: "001 The Path in My Hands"
+title: 001 The Path in My Hands
 slug: 001-the-path-in-my-hands
-
-description: "An embodied intercultural experience in Esposende where movement, personal paths and shared presence became a living topography of human connection."
-summary: "A creative group experience where white fabric paths, movement, music and intercultural dialogue transformed a grey carpet into a living topography."
-
+description: An embodied intercultural experience in Esposende where movement, personal paths and shared presence became a living topography of human connection.
+summary: A creative group experience where white fabric paths, movement, music and intercultural dialogue transformed a grey carpet into a living topography.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
-
-tags: [Living Topography, embodied experience, intercultural dialogue, creative group, movement, theatre, Esposende]
-keywords: [embodied experience, intercultural dialogue, creative group experience, movement-based interaction, intercultural community, Living Topography, Esposende, Portugal]
-categories: [Experiences, Intercultural Dialogue, Creative Practice]
-
+tags:
+  - Living Topography
+  - embodied experience
+  - intercultural dialogue
+  - creative group
+  - movement
+  - theatre
+  - Esposende
+keywords:
+  - embodied experience
+  - intercultural dialogue
+  - creative group experience
+  - movement-based interaction
+  - intercultural community
+  - Living Topography
+  - Esposende
+  - Portugal
+categories:
+  - Experiences
+  - Intercultural Dialogue
+  - Creative Practice
 series: LivingTopography
 series_index: 1
 research_origin: Pivtorak.Studio
-
 content_type: reflective essay
 schema_type: Article
 location: Esposende, Portugal
 project: agirE CLDS 5G
-
 status: published
 featured: true
 draft: false
-
 image: /images/living-topography-001-the-path-in-my-hands.webp
-alt: "White fabric paths spreading across a dark grey carpet from a central grey textile bundle"
-
-related: [/en/docs/living-topography/, /en/docs/timeline/]
-
-authors: [Anna Pivtorak]
-
+alt: Hands holding a white fabric path over a dark grey carpet
+related:
+  - /en/docs/living-topography/
+  - /en/docs/timeline/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/living-topography/001-the-path-in-my-hands/
-
 weight: 1
 toc: true
-
 completion: 100
 seo: true
 distribution: true
@@ -265,8 +273,10 @@ Now it is back in my hands.
 
 And the most remarkable feeling is not where this path was leading, but the fact that I can hold it, touch it, and carry it with me wherever I go.
 
+![_Living Topography. The Path in My Hands. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands-01.webp)
+
 **Alt-text:**   
-White fabric paths spreading across a dark grey carpet from a central grey textile bundle.
+Hands holding a white fabric path over a dark grey carpet.
 
 _Living Topography. The Path in My Hands. AP | Pivtorak.Studio. 01.10.2026_  
 © Anna Pivtorak (Kostyuk)

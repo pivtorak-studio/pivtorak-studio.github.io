@@ -3,46 +3,54 @@ id: living-topography-001-the-path-in-my-hands
 language: ru
 translation_of: living-topography-001-the-path-in-my-hands
 translation_key: living-topography-001-the-path-in-my-hands
-
-title: "001 Путь в Моих Руках"
+title: 001 Путь в Моих Руках
 slug: 001-the-path-in-my-hands
-
-description: "Межкультурный опыт в Эшпозенде, где движение, личные пути и совместное присутствие превратились в живую топографию человеческих встреч."
-summary: "Опыт творческой группы, в котором белые тканевые пути, движение, музыка и межкультурный диалог превратили серый ковёр в живую топографию."
-
+description: Межкультурный опыт в Эшпозенде, где движение, личные пути и совместное присутствие превратились в живую топографию человеческих встреч.
+summary: Опыт творческой группы, в котором белые тканевые пути, движение, музыка и межкультурный диалог превратили серый ковёр в живую топографию.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
-
-tags: [Living Topography, воплощённый опыт, межкультурный диалог, творческая группа, движение, театр, Эшпозенде]
-keywords: [воплощённый опыт, межкультурный диалог, творческий групповой опыт, взаимодействие через движение, межкультурное сообщество, Living Topography, Эшпозенде, Португалия]
-categories: [Опыт, Межкультурный диалог, Творческая практика]
-
+tags:
+  - Living Topography
+  - воплощённый опыт
+  - межкультурный диалог
+  - творческая группа
+  - движение
+  - театр
+  - Эшпозенде
+keywords:
+  - воплощённый опыт
+  - межкультурный диалог
+  - творческий групповой опыт
+  - взаимодействие через движение
+  - межкультурное сообщество
+  - Living Topography
+  - Эшпозенде
+  - Португалия
+categories:
+  - Опыт
+  - Межкультурный диалог
+  - Творческая практика
 series: LivingTopography
 series_index: 1
 research_origin: Pivtorak.Studio
-
 content_type: рефлексивное эссе
 schema_type: Article
 location: Эшпозенде, Португалия
 project: agirE CLDS 5G
-
 status: published
 featured: true
 draft: false
-
 image: /images/living-topography-001-the-path-in-my-hands.webp
-alt: "Белые тканевые пути расходятся по тёмно-серому ковру от центрального серого текстильного клубка"
-
-related: [/ru/docs/living-topography/, /ru/docs/timeline/]
-
-authors: [Anna Pivtorak]
-
+alt: Руки держат белый тканевый путь над тёмно-серым ковром
+related:
+  - /ru/docs/living-topography/
+  - /ru/docs/timeline/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/ru/docs/living-topography/001-the-path-in-my-hands/
-
 weight: 1
 toc: true
-
 completion: 100
 seo: true
 distribution: true
@@ -264,8 +272,10 @@ _В этом неожиданном опыте творческой группы
 
 И самое удивительное ощущение — не то, куда вёл этот путь, а то, что я могу держать его, прикасаться к нему и носить с собой, куда бы я ни шла.
 
+![_Живая Топография. Путь в моих руках. AP | Pivtorak.Studio. 01.10.2026_  © Анна Пивторак (Костюк)](/images/living-topography-001-the-path-in-my-hands-01.webp)
+
 **Alt-text:**   
-Белые тканевые пути расходятся по тёмно-серому ковру от центрального серого текстильного клубка.
+Руки держат белый тканевый путь над тёмно-серым ковром.
 
 _Живая Топография. Путь в моих руках. AP | Pivtorak.Studio. 01.10.2026_  
 © Анна Пивторак (Костюк)

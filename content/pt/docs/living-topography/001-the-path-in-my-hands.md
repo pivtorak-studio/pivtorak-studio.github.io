@@ -3,46 +3,54 @@ id: living-topography-001-the-path-in-my-hands
 language: pt
 translation_of: living-topography-001-the-path-in-my-hands
 translation_key: living-topography-001-the-path-in-my-hands
-
-title: "001 O Caminho nas Minhas Mãos"
+title: 001 O Caminho nas Minhas Mãos
 slug: 001-the-path-in-my-hands
-
-description: "Uma experiência intercultural e corporal em Esposende, onde movimento, caminhos pessoais e presença partilhada se transformaram numa topografia viva de encontros humanos."
-summary: "Uma experiência de grupo criativo onde caminhos de tecido branco, movimento, música e diálogo intercultural transformaram um tapete cinzento numa topografia viva."
-
+description: Uma experiência intercultural e corporal em Esposende, onde movimento, caminhos pessoais e presença partilhada se transformaram numa topografia viva de encontros humanos.
+summary: Uma experiência de grupo criativo onde caminhos de tecido branco, movimento, música e diálogo intercultural transformaram um tapete cinzento numa topografia viva.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
-
-tags: [Living Topography, experiência incorporada, diálogo intercultural, grupo criativo, movimento, teatro, Esposende]
-keywords: [experiência incorporada, diálogo intercultural, experiência de grupo criativo, interação através do movimento, comunidade intercultural, Living Topography, Esposende, Portugal]
-categories: [Experiências, Diálogo Intercultural, Prática Criativa]
-
+tags:
+  - Living Topography
+  - experiência incorporada
+  - diálogo intercultural
+  - grupo criativo
+  - movimento
+  - teatro
+  - Esposende
+keywords:
+  - experiência incorporada
+  - diálogo intercultural
+  - experiência de grupo criativo
+  - interação através do movimento
+  - comunidade intercultural
+  - Living Topography
+  - Esposende
+  - Portugal
+categories:
+  - Experiências
+  - Diálogo Intercultural
+  - Prática Criativa
 series: LivingTopography
 series_index: 1
 research_origin: Pivtorak.Studio
-
 content_type: ensaio reflexivo
 schema_type: Article
 location: Esposende, Portugal
 project: agirE CLDS 5G
-
 status: published
 featured: true
 draft: false
-
 image: /images/living-topography-001-the-path-in-my-hands.webp
-alt: "Caminhos de tecido branco espalhados sobre um tapete cinzento escuro a partir de um novelo central de tecido cinzento"
-
-related: [/pt/docs/living-topography/, /pt/docs/timeline/]
-
-authors: [Anna Pivtorak]
-
+alt: Mãos a segurar um caminho de tecido branco sobre um tapete cinzento escuro
+related:
+  - /pt/docs/living-topography/
+  - /pt/docs/timeline/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/living-topography/001-the-path-in-my-hands/
-
 weight: 1
 toc: true
-
 completion: 100
 seo: true
 distribution: true
@@ -263,8 +271,10 @@ Agora está novamente nas minhas mãos.
 
 E a sensação mais extraordinária não é saber para onde este caminho me levava, mas saber que posso segurá-lo, tocá-lo e levá-lo comigo para onde quer que vá.
 
+![_Topografia Viva. O Caminho nas Minhas Mãos. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands-01.webp)
+
 **Alt-text:**   
-Caminhos de tecido branco espalhados sobre um tapete cinzento escuro a partir de um novelo central de tecido cinzento.
+Mãos a segurar um caminho de tecido branco sobre um tapete cinzento escuro.
 
 _Topografia Viva. O Caminho nas Minhas Mãos. AP | Pivtorak.Studio. 01.10.2026_  
 © Anna Pivtorak (Kostyuk)

@@ -3,46 +3,54 @@ id: living-topography-001-the-path-in-my-hands
 language: uk
 translation_of: living-topography-001-the-path-in-my-hands
 translation_key: living-topography-001-the-path-in-my-hands
-
-title: "001 Шлях у Моїх Руках"
+title: 001 Шлях у Моїх Руках
 slug: 001-the-path-in-my-hands
-
-description: "Міжкультурний досвід в Ешпозенде, де рух, особисті шляхи та спільна присутність перетворилися на живу топографію людських зустрічей."
-summary: "Досвід творчої групи, у якому білі тканинні шляхи, рух, музика та міжкультурний діалог перетворили сірий килим на живу топографію."
-
+description: Міжкультурний досвід в Ешпозенде, де рух, особисті шляхи та спільна присутність перетворилися на живу топографію людських зустрічей.
+summary: Досвід творчої групи, у якому білі тканинні шляхи, рух, музика та міжкультурний діалог перетворили сірий килим на живу топографію.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
-
-tags: [Living Topography, втілений досвід, міжкультурний діалог, творча група, рух, театр, Ешпозенде]
-keywords: [втілений досвід, міжкультурний діалог, досвід творчої групи, взаємодія через рух, міжкультурна спільнота, Living Topography, Ешпозенде, Португалія]
-categories: [Досвід, Міжкультурний діалог, Творча практика]
-
+tags:
+  - Living Topography
+  - втілений досвід
+  - міжкультурний діалог
+  - творча група
+  - рух
+  - театр
+  - Ешпозенде
+keywords:
+  - втілений досвід
+  - міжкультурний діалог
+  - досвід творчої групи
+  - взаємодія через рух
+  - міжкультурна спільнота
+  - Living Topography
+  - Ешпозенде
+  - Португалія
+categories:
+  - Досвід
+  - Міжкультурний діалог
+  - Творча практика
 series: LivingTopography
 series_index: 1
 research_origin: Pivtorak.Studio
-
 content_type: рефлексивне есе
 schema_type: Article
 location: Ешпозенде, Португалія
 project: agirE CLDS 5G
-
 status: published
 featured: true
 draft: false
-
 image: /images/living-topography-001-the-path-in-my-hands.webp
-alt: "Білі тканинні шляхи розходяться по темно-сірому килиму від центрального сірого текстильного клубка"
-
-related: [/uk/docs/living-topography/, /uk/docs/timeline/]
-
-authors: [Anna Pivtorak]
-
+alt: Руки тримають білий тканинний шлях над темно-сірим килимом
+related:
+  - /uk/docs/living-topography/
+  - /uk/docs/timeline/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/living-topography/001-the-path-in-my-hands/
-
 weight: 1
 toc: true
-
 completion: 100
 seo: true
 distribution: true
@@ -265,8 +273,10 @@ _У цьому несподіваному досвіді творчої груп
 
 І найдивовижніше відчуття — це не те, куди вів цей шлях, а те, що я можу тримати його, торкатися його та носити із собою, куди б я не йшла.
 
+![_Жива Топографія. Шлях у моїх руках. AP | Pivtorak.Studio. 01.10.2026_ © Анна Півторак (Костюк)](/images/living-topography-001-the-path-in-my-hands-01.webp)
+
 **Alt-text:**   
-Білі тканинні шляхи розходяться по темно-сірому килиму від центрального сірого текстильного клубка.
+Руки тримають білий тканинний шлях над темно-сірим килимом.
 
 _Жива Топографія. Шлях у моїх руках. AP | Pivtorak.Studio. 01.10.2026_  
 © Анна Півторак (Костюк)

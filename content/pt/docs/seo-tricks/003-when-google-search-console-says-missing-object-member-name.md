@@ -105,9 +105,9 @@ _Um único carácter em falta pode tornar dados estruturados aparentemente váli
 
 ## Quick Summary Box
 
-> **O Google Search Console comunicou:**  
-> **Problema:** Não é possível analisar os dados estruturados  
-> **Erro específico:** Falta `}` ou o nome de um membro do objeto
+> **O Google Search Console comunicou:**   
+> **Problema:** Não é possível analisar os dados estruturados   
+> **Erro específico:** Falta `}` ou o nome de um membro do objeto  
 
 O problema foi causado pela forma como o JSON-LD estava colocado imediatamente após o front matter YAML nos ficheiros Markdown. A ausência de uma linha em branco fazia com que o conteúdo gerado fosse analisado incorretamente.
 

@@ -105,9 +105,9 @@ _One missing character can make perfectly valid-looking structured data invisibl
 
 ## Quick Summary Box
 
-> **Google Search Console reported:**  
-> **Issue:** Structured data cannot be parsed  
-> **Specific error:** Missing `}` or object member name
+> **Google Search Console reported:**   
+> **Issue:** Structured data cannot be parsed    
+> **Specific error:** Missing `}` or object member name   
 
 The problem was caused by the way JSON-LD was placed immediately after the YAML front matter in Markdown files. A missing blank line caused the generated content to be parsed incorrectly.
 

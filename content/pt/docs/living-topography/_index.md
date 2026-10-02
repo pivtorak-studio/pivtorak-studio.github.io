@@ -37,6 +37,8 @@ search: indexed
 
 # Topografia Viva
 
+![_Topografia Viva.  AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography.webp)
+
 Há experiências que não deixam um mapa convencional.
 
 Deixam marcas.

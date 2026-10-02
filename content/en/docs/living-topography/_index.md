@@ -37,6 +37,8 @@ search: indexed
 
 # Living Topography
 
+![_Living Topography.  AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography.webp)
+
 Some experiences leave no conventional map behind.
 
 They leave traces.

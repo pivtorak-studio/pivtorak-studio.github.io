@@ -190,3 +190,67 @@
     border-radius: 4px;
   }
 }
+
+
+/* =========================================================
+   10. DESKTOP SHELL TOP SPACING
+   ========================================================= */
+
+@media screen and (min-width: 57rem) {
+  main.container {
+    --desktop-shell-top-offset: 2rem;
+    padding-top: var(--desktop-shell-top-offset);
+  }
+
+  main.container .book-menu .book-menu-content,
+  main.container .book-toc .book-toc-content {
+    top: var(--desktop-shell-top-offset);
+  }
+}
+
+@media screen and (min-width: 90rem) {
+  main.container {
+    --desktop-shell-top-offset: 3rem;
+  }
+}
+
+
+/* =========================================================
+   11. DESKTOP UPPER NAVIGATION GEOMETRY
+   ========================================================= */
+
+.upper-navigation {
+  display: none;
+}
+
+@media screen and (min-width: 57rem) {
+  .book-page > .upper-navigation {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 44px;
+    padding: 0 1rem;
+    margin: 0 0 1rem;
+    border-bottom: 1px solid var(--gray-200);
+    background: transparent;
+    font-size: 16px;
+    line-height: 1.2;
+  }
+
+  .upper-navigation a {
+    flex: 0 0 auto;
+    color: inherit;
+    white-space: nowrap;
+  }
+
+  .upper-navigation-links {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+}

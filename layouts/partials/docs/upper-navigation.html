@@ -1,0 +1,18 @@
+{{- $groups := slice
+  (dict "key" "research" "page" "architecture-of-value")
+  (dict "key" "series_projects" "page" "core-recalibration")
+  (dict "key" "studio" "page" "001-Pivtorak-Studio-Standard")
+  (dict "key" "tools" "page" "calculators")
+  (dict "key" "archive" "page" "timeline")
+-}}
+<nav class="upper-navigation" aria-label="Primary navigation">
+  <a class="upper-navigation-brand" href="{{ .Site.Home.RelPermalink }}">Pivtorak.Studio</a>
+  <ul class="upper-navigation-links">
+    {{- range $groups }}
+      {{- $group := . }}
+      {{- with $.Site.GetPage (printf "docs/%s" $group.page) }}
+        <li><a href="{{ .RelPermalink }}">{{ i18n $group.key }}</a></li>
+      {{- end }}
+    {{- end }}
+  </ul>
+</nav>

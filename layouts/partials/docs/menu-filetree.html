@@ -10,8 +10,8 @@
   {{ $toolsSlugs := slice "calculators" "converters" "templates" "seo-tricks" }}
   {{ $archiveSlugs := slice "timeline" "the-movement-matrix" }}
   {{ $identitySlugs := slice "pivtorak-studio" "anna-pivtorak-kostyuk-identity-and-evolution" "independent-researcher-manifesto" }}
-  {{ $researchSlugs := slice "architecture-of-value" "expertise" "knowledge-base" "knowledge-graph" }}
-  {{ $seriesProjectsSlugs := slice "core-recalibration" "peaceful-life" "the-majestic-discipline" "shield-of-nation" "living-topography" "esmée-the-dragon-of-balance" }}
+  {{ $researchSlugs := slice "architecture-of-value" "expertise" "knowledge-base" "knowledge-graph" "Academic-Publications" }}
+  {{ $seriesProjectsSlugs := slice "core-recalibration" "peaceful-life" "the-majestic-discipline" "shield-of-nation" "living-topography" "esmée-the-dragon-of-balance" "political-design" "extra-credit-problem" }}
   {{ $studioSlugs := slice "001-Pivtorak-Studio-Standard" "process-diary" }}
   {{ $toolsState := newScratch }}
   {{ $archiveState := newScratch }}
@@ -19,10 +19,31 @@
   {{ $researchState := newScratch }}
   {{ $seriesProjectsState := newScratch }}
   {{ $studioState := newScratch }}
+  {{ $rankedPages := slice }}
+
+  {{ range $index, $page := $pages }}
+    {{ $slug := path.Base $page.File.Dir }}
+    {{ $rank := 9 }}
+    {{ if or (and $page.IsPage (eq (path.Base $page.File.Path) "about.md")) (and $page.IsSection (in $identitySlugs $slug)) }}
+      {{ $rank = 0 }}
+    {{ else if and $page.IsSection (in $researchSlugs $slug) }}
+      {{ $rank = 1 }}
+    {{ else if and $page.IsSection (in $seriesProjectsSlugs $slug) }}
+      {{ $rank = 2 }}
+    {{ else if and $page.IsSection (in $studioSlugs $slug) }}
+      {{ $rank = 3 }}
+    {{ else if and $page.IsSection (in $toolsSlugs $slug) }}
+      {{ $rank = 7 }}
+    {{ else if and $page.IsSection (in $archiveSlugs $slug) }}
+      {{ $rank = 8 }}
+    {{ end }}
+    {{ $rankedPages = append (dict "page" $page "order" (printf "%02d-%05d" $rank $index)) $rankedPages }}
+  {{ end }}
+  {{ $orderedPages := sort $rankedPages "order" }}
 
   <ul>
-    {{ range $pages }}
-      {{ $page := . }}
+    {{ range $orderedPages }}
+      {{ $page := .page }}
       {{ $isToolsPage := and $isRoot $page.IsSection (in $toolsSlugs (path.Base $page.File.Dir)) }}
       {{ $isArchivePage := and $isRoot $page.IsSection (in $archiveSlugs (path.Base $page.File.Dir)) }}
       {{ $isIdentityPage := and $isRoot (or (and $page.IsPage (eq (path.Base $page.File.Path) "about.md")) (and $page.IsSection (in $identitySlugs (path.Base $page.File.Dir)))) }}

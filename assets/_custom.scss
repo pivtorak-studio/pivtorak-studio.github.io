@@ -128,3 +128,32 @@
 .markdown {
   font-size: 17px;
 }
+
+
+/* =========================================================
+   8. INFORMATION STRIP — DESKTOP GEOMETRY PROTOTYPE
+   ========================================================= */
+
+.information-strip {
+  display: none;
+}
+
+@media screen and (min-width: 57rem) {
+  .book-page > .information-strip {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 4rem;
+    padding: 0.75rem 1rem;
+    margin: 0 0 2rem;
+    border-bottom: 1px solid var(--gray-200);
+  }
+
+  .information-strip > p {
+    margin: 0;
+  }
+
+  .information-strip > p + p {
+    margin-top: 0.25rem;
+  }
+}

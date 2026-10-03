@@ -157,3 +157,36 @@
     margin-top: 0.25rem;
   }
 }
+
+
+/* =========================================================
+   9. DESKTOP SCROLLBARS
+   ========================================================= */
+
+@media screen and (min-width: 57rem) {
+  html,
+  .book-menu .book-menu-content,
+  .book-toc .book-toc-content {
+    scrollbar-color: var(--gray-500) var(--gray-100);
+    scrollbar-width: thin;
+  }
+
+  html::-webkit-scrollbar:vertical,
+  .book-menu .book-menu-content::-webkit-scrollbar:vertical,
+  .book-toc .book-toc-content::-webkit-scrollbar:vertical {
+    width: 6px;
+  }
+
+  html::-webkit-scrollbar-track:vertical,
+  .book-menu .book-menu-content::-webkit-scrollbar-track:vertical,
+  .book-toc .book-toc-content::-webkit-scrollbar-track:vertical {
+    background-color: var(--gray-100);
+  }
+
+  html::-webkit-scrollbar-thumb:vertical,
+  .book-menu .book-menu-content::-webkit-scrollbar-thumb:vertical,
+  .book-toc .book-toc-content::-webkit-scrollbar-thumb:vertical {
+    background-color: var(--gray-500);
+    border-radius: 4px;
+  }
+}

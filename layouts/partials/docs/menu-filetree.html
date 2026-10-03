@@ -12,11 +12,13 @@
   {{ $identitySlugs := slice "pivtorak-studio" "anna-pivtorak-kostyuk-identity-and-evolution" "independent-researcher-manifesto" }}
   {{ $researchSlugs := slice "architecture-of-value" "expertise" "knowledge-base" "knowledge-graph" }}
   {{ $seriesProjectsSlugs := slice "core-recalibration" "peaceful-life" "the-majestic-discipline" "shield-of-nation" "living-topography" "esmée-the-dragon-of-balance" }}
+  {{ $studioSlugs := slice "001-Pivtorak-Studio-Standard" "process-diary" }}
   {{ $toolsState := newScratch }}
   {{ $archiveState := newScratch }}
   {{ $identityState := newScratch }}
   {{ $researchState := newScratch }}
   {{ $seriesProjectsState := newScratch }}
+  {{ $studioState := newScratch }}
 
   <ul>
     {{ range $pages }}
@@ -26,6 +28,7 @@
       {{ $isIdentityPage := and $isRoot (or (and $page.IsPage (eq (path.Base $page.File.Path) "about.md")) (and $page.IsSection (in $identitySlugs (path.Base $page.File.Dir)))) }}
       {{ $isResearchPage := and $isRoot $page.IsSection (in $researchSlugs (path.Base $page.File.Dir)) }}
       {{ $isSeriesProjectsPage := and $isRoot $page.IsSection (in $seriesProjectsSlugs (path.Base $page.File.Dir)) }}
+      {{ $isStudioPage := and $isRoot $page.IsSection (in $studioSlugs (path.Base $page.File.Dir)) }}
 
       {{ if $isToolsPage }}
         {{ if not ($toolsState.Get "rendered") }}
@@ -117,6 +120,24 @@
             </ul>
           </li>
           {{ $seriesProjectsState.Set "rendered" true }}
+        {{ end }}
+      {{ else if $isStudioPage }}
+        {{ if not ($studioState.Get "rendered") }}
+          <li class="book-section-flat book-menu-group">
+            <h2 class="book-menu-group-title">{{ i18n "studio" }}</h2>
+            <ul>
+              {{ range $pages }}
+                {{ $studioPage := . }}
+                {{ if and $studioPage.IsSection (in $studioSlugs (path.Base $studioPage.File.Dir)) }}
+                  <li {{- if $studioPage.Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
+                    {{ template "book-page-link" (dict "Page" $studioPage "CurrentPage" $currentPage) }}
+                    {{ template "book-section-children" (dict "Section" $studioPage "CurrentPage" $currentPage "IsRoot" false) }}
+                  </li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          </li>
+          {{ $studioState.Set "rendered" true }}
         {{ end }}
       {{ else if $page.IsSection }}
         <li {{- if $page.Params.BookFlatSection }} class="book-section-flat" {{ end -}}>

@@ -35,7 +35,67 @@ alt: "Um espaço de trabalho técnico em tons escuros com instrumentos de mediç
 ---
 
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/pt/tools/#webpage",
+  "url": "https://pivtorak.studio/pt/tools/",
+  "name": "Ferramentas",
+  "description": "Uma coleção prática de ferramentas desenvolvidas para apoiar a investigação, a análise, os cálculos, as conversões, a documentação e o trabalho técnico da Pivtorak.Studio.",
+  "inLanguage": "pt",
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://pivtorak.studio/#website",
+    "url": "https://pivtorak.studio/",
+    "name": "Pivtorak.Studio"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Ferramentas Pivtorak.Studio"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Secções das Ferramentas",
+    "numberOfItems": 4,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Calculadoras",
+        "url": "https://pivtorak.studio/pt/docs/calculators/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Conversores",
+        "url": "https://pivtorak.studio/pt/docs/converters/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Modelos",
+        "url": "https://pivtorak.studio/pt/docs/templates/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Truques de SEO",
+        "url": "https://pivtorak.studio/pt/docs/seo-tricks/"
+      }
+    ]
+  }
+}
+</script>
 
 # Ferramentas
 

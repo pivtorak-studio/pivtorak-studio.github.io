@@ -35,7 +35,67 @@ alt: "A dark technical workspace with measuring instruments, an abacus, a calcul
 ---
 
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/en/tools/#webpage",
+  "url": "https://pivtorak.studio/en/tools/",
+  "name": "Tools",
+  "description": "A practical collection of tools developed to support research, analysis, calculation, conversion, documentation, and the technical work of Pivtorak.Studio.",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://pivtorak.studio/#website",
+    "url": "https://pivtorak.studio/",
+    "name": "Pivtorak.Studio"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Pivtorak.Studio Tools"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Tools Sections",
+    "numberOfItems": 4,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Calculators",
+        "url": "https://pivtorak.studio/en/docs/calculators/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Converters",
+        "url": "https://pivtorak.studio/en/docs/converters/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Templates",
+        "url": "https://pivtorak.studio/en/docs/templates/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "SEO Tricks",
+        "url": "https://pivtorak.studio/en/docs/seo-tricks/"
+      }
+    ]
+  }
+}
+</script>
 
 # Tools
 

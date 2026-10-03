@@ -35,7 +35,67 @@ alt: "Тёмное техническое рабочее пространств�
 ---
 
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/ru/tools/#webpage",
+  "url": "https://pivtorak.studio/ru/tools/",
+  "name": "Инструменты",
+  "description": "Практическая коллекция инструментов, разработанных для поддержки исследований, анализа, расчётов, преобразований, документации и технической работы Pivtorak.Studio.",
+  "inLanguage": "ru",
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://pivtorak.studio/#website",
+    "url": "https://pivtorak.studio/",
+    "name": "Pivtorak.Studio"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Инструменты Pivtorak.Studio"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Разделы инструментов",
+    "numberOfItems": 4,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Калькуляторы",
+        "url": "https://pivtorak.studio/ru/docs/calculators/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Конвертеры",
+        "url": "https://pivtorak.studio/ru/docs/converters/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Шаблоны",
+        "url": "https://pivtorak.studio/ru/docs/templates/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "SEO Хитрости",
+        "url": "https://pivtorak.studio/ru/docs/seo-tricks/"
+      }
+    ]
+  }
+}
+</script>
 
 # Инструменты
 

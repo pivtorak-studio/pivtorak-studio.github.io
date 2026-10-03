@@ -102,7 +102,7 @@ alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotog
 
 # Arquivo
 
-![Arquivo](/images/archive.webp)
+![_Arquivo. AP | Pivtorak.Studio. 03.10.2026_© Anna Pivtorak (Kostyuk)](/images/archive.webp)
 
 O Arquivo preserva a cronologia documentada, os projetos e os registos estruturais que acompanham o desenvolvimento da Pivtorak.Studio.
 
@@ -126,3 +126,6 @@ O Arquivo é um registo em evolução. Novos materiais são acrescentados à med
 
 **Alt-text:**  
 Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotografias e uma bússola de latão, com o título ARCHIVE em grandes letras editoriais.
+
+_Arquivo. AP | Pivtorak.Studio. 03.10.2026_ 
+© Anna Pivtorak (Kostyuk)

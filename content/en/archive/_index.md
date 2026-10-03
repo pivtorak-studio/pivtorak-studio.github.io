@@ -102,7 +102,7 @@ alt: A dark archival still life with books, index cards, maps, photographs, and 
 
 # Archive
 
-![Archive](/images/archive.webp)
+![_Archive. AP | Pivtorak.Studio. 03.10.2026_ © Anna Pivtorak (Kostyuk)](/images/archive.webp)
 
 The Archive preserves the documented chronology, projects, and structural records that trace the development of Pivtorak.Studio.
 
@@ -126,3 +126,6 @@ The Archive is an evolving record. New materials are added as projects develop a
 
 **Alt-text:**   
 A dark archival still life with books, index cards, maps, photographs, and a brass compass, with the title ARCHIVE in large editorial lettering.
+
+_Archive. AP | Pivtorak.Studio. 03.10.2026_  
+© Anna Pivtorak (Kostyuk)

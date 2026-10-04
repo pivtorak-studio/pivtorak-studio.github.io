@@ -25,6 +25,7 @@ enableRobotsTXT = true
   #   weight = 4
 
 [params]
+  BookFavicon = "images/favicon.svg"
   author = 'Anna Pivtorak'
   description = 'Digital Archive & Research Hub'
   BookSectionEnumerable = true

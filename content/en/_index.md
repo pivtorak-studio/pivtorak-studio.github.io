@@ -117,9 +117,6 @@ Each object may be activated as a lot only upon reaching the required density of
 <p>© Anna Pivtorak (Kostyuk)</p>
 
 ---
-
-![A CONCEPTUAL SYSTEM FOR THE FORMATION OF LONG-TERM VALUE STRUCTURES](/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp)
-
 ## Anna Pivtorak (Kostyuk)  
 
 Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) is a researcher, author, and creator of cultural and analytical projects.     

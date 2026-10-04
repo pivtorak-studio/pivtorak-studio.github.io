@@ -115,8 +115,6 @@ Cada objeto pode ser ativado como lote apenas após atingir a densidade de conte
 <p>© Anna Pivtorak (Kostyuk)</p>  
 
 ---
-
-![UM SISTEMA CONCEPTUAL PARA A FORMAÇÃO DE ESTRUTURAS DE VALOR A LONGO PRAZO](/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp)
 ## Anna Pivtorak (Kostyuk) 
 Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, Анна Пивторак) é investigadora, autora e criadora de projetos culturais e analíticos.  
 

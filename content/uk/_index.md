@@ -117,8 +117,6 @@ AP | Pivtorak.Studio. 16.07.2023*
 
 
 ---
-
-![КОНЦЕПТУАЛЬНА СИСТЕМА ФОРМУВАННЯ ДОВГОСТРОКОВИХ СТРУКТУР ЦІННОСТІ](/images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp)
 ## Анна Півторак (Костюк) 
 
 Анна Півторак (Anna Pivtorak, Анна Костюк, Anna Kostyuk, Анна Пивторак) – дослідниця, автор культурологічних та аналітичних проектів.   

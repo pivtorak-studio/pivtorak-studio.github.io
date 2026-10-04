@@ -193,29 +193,6 @@
 
 
 /* =========================================================
-   10. DESKTOP SHELL TOP SPACING
-   ========================================================= */
-
-@media screen and (min-width: 57rem) {
-  main.container {
-    --desktop-shell-top-offset: 2rem;
-    padding-top: var(--desktop-shell-top-offset);
-  }
-
-  main.container .book-menu .book-menu-content,
-  main.container .book-toc .book-toc-content {
-    top: var(--desktop-shell-top-offset);
-  }
-}
-
-@media screen and (min-width: 90rem) {
-  main.container {
-    --desktop-shell-top-offset: 3rem;
-  }
-}
-
-
-/* =========================================================
    11. DESKTOP UPPER NAVIGATION GEOMETRY
    ========================================================= */
 
@@ -252,5 +229,44 @@
     padding: 0;
     margin: 0;
     list-style: none;
+  }
+}
+
+
+/* =========================================================
+   12. DESKTOP RESEARCH BANNER
+   ========================================================= */
+
+@media screen and (min-width: 57rem) {
+  main.container {
+    margin-top: 1rem;
+  }
+
+  .book-page {
+    padding-top: 0;
+  }
+
+  .book-menu .book-menu-content,
+  .book-toc .book-toc-content {
+    position: sticky;
+    bottom: auto;
+    max-height: 100vh;
+  }
+
+  .research-banner {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100rem;
+    margin: 1rem auto 0;
+    padding: 0.5rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--color-link) 45%, transparent);
+    background: transparent;
+    text-align: center;
+    font-size: 15px;
+    white-space: nowrap;
+  }
+
+  .research-banner a {
+    color: var(--color-link);
   }
 }

@@ -6,7 +6,6 @@
   (dict "key" "archive" "page" "archive")
 -}}
 <nav class="upper-navigation" aria-label="Primary navigation">
-  <a class="upper-navigation-brand" href="{{ .Site.Home.RelPermalink }}">Pivtorak.Studio</a>
   <ul class="upper-navigation-links">
     {{- range $groups }}
       {{- $group := . }}
@@ -15,4 +14,5 @@
       {{- end }}
     {{- end }}
   </ul>
+  <a class="upper-navigation-brand" href="{{ .Site.Home.RelPermalink }}">Pivtorak.Studio</a>
 </nav>

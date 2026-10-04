@@ -237,6 +237,16 @@
    12. DESKTOP RESEARCH BANNER
    ========================================================= */
 
+@media screen and (max-width: 56.999rem) {
+  .research-banner {
+    border: 1px solid color-mix(in srgb, var(--color-link) 45%, transparent);
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 15px;
+    white-space: normal;
+  }
+}
+
 @media screen and (min-width: 57rem) {
   main.container {
     margin-top: 1rem;

@@ -7,6 +7,7 @@ description: "Определяет модель реализации Pivtorak.St
 summary: "Контур реализации показывает, как проекты возникают, развиваются и завершаются публикацией без внешних заказов и разделения ответственности."
 event_date: 2026-04-30T13:00:00
 publication_date: 2026-04-30T13:00:00
+date: 2026-04-30T13:00:00
 lastmod: 2026-04-30T13:00:00
 slug: 007-pivtorak-studio-execution-framework
 tags: [контур-реализации, методология, автономная-система, цикл-проекта, публикация, исследование, pivtorak-studio]
@@ -21,7 +22,7 @@ image: /images/pivtorak-studio-007-pivtorak-studio-execution-framework.webp
 alt: "Иллюстрация «Контур реализации — Pivtorak.Studio». Геометрическое ядро в форме алмаза окружено круговым контуром реализации, отражающим шесть принципов: внутренний заказ, самостоятельная постановка задачи, автономный процесс, отсутствие внешнего давления, замкнутый цикл и публикация как завершение."
 related:
   - /ru/docs/pivtorak-studio/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: ["Anna Pivtorak"]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/pivtorak-studio/007-pivtorak-studio-execution-framework/

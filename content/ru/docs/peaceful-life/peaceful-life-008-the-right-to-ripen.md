@@ -7,6 +7,7 @@ description: Для роста требуется время. Размышлен
 summary: Поля не спешат. Времена года не соревнуются. Эта статья исследует идею того, что жизнь заслуживает времени и безопасности для достижения зрелости.
 event_date: 2025-08-01T12:00:00
 publication_date: 2025-08-01T12:00:00
+date: 2025-08-01T12:00:00
 lastmod: 2025-08-01T12:00:00
 slug: 008-the-right-to-ripen
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-008-the-right-to-ripen.webp
 alt: Спокойное золотое поле под летним небом. Созревшие колосья мягко колышутся на ветру, символизируя терпение, рост и завершение природного цикла.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/008-the-right-to-ripen/

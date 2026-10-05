@@ -8,6 +8,7 @@ description: Дослідження інтелектуальної витрив�
 summary: Від Duolingo Max до веслувального тренажера — ця перекалібровка досліджує перехід від щоденної регулярності до суверенного ритму, представляючи цивілізаційну витривалість як нову парадигму Ultra Deep Work.
 event_date: 2026-06-17T15:00:00+01:00
 publication_date: 2026-06-17T15:00:00+01:00
+date: 2026-06-17T15:00:00+01:00
 lastmod: 2026-06-17T15:00:00+01:00
 tags:
   - ПерекалібруванняЯдра
@@ -47,7 +48,7 @@ image: /images/core-recalibration-015-2026-architecture-of-civilizational-endura
 alt: Цифрова ілюстрація молодої жінки, яка займається на вуличному веслувальному тренажері біля океану на заході сонця. У чорних спортивних штанах, білій футболці та великих чорних навушниках вона зображена вдалині, а діаграми, матриці та символи візуалізують перехід від регулярності до суверенного ритму та цивілізаційної витривалості.
 related:
   - /uk/docs/core-recalibration/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm/

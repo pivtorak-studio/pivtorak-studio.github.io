@@ -6,6 +6,7 @@ keywords: pai, legado, pensamento, estrutura, responsabilidade, princípios, eng
 weight: 10
 event_date: 2015-06-14 # Data do evento mencionado no artigo (para a Timeline)
 publication_date: 2025-06-14 # Data de publicação do artigo
+date: 2025-06-14 # Data de publicação do artigo
 event_type: life_node
 ---
 

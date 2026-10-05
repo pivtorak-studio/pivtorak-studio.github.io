@@ -7,6 +7,7 @@ description: Children and animals should remain outside the zone of danger. A re
 summary: Peace begins where childhood and wildlife are protected from harm. This article explores the idea that the most vulnerable should remain invisible to threats.
 event_date: 2025-06-01T11:00:00
 publication_date: 2025-06-01T11:00:00
+date: 2025-06-01T11:00:00
 lastmod: 2025-06-01T11:00:00
 slug: 001-invisible-to-threats
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-001-invisible-to-threats.webp
 alt: Children and animals resting peacefully in nature, protected from danger and surrounded by calm summer light.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/001-invisible-to-threats/

@@ -7,6 +7,7 @@ description: Дети рисуют мир мелом на зимнем асфа�
 summary: Двадцать вторая работа серии «Мирная Жизнь» размышляет о мире как о проживаемой реальности. Ребёнок, рисующий солнце и слово «Мир», становится символом ежедневных действий, поддерживающих жизнь даже во времена неопределённости.
 event_date: 2026-01-01T11:00:00
 publication_date: 2026-01-01T11:00:00
+date: 2026-01-01T11:00:00
 lastmod: 2026-01-01T11:00:00
 slug: 022-peace-drawn-by-hands
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-022-peace-drawn-by-hands.webp
 alt: Детская рука в варежке рисует солнце и слово «Мир» цветным мелом на зимнем асфальте.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

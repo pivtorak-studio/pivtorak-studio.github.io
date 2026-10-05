@@ -7,6 +7,7 @@ description: The return of solar time restores Persia's civilizational scale. Th
 summary: A civilizational restoration where a nation reconnects with millennia instead of decades, transforming historical amnesia into temporal sovereignty.
 event_date: 2026-01-27T21:00:00
 publication_date: 2026-01-27T21:00:00
+date: 2026-01-27T21:00:00
 lastmod: 2026-01-27T21:00:00
 slug: 07-04-revival-of-identity-return-of-time
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-04-revival-of-identity-return-of-time.webp
 alt: A burned calendar scroll revealing a golden circular field with ancient dates carved into a stone surface.
 related:
-  - /timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - governance
   - freedom
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: We are not prisoners of a short era; we are masters of millennia.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

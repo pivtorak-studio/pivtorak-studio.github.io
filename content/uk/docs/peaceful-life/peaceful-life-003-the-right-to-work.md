@@ -7,6 +7,7 @@ description: Можливість заробляти на життя — не р
 summary: Праця — це більше, ніж дохід. Це участь, творчість, відповідальність і незалежність. Ця стаття досліджує право на працю як одну з основ мирного життя.
 event_date: 2025-06-01T13:00:00
 publication_date: 2025-06-01T13:00:00
+date: 2025-06-01T13:00:00
 lastmod: 2025-06-01T13:00:00
 slug: 003-the-right-to-work
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-003-the-right-to-work.webp
 alt: Молоді люди працюють разом у мирному середовищі, створюючи цінність для спільноти через співпрацю та працю.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

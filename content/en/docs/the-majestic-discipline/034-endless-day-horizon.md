@@ -7,6 +7,7 @@ description: The first stage of the Arctic Tern's journey. A reflection on plane
 summary: The Arctic Tern follows the light across hemispheres. Endless Day Horizon explores clarity, direction, and the discipline of seeing beyond immediate circumstances toward a planetary-scale mission.
 event_date: 2026-06-06T21:00:00
 publication_date: 2026-06-06T21:00:00
+date: 2026-06-06T21:00:00
 lastmod: 2026-06-06T21:00:00
 slug: 034-endless-day-horizon
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-034-endless-day-horizon.webp
 alt: An Arctic Tern flies above a polar ocean beneath a giant sun that never sets below the horizon, with golden geodesic lines emerging across the sky.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

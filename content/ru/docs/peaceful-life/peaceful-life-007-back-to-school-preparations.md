@@ -7,6 +7,7 @@ description: Август ещё остаётся летом, но школа у
 summary: Новые тетради, рюкзаки и школьные принадлежности — это не просто вещи. Это символ стабильности, возможностей и права ребёнка учиться в мире.
 event_date: 2025-08-01T11:00:00
 publication_date: 2025-08-01T11:00:00
+date: 2025-08-01T11:00:00
 lastmod: 2025-08-01T11:00:00
 slug: 007-back-to-school-preparations
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-007-back-to-school-preparations.webp
 alt: Двое детей с радостью готовят тетради, карандаши и школьные принадлежности к новому учебному году.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/007-back-to-school-preparations/

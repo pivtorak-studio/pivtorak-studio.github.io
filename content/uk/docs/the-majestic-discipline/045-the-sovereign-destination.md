@@ -7,6 +7,7 @@ description: Точка Призначення Роду досліджує за�
 summary: Довгий шлях набуває значення, коли все, що було пронесене крізь покоління, нарешті збирається в єдиний центр. Метелик-монарх символізує живу наступність, яка досягає місця, де успадкований рух може перетворитися на структуру, ідентичність та основу нового циклу.
 event_date: 2026-09-19T15:00:00
 publication_date: 2026-09-19T15:00:00
+date: 2026-09-19T15:00:00
 lastmod: 2026-09-19T15:00:00
 slug: 045-the-sovereign-destination
 tags: [точка призначення роду, метелик-монарх, наступність роду, завершений цикл, внутрішній центр]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-045-the-sovereign-destination.webp
 alt: Метелик-монарх із повністю розправленими помаранчево-чорними крилами сидить на сяючому архітектурному кристалі в центрі давнього кам'яного святилища, оточений відбивною водою та осінньою рослинністю під золотим небом.
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
+related: [/uk/docs/the-majestic-discipline/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/045-the-sovereign-destination/

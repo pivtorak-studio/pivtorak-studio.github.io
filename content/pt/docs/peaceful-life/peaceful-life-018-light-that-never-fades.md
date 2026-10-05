@@ -7,6 +7,7 @@ description: Uma reflexão sobre memória, presença e a luz silenciosa que perm
 summary: Algumas formas de luz nunca desaparecem. Continuam a viver na memória, na bondade, no perdão e na presença duradoura do amor.
 event_date: 2025-11-01T13:00:00
 publication_date: 2025-11-01T13:00:00
+date: 2025-11-01T13:00:00
 lastmod: 2025-11-01T13:00:00
 slug: 018-light-that-never-fades
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-018-light-that-never-fades.webp
 alt: Um céu noturno cheio de estrelas. Uma pena branca repousa no chão enquanto uma pomba voa acima, criando uma atmosfera de memória, presença e luz duradoura.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

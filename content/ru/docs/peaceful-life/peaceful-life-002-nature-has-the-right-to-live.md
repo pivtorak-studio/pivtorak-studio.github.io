@@ -7,6 +7,7 @@ description: Леса, животные и экосистемы не являю�
 summary: Природа — не поле боя. Эта статья исследует идею того, что леса и дикая природа заслуживают защиты, сохранения и возможности жить без разрушения.
 event_date: 2025-06-01T12:00:00
 publication_date: 2025-06-01T12:00:00
+date: 2025-06-01T12:00:00
 lastmod: 2025-06-01T12:00:00
 slug: 002-nature-has-the-right-to-live
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-002-nature-has-the-right-to-live.webp
 alt: Спокойный лесной пейзаж с животными, свободно живущими среди деревьев, защищёнными от разрушения и окружёнными мягким светом начала лета.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/002-nature-has-the-right-to-live/

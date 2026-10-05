@@ -7,6 +7,7 @@ description: Исследование того, как авторитарные 
 summary: Работа диагностирует архитектуру страха внутри авторитарных режимов, показывая, как принудительные иерархии потребляют собственных участников и становятся структурно хрупкими.
 event_date: 2026-01-20T11:00:00
 publication_date: 2026-01-20T11:00:00
+date: 2026-01-20T11:00:00
 lastmod: 2026-01-20T11:00:00
 slug: 03-01-system-diagnosis-vertical-of-fear
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /ru/timeline/
+timeline: /ru/archive/
 ethical_resonance: fear-loses-its-adhesion
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

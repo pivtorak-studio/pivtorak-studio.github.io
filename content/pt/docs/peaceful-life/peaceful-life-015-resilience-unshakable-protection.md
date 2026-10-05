@@ -7,6 +7,7 @@ description: A verdadeira proteção começa com fundamentos sólidos. Uma refle
 summary: Raízes profundas, um lar protegido e a confiança para resistir ao vento. Este artigo explora a resiliência como uma força que protege famílias, comunidades e uma vida pacífica.
 event_date: 2025-10-13T13:00:00
 publication_date: 2025-10-13T13:00:00
+date: 2025-10-13T13:00:00
 lastmod: 2025-10-13T13:00:00
 slug: 015-resilience-unshakable-protection
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-015-resilience-unshakable-protection.webp
 alt: Uma casa protegida numa paisagem de outono enquanto uma árvore de raízes profundas permanece firme ao vento, simbolizando resiliência e segurança.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

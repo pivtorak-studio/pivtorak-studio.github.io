@@ -7,6 +7,7 @@ description: Історичне інтерв’ю з Анною Півторак
 summary: Архівне інтерв’ю 2008 року, у якому зафіксовано мислення, роботу, освіту, сім’ю, амбіції, цінності та професійну ідентичність Анни Півторак до їхнього подальшого свідомого структурування.
 event_date: 2008-12-25T09:00:00
 publication_date: 2008-12-25T09:00:00
+date: 2008-12-25T09:00:00
 lastmod: 2008-12-25T09:00:00
 slug: phase-00-implicit-identity
 tags:
@@ -48,7 +49,7 @@ image: /images/anna-pivtorak-kostyuk-who-am-i-phase-00-implicit-identity.webp
 alt: Обкладинка журналу «Ювелірний Бізнес» 11–12'2008 з Анною Півторак, архівний портрет, що представляє Фазу 0 — Неявну ідентичність (2008).
 related:
   - /uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

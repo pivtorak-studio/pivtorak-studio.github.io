@@ -7,6 +7,7 @@ description: Persian ornament returns as a distributed system of memory and resi
 summary: A civilizational reconstruction where ornament transforms from decoration into cultural infrastructure, restoring collective memory, belonging, and social resilience.
 event_date: 2026-01-27T13:00:00
 publication_date: 2026-01-27T13:00:00
+date: 2026-01-27T13:00:00
 lastmod: 2026-01-27T13:00:00
 slug: 07-03-revival-of-identity-cultural-code-of-survival-ornament
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-03-revival-of-identity-cultural-code-of-survival-ornament.webp
 alt: Persian ornament grows through concrete city walls, filling cracks with golden and turquoise lines.
 related:
-  - /timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - ethics
   - freedom
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: They tried to erase us, but we were written into every pattern of our land.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

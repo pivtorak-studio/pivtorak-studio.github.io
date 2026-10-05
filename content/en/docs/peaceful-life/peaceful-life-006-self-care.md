@@ -7,6 +7,7 @@ description: Rest is not a reward. A reflection on balance, quiet moments, and t
 summary: Sometimes the most meaningful action is to pause. This article explores self-care as a form of respect, renewal, and sustainable living.
 event_date: 2025-07-01T13:00:00
 publication_date: 2025-07-01T13:00:00
+date: 2025-07-01T13:00:00
 lastmod: 2025-07-01T13:00:00
 slug: 006-self-care
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-006-self-care.webp
 alt: A woman sits peacefully on a veranda overlooking a flowering field, enjoying a quiet moment and reflecting on the future.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

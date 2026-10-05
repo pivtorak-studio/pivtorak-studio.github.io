@@ -7,6 +7,7 @@ description: Генетичний Код досліджує успадкован
 summary: Успадкований фундамент може спрямовувати нас ще до початку свідомого досвіду. Метелик-монарх показує, як життя може передавати інформацію крізь покоління, хоча жодна окрема особина не проходить увесь шлях.
 event_date: 2026-09-19T09:00:00
 publication_date: 2026-09-19T09:00:00
+date: 2026-09-19T09:00:00
 lastmod: 2026-09-19T09:00:00
 slug: 043-the-ancestral-code
 tags: [генетичний код, метелик-монарх, генетична спадковість, пам'ять поколінь, внутрішня стійкість]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-043-the-ancestral-code.webp
 alt: Метелик-монарх із помаранчево-чорними крилами сидить на текстурному темному камені, з тонкими золотими візерунками, що нагадують ДНК, на крилах і гірським пейзажем на задньому плані.
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
+related: [/uk/docs/the-majestic-discipline/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/043-the-ancestral-code/

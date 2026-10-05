@@ -7,6 +7,7 @@ description: An examination of how authoritarian systems survive by extracting e
 summary: This work diagnoses the parasitic architecture of tyranny, revealing how resource extraction, coercion, and dependency on external flows become the primary conditions of regime survival.
 event_date: 2026-01-20T12:00:00
 publication_date: 2026-01-20T12:00:00
+date: 2026-01-20T12:00:00
 lastmod: 2026-01-20T12:00:00
 slug: 03-02-system-diagnosis-resource-dependence
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - security
   - civilizational-transition
   - political-systems
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: collapse-through-resource-depletion
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

@@ -7,6 +7,7 @@ description: Морская черепаха ориентируется в гл�
 summary: Первый этап Стратегии Морской Черепахи раскрывает магнитный резонанс как символ внутреннего закона, тишины и подлинной навигации.
 event_date: 2026-01-07T11:00:00
 publication_date: 2026-01-07T11:00:00
+date: 2026-01-07T11:00:00
 lastmod: 2026-01-07T11:00:00
 slug: 031-magnetic-resonance-alignment
 tags:
@@ -44,7 +45,7 @@ image: /images/the-majestic-discipline-031-magnetic-resonance-alignment.webp
 alt: Величественная морская черепаха плывёт в глубинах океана среди золотых линий магнитного поля Земли, а её панцирь входит с ними в резонанс.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

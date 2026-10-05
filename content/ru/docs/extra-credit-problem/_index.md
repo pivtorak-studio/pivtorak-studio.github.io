@@ -48,7 +48,7 @@ alt: Светящийся символ звезды соединяет мир к
 related:
   - /ru/docs/independent-researcher-manifesto/
   - /ru/docs/the-majestic-discipline/
-  - /ru/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -220,5 +220,4 @@ _ СверхЗадача (Задача со Звёздочкой). AP | Pivtorak
 ---
 
 {{< section >}}
-
 

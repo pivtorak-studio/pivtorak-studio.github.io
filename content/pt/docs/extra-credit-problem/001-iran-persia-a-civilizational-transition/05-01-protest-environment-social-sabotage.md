@@ -7,6 +7,7 @@ description: Um estudo da sabotagem social como mecanismo não violento de esgot
 summary: Este trabalho analisa a transição da resistência para a não participação deliberada. Quando a sociedade deixa de alimentar os mecanismos da ditadura, o poder perde a sua funcionalidade. A obra explora o silêncio, a pausa e a inação coletiva como instrumentos de transição civilizacional.
 event_date: 2026-01-23T11:00:00
 publication_date: 2026-01-23T11:00:00
+date: 2026-01-23T11:00:00
 lastmod: 2026-01-23T11:00:00
 slug: 05-01-protest-environment-social-sabotage
 tags:
@@ -80,7 +81,7 @@ related_domains:
   - freedom
   - collective_behavior
   - social_physics
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: A máquina para quando as engrenagens se recusam a girar.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

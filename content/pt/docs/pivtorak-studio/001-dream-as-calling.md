@@ -7,6 +7,7 @@ description: Um registo simbólico do momento em que um sonho se tornou o reconh
 summary: O sonho de uma pomba branca tornou-se um lembrete inequívoco de um Chamado, iniciando uma sequência intuitiva de ações alinhadas que mais tarde evoluiu para os fundamentos da Pivtorak.Studio.
 event_date: 2023-07-16T09:00:00
 publication_date: 2025-07-07T09:00:00
+date: 2025-07-07T09:00:00
 lastmod: 2025-07-07T09:00:00
 slug: 001-dream-as-calling
 tags: [chamado, sonho, pomba, transformação, evento-simbólico, intuição, início, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-001-dream-as-calling.webp
 alt: Uma pomba branca de asas abertas voa sobre um fundo bege muito claro, simbolizando chamado, apoio, liberdade e o início da transformação.
-related: [/pt/docs/pivtorak-studio/, /pt/docs/timeline/]
+related: [/pt/docs/pivtorak-studio/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/pivtorak-studio/001-dream-as-calling/

@@ -7,6 +7,7 @@ description: Медведь, выходящий из тени, становит�
 summary: "Второй этап стратегии Европейского Медведя: пробуждение, стратегическая готовность и ответственная демонстрация силы."
 event_date: 2025-11-20T12:00:00
 publication_date: 2025-11-20T12:00:00
+date: 2025-11-20T12:00:00
 lastmod: 2025-11-20T12:00:00
 slug: 026-awakening-tension-threshold
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-026-awakening-tension-threshold.webp
 alt: Крупный медведь выходит из тёмной чащи. Он встаёт на задние лапы, наполовину освещён дневным светом. Его рык расходится волнами, а сломанная ветка рядом показывает, что пробуждение уже началось.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

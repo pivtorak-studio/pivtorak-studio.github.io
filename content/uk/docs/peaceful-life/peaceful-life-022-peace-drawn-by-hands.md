@@ -7,6 +7,7 @@ description: Діти малюють мир крейдою на зимовому
 summary: Двадцять друга робота серії «Мирне Життя» розмірковує про мир як про прожиту реальність. Дитина, яка малює сонце і слово «Мир», стає символом щоденних дій, що підтримують життя навіть у часи невизначеності.
 event_date: 2026-01-01T11:00:00
 publication_date: 2026-01-01T11:00:00
+date: 2026-01-01T11:00:00
 lastmod: 2026-01-01T11:00:00
 slug: 022-peace-drawn-by-hands
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-022-peace-drawn-by-hands.webp
 alt: Дитяча рука в рукавиці малює сонце і слово «Мир» кольоровою крейдою на зимовому асфальті.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -6,6 +6,7 @@ description: Official website of Anna Pivtorak (Kostyuk) — researcher, author,
 weight: 1
 event_date: 2021-05-11T09:00:00
 publication_date: 2021-05-11T09:00:00
+date: 2021-05-11T09:00:00
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -19,7 +20,7 @@ featured: true
 image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp
 alt: Anna Pivtorak in a graduate's robe near the Red Building of Taras Shevchenko National University of Kyiv, Kyiv
 related:
-  - /timeline/
+  - /en/archive/
 lastmod: 2021-05-11T09:00:00
 completion: 100
 seo: true

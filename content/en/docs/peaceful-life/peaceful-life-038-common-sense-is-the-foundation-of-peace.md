@@ -6,6 +6,7 @@ title: "038 Common Sense Is the Foundation of Peace"
 description: "Peace depends not only on borders, agreements, and institutions, but also on the ability of those in power to see reality clearly, understand consequences, and make responsible decisions."
 event_date: 2026-09-04T21:00:00+01:00
 publication_date: 2026-09-04T21:00:00+01:00
+date: 2026-09-04T21:00:00+01:00
 lastmod: 2026-09-04T21:00:00+01:00
 slug: 038-common-sense-is-the-foundation-of-peace
 tags: [Peaceful Life, peace, common sense, political responsibility, leadership, coexistence, responsibility]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-038-common-sense-is-the-foundation-of-peace.webp
 alt: "A detailed chalk drawing on a school blackboard divided into two contrasting scenes: a childhood lesson of peace with a globe, a dove carrying an olive branch, and books about friendship, respect, understanding, and kindness; and adult political activity with drones, explosions, burning buildings, and destruction."
-related: [/en/docs/peaceful-life/, /en/docs/timeline/]
+related: [/en/docs/peaceful-life/, /en/archive/]
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/038-common-sense-is-the-foundation-of-peace/

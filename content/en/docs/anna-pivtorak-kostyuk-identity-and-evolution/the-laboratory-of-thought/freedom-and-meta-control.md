@@ -6,6 +6,7 @@ title: "Freedom and Meta-Control"
 description: "A philosophical exploration of freedom, internal responsibility, and systemic thinking beyond rigid control. About trust in one’s professionalism, the priority of fact over plans, and the aesthetics of the clean slate."
 event_date: 2026-05-07T10:00:00
 publication_date: 2026-05-12T15:00:00
+date: 2026-05-12T15:00:00
 tags:
   - freedom
   - meta-control

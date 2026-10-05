@@ -6,6 +6,7 @@ title: "039 Мир за ґратами абсурду"
 description: "Роздуми про парадокс світу, у якому мир і свобода можуть опинитися скутими, тоді як руйнування та абсурд отримують простір для дій."
 event_date: 2026-09-05T12:00:00+01:00
 publication_date: 2026-09-05T12:00:00+01:00
+date: 2026-09-05T12:00:00+01:00
 lastmod: 2026-09-05T12:00:00+01:00
 slug: 039-peace-behind-the-bars-of-absurdity
 tags: [Мирне життя, мир, абсурд, свобода, відповідальність, абсурд влади, межі, руйнування]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-039-peace-behind-the-bars-of-absurdity.webp
 alt: "Малюнок крейдою на шкільній дошці: білий голуб, зв’язаний мотузкою, перебуває за тюремними ґратами з колючим дротом; поруч лежить пошкоджена табличка «МИР», перед ґратами стоять великі літери «АБСУРД», на землі позначена межа, а за нею видно руйнування та монстра на волі."
-related: [/uk/docs/peaceful-life/, /uk/docs/timeline/]
+related: [/uk/docs/peaceful-life/, /uk/archive/]
 authors: Anna Pivtorak
 draft: false
 canonical: /uk/docs/peaceful-life/039-peace-behind-the-bars-of-absurdity/

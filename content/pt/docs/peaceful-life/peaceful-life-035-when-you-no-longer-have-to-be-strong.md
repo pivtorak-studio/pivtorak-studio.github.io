@@ -6,6 +6,7 @@ title: 035 Quando já não é preciso ser forte
 description: Uma vida em paz começa quando já não é preciso ser forte todos os dias.
 event_date: 2026-08-12T07:00:00+01:00
 publication_date: 2026-08-12T07:00:00+01:00
+date: 2026-08-12T07:00:00+01:00
 lastmod: 2026-08-12T07:00:00+01:00
 slug: 035-when-you-no-longer-have-to-be-strong
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp
 alt: Um adulto sentado tranquilamente junto a uma janela ao amanhecer, enquanto uma sombra pesada, semelhante a uma pedra, se dissolve atrás dele. Perto está uma bússola simples, enquanto a suave luz da manhã entra no quarto tranquilo.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/035-when-you-no-longer-have-to-be-strong/

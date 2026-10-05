@@ -7,6 +7,7 @@ description: Animals embody peace through trust, presence, and calm coexistence,
 summary: The twenty-fourth work of the PeacefulLife series reflects on peace as a state of being. A bird eating from a hand or an animal resting close becomes a quiet indicator that trust, safety, and life remain intact.
 event_date: 2026-01-01T13:00:00
 publication_date: 2026-01-01T13:00:00
+date: 2026-01-01T13:00:00
 lastmod: 2026-01-01T13:00:00
 slug: 024-peace-that-simpl-is
 tags:
@@ -48,7 +49,7 @@ image: /images/peaceful-life-024-peace-that-simpl-is.webp
 alt: A bird eating from a human hand or an animal resting calmly beside a person, expressing trust, safety, and peaceful coexistence.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

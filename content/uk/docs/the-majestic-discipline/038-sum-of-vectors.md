@@ -7,6 +7,7 @@ description: Кожен крок стає частиною великого об
 summary: Друга робота липневого циклу Cataglyphis розкриває математику руху. Кожен вектор доповнює внутрішню систему координат, доводячи, що справжня навігація народжується безперервним обчисленням, а не ідеально прямим маршрутом.
 event_date: 2026-07-04T05:00:00
 publication_date: 2026-07-04T05:00:00
+date: 2026-07-04T05:00:00
 lastmod: 2026-07-04T05:00:00
 slug: 038-sum-of-vectors
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-038-sum-of-vectors.webp
 alt: Золота пустельна мураха Cataglyphis рухається текстурним піском Сахари, залишаючи за собою світловий геометричний ланцюг векторів під поляризованим небом.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

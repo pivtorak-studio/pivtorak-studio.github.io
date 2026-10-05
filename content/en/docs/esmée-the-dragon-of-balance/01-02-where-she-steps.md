@@ -4,6 +4,7 @@ title: "01.02 🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow"
 weight: 2
 event_date: 2025-05-16T11:00:00 # Date of the event (framework formulation)
 publication_date: 2025-05-16 # Publication date
+date: 2025-05-16 # Publication date
 event_type: transformation
 ---
 

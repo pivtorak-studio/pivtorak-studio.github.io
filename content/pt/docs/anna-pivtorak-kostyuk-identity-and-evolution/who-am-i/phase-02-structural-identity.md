@@ -5,6 +5,7 @@ description: Segunda fase da identidade – transição da narrativa para o pens
 weight: 4
 event_date: 2026-02-26T09:00:00
 publication_date: 2026-02-26T09:00:00
+date: 2026-02-26T09:00:00
 event_type: life_node
 lastmod: 2026-02-26T09:00:00
 ---

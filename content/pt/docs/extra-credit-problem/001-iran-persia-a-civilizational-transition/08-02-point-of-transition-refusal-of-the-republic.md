@@ -7,6 +7,7 @@ description: Uma reflexão civilizacional sobre a libertação semântica, na qu
 summary: Depois de estabelecer a continuidade e a legitimidade, a Pérsia rejeita o falso rótulo de 'República', que ocultava um regime autoritário. Esta obra explora o restabelecimento da honestidade semântica.
 event_date: 2026-01-29T12:00:00
 publication_date: 2026-01-29T12:00:00
+date: 2026-01-29T12:00:00
 lastmod: 2026-01-29T12:00:00
 slug: 08-02-point-of-transition-refusal-of-the-republic
 tags:
@@ -85,7 +86,7 @@ related_domains:
   - governance
   - memory
   - political_design
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: O nome deve corresponder à essência. Nunca mais máscaras.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

@@ -4,6 +4,7 @@ title: 005 Axiom Of Resilience
 weight: 5
 event_date: 2025-10-02T12:00:00
 publication_date: 2025-10-02T12:00:00
+date: 2025-10-02T12:00:00
 ---
 
 ![Axiom Of Resilience](/images/shield-005.webp)

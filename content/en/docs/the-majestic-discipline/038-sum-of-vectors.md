@@ -7,6 +7,7 @@ description: Every step becomes part of a larger calculation. Inspired by the Sa
 summary: The second work of the July Cataglyphis cycle reveals the mathematics of movement. Every vector contributes to an internal coordinate system, proving that true navigation is built through continuous integration rather than perfect paths.
 event_date: 2026-07-04T05:00:00
 publication_date: 2026-07-04T05:00:00
+date: 2026-07-04T05:00:00
 lastmod: 2026-07-04T05:00:00
 slug: 038-sum-of-vectors
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-038-sum-of-vectors.webp
 alt: A golden Cataglyphis desert ant moves across textured Sahara sand while a luminous chain of geometric vectors follows behind, beneath polarized sunlight.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

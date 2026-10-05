@@ -7,6 +7,7 @@ description: A terceira etapa da Estratégia da Fénix. Depois do fogo e do rena
 summary: A verdadeira transformação completa-se quando a renovação se transforma em movimento. A Fénix ensina que o voo disciplinado transforma a esperança em realidade.
 event_date: 2025-12-01T13:00:00
 publication_date: 2025-12-01T13:00:00
+date: 2025-12-01T13:00:00
 lastmod: 2025-12-01T13:00:00
 slug: 030-rise-to-horizon
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-030-rise-to-horizon.webp
 alt: Uma majestosa Fénix voa sobre uma paisagem ao amanhecer, deixando um rasto luminoso das suas asas douradas, simbolizando renovação, propósito e novos horizontes.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -7,6 +7,7 @@ description: Право вернуться домой утверждает, чт
 summary: Двадцать пятая работа серии «Мирная Жизнь» размышляет о возвращении домой как о фундаментальном условии мира. Открывающаяся в конце дня дверь становится символом безопасности, непрерывности и ценности обычной жизни.
 event_date: 2026-02-01T11:00:00
 publication_date: 2026-02-01T11:00:00
+date: 2026-02-01T11:00:00
 lastmod: 2026-02-01T11:00:00
 slug: 025-the-right-to-return-home
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-025-the-right-to-return-home.webp
 alt: Семья возвращается домой вечером. Тёплый свет льётся из дверного проёма, ключи кладут на полку, а ребёнок наблюдает рядом.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

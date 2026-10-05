@@ -6,6 +6,7 @@ title: 037 Каждый на своей территории
 description: "Мирная жизнь начинается с уважения к естественным границам. Белый медведь в Арктике и косатка в океане напоминают: разные территории не должны становиться причиной конфликта."
 event_date: 2026-09-01T15:00:00+01:00
 publication_date: 2026-09-01T15:00:00+01:00
+date: 2026-09-01T15:00:00+01:00
 lastmod: 2026-09-01T15:00:00+01:00
 slug: 037-each-in-their-own-territory
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-037-each-in-their-own-territory.webp
 alt: "Подробный рисунок мелом на школьной доске: слева белый медведь среди арктического снега, льда и гор; справа косатка плывёт в глубоком океане под волнами; два мира разделены мирной границей."
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Анна Пивторак (Костюк)
 draft: false
 canonical: /ru/docs/peaceful-life/037-each-in-their-own-territory/

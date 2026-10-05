@@ -7,6 +7,7 @@ description: O outono é uma estação de preparação. Uma reflexão sobre prev
 summary: Um esquilo recolhe bolotas, a natureza abranda o ritmo e a estação recorda-nos que preparar-se é um ato de cuidado e não de medo.
 event_date: 2025-09-01T13:00:00
 publication_date: 2025-09-01T13:00:00
+date: 2025-09-01T13:00:00
 lastmod: 2025-09-01T13:00:00
 slug: 012-autumn-reserve
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-012-autumn-reserve.webp
 alt: Um esquilo numa árvore segura uma bolota entre folhas de outono, preparando-se para o inverno num ambiente natural tranquilo.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/012-autumn-reserve/

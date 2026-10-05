@@ -7,6 +7,7 @@ description: As florestas, os animais e os ecossistemas não são alvos. Uma ref
 summary: A natureza não é um campo de batalha. Este artigo explora a ideia de que as florestas e a vida selvagem merecem proteção, continuidade e liberdade para florescer.
 event_date: 2025-06-01T12:00:00
 publication_date: 2025-06-01T12:00:00
+date: 2025-06-01T12:00:00
 lastmod: 2025-06-01T12:00:00
 slug: 002-nature-has-the-right-to-live
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-002-nature-has-the-right-to-live.webp
 alt: Uma paisagem florestal tranquila com animais a viver livremente entre as árvores, protegidos da destruição e envolvidos pela luz suave do início do verão.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/002-nature-has-the-right-to-live/

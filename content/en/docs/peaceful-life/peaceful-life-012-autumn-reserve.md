@@ -7,6 +7,7 @@ description: Autumn is a season of preparation. A reflection on foresight, care,
 summary: A squirrel gathers acorns, nature slows its pace, and the season reminds us that preparation is an act of care rather than fear.
 event_date: 2025-09-01T13:00:00
 publication_date: 2025-09-01T13:00:00
+date: 2025-09-01T13:00:00
 lastmod: 2025-09-01T13:00:00
 slug: 012-autumn-reserve
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-012-autumn-reserve.webp
 alt: A squirrel sits on a tree branch holding a nut among warm autumn leaves, preparing for winter in a peaceful natural setting.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/012-autumn-reserve/

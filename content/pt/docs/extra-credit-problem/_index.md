@@ -48,7 +48,7 @@ alt: Um símbolo luminoso em forma de estrela ligando um mundo de crise a um mun
 related:
   - /pt/docs/independent-researcher-manifesto/
   - /pt/docs/the-majestic-discipline/
-  - /pt/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

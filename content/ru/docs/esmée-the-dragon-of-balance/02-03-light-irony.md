@@ -4,6 +4,7 @@ title: "02.03 🐉⚖️ ESMÉE. 🌀 Светлая Ирония"
 weight: 6
 event_date: 2025-10-09T12:00:00 # Дата события 
 publication_date: 2025-10-09 # Дата публикации
+date: 2025-10-09 # Дата публикации
 event_type: transformation
 ---
 

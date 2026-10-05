@@ -6,6 +6,7 @@ title: 037 Кожен на своїй території
 description: "Мирне життя починається з поваги до природних меж. Білий ведмідь в Арктиці та косатка в океані нагадують: різні території не повинні ставати причиною конфлікту."
 event_date: 2026-09-01T15:00:00+01:00
 publication_date: 2026-09-01T15:00:00+01:00
+date: 2026-09-01T15:00:00+01:00
 lastmod: 2026-09-01T15:00:00+01:00
 slug: 037-each-in-their-own-territory
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-037-each-in-their-own-territory.webp
 alt: "Детальний малюнок крейдою на шкільній дошці: ліворуч білий ведмідь серед арктичного снігу, криги й гір; праворуч косатка пливе в глибокому океані під хвилями; два світи розділені мирною межею."
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Анна Півторак (Костюк)
 draft: false
 canonical: /uk/docs/peaceful-life/037-each-in-their-own-territory/

@@ -7,6 +7,7 @@ description: "Magnetoreception offers a natural model of orientation through inv
 summary: "To navigate through uncertainty, learn to sense the field: detect invisible signals, recognize patterns, and recalibrate without losing direction."
 event_date: 2026-08-27T09:00:00
 publication_date: 2026-08-27T09:00:00
+date: 2026-08-27T09:00:00
 lastmod: 2026-08-27T09:00:00
 slug: 041-orientation-in-the-field
 tags: [magnetoreception, geomagnetic field, orientation, invisible signals, pattern recognition, inner compass, fine calibration, navigation]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-041-orientation-in-the-field.webp
 alt: "A homing pigeon flies high above the clouds along a delicate luminous line representing the Earth's magnetic field, surrounded by elegant curved field lines that suggest invisible structure and direction."
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/041-orientation-in-the-field/

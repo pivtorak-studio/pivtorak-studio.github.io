@@ -26,7 +26,7 @@ image: /images/core-recalibration.webp
 alt: Infografia futurista da série 'Recalibração do Núcleo' com uma figura diante de um portal luminoso rodeado por símbolos de ritmo, presença, soberania, cognição e transformação sistémica.
 related:
   - /pt/docs/core-recalibration/
-  - /pt/docs/timeline/
+  - /pt/archive/
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/

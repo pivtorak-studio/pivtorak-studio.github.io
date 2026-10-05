@@ -7,6 +7,7 @@ description: Os animais incarnam a paz através da confiança, da presença e da
 summary: A vigésima quarta obra da série Vida Pacífica reflete sobre a paz como um estado de existência. Um pássaro que come da mão ou um animal que repousa próximo torna-se um indicador silencioso de confiança, segurança e continuidade da vida.
 event_date: 2026-01-01T13:00:00
 publication_date: 2026-01-01T13:00:00
+date: 2026-01-01T13:00:00
 lastmod: 2026-01-01T13:00:00
 slug: 024-peace-that-simpl-is
 tags:
@@ -48,7 +49,7 @@ image: /images/peaceful-life-024-peace-that-simpl-is.webp
 alt: Um pássaro a comer da mão de uma pessoa ou um animal a repousar tranquilamente ao lado de um humano, expressando confiança, segurança e convivência pacífica.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

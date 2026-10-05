@@ -7,6 +7,7 @@ description: Каждое живое существо заслуживает б�
 summary: Молодые птицы учатся летать через практику, неуверенность и смелость. Эта статья исследует универсальное право учиться, безопасно ошибаться и открывать собственные крылья.
 event_date: 2025-07-01T12:00:00
 publication_date: 2025-07-01T12:00:00
+date: 2025-07-01T12:00:00
 lastmod: 2025-07-01T12:00:00
 slug: 005-the-right-to-learn-to-fly
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-005-the-right-to-learn-to-fly.webp
 alt: Молодая птица расправляет крылья на краю ветки, готовясь к одному из первых полётов в спокойном летнем пейзаже.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

@@ -6,6 +6,7 @@ description: Adults consciously draw the structures of peace, transforming respo
 summary: The twenty-third work of the PeacefulLife series reflects on peace as a deliberate act of creation. Through simple lines, circles, homes, and paths, adults shape the conditions that allow life to flourish without fear.
 event_date: 2026-01-01T12:00:00
 publication_date: 2026-01-01T12:00:00
+date: 2026-01-01T12:00:00
 lastmod: 2026-01-01T12:00:00
 slug: 023-peace-drawn-with-awareness
 tags:
@@ -47,7 +48,7 @@ image: /images/peaceful-life-023-peace-drawn-with-awareness.webp
 alt: Hands of several adults drawing a circle, a house, and a path with white chalk, symbolizing the conscious architecture of peace.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -7,6 +7,7 @@ description: Серпень ще залишається літом, але шк�
 summary: Нові зошити, рюкзаки та шкільне приладдя — це більше, ніж речі. Це символ стабільності, можливостей і права дитини навчатися в мирі.
 event_date: 2025-08-01T11:00:00
 publication_date: 2025-08-01T11:00:00
+date: 2025-08-01T11:00:00
 lastmod: 2025-08-01T11:00:00
 slug: 007-back-to-school-preparations
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-007-back-to-school-preparations.webp
 alt: Двоє дітей із радістю готують зошити, олівці та шкільне приладдя до нового навчального року.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/007-back-to-school-preparations/

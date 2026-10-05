@@ -8,6 +8,7 @@ description: Uma exploração da endurance intelectual de longa distância, onde
 summary: Do Duolingo Max à máquina de remo, esta recalibração examina a transição da regularidade diária para o ritmo soberano, introduzindo a endurance civilizacional como um novo paradigma do Ultra Deep Work.
 event_date: 2026-06-17T15:00:00+01:00
 publication_date: 2026-06-17T15:00:00+01:00
+date: 2026-06-17T15:00:00+01:00
 lastmod: 2026-06-17T15:00:00+01:00
 tags:
   - RecalibraçãoDoNúcleo
@@ -47,7 +48,7 @@ image: /images/core-recalibration-015-2026-architecture-of-civilizational-endura
 alt: Ilustração digital de uma jovem a utilizar uma máquina de remo ao ar livre junto ao oceano ao pôr do sol. Vestindo calças desportivas pretas, uma T-shirt branca e grandes auscultadores pretos, surge ao longe enquanto diagramas, matrizes e símbolos visualizam a transição da regularidade para o ritmo soberano e a endurance civilizacional.
 related:
   - /pt/docs/core-recalibration/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm/

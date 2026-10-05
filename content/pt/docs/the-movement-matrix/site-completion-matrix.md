@@ -39,7 +39,7 @@ image: /images/site-completion-matrix.webp
 alt: Um painel estruturado que visualiza o estado de conclusão de artigos, metadados, processos de publicação e indexação num arquivo multilingue de conhecimento.
 related:
   - /pt/docs/the-movement-matrix/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

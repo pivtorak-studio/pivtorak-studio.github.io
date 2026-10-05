@@ -7,6 +7,7 @@ description: Um manifesto que define a investigação independente como o desenh
 summary: Da observação ao design, este manifesto apresenta a Arquitetura da Ressonância — uma estrutura que une investigação, arte, estratégia, academia, soberania e capitalização do valor não evidente.
 event_date: 2026-03-18T11:00:00
 publication_date: 2026-03-18T11:00:00
+date: 2026-03-18T11:00:00
 lastmod: 2026-03-18T11:00:00
 slug: 001-the-architecture-of-resonance
 tags:

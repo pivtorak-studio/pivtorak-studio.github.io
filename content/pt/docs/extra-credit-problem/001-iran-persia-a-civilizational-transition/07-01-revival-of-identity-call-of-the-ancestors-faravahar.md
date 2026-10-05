@@ -7,6 +7,7 @@ description: O colapso da tirania revela uma fundação civilizacional mais prof
 summary: Uma transição civilizacional em que o Faravahar se torna uma bússola para restaurar a identidade, a dignidade e a continuidade histórica para além do colapso do poder autoritário.
 event_date: 2026-01-26T11:00:00
 publication_date: 2026-01-26T11:00:00
+date: 2026-01-26T11:00:00
 lastmod: 2026-01-26T11:00:00
 slug: 07-01-revival-of-identity-call-of-the-ancestors-faravahar
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-01-revival-of-identity-call-of-the-ancestors-faravahar.webp
 alt: Uma paisagem urbana escura e em ruínas, com faixas rasgadas do antigo regime no chão, uma fissura no asfalto a brilhar em vermelho, um feixe de luz a subir e a revelar um Faravahar dourado.
 related:
-  - /timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - ethics
   - governance
   - civilization
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Não começamos do zero; regressamos à nossa grandeza.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

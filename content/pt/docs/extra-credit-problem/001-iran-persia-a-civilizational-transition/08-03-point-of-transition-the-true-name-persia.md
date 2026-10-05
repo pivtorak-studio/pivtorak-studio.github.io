@@ -7,6 +7,7 @@ description: Uma reflexão civilizacional sobre a restauração do nome históri
 summary: Após desmontar os falsos rótulos, a Pérsia restaabelece o seu nome histórico. Esta obra explora a nomeação como um mecanismo de identidade estatal.
 event_date: 2026-01-29T13:00:00
 publication_date: 2026-01-29T13:00:00
+date: 2026-01-29T13:00:00
 lastmod: 2026-01-29T13:00:00
 slug: 08-03-point-of-transition-the-true-name-persia
 tags:
@@ -86,7 +87,7 @@ related_domains:
   - memory
   - governance
   - political_design
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: O mundo volta a pronunciar o nosso verdadeiro nome.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

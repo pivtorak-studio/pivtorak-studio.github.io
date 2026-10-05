@@ -6,6 +6,7 @@ title: "039 A Paz Atrás das Grades do Absurdo"
 description: "Uma reflexão sobre o paradoxo de um mundo onde a paz e a liberdade podem ficar condicionadas, enquanto a destruição e o absurdo recebem espaço para agir."
 event_date: 2026-09-05T12:00:00+01:00
 publication_date: 2026-09-05T12:00:00+01:00
+date: 2026-09-05T12:00:00+01:00
 lastmod: 2026-09-05T12:00:00+01:00
 slug: 039-peace-behind-the-bars-of-absurdity
 tags: [Vida Pacífica, paz, absurdo, liberdade, responsabilidade, absurdo do poder, fronteiras, destruição]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-039-peace-behind-the-bars-of-absurdity.webp
 alt: "Desenho a giz num quadro escolar mostrando uma pomba branca presa com cordas atrás de grades de prisão com arame farpado, uma placa danificada com a palavra “МИР”, grandes letras “АБСУРД”, uma linha de fronteira marcada no chão e destruição com um monstro para além dela."
-related: [/pt/docs/peaceful-life/, /pt/docs/timeline/]
+related: [/pt/docs/peaceful-life/, /pt/archive/]
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/039-peace-behind-the-bars-of-absurdity/

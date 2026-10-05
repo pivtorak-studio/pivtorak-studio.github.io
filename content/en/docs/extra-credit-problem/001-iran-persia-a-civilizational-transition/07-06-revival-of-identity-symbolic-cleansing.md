@@ -7,6 +7,7 @@ description: Persia restores visual sovereignty by gently removing ideological l
 summary: A civilizational reconstruction where visual de-occupation transforms architecture from a carrier of imposed meanings into a living environment for free citizens.
 event_date: 2026-01-28T15:00:00
 publication_date: 2026-01-28T15:00:00
+date: 2026-01-28T15:00:00
 lastmod: 2026-01-28T15:00:00
 slug: 07-06-revival-of-identity-symbolic-cleansing
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-06-revival-of-identity-symbolic-cleansing.webp
 alt: Hands gently rinse black paint from a Persepolis-inspired stone bas-relief with clear water, revealing white and light-gray marble beneath. Subtle reflections shimmer on the surface.
 related:
-  - /timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - ethics
   - freedom
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: The city breathes freely when the falsehood is washed away.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

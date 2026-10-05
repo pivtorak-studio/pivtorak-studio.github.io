@@ -7,6 +7,7 @@ description: Todo ser vivo merece um espaço seguro para aprender, crescer e com
 summary: As aves jovens aprendem a voar através da prática, da incerteza e da coragem. Este artigo explora o direito universal de aprender, falhar em segurança e descobrir as próprias asas.
 event_date: 2025-07-01T12:00:00
 publication_date: 2025-07-01T12:00:00
+date: 2025-07-01T12:00:00
 lastmod: 2025-07-01T12:00:00
 slug: 005-the-right-to-learn-to-fly
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-005-the-right-to-learn-to-fly.webp
 alt: Uma ave jovem abre as asas na extremidade de um ramo, preparando-se para um dos seus primeiros voos numa paisagem tranquila de verão.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

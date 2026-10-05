@@ -7,6 +7,7 @@ description: Декларація про вихід на власний шлях
 summary: Момент, коли шлях стає особистим. Червона доріжка перестає бути символом чужого успіху й перетворюється на дорогу, створену власними кроками.
 event_date: 2023-07-19T10:00:00
 publication_date: 2025-07-07T10:00:00
+date: 2025-07-07T10:00:00
 lastmod: 2025-07-07T10:00:00
 slug: 002-on-the-red-carpet
 tags: [ідентичність, трансформація, творчість, автономія, свобода, власний-шлях, авторство, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-002-on-the-red-carpet.webp
 alt: Жінка йде червоною велосипедною доріжкою вздовж океану в навушниках. Доріжка стає її власною червоною доріжкою.
-related: [/uk/docs/pivtorak-studio/, /uk/docs/timeline/]
+related: [/uk/docs/pivtorak-studio/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/pivtorak-studio/002-on-the-red-carpet/

@@ -7,6 +7,7 @@ description: Children draw peace with chalk on winter pavement, transforming a s
 summary: The twenty-second work of the PeacefulLife series reflects on peace as a lived reality. A child drawing the sun and the word “Peace” becomes a symbol of everyday acts that sustain life even in times of uncertainty.
 event_date: 2026-01-01T11:00:00
 publication_date: 2026-01-01T11:00:00
+date: 2026-01-01T11:00:00
 lastmod: 2026-01-01T11:00:00
 slug: 022-peace-drawn-by-hands
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-022-peace-drawn-by-hands.webp
 alt: Child's gloved hand drawing a sun and the word “Peace” with colorful chalk on winter pavement.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

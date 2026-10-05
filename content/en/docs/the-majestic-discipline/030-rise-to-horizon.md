@@ -7,6 +7,7 @@ description: The third stage of the Phoenix Strategy. Having passed through fire
 summary: True transformation is fulfilled only when renewal becomes movement. The Phoenix teaches that disciplined flight turns hope into reality.
 event_date: 2025-12-01T13:00:00
 publication_date: 2025-12-01T13:00:00
+date: 2025-12-01T13:00:00
 lastmod: 2025-12-01T13:00:00
 slug: 030-rise-to-horizon
 tags: [Phoenix Strategy, Phoenix, Rise To Horizon, Flight, New Horizon, Transformation, Renewal, Leadership, Resilience, Strategic Thinking, Discipline, The Majestic Discipline, New Reality]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-030-rise-to-horizon.webp
 alt: A majestic Phoenix soaring above a sunrise landscape, its golden wings leaving a radiant trail across the sky, symbolizing renewal, purpose, and limitless horizons.
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/030-rise-to-horizon/

@@ -7,6 +7,7 @@ description: A peaceful night outdoors should be filled with friendship, convers
 summary: Around a campfire, people share stories, laughter, and silence. This article explores the right to feel safe at night and the importance of trust in peaceful life.
 event_date: 2025-07-01T11:00:00
 publication_date: 2025-07-01T11:00:00
+date: 2025-07-01T11:00:00
 lastmod: 2025-07-01T11:00:00
 slug: 004-safe-night-circle-of-trust
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-004-safe-night-circle-of-trust.webp
 alt: People sitting around a campfire under a peaceful summer sky, sharing a quiet evening in safety and trust.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

@@ -6,6 +6,7 @@ title: 001 Перезагрузка Системы
 description: Момент тихого внутреннего запуска, когда система уже работает, а присутствие больше не нуждается в объявлениях.
 event_date: 2025-06-21T15:00:00
 publication_date: 2025-06-21T15:00:00
+date: 2025-06-21T15:00:00
 tags:
   - SystemReboot
   - CoreRecalibration
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-001-2025-system-reboot.webp
 alt: "Цифровая иллюстрация в стиле тёмного системного интерфейса: экран в оттенках чёрного и тёмно-синего с элементами BIOS и строками запуска — 'Initializing…', 'Loading drivers…', 'Reboot complete'. Нажатая кнопка питания. Атмосфера передаёт контроль, точность и тишину перед началом работы."
 related:
-  - /ru/docs/timeline/
+  - /ru/archive/
   - /ru/docs/core-recalibration/
 weight: 1
 draft: false

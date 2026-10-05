@@ -7,6 +7,7 @@ description: Исследование государственной струк�
 summary: Диагноз институциональной проницаемости, при которой зло не встречает сопротивления, поскольку сама архитектура перестала различать защиту и угрозу.
 event_date: 2026-01-19T12:00:00
 publication_date: 2026-01-19T12:00:00
+date: 2026-01-19T12:00:00
 lastmod: 2026-01-19T12:00:00
 slug: 02-02-after-tragedy-system-without-immunity
 tags:
@@ -75,7 +76,7 @@ related_domains:
   - security
   - law
   - civilization
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Там, где нет структуры, зло становится законом.
 manifesto_type: diagnosis
 project: ExtraCreditProblem

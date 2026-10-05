@@ -7,6 +7,7 @@ description: Quando o vetor interior permanece preciso, a procura de um destino 
 summary: Um vetor interior estável dá ao movimento um destino preciso. Quando intenção, orientação e ação convergem, o campo envolvente começa a revelar um caminho até ao ponto de regresso.
 event_date: 2026-08-27T12:00:00
 publication_date: 2026-08-27T12:00:00
+date: 2026-08-27T12:00:00
 lastmod: 2026-08-27T12:00:00
 slug: 042-the-inevitable-return
 tags: [a-disciplina-majestosa, pombo-correio, navegação, magnetorreceção, orientação, foco, intenção, regresso]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-042-the-inevitable-return.webp
 alt: Um pombo-correio recolhe as asas ao descer em direção a uma esfera arquitetónica dourada acima das nuvens, com uma trajetória luminosa e reta atrás de si e linhas douradas a convergir para o mesmo ponto.
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
+related: [/pt/docs/the-majestic-discipline/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/042-the-inevitable-return/

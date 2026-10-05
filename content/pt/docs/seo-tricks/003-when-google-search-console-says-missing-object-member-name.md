@@ -7,6 +7,7 @@ description: "Um caso real do Google Search Console: investigação e correção
 summary: O Google Search Console comunicou que os dados estruturados não podiam ser analisados devido à ausência de } ou do nome de um membro do objeto. A investigação identificou o problema na separação entre o YAML front matter e o JSON-LD, afetando 565 ficheiros Markdown.
 event_date: 2026-09-22T18:00:00
 publication_date: 2026-09-22T18:00:00
+date: 2026-09-22T18:00:00
 slug: when-google-search-console-says-missing-object-member-name
 tags:
   - Google Search Console
@@ -32,7 +33,7 @@ image: /images/seo-tricks-003-when-google-search-console-says-missing-object-mem
 alt: Google Search Console confirma que um problema de análise de dados estruturados foi resolvido
 related:
   - /pt/docs/seo-tricks/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

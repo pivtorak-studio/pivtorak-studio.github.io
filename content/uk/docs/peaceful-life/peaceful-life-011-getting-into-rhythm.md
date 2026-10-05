@@ -7,6 +7,7 @@ description: Після літньої паузи настає новий пер
 summary: Чистий робочий стіл, ранкова кава, блокнот і новий проєкт. Ця стаття досліджує цінність осмисленої праці та мирного повернення до продуктивного ритму.
 event_date: 2025-09-01T12:00:00
 publication_date: 2025-09-01T12:00:00
+date: 2025-09-01T12:00:00
 lastmod: 2025-09-01T12:00:00
 slug: 011-getting-into-rhythm
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-011-getting-into-rhythm.webp
 alt: Охайне робоче місце з ноутбуком, блокнотом і ранковою кавою, що символізує спокійне повернення до праці та навчання.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/011-getting-into-rhythm/

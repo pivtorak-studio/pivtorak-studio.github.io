@@ -7,6 +7,7 @@ description: Análise do processo através do qual um Estado capturado perde a l
 summary: Estudo de como uma governação criminosa se disfarça de administração legítima e de como a legitimidade é desmontada através da nomeação correta.
 event_date: 2026-01-18T11:00:00
 publication_date: 2026-01-18T11:00:00
+date: 2026-01-18T11:00:00
 lastmod: 2026-01-18T11:00:00
 slug: 02-01-after-tragedy-delegitimation
 tags:
@@ -70,7 +71,7 @@ related_domains:
   - ethics
   - political_design
   - institutional_analysis
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Um nome é apenas camuflagem para um crime.
 manifesto_type: diagnosis
 project: Iran-Persia-A-Civilizational-Transition

@@ -10,6 +10,7 @@ summary: "The sixteenth Core Recalibration introduces the Principle of Optimal L
 
 event_date: 2026-06-26T11:00:00+01:00
 publication_date: 2026-06-26T11:00:00+01:00
+date: 2026-06-26T11:00:00+01:00
 lastmod: 2026-06-26T11:00:00+01:00
 
 tags: [CoreRecalibration, SufficiencyThreshold, OptimalLoad, SignalToNoise, Cybernetics, SystemsThinking, CognitiveArchitecture, KnowledgeArchitecture, Sovereignty, SustainableCreation]
@@ -27,7 +28,7 @@ alt: "Infographic illustrating the Sufficiency Threshold. a mathematical model w
 
 related:
   - /en/docs/core-recalibration/
-  - /en/docs/timeline/
+  - /en/archive/
 
 authors:
   - Anna Pivtorak

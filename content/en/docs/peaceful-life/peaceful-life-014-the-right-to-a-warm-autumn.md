@@ -7,6 +7,7 @@ description: Nature deserves peaceful seasons. A reflection on warmth, balance, 
 summary: Sunlight filters through autumn leaves, a rabbit rests among the grasses, and nature follows its own rhythm. This article explores the value of seasonal peace and natural continuity.
 event_date: 2025-10-13T12:00:00
 publication_date: 2025-10-13T12:00:00
+date: 2025-10-13T12:00:00
 lastmod: 2025-10-13T12:00:00
 slug: 014-the-right-to-a-warm-autumn
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-014-the-right-to-a-warm-autumn.webp
 alt: A rabbit sits peacefully among autumn leaves in a warm forest illuminated by soft sunlight filtering through the trees.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/014-the-right-to-a-warm-autumn/

@@ -7,6 +7,7 @@ description: Мирна ніч на природі має бути наповн�
 summary: Біля вогнища люди діляться історіями, сміхом і тишею. Ця стаття досліджує право почуватися в безпеці вночі та значення довіри в мирному житті.
 event_date: 2025-07-01T11:00:00
 publication_date: 2025-07-01T11:00:00
+date: 2025-07-01T11:00:00
 lastmod: 2025-07-01T11:00:00
 slug: 004-safe-night-circle-of-trust
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-004-safe-night-circle-of-trust.webp
 alt: Люди сидять біля вогнища під спокійним літнім небом, проводячи вечір в атмосфері довіри та безпеки.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

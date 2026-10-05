@@ -23,7 +23,7 @@ keywords:
 image: /images/living-topography-series.webp
 alt: Dark topographic surface with flowing paths, traces, nodes and connections, representing Living Topography
 related:
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/living-topography/

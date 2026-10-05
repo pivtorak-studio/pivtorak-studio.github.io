@@ -7,6 +7,7 @@ description: Естафета Поколінь досліджує безпере
 summary: Великий шлях не обов'язково має бути завершений за одне життя, щоб залишатися єдиним безперервним рухом. Метелик-монарх символізує те, як кожне покоління продовжує шлях, додаючи свою частину до дороги, що почалася ще до нього.
 event_date: 2026-09-19T12:00:00
 publication_date: 2026-09-19T12:00:00
+date: 2026-09-19T12:00:00
 lastmod: 2026-09-19T12:00:00
 slug: 044-transgenerational-flight
 tags: [естафета поколінь, метелик-монарх, наступність поколінь, спадкоємність, успадкований напрямок]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-044-transgenerational-flight.webp
 alt: Метелик-монарх летить над величезним золотим осіннім лісом, а за ним слідує потік маленьких метеликів-монархів, утворюючи сяючий шлях до далеких гір під теплим вечірнім небом.
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
+related: [/uk/docs/the-majestic-discipline/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/044-transgenerational-flight/

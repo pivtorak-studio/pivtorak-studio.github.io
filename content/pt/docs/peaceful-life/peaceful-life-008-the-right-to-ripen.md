@@ -7,6 +7,7 @@ description: Crescer leva tempo. Uma reflexão sobre paciência, maturidade e o 
 summary: Os campos não têm pressa. As estações não competem. Este artigo explora a ideia de que a vida merece tempo e segurança para amadurecer plenamente.
 event_date: 2025-08-01T12:00:00
 publication_date: 2025-08-01T12:00:00
+date: 2025-08-01T12:00:00
 lastmod: 2025-08-01T12:00:00
 slug: 008-the-right-to-ripen
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-008-the-right-to-ripen.webp
 alt: Um campo dourado sob o céu de verão. As espigas maduras movem-se suavemente ao vento, simbolizando paciência, crescimento e maturidade.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/008-the-right-to-ripen/

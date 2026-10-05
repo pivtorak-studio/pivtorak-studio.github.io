@@ -7,6 +7,7 @@ description: "Реальний кейс Google Search Console: дослідже�
 summary: Google Search Console повідомив, що структуровані дані не можна проаналізувати через відсутність } або імені компонента об’єкта. Розслідування виявило проблему в розділенні YAML front matter і JSON-LD, яка стосувалася 565 Markdown-файлів.
 event_date: 2026-09-22T18:00:00
 publication_date: 2026-09-22T18:00:00
+date: 2026-09-22T18:00:00
 slug: when-google-search-console-says-missing-object-member-name
 tags:
   - Google Search Console
@@ -32,7 +33,7 @@ image: /images/seo-tricks-003-when-google-search-console-says-missing-object-mem
 alt: Google Search Console підтверджує, що проблему аналізу структурованих даних усунуто
 related:
   - /uk/docs/seo-tricks/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

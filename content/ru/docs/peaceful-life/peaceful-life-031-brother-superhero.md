@@ -7,6 +7,7 @@ description: Размышление о спокойной силе старше�
 summary: Настоящая сила защищает, а не пугает.
 event_date: 2026-07-01T15:00:00+01:00
 publication_date: 2026-07-01T15:00:00+01:00
+date: 2026-07-01T15:00:00+01:00
 lastmod: 2026-07-01T15:00:00+01:00
 slug: 031-brother-superhero
 tags:
@@ -44,7 +45,7 @@ authors:
   - Anna Pivtorak
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/031-brother-superhero/
 weight: 31
 completion: 100

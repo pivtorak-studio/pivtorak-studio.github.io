@@ -7,6 +7,7 @@ description: Детство заслуживает тепла, безопасн�
 summary: Тёплый дом, хорошая книга, домашний питомец рядом и чувство защищённости. Эта статья исследует право каждого ребёнка расти в атмосфере заботы и безопасности.
 event_date: 2025-10-13T11:00:00
 publication_date: 2025-10-13T11:00:00
+date: 2025-10-13T11:00:00
 lastmod: 2025-10-13T11:00:00
 slug: 013-childhood-must-be-warm
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-013-childhood-must-be-warm.webp
 alt: Двое детей читают книгу возле камина в тёплом доме, рядом находится домашний питомец. Атмосфера уюта и защищённости.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/013-childhood-must-be-warm/

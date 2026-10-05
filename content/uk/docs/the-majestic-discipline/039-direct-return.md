@@ -7,6 +7,7 @@ description: Пошук завершено. Натхненна пустельн�
 summary: Третя робота липневого циклу Cataglyphis завершує архітектуру квантової навігації. Після інтегрування всіх векторів найкоротший шлях природно виникає з цілісної внутрішньої системи.
 event_date: 2026-07-04T06:00:00
 publication_date: 2026-07-04T06:00:00
+date: 2026-07-04T06:00:00
 lastmod: 2026-07-04T06:00:00
 slug: 039-direct-return
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-039-direct-return.webp
 alt: Золота пустельна мураха Cataglyphis стоїть перед ідеально прямим світловим променем, що перетинає Сахару, а позаду залишається мережа пошукових траєкторій.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

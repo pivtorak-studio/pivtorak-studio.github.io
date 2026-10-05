@@ -7,6 +7,7 @@ description: Исследование того, как авторитарные 
 summary: Работа диагностирует паразитическую архитектуру тирании, показывая, как извлечение ресурсов, принуждение и зависимость от внешних потоков становятся основными условиями выживания режима.
 event_date: 2026-01-20T12:00:00
 publication_date: 2026-01-20T12:00:00
+date: 2026-01-20T12:00:00
 lastmod: 2026-01-20T12:00:00
 slug: 03-02-system-diagnosis-resource-dependence
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - security
   - civilizational-transition
   - political-systems
-timeline: /ru/timeline/
+timeline: /ru/archive/
 ethical_resonance: collapse-through-resource-depletion
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

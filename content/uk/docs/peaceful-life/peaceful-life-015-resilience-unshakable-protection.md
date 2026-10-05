@@ -7,6 +7,7 @@ description: Справжній захист починається з міцн�
 summary: Глибоке коріння, захищений дім і впевненість перед вітром. Ця стаття досліджує стійкість як силу, що оберігає родини, спільноти та мирне життя.
 event_date: 2025-10-13T13:00:00
 publication_date: 2025-10-13T13:00:00
+date: 2025-10-13T13:00:00
 lastmod: 2025-10-13T13:00:00
 slug: 015-resilience-unshakable-protection
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-015-resilience-unshakable-protection.webp
 alt: Захищений дім серед осіннього пейзажу та дерево з глибоким корінням, яке залишається непохитним на вітрі, символізуючи стійкість і безпеку.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

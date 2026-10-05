@@ -7,6 +7,7 @@ description: A study of social sabotage as a nonviolent mechanism of systemic ex
 summary: This work examines the transition from resistance to deliberate non-participation. When society stops fueling the mechanisms of dictatorship, power loses its functionality. The work explores silence, pause, and collective inaction as instruments of civilizational transition.
 event_date: 2026-01-23T11:00:00
 publication_date: 2026-01-23T11:00:00
+date: 2026-01-23T11:00:00
 lastmod: 2026-01-23T11:00:00
 slug: 05-01-protest-environment-social-sabotage
 tags:
@@ -80,7 +81,7 @@ related_domains:
   - freedom
   - collective_behavior
   - social_physics
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: The machine stalls when the cogs refuse to turn.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

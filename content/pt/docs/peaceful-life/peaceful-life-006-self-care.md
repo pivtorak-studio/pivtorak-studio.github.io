@@ -7,6 +7,7 @@ description: Descansar não é uma recompensa. Uma reflexão sobre equilíbrio, 
 summary: Por vezes, a ação mais importante é fazer uma pausa. Este artigo explora o autocuidado como forma de respeito, renovação e sustentabilidade pessoal.
 event_date: 2025-07-01T13:00:00
 publication_date: 2025-07-01T13:00:00
+date: 2025-07-01T13:00:00
 lastmod: 2025-07-01T13:00:00
 slug: 006-self-care
 tags:
@@ -33,11 +34,11 @@ series_index: 6
 country: PT
 status: published
 featured: true
-image: /images/peaceful-life-006-self-care-time.webp
+image: /images/peaceful-life-006-self-care.webp
 alt: Uma mulher sentada tranquilamente numa varanda com vista para um campo florido, desfrutando de um momento de silêncio e contemplação.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

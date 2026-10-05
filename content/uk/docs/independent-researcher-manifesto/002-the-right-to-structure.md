@@ -9,6 +9,7 @@ summary: "Виходячи за межі інтерпретації, цей ма
 
 event_date: 2026-04-09T11:00:00
 publication_date: 2026-04-09T11:00:00
+date: 2026-04-09T11:00:00
 lastmod: 2026-04-09T11:00:00
 
 slug: 002-the-right-to-structure

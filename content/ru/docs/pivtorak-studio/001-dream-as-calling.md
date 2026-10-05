@@ -7,6 +7,7 @@ description: Символическая фиксация момента, ког�
 summary: Сон о белом голубе стал недвусмысленным напоминанием о Призвании и запустил интуитивную последовательность согласованных действий, позднее ставшую основой Pivtorak.Studio.
 event_date: 2023-07-16T09:00:00
 publication_date: 2025-07-07T09:00:00
+date: 2025-07-07T09:00:00
 lastmod: 2025-07-07T09:00:00
 slug: 001-dream-as-calling
 tags: [призвание, сон, голубь, трансформация, символическое-событие, интуиция, начало, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-001-dream-as-calling.webp
 alt: Белый голубь с расправленными крыльями летит на светло-бежевом фоне, символизируя призвание, поддержку, свободу и начало трансформации.
-related: [/ru/docs/pivtorak-studio/, /ru/docs/timeline/]
+related: [/ru/docs/pivtorak-studio/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/pivtorak-studio/001-dream-as-calling/

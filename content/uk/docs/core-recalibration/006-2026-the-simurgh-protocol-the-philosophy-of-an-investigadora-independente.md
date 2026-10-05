@@ -6,6 +6,7 @@ title: "006 Протокол Симурга. Філософія Investigadora In
 description: Маніфест суверенної науки та незалежного дослідження. Стаття про перехід від інституційної легітимації до автономної архітектури знання, де сайт стає лабораторією, цифровий архів — системою фіксації, а дисципліна — гарантом якості.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
+date: 2026-05-20T15:00:00
 lastmod: 2026-05-20T15:00:00
 tags:
   - CoreRecalibration
@@ -28,7 +29,7 @@ alt: "Символічна інфографіка «Протокол Симур�
 related:
   - /uk/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /uk/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
-  - /uk/docs/timeline/
+  - /uk/archive/
 weight: 6
 draft: false
 toc: true

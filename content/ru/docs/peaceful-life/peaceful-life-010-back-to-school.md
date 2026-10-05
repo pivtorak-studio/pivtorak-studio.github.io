@@ -7,6 +7,7 @@ description: Новый учебный год начинается с любоп
 summary: Рюкзаки собраны, дорога знакома, впереди ждут новые открытия. Эта статья исследует ценность образования и радость начала нового учебного года в мире.
 event_date: 2025-09-01T11:00:00
 publication_date: 2025-09-01T11:00:00
+date: 2025-09-01T11:00:00
 lastmod: 2025-09-01T11:00:00
 slug: 010-back-to-school
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-010-back-to-school.webp
 alt: Двое младших школьников уверенно идут к современной школе с рюкзаками, начиная новый учебный год.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/010-back-to-school/

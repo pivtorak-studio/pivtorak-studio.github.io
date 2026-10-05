@@ -23,7 +23,7 @@ keywords:
 image: /images/living-topography-series.webp
 alt: Темна топографічна поверхня з плавними шляхами, слідами, вузлами та зв'язками, що представляють Living Topography
 related:
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/living-topography/

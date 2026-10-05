@@ -7,6 +7,7 @@ description: Роздуми про доброту, довіру та тепло,
 summary: Справжнє тепло народжується з турботи, довіри та тихої присутності поруч. Те, що ми щиро віддаємо іншим, часто повертається тоді, коли найбільше потрібне.
 event_date: 2025-11-01T12:00:00
 publication_date: 2025-11-01T12:00:00
+date: 2025-11-01T12:00:00
 lastmod: 2025-11-01T12:00:00
 slug: 017-warmth-that-returns
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-017-warmth-that-returns.webp
 alt: Дитина в шарфі сидить поруч із собакою біля невеликого вогнища. Їхнє спільне тепло зливається зі світлом полум’я, створюючи атмосферу довіри, затишку та взаємної турботи.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

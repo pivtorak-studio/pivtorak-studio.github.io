@@ -7,6 +7,7 @@ description: Хліб, вода і світло свічки стають сим
 summary: Роздуми про просту їжу як акт пам’яті, вдячності та людського зв’язку. Хліб, вода і світло нагадують, що мир часто починається з найпростіших речей.
 event_date: 2025-11-01T11:00:00
 publication_date: 2025-11-01T11:00:00
+date: 2025-11-01T11:00:00
 lastmod: 2025-11-01T11:00:00
 slug: 016-memory-simple-food
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-016-memory-simple-food.webp
 alt: На дерев’яному столі стоять свічка, хліб і глечик з водою. Тепле світло падає на руки, що тримають скибку хліба, створюючи атмосферу вдячності, миру та присутності.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

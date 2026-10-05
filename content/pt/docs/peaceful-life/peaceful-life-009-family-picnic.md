@@ -7,6 +7,7 @@ description: Alguns dos momentos mais importantes da vida acontecem sem horário
 summary: Uma manta sobre a relva, comida simples, conversas e risos. Este artigo explora o valor de estar juntos e criar memórias numa vida pacífica.
 event_date: 2025-08-01T13:00:00
 publication_date: 2025-08-01T13:00:00
+date: 2025-08-01T13:00:00
 lastmod: 2025-08-01T13:00:00
 slug: 009-family-picnic
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-009-family-picnic.webp
 alt: Uma família desfruta de um piquenique ao ar livre num dia quente de verão, partilhando comida, conversas e momentos tranquilos.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/009-family-picnic/

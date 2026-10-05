@@ -7,6 +7,7 @@ description: Cada passo torna-se parte de um cálculo maior. Inspirada na formig
 summary: A segunda obra do ciclo de julho da Cataglyphis revela a matemática do movimento. Cada vetor contribui para um sistema interno de coordenadas, demonstrando que a verdadeira navegação nasce da integração contínua e não de trajetos perfeitos.
 event_date: 2026-07-04T05:00:00
 publication_date: 2026-07-04T05:00:00
+date: 2026-07-04T05:00:00
 lastmod: 2026-07-04T05:00:00
 slug: 038-sum-of-vectors
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-038-sum-of-vectors.webp
 alt: Uma formiga-do-deserto dourada Cataglyphis desloca-se sobre a areia texturada do Sara enquanto uma cadeia luminosa de vetores geométricos acompanha o seu percurso sob a luz polarizada.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

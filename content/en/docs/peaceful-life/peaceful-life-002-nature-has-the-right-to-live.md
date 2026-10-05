@@ -7,6 +7,7 @@ description: Forests, animals, and ecosystems are not targets. A reflection on t
 summary: Nature is not a battlefield. This article explores the idea that forests and wildlife deserve protection, continuity, and the freedom to flourish without destruction.
 event_date: 2025-06-01T12:00:00
 publication_date: 2025-06-01T12:00:00
+date: 2025-06-01T12:00:00
 lastmod: 2025-06-01T12:00:00
 slug: 002-nature-has-the-right-to-live
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-002-nature-has-the-right-to-live.webp
 alt: A peaceful forest landscape with wildlife living freely among trees, untouched by destruction and surrounded by the calm light of early summer.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/002-nature-has-the-right-to-live/

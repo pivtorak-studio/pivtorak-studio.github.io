@@ -7,6 +7,7 @@ description: Фінальна перекалібровка, що розгляд�
 summary: Будівництво створює об'єкти. Архітектура проєктує середовища, у яких ці об'єкти стають можливими. Стаття представляє архітектуру смислових середовищ як дисципліну суверенного системного мислення.
 event_date: 2026-05-31T23:00:00+01:00
 publication_date: 2026-05-31T23:00:00+01:00
+date: 2026-05-31T23:00:00+01:00
 lastmod: 2026-05-31T23:00:00+01:00
 tags:
   - CoreRecalibration
@@ -44,7 +45,7 @@ image: /images/core-recalibration-012-2026-the-architecture-of-meaning-environme
 alt: Архітекторка всередині сяючої геометричної структури, що символізує Користь, Стійкість та Красу як основи суверенного мислення.
 related:
   - /uk/docs/core-recalibration/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 weight: 12

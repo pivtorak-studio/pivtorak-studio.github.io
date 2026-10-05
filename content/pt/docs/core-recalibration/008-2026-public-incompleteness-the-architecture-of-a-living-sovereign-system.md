@@ -6,6 +6,7 @@ title: "008 Incompletude Pública. A Arquitetura de um Sistema Soberano Vivo"
 description: Uma reflexão filosófica e arquitetónica sobre incompletude estruturada, desenvolvimento transparente e ecossistemas digitais soberanos que evoluem publicamente sem esconder rascunhos, instabilidade ou processos de reconstrução.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-27T10:00:00
+date: 2026-05-27T10:00:00
 tags:
   - CoreRecalibration
   - SistemasSoberanos
@@ -27,7 +28,7 @@ related:
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /pt/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
-  - /pt/docs/timeline/
+  - /pt/archive/
 weight: 8
 draft: false
 toc: true

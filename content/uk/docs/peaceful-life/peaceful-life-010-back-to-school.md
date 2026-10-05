@@ -7,6 +7,7 @@ description: Новий навчальний рік починається з ц
 summary: Рюкзаки зібрані, дорога знайома, попереду чекають нові відкриття. Ця стаття досліджує цінність освіти та радість початку нового навчального року в мирі.
 event_date: 2025-09-01T11:00:00
 publication_date: 2025-09-01T11:00:00
+date: 2025-09-01T11:00:00
 lastmod: 2025-09-01T11:00:00
 slug: 010-back-to-school
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-010-back-to-school.webp
 alt: Двоє молодших школярів упевнено йдуть до сучасної школи з рюкзаками, розпочинаючи новий навчальний рік.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/010-back-to-school/

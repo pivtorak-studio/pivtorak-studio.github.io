@@ -7,6 +7,7 @@ description: "A sea turtle navigates through the deep ocean by resonating with E
 summary: "The first stage of the Sea Turtle Strategy explores magnetic resonance as a symbol of inner law, stillness, and unwavering orientation toward one's authentic path."
 event_date: 2026-01-07T11:00:00
 publication_date: 2026-01-07T11:00:00
+date: 2026-01-07T11:00:00
 lastmod: 2026-01-07T11:00:00
 slug: 031-magnetic-resonance-alignment
 tags: [Magnetic Resonance, Alignment, Sea Turtle, Quantum Navigation, Inner Compass, Earth Magnetic Field, Stillness, Discipline, Identity, January]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-031-magnetic-resonance-alignment.webp
 alt: "A majestic sea turtle swims through the deep ocean among glowing golden magnetic field lines while its shell resonates with Earth's invisible navigation network."
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/031-magnetic-resonance-alignment/

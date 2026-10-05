@@ -7,6 +7,7 @@ description: Цивилизационное исследование восст�
 summary: После демонтажа ложных обозначений Персия возвращает своё историческое имя. Работа исследует именование как механизм государственной идентичности.
 event_date: 2026-01-29T13:00:00
 publication_date: 2026-01-29T13:00:00
+date: 2026-01-29T13:00:00
 lastmod: 2026-01-29T13:00:00
 slug: 08-03-point-of-transition-the-true-name-persia
 tags:
@@ -86,7 +87,7 @@ related_domains:
   - memory
   - governance
   - political_design
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Мир вновь произносит наше истинное имя.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

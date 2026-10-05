@@ -7,6 +7,7 @@ description: "A magnetorreceção oferece um modelo natural de orientação atra
 summary: "Para navegar na incerteza, aprende a sentir o campo: deteta sinais invisíveis, reconhece padrões e recalibra sem perder a direção."
 event_date: 2026-08-27T09:00:00
 publication_date: 2026-08-27T09:00:00
+date: 2026-08-27T09:00:00
 lastmod: 2026-08-27T09:00:00
 slug: 041-orientation-in-the-field
 tags: [magnetorreceção, campo geomagnético, orientação, sinais invisíveis, reconhecimento de padrões, bússola interior, afinação, navegação]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-041-orientation-in-the-field.webp
 alt: "Um pombo-correio voa muito acima das nuvens ao longo de uma delicada linha luminosa que representa o campo magnético da Terra, rodeado por elegantes linhas curvas que sugerem uma estrutura e uma direção invisíveis."
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
+related: [/pt/docs/the-majestic-discipline/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/041-orientation-in-the-field/

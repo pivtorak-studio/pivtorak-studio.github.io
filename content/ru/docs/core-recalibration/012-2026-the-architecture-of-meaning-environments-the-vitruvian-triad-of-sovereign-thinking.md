@@ -7,6 +7,7 @@ description: Финальная перекалибровка, рассматри
 summary: Строительство создаёт объекты. Архитектура проектирует среды, в которых эти объекты становятся возможными. Статья вводит понятие архитектуры смысловых сред как дисциплины суверенного системного мышления.
 event_date: 2026-05-31T23:00:00+01:00
 publication_date: 2026-05-31T23:00:00+01:00
+date: 2026-05-31T23:00:00+01:00
 lastmod: 2026-05-31T23:00:00+01:00
 tags:
   - CoreRecalibration
@@ -44,7 +45,7 @@ image: /images/core-recalibration-012-2026-the-architecture-of-meaning-environme
 alt: Архитектор внутри светящейся геометрической структуры, символизирующей Пользу, Устойчивость и Красоту как основы суверенного мышления.
 related:
   - /ru/docs/core-recalibration/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 weight: 12

@@ -7,6 +7,7 @@ description: Роздуми про перехід від проєктного м
 summary: Проєкти орієнтовані на результат. Системи створюють умови для безперервної еволюції. Ця Core Recalibration досліджує перехід від лінійного виконання завдань до суверенних середовищ, здатних до адаптації, відтворення та довгострокового розвитку.
 event_date: 2026-05-30T23:00:00+01:00
 publication_date: 2026-05-30T23:00:00+01:00
+date: 2026-05-30T23:00:00+01:00
 lastmod: 2026-05-30T23:00:00+01:00
 tags:
   - Core Recalibration
@@ -39,7 +40,7 @@ image: /images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-
 alt: Концептуальна схема переходу від лінійного проєктного мислення до автономних суверенних систем, здатних до еволюції, адаптації та довгострокового розвитку.
 related:
   - /uk/docs/core-recalibration/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 weight: 11

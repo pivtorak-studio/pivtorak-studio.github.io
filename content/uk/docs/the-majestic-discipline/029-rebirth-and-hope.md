@@ -7,6 +7,7 @@ description: Другий етап Стратегії Фенікса. Надія
 summary: Кожен справжній початок народжується в тиші. Фенікс нагадує, що найбільша сила часто зростає непомітно, перш ніж змінити світ.
 event_date: 2025-12-01T12:00:00
 publication_date: 2025-12-01T12:00:00
+date: 2025-12-01T12:00:00
 lastmod: 2025-12-01T12:00:00
 slug: 029-rebirth-and-hope
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-029-rebirth-and-hope.webp
 alt: Світле яйце Фенікса лежить у теплому попелі, оточене м'яким сяйвом, символізуючи надію, відродження та тихе народження нового майбутнього.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

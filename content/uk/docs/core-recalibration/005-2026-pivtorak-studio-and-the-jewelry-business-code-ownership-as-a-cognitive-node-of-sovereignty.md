@@ -6,6 +6,7 @@ title: "005 Pivtorak.Studio & TheJewelry.Business. Володіння кодом
 description: Стаття про створення автономної цифрової екосистеми через Pivtorak.Studio та TheJewelry.Business, когнітивну суверенність, GitHub-архітектуру, SEO, кібернетичне мислення та перехід від присутності на чужих платформах до володіння власним кодом і середовищем.
 event_date: 2026-05-19T15:00:00
 publication_date: 2026-05-19T15:00:00
+date: 2026-05-19T15:00:00
 tags:
   - CoreRecalibration
   - cognitive sovereignty
@@ -27,7 +28,7 @@ alt: "Подвійна система суверенності: Pivtorak.Studio 
 related:
   - /uk/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /uk/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-  - /uk/docs/timeline/
+  - /uk/archive/
 weight: 5
 draft: false
 toc: true

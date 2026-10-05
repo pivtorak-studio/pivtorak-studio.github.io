@@ -7,6 +7,7 @@ description: Uma análise de como os sistemas autoritários se mantêm através 
 summary: Esta obra diagnostica a arquitetura do medo dentro dos regimes autoritários, revelando como as hierarquias coercivas consomem os seus próprios participantes e acabam por se tornar estruturalmente frágeis.
 event_date: 2026-01-20T11:00:00
 publication_date: 2026-01-20T11:00:00
+date: 2026-01-20T11:00:00
 lastmod: 2026-01-20T11:00:00
 slug: 03-01-system-diagnosis-vertical-of-fear
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /pt/timeline/
+timeline: /pt/archive/
 ethical_resonance: fear-loses-its-adhesion
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

@@ -6,6 +6,7 @@ title: 001 Reinicialização do Sistema
 description: Um momento de ativação interior silenciosa, onde o sistema já está em funcionamento e a presença já não precisa de anúncios.
 event_date: 2025-06-21T15:00:00
 publication_date: 2025-06-21T15:00:00
+date: 2025-06-21T15:00:00
 tags:
   - SystemReboot
   - CoreRecalibration
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-001-2025-system-reboot.webp
 alt: "Ilustração digital no estilo de uma interface de sistema escura: ecrã em tons de preto e azul-escuro com elementos BIOS e linhas de arranque — 'Initializing…', 'Loading drivers…', 'Reboot complete'. Um botão de energia pressionado. A atmosfera transmite controlo, precisão e silêncio antes do início do trabalho."
 related:
-  - /pt/docs/timeline/
+  - /pt/archive/
   - /pt/docs/core-recalibration/
 weight: 1
 draft: false

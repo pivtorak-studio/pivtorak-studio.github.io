@@ -7,6 +7,7 @@ description: A primeira etapa da Estratégia da Fénix. O fogo purificador encer
 summary: A Fénix aceita o fogo sem receio. A verdadeira renovação começa quando libertamos conscientemente aquilo que já não serve o futuro.
 event_date: 2025-12-01T11:00:00
 publication_date: 2025-12-01T11:00:00
+date: 2025-12-01T11:00:00
 lastmod: 2025-12-01T11:00:00
 slug: 028-flame-of-renewal
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-028-flame-of-renewal.webp
 alt: Fénix serena envolvida por chamas purificadoras no topo de uma formação rochosa, simbolizando transformação consciente, resiliência e o início da renovação.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

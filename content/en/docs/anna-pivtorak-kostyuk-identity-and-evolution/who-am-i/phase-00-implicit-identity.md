@@ -7,6 +7,7 @@ description: A historical interview with Anna Pivtorak, published in Jewelry Bus
 summary: An archival interview from 2008 documenting Anna Pivtorak's thinking, work, education, family, ambitions, values, and professional identity before their later conscious structuring.
 event_date: 2008-12-25T09:00:00
 publication_date: 2008-12-25T09:00:00
+date: 2008-12-25T09:00:00
 lastmod: 2008-12-25T09:00:00
 slug: phase-00-implicit-identity
 tags:
@@ -48,7 +49,7 @@ image: /images/anna-pivtorak-kostyuk-who-am-i-phase-00-implicit-identity.webp
 alt: Magazine cover of Jewelry Business 11–12'2008 featuring Anna Pivtorak, an archival portrait representing Phase 0 — Implicit Identity (2008).
 related:
   - /en/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

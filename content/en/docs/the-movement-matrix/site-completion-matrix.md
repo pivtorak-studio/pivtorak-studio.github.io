@@ -40,7 +40,7 @@ image: /images/site-completion-matrix-site-completion-matrix.webp
 alt: A structured dashboard visualizing the completion status of articles, metadata, publication workflows, and indexing across a multilingual knowledge archive.
 related:
   - /en/docs/the-movement-matrix/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

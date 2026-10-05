@@ -7,6 +7,7 @@ description: Человек становится этическим центро
 summary: Персия утверждает человекоцентричность как цивилизационную доктрину. Государство становится инфраструктурой, служащей человеческому потенциалу.
 event_date: 2026-01-31T13:00:00
 publication_date: 2026-01-31T13:00:00
+date: 2026-01-31T13:00:00
 lastmod: 2026-01-31T13:00:00
 slug: 09-03-global-dimension-human-as-subject
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - freedom
   - security
   - civilization
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Человек — мера всех наших побед.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition
@@ -163,7 +164,7 @@ navigation_order: 09-03
         "@id":"https://pivtorak.studio/#extra-credit-problem-series"
       },
 
-      "url":"https://pivtorak.studio/timeline/"
+      "url":"https://pivtorak.studio/ru/archive/"
     }
 
   ]

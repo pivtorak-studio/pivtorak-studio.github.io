@@ -7,6 +7,7 @@ description: The search is complete. Inspired by the Sahara desert ant Cataglyph
 summary: The third work of the July Cataglyphis cycle completes the architecture of quantum navigation. Once every vector has been integrated, the shortest path emerges naturally from a coherent internal system.
 event_date: 2026-07-04T06:00:00
 publication_date: 2026-07-04T06:00:00
+date: 2026-07-04T06:00:00
 lastmod: 2026-07-04T06:00:00
 slug: 039-direct-return
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-039-direct-return.webp
 alt: A golden Cataglyphis desert ant stands before a perfectly straight beam of light crossing the Sahara, while a network of previous search vectors remains behind.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

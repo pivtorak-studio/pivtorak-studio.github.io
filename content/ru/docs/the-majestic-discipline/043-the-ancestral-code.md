@@ -7,6 +7,7 @@ description: Генетический Код исследует унаследо
 summary: Унаследованный фундамент может направлять нас ещё до начала осознанного опыта. Бабочка-монарх показывает, как жизнь может передавать информацию через поколения, хотя ни одна отдельная особь не проходит весь путь.
 event_date: 2026-09-19T09:00:00
 publication_date: 2026-09-19T09:00:00
+date: 2026-09-19T09:00:00
 lastmod: 2026-09-19T09:00:00
 slug: 043-the-ancestral-code
 tags: [генетический код, бабочка-монарх, генетическое наследие, память поколений, внутренняя устойчивость]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-043-the-ancestral-code.webp
 alt: Бабочка-монарх с оранжево-чёрными крыльями сидит на текстурированном тёмном камне, с тонкими золотыми узорами, напоминающими ДНК, на крыльях и горным пейзажем на заднем плане.
-related: [/ru/docs/the-majestic-discipline/, /ru/docs/timeline/]
+related: [/ru/docs/the-majestic-discipline/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/043-the-ancestral-code/

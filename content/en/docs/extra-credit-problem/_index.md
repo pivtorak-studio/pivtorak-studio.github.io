@@ -48,7 +48,7 @@ alt: A luminous asterisk symbol connecting a world of crisis and a world of rene
 related:
   - /en/docs/independent-researcher-manifesto/
   - /en/docs/the-majestic-discipline/
-  - /en/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

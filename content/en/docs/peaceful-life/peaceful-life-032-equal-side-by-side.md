@@ -7,6 +7,7 @@ description: A reflection on partnership built upon equality, mutual respect, an
 summary: The strongest relationships are built not on power, but on equality.
 event_date: 2026-07-01T16:00:00+01:00
 publication_date: 2026-07-01T16:00:00+01:00
+date: 2026-07-01T16:00:00+01:00
 lastmod: 2026-07-01T16:00:00+01:00
 slug: 032-equal-side-by-side
 tags:
@@ -42,7 +43,7 @@ authors:
   - Anna Pivtorak
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 canonical: https://pivtorak.studio/en/docs/peaceful-life/032-equal-side-by-side/
 weight: 32
 completion: 100

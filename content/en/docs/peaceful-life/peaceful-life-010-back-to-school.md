@@ -7,6 +7,7 @@ description: A new school year begins with curiosity, confidence, and peaceful e
 summary: Backpacks are packed, the road is familiar, and new discoveries await. This article explores the value of education and the joy of beginning a new school year in peace.
 event_date: 2025-09-01T11:00:00
 publication_date: 2025-09-01T11:00:00
+date: 2025-09-01T11:00:00
 lastmod: 2025-09-01T11:00:00
 slug: 010-back-to-school
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-010-back-to-school.webp
 alt: Two primary school children walk confidently toward a modern school building carrying backpacks, beginning a new school year.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/010-back-to-school/

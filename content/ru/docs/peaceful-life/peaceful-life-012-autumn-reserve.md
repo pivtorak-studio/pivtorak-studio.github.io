@@ -7,6 +7,7 @@ description: Осень — время подготовки. Размышлен�
 summary: Белка собирает орехи, природа замедляет свой ритм, а сезон напоминает, что подготовка — это проявление заботы, а не страха.
 event_date: 2025-09-01T13:00:00
 publication_date: 2025-09-01T13:00:00
+date: 2025-09-01T13:00:00
 lastmod: 2025-09-01T13:00:00
 slug: 012-autumn-reserve
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-012-autumn-reserve.webp
 alt: Белка сидит на ветке дерева с орехом среди осенней листвы, готовясь к зиме в спокойной природной среде.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/012-autumn-reserve/

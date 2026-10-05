@@ -25,7 +25,7 @@ featured: true
 image: /images/pivtorak-studio-00-a-conceptual-system-for-the-formation-of-long-term-value-structures-pivtorak-studio-2025.webp
 alt: A conceptual system for the formation of long-term value structures
 related:
-  - /timeline/
+  - /en/archive/
 ---
 
 <link rel="alternate" hreflang="uk" href="https://pivtorak.studio/uk/docs/anna-pivtorak-kostyuk-identity-and-evolution/">

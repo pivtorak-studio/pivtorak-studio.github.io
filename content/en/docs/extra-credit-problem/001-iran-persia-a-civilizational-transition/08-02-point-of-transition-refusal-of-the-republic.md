@@ -7,6 +7,7 @@ description: A civilizational reflection on semantic liberation, where Persia di
 summary: "After establishing continuity and legitimacy, Persia rejects the false label of 'Republic' that concealed authoritarian rule. This work explores the restoration of semantic honesty, where the name of the state must correspond to its true essence: freedom."
 event_date: 2026-01-29T12:00:00
 publication_date: 2026-01-29T12:00:00
+date: 2026-01-29T12:00:00
 lastmod: 2026-01-29T12:00:00
 slug: 08-02-point-of-transition-refusal-of-the-republic
 tags:
@@ -85,7 +86,7 @@ related_domains:
   - governance
   - memory
   - political_design
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: The name must match the essence. No more masks.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

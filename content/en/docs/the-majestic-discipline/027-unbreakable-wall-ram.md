@@ -7,6 +7,7 @@ description: "A bear in full motion becomes a symbol of unbreakable resolve, dis
 summary: "The third stage of the European Bear strategy: decisive action, resilient defense, and the disciplined application of power."
 event_date: 2025-11-20T13:00:00
 publication_date: 2025-11-20T13:00:00
+date: 2025-11-20T13:00:00
 lastmod: 2025-11-20T13:00:00
 slug: 027-unbreakable-wall-ram
 tags: [Unbreakable, Wall, Ram, Bear, EuropeanBear, Strategy, Discipline, Resilience, Defense, Action, TheMajesticDiscipline]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-027-unbreakable-wall-ram.webp
 alt: "A bear in powerful motion: either smashing a stone barrier with its paw or standing in a massive defensive stance resembling an unmovable wall. Around it — wind, debris, and dynamic air currents highlighting the force of impact or the immovability of its position."
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: ["Anna Pivtorak"]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/027-unbreakable-wall-ram/

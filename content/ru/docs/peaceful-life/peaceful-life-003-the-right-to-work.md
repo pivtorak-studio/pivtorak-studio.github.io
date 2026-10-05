@@ -7,6 +7,7 @@ description: Возможность зарабатывать на жизнь —
 summary: Труд — это больше, чем доход. Это участие, творчество, ответственность и независимость. Эта статья исследует право на труд как основу мирной жизни.
 event_date: 2025-06-01T13:00:00
 publication_date: 2025-06-01T13:00:00
+date: 2025-06-01T13:00:00
 lastmod: 2025-06-01T13:00:00
 slug: 003-the-right-to-work
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-003-the-right-to-work.webp
 alt: Молодые люди работают вместе в мирной обстановке, создавая ценность для общества через сотрудничество и труд.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

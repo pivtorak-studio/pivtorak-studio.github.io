@@ -7,6 +7,7 @@ description: Uma tartaruga marinha regressa à praia onde a sua viagem começou,
 summary: A terceira etapa da Estratégia da Tartaruga Marinha explora o ponto de retorno como a convergência entre a navegação interior e a realidade, onde décadas de fidelidade se tornam identidade realizada.
 event_date: 2026-01-07T13:00:00
 publication_date: 2026-01-07T13:00:00
+date: 2026-01-07T13:00:00
 lastmod: 2026-01-07T13:00:00
 slug: 033-point-of-return-identity
 tags:
@@ -44,7 +45,7 @@ image: /images/the-majestic-discipline-033-point-of-return-identity.webp
 alt: Uma majestosa tartaruga marinha emerge do oceano noturno para uma praia tranquila sob as estrelas, concluindo a sua viagem de toda uma vida até ao lugar de origem.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

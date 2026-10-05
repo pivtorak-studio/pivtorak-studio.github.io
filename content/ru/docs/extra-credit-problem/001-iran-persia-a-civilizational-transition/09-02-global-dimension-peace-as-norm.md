@@ -7,6 +7,7 @@ description: Мир становится активной архитектуро
 summary: Персия предлагает новую модель региональной безопасности, в которой мир функционирует как инфраструктура. Арбитраж заменяет экспансию, легитимность заменяет скрытое влияние, а стабильность становится сознательно спроектированной нормой.
 event_date: 2026-01-30T12:00:00
 publication_date: 2026-01-30T12:00:00
+date: 2026-01-30T12:00:00
 lastmod: 2026-01-30T12:00:00
 slug: 09-02-global-dimension-peace-as-norm
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Сила, которая созидает, а не разрушает.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition
@@ -161,7 +162,7 @@ navigation_order: 09-02
         "@id":"https://pivtorak.studio/#extra-credit-problem-series"
       },
 
-      "url":"https://pivtorak.studio/timeline/"
+      "url":"https://pivtorak.studio/ru/archive/"
     }
 
   ]

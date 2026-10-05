@@ -7,6 +7,7 @@ description: "Етичний та методологічний кодекс Pivt
 summary: "Код поведінки формалізує поведінкову основу методології Pivtorak.Studio. Він закріплює якість як передумову, присутність як дисципліну, структуру як пріоритет, а відповідальність — як незмінний авторський підпис."
 event_date: 2026-04-29T11:00:00
 publication_date: 2026-04-29T11:00:00
+date: 2026-04-29T11:00:00
 lastmod: 2026-04-29T11:00:00
 slug: 005-pivtorak-studio-diamond-code-of-conduct
 tags: [код-поведінки, методологія, якість, відповідальність, присутність, структура, трансформація, системне-мислення, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp
 alt: "Геометричний діамант із білим птахом у центрі, оточений чотирма принципами: якість, присутність, структура та відповідальність."
-related: [/uk/docs/pivtorak-studio/, /uk/docs/timeline/]
+related: [/uk/docs/pivtorak-studio/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/pivtorak-studio/005-pivtorak-studio-diamond-code-of-conduct/

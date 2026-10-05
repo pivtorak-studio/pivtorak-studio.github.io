@@ -27,7 +27,7 @@ featured: true
 image: /images/pivtorak-studio-the-formula-of-transformation.webp
 alt: "Mapa conceptual da Fórmula da Transformação da Pivtorak.Studio"
 
-related: [/pt/docs/pivtorak-studio/, /pt/docs/timeline/]
+related: [/pt/docs/pivtorak-studio/, /pt/archive/]
 
 authors: [Anna Pivtorak]
 

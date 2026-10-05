@@ -7,6 +7,7 @@ description: Peace becomes an active architecture of regional stability. Persia 
 summary: Persia proposes a new regional security model in which peace functions as infrastructure. Arbitration replaces expansion, legitimacy replaces covert influence, and stability becomes a consciously engineered norm.
 event_date: 2026-01-30T12:00:00
 publication_date: 2026-01-30T12:00:00
+date: 2026-01-30T12:00:00
 lastmod: 2026-01-30T12:00:00
 slug: 09-02-global-dimension-peace-as-norm
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Power that builds, not destroys.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition
@@ -215,7 +216,7 @@ navigation_order: 09-02
         "@id":"https://pivtorak.studio/#extra-credit-problem-series"
       },
 
-      "url":"https://pivtorak.studio/timeline/",
+      "url":"https://pivtorak.studio/en/archive/",
 
       "keywords":[
         "Persia 2.0",

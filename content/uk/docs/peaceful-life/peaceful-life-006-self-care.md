@@ -7,6 +7,7 @@ description: Відпочинок — це не нагорода. Роздуми
 summary: Іноді найважливіша дія — це зупинитися. Ця стаття досліджує турботу про себе як форму поваги, відновлення та сталого способу життя.
 event_date: 2025-07-01T13:00:00
 publication_date: 2025-07-01T13:00:00
+date: 2025-07-01T13:00:00
 lastmod: 2025-07-01T13:00:00
 slug: 006-self-care
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-006-self-care.webp
 alt: Жінка спокійно сидить на веранді з видом на квітуче поле, насолоджуючись тишею та роздумами про майбутнє.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

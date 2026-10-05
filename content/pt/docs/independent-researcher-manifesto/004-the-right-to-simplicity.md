@@ -7,6 +7,7 @@ description: Um manifesto que afirma a simplicidade como a finalidade última da
 summary: "A simplicidade não é a ausência de complexidade, mas a sua forma mais elevada e integrada. Qualquer sistema existe, em última análise, para proteger as condições fundamentais da vida: lar, infância, paz, segurança e dignidade humana."
 event_date: 2026-06-08T15:00:00
 publication_date: 2026-06-08T15:00:00
+date: 2026-06-08T15:00:00
 lastmod: 2026-06-08T15:00:00
 slug: 004-the-right-to-simplicity
 tags:
@@ -46,7 +47,7 @@ image: /images/independent-researcher-manifesto-004-the-right-to-simplicity.webp
 alt: Estruturas geométricas encaixadas protegendo um núcleo luminoso centrado no ser humano, simbolizando a complexidade ao serviço da simplicidade.
 related:
   - /pt/docs/independent-researcher-manifesto/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

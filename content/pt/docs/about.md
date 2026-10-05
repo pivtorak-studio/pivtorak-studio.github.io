@@ -6,6 +6,7 @@ title: "Anna Pivtorak (Kostyuk) — Página Oficial"
 description: "Biografia oficial de Anna Pivtorak (Kostyuk) — investigadora, autora de projetos culturais e fundadora do Pivtorak.Studio."
 event_date: 2024-05-08
 publication_date: 2026-05-08
+date: 2026-05-08
 tags:
   - Anna Pivtorak
   - Anna Kostyuk

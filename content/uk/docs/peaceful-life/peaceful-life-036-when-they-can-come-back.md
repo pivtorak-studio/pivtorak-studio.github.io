@@ -6,6 +6,7 @@ title: 036 Коли можна повернутися
 description: Мирне життя починається тоді, коли кожна жива істота може повернутися туди, де можливе життя.
 event_date: 2026-08-12T08:00:00+01:00
 publication_date: 2026-08-12T08:00:00+01:00
+date: 2026-08-12T08:00:00+01:00
 lastmod: 2026-08-12T08:00:00+01:00
 slug: 036-when-they-can-come-back
 tags:
@@ -34,7 +35,7 @@ image: /images/peaceful-life-036-when-they-can-come-back.webp
 alt: Сім’я лелек повертається до спокійного сільського краєвиду на світанку. Один лелека стоїть у гнізді, а інший наближається в польоті; навколо зелені поля, тиха вода й м’яке ранкове світло.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /uk/docs/peaceful-life/036-when-they-can-come-back/

@@ -7,6 +7,7 @@ description: Маніфест, що утверджує незавершеніс�
 summary: Незавершеність — не вада, а умова зростання. Живі системи розвиваються через сліди, карти, уточнення та нові виміри розуміння. Дослідження залишається живим, поки залишається відкритим.
 event_date: 2026-06-09T09:00:00
 publication_date: 2026-06-09T09:00:00
+date: 2026-06-09T09:00:00
 lastmod: 2026-06-09T09:00:00
 slug: 005-the-right-to-incompleteness
 tags:
@@ -44,7 +45,7 @@ image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.
 alt: Відкрита геометрична структура, що розгортається у новий вимір, символізуючи еволюцію, тяглість та силу незавершеності.
 related:
   - /uk/docs/independent-researcher-manifesto/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -16,6 +16,133 @@
 
 
 /* =========================================================
+   VISUAL ARCHIVE — TIMELINE
+   ========================================================= */
+
+.visual-archive {
+  position: relative;
+  margin: 3rem 0;
+  padding-left: 2.5rem;
+}
+
+/* Vertical timeline axis */
+.visual-archive::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0.5rem;
+  width: 1px;
+  background: var(--gray-300);
+}
+
+.visual-archive-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: 8rem minmax(0, 1fr);
+  gap: 1.5rem;
+  margin: 0 0 3.5rem;
+  min-width: 0;
+}
+
+/* Timeline point */
+.visual-archive-card::before {
+  content: "";
+  position: absolute;
+  left: -2.04rem;
+  top: 0.35rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border: 2px solid var(--body-font-color);
+  border-radius: 50%;
+  background: var(--body-background);
+  box-sizing: border-box;
+}
+
+/* Date */
+.visual-archive-card__date {
+  display: block;
+  padding-top: 0.15rem;
+  color: var(--gray-600);
+  font-size: 0.82rem;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+/* Image */
+.visual-archive-card__image {
+  display: block;
+  max-width: 34rem;
+  aspect-ratio: 1 / 1;
+  align-self: start;
+  overflow: hidden;
+  border: 1px solid var(--gray-200);
+}
+
+.visual-archive-card__image img {
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  float: none !important;
+  object-fit: cover;
+}
+
+/* Information */
+.visual-archive-card__body {
+  padding-top: 0;
+}
+
+.visual-archive-card__title {
+  margin: 0 !important;
+  margin-bottom: 0.45rem;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
+.visual-archive-card__title a {
+  color: var(--body-font-color);
+  text-decoration: none;
+}
+
+.visual-archive-card__title a:hover {
+  color: var(--color-link);
+}
+
+.visual-archive-card__meta {
+  margin: 0.2rem 0 0;
+  color: var(--gray-600);
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+/* Mobile */
+@media screen and (max-width: 40rem) {
+  .visual-archive {
+    padding-left: 1.75rem;
+  }
+
+  .visual-archive-card {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .visual-archive-card::before {
+    left: -1.29rem;
+  }
+
+  .visual-archive-card__image {
+    max-width: none;
+  }
+
+  .visual-archive-card__body {
+    padding-top: 0;
+  }
+}
+
+
+/* =========================================================
    2. MENU ICONS
    ---------------------------------------------------------
    Keep custom menu icons compact and aligned with text.
@@ -288,4 +415,16 @@
 .book-brand img {
     height: 56px !important;
     width: auto !important;
+}
+
+/* =========================
+   Visual Archive
+   ========================= */
+
+.visual-archive-card {
+  border-radius: 8px;
+}
+
+.visual-archive-card__image {
+  border-radius: 8px;
 }

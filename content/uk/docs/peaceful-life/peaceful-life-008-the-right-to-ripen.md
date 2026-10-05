@@ -7,6 +7,7 @@ description: Для зростання потрібен час. Роздуми �
 summary: Поля не поспішають. Пори року не змагаються. Ця стаття досліджує ідею того, що життя заслуговує на час і безпеку, необхідні для досягнення зрілості.
 event_date: 2025-08-01T12:00:00
 publication_date: 2025-08-01T12:00:00
+date: 2025-08-01T12:00:00
 lastmod: 2025-08-01T12:00:00
 slug: 008-the-right-to-ripen
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-008-the-right-to-ripen.webp
 alt: Спокійне золоте поле під літнім небом. Дозрілі колоски м’яко коливаються на вітрі, символізуючи терпіння, зростання та завершення природного циклу.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/008-the-right-to-ripen/

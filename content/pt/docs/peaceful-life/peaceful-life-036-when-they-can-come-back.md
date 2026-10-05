@@ -6,6 +6,7 @@ title: 036 Quando podem voltar
 description: Uma vida em paz começa quando cada ser vivo pode regressar a um lugar onde a vida é possível.
 event_date: 2026-08-12T08:00:00+01:00
 publication_date: 2026-08-12T08:00:00+01:00
+date: 2026-08-12T08:00:00+01:00
 lastmod: 2026-08-12T08:00:00+01:00
 slug: 036-when-they-can-come-back
 tags:
@@ -34,7 +35,7 @@ image: /images/peaceful-life-036-when-they-can-come-back.webp
 alt: Uma família de cegonhas regressa a uma paisagem rural tranquila ao amanhecer. Uma cegonha está no ninho enquanto outra se aproxima em voo, rodeadas por campos verdes, água calma e uma suave luz matinal.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/036-when-they-can-come-back/

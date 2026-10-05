@@ -27,7 +27,7 @@ featured: true
 image: /images/independent-researcher-manifesto.webp
 alt: "Центральна резонансна структура оточена пов’язаними томами маніфестів, що представляють послідовні вузли єдиної дослідницької системи."
 
-related: ["/uk/timeline/"]
+related: ["/uk/archive/"]
 authors: ["Anna Pivtorak"]
 
 draft: false

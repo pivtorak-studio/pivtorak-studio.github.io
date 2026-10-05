@@ -11,6 +11,7 @@ summary: "От одной завершённой работы в день к в�
 
 event_date: 2026-06-30T17:00:00+01:00
 publication_date: 2026-06-30T17:00:00+01:00
+date: 2026-06-30T17:00:00+01:00
 lastmod: 2026-06-30T17:00:00+01:00
 
 tags: [Эволюция Масштаба, Единица Мышления, Системное Мышление, Броуновское Движение, Творческий Процесс, Архитектура Исследований, Перекалибровка Ядра, Независимые Исследования]
@@ -26,7 +27,7 @@ featured: true
 image: /images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp
 alt: "Инфографика «Эволюция Масштаба», показывающая переход от ежедневной творческой работы к автономной исследовательской программе через системную эволюцию единицы мышления."
 
-related: [/ru/docs/core-recalibration/, /ru/docs/timeline/]
+related: [/ru/docs/core-recalibration/, /ru/archive/]
 
 authors: [Anna Pivtorak]
 

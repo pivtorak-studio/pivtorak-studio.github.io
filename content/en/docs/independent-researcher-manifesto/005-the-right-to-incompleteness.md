@@ -7,6 +7,7 @@ description: A manifesto affirming incompleteness as the natural condition of li
 summary: Incompleteness is not a flaw but a condition for growth. Living systems evolve through traces, maps, revisions, and new dimensions of understanding. Research remains alive when it remains open.
 event_date: 2026-06-09T09:00:00
 publication_date: 2026-06-09T09:00:00
+date: 2026-06-09T09:00:00
 lastmod: 2026-06-09T09:00:00
 slug: 005-the-right-to-incompleteness
 tags:
@@ -44,7 +45,7 @@ image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.
 alt: An open geometric structure expanding into a new dimension, symbolizing evolution, continuity, and the power of incompleteness.
 related:
   - /en/docs/independent-researcher-manifesto/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

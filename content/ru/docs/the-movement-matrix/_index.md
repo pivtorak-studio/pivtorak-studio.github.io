@@ -39,7 +39,7 @@ image: /images/the-movement-matrix.webp
 alt: Светящаяся сеть, напоминающая созвездие, расходится от центрального символа, представляя живую систему знаний, объединяющую статьи, переводы, метаданные и развивающиеся структуры.
 related:
   - /ru/docs/the-movement-matrix/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -120,7 +120,6 @@ _Матрица Движения. AP | Pivtorak.Studio. 05.06.2026_
 ---
 
 {{< section >}}
-
 
 
 

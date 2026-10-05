@@ -11,6 +11,7 @@ summary: "Від однієї завершеної роботи на день д
 
 event_date: 2026-06-30T17:00:00+01:00
 publication_date: 2026-06-30T17:00:00+01:00
+date: 2026-06-30T17:00:00+01:00
 lastmod: 2026-06-30T17:00:00+01:00
 
 tags: [Еволюція Масштабу, Одиниця Мислення, Системне Мислення, Броунівський Рух, Творчий Процес, Архітектура Досліджень, Перекалібрування Ядра, Незалежні Дослідження]
@@ -26,7 +27,7 @@ featured: true
 image: /images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp
 alt: "Інфографіка «Еволюція Масштабу», що демонструє перехід від щоденної творчої роботи до автономної дослідницької програми через системну еволюцію одиниці мислення."
 
-related: [/uk/docs/core-recalibration/, /uk/docs/timeline/]
+related: [/uk/docs/core-recalibration/, /uk/archive/]
 
 authors: [Anna Pivtorak]
 

@@ -39,7 +39,7 @@ featured: true
 image: /images/calculators.webp
 alt: Мінімалістична геометрична ілюстрація, що представляє колекцію калькуляторів Pivtorak.Studio.
 related:
-  - /uk/timeline/
+  - /uk/archive/
   - /uk/docs/converters/
   - /uk/docs/templates/
 authors:

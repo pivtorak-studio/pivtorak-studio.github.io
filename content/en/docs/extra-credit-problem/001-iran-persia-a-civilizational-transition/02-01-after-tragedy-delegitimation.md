@@ -7,6 +7,7 @@ description: Analysis of the process through which a captured state loses the le
 summary: Examination of how criminal governance disguises itself as lawful administration and how legitimacy is dismantled through accurate naming.
 event_date: 2026-01-18T11:00:00
 publication_date: 2026-01-18T11:00:00
+date: 2026-01-18T11:00:00
 lastmod: 2026-01-18T11:00:00
 slug: 02-01-after-tragedy-delegitimation
 tags:
@@ -70,7 +71,7 @@ related_domains:
   - ethics
   - political_design
   - institutional_analysis
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: A name is only camouflage for a crime.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

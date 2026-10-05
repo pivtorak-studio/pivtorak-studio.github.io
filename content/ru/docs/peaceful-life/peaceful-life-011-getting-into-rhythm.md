@@ -7,6 +7,7 @@ description: После летней паузы начинается новый 
 summary: Чистый рабочий стол, утренний кофе, блокнот и новый проект. Эта статья исследует ценность осмысленного труда и мирного возвращения к продуктивному ритму.
 event_date: 2025-09-01T12:00:00
 publication_date: 2025-09-01T12:00:00
+date: 2025-09-01T12:00:00
 lastmod: 2025-09-01T12:00:00
 slug: 011-getting-into-rhythm
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-011-getting-into-rhythm.webp
 alt: Аккуратное рабочее место с ноутбуком, блокнотом и утренним кофе, символизирующее спокойное возвращение к работе и обучению.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/011-getting-into-rhythm/

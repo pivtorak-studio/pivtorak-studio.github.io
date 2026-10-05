@@ -6,6 +6,7 @@ description: Размышление о тихой силе природы, гд�
 summary: Зимний лес — не пустое место, а живое сообщество заботы. Каждое существо создаёт тепло, доверие и чувство принадлежности внутри природной гармонии.
 event_date: 2025-12-02T12:00:00
 publication_date: 2025-12-02T12:00:00
+date: 2025-12-02T12:00:00
 lastmod: 2025-12-02T12:00:00
 slug: 020-the-forest-that-protects
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-020-the-forest-that-protects.webp
 alt: Лиса свернулась клубком под елью в заснеженном лесу. Сквозь ветви проходит мягкий свет, создавая ощущение тепла, безопасности и защиты.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

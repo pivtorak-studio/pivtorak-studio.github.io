@@ -7,6 +7,7 @@ description: Медведь в полном движении становитс�
 summary: "Третий этап стратегии Европейского Медведя: решительное действие, стойкая защита и дисциплинированное применение силы."
 event_date: 2025-11-20T13:00:00
 publication_date: 2025-11-20T13:00:00
+date: 2025-11-20T13:00:00
 lastmod: 2025-11-20T13:00:00
 slug: 027-unbreakable-wall-ram
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-027-unbreakable-wall-ram.webp
 alt: "Медведь в мощном движении: либо разрушает каменную преграду лапой, либо стоит в массивной защитной стойке, подобной непроходимой стене. Вокруг — ветер, обломки, динамика воздуха, подчёркивающие силу удара или устойчивость позиции."
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

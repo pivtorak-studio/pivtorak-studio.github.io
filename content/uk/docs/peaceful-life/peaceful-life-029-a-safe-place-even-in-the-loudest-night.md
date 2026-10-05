@@ -7,6 +7,7 @@ description: Роздуми про безпеку, вразливість, сп�
 summary: Натхненне порятунком молодої косулі, що застрягла під автомобілем у Києві після важкої ночі обстрілів, це есе досліджує спільну для всіх живих істот потребу у захисті, безпеці та мирі.
 event_date: 2026-06-03T14:00:00+01:00
 publication_date: 2026-06-03T14:00:00+01:00
+date: 2026-06-03T14:00:00+01:00
 lastmod: 2026-06-03T14:00:00+01:00
 slug: 029-a-safe-place-even-in-the-loudest-night
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp
 alt: Молода косуля ховається під старим білим автомобілем, а над сценою здіймається символічний купол миру, що уособлює безпеку, співчуття та надію.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

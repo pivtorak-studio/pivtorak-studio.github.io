@@ -7,6 +7,7 @@ description: The Lion and the Sun return as living symbols of sovereign energy. 
 summary: A civilizational restoration where the Lion and the Sun reconnect people to their own source of energy, transforming fear into presence and dependency into sovereignty.
 event_date: 2026-01-27T12:00:00
 publication_date: 2026-01-27T12:00:00
+date: 2026-01-27T12:00:00
 lastmod: 2026-01-27T12:00:00
 slug: 07-02-revival-of-identity-the-right-to-ones-own-energy-shir-o-khorshid
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-02-revival-of-identity-the-right-to-ones-own-energy-shir-o-khorshid.webp
 alt: A powerful lion stands on the ruins of a destroyed city. Behind it, a large sun rises, its rays piercing the smoke and illuminating the surrounding space.
 related:
-  - /timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - ethics
   - civilization
   - memory
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: The Sun of Persia did not go out; it was simply waiting for the dawn.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

@@ -7,6 +7,7 @@ description: When the inner vector remains precise, the search for a destination
 summary: A stable inner vector gives movement a precise destination. When intention, orientation, and action converge, the surrounding field begins to reveal a path toward the point of return.
 event_date: 2026-08-27T12:00:00
 publication_date: 2026-08-27T12:00:00
+date: 2026-08-27T12:00:00
 lastmod: 2026-08-27T12:00:00
 slug: 042-the-inevitable-return
 tags: [the-majestic-discipline, homing-pigeon, navigation, magnetoreception, orientation, focus, intention, return]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-042-the-inevitable-return.webp
 alt: A homing pigeon folds its wings as it descends toward a golden architectural sphere above the clouds, with a straight luminous trajectory behind it and golden lines converging toward the same point.
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/042-the-inevitable-return/

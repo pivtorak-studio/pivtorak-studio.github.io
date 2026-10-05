@@ -6,6 +6,7 @@ title: "008 Публічна Незавершеність. Архітектур�
 description: Філософське та архітектурне осмислення структурованої незавершеності, прозорої розробки та суверенних цифрових екосистем, які розвиваються публічно без приховування чернеток, нестабільності чи процесів реконструкції.
 event_date: 2026-05-26T21:00:00
 publication_date: 2026-05-27T10:00:00
+date: 2026-05-27T10:00:00
 tags:
   - CoreRecalibration
   - СуверенніСистеми
@@ -27,7 +28,7 @@ related:
   - /uk/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /uk/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /uk/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
-  - /uk/docs/timeline/
+  - /uk/archive/
 weight: 8
 draft: false
 toc: true

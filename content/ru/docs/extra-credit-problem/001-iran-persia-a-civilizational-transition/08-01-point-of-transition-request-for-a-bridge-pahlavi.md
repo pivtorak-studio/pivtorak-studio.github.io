@@ -7,6 +7,7 @@ description: Цивилизационное исследование преем�
 summary: После разрушения страха и восстановления идентичности Персия сталкивается с опасным вакуумом власти. Работа исследует Пахлави как механизм преемственности между памятью о Кире Великом и современными демократическими институтами.
 event_date: 2026-01-29T11:00:00
 publication_date: 2026-01-29T11:00:00
+date: 2026-01-29T11:00:00
 lastmod: 2026-01-29T11:00:00
 slug: 08-01-point-of-transition-request-for-a-bridge-pahlavi
 tags:
@@ -85,7 +86,7 @@ related_domains:
   - memory
   - democracy
   - political_design
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Мост между величием прошлого и свободой будущего.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

@@ -7,6 +7,7 @@ description: Природа заслуговує на спокійні пори 
 summary: Сонячне світло проходить крізь осіннє листя, зайчик відпочиває серед трави, а природа слідує власному ритму. Ця стаття досліджує цінність сезонного спокою.
 event_date: 2025-10-13T12:00:00
 publication_date: 2025-10-13T12:00:00
+date: 2025-10-13T12:00:00
 lastmod: 2025-10-13T12:00:00
 slug: 014-the-right-to-a-warm-autumn
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-014-the-right-to-a-warm-autumn.webp
 alt: Зайчик спокійно сидить серед осіннього листя у теплому лісі, освітленому м’яким сонячним світлом.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/014-the-right-to-a-warm-autumn/

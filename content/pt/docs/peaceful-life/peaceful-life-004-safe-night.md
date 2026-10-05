@@ -7,6 +7,7 @@ description: Uma noite tranquila ao ar livre deve ser vivida com amizade, conver
 summary: À volta de uma fogueira, as pessoas partilham histórias, risos e silêncio. Este artigo explora o direito de sentir segurança durante a noite e o valor da confiança na vida pacífica.
 event_date: 2025-07-01T11:00:00
 publication_date: 2025-07-01T11:00:00
+date: 2025-07-01T11:00:00
 lastmod: 2025-07-01T11:00:00
 slug: peaceful-life-004-safe-night-circle-of-trust
 tags:
@@ -33,11 +34,11 @@ series_index: 4
 country: PT
 status: published
 featured: true
-image: /images/peaceful-life-peaceful-life-004-safe-night-circle-of-trust.webp
+image: /images/peaceful-life-004-safe-night-circle-of-trust.webp
 alt: Pessoas sentadas à volta de uma fogueira sob um céu tranquilo de verão, partilhando uma noite de confiança e segurança.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

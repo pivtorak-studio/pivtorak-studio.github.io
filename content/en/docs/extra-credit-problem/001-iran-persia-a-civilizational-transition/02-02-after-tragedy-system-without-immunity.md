@@ -7,6 +7,7 @@ description: Analysis of a state structure that has lost its ability to resist i
 summary: A diagnosis of institutional permeability, where violence encounters no resistance because the architecture itself no longer distinguishes between protection and threat.
 event_date: 2026-01-19T12:00:00
 publication_date: 2026-01-19T12:00:00
+date: 2026-01-19T12:00:00
 lastmod: 2026-01-19T12:00:00
 slug: 02-02-after-tragedy-system-without-immunity
 tags:
@@ -75,7 +76,7 @@ related_domains:
   - security
   - law
   - civilization
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Where there is no structure, evil becomes the law.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

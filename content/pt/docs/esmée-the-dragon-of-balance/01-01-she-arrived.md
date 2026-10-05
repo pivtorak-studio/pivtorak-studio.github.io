@@ -4,6 +4,7 @@ title: "01.01 🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta"
 weight: 1
 event_date: 2025-05-16T10:00:00 # Data do evento (formulação da estrutura)
 publication_date: 2025-05-16 # Data de publicação
+date: 2025-05-16 # Data de publicação
 event_type: transformation
 ---
 

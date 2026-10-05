@@ -44,7 +44,7 @@ image: /images/the-majestic-discipline.webp
 alt: A symbolic atlas of discipline represented through animals, birds, insects, planetary navigation, and the central sign ⊙.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -8,6 +8,7 @@ description: "Манифест, утверждающий незавершённ�
 summary: "Незавершённость — не недостаток, а условие роста. Живые системы развиваются через следы, карты, уточнения и новые измерения понимания. Исследование остаётся живым, пока остаётся открытым."  
 event_date: 2026-06-09T12:00:00  
 publication_date: 2026-06-09T12:00:00  
+date: 2026-06-09T12:00:00
 lastmod: 2026-06-09T12:00:00  
 slug: 005-the-right-to-incompleteness  
 tags: [независимый-исследователь, манифест, незавершённость, эволюция, живые-системы, культура-исследования, открытая-структура, суверенность, дизайн-знания]  
@@ -20,7 +21,7 @@ status: published
 featured: true  
 image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.webp  
 alt: "Открытая геометрическая структура, расширяющаяся в новое измерение, символизирующая эволюцию, преемственность и силу незавершённости."  
-related: [/ru/docs/independent-researcher-manifesto/, /ru/docs/timeline/]  
+related: [/ru/docs/independent-researcher-manifesto/, /ru/archive/]
 authors: [Anna Pivtorak]  
 draft: false  
 canonical: [https://pivtorak.studio/ru/docs/independent-researcher-manifesto/005-the-right-to-incompleteness/] 

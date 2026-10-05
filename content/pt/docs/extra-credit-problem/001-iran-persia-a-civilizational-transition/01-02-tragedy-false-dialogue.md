@@ -7,6 +7,7 @@ description: Surdez estrutural como mecanismo de governação autoritária.
 summary: Análise de sistemas de comunicação simulados onde o diálogo existe formalmente, mas sem qualquer capacidade de receção ou resposta ética.
 event_date: 2026-01-17T12:00:00
 publication_date: 2026-01-17T12:00:00
+date: 2026-01-17T12:00:00
 lastmod: 2026-01-17T12:00:00
 slug: 01-02-tragedy-false-dialogue
 tags:
@@ -79,7 +80,7 @@ manifesto_type: verdict
 project: ExtraCreditProblem
 project_stage: tragedy
 navigation_order: 2
-timeline: /timeline/
+timeline: /pt/archive/
 research_origin: Portugal
 ---
 

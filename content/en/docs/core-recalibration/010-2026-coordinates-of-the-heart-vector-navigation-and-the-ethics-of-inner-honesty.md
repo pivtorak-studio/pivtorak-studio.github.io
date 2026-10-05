@@ -7,6 +7,7 @@ description: A sovereign model of decision-making where the heart determines dir
 summary: The heart answers 'Where?'. The mind answers 'How?'. Core Recalibration begins when absence of energy is recognized as a system signal rather than a personal failure.
 event_date: 2026-05-30T18:00:00
 publication_date: 2026-05-30T18:00:00
+date: 2026-05-30T18:00:00
 lastmod: 2026-05-30T18:00:00
 tags:
   - Core Recalibration
@@ -48,7 +49,7 @@ related:
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /en/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /en/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
-  - /en/docs/timeline/
+  - /en/archive/
   - /en/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
 authors:
   - Anna Pivtorak

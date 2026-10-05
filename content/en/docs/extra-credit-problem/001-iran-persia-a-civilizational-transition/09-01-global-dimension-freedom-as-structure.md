@@ -7,6 +7,7 @@ description: Freedom becomes a state architecture. Persia transforms into an ope
 summary: Persia proposes a new global model in which freedom functions as infrastructure. Open protocols, transparent institutions, and visible systemic flows create stability through openness rather than force.
 event_date: 2026-01-30T11:00:00
 publication_date: 2026-01-30T11:00:00
+date: 2026-01-30T11:00:00
 lastmod: 2026-01-30T11:00:00
 slug: 09-01-global-dimension-freedom-as-structure
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - freedom
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Freedom is not chaos; it is the highest order.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition

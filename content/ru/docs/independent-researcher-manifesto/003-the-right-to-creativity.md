@@ -9,6 +9,7 @@ summary: "Этот манифест рассматривает творчест�
 
 event_date: 2026-04-12T11:00:00
 publication_date: 2026-04-12T11:00:00
+date: 2026-04-12T11:00:00
 lastmod: 2026-04-12T11:00:00
 
 slug: 003-the-right-to-creativity

@@ -4,6 +4,7 @@ title: "02.02 🐉⚖️ ESMÉE. 🌀 Discipline of Balance"
 weight: 5
 event_date: 2025-10-09T11:00:00 # Date of the event 
 publication_date: 2025-10-09 # Publication date
+date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 

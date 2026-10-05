@@ -6,6 +6,7 @@ title: "The Movement Matrix: One Case — One Dimension"
 description: "The Movement Matrix is a local clarity system for highly complex challenges where chaos is replaced by structured movement through five dimensions: Base, Action, Context, Expression, and Status."
 event_date: 2026-05-16T09:00:00
 publication_date: 2026-05-16T11:00:00
+date: 2026-05-16T11:00:00
 tags:
   - movement matrix
   - Path

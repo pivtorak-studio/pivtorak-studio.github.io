@@ -6,6 +6,7 @@ title: 002 Segunda Língua, Primeira Voz
 description: "A língua como canal de presença: uma prática diária que deixa de ser estudo e se transforma em ligação com ritmos, culturas e fluxos humanos."
 event_date: 2025-06-21T16:00:00
 publication_date: 2025-06-21T16:00:00
+date: 2025-06-21T16:00:00
 tags:
   - SecondLanguage
   - FirstVoice
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-002-2025-second-language-first-voice.webp
 alt: "Ilustração digital: ondas estilizadas formadas por diferentes sistemas de escrita — sânscrito, alfabeto latino e cirílico — fluem umas nas outras como um único ritmo. No centro, um stylus toca um tablet, enquanto um feixe simbólico atravessa as palavras. A atmosfera é calma, intuitiva e profundamente humana."
 related:
-  - /pt/docs/timeline/
+  - /pt/archive/
   - /pt/docs/core-recalibration/
 weight: 2
 draft: false

@@ -6,6 +6,7 @@ description: Роздуми про дім як простір внутрішнь
 summary: Спокій не потрібно шукати далеко. Він народжується у щоденних ритуалах, теплому світлі, спільних моментах і простому відчутті дому.
 event_date: 2025-12-02T13:00:00
 publication_date: 2025-12-02T13:00:00
+date: 2025-12-02T13:00:00
 lastmod: 2025-12-02T13:00:00
 slug: 021-home-where-peace-lives
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-021-home-where-peace-lives.webp
 alt: Тепла кімната з м’яким освітленням. На столі стоїть чашка гарячого чаю поруч із пледом, а в каміні тихо горить вогонь, створюючи атмосферу затишку, спокою та зимового тепла.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

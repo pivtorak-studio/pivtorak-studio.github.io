@@ -9,6 +9,7 @@ summary: |
   Візуальне оновлення Pivtorak.Studio несподівано розкрило кібернетичну структуру, що лежить в основі всього проєкту. Стаття представляє модель «Чорного ящика», Оператор Трансформації ℙ та закладає концептуальний фундамент Transformation Framework.
 event_date: 2026-07-21T09:00:00
 publication_date: 2026-07-21T09:00:00
+date: 2026-07-21T09:00:00
 lastmod: 2026-07-21T09:00:00
 slug: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studio
 tags:
@@ -48,7 +49,7 @@ image: /images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of
 alt: Мінімалістичний кібернетичний «Чорний ящик», крізь який проходять бірюзовий вхідний та кораловий вихідний промені, що символізують Оператор Трансформації ℙ Pivtorak.Studio.
 related:
   - /uk/docs/pivtorak-studio/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

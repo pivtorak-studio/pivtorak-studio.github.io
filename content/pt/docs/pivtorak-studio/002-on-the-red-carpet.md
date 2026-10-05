@@ -7,6 +7,7 @@ description: Uma declaração de entrar no próprio caminho sem esperar por auto
 summary: O momento em que a jornada se torna pessoal. O tapete vermelho deixa de simbolizar o sucesso de outra pessoa e transforma-se no caminho criado pelos próprios passos.
 event_date: 2023-07-19T10:00:00
 publication_date: 2025-07-07T10:00:00
+date: 2025-07-07T10:00:00
 lastmod: 2025-07-07T10:00:00
 slug: 002-on-the-red-carpet
 tags: [identidade, transformação, criatividade, autonomia, liberdade, caminho-pessoal, autoria-própria, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-002-on-the-red-carpet.webp
 alt: Uma mulher caminha por uma ciclovia vermelha junto ao oceano com auscultadores. O caminho transforma-se no seu próprio tapete vermelho.
-related: [/pt/docs/pivtorak-studio/, /pt/docs/timeline/]
+related: [/pt/docs/pivtorak-studio/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/pivtorak-studio/002-on-the-red-carpet/

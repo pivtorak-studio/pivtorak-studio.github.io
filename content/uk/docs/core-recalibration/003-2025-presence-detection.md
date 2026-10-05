@@ -6,6 +6,7 @@ title: 003 Виявлення Присутності
 description: Момент, коли тіло, час і рух синхронізуються в єдиній системі, а присутність стає ритмом, який вловлено.
 event_date: 2025-06-21T17:00:00
 publication_date: 2025-06-21T17:00:00
+date: 2025-06-21T17:00:00
 tags:
   - PresenceDetection
   - DesignMoments
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-003-2025-presence-detection.webp
 alt: "Цифрова ілюстрація в мінімалістичному стилі: темний фон, контур годинника з мʼяким світлом, графік пульсу, коло дихання та тонкий жест — як дотик до wristband. Атмосфера передає глибоку концентрацію без напруги."
 related:
-  - /uk/docs/timeline/
+  - /uk/archive/
   - /uk/docs/core-recalibration/
 weight: 3
 draft: false

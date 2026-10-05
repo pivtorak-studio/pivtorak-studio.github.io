@@ -4,6 +4,7 @@ title: "01.02 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores"
 weight: 2
 event_date: 2025-05-16T11:00:00 # Data do evento (formulação da estrutura)
 publication_date: 2025-05-16 # Data de publicação
+date: 2025-05-16 # Data de publicação
 event_type: transformation
 ---
 

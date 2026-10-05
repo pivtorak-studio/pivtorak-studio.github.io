@@ -7,6 +7,7 @@ description: Uma reflexão sobre limites interiores, memória, dignidade e o dir
 summary: Inspirado pelo gesto das ginastas ucranianas durante o Campeonato da Europa de 2026, este ensaio explora o direito humano de preservar um espaço interior livre de símbolos associados à violência, à perda e à agressão.
 event_date: 2026-06-02T21:00:00+01:00
 publication_date: 2026-06-02T21:00:00+01:00
+date: 2026-06-02T21:00:00+01:00
 lastmod: 2026-06-02T21:00:00+01:00
 slug: 028-the-right-not-to-listen-to-an-anthem-of-aggression
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggress
 alt: Jovens ginastas ucranianas com auscultadores durante uma cerimónia de medalhas, envolvidas por uma cúpula simbólica de silêncio que representa dignidade, memória e paz interior.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

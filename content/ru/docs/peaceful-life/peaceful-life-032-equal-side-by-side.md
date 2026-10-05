@@ -7,6 +7,7 @@ description: Размышление о партнёрстве, основанн�
 summary: Самые крепкие отношения строятся не на власти, а на равенстве.
 event_date: 2026-07-01T16:00:00+01:00
 publication_date: 2026-07-01T16:00:00+01:00
+date: 2026-07-01T16:00:00+01:00
 lastmod: 2026-07-01T16:00:00+01:00
 slug: 032-equal-side-by-side
 tags:
@@ -42,7 +43,7 @@ authors:
   - Anna Pivtorak
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/032-equal-side-by-side/
 weight: 32
 completion: 100

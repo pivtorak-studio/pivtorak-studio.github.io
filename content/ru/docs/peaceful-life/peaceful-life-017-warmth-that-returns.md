@@ -7,6 +7,7 @@ description: Размышление о доброте, доверии и теп�
 summary: Настоящее тепло рождается из заботы, доверия и тихого присутствия рядом. То, что мы искренне отдаём другим, часто возвращается тогда, когда особенно необходимо.
 event_date: 2025-11-01T12:00:00
 publication_date: 2025-11-01T12:00:00
+date: 2025-11-01T12:00:00
 lastmod: 2025-11-01T12:00:00
 slug: 017-warmth-that-returns
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-017-warmth-that-returns.webp
 alt: Ребёнок в шарфе сидит рядом с собакой возле небольшого костра. Их общее тепло соединяется со светом огня, создавая атмосферу доверия, уюта и взаимной заботы.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

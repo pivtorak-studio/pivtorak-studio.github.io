@@ -6,6 +6,7 @@ title: "007 Экспонента Взлета. Стратегия вертика
 description: Аналитическое размышление об экспоненциальном когнитивном росте, цифровом суверенитете и стратегическом переходе от институционального сопротивления к автономному вертикальному расширению.
 event_date: 2026-05-22T14:00:00
 publication_date: 2026-05-22T14:00:00
+date: 2026-05-22T14:00:00
 tags:
   - CoreRecalibration
   - СуверенноеПространство
@@ -26,7 +27,7 @@ related:
   - /ru/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /ru/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /ru/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-  - /ru/docs/timeline/
+  - /ru/archive/
 weight: 7
 draft: false
 toc: true

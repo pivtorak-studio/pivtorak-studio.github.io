@@ -6,6 +6,7 @@ title: "005 Pivtorak.Studio & TheJewelry.Business. Code Ownership as a Cognitive
 description: An essay about building an autonomous digital ecosystem through Pivtorak.Studio and TheJewelry.Business, cognitive sovereignty, GitHub architecture, SEO, cybernetic thinking, and the transition from existing inside чужих platforms to owning the code and architecture of one’s own environment.
 event_date: 2026-05-19T15:00:00
 publication_date: 2026-05-19T15:00:00
+date: 2026-05-19T15:00:00
 tags:
   - CoreRecalibration
   - cognitive sovereignty
@@ -27,7 +28,7 @@ alt: "The dual system of sovereignty: Pivtorak.Studio and TheJewelry.Business as
 related:
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-  - /en/docs/timeline/
+  - /en/archive/
 weight: 5
 draft: false
 toc: true

@@ -7,6 +7,7 @@ description: Os animais não são símbolos, mas parte do todo. A sua presença 
 summary: A vigésima sétima obra da série Vida Pacífica reflete sobre a pertença como forma de paz. Um cão a descansar junto à porta torna-se símbolo de continuidade, confiança e da vida partilhada que une os membros da família para além das espécies.
 event_date: 2026-02-01T13:00:00
 publication_date: 2026-02-01T13:00:00
+date: 2026-02-01T13:00:00
 lastmod: 2026-02-01T13:00:00
 slug: 027-those-who-wait-together
 tags:
@@ -50,7 +51,7 @@ image: /images/peaceful-life-027-those-who-wait-together.webp
 alt: Um cão descansa tranquilamente na sua cama junto à porta de entrada de uma casa, rodeado por calor, confiança e um sentimento de pertença.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

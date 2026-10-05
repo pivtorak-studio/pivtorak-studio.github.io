@@ -7,6 +7,7 @@ description: Третій етап Стратегії Фенікса. Пройш
 summary: Справжня трансформація завершується тоді, коли відродження переходить у рух. Фенікс показує, що дисциплінований політ перетворює надію на реальність.
 event_date: 2025-12-01T13:00:00
 publication_date: 2025-12-01T13:00:00
+date: 2025-12-01T13:00:00
 lastmod: 2025-12-01T13:00:00
 slug: 030-rise-to-horizon
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-030-rise-to-horizon.webp
 alt: Величний Фенікс летить над світанковим ландшафтом, залишаючи золотий світловий слід своїх крил, символізуючи відродження, покликання та безмежні горизонти.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -6,6 +6,7 @@ title: "Path: A State Visualization System"
 description: "Path is a state visualization system where each element moves through three phases: ◯ defined, ⊙ in progress, ⨁ verified. Instead of deadline pressure, the system offers clarity of movement."
 event_date: 2026-05-09T10:00:00
 publication_date: 2026-05-15T14:00:00
+date: 2026-05-15T14:00:00
 tags:
   - Path
   - state system

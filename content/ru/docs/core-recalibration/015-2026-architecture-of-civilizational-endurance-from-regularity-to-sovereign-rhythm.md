@@ -8,6 +8,7 @@ description: Исследование интеллектуальной выно�
 summary: От Duolingo Max до гребного тренажёра — эта перекалибровка исследует переход от ежедневной регулярности к суверенному ритму, представляя цивилизационную выносливость как новую парадигму Ultra Deep Work.
 event_date: 2026-06-17T15:00:00+01:00
 publication_date: 2026-06-17T15:00:00+01:00
+date: 2026-06-17T15:00:00+01:00
 lastmod: 2026-06-17T15:00:00+01:00
 tags:
   - ПерекалибровкаЯдра
@@ -47,7 +48,7 @@ image: /images/core-recalibration-015-2026-architecture-of-civilizational-endura
 alt: Цифровая иллюстрация молодой женщины, занимающейся на уличном гребном тренажёре у океана на закате. В чёрных спортивных брюках, белой футболке и больших чёрных наушниках она изображена вдали, а диаграммы, матрицы и символы визуализируют переход от регулярности к суверенному ритму и цивилизационной выносливости.
 related:
   - /ru/docs/core-recalibration/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/ru/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm/

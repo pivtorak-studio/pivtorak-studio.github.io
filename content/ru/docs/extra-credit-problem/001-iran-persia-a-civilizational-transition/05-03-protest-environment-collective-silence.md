@@ -7,6 +7,7 @@ description: Исследование коллективной тишины ка
 summary: Работа исследует коллективную тишину как координированное социальное явление. Она показывает, как совместное присутствие без лозунгов и лидеров лишает авторитарные системы их инструментов репрессии и накапливает преобразующую гражданскую энергию.
 event_date: 2026-01-23T13:00:00
 publication_date: 2026-01-23T13:00:00
+date: 2026-01-23T13:00:00
 lastmod: 2026-01-23T13:00:00
 slug: 05-03-protest-environment-collective-silence
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - social_physics
   - collective_behavior
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Тишина — это рёв океана, готовящегося к приливу.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

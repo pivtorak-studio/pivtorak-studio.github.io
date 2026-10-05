@@ -7,6 +7,7 @@ description: A civilizational reflection on restoring Persia's historical name a
 summary: After dismantling false labels, Persia restores its historical name. This work explores naming as a mechanism of state identity, reconnecting civilizational memory with future democratic statehood.
 event_date: 2026-01-29T13:00:00
 publication_date: 2026-01-29T13:00:00
+date: 2026-01-29T13:00:00
 lastmod: 2026-01-29T13:00:00
 slug: 08-03-point-of-transition-the-true-name-persia
 tags:
@@ -86,7 +87,7 @@ related_domains:
   - memory
   - governance
   - political_design
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: The world once again pronounces our true name.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

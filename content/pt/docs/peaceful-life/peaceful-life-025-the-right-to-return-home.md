@@ -7,6 +7,7 @@ description: O direito de voltar para casa afirma que a segurança começa com a
 summary: A vigésima quinta obra da série Vida Pacífica reflete sobre o regresso a casa como condição fundamental da paz. Uma porta que se abre ao final do dia torna-se símbolo de segurança, continuidade e valor da vida comum.
 event_date: 2026-02-01T11:00:00
 publication_date: 2026-02-01T11:00:00
+date: 2026-02-01T11:00:00
 lastmod: 2026-02-01T11:00:00
 slug: 025-the-right-to-return-home
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-025-the-right-to-return-home.webp
 alt: Uma família regressa a casa ao entardecer. Luz quente atravessa a porta enquanto as chaves são colocadas numa prateleira e uma criança observa por perto.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

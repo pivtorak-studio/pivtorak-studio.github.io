@@ -7,6 +7,7 @@ description: A declaration of stepping onto one's own path without waiting for p
 summary: The moment when the journey becomes personal. The red carpet is no longer a symbol of someone else's success—it becomes the road created by one's own movement.
 event_date: 2023-07-19T10:00:00
 publication_date: 2025-07-07T10:00:00
+date: 2025-07-07T10:00:00
 lastmod: 2025-07-07T10:00:00
 slug: 002-on-the-red-carpet
 tags: [identity, transformation, creativity, autonomy, freedom, personal-path, self-authorship, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-002-on-the-red-carpet.webp
 alt: A woman walks along a red bicycle path by the ocean wearing headphones. The path becomes her own red carpet—a metaphor for choosing an independent creative life.
-related: [/en/docs/pivtorak-studio/, /en/docs/timeline/]
+related: [/en/docs/pivtorak-studio/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/pivtorak-studio/002-on-the-red-carpet/

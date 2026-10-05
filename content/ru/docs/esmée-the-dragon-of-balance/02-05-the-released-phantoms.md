@@ -4,6 +4,7 @@ title: "02.05 🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы"
 weight: 8
 event_date: 2025-10-09T14:00:00 # Дата события 
 publication_date: 2025-10-09 # Дата публикации
+date: 2025-10-09 # Дата публикации
 event_type: transformation
 ---
 

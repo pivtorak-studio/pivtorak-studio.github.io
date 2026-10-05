@@ -7,6 +7,7 @@ description: O direito de continuar criança significa crescer sem ensaiar a per
 summary: A vigésima sexta obra da série Vida Pacífica reflete sobre a infância como um estado protegido de existência. Uma criança a dormir tranquilamente na sua própria cama torna-se símbolo de segurança, continuidade e do direito de crescer sem se adaptar à perda.
 event_date: 2026-02-01T12:00:00
 publication_date: 2026-02-01T12:00:00
+date: 2026-02-01T12:00:00
 lastmod: 2026-02-01T12:00:00
 slug: 026-the-right-to-remain-a-child
 tags:
@@ -50,7 +51,7 @@ image: /images/peaceful-life-026-the-right-to-remain-a-child.webp
 alt: Uma criança dorme tranquilamente na sua própria cama ao lado de um brinquedo favorito e de uma luz suave, rodeada por uma sensação de segurança e presença familiar.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

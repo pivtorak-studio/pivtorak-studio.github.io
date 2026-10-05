@@ -7,6 +7,7 @@ description: Bread, water, and candlelight become symbols of gratitude, presence
 summary: A reflection on simple food as an act of memory, gratitude, and human connection. Bread, water, and light remind us that peace often begins with the simplest things.
 event_date: 2025-11-01T11:00:00
 publication_date: 2025-11-01T11:00:00
+date: 2025-11-01T11:00:00
 lastmod: 2025-11-01T11:00:00
 slug: 016-memory-simple-food
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-016-memory-simple-food.webp
 alt: A candle, bread, and a jug of water on a wooden table. Warm light falls on hands holding a slice of bread, creating an atmosphere of gratitude, peace, and presence.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

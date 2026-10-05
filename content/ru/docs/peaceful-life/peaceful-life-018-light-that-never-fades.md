@@ -7,6 +7,7 @@ description: Размышление о памяти, присутствии и �
 summary: Некоторые виды света никогда не исчезают. Они продолжают жить в памяти, доброте, прощении и в присутствии любви.
 event_date: 2025-11-01T13:00:00
 publication_date: 2025-11-01T13:00:00
+date: 2025-11-01T13:00:00
 lastmod: 2025-11-01T13:00:00
 slug: 018-light-that-never-fades
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-018-light-that-never-fades.webp
 alt: Ночное небо, наполненное звёздами. Белое перо лежит на земле, а над ним летит голубь, создавая атмосферу памяти, присутствия и света, который остаётся.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

@@ -7,6 +7,7 @@ description: A segunda etapa da Estratégia da Fénix. A esperança nasce silenc
 summary: Todo o verdadeiro começo nasce no silêncio. A Fénix ensina que a maior força cresce muitas vezes invisível antes de transformar o mundo.
 event_date: 2025-12-01T12:00:00
 publication_date: 2025-12-01T12:00:00
+date: 2025-12-01T12:00:00
 lastmod: 2025-12-01T12:00:00
 slug: 029-rebirth-and-hope
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-029-rebirth-and-hope.webp
 alt: Um ovo luminoso da Fénix repousa sobre cinzas quentes, envolvido por uma luz suave, simbolizando esperança, renovação e o nascimento silencioso de um novo futuro.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -6,6 +6,7 @@ description: Uma reflexão sobre o lar como lugar de paz interior, calor e prese
 summary: A paz não é algo distante. Ela cresce nos rituais quotidianos, na luz acolhedora, nos momentos partilhados e na simples sensação de estar em casa.
 event_date: 2025-12-02T13:00:00
 publication_date: 2025-12-02T13:00:00
+date: 2025-12-02T13:00:00
 lastmod: 2025-12-02T13:00:00
 slug: 021-home-where-peace-lives
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-021-home-where-peace-lives.webp
 alt: Uma sala acolhedora iluminada por luz suave. Uma chávena de chá quente repousa sobre a mesa ao lado de uma manta, enquanto a lareira brilha calmamente, criando uma atmosfera de conforto, paz e calor de inverno.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

@@ -7,6 +7,7 @@ description: A infância merece calor, segurança e um lugar onde as crianças p
 summary: Uma casa acolhedora, um bom livro, um animal de estimação por perto e a sensação de proteção. Este artigo explora o direito de cada criança crescer rodeada de segurança e gentileza.
 event_date: 2025-10-13T11:00:00
 publication_date: 2025-10-13T11:00:00
+date: 2025-10-13T11:00:00
 lastmod: 2025-10-13T11:00:00
 slug: 013-childhood-must-be-warm
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-013-childhood-must-be-warm.webp
 alt: Duas crianças leem junto a uma lareira numa casa acolhedora, com um animal de estimação por perto e uma atmosfera de segurança e conforto.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/013-childhood-must-be-warm/

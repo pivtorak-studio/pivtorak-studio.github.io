@@ -7,6 +7,7 @@ description: Аналіз руйнування політичної суб’є�
 summary: Ця робота фіксує розпад авторитарної суб’єктності як цивілізаційний перелом. Порожній кабінет, зникаючі символи та невагомі накази демонструють, що диктатура існує лише доти, доки люди залишаються учасниками її мережі відносин.
 event_date: 2026-01-25T12:00:00
 publication_date: 2026-01-25T12:00:00
+date: 2026-01-25T12:00:00
 lastmod: 2026-01-25T12:00:00
 slug: 06-02-desacralization-of-fear-loss-of-subjectivity
 tags:
@@ -43,7 +44,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity.webp
 alt:
 related:
-  - /timeline/
+  - /uk/archive/
   - /docs/extra-credit-problem/
 authors: Anna Pivtorak
 draft: false
@@ -74,7 +75,7 @@ related_domains:
   - ethics
   - identity
   - civilization
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Влада розчиняється тоді, коли люди перестають позичати їй свою згоду.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

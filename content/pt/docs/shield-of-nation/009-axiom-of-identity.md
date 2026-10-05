@@ -4,6 +4,7 @@ title: 009 Axioma Da Identidade
 weight: 9
 event_date: 2025-10-03T12:00:00
 publication_date: 2025-10-03T12:00:00
+date: 2025-10-03T12:00:00
 ---
 
 

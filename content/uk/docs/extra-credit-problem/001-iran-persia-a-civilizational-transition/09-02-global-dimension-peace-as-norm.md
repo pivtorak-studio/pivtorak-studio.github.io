@@ -7,6 +7,7 @@ description: Мир стає активною архітектурою регі�
 summary: Персія пропонує нову модель регіональної безпеки, у якій мир функціонує як інфраструктура. Арбітраж замінює експансію, легітимність замінює прихований вплив, а стабільність стає свідомо спроєктованою нормою.
 event_date: 2026-01-30T12:00:00
 publication_date: 2026-01-30T12:00:00
+date: 2026-01-30T12:00:00
 lastmod: 2026-01-30T12:00:00
 slug: 09-02-global-dimension-peace-as-norm
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Сила, що будує, а не руйнує.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition
@@ -161,7 +162,7 @@ navigation_order: 09-02
         "@id":"https://pivtorak.studio/#extra-credit-problem-series"
       },
 
-      "url":"https://pivtorak.studio/timeline/"
+      "url":"https://pivtorak.studio/uk/archive/"
     }
 
   ]

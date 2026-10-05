@@ -7,6 +7,7 @@ description: Свобода стає державною архітектурою
 summary: Персія пропонує нову глобальну модель, у якій свобода функціонує як інфраструктура. Відкриті протоколи, прозорі інституції та видимі системні потоки створюють стійкість через відкритість, а не через силу.
 event_date: 2026-01-30T11:00:00
 publication_date: 2026-01-30T11:00:00
+date: 2026-01-30T11:00:00
 lastmod: 2026-01-30T11:00:00
 slug: 09-01-global-dimension-freedom-as-structure
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - freedom
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Свобода — це не хаос; це найвищий порядок.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition

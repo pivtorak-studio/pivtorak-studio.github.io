@@ -8,6 +8,7 @@ description: Uma exploração da felicidade como efeito secundário da soberania
 summary: Uma reflexão sobre a transição do excesso de coordenadas sem endereço próprio para um campo soberano. O artigo examina a legalização do cosmos interior, a reabilitação da biografia e o surgimento da felicidade como consequência natural da auto-soberania.
 event_date: 2026-06-14T21:00:00+01:00
 publication_date: 2026-06-14T21:00:00+01:00
+date: 2026-06-14T21:00:00+01:00
 lastmod: 2026-06-14T21:00:00+01:00
 tags:
   - felicidade
@@ -45,7 +46,7 @@ image: /images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happ
 alt: Uma mulher soberana está no centro de um campo luminoso de energia azul e dourada. À sua volta, uma dança de energias liga conhecimento, biografia, fundamentos familiares e pensamento sistémico numa única arquitetura viva. Correntes circulares de energia envolvem o seu corpo sem restrições, simbolizando a legalização do cosmos interior. Um coração radiante brilha dentro de uma estrutura fractal, representando a felicidade não como um destino, mas como um efeito secundário da soberania. A infografia visualiza a transição do excesso de coordenadas sem endereço próprio para um campo soberano chamado Pivtorak.Studio.
 related:
   - /pt/docs/core-recalibration/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty/

@@ -7,6 +7,7 @@ description: Роздуми про тиху силу старшого брата
 summary: Справжня сила полягає не в боротьбі, а в здатності захищати.
 event_date: 2026-07-01T15:00:00+01:00
 publication_date: 2026-07-01T15:00:00+01:00
+date: 2026-07-01T15:00:00+01:00
 lastmod: 2026-07-01T15:00:00+01:00
 slug: 031-brother-superhero
 tags:
@@ -44,7 +45,7 @@ authors:
   - Anna Pivtorak
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/031-brother-superhero/
 weight: 31
 completion: 100

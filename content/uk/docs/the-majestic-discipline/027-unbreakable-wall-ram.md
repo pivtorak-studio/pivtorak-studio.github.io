@@ -7,6 +7,7 @@ description: Ведмідь у повному русі стає символом
 summary: "Третій етап стратегії Європейського Ведмедя: рішуча дія, стійкий захист і дисципліноване застосування сили."
 event_date: 2025-11-20T13:00:00
 publication_date: 2025-11-20T13:00:00
+date: 2025-11-20T13:00:00
 lastmod: 2025-11-20T13:00:00
 slug: 027-unbreakable-wall-ram
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-027-unbreakable-wall-ram.webp
 alt: "Ведмідь у динамічному русі: або з лапою, що розбиває кам'яну перешкоду, або в масивній захисній позі, схожій на живу стіну. Довкола — потужний вітер, уламки, рух повітря, що підкреслюють силу удару чи непорушність позиції."
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

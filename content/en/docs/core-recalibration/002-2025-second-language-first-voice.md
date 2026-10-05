@@ -6,6 +6,7 @@ title: 002 Second Language, First Voice
 description: "Language as a channel of presence: a daily practice that transforms from learning into connection with rhythms, cultures, and human flow."
 event_date: 2025-06-21T16:00:00
 publication_date: 2025-06-21T16:00:00
+date: 2025-06-21T16:00:00
 tags:
   - SecondLanguage
   - FirstVoice
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-002-2025-second-language-first-voice.webp
 alt: "Digital illustration: stylized waves made of different writing systems — Sanskrit, Latin, and Cyrillic — flowing into one another as a unified rhythm. In the center is a stylus touching a tablet, with a symbolic beam of light passing through words. The atmosphere feels calm, intuitive, and deeply human."
 related:
-  - /en/docs/timeline/
+  - /en/archive/
   - /en/docs/core-recalibration/
 weight: 2
 draft: false

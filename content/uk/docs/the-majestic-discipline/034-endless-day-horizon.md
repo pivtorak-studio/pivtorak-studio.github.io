@@ -7,6 +7,7 @@ description: Перший етап шляху арктичної крячки. �
 summary: Арктична крячка слідує за світлом двох півкуль. Нескінченний День Масштабу досліджує ясність, напрямок і дисципліну бачення власної місії в масштабі всієї планети.
 event_date: 2026-06-06T21:00:00
 publication_date: 2026-06-06T21:00:00
+date: 2026-06-06T21:00:00
 lastmod: 2026-06-06T21:00:00
 slug: 034-endless-day-horizon
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-034-endless-day-horizon.webp
 alt: Арктична крячка летить над полярним океаном на тлі величезного сонця, що не заходить за обрій, а в небі проявляються тонкі золоті геодезичні лінії.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Анна Півторак
 draft: false

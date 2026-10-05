@@ -9,6 +9,7 @@ description: An embodied intercultural experience in Esposende where movement, p
 summary: A creative group experience where white fabric paths, movement, music and intercultural dialogue transformed a grey carpet into a living topography.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
+date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
 tags:
   - Living Topography
@@ -45,7 +46,7 @@ image: /images/living-topography-001-the-path-in-my-hands.webp
 alt: Hands holding a white fabric path over a dark grey carpet
 related:
   - /en/docs/living-topography/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/living-topography/001-the-path-in-my-hands/

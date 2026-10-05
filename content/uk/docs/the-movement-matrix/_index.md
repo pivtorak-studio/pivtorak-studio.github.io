@@ -39,7 +39,7 @@ image: /images/the-movement-matrix.webp
 alt: Світна мережа, схожа на сузір’я, розходиться від центрального символу, представляючи живу систему знань, що поєднує статті, переклади, метадані та структури, які розвиваються.
 related:
   - /uk/docs/the-movement-matrix/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -119,6 +119,5 @@ _Матриця Руху. AP | Pivtorak.Studio. 05.06.2026_
 ---
 
 {{< section >}}
-
 
 

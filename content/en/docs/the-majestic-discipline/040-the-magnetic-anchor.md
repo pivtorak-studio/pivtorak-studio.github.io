@@ -7,6 +7,7 @@ description: "A homing pigeon reveals the discipline of finding an inner point o
 summary: "Home is not only a destination. It is an inner coordinate from which direction can be measured."
 event_date: 2026-08-26T17:00:00
 publication_date: 2026-08-26T17:00:00
+date: 2026-08-26T17:00:00
 lastmod: 2026-08-26T17:00:00
 slug: 040-the-magnetic-anchor
 tags: [magnetic anchor, inner centre, home base, navigation, grounding, sovereignty, direction]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-040-the-magnetic-anchor.webp
 alt: "A living homing pigeon stands on a dark polished basalt pedestal in a misty landscape, surrounded by a luminous golden-blue magnetic axis connecting earth and sky as the fog recedes."
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/040-the-magnetic-anchor/

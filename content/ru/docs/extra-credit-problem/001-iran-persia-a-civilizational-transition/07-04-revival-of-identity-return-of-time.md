@@ -7,6 +7,7 @@ description: Возвращение солнечного времени восс
 summary: Цивилизационное восстановление, в котором нация вновь соединяется с тысячелетиями вместо десятилетий, превращая историческую амнезию в темпоральный суверенитет.
 event_date: 2026-01-27T21:00:00
 publication_date: 2026-01-27T21:00:00
+date: 2026-01-27T21:00:00
 lastmod: 2026-01-27T21:00:00
 slug: 07-04-revival-of-identity-return-of-time
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-04-revival-of-identity-return-of-time.webp
 alt: Сгоревший календарный свиток открывает золотое круглое поле с древними датами, высеченными на каменной поверхности.
 related:
-  - /timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - governance
   - freedom
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Мы не пленники короткой эпохи; мы хозяева тысячелетий.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

@@ -6,6 +6,7 @@ description: Роздуми про тихе щастя дитинства, де 
 summary: Дитинству не потрібні гучні свята, щоб бути щасливим. Тихі миті тепла, снігу, світла і захищеності часто стають найяскравішими спогадами життя.
 event_date: 2025-12-02T11:00:00
 publication_date: 2025-12-02T11:00:00
+date: 2025-12-02T11:00:00
 lastmod: 2025-12-02T11:00:00
 slug: 019-quiet-joy-of-childhood
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-019-quiet-joy-of-childhood.webp
 alt: Дитина сидить біля вікна і спостерігає за снігом. Поруч світиться маленька свічка, наповнюючи кімнату теплом, безпекою та тихою зимовою радістю.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

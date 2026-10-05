@@ -7,6 +7,7 @@ description: "A sea turtle crosses the open ocean with unwavering fidelity to it
 summary: "The second stage of the Sea Turtle Strategy explores fidelity as the discipline of maintaining direction through distance, uncertainty, and powerful currents."
 event_date: 2026-01-07T12:00:00
 publication_date: 2026-01-07T12:00:00
+date: 2026-01-07T12:00:00
 lastmod: 2026-01-07T12:00:00
 slug: 032-transoceanic-passage-fidelity
 tags: [Transoceanic Passage, Fidelity, Sea Turtle, Open Ocean, Quantum Navigation, Endurance, Flow, Direction, Resilience, January]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp
 alt: "A powerful sea turtle swims through turbulent illuminated ocean depths, crossing strong currents with unwavering fidelity to an invisible destination."
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/032-transoceanic-passage-fidelity/

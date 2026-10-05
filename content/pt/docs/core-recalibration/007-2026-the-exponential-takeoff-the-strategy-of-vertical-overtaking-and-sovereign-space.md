@@ -6,6 +6,7 @@ title: "007 A Exponencial de Descolagem. Estratégia de Ultrapassagem Vertical e
 description: Uma reflexão analítica sobre crescimento cognitivo exponencial, infraestrutura digital soberana e a transição estratégica da resistência institucional para a expansão vertical autónoma.
 event_date: 2026-05-22T14:00:00
 publication_date: 2026-05-22T14:00:00
+date: 2026-05-22T14:00:00
 tags:
   - CoreRecalibration
   - EspaçoSoberano
@@ -26,7 +27,7 @@ related:
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-  - /pt/docs/timeline/
+  - /pt/archive/
 weight: 7
 draft: false
 toc: true

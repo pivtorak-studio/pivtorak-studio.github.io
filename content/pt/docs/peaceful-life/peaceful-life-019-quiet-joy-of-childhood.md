@@ -6,6 +6,7 @@ description: Uma reflexão sobre a felicidade tranquila da infância, onde segur
 summary: A infância não precisa de grandes celebrações para ser feliz. Os momentos silenciosos de calor, neve, luz e proteção tornam-se frequentemente as memórias mais luminosas da vida.
 event_date: 2025-12-02T11:00:00
 publication_date: 2025-12-02T11:00:00
+date: 2025-12-02T11:00:00
 lastmod: 2025-12-02T11:00:00
 slug: 019-quiet-joy-of-childhood
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-019-quiet-joy-of-childhood.webp
 alt: Uma criança observa a neve cair pela janela. Uma pequena vela ilumina suavemente o quarto, criando uma atmosfera de segurança, calor e alegria tranquila.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

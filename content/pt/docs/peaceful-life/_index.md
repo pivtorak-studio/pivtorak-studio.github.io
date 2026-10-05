@@ -38,7 +38,7 @@ image: /images/peaceful-life.webp
 alt: Crianças a desenhar símbolos e mensagens de paz, representando um futuro construído através do cuidado, da natureza e da dignidade humana.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 toc: true
@@ -87,7 +87,7 @@ search: indexed
   "isPartOf": {
     "@type": "CollectionPage",
     "name": "Cronologia: Caminho e Evolução",
-    "url": "https://annapivtorak.com/pt/timeline/"
+    "url": "https://annapivtorak.com/pt/archive/"
   }
 }
 </script>

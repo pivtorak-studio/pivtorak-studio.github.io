@@ -6,6 +6,7 @@ title: 003 Обнаружение Присутствия
 description: Момент, когда тело, время и движение синхронизируются в единую систему, а присутствие становится ритмом, который удалось уловить.
 event_date: 2025-06-21T17:00:00
 publication_date: 2025-06-21T17:00:00
+date: 2025-06-21T17:00:00
 tags:
   - PresenceDetection
   - DesignMoments
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-003-2025-presence-detection.webp
 alt: "Минималистичная цифровая иллюстрация: тёмный фон, контур часов с мягким свечением, график пульса, круг дыхания и тонкий жест, напоминающий касание wristband. Атмосфера передаёт глубокую концентрацию без напряжения."
 related:
-  - /ru/docs/timeline/
+  - /ru/archive/
   - /ru/docs/core-recalibration/
 weight: 3
 draft: false

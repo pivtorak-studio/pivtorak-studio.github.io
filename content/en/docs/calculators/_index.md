@@ -41,7 +41,7 @@ featured: true
 image: /images/calculators.webp
 alt: Minimalist geometric illustration representing the Calculators collection on Pivtorak.Studio.
 related:
-  - /en/timeline/
+  - /en/archive/
   - /en/docs/converters/
   - /en/docs/templates/
 authors:

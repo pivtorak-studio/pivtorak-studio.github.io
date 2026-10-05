@@ -6,6 +6,7 @@ description: Офіційна сторінка Анни Півторак (Кос
 weight: 1
 event_date: 2021-05-11T09:00:00
 publication_date: 2021-05-11T09:00:00
+date: 2021-05-11T09:00:00
 event_type: life_node
 tags:
   - Anna Pivtorak
@@ -19,7 +20,7 @@ featured: true
 image: /images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp
 alt: Анна Півторак у мантії випускника біля Червоного корпусу КНУ імені Тараса Шевченка, Київ
 related:
-  - /timeline/
+  - /uk/archive/
 lastmod: 2021-05-11T09:00:00
 completion: 100
 seo: true

@@ -7,6 +7,7 @@ description: Every true return begins from zero. Inspired by the Sahara desert a
 summary: The first work of the July Cataglyphis cycle introduces the Zero Point—the origin of all orientation. Before direction exists, an autonomous system establishes its own center. Zero is not emptiness but perfect calibration.
 event_date: 2026-07-03T15:00:00
 publication_date: 2026-07-03T15:00:00
+date: 2026-07-03T15:00:00
 lastmod: 2026-07-03T15:00:00
 slug: 037-zero-navigation
 tags:
@@ -49,7 +50,7 @@ image: /images/the-majestic-discipline-037-zero-navigation.webp
 alt: A golden Cataglyphis desert ant standing on the hot sands of the Sahara at sunrise above a glowing golden zero point with no visible tracks or landmarks.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

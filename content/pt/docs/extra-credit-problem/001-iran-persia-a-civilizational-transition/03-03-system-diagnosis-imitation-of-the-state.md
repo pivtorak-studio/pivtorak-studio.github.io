@@ -7,6 +7,7 @@ description: Uma análise de como os sistemas autoritários imitam a condição 
 summary: Esta obra diagnostica a arquitetura decorativa da tirania, revelando como tribunais, ministérios e leis se transformam em adereços que ocultam a ausência de governação, responsabilidade e serviço público.
 event_date: 2026-01-21T13:00:00
 publication_date: 2026-01-21T13:00:00
+date: 2026-01-21T13:00:00
 lastmod: 2026-01-21T13:00:00
 slug: 03-03-system-diagnosis-imitation-of-the-state
 tags:
@@ -82,7 +83,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /pt/timeline/
+timeline: /pt/archive/
 ethical_resonance: collapse-of-the-facade
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

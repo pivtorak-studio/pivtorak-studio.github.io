@@ -19,7 +19,7 @@ status: published
 featured: true
 image: /images/extra-credit-problem.webp
 alt: "Сяючий символ зірочки поєднує світ кризи та світ відновлення, символізуючи системну трансформацію, людську гідність і повернення суб'єктності."
-related: [/uk/docs/independent-researcher-manifesto/, /uk/docs/the-majestic-discipline/, /uk/timeline/]
+related: [/uk/docs/independent-researcher-manifesto/, /uk/docs/the-majestic-discipline/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/extra-credit-problem/

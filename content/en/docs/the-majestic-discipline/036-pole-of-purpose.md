@@ -7,6 +7,7 @@ description: The final stage of the Arctic Tern's journey. A reflection on compl
 summary: Having crossed the planet from pole to pole, the Arctic Tern reaches its destination. Pole of Purpose explores completion, integration, and the discipline of fulfilling a long journey without losing direction.
 event_date: 2026-06-07T17:00:00
 publication_date: 2026-06-07T17:00:00
+date: 2026-06-07T17:00:00
 lastmod: 2026-06-07T17:00:00
 slug: 036-pole-of-purpose
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-036-pole-of-purpose.webp
 alt: An Arctic Tern descends onto the mirror-like ice of Antarctica. Polar lights glow around it while the sky remains bright. The bird's reflection creates the shape of an hourglass.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

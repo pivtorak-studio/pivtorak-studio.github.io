@@ -7,6 +7,7 @@ description: The Ancestral Code explores the inherited patterns, biological orie
 summary: An inherited foundation can guide us before conscious experience begins. The monarch butterfly reveals how life can carry information across generations without any single individual completing the entire journey.
 event_date: 2026-09-19T06:00:00
 publication_date: 2026-09-19T06:00:00
+date: 2026-09-19T06:00:00
 lastmod: 2026-09-19T06:00:00
 slug: 043-the-ancestral-code
 tags:
@@ -37,7 +38,7 @@ image: /images/the-majestic-discipline-043-the-ancestral-code.webp
 alt: A monarch butterfly with orange-and-black wings rests on a textured dark rock, with subtle golden DNA-like patterns across its wings and a mountain landscape in the background.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

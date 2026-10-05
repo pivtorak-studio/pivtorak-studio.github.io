@@ -7,6 +7,7 @@ description: Мирная ночь на природе должна быть н�
 summary: У костра люди делятся историями, смехом и тишиной. Эта статья исследует право чувствовать себя в безопасности ночью и значение доверия в мирной жизни.
 event_date: 2025-07-01T11:00:00
 publication_date: 2025-07-01T11:00:00
+date: 2025-07-01T11:00:00
 lastmod: 2025-07-01T11:00:00
 slug: 004-safe-night-circle-of-trust
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-004-safe-night-circle-of-trust.webp
 alt: Люди сидят у костра под спокойным летним небом, проводя вечер в атмосфере доверия и безопасности.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

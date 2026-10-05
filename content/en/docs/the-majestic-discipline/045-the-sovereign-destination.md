@@ -7,6 +7,7 @@ description: The Sovereign Destination explores the completion of an ancestral c
 summary: A long journey becomes meaningful when everything carried through generations finally gathers into a coherent centre. The monarch butterfly symbolizes a living continuity arriving at a place where inherited movement can become structure, identity, and a foundation for a new cycle.
 event_date: 2026-09-19T15:00:00
 publication_date: 2026-09-19T15:00:00
+date: 2026-09-19T15:00:00
 lastmod: 2026-09-19T15:00:00
 slug: 045-the-sovereign-destination
 tags: [sovereign destination, monarch butterfly, ancestral continuity, completed cycle, inner centre]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-045-the-sovereign-destination.webp
 alt: A monarch butterfly with fully spread orange-and-black wings rests on a glowing architectural crystal at the centre of an ancient stone sanctuary, surrounded by reflective water and autumn foliage beneath a golden sky.
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/045-the-sovereign-destination/

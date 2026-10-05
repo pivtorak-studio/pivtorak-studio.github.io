@@ -7,6 +7,7 @@ description: After the summer pause comes a new season of focus. A reflection on
 summary: A clean desk, a morning coffee, a notebook, and a new project. This article explores the value of purposeful work and the peaceful return to a productive rhythm.
 event_date: 2025-09-01T12:00:00
 publication_date: 2025-09-01T12:00:00
+date: 2025-09-01T12:00:00
 lastmod: 2025-09-01T12:00:00
 slug: 011-getting-into-rhythm
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-011-getting-into-rhythm.webp
 alt: A tidy workspace with a laptop, notebook, and morning coffee, symbolizing a calm return to work and learning after summer.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/011-getting-into-rhythm/

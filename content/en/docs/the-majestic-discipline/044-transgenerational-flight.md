@@ -7,6 +7,7 @@ description: Transgenerational Flight explores the continuity of movement across
 summary: A great journey does not have to be completed within one lifetime to remain one continuous movement. The monarch butterfly symbolizes how each generation carries the journey forward, adding its own part to a path that began before it.
 event_date: 2026-09-19T12:00:00
 publication_date: 2026-09-19T12:00:00
+date: 2026-09-19T12:00:00
 lastmod: 2026-09-19T12:00:00
 slug: 044-transgenerational-flight
 tags: [transgenerational flight, monarch butterfly, generational continuity, succession, inherited direction]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-044-transgenerational-flight.webp
 alt: A monarch butterfly flies above a vast golden autumn forest while a trail of smaller monarch butterflies follows behind, forming a luminous path toward distant mountains under a warm evening sky.
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/044-transgenerational-flight/

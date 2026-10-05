@@ -19,7 +19,7 @@ status: published
 featured: true
 image: /images/templates.webp
 alt: "Минималистичная геометрическая иллюстрация, представляющая коллекцию шаблонов Pivtorak.Studio."
-related: [/ru/timeline/, /ru/docs/calculators/, /ru/docs/converters/]
+related: [/ru/archive/, /ru/docs/calculators/, /ru/docs/converters/]
 authors: ["Anna Pivtorak"]
 license: "CC BY-NC-ND 4.0"
 draft: false

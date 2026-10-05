@@ -6,6 +6,7 @@ keywords: mother, wisdom, sensibility, environment, culture, precision, beauty, 
 weight: 11
 event_date: 2021-05-02 # # Date of the event mentioned in the article (for Timeline)
 publication_date: 2025-05-02 # Date the article was published (event interpretation)
+date: 2025-05-02 # Date the article was published (event interpretation)
 event_type: life_node
 ---
 

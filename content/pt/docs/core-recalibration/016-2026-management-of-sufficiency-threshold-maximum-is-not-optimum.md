@@ -10,6 +10,7 @@ summary: "A décima sexta Recalibração do Núcleo apresenta o Princípio da Ca
 
 event_date: 2026-06-26T11:00:00+01:00
 publication_date: 2026-06-26T11:00:00+01:00
+date: 2026-06-26T11:00:00+01:00
 lastmod: 2026-06-26T11:00:00+01:00
 
 tags: [RecalibraçãoDoNúcleo, LimiteDeSuficiência, CargaÓptima, SinalERuído, Cibernética, PensamentoSistémico, ArquitecturaCognitiva, ArquitecturaDoConhecimento, Soberania, CriaçãoSustentável]
@@ -27,7 +28,7 @@ alt: "Infografia que representa o Limite de Suficiência. um modelo matemático 
 
 related:
   - /pt/docs/core-recalibration/
-  - /pt/docs/timeline/
+  - /pt/archive/
 
 authors:
   - Anna Pivtorak

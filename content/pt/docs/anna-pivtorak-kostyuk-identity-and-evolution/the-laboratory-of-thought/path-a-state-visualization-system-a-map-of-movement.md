@@ -6,6 +6,7 @@ title: "Path: Sistema de Visualização de Estados"
 description: "Path é um sistema de visualização de estados onde cada elemento passa por três fases: ◯ definido, ⊙ em progresso, ⨁ verificado. Em vez da pressão dos prazos, o sistema oferece clareza de movimento."
 event_date: 2026-05-09T10:00:00
 publication_date: 2026-05-15T14:00:00
+date: 2026-05-15T14:00:00
 tags:
   - Path
   - sistema de estados

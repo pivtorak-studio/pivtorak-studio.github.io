@@ -9,6 +9,7 @@ summary: "A manifesto introducing Pivtorak.Studio as a system where precision, i
 
 event_date: 2025-01-05T12:00:00
 publication_date: 2025-07-07T12:00:00
+date: 2025-07-07T12:00:00
 lastmod: 2025-07-07T12:00:00
 
 slug: 004-pivtorak-studio-formula
@@ -28,7 +29,7 @@ draft: false
 image: /images/pivtorak-studio-004-pivtorak-studio-formula.webp
 alt: "Street-art-inspired visual composition presenting Pivtorak.Studio as the Architecture of Value Explosion through the fusion of a historical Pivtorak coin, modern typography, symbolic geometry, and contemporary visual language."
 
-related: ["/en/docs/pivtorak-studio/","/en/docs/timeline/"]
+related: ["/en/docs/pivtorak-studio/","/en/archive/"]
 
 authors: ["Anna Pivtorak"]
 

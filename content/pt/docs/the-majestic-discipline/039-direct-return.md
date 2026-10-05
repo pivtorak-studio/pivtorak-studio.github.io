@@ -7,6 +7,7 @@ description: A procura terminou. Inspirada na formiga-do-deserto Cataglyphis, es
 summary: A terceira obra do ciclo de julho da Cataglyphis completa a arquitetura da navegação quântica. Depois de integrar todos os vetores, o caminho mais curto surge naturalmente de um sistema interior coerente.
 event_date: 2026-07-04T06:00:00
 publication_date: 2026-07-04T06:00:00
+date: 2026-07-04T06:00:00
 lastmod: 2026-07-04T06:00:00
 slug: 039-direct-return
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-039-direct-return.webp
 alt: Uma formiga-do-deserto dourada Cataglyphis encontra-se diante de um feixe luminoso perfeitamente reto que atravessa o Sara, enquanto atrás permanece a rede das trajetórias anteriores.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

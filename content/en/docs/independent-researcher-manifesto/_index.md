@@ -45,7 +45,7 @@ featured: true
 image: /images/independent-researcher-manifesto.webp
 alt: A central resonance structure surrounded by interconnected manifesto volumes representing sequential nodes within a unified research system. The composition visualizes the evolution of identity, method, meaning, and legitimacy.
 related:
-  - /en/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

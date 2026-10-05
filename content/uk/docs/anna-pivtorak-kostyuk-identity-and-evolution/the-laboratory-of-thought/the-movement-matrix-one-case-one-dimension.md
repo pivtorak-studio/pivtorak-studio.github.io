@@ -6,6 +6,7 @@ title: "Матриця Руху: Одна справа — один вимір"
 description: "Матриця Руху — це локальна система ясності для надскладних завдань, де хаос замінюється структурою руху через п’ять вимірів: Base, Action, Context, Expression, Status."
 event_date: 2026-05-16T09:00:00
 publication_date: 2026-05-16T11:00:00
+date: 2026-05-16T11:00:00
 tags:
   - movement matrix
   - Path

@@ -7,6 +7,7 @@ description: Размышление о переходе от проектног�
 summary: Проекты ориентированы на результат. Системы создают условия для непрерывной эволюции. Эта Core Recalibration исследует переход от линейного выполнения задач к автономным средам, способным к развитию, адаптации и воспроизводству.
 event_date: 2026-05-30T23:00:00+01:00
 publication_date: 2026-05-30T23:00:00+01:00
+date: 2026-05-30T23:00:00+01:00
 lastmod: 2026-05-30T23:00:00+01:00
 tags:
   - Core Recalibration
@@ -39,7 +40,7 @@ image: /images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-
 alt: Концептуальная схема перехода от линейного проектного мышления к автономным суверенным системам, способным к эволюции и долгосрочному развитию.
 related:
   - /ru/docs/core-recalibration/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 weight: 11

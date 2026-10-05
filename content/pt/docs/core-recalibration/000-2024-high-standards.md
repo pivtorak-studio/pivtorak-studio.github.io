@@ -6,6 +6,7 @@ title: 000 Padrões Elevados
 description: O momento em que superar os próprios padrões deixa de ser um desafio e se torna um ritmo natural de crescimento interior.
 event_date: 2024-10-18T15:00:00
 publication_date: 2024-10-18T15:00:00
+date: 2024-10-18T15:00:00
 tags:
   - CoreRecalibration
   - HighStandards
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-000-2024-high-standards.webp
 alt: Ilustração digital sobre o fundo de um quadro escolar. Uma figura simbólica sobe degraus suspensos ao lado de um gráfico de Gantt e de um gráfico de crescimento com as palavras 'Your Own High Standards'. A imagem simboliza crescimento interior, autodisciplina e a elevação constante dos próprios padrões.
 related:
-  - /pt/docs/timeline/
+  - /pt/archive/
   - /pt/docs/core-recalibration/
 weight: 1
 draft: false

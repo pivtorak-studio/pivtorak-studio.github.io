@@ -9,6 +9,7 @@ description: Межкультурный опыт в Эшпозенде, где �
 summary: Опыт творческой группы, в котором белые тканевые пути, движение, музыка и межкультурный диалог превратили серый ковёр в живую топографию.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
+date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
 tags:
   - Living Topography
@@ -45,7 +46,7 @@ image: /images/living-topography-001-the-path-in-my-hands.webp
 alt: Руки держат белый тканевый путь над тёмно-серым ковром
 related:
   - /ru/docs/living-topography/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/ru/docs/living-topography/001-the-path-in-my-hands/

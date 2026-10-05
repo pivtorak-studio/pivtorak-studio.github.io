@@ -7,6 +7,7 @@ description: Повернення сонячного часу відновлює
 summary: Цивілізаційне відновлення, у якому нація знову поєднується з тисячоліттями замість десятиліть, перетворюючи історичну амнезію на темпоральний суверенітет.
 event_date: 2026-01-27T21:00:00
 publication_date: 2026-01-27T21:00:00
+date: 2026-01-27T21:00:00
 lastmod: 2026-01-27T21:00:00
 slug: 07-04-revival-of-identity-return-of-time
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-04-revival-of-identity-return-of-time.webp
 alt: Спалений календарний сувій відкриває золоте кругле поле з давніми датами, вирізьбленими на кам’яній поверхні.
 related:
-  - /timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - governance
   - freedom
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Ми не в’язні короткої епохи; ми господарі тисячоліть.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

@@ -6,6 +6,7 @@ title: 037 Cada Um no Seu Território
 description: Uma vida pacífica começa pelo respeito pelos limites naturais. Um urso-polar no Ártico e uma orca no oceano lembram-nos que territórios diferentes não têm de se transformar em razões para o conflito.
 event_date: 2026-09-01T15:00:00+01:00
 publication_date: 2026-09-01T15:00:00+01:00
+date: 2026-09-01T15:00:00+01:00
 lastmod: 2026-09-01T15:00:00+01:00
 slug: 037-each-in-their-own-territory
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-037-each-in-their-own-territory.webp
 alt: "Desenho detalhado a giz num quadro escolar: à esquerda, um urso-polar entre neve, gelo e montanhas do Ártico; à direita, uma orca a nadar num oceano profundo sob as ondas; os dois mundos estão separados por uma fronteira pacífica."
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/037-each-in-their-own-territory/

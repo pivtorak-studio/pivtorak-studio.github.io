@@ -7,6 +7,7 @@ description: Право повернутися додому утверджує, 
 summary: Двадцять п’ята робота серії «Мирне Життя» розмірковує про повернення додому як про фундаментальну умову миру. Двері, що відчиняються наприкінці дня, стають символом безпеки, безперервності та цінності звичайного життя.
 event_date: 2026-02-01T11:00:00
 publication_date: 2026-02-01T11:00:00
+date: 2026-02-01T11:00:00
 lastmod: 2026-02-01T11:00:00
 slug: 025-the-right-to-return-home
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-025-the-right-to-return-home.webp
 alt: Родина повертається додому ввечері. Тепле світло ллється з дверей, ключі кладуть на полицю, а дитина спостерігає поруч.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

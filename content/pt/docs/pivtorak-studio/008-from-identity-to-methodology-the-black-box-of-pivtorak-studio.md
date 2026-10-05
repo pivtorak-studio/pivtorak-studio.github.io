@@ -8,6 +8,7 @@ description: |
 summary: A renovação visual da Pivtorak.Studio revelou inesperadamente a estrutura cibernética subjacente a todo o projeto. Este artigo apresenta o modelo da Caixa Preta, o Operador de Transformação ℙ e estabelece os fundamentos conceptuais do Transformation Framework.
 event_date: 2026-07-21T09:00:00
 publication_date: 2026-07-21T09:00:00
+date: 2026-07-21T09:00:00
 lastmod: 2026-07-21T09:00:00
 slug: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studio
 tags:
@@ -47,7 +48,7 @@ image: /images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of
 alt: Uma caixa preta cibernética minimalista atravessada por raios ciano e coral, representando o Operador de Transformação ℙ da Pivtorak.Studio.
 related:
   - /pt/docs/pivtorak-studio/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

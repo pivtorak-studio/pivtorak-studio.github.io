@@ -7,6 +7,7 @@ description: Childhood deserves warmth, safety, and a place where children can s
 summary: A warm house, a good book, a pet nearby, and the feeling of being protected. This article explores the right of every child to grow up surrounded by safety and kindness.
 event_date: 2025-10-13T11:00:00
 publication_date: 2025-10-13T11:00:00
+date: 2025-10-13T11:00:00
 lastmod: 2025-10-13T11:00:00
 slug: 013-childhood-must-be-warm
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-013-childhood-must-be-warm.webp
 alt: Two children reading near a fireplace in a warm home with a family pet nearby, surrounded by comfort, safety, and autumn atmosphere.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/013-childhood-must-be-warm/

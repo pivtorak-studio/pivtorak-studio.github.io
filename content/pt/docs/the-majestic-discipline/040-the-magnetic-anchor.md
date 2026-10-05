@@ -7,6 +7,7 @@ description: "O pombo-correio revela a disciplina de encontrar um ponto de refer
 summary: "A casa não é apenas um destino. É uma coordenada interior a partir da qual a direção pode ser medida."
 event_date: 2026-08-26T17:00:00
 publication_date: 2026-08-26T17:00:00
+date: 2026-08-26T17:00:00
 lastmod: 2026-08-26T17:00:00
 slug: 040-the-magnetic-anchor
 tags: [âncora magnética, centro interior, base de origem, navegação, enraizamento, soberania, direção]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-040-the-magnetic-anchor.webp
 alt: "Um pombo-correio vivo está sobre um pedestal de basalto escuro numa paisagem envolta em nevoeiro, rodeado por um eixo magnético luminoso dourado e azul que liga a terra ao céu enquanto o nevoeiro recua."
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
+related: [/pt/docs/the-majestic-discipline/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/040-the-magnetic-anchor/

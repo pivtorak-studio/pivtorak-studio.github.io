@@ -6,6 +6,7 @@ description: Дорослі свідомо креслять структури �
 summary: Двадцять третя робота серії «Мирне Життя» розмірковує про мир як про свідомий акт творення. Через прості лінії, кола, домівки та шляхи дорослі формують умови, у яких життя може розквітати без страху.
 event_date: 2026-01-01T12:00:00
 publication_date: 2026-01-01T12:00:00
+date: 2026-01-01T12:00:00
 lastmod: 2026-01-01T12:00:00
 slug: 023-peace-drawn-with-awareness
 tags:
@@ -47,7 +48,7 @@ image: /images/peaceful-life-023-peace-drawn-with-awareness.webp
 alt: Руки кількох дорослих креслять коло, дім і шлях білою крейдою, символізуючи свідому архітектуру миру.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

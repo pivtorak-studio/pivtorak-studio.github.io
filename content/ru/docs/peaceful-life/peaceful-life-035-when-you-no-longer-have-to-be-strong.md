@@ -6,6 +6,7 @@ title: 035 Когда больше не нужно быть сильным
 description: Мирная жизнь начинается тогда, когда больше не нужно быть сильным каждый день.
 event_date: 2026-08-12T07:00:00+01:00
 publication_date: 2026-08-12T07:00:00+01:00
+date: 2026-08-12T07:00:00+01:00
 lastmod: 2026-08-12T07:00:00+01:00
 slug: 035-when-you-no-longer-have-to-be-strong
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp
 alt: Взрослый спокойно сидит у окна на рассвете, а позади него растворяется тяжёлая тень, похожая на камень. Рядом лежит простой компас, а мягкий утренний свет входит в спокойную комнату.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /ru/docs/peaceful-life/035-when-you-no-longer-have-to-be-strong/

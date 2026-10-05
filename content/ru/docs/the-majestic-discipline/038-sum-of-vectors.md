@@ -7,6 +7,7 @@ description: Каждый шаг становится частью большо�
 summary: Вторая работа июльского цикла Cataglyphis раскрывает математику движения. Каждый вектор дополняет внутреннюю систему координат, показывая, что настоящая навигация строится непрерывным вычислением, а не идеальной траекторией.
 event_date: 2026-07-04T05:00:00
 publication_date: 2026-07-04T05:00:00
+date: 2026-07-04T05:00:00
 lastmod: 2026-07-04T05:00:00
 slug: 038-sum-of-vectors
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-038-sum-of-vectors.webp
 alt: Золотая пустынная муравьиха Cataglyphis движется по текстурному песку Сахары, оставляя за собой светящуюся геометрическую цепочку векторов под поляризованным небом.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

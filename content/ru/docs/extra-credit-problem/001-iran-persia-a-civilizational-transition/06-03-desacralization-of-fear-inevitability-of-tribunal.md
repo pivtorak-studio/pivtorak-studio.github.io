@@ -7,6 +7,7 @@ description: Анализ превращения репрессий в дока�
 summary: Эта работа фиксирует финальную стадию десакрализации страха. Тюремные решётки превращаются в судебные протоколы, жертвы становятся свидетелями, а диктатура теряет способность скрывать насилие, поскольку сама история начинает фиксировать каждое действие.
 event_date: 2026-01-25T13:00:00
 publication_date: 2026-01-25T13:00:00
+date: 2026-01-25T13:00:00
 lastmod: 2026-01-25T13:00:00
 slug: 06-03-desacralization-of-fear-inevitability-of-tribunal
 tags:
@@ -43,7 +44,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal.webp
 alt: Тёмная тюремная камера, где тени решёток образуют линии, похожие на судебный протокол. Пол покрыт трещинами, а центральная трещина светится красным.
 related:
-  - /timeline/
+  - /ru/archive/
   - /docs/extra-credit-problem/
 authors: Anna Pivtorak
 draft: false
@@ -74,7 +75,7 @@ related_domains:
   - governance
   - freedom
   - civilization
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Страх заканчивается тогда, когда сама история начинает свидетельствовать.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

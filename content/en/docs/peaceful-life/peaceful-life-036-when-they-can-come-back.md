@@ -6,6 +6,7 @@ title: 036 When They Can Come Back
 description: Peaceful life begins when every living creature can return to a place where life is possible.
 event_date: 2026-08-12T08:00:00+01:00
 publication_date: 2026-08-12T08:00:00+01:00
+date: 2026-08-12T08:00:00+01:00
 lastmod: 2026-08-12T08:00:00+01:00
 slug: 036-when-they-can-come-back
 tags:
@@ -34,7 +35,7 @@ image: /images/peaceful-life-036-when-they-can-come-back.webp
 alt: A family of storks returning to a peaceful rural landscape at dawn. One stork stands on a nest while another approaches in flight, with green fields, quiet water, and soft morning light surrounding them.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/036-when-they-can-come-back/

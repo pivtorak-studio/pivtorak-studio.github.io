@@ -7,6 +7,7 @@ description: Estudo de um mecanismo de desumanização onde o ser humano é tran
 summary: Análise de um modelo estatal que trata a vida humana como material consumível numa linha de produção do medo.
 event_date: 2026-01-17T13:00:00
 publication_date: 2026-01-17T13:00:00
+date: 2026-01-17T13:00:00
 lastmod: 2026-01-17T13:00:00
 slug: 01-03-tragedy-consumable-material
 tags:
@@ -70,7 +71,7 @@ related_domains:
   - governance
   - human_rights
   - security
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: O sistema não vê rostos; vê calorias e horas.
 manifesto_type: verdict
 project: Iran-Persia-A-Civilizational-Transition

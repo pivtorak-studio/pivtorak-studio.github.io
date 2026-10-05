@@ -1,5 +1,7 @@
 ---
 title: "PSS-01: Theological Expert Dossier"
+date: 2026-01-07
+image: /images/001-pivtorak-studio-standard.webp
 description: "Open standard for developing expert dossiers for objects of theological and sacred significance."
 ---
 

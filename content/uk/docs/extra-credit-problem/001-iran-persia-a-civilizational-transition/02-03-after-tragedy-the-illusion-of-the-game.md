@@ -7,6 +7,7 @@ description: Дослідження того, як авторитарні сис
 summary: Робота досліджує ілюзію політичної участі всередині авторитарних режимів, де процедури перетворюються на театральні інструменти, що приховують наперед визначені результати та системні репресії.
 event_date: 2026-01-19T13:00:00
 publication_date: 2026-01-19T13:00:00
+date: 2026-01-19T13:00:00
 lastmod: 2026-01-19T13:00:00
 slug: 02-03-after-tragedy-the-illusion-of-the-game
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: execution-disguised-as-procedure
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

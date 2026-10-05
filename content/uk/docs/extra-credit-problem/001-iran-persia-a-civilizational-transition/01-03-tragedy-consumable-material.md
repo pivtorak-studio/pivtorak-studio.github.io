@@ -7,6 +7,7 @@ description: Дослідження механізму дегуманізаці�
 summary: Аналіз державної моделі, що розглядає людське життя як витратний матеріал та елемент виробничого конвеєра страху.
 event_date: 2026-01-17T13:00:00
 publication_date: 2026-01-17T13:00:00
+date: 2026-01-17T13:00:00
 lastmod: 2026-01-17T13:00:00
 slug: 01-03-tragedy-consumable-material
 tags:
@@ -70,7 +71,7 @@ related_domains:
   - governance
   - human_rights
   - security
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Система не бачить облич; вона бачить калорії та години.
 manifesto_type: verdict
 project: Iran-Persia-A-Civilizational-Transition

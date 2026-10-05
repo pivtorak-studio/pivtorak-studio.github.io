@@ -7,6 +7,7 @@ description: The right to return home affirms that safety begins with presence â
 summary: The twenty-fifth work of the PeacefulLife series reflects on homecoming as a fundamental condition of peace. A door opening at the end of the day becomes a symbol of safety, continuity, and the value of ordinary life.
 event_date: 2026-02-01T11:00:00
 publication_date: 2026-02-01T11:00:00
+date: 2026-02-01T11:00:00
 lastmod: 2026-02-01T11:00:00
 slug: 025-the-right-to-return-home
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-025-the-right-to-return-home.webp
 alt: A family returns home in the evening. Warm light shines through the doorway as keys are placed on a shelf and a child watches from nearby.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

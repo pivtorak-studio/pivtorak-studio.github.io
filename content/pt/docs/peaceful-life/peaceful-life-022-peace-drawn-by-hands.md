@@ -7,6 +7,7 @@ description: Crianças desenham a paz com giz no asfalto de inverno, transforman
 summary: A vigésima segunda obra da série Vida Pacífica reflete sobre a paz como realidade vivida. Uma criança que desenha o sol e a palavra “Paz” torna-se símbolo dos gestos quotidianos que sustentam a vida mesmo em tempos de incerteza.
 event_date: 2026-01-01T11:00:00
 publication_date: 2026-01-01T11:00:00
+date: 2026-01-01T11:00:00
 lastmod: 2026-01-01T11:00:00
 slug: 022-peace-drawn-by-hands
 tags:
@@ -49,7 +50,7 @@ image: /images/peaceful-life-022-peace-drawn-by-hands.webp
 alt: Mão de uma criança com luva a desenhar um sol e a palavra “Paz” com giz colorido sobre o asfalto de inverno.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

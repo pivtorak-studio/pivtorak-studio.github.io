@@ -7,6 +7,7 @@ description: Структурна глухота як механізм авто�
 summary: Аналіз систем, у яких діалог існує формально, але не має здатності чути, сприймати чи відповідати.
 event_date: 2026-01-17T11:00:00
 publication_date: 2026-01-17T11:00:00
+date: 2026-01-17T11:00:00
 lastmod: 2026-01-17T11:00:00
 slug: 01-02-tragedy-false-dialogue
 tags:
@@ -79,7 +80,7 @@ manifesto_type: verdict
 project: ExtraCreditProblem
 project_stage: I. Tragedy
 navigation_order: 01-02
-timeline: /timeline/
+timeline: /uk/archive/
 research_origin: Portugal
 ---
 

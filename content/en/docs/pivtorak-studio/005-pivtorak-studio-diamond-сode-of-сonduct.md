@@ -7,6 +7,7 @@ description: "The ethical and operational code of Pivtorak.Studio, defining qual
 summary: "The Code of Conduct formalizes the behavioral foundation of the Pivtorak.Studio methodology. It establishes quality as a prerequisite, presence as discipline, structure as priority, and responsibility as the author's permanent signature."
 event_date: 2026-04-29T11:00:00
 publication_date: 2026-04-29T11:00:00
+date: 2026-04-29T11:00:00
 lastmod: 2026-04-29T11:00:00
 slug: 005-pivtorak-studio-diamond-code-of-conduct
 tags: [code-of-conduct, methodology, quality, responsibility, presence, structure, transformation, systems-thinking, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp
 alt: "A geometric diamond enclosing a white bird surrounded by four principles representing quality, presence, structure, and responsibility."
-related: [/en/docs/pivtorak-studio/, /en/docs/timeline/]
+related: [/en/docs/pivtorak-studio/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/pivtorak-studio/005-pivtorak-studio-diamond-code-of-conduct/

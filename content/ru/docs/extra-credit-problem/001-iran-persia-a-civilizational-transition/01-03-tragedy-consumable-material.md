@@ -7,6 +7,7 @@ description: Исследование механизма дегуманизац�
 summary: Анализ государственной модели, рассматривающей человеческую жизнь как расходный материал конвейера страха.
 event_date: 2026-01-17T13:00:00
 publication_date: 2026-01-17T13:00:00
+date: 2026-01-17T13:00:00
 lastmod: 2026-01-17T13:00:00
 slug: 01-03-tragedy-consumable-material
 tags:
@@ -70,7 +71,7 @@ related_domains:
   - governance
   - human_rights
   - security
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Система не видит лиц; она видит калории и часы.
 manifesto_type: verdict
 project: Iran-Persia-A-Civilizational-Transition

@@ -7,6 +7,7 @@ description: Uma tartaruga marinha navega pelas profundezas do oceano em resson�
 summary: A primeira etapa da Estratégia da Tartaruga Marinha explora a ressonância magnética como símbolo de lei interior, serenidade e orientação autêntica.
 event_date: 2026-01-07T11:00:00
 publication_date: 2026-01-07T11:00:00
+date: 2026-01-07T11:00:00
 lastmod: 2026-01-07T11:00:00
 slug: 031-magnetic-resonance-alignment
 tags:
@@ -44,7 +45,7 @@ image: /images/the-majestic-discipline-031-magnetic-resonance-alignment.webp
 alt: Uma majestosa tartaruga marinha nada nas profundezas do oceano entre linhas douradas do campo magnético da Terra enquanto o seu casco entra em ressonância com elas.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -7,6 +7,7 @@ description: "A manifesto affirming human life as the ultimate purpose of every 
 summary: "Systems, models, and institutions are instruments of navigation. Their value is determined by whether they help people live, love, create, return home, and build the future."
 event_date: 2026-06-09T10:00:00
 publication_date: 2026-06-09T10:00:00
+date: 2026-06-09T10:00:00
 lastmod: 2026-06-09T10:00:00
 slug: 006-the-right-to-human-outcomes
 tags: [independent-researcher, manifesto, human-outcomes, human-centered-design, systems-thinking, sovereignty, dignity, freedom, peaceful-life]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/independent-researcher-manifesto-006-the-right-to-human-outcomes.webp
 alt: "A protected human-centered core surrounded by navigational structures, symbolizing systems serving life rather than replacing it."
-related: [/en/docs/independent-researcher-manifesto/, /en/docs/timeline/]
+related: [/en/docs/independent-researcher-manifesto/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes/

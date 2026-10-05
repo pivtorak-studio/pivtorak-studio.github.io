@@ -4,6 +4,7 @@ title: 001 Аксиома Cилы
 weight: 1
 event_date: 2025-10-01T11:00:00
 publication_date: 2025-10-01T11:00:00
+date: 2025-10-01T11:00:00
 ---
 
 

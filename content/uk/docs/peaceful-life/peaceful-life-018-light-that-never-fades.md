@@ -7,6 +7,7 @@ description: Роздуми про пам’ять, присутність і т
 summary: Деякі форми світла ніколи не зникають. Вони продовжують жити у пам’яті, доброті, прощенні та присутності любові.
 event_date: 2025-11-01T13:00:00
 publication_date: 2025-11-01T13:00:00
+date: 2025-11-01T13:00:00
 lastmod: 2025-11-01T13:00:00
 slug: 018-light-that-never-fades
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-018-light-that-never-fades.webp
 alt: Нічне небо, наповнене зорями. Біле пірʼя лежить на землі, а над ним летить голуб, створюючи атмосферу пам’яті, присутності та світла, що залишається.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

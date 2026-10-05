@@ -7,6 +7,7 @@ description: Pão, água e luz de vela tornam-se símbolos de gratidão, presen�
 summary: Uma reflexão sobre a comida simples como ato de memória, gratidão e ligação humana. O pão, a água e a luz recordam-nos que a paz começa muitas vezes nas coisas mais simples.
 event_date: 2025-11-01T11:00:00
 publication_date: 2025-11-01T11:00:00
+date: 2025-11-01T11:00:00
 lastmod: 2025-11-01T11:00:00
 slug: 016-memory-simple-food
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-016-memory-simple-food.webp
 alt: Uma vela, pão e um jarro de água sobre uma mesa de madeira. A luz quente ilumina mãos que seguram uma fatia de pão, criando uma atmosfera de gratidão, paz e presença.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

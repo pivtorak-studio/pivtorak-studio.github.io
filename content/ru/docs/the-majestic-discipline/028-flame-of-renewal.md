@@ -7,6 +7,7 @@ description: Первый этап Стратегии Феникса. Осозн
 summary: Феникс спокойно принимает огонь. Настоящее обновление начинается тогда, когда мы осознанно отпускаем то, что больше не служит будущему.
 event_date: 2025-12-01T11:00:00
 publication_date: 2025-12-01T11:00:00
+date: 2025-12-01T11:00:00
 lastmod: 2025-12-01T11:00:00
 slug: 028-flame-of-renewal
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-028-flame-of-renewal.webp
 alt: Феникс спокойно стоит в очищающем пламени на вершине скалы, символизируя осознанную трансформацию, устойчивость и начало возрождения.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

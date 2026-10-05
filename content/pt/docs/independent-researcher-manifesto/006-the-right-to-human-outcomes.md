@@ -7,6 +7,7 @@ description: Um manifesto que afirma a vida humana como a finalidade última de 
 summary: Sistemas, modelos e instituições são instrumentos de navegação. O seu valor é determinado pela sua capacidade de ajudar as pessoas a viver, amar, criar, regressar a casa e construir o futuro.
 event_date: 2026-06-09T10:00:00
 publication_date: 2026-06-09T10:00:00
+date: 2026-06-09T10:00:00
 lastmod: 2026-06-09T10:00:00
 slug: 006-the-right-to-human-outcomes
 tags:
@@ -44,7 +45,7 @@ image: /images/independent-researcher-manifesto-006-the-right-to-human-outcomes.
 alt: Um núcleo humano protegido rodeado por estruturas de navegação, simbolizando sistemas ao serviço da vida em vez da sua substituição.
 related:
   - /pt/docs/independent-researcher-manifesto/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

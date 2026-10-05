@@ -7,6 +7,7 @@ description: Настоящая защита начинается с прочн�
 summary: Глубокие корни, защищённый дом и уверенность перед ветром. Эта статья исследует стойкость как силу, которая оберегает семьи, сообщества и мирную жизнь.
 event_date: 2025-10-13T13:00:00
 publication_date: 2025-10-13T13:00:00
+date: 2025-10-13T13:00:00
 lastmod: 2025-10-13T13:00:00
 slug: 015-resilience-unshakable-protection
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-015-resilience-unshakable-protection.webp
 alt: Защищённый дом среди осеннего пейзажа и дерево с глубокими корнями, которое остаётся устойчивым на ветру, символизируя стойкость и безопасность.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

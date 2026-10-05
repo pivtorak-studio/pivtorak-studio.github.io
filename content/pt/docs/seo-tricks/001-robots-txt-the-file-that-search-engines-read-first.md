@@ -7,6 +7,7 @@ description: "Uma verificação prática de SEO técnico do robots.txt: o que fa
 summary: O robots.txt é uma diretiva de crawling, não um comando de indexação ou de ranking. Esta verificação de SEO mostra como confirmar que o ficheiro existe, contém as instruções pretendidas e chega corretamente ao website em produção.
 event_date: 2026-09-07T21:00:00
 publication_date: 2026-09-07T21:00:00
+date: 2026-09-07T21:00:00
 lastmod: 2026-09-07T21:00:00
 slug: robots-txt-the-file-that-search-engines-read-first
 tags:
@@ -40,7 +41,7 @@ image: /images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first
 alt: Diagrama de verificação de robots.txt em três níveis, mostrando as verificações Source, Generated Build e Live website.
 related:
   - /pt/docs/seo-tricks/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

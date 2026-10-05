@@ -7,6 +7,7 @@ description: Исследование параллельных структур 
 summary: Работа исследует, как сообщества создают автономные сети поддержки, образования и взаимопомощи внутри авторитарной среды. Параллельные структуры рассматриваются как живая инфраструктура, обходящая контроль и становящаяся основой будущего гражданского суверенитета.
 event_date: 2026-01-23T12:00:00
 publication_date: 2026-01-23T12:00:00
+date: 2026-01-23T12:00:00
 lastmod: 2026-01-23T12:00:00
 slug: 05-02-protest-environment-parallel-structures
 tags:
@@ -80,7 +81,7 @@ related_domains:
   - ethics
   - freedom
   - network_theory
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Мы строим своё, не спрашивая разрешения у ржавчины.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

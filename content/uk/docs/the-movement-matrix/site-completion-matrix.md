@@ -38,7 +38,7 @@ image: /images/site-completion-matrix.webp
 alt: Структурована панель, що відображає стан готовності статей, метаданих, процесів публікації та індексації в багатомовному архіві знань.
 related:
   - /uk/docs/the-movement-matrix/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -7,6 +7,7 @@ description: Animals are not symbols but part of the whole. Their quiet presence
 summary: The twenty-seventh work of the PeacefulLife series reflects on belonging as a form of peace. A dog resting near the door becomes a symbol of continuity, trust, and the shared life that connects family members across species.
 event_date: 2026-02-01T13:00:00
 publication_date: 2026-02-01T13:00:00
+date: 2026-02-01T13:00:00
 lastmod: 2026-02-01T13:00:00
 slug: 027-those-who-wait-together
 tags:
@@ -50,7 +51,7 @@ image: /images/peaceful-life-027-those-who-wait-together.webp
 alt: A dog rests peacefully on its bed near the front door of a family home, surrounded by warmth, trust, and a sense of belonging.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

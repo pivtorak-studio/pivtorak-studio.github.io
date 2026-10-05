@@ -7,6 +7,7 @@ description: A symbolic record of the moment when a dream became recognition of 
 summary: A dream of a white dove became an unmistakable reminder of a Calling, initiating an intuitive sequence of aligned actions that later evolved into the foundations of Pivtorak.Studio.
 event_date: 2023-07-16T09:00:00
 publication_date: 2025-07-07T09:00:00
+date: 2025-07-07T09:00:00
 lastmod: 2025-07-07T09:00:00
 slug: 001-dream-as-calling
 tags: [calling, dream, dove, transformation, symbolic-event, intuition, beginning, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-001-dream-as-calling.webp
 alt: A white dove with open wings flies against a light beige background, symbolizing calling, support, freedom and the beginning of transformation.
-related: [/en/docs/pivtorak-studio/, /en/docs/timeline/]
+related: [/en/docs/pivtorak-studio/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/pivtorak-studio/001-dream-as-calling/

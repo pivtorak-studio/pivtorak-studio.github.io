@@ -9,6 +9,7 @@ summary: "Манифест, представляющий Pivtorak.Studio как 
 
 event_date: 2025-01-05T12:00:00
 publication_date: 2025-07-07T12:00:00
+date: 2025-07-07T12:00:00
 lastmod: 2025-07-07T12:00:00
 
 slug: 004-pivtorak-studio-formula
@@ -28,7 +29,7 @@ draft: false
 image: /images/pivtorak-studio-004-pivtorak-studio-formula.webp
 alt: "Композиция в стиле стрит-арта, представляющая Pivtorak.Studio как Architecture of Value Explosion через объединение исторической монеты Pivtorak, современной типографики, символической геометрии и актуального визуального языка."
 
-related: ["/ru/docs/pivtorak-studio/","/ru/docs/timeline/"]
+related: ["/ru/docs/pivtorak-studio/","/ru/archive/"]
 
 authors: ["Anna Pivtorak"]
 

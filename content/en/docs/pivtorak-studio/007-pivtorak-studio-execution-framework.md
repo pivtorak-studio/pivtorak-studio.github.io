@@ -7,6 +7,7 @@ description: "Defines the execution model of Pivtorak.Studio, where every projec
 summary: "The execution framework explains how projects originate, develop, and reach publication without external commissions or fragmented responsibilities. It presents execution as a closed methodological system."
 event_date: 2026-04-30T13:00:00
 publication_date: 2026-04-30T13:00:00
+date: 2026-04-30T13:00:00
 lastmod: 2026-04-30T13:00:00
 slug: 007-pivtorak-studio-execution-framework
 tags: [execution-framework, methodology, autonomous-system, project-cycle, publication, research, pivtorak-studio]
@@ -21,7 +22,7 @@ image: /images/pivtorak-studio-007-pivtorak-studio-execution-framework.webp
 alt: "An illustration titled 'Execution Framework — Pivtorak.Studio'. A geometric diamond-like core enclosed within a circular execution loop visualizes six principles: internal commission, self-defined task, autonomous process, no external pressure, closed cycle, and publication as completion."
 related:
   - /en/docs/pivtorak-studio/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: ["Anna Pivtorak"]
 draft: false
 canonical: https://pivtorak.studio/en/docs/pivtorak-studio/007-pivtorak-studio-execution-framework/

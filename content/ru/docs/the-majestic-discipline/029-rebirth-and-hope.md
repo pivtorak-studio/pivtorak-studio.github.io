@@ -7,6 +7,7 @@ description: Второй этап Стратегии Феникса. Надеж
 summary: Каждое настоящее начало рождается в тишине. Феникс напоминает, что величайшая сила часто развивается незаметно, прежде чем изменить мир.
 event_date: 2025-12-01T12:00:00
 publication_date: 2025-12-01T12:00:00
+date: 2025-12-01T12:00:00
 lastmod: 2025-12-01T12:00:00
 slug: 029-rebirth-and-hope
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-029-rebirth-and-hope.webp
 alt: Светящееся яйцо Феникса лежит в тёплом пепле, окружённое мягким светом, символизируя надежду, обновление и тихое рождение нового будущего.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

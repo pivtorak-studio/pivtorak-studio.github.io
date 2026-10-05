@@ -7,6 +7,7 @@ description: A final core recalibration exploring architecture as the design of 
 summary: Construction creates objects. Architecture designs the environments in which those objects become possible. This article marks the final stage of Core Recalibration and introduces the architecture of meaning environments as a sovereign systems-thinking discipline.
 event_date: 2026-05-31T23:00:00+01:00
 publication_date: 2026-05-31T23:00:00+01:00
+date: 2026-05-31T23:00:00+01:00
 lastmod: 2026-05-31T23:00:00+01:00
 tags:
   - CoreRecalibration
@@ -44,7 +45,7 @@ image: /images/core-recalibration-012-2026-the-architecture-of-meaning-environme
 alt: An architect standing within a luminous Vitruvian-inspired geometric structure representing Utility, Strength, and Beauty as pillars of sovereign systems thinking.
 related:
   - /en/docs/core-recalibration/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 weight: 12

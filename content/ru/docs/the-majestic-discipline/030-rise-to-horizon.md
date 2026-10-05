@@ -7,6 +7,7 @@ description: Третий этап Стратегии Феникса. Пройд
 summary: Настоящее преображение завершается тогда, когда обновление становится движением. Феникс показывает, что дисциплинированный полёт превращает надежду в реальность.
 event_date: 2025-12-01T13:00:00
 publication_date: 2025-12-01T13:00:00
+date: 2025-12-01T13:00:00
 lastmod: 2025-12-01T13:00:00
 slug: 030-rise-to-horizon
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-030-rise-to-horizon.webp
 alt: Величественный Феникс парит над рассветным пейзажем, оставляя золотой световой след, символизируя обновление, предназначение и безграничные горизонты.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

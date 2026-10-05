@@ -7,6 +7,7 @@ description: Цивилизационное исследование семан�
 summary: После восстановления преемственности и легитимности Персия отказывается от ложного ярлыка «Республика», скрывавшего авторитарный режим.
 event_date: 2026-01-29T12:00:00
 publication_date: 2026-01-29T12:00:00
+date: 2026-01-29T12:00:00
 lastmod: 2026-01-29T12:00:00
 slug: 08-02-point-of-transition-refusal-of-the-republic
 tags:
@@ -85,7 +86,7 @@ related_domains:
   - governance
   - memory
   - political_design
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Название должно соответствовать сущности. Больше никаких масок.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

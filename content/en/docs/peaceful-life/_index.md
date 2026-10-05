@@ -38,7 +38,7 @@ image: /images/peaceful-life.webp
 alt: Children drawing peace symbols and messages together, representing a peaceful future built through care, nature, and human dignity.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 toc: true
@@ -87,7 +87,7 @@ search: indexed
   "isPartOf": {
     "@type": "CollectionPage",
     "name": "Timeline: Path and Evolution",
-    "url": "https://annapivtorak.com/en/timeline/"
+    "url": "https://annapivtorak.com/en/archive/"
   }
 }
 </script>

@@ -6,6 +6,7 @@ title: "038 O Bom Senso é a Base da Paz"
 description: "A paz depende não só de fronteiras, acordos e instituições, mas também da capacidade de quem detém o poder para ver a realidade com clareza, compreender as consequências e tomar decisões responsáveis."
 event_date: 2026-09-04T21:00:00+01:00
 publication_date: 2026-09-04T21:00:00+01:00
+date: 2026-09-04T21:00:00+01:00
 lastmod: 2026-09-04T21:00:00+01:00
 slug: 038-common-sense-is-the-foundation-of-peace
 tags: [Vida Pacífica, paz, bom senso, responsabilidade política, liderança, coexistência, responsabilidade]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-038-common-sense-is-the-foundation-of-peace.webp
 alt: "Desenho detalhado a giz num quadro escolar dividido em duas cenas contrastantes: uma lição de paz na infância, com um globo, uma pomba com um ramo de oliveira e livros sobre amizade, respeito, compreensão e bondade; e a atividade política na vida adulta, com drones, explosões, edifícios em chamas e destruição."
-related: [/pt/docs/peaceful-life/, /pt/docs/timeline/]
+related: [/pt/docs/peaceful-life/, /pt/archive/]
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/038-common-sense-is-the-foundation-of-peace/

@@ -9,6 +9,7 @@ summary: "Um manifesto que apresenta a Pivtorak.Studio como um sistema onde prec
 
 event_date: 2025-01-05T12:00:00
 publication_date: 2025-07-07T12:00:00
+date: 2025-07-07T12:00:00
 lastmod: 2025-07-07T12:00:00
 
 slug: 004-pivtorak-studio-formula
@@ -28,7 +29,7 @@ draft: false
 image: /images/pivtorak-studio-004-pivtorak-studio-formula.webp
 alt: "Composição visual inspirada na street art que apresenta a Pivtorak.Studio como Arquitetura da Explosão de Valor através da fusão de uma moeda histórica Pivtorak, tipografia moderna, geometria simbólica e linguagem visual contemporânea."
 
-related: ["/pt/docs/pivtorak-studio/","/pt/docs/timeline/"]
+related: ["/pt/docs/pivtorak-studio/","/pt/archive/"]
 
 authors: ["Anna Pivtorak"]
 

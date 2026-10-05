@@ -6,6 +6,7 @@ title: "009 Trabalho por Blocos. O Método da Pintura na Arquitetura Cognitiva"
 description: Uma exploração da integridade faseada, cognição modular e trabalho por blocos como método operacional soberano derivado das técnicas clássicas da pintura e transposto para arquitetura digital, sistemas multilíngues e infraestrutura cognitiva.
 event_date: 2026-05-26T22:00:00
 publication_date: 2026-05-27T12:00:00
+date: 2026-05-27T12:00:00
 tags:
   - CoreRecalibration
   - ArquiteturaCognitiva
@@ -28,7 +29,7 @@ related:
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /pt/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
-  - /pt/docs/timeline/
+  - /pt/archive/
 weight: 9
 draft: false
 toc: true

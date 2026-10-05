@@ -7,6 +7,7 @@ description: Uma reflexão sobre paz interior, limites pessoais e a capacidade d
 summary: Inspirado pela experiência quotidiana de muitos ucranianos que recorrem à música, às vozes familiares e aos sons da vida para preservar o equilíbrio interior durante os alertas aéreos, este ensaio explora a forma como a paz pode sobreviver mesmo quando o mundo se torna insuportavelmente ruidoso.
 event_date: 2026-06-03T20:00:00+01:00
 publication_date: 2026-06-03T20:00:00+01:00
+date: 2026-06-03T20:00:00+01:00
 lastmod: 2026-06-03T20:00:00+01:00
 slug: 030-a-song-stronger-than-noise
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-030-a-song-stronger-than-noise.webp
 alt: Uma mulher encontra-se sentada num quarto pouco iluminado durante uma sirene noturna. Está vestida e preparada para qualquer eventualidade. Grandes auscultadores cobrem-lhe os ouvidos e as suas mãos tapam-lhe o rosto. Ao longe permanecem os clarões e os ruídos da cidade, enquanto uma suave cúpula luminosa de paz se forma à sua volta. A atmosfera combina vulnerabilidade, dignidade e força interior.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

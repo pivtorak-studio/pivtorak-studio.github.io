@@ -8,6 +8,7 @@ description: Formalização da transição do pensamento de escassez para o subc
 summary: Um estudo CoreRecalibration que introduz o Princípio da Congruência de Escala, a Física da Contenção e a Física da Soberania para explicar a pressão existencial em condições de bem-estar externo.
 event_date: 2026-06-15T09:00:00+01:00
 publication_date: 2026-06-15T09:00:00+01:00
+date: 2026-06-15T09:00:00+01:00
 lastmod: 2026-06-15T09:00:00+01:00
 tags:
   - deficiência
@@ -46,7 +47,7 @@ image: /images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarc
 alt: Infografia que ilustra a transição da Física da Contenção para a Física da Soberania utilizando hidrodinâmica, modelação cibernética e princípios de congruência de escala.
 related:
   - /pt/docs/core-recalibration/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/

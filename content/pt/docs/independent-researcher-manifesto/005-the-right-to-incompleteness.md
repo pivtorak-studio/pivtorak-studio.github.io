@@ -7,6 +7,7 @@ description: Um manifesto que afirma a incompletude como a condição natural do
 summary: A incompletude não é uma falha, mas uma condição para o crescimento. Os sistemas vivos evoluem através de vestígios, mapas, revisões e novas dimensões de compreensão. A investigação permanece viva quando permanece aberta.
 event_date: 2026-06-09T09:00:00
 publication_date: 2026-06-09T09:00:00
+date: 2026-06-09T09:00:00
 lastmod: 2026-06-09T09:00:00
 slug: 005-the-right-to-incompleteness
 tags:
@@ -44,7 +45,7 @@ image: /images/independent-researcher-manifesto-005-the-right-to-incompleteness.
 alt: Uma estrutura geométrica aberta expandindo-se para uma nova dimensão, simbolizando evolução, continuidade e o poder da incompletude.
 related:
   - /pt/docs/independent-researcher-manifesto/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

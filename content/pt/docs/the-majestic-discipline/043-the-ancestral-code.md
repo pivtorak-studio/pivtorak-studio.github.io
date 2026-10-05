@@ -7,6 +7,7 @@ description: O Código Ancestral explora os padrões herdados, a orientação bi
 summary: Uma base herdada pode orientar-nos antes de a experiência consciente começar. A borboleta-monarca revela como a vida pode transportar informação através das gerações sem que um único indivíduo percorra todo o caminho.
 event_date: 2026-09-19T09:00:00
 publication_date: 2026-09-19T09:00:00
+date: 2026-09-19T09:00:00
 lastmod: 2026-09-19T09:00:00
 slug: 043-the-ancestral-code
 tags: [código ancestral, borboleta-monarca, herança genética, memória entre gerações, resiliência interior]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-043-the-ancestral-code.webp
 alt: Uma borboleta-monarca de asas laranja e pretas repousa sobre uma pedra escura texturada, com subtis padrões dourados semelhantes ao ADN nas asas e uma paisagem montanhosa ao fundo.
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
+related: [/pt/docs/the-majestic-discipline/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/043-the-ancestral-code/

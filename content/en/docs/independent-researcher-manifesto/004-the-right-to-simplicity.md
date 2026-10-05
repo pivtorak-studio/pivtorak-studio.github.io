@@ -7,6 +7,7 @@ description: "A manifesto affirming simplicity as the ultimate purpose of comple
 summary: "Simplicity is not the absence of complexity but its highest integrated form. Any system ultimately exists to protect the fundamental conditions of life: home, childhood, peace, safety, and human dignity."
 event_date: 2026-06-08T15:00:00
 publication_date: 2026-06-08T15:00:00
+date: 2026-06-08T15:00:00
 lastmod: 2026-06-08T15:00:00
 slug: 004-the-right-to-simplicity
 tags: [independent-researcher, manifesto, simplicity, systems-thinking, cybernetics, human-centered-design, sovereignty, architecture, peaceful-life]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/independent-researcher-manifesto-004-the-right-to-simplicity.webp
 alt: "Nested geometric structures protecting a luminous human-centered core, symbolizing complexity serving simplicity."
-related: [/en/docs/independent-researcher-manifesto/, /en/docs/timeline/]
+related: [/en/docs/independent-researcher-manifesto/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/independent-researcher-manifesto/004-the-right-to-simplicity/

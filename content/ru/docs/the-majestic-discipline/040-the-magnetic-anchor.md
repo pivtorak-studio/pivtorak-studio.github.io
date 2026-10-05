@@ -7,6 +7,7 @@ description: "Почтовый голубь раскрывает дисципл�
 summary: "Дом — не только место назначения. Это внутренняя координата, относительно которой можно измерять своё направление."
 event_date: 2026-08-26T17:00:00
 publication_date: 2026-08-26T17:00:00
+date: 2026-08-26T17:00:00
 lastmod: 2026-08-26T17:00:00
 slug: 040-the-magnetic-anchor
 tags: [магнитная точка отсчёта, внутренний центр, дом как опора, навигация, заземление, суверенитет, направление]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-040-the-magnetic-anchor.webp
 alt: "Живой почтовый голубь стоит на постаменте из тёмного базальта в туманном пейзаже; вокруг него проходит светящаяся золотисто-голубая магнитная ось, соединяющая землю и небо, а туман отступает."
-related: [/ru/docs/the-majestic-discipline/, /ru/docs/timeline/]
+related: [/ru/docs/the-majestic-discipline/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/040-the-magnetic-anchor/

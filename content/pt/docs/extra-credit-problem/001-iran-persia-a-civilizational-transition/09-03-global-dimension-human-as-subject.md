@@ -7,6 +7,7 @@ description: O ser humano torna-se o centro ético da civilização. A Pérsia c
 summary: A Pérsia estabelece a Human-Centricidade como doutrina civilizacional. O Estado torna-se uma infraestrutura ao serviço do potencial humano e cada pessoa recupera a sua agência.
 event_date: 2026-01-31T13:00:00
 publication_date: 2026-01-31T13:00:00
+date: 2026-01-31T13:00:00
 lastmod: 2026-01-31T13:00:00
 slug: 09-03-global-dimension-human-as-subject
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - freedom
   - security
   - civilization
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: O ser humano é a medida de todas as nossas vitórias.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition
@@ -163,7 +164,7 @@ navigation_order: 09-03
         "@id":"https://pivtorak.studio/#extra-credit-problem-series"
       },
 
-      "url":"https://pivtorak.studio/timeline/"
+      "url":"https://pivtorak.studio/pt/archive/"
     }
 
   ]

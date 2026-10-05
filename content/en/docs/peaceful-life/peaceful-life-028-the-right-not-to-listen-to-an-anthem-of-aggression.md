@@ -7,6 +7,7 @@ description: A reflection on inner boundaries, memory, dignity, and the right to
 summary: Inspired by the actions of Ukrainian rhythmic gymnasts during the 2026 European Championships, this essay explores the human right to preserve an inner space free from symbols associated with violence, loss, and aggression.
 event_date: 2026-06-02T21:00:00+01:00
 publication_date: 2026-06-02T21:00:00+01:00
+date: 2026-06-02T21:00:00+01:00
 lastmod: 2026-06-02T21:00:00+01:00
 slug: 028-the-right-not-to-listen-to-an-anthem-of-aggression
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggress
 alt: Young Ukrainian gymnasts wearing headphones during a medal ceremony, surrounded by a symbolic dome of silence representing dignity, memory, and inner peace.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

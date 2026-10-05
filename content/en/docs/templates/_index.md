@@ -41,7 +41,7 @@ featured: true
 image: /images/templates.webp
 alt: Minimalist geometric illustration representing the Templates collection on Pivtorak.Studio.
 related:
-  - /en/timeline/
+  - /en/archive/
   - /en/docs/calculators/
   - /en/docs/converters/
 authors:

@@ -7,6 +7,7 @@ description: A antiga ética persa regressa como um sistema operativo civilizaci
 summary: Uma reconstrução civilizacional em que a ética deixa de ser controlo externo e se torna higiene interior, alinhando pensamento, palavra e ação.
 event_date: 2026-01-28T14:00:00
 publication_date: 2026-01-28T14:00:00
+date: 2026-01-28T14:00:00
 lastmod: 2026-01-28T14:00:00
 slug: 07-05-revival-of-identity-zoroastrianism-as-ethics
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-05-revival-of-identity-zoroastrianism-as-ethics.webp
 alt: Três fogos equilibrados fundem-se numa única luz estável num espaço aberto de pedra, sem pessoas nem símbolos de autoridade.
 related:
-  - /timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - civilization
   - governance
   - freedom
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: A ética não é uma religião; é a higiene de uma alma livre.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

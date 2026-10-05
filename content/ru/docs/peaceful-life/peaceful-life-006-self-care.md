@@ -7,6 +7,7 @@ description: Отдых — это не награда. Размышление �
 summary: Иногда самое важное действие — остановиться. Эта статья исследует заботу о себе как форму уважения, восстановления и устойчивой жизни.
 event_date: 2025-07-01T13:00:00
 publication_date: 2025-07-01T13:00:00
+date: 2025-07-01T13:00:00
 lastmod: 2025-07-01T13:00:00
 slug: 006-self-care
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-006-self-care.webp
 alt: Женщина спокойно сидит на веранде с видом на цветущее поле, наслаждаясь тишиной и размышляя о будущем.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

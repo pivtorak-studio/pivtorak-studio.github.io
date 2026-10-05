@@ -6,6 +6,7 @@ description: Os adultos desenham conscientemente as estruturas da paz, transform
 summary: A vigésima terceira obra da série Vida Pacífica reflete sobre a paz como um ato deliberado de criação. Através de linhas simples, círculos, casas e caminhos, os adultos constroem as condições que permitem à vida florescer sem medo.
 event_date: 2026-01-01T12:00:00
 publication_date: 2026-01-01T12:00:00
+date: 2026-01-01T12:00:00
 lastmod: 2026-01-01T12:00:00
 slug: 023-peace-drawn-with-awareness
 tags:
@@ -47,7 +48,7 @@ image: /images/peaceful-life-023-peace-drawn-with-awareness.webp
 alt: Mãos de vários adultos desenham um círculo, uma casa e um caminho com giz branco, simbolizando a arquitetura consciente da paz.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

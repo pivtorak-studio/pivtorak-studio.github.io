@@ -8,6 +8,7 @@ description: An exploration of happiness as a side effect of sovereignty. A stud
 summary: A reflection on the transition from excess coordinates without an address to a sovereign field. The article examines the legalization of the inner cosmos, the rehabilitation of biography, and the emergence of happiness as a natural consequence of self-sovereignty.
 event_date: 2026-06-14T21:00:00+01:00
 publication_date: 2026-06-14T21:00:00+01:00
+date: 2026-06-14T21:00:00+01:00
 lastmod: 2026-06-14T21:00:00+01:00
 tags:
   - happiness
@@ -45,7 +46,7 @@ image: /images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happ
 alt: A sovereign woman stands at the center of a luminous field of blue and golden energy. Around her, a dance of energies connects knowledge, biography, family foundations, and systems thinking into a single living architecture. Circular energy streams surround her body without restraint, symbolizing the legalization of the inner cosmos. A radiant heart glows within a fractal structure, representing happiness not as a destination but as a side effect of sovereignty. The infographic visualizes the transition from excess coordinates without an address to a sovereign field called Pivtorak.Studio.
 related:
   - /en/docs/core-recalibration/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/core-recalibration/013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty/

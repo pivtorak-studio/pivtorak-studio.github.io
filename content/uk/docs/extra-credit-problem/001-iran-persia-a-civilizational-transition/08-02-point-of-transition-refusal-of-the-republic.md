@@ -7,6 +7,7 @@ description: Цивілізаційне дослідження семантич�
 summary: Після відновлення тяглості та легітимності Персія відмовляється від хибного ярлика «Республіка», який приховував авторитарний режим.
 event_date: 2026-01-29T12:00:00
 publication_date: 2026-01-29T12:00:00
+date: 2026-01-29T12:00:00
 lastmod: 2026-01-29T12:00:00
 slug: 08-02-point-of-transition-refusal-of-the-republic
 tags:
@@ -85,7 +86,7 @@ related_domains:
   - governance
   - memory
   - political_design
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Назва має відповідати сутності. Більше ніяких масок.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

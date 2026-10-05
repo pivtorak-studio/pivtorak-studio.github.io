@@ -7,6 +7,7 @@ description: Некоторые из самых важных моментов ж
 summary: Плед на траве, простая еда, разговоры и смех. Эта статья исследует ценность совместного времени и создания воспоминаний в мирной жизни.
 event_date: 2025-08-01T13:00:00
 publication_date: 2025-08-01T13:00:00
+date: 2025-08-01T13:00:00
 lastmod: 2025-08-01T13:00:00
 slug: 009-family-picnic
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-009-family-picnic.webp
 alt: Семья отдыхает на пикнике в тёплый летний день, разделяя еду, разговоры и спокойные моменты вместе.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/009-family-picnic/

@@ -7,6 +7,7 @@ description: Роздуми про внутрішні межі, пам'ять, �
 summary: Натхненне вчинком українських гімнасток на Чемпіонаті Європи 2026 року, це есе досліджує право людини зберігати внутрішній простір вільним від символів насильства, втрати та агресії.
 event_date: 2026-06-02T21:00:00+01:00
 publication_date: 2026-06-02T21:00:00+01:00
+date: 2026-06-02T21:00:00+01:00
 lastmod: 2026-06-02T21:00:00+01:00
 slug: 028-the-right-not-to-listen-to-an-anthem-of-aggression
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggress
 alt: Юні українські гімнастки у навушниках під час церемонії нагородження, оточені символічним куполом тиші, що уособлює гідність, пам'ять та внутрішній мир.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/028-the-right-not-to-listen-to-an-anthem-of-aggression/

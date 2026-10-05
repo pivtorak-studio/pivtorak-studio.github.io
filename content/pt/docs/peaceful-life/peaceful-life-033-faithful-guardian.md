@@ -7,6 +7,7 @@ description: Uma reflexão sobre a lealdade, a proteção silenciosa e a presen�
 summary: Os verdadeiros guardiões não procuram reconhecimento. Simplesmente permanecem.
 event_date: 2026-07-01T17:00:00+01:00
 publication_date: 2026-07-01T17:00:00+01:00
+date: 2026-07-01T17:00:00+01:00
 lastmod: 2026-07-01T17:00:00+01:00
 slug: 033-faithful-guardian
 tags:
@@ -44,7 +45,7 @@ authors:
   - Anna Pivtorak
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/033-faithful-guardian/
 weight: 33
 completion: 100

@@ -6,6 +6,7 @@ title: "009 Робота Блоками. Метод живопису в когн
 description: Осмислення фазової цілісності, модульного мислення та роботи блоками як суверенного операційного методу, що походить із класичного живопису та переноситься у цифрову архітектуру, багатомовні системи й когнітивну інфраструктуру.
 event_date: 2026-05-26T22:00:00
 publication_date: 2026-05-27T12:00:00
+date: 2026-05-27T12:00:00
 tags:
   - CoreRecalibration
   - КогнітивнаАрхітектура
@@ -28,7 +29,7 @@ related:
   - /uk/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /uk/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /uk/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
-  - /uk/docs/timeline/
+  - /uk/archive/
 weight: 9
 draft: false
 toc: true

@@ -7,6 +7,7 @@ description: "O diagnóstico inicial da tragédia iraniana: um sistema onde o po
 summary: Uma análise do vazio ético no centro das estruturas autoritárias e das consequências sistémicas da governação sem responsabilidade moral.
 event_date: 2026-01-16T11:00:00
 publication_date: 2026-01-16T11:00:00
+date: 2026-01-16T11:00:00
 lastmod: 2026-01-16T11:00:00
 slug: 01-01-tragedy-ethical-vacuum
 tags:
@@ -80,7 +81,7 @@ geographic_scope:
 related_domains:
   - afghanistan
   - pakistan
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Onde não há coração, não há lei.
 manifesto_type: diagnosis
 project: "Irão – Pérsia: Uma Transição Civilizacional"

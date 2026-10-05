@@ -7,6 +7,7 @@ description: Свобода становится государственной 
 summary: Персия предлагает новую глобальную модель, в которой свобода функционирует как инфраструктура. Открытые протоколы, прозрачные институты и видимые системные потоки создают устойчивость через открытость, а не через силу.
 event_date: 2026-01-30T11:00:00
 publication_date: 2026-01-30T11:00:00
+date: 2026-01-30T11:00:00
 lastmod: 2026-01-30T11:00:00
 slug: 09-01-global-dimension-freedom-as-structure
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - freedom
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Свобода — это не хаос; это высший порядок.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition

@@ -7,6 +7,7 @@ description: Хлеб, вода и свет свечи становятся си
 summary: Размышление о простой еде как об акте памяти, благодарности и человеческой связи. Хлеб, вода и свет напоминают, что мир начинается с самых простых вещей.
 event_date: 2025-11-01T11:00:00
 publication_date: 2025-11-01T11:00:00
+date: 2025-11-01T11:00:00
 lastmod: 2025-11-01T11:00:00
 slug: 016-memory-simple-food
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-016-memory-simple-food.webp
 alt: Свеча, хлеб и кувшин с водой на деревянном столе. Тёплый свет падает на руки с ломтиком хлеба, создавая атмосферу благодарности, мира и присутствия.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

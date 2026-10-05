@@ -7,6 +7,7 @@ description: Structural deafness as a mechanism of authoritarian governance.
 summary: Analysis of simulated communication systems where dialogue exists formally but lacks any capacity for response or ethical reception.
 event_date: 2026-01-17T12:00:00
 publication_date: 2026-01-17T12:00:00
+date: 2026-01-17T12:00:00
 lastmod: 2026-01-17T12:00:00
 slug: 01-02-tragedy-false-dialogue
 tags:
@@ -80,7 +81,7 @@ manifesto_type: verdict
 project: IranPersiaCivilizationalTransition
 project_stage: I. Tragedy
 navigation_order: 1
-timeline: /timeline/
+timeline: /en/archive/
 ---
 
 <script type="application/ld+json">

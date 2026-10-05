@@ -7,6 +7,7 @@ description: A study of parallel structures as decentralized systems of solidari
 summary: This work explores how communities create autonomous networks of support, education, and mutual aid inside authoritarian environments. It examines parallel structures as living infrastructures that bypass control and become the foundation of future civic sovereignty.
 event_date: 2026-01-23T12:00:00
 publication_date: 2026-01-23T12:00:00
+date: 2026-01-23T12:00:00
 lastmod: 2026-01-23T12:00:00
 slug: 05-02-protest-environment-parallel-structures
 tags:
@@ -80,7 +81,7 @@ related_domains:
   - ethics
   - freedom
   - network_theory
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: We build our own, without asking permission from the rust.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

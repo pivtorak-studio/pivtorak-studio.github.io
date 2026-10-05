@@ -40,7 +40,7 @@ featured: true
 image: /images/calculators.webp
 alt: Ilustração geométrica minimalista que representa a coleção de Calculadoras do Pivtorak.Studio.
 related:
-  - /pt/timeline/
+  - /pt/archive/
   - /pt/docs/converters/
   - /pt/docs/templates/
 authors:
@@ -112,4 +112,3 @@ _Calculadoras. AP | Pivtorak.Studio. 07.07.2026_
 
 ---
 {{< section >}}
-

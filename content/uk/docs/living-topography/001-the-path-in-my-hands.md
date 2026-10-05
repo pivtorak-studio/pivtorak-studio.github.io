@@ -9,6 +9,7 @@ description: Міжкультурний досвід в Ешпозенде, де
 summary: Досвід творчої групи, у якому білі тканинні шляхи, рух, музика та міжкультурний діалог перетворили сірий килим на живу топографію.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
+date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
 tags:
   - Living Topography
@@ -45,7 +46,7 @@ image: /images/living-topography-001-the-path-in-my-hands.webp
 alt: Руки тримають білий тканинний шлях над темно-сірим килимом
 related:
   - /uk/docs/living-topography/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/living-topography/001-the-path-in-my-hands/

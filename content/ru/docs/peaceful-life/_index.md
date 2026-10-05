@@ -38,7 +38,7 @@ image: /images/peaceful-life.webp
 alt: Дети вместе рисуют символы мира и добрые послания, создавая образ будущего, основанного на заботе, природе и человеческом достоинстве.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 toc: true
@@ -87,7 +87,7 @@ search: indexed
   "isPartOf": {
     "@type": "CollectionPage",
     "name": "Хронология: Путь и Эволюция",
-    "url": "https://annapivtorak.com/ru/timeline/"
+    "url": "https://annapivtorak.com/ru/archive/"
   }
 }
 </script>

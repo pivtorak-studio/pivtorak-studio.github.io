@@ -7,6 +7,7 @@ description: A bear resting in its winter den becomes a symbol of disciplined ac
 summary: "The first stage of the European Bear strategy: accumulation of resources, strategic patience, and the quiet formation of enduring power."
 event_date: 2025-11-20T11:00:00
 publication_date: 2025-11-20T11:00:00
+date: 2025-11-20T11:00:00
 lastmod: 2025-11-20T11:00:00
 slug: 025-accumulation-power-foundation
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-025-accumulation-power-foundation.webp
 alt: A large brown bear sleeps inside its winter den. Its massive body is partially covered by shadows, yet an unmistakable sense of power and quiet presence radiates from its stillness. Around it — snow, trees, dim winter light, and the atmosphere of accumulated, hidden strength.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -7,6 +7,7 @@ description: Uma reflexão sobre bondade, confiança e o calor que regressa atra
 summary: O verdadeiro calor nasce do cuidado, da confiança e da companhia silenciosa. Aquilo que oferecemos aos outros com sinceridade regressa muitas vezes quando mais precisamos.
 event_date: 2025-11-01T12:00:00
 publication_date: 2025-11-01T12:00:00
+date: 2025-11-01T12:00:00
 lastmod: 2025-11-01T12:00:00
 slug: 017-warmth-that-returns
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-017-warmth-that-returns.webp
 alt: Uma criança com cachecol senta-se ao lado de um cão junto a uma pequena fogueira. O calor partilhado mistura-se com a luz das chamas, criando uma atmosfera de confiança, conforto e cuidado mútuo.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

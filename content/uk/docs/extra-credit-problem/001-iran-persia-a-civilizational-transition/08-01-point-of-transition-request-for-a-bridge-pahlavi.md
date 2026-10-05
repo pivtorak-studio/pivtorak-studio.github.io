@@ -7,6 +7,7 @@ description: Цивілізаційне дослідження тяглості 
 summary: Після руйнування страху та відновлення ідентичності Персія стикається з небезпечним вакуумом влади. Робота досліджує Пахлаві як механізм тяглості між пам’яттю про Кіра Великого та сучасними демократичними інституціями.
 event_date: 2026-01-29T11:00:00
 publication_date: 2026-01-29T11:00:00
+date: 2026-01-29T11:00:00
 lastmod: 2026-01-29T11:00:00
 slug: 08-01-point-of-transition-request-for-a-bridge-pahlavi
 tags:
@@ -85,7 +86,7 @@ related_domains:
   - memory
   - democracy
   - political_design
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Міст між величчю минулого та свободою майбутнього.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

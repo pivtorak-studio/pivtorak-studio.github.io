@@ -7,6 +7,7 @@ description: A Pérsia restaura a soberania visual ao remover suavemente as cama
 summary: Uma reconstrução civilizacional em que a desocupação visual transforma a arquitetura de um suporte de significados impostos num ambiente vivo para cidadãos livres.
 event_date: 2026-01-28T15:00:00
 publication_date: 2026-01-28T15:00:00
+date: 2026-01-28T15:00:00
 lastmod: 2026-01-28T15:00:00
 slug: 07-06-revival-of-identity-symbolic-cleansing
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-06-revival-of-identity-symbolic-cleansing.webp
 alt: Mãos lavam suavemente tinta preta de um baixo-relevo inspirado em Persépolis com água limpa, revelando mármore branco e cinzento-claro. Reflexos subtis brilham na superfície.
 related:
-  - /timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - ethics
   - freedom
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: A cidade respira livremente quando a falsidade é lavada.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

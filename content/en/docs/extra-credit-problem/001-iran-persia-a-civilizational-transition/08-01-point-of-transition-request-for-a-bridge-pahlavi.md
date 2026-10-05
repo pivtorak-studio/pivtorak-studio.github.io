@@ -7,6 +7,7 @@ description: A civilizational reflection on continuity during democratic transit
 summary: After the collapse of fear and the restoration of identity, Persia faces a dangerous vacuum. This work explores Pahlavi as a mechanism of continuity that connects the memory of Cyrus the Great with modern democratic institutions, allowing the transition from tyranny to democracy without structural collapse.
 event_date: 2026-01-29T11:00:00
 publication_date: 2026-01-29T11:00:00
+date: 2026-01-29T11:00:00
 lastmod: 2026-01-29T11:00:00
 slug: 08-01-point-of-transition-request-for-a-bridge-pahlavi
 tags:
@@ -85,7 +86,7 @@ related_domains:
   - memory
   - democracy
   - political_design
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: A bridge between the greatness of the past and the freedom of the future.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

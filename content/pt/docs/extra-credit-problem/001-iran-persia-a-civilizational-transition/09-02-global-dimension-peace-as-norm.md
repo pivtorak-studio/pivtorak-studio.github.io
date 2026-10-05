@@ -7,6 +7,7 @@ description: A paz torna-se uma arquitetura ativa de estabilidade regional. A P�
 summary: A Pérsia propõe um novo modelo de segurança regional em que a paz funciona como infraestrutura. A arbitragem substitui a expansão, a legitimidade substitui a influência oculta e a estabilidade torna-se uma norma conscientemente concebida.
 event_date: 2026-01-30T12:00:00
 publication_date: 2026-01-30T12:00:00
+date: 2026-01-30T12:00:00
 lastmod: 2026-01-30T12:00:00
 slug: 09-02-global-dimension-peace-as-norm
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Poder que constrói, não destrói.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition
@@ -161,7 +162,7 @@ navigation_order: 09-02
         "@id":"https://pivtorak.studio/#extra-credit-problem-series"
       },
 
-      "url":"https://pivtorak.studio/timeline/"
+      "url":"https://pivtorak.studio/pt/archive/"
     }
 
   ]

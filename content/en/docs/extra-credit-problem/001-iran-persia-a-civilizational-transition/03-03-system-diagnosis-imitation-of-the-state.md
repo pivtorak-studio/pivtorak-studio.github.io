@@ -7,6 +7,7 @@ description: An examination of how authoritarian systems imitate statehood while
 summary: This work diagnoses the decorative architecture of tyranny, exposing how courts, ministries, and laws become props that conceal the absence of governance, accountability, and public service.
 event_date: 2026-01-21T13:00:00
 publication_date: 2026-01-21T13:00:00
+date: 2026-01-21T13:00:00
 lastmod: 2026-01-21T13:00:00
 slug: 03-03-system-diagnosis-imitation-of-the-state
 tags:
@@ -82,7 +83,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: collapse-of-the-facade
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

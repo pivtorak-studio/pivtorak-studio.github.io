@@ -7,6 +7,7 @@ description: True protection begins with strong foundations. A reflection on res
 summary: Deep roots, a protected home, and the confidence to withstand the wind. This article explores resilience as a force that safeguards families, communities, and peaceful life.
 event_date: 2025-10-13T13:00:00
 publication_date: 2025-10-13T13:00:00
+date: 2025-10-13T13:00:00
 lastmod: 2025-10-13T13:00:00
 slug: 015-resilience-unshakable-protection
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-015-resilience-unshakable-protection.webp
 alt: A protected home stands within an autumn landscape while a deeply rooted tree remains firm against the wind, symbolizing resilience and security.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

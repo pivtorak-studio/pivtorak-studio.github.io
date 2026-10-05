@@ -7,6 +7,7 @@ description: "Магниторецепция предлагает природн
 summary: "Чтобы ориентироваться в неопределённости, научись чувствовать поле: распознавать невидимые сигналы, замечать закономерности и перенастраиваться, не теряя направления."
 event_date: 2026-08-27T09:00:00
 publication_date: 2026-08-27T09:00:00
+date: 2026-08-27T09:00:00
 lastmod: 2026-08-27T09:00:00
 slug: 041-orientation-in-the-field
 tags: [магниторецепция, геомагнитное поле, ориентация, невидимые сигналы, распознавание закономерностей, внутренний компас, тонкая настройка, навигация]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-041-orientation-in-the-field.webp
 alt: "Почтовый голубь летит высоко над облаками вдоль тонкой светящейся линии, символизирующей магнитное поле Земли; вокруг птицы изгибаются элегантные линии поля, создавая ощущение невидимой структуры и направления."
-related: [/ru/docs/the-majestic-discipline/, /ru/docs/timeline/]
+related: [/ru/docs/the-majestic-discipline/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/041-orientation-in-the-field/

@@ -7,6 +7,7 @@ description: Морська черепаха рухається глибинам
 summary: Перший етап Стратегії Морської Черепахи досліджує магнітний резонанс як символ внутрішнього закону, тиші та справжньої навігації.
 event_date: 2026-01-07T11:00:00
 publication_date: 2026-01-07T11:00:00
+date: 2026-01-07T11:00:00
 lastmod: 2026-01-07T11:00:00
 slug: 031-magnetic-resonance-alignment
 tags:
@@ -44,7 +45,7 @@ image: /images/the-majestic-discipline-031-magnetic-resonance-alignment.webp
 alt: Велична морська черепаха пливе глибинами океану серед золотих ліній магнітного поля Землі, а її панцир входить із ними в резонанс.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

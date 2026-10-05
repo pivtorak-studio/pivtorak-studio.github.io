@@ -7,6 +7,7 @@ description: Давня перська етика повертається як 
 summary: Цивілізаційне відновлення, у якому етика перестає бути зовнішнім контролем і стає внутрішньою гігієною, вирівнюючи думку, слово й дію.
 event_date: 2026-01-28T14:00:00
 publication_date: 2026-01-28T14:00:00
+date: 2026-01-28T14:00:00
 lastmod: 2026-01-28T14:00:00
 slug: 07-05-revival-of-identity-zoroastrianism-as-ethics
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-05-revival-of-identity-zoroastrianism-as-ethics.webp
 alt: Три врівноважені вогні зливаються в єдине стійке світло у відкритому кам’яному просторі без людей і символів влади.
 related:
-  - /timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - civilization
   - governance
   - freedom
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Етика — це не релігія; це гігієна вільної душі.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

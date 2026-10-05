@@ -7,6 +7,7 @@ description: "Поштовий голуб розкриває дисциплін�
 summary: "Дім — не лише місце призначення. Це внутрішня координата, відносно якої можна вимірювати свій напрямок."
 event_date: 2026-08-26T17:00:00
 publication_date: 2026-08-26T17:00:00
+date: 2026-08-26T17:00:00
 lastmod: 2026-08-26T17:00:00
 slug: 040-the-magnetic-anchor
 tags: [магнітна точка відліку, внутрішній центр, дім як опора, навігація, заземлення, суверенітет, напрямок]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-040-the-magnetic-anchor.webp
 alt: "Живий поштовий голуб стоїть на п'єдесталі з темного базальту в туманному пейзажі; навколо нього проходить світна золотаво-блакитна магнітна вісь, що з'єднує землю й небо, а туман відступає."
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
+related: [/uk/docs/the-majestic-discipline/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/040-the-magnetic-anchor/

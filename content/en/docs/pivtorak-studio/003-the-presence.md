@@ -7,6 +7,7 @@ description: "The moment when the new reality becomes active: the system is no l
 summary: "After leaving existing systems, the author establishes Pivtorak.Studio as an independent architecture. Publication marks the transition from intention to reality, where presence becomes the center of the system."
 event_date: 2023-08-10T11:00:00
 publication_date: 2025-07-07T11:00:00
+date: 2025-07-07T11:00:00
 lastmod: 2025-07-07T11:00:00
 slug: 003-the-presence
 tags: [presence, transformation, pivtorak-studio, system, architecture, value, publication, reality]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-003-the-presence.webp
 alt: "A minimalist sphere woven from interconnected lines and nodes representing a living value system. Every node carries the Pivtorak.Studio mark, symbolizing presence as the activation point of transformation."
-related: [/en/docs/pivtorak-studio/, /en/docs/timeline/]
+related: [/en/docs/pivtorak-studio/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/pivtorak-studio/003-the-presence/

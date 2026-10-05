@@ -7,6 +7,7 @@ description: O Destino Soberano explora a conclusão de um ciclo ancestral, a re
 summary: Uma longa viagem ganha significado quando tudo aquilo que foi transportado através das gerações finalmente se reúne num centro coerente. A borboleta-monarca simboliza uma continuidade viva que chega a um lugar onde o movimento herdado pode transformar-se em estrutura, identidade e base para um novo ciclo.
 event_date: 2026-09-19T15:00:00
 publication_date: 2026-09-19T15:00:00
+date: 2026-09-19T15:00:00
 lastmod: 2026-09-19T15:00:00
 slug: 045-the-sovereign-destination
 tags: [destino soberano, borboleta-monarca, continuidade ancestral, ciclo concluído, centro interior]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-045-the-sovereign-destination.webp
 alt: Uma borboleta-monarca com as asas laranja e pretas completamente abertas repousa sobre um cristal arquitectónico luminoso no centro de um antigo santuário de pedra, rodeada por água reflectora e vegetação de outono sob um céu dourado.
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
+related: [/pt/docs/the-majestic-discipline/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/045-the-sovereign-destination/

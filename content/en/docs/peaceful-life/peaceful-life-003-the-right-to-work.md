@@ -7,6 +7,7 @@ description: Earning a living is not a luxury. A reflection on the dignity of wo
 summary: Work is more than income. It is participation, creativity, responsibility, and independence. This article explores the right to work as a foundation of peaceful life.
 event_date: 2025-06-01T13:00:00
 publication_date: 2025-06-01T13:00:00
+date: 2025-06-01T13:00:00
 lastmod: 2025-06-01T13:00:00
 slug: 003-the-right-to-work
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-003-the-right-to-work.webp
 alt: Young people working together in a peaceful environment, contributing to their community through meaningful work and cooperation.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

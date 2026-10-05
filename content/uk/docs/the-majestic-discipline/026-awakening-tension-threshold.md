@@ -7,6 +7,7 @@ description: Ведмідь, що виходить із тіні, стає си�
 summary: "Другий етап стратегії Європейського Ведмедя: пробудження, стратегічна готовність і відповідальна демонстрація сили."
 event_date: 2025-11-20T12:00:00
 publication_date: 2025-11-20T12:00:00
+date: 2025-11-20T12:00:00
 lastmod: 2025-11-20T12:00:00
 slug: 026-awakening-tension-threshold
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-026-awakening-tension-threshold.webp
 alt: Великий ведмідь виходить із темної гущавини. Він стоїть на задніх лапах, напівосвітлений денним світлом. Його рик вібрує в повітрі хвилями, а навколо видно зламану гілку — знак того, що пробудження вже почалося.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

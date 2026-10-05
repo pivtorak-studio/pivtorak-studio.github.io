@@ -9,6 +9,7 @@ summary: "From observation to design, this manifesto introduces the Architecture
 
 event_date: 2026-03-18T11:00:00
 publication_date: 2026-03-18T11:00:00
+date: 2026-03-18T11:00:00
 lastmod: 2026-03-18T11:00:00
 
 slug: 001-the-architecture-of-resonance

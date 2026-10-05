@@ -7,6 +7,7 @@ description: A reflection on inner peace, personal boundaries, and the ability t
 summary: Inspired by the everyday experience of Ukrainians who use music, voices, and familiar sounds to preserve their inner balance during air raids, this essay explores how peace can survive even when the world grows unbearably loud.
 event_date: 2026-06-03T20:00:00+01:00
 publication_date: 2026-06-03T20:00:00+01:00
+date: 2026-06-03T20:00:00+01:00
 lastmod: 2026-06-03T20:00:00+01:00
 slug: 030-a-song-stronger-than-noise
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-030-a-song-stronger-than-noise.webp
 alt: A woman sits in a dimly lit room during a night air raid. She is dressed and prepared for any outcome. Large headphones cover her ears while her hands hide her face. Distant flashes and city noise remain outside, while a soft luminous dome of peace forms around her. The atmosphere combines vulnerability, dignity, and inner strength.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

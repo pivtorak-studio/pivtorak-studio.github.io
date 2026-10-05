@@ -7,6 +7,7 @@ description: "O momento em que a nova realidade deixa de ser imaginada e passa a
 summary: "Depois de abandonar os sistemas existentes, a autora estabelece o Pivtorak.Studio como uma arquitetura independente. A publicação marca a passagem da intenção para a realidade."
 event_date: 2023-08-10T11:00:00
 publication_date: 2025-07-07T11:00:00
+date: 2025-07-07T11:00:00
 lastmod: 2025-07-07T11:00:00
 slug: 003-the-presence
 tags: [presença, transformação, pivtorak-studio, sistema, arquitetura, valor, publicação, realidade]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-003-the-presence.webp
 alt: "Uma esfera minimalista formada por linhas e nós interligados que representam um sistema vivo de valores. Cada nó contém a marca Pivtorak.Studio, simbolizando a presença como ponto de ativação da transformação."
-related: [/pt/docs/pivtorak-studio/, /pt/docs/timeline/]
+related: [/pt/docs/pivtorak-studio/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/pivtorak-studio/003-the-presence/

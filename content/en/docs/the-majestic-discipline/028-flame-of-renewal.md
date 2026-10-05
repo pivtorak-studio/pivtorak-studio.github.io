@@ -7,6 +7,7 @@ description: The first stage of the Phoenix Strategy. Conscious completion, clea
 summary: The Phoenix accepts the fire without fear. True renewal begins when we consciously release what no longer serves the future.
 event_date: 2025-12-01T11:00:00
 publication_date: 2025-12-01T11:00:00
+date: 2025-12-01T11:00:00
 lastmod: 2025-12-01T11:00:00
 slug: 028-flame-of-renewal
 tags: [Phoenix Strategy, Phoenix, Flame Of Renewal, Cleansing Fire, Transformation, Renewal, Crisis Leadership, Strategic Thinking, Resilience, Systems Thinking, Discipline, The Majestic Discipline, New Reality]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-028-flame-of-renewal.webp
 alt: Phoenix standing calmly within cleansing flames atop a rocky summit, symbolizing conscious transformation, resilience, and the beginning of renewal.
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/028-flame-of-renewal/

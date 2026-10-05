@@ -7,6 +7,7 @@ description: Growth takes time. A reflection on patience, maturity, and the righ
 summary: Fields do not hurry. Seasons do not compete. This article explores the idea that life deserves the time and safety needed to reach maturity.
 event_date: 2025-08-01T12:00:00
 publication_date: 2025-08-01T12:00:00
+date: 2025-08-01T12:00:00
 lastmod: 2025-08-01T12:00:00
 slug: 008-the-right-to-ripen
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-008-the-right-to-ripen.webp
 alt: A peaceful golden field under a summer sky. Mature grain sways gently in the wind, symbolizing patience, growth, and the completion of a natural cycle.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/008-the-right-to-ripen/

@@ -7,6 +7,7 @@ description: Суверенная модель принятия решений, 
 summary: Сердце отвечает на вопрос «Куда?». Разум отвечает на вопрос «Как?». Core Recalibration начинается тогда, когда отсутствие энергии воспринимается как системный сигнал, а не как личная слабость.
 event_date: 2026-05-30T18:00:00
 publication_date: 2026-05-30T18:00:00
+date: 2026-05-30T18:00:00
 lastmod: 2026-05-30T18:00:00
 tags:
   - Core Recalibration
@@ -50,7 +51,7 @@ related:
   - /ru/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /ru/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
   - /ru/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 weight: 10

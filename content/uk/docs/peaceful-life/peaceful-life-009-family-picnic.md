@@ -7,6 +7,7 @@ description: Деякі з найважливіших моментів житт�
 summary: Ковдра на траві, проста їжа, розмови та сміх. Ця стаття досліджує цінність спільного часу та створення спогадів у мирному житті.
 event_date: 2025-08-01T13:00:00
 publication_date: 2025-08-01T13:00:00
+date: 2025-08-01T13:00:00
 lastmod: 2025-08-01T13:00:00
 slug: 009-family-picnic
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-009-family-picnic.webp
 alt: Родина відпочиває на пікніку в теплий літній день, ділячись їжею, розмовами та спокійними митями разом.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/009-family-picnic/

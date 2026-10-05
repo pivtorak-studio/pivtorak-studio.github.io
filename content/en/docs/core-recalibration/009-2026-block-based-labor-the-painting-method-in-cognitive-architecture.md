@@ -6,6 +6,7 @@ title: "009 Block-Based Labor. The Painting Method in Cognitive Architecture"
 description: An exploration of phased integrity, modular cognition, and block-based labor as a sovereign operational method derived from classical painting techniques and transposed into digital architecture, multilingual systems, and cognitive infrastructure.
 event_date: 2026-05-26T22:00:00
 publication_date: 2026-05-27T12:00:00
+date: 2026-05-27T12:00:00
 tags:
   - CoreRecalibration
   - CognitiveArchitecture
@@ -28,7 +29,7 @@ related:
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /en/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /en/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
-  - /en/docs/timeline/
+  - /en/archive/
 weight: 9
 draft: false
 toc: true

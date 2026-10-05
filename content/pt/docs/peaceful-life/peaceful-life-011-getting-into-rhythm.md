@@ -7,6 +7,7 @@ description: Depois da pausa de verão chega uma nova fase de concentração. Um
 summary: Uma secretária organizada, café da manhã, um caderno e um novo projeto. Este artigo explora o valor do trabalho com propósito e o regresso sereno à produtividade.
 event_date: 2025-09-01T12:00:00
 publication_date: 2025-09-01T12:00:00
+date: 2025-09-01T12:00:00
 lastmod: 2025-09-01T12:00:00
 slug: 011-getting-into-rhythm
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-011-getting-into-rhythm.webp
 alt: Um espaço de trabalho organizado com portátil, caderno e café da manhã, simbolizando um regresso tranquilo ao trabalho e à aprendizagem.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/011-getting-into-rhythm/

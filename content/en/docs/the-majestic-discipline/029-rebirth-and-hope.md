@@ -7,6 +7,7 @@ description: The second stage of the Phoenix Strategy. Hope is born quietly with
 summary: Every true beginning starts in silence. The Phoenix teaches that the greatest strength often grows unseen before it transforms the world.
 event_date: 2025-12-01T12:00:00
 publication_date: 2025-12-01T12:00:00
+date: 2025-12-01T12:00:00
 lastmod: 2025-12-01T12:00:00
 slug: 029-rebirth-and-hope
 tags: [Phoenix Strategy, Phoenix, Rebirth And Hope, Hope, Renewal, New Beginning, Transformation, Resilience, Leadership, Systems Thinking, Discipline, The Majestic Discipline, New Reality]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-029-rebirth-and-hope.webp
 alt: A glowing Phoenix egg resting in warm ashes, surrounded by gentle light, symbolizing hope, renewal, and the quiet birth of a new future.
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/029-rebirth-and-hope/

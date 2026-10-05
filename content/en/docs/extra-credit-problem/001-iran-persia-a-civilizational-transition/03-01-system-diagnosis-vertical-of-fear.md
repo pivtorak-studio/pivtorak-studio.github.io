@@ -7,6 +7,7 @@ description: An examination of how authoritarian systems maintain themselves thr
 summary: This work diagnoses the architecture of fear inside authoritarian regimes, revealing how coercive hierarchies consume their own participants and ultimately become structurally fragile.
 event_date: 2026-01-20T11:00:00
 publication_date: 2026-01-20T11:00:00
+date: 2026-01-20T11:00:00
 lastmod: 2026-01-20T11:00:00
 slug: 03-01-system-diagnosis-vertical-of-fear
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: fear-loses-its-adhesion
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

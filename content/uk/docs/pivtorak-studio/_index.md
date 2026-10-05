@@ -27,7 +27,7 @@ featured: true
 image: /images/pivtorak-studio-the-formula-of-transformation.webp
 alt: "Концептуальна схема Формули трансформації Pivtorak.Studio"
 
-related: [/uk/docs/pivtorak-studio/, /uk/docs/timeline/]
+related: [/uk/docs/pivtorak-studio/, /uk/archive/]
 
 authors: [Anna Pivtorak]
 

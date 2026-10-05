@@ -19,7 +19,7 @@ status: published
 featured: true
 image: /images/seo-tricks.webp
 alt: "Темна технічна ілюстрація, що представляє SEO-дослідження через код, діагностику сайту та приховані технічні проблеми."
-related: [/uk/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /uk/docs/timeline/]
+related: [/uk/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/seo-tricks/

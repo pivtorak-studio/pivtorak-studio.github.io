@@ -4,6 +4,7 @@ title: 006 Аксиома Единства
 weight: 6
 event_date: 2025-10-02T13:00:00
 publication_date: 2025-10-02T13:00:00
+date: 2025-10-02T13:00:00
 ---
 
 

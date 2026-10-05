@@ -7,6 +7,7 @@ description: Морська черепаха долає відкритий ок�
 summary: Другий етап Стратегії Морської Черепахи досліджує вірність як дисципліну збереження напрямку крізь відстані, невідомість і могутні течії.
 event_date: 2026-01-07T12:00:00
 publication_date: 2026-01-07T12:00:00
+date: 2026-01-07T12:00:00
 lastmod: 2026-01-07T12:00:00
 slug: 032-transoceanic-passage-fidelity
 tags:
@@ -44,7 +45,7 @@ image: /images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp
 alt: Могутня морська черепаха пливе крізь бурхливі освітлені глибини океану, долаючи потужні течії з непохитною вірністю невидимій цілі.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

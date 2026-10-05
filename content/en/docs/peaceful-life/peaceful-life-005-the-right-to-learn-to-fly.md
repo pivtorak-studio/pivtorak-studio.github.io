@@ -7,6 +7,7 @@ description: Every living being deserves a safe space to learn, grow, and make m
 summary: Young birds learn to fly through practice, uncertainty, and courage. This article explores the universal right to learn, fail safely, and discover one's own wings.
 event_date: 2025-07-01T12:00:00
 publication_date: 2025-07-01T12:00:00
+date: 2025-07-01T12:00:00
 lastmod: 2025-07-01T12:00:00
 slug: 005-the-right-to-learn-to-fly
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-005-the-right-to-learn-to-fly.webp
 alt: A young bird spreads its wings on the edge of a branch, preparing for one of its first flights in a peaceful summer landscape.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

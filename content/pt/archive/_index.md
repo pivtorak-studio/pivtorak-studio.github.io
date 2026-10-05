@@ -1,15 +1,15 @@
----
+﻿---
 id: archive
 language: pt
 translation_of: archive
 title: Arquivo
-description: Um arquivo estruturado da cronologia, dos projetos, dos registos e da evolução do corpo de trabalho do estúdio.
+description: Um arquivo estruturado da cronologia, dos projetos, dos registos e da evoluÃ§Ã£o do corpo de trabalho do estÃºdio.
 summary: O Arquivo preserva a cronologia, os projetos documentados e os registos estruturais que acompanham o desenvolvimento da Pivtorak.Studio.
 slug: archive
 tags:
   - arquivo
   - cronologia
-  - documentação
+  - documentaÃ§Ã£o
   - Pivtorak.Studio
 keywords:
   - Arquivo
@@ -18,10 +18,10 @@ keywords:
   - Linha do Tempo
   - Matriz do Movimento
   - projetos documentados
-  - arquivo de investigação
+  - arquivo de investigaÃ§Ã£o
 categories:
   - Arquivo
-  - Documentação
+  - DocumentaÃ§Ã£o
   - Pivtorak.Studio
 series: Archive
 research_origin: Pivtorak.Studio
@@ -37,7 +37,7 @@ seo: true
 distribution: true
 search: indexed
 search_intent: arquivo e cronologia da Pivtorak.Studio
-article_type: página de entrada do arquivo
+article_type: pÃ¡gina de entrada do arquivo
 primary_topic: arquivo da Pivtorak.Studio
 research_status: confirmed
 technical_status: verified
@@ -46,7 +46,7 @@ event_date: 2026-10-03T06:00:00+01:00
 publication_date: 2026-10-03T06:00:00+01:00
 lastmod: 2026-10-03T06:00:00+01:00
 image: /images/archive.webp
-alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotografias e uma bússola de latão, com o título ARCHIVE em grandes letras editoriais.
+alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotografias e uma bÃºssola de latÃ£o, com o tÃ­tulo ARCHIVE em grandes letras editoriais.
 ---
 
 <script type="application/ld+json">
@@ -56,7 +56,7 @@ alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotog
   "@id": "https://pivtorak.studio/pt/archive/#webpage",
   "url": "https://pivtorak.studio/pt/archive/",
   "name": "Arquivo",
-  "description": "Um arquivo estruturado da cronologia, dos projetos, dos registos e da evolução do corpo de trabalho do estúdio.",
+  "description": "Um arquivo estruturado da cronologia, dos projetos, dos registos e da evoluÃ§Ã£o do corpo de trabalho do estÃºdio.",
   "inLanguage": "pt",
   "isPartOf": {
     "@type": "WebSite",
@@ -79,13 +79,13 @@ alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotog
   },
   "mainEntity": {
     "@type": "ItemList",
-    "name": "Secções do Arquivo",
+    "name": "SecÃ§Ãµes do Arquivo",
     "numberOfItems": 2,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "Cronologia",
+        "name": "Cronologia â€” Arquivo Visual",
         "url": "https://pivtorak.studio/pt/docs/timeline/"
       },
       {
@@ -102,30 +102,30 @@ alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotog
 
 # Arquivo
 
-![_Arquivo. AP | Pivtorak.Studio. 03.10.2026_© Anna Pivtorak (Kostyuk)](/images/archive.webp)
+![_Arquivo. AP | Pivtorak.Studio. 03.10.2026_ Â© Anna Pivtorak (Kostyuk)](/images/archive.webp)
 
 O Arquivo preserva a cronologia documentada, os projetos e os registos estruturais que acompanham o desenvolvimento da Pivtorak.Studio.
 
-Reúne materiais que ajudam a compreender não apenas o que foi criado, mas também como o corpo de trabalho do estúdio se desenvolveu ao longo do tempo.
+ReÃºne materiais que ajudam a compreender nÃ£o apenas o que foi criado, mas tambÃ©m como o corpo de trabalho do estÃºdio se desenvolveu ao longo do tempo.
 
-## Cronologia
+## Cronologia â€” Arquivo Visual
 
-Um registo cronológico do desenvolvimento do estúdio, dos projetos, das publicações, da investigação e das suas etapas significativas.
+Um registo cronolÃ³gico do desenvolvimento do estÃºdio, dos projetos, das publicaÃ§Ãµes, da investigaÃ§Ã£o e das suas etapas significativas.
 
 [Explorar a Cronologia](/pt/docs/timeline/)
 
 ## Matriz do Movimento
 
-Um registo estrutural do trabalho do estúdio, mostrando como os projetos, as ideias, a investigação e as direções recorrentes se relacionam e evoluem.
+Um registo estrutural do trabalho do estÃºdio, mostrando como os projetos, as ideias, a investigaÃ§Ã£o e as direÃ§Ãµes recorrentes se relacionam e evoluem.
 
 [Explorar a Matriz do Movimento](/pt/docs/the-movement-matrix/)
 
 ---
 
-O Arquivo é um registo em evolução. Novos materiais são acrescentados à medida que os projetos se desenvolvem e o trabalho anteriormente documentado é organizado numa estrutura mais clara.
+O Arquivo Ã© um registo em evoluÃ§Ã£o. Novos materiais sÃ£o acrescentados Ã  medida que os projetos se desenvolvem e o trabalho anteriormente documentado Ã© organizado numa estrutura mais clara.
 
-**Alt-text:**  
-Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotografias e uma bússola de latão, com o título ARCHIVE em grandes letras editoriais.
+**Alt-text:**
+Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotografias e uma bÃºssola de latÃ£o, com o tÃ­tulo ARCHIVE em grandes letras editoriais.
 
-_Arquivo. AP | Pivtorak.Studio. 03.10.2026_ 
-© Anna Pivtorak (Kostyuk)
+_Arquivo. AP | Pivtorak.Studio. 03.10.2026_
+Â© Anna Pivtorak (Kostyuk)

@@ -6,6 +6,7 @@ description: A reflection on the quiet happiness of childhood, where safety, war
 summary: Childhood does not need loud celebrations to feel complete. Quiet moments of warmth, snow, light, and safety often become the brightest memories of life.
 event_date: 2025-12-02T11:00:00
 publication_date: 2025-12-02T11:00:00
+date: 2025-12-02T11:00:00
 lastmod: 2025-12-02T11:00:00
 slug: 019-quiet-joy-of-childhood
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-019-quiet-joy-of-childhood.webp
 alt: A child sits by a window watching snow fall outside. A small candle glows nearby, filling the room with warmth, safety, and quiet winter joy.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

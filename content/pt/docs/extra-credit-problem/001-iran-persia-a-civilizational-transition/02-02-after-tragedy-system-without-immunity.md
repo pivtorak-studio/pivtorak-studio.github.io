@@ -7,6 +7,7 @@ description: Análise de uma estrutura estatal que perdeu a capacidade de resist
 summary: Um diagnóstico da permeabilidade institucional, onde a violência não encontra resistência porque a própria arquitetura deixou de distinguir proteção de ameaça.
 event_date: 2026-01-19T12:00:00
 publication_date: 2026-01-19T12:00:00
+date: 2026-01-19T12:00:00
 lastmod: 2026-01-19T12:00:00
 slug: 02-02-after-tragedy-system-without-immunity
 tags:
@@ -75,7 +76,7 @@ related_domains:
   - security
   - law
   - civilization
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Onde não existe estrutura, o mal torna-se lei.
 manifesto_type: diagnosis
 project: ExtraCreditProblem

@@ -7,6 +7,7 @@ description: Исследование того, как авторитарные 
 summary: Работа диагностирует декоративную архитектуру тирании, показывая, как суды, министерства и законы превращаются в реквизит, скрывающий отсутствие управления, ответственности и служения обществу.
 event_date: 2026-01-21T13:00:00
 publication_date: 2026-01-21T13:00:00
+date: 2026-01-21T13:00:00
 lastmod: 2026-01-21T13:00:00
 slug: 03-03-system-diagnosis-imitation-of-the-state
 tags:
@@ -82,7 +83,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /ru/timeline/
+timeline: /ru/archive/
 ethical_resonance: collapse-of-the-facade
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

@@ -6,6 +6,7 @@ title: "006 Протокол Симурга. Философия Investigadora In
 description: Манифест суверенной науки и независимого исследования. Статья о переходе от институциональной легитимации к автономной архитектуре знания, где сайт становится лабораторией, цифровой архив — системой фиксации, а дисциплина — гарантом качества.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
+date: 2026-05-20T15:00:00
 lastmod: 2026-05-20T15:00:00
 tags:
   - CoreRecalibration
@@ -28,7 +29,7 @@ alt: "Символическая инфографика «Протокол Си�
 related:
   - /ru/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /ru/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
-  - /ru/docs/timeline/
+  - /ru/archive/
 weight: 6
 draft: false
 toc: true

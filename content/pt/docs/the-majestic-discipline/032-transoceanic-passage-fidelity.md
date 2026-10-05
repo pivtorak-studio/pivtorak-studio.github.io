@@ -7,6 +7,7 @@ description: Uma tartaruga marinha atravessa o oceano aberto com fidelidade inab
 summary: A segunda etapa da Estratégia da Tartaruga Marinha explora a fidelidade como disciplina de manter a direção através da distância, da incerteza e das correntes poderosas.
 event_date: 2026-01-07T12:00:00
 publication_date: 2026-01-07T12:00:00
+date: 2026-01-07T12:00:00
 lastmod: 2026-01-07T12:00:00
 slug: 032-transoceanic-passage-fidelity
 tags:
@@ -44,7 +45,7 @@ image: /images/the-majestic-discipline-032-transoceanic-passage-fidelity.webp
 alt: Uma poderosa tartaruga marinha nada pelas profundezas turbulentas e iluminadas do oceano, atravessando fortes correntes com fidelidade inabalável ao seu destino invisível.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

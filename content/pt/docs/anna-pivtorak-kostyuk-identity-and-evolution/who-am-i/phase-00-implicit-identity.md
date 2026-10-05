@@ -7,6 +7,7 @@ description: Uma entrevista histórica com Anna Pivtorak, publicada na Jewelry B
 summary: Uma entrevista de arquivo de 2008 que documenta o pensamento, o trabalho, a formação, a família, as ambições, os valores e a identidade profissional de Anna Pivtorak antes da sua posterior estruturação consciente.
 event_date: 2008-12-25T09:00:00
 publication_date: 2008-12-25T09:00:00
+date: 2008-12-25T09:00:00
 lastmod: 2008-12-25T09:00:00
 slug: phase-00-implicit-identity
 tags:
@@ -48,7 +49,7 @@ image: /images/anna-pivtorak-kostyuk-who-am-i-phase-00-implicit-identity.webp
 alt: Capa da revista Jewelry Business 11–12'2008 com Anna Pivtorak, retrato de arquivo que representa a Fase 0 — Identidade Implícita (2008).
 related:
   - /pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/who-am-i/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

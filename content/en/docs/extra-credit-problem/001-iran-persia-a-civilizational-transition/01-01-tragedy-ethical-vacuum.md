@@ -7,6 +7,7 @@ description: "The opening diagnosis of the Iranian tragedy: a system in which po
 summary: An examination of the ethical vacuum at the center of authoritarian power structures and the systemic consequences of governance without moral accountability.
 event_date: 2026-01-16T11:00:00
 publication_date: 2026-01-16T11:00:00
+date: 2026-01-16T11:00:00
 lastmod: 2026-01-16T11:00:00
 slug: 01-01-tragedy-ethical-vacuum
 tags:
@@ -80,7 +81,7 @@ geographic_scope: iran
 related_domains:
   - afghanistan
   - pakistan
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Where there is no heart, there is no law.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

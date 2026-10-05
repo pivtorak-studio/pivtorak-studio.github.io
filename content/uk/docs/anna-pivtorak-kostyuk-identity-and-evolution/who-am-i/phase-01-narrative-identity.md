@@ -5,6 +5,7 @@ descriptions: Перша зафіксована фаза ідентичност�
 weight: 3
 event_date: 2025-03-12T09:00:00
 publication_date: 2025-03-12T09:00:00
+date: 2025-03-12T09:00:00
 lastmod: 2025-03-12T09:00:00
 ---
 

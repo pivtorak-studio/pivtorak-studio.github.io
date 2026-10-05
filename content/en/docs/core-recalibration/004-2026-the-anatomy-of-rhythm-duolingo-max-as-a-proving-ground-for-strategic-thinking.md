@@ -6,6 +6,7 @@ title: "004 The Anatomy of Rhythm. Duolingo Max as a Proving Ground for Strategi
 description: An exploration of how Duolingo Max became a cognitive training ground before transitioning into code, website architecture, and systems thinking.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
+date: 2026-05-18T15:00:00
 tags:
   - Duolingo Max
   - strategic thinking
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking.webp
 alt: A futuristic digital composition showing the transition from Duolingo Max learning rhythms into code architecture, systems thinking, and indexed websites.
 related:
-  - /en/docs/timeline/
+  - /en/archive/
   - /en/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
 weight: 4

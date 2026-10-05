@@ -7,6 +7,7 @@ description: Структурная глухота как механизм ав�
 summary: Анализ систем, в которых диалог существует формально, но не содержит способности слышать или отвечать.
 event_date: 2026-01-17T12:00:00
 publication_date: 2026-01-17T12:00:00
+date: 2026-01-17T12:00:00
 lastmod: 2026-01-17T12:00:00
 slug: 01-02-tragedy-false-dialogue
 tags:
@@ -77,7 +78,7 @@ manifesto_type: verdict
 project: ExtraCreditProblem
 project_stage: I. Tragedy
 navigation_order: 02-02
-timeline: /timeline/
+timeline: /ru/archive/
 research_origin: Portugal
 ---
 

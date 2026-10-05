@@ -7,6 +7,7 @@ description: An analysis of the collapse of political subjectivity in authoritar
 summary: This work documents the dissolution of authoritarian subjectivity as a civilizational turning point. An empty office, fading symbols, and weightless orders reveal that dictatorship exists only while people participate in its relational network.
 event_date: 2026-01-25T12:00:00
 publication_date: 2026-01-25T12:00:00
+date: 2026-01-25T12:00:00
 lastmod: 2026-01-25T12:00:00
 slug: 06-02-desacralization-of-fear-loss-of-subjectivity
 tags:
@@ -43,7 +44,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity.webp
 alt: An empty Iranian presidential office with a dusty desk, scattered orders, a dissolving chair, and a flag disintegrating into dust. No people present.
 related:
-  - /timeline/
+  - /en/archive/
   - /docs/extra-credit-problem/
 authors: Anna Pivtorak
 draft: false
@@ -74,7 +75,7 @@ related_domains:
   - ethics
   - identity
   - civilization
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Power dissolves when people stop lending it their consent.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

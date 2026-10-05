@@ -7,6 +7,7 @@ description: Ancient Persian ethics returns as a civilizational operating system
 summary: A civilizational reconstruction where ethics transforms from external control into internal hygiene, aligning thought, speech, and action.
 event_date: 2026-01-28T14:00:00
 publication_date: 2026-01-28T14:00:00
+date: 2026-01-28T14:00:00
 lastmod: 2026-01-28T14:00:00
 slug: 07-05-revival-of-identity-zoroastrianism-as-ethics
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-05-revival-of-identity-zoroastrianism-as-ethics.webp
 alt: Three balanced fires merge into a single stable light in an open stone space without people or symbols of authority.
 related:
-  - /timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - civilization
   - governance
   - freedom
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Ethics is not a religion; it is the hygiene of a free soul.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

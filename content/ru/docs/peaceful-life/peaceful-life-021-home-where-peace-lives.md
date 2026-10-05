@@ -6,6 +6,7 @@ description: Размышление о доме как о месте внутр�
 summary: Спокойствие не нужно искать далеко. Оно рождается в ежедневных ритуалах, тёплом свете, совместных моментах и простом ощущении дома.
 event_date: 2025-12-02T13:00:00
 publication_date: 2025-12-02T13:00:00
+date: 2025-12-02T13:00:00
 lastmod: 2025-12-02T13:00:00
 slug: 021-home-where-peace-lives
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-021-home-where-peace-lives.webp
 alt: Тёплая комната с мягким освещением. На столе стоит чашка горячего чая рядом с пледом, а в камине спокойно горит огонь, создавая атмосферу уюта, покоя и зимнего тепла.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

@@ -7,6 +7,7 @@ description: "Маніфест, що утверджує простоту як к
 summary: "Простота — це не відсутність складності, а її найвища інтегрована форма. Будь-яка система зрештою існує для захисту фундаментальних умов життя: дому, дитинства, миру, безпеки та людської гідності."
 event_date: 2026-06-08T15:00:00
 publication_date: 2026-06-08T15:00:00
+date: 2026-06-08T15:00:00
 lastmod: 2026-06-08T15:00:00
 slug: 004-the-right-to-simplicity
 tags: [незалежний-дослідник, маніфест, простота, системне-мислення, кібернетика, людиноцентричність, суверенність, архітектура, peaceful-life]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/independent-researcher-manifesto-004-the-right-to-simplicity.webp
 alt: "Вкладені геометричні структури захищають сяйливе людське ядро, символізуючи складність, що служить простоті."
-related: [/uk/docs/independent-researcher-manifesto/, /uk/docs/timeline/]
+related: [/uk/docs/independent-researcher-manifesto/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/independent-researcher-manifesto/004-the-right-to-simplicity/

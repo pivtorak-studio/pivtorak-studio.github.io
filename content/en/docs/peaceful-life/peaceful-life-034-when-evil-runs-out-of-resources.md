@@ -6,6 +6,7 @@ title: 034 When Evil Runs Out of Resources
 description: Peaceful childhood begins when evil no longer has the resources to reach a child.
 event_date: 2026-08-12T06:00:00+01:00
 publication_date: 2026-08-12T06:00:00+01:00
+date: 2026-08-12T06:00:00+01:00
 lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
 tags:
@@ -32,7 +33,7 @@ image: /images/peaceful-life-034-when-evil-runs-out-of-resources.webp
 alt: A peaceful child’s room at night, with soft moonlight entering through the window. Outside, the dark sky gradually dissolves into scattered particles, while the room remains calm and protected.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/034-when-evil-runs-out-of-resources/

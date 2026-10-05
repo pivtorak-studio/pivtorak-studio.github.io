@@ -4,6 +4,7 @@ title: 008 Axiom of Revival
 weight: 8
 event_date: 2025-10-03T12:00:00
 publication_date: 2025-10-03T12:00:00
+date: 2025-10-03T12:00:00
 ---
 
 ![Axiom of Revival](/images/shield-008.webp)

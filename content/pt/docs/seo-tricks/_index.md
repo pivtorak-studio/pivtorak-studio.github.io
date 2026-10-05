@@ -19,7 +19,7 @@ status: published
 featured: true
 image: /images/seo-tricks.webp
 alt: "Uma ilustração técnica escura que representa uma investigação de SEO através de código, diagnóstico de website e problemas técnicos ocultos."
-related: [/pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /pt/docs/timeline/]
+related: [/pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/seo-tricks/

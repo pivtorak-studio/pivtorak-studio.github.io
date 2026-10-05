@@ -6,6 +6,7 @@ title: 034 Quando o mal fica sem recursos
 description: Uma infância em paz começa quando o mal já não tem recursos para chegar até uma criança.
 event_date: 2026-08-12T06:00:00+01:00
 publication_date: 2026-08-12T06:00:00+01:00
+date: 2026-08-12T06:00:00+01:00
 lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
 tags:
@@ -32,7 +33,7 @@ image: /images/peaceful-life-034-when-evil-runs-out-of-resources.webp
 alt: Um quarto de criança tranquilo durante a noite, iluminado suavemente pela luz da lua que entra pela janela. Lá fora, o céu escuro dissolve-se gradualmente em partículas dispersas, enquanto o quarto permanece calmo e protegido.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /pt/docs/peaceful-life/034-when-evil-runs-out-of-resources/

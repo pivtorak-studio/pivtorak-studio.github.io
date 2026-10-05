@@ -7,6 +7,7 @@ description: "Момент, коли нова реальність перест�
 summary: "Після виходу з існуючих систем автор створює Pivtorak.Studio як незалежну архітектуру. Публікація стає моментом переходу від наміру до реальності."
 event_date: 2023-08-10T11:00:00
 publication_date: 2025-07-07T11:00:00
+date: 2025-07-07T11:00:00
 lastmod: 2025-07-07T11:00:00
 slug: 003-the-presence
 tags: [присутність, трансформація, pivtorak-studio, система, архітектура, цінність, публікація, реальність]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-003-the-presence.webp
 alt: "Мінімалістична сфера зі взаємопов'язаних ліній і вузлів, що символізує живу систему цінностей. Кожен вузол позначений символом Pivtorak.Studio як точкою активації трансформації."
-related: [/uk/docs/pivtorak-studio/, /uk/docs/timeline/]
+related: [/uk/docs/pivtorak-studio/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/pivtorak-studio/003-the-presence/

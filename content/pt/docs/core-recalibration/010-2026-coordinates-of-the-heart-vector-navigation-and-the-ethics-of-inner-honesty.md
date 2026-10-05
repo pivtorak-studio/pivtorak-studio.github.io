@@ -7,6 +7,7 @@ description: Um modelo soberano de tomada de decisão onde o coração define a 
 summary: O coração responde à pergunta 'Para onde?'. A mente responde à pergunta 'Como?'. A Recalibração Central começa quando a falta de energia é reconhecida como um sinal sistémico e não como uma falha pessoal.
 event_date: 2026-05-30T18:00:00
 publication_date: 2026-05-30T18:00:00
+date: 2026-05-30T18:00:00
 lastmod: 2026-05-30T18:00:00
 tags:
   - Core Recalibration
@@ -49,7 +50,7 @@ related:
   - /pt/docs/core-recalibration/007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space/
   - /pt/docs/core-recalibration/008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system/
   - /pt/docs/core-recalibration/009-2026-block-based-labor-the-painting-method-in-cognitive-architecture/ 
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 weight: 10

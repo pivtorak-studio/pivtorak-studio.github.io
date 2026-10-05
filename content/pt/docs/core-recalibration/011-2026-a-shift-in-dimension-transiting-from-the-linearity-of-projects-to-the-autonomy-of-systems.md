@@ -7,6 +7,7 @@ description: Uma reflexão sobre a passagem do pensamento orientado por projetos
 summary: Os projetos procuram resultados. Os sistemas criam condições para evolução contínua. Esta Core Recalibration explora a passagem da execução linear para ambientes soberanos capazes de adaptação, replicação e desenvolvimento duradouro.
 event_date: 2026-05-30T23:00:00+01:00
 publication_date: 2026-05-30T23:00:00+01:00
+date: 2026-05-30T23:00:00+01:00
 lastmod: 2026-05-30T23:00:00+01:00
 tags:
   - Core Recalibration
@@ -39,7 +40,7 @@ image: /images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-
 alt: Diagrama conceptual que representa a transição do pensamento linear baseado em projetos para sistemas soberanos autónomos capazes de evolução e desenvolvimento contínuo.
 related:
   - /pt/docs/core-recalibration/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 weight: 11

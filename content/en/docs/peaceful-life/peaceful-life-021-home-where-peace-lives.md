@@ -6,6 +6,7 @@ description: A reflection on home as a place of inner peace, warmth, and gentle 
 summary: Peace is not something we find far away. It grows in everyday rituals, warm light, shared moments, and the simple feeling of being at home.
 event_date: 2025-12-02T13:00:00
 publication_date: 2025-12-02T13:00:00
+date: 2025-12-02T13:00:00
 lastmod: 2025-12-02T13:00:00
 slug: 021-home-where-peace-lives
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-021-home-where-peace-lives.webp
 alt: A warm room illuminated by soft light. A cup of hot tea rests on a table beside a blanket, while a fireplace glows quietly, creating an atmosphere of comfort, peace, and winter warmth.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

@@ -7,6 +7,7 @@ description: Право залишатися дитиною означає ро�
 summary: Двадцять шоста робота серії «Мирне Життя» розмірковує про дитинство як про захищений стан буття. Дитина, яка мирно спить у власному ліжку, стає символом безпеки, безперервності та права рости без адаптації до втрати.
 event_date: 2026-02-01T12:00:00
 publication_date: 2026-02-01T12:00:00
+date: 2026-02-01T12:00:00
 lastmod: 2026-02-01T12:00:00
 slug: 026-the-right-to-remain-a-child
 tags:
@@ -50,7 +51,7 @@ image: /images/peaceful-life-026-the-right-to-remain-a-child.webp
 alt: Дитина спокійно спить у власному ліжку поруч з улюбленою іграшкою та м’яким нічником, оточена відчуттям безпеки й батьківської присутності.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

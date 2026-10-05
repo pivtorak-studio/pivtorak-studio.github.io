@@ -27,7 +27,7 @@ image: /images/core-recalibration.webp
 alt: A futuristic infographic for the 'Core Recalibration' series featuring a figure before a luminous portal surrounded by symbols of rhythm, presence, sovereignty, cognition, and system transformation.
 related:
   - /en/docs/core-recalibration/
-  - /en/docs/timeline/
+  - /en/archive/
   - /en/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /en/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
   - /en/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/

@@ -6,6 +6,7 @@ title: "005 Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó C
 description: Um ensaio sobre a criação de um ecossistema digital autónomo através do Pivtorak.Studio e do TheJewelry.Business, soberania cognitiva, arquitetura GitHub, SEO, pensamento cibernético e a transição de existir em plataformas alheias para possuir o código e a arquitetura do próprio espaço.
 event_date: 2026-05-19T15:00:00
 publication_date: 2026-05-19T15:00:00
+date: 2026-05-19T15:00:00
 tags:
   - CoreRecalibration
   - soberania cognitiva
@@ -27,7 +28,7 @@ alt: "O sistema duplo de soberania: Pivtorak.Studio e TheJewelry.Business como a
 related:
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
-  - /pt/docs/timeline/
+  - /pt/archive/
 weight: 5
 draft: false
 toc: true

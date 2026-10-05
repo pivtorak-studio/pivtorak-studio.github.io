@@ -7,6 +7,7 @@ description: Природа заслуживает спокойных сезон
 summary: Солнечный свет проходит сквозь осеннюю листву, зайчик отдыхает среди травы, а природа следует своему ритму. Эта статья исследует ценность сезонного покоя.
 event_date: 2025-10-13T12:00:00
 publication_date: 2025-10-13T12:00:00
+date: 2025-10-13T12:00:00
 lastmod: 2025-10-13T12:00:00
 slug: 014-the-right-to-a-warm-autumn
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-014-the-right-to-a-warm-autumn.webp
 alt: Зайчик спокойно сидит среди осенней листвы в тёплом лесу, освещённом мягким солнечным светом.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/peaceful-life/014-the-right-to-a-warm-autumn/

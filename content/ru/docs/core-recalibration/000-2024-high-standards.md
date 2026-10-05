@@ -6,6 +6,7 @@ title: 000 Высокие Стандарты
 description: Момент, когда превосходить собственные стандарты перестаёт быть вызовом и становится естественным ритмом внутреннего роста.
 event_date: 2024-10-18T15:00:00
 publication_date: 2024-10-18T15:00:00
+date: 2024-10-18T15:00:00
 tags:
   - CoreRecalibration
   - HighStandards
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-000-2024-high-standards.webp
 alt: Цифровая иллюстрация на фоне школьной доски. Символическая фигура поднимается по подвесным ступеням рядом с диаграммой Ганта и графиком роста со словами 'Your Own High Standards'. Изображение символизирует внутренний рост, самодисциплину и постоянное повышение собственной планки.
 related:
-  - /ru/docs/timeline/
+  - /ru/archive/
   - /ru/docs/core-recalibration/
 weight: 1
 draft: false

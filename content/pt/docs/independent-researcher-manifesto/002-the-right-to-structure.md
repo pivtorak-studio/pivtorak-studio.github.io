@@ -7,6 +7,7 @@ description: Um manifesto sobre a soberania da estrutura, o design da realidade 
 summary: Para além da interpretação, este manifesto explora a estrutura como poder invisível, a legitimidade sem permissão, a criação de valor centrada em protocolos e a arquitetura de sistemas soberanos.
 event_date: 2026-04-09T11:00:00
 publication_date: 2026-04-09T11:00:00
+date: 2026-04-09T11:00:00
 lastmod: 2026-04-09T11:00:00
 slug: 002-the-right-to-structure
 tags:

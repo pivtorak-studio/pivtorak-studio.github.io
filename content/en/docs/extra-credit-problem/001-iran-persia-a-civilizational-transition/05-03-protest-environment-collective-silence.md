@@ -7,6 +7,7 @@ description: A study of collective silence as a synchronized form of civic prese
 summary: This work explores collective silence as a coordinated social phenomenon. It examines how shared presence without slogans or leaders deprives authoritarian systems of their instruments of repression and accumulates transformative civic energy.
 event_date: 2026-01-23T13:00:00
 publication_date: 2026-01-23T13:00:00
+date: 2026-01-23T13:00:00
 lastmod: 2026-01-23T13:00:00
 slug: 05-03-protest-environment-collective-silence
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - social_physics
   - collective_behavior
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Silence is the roar of the ocean preparing for the tide.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

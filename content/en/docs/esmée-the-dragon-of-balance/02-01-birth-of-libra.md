@@ -4,6 +4,7 @@ title: "02.01 🐉⚖️ ESMÉE. 🌀 Birth of Libra"
 weight: 4
 event_date: 2025-10-09T10:00:00 # Date of the event (framework formulation)
 publication_date: 2025-10-09 # Publication date
+date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 

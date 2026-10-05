@@ -7,6 +7,7 @@ description: O regresso do tempo solar restaura a escala civilizacional da Pérs
 summary: Uma restauração civilizacional em que a nação se reconecta com milénios em vez de décadas, transformando a amnésia histórica em soberania temporal.
 event_date: 2026-01-27T21:00:00
 publication_date: 2026-01-27T21:00:00
+date: 2026-01-27T21:00:00
 lastmod: 2026-01-27T21:00:00
 slug: 07-04-revival-of-identity-return-of-time
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-04-revival-of-identity-return-of-time.webp
 alt: Um pergaminho de calendário queimado revela um campo circular dourado com datas antigas gravadas numa superfície de pedra.
 related:
-  - /timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - governance
   - freedom
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Não somos prisioneiros de uma era curta; somos mestres de milénios.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

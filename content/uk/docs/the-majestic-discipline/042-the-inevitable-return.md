@@ -7,6 +7,7 @@ description: Коли внутрішній вектор залишається �
 summary: Стабільний внутрішній вектор надає руху точну ціль. Коли намір, орієнтація та дія сходяться, навколишнє поле починає відкривати шлях до точки повернення.
 event_date: 2026-08-27T12:00:00
 publication_date: 2026-08-27T12:00:00
+date: 2026-08-27T12:00:00
 lastmod: 2026-08-27T12:00:00
 slug: 042-the-inevitable-return
 tags: [велична-дисципліна, поштовий-голуб, навігація, магніторецепція, орієнтація, фокус, намір, повернення]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-042-the-inevitable-return.webp
 alt: Поштовий голуб складає крила перед посадкою на золоту архітектурну сферу над хмарами; позаду нього проходить пряма світлова траєкторія, а тонкі золоті лінії сходяться до тієї самої точки.
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
+related: [/uk/docs/the-majestic-discipline/, /uk/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/042-the-inevitable-return/

@@ -7,6 +7,7 @@ description: Трансгенерационный Полёт исследует 
 summary: Великий путь не обязательно должен быть завершён за одну жизнь, чтобы оставаться единым непрерывным движением. Бабочка-монарх символизирует то, как каждое поколение продолжает путь, добавляя свою часть к дороге, начавшейся ещё до него.
 event_date: 2026-09-19T12:00:00
 publication_date: 2026-09-19T12:00:00
+date: 2026-09-19T12:00:00
 lastmod: 2026-09-19T12:00:00
 slug: 044-transgenerational-flight
 tags: [трансгенерационный полёт, бабочка-монарх, преемственность поколений, последовательность, унаследованное направление]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-044-transgenerational-flight.webp
 alt: Бабочка-монарх летит над огромным золотым осенним лесом, а за ней следует поток маленьких бабочек-монархов, образуя светящийся путь к далёким горам под тёплым вечерним небом.
-related: [/ru/docs/the-majestic-discipline/, /ru/docs/timeline/]
+related: [/ru/docs/the-majestic-discipline/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/044-transgenerational-flight/

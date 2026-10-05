@@ -7,6 +7,7 @@ description: Ganhar a vida não é um luxo. Uma reflexão sobre a dignidade do t
 summary: O trabalho é mais do que rendimento. É participação, criatividade, responsabilidade e independência. Este artigo explora o direito ao trabalho como fundamento da vida pacífica.
 event_date: 2025-06-01T13:00:00
 publication_date: 2025-06-01T13:00:00
+date: 2025-06-01T13:00:00
 lastmod: 2025-06-01T13:00:00
 slug: 003-the-right-to-work
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-003-the-right-to-work.webp
 alt: Jovens a trabalhar em conjunto num ambiente pacífico, contribuindo para a comunidade através do trabalho e da cooperação.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

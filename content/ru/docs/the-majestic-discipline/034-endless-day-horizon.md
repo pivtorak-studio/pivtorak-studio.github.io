@@ -7,6 +7,7 @@ description: Первый этап пути арктической крачки.
 summary: Арктическая крачка следует за светом двух полушарий. Бесконечный День Масштаба раскрывает ясность, направление и дисциплину мышления в масштабе всей планеты.
 event_date: 2026-06-06T21:00:00
 publication_date: 2026-06-06T21:00:00
+date: 2026-06-06T21:00:00
 lastmod: 2026-06-06T21:00:00
 slug: 034-endless-day-horizon
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-034-endless-day-horizon.webp
 alt: Арктическая крачка летит над полярным океаном на фоне огромного солнца, которое не заходит за горизонт, а в небе проявляются золотые геодезические линии.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Анна Пивторак
 draft: false

@@ -4,6 +4,7 @@ title: "02.04 🐉⚖️ ESMÉE. 🌀 Peaceful Presence"
 weight: 7
 event_date: 2025-10-09T13:00:00 # Date of the event (framework formulation)
 publication_date: 2025-10-09 # Publication date
+date: 2025-10-09 # Publication date
 event_type: transformation
 ---
 

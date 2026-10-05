@@ -7,6 +7,7 @@ description: Суверенная Точка Назначения исследу
 summary: Долгий путь становится значимым, когда всё перенесённое через поколения наконец собирается в единый центр. Бабочка-монарх символизирует живую преемственность, достигающую места, где унаследованное движение может превратиться в структуру, идентичность и основу нового цикла.
 event_date: 2026-09-19T15:00:00
 publication_date: 2026-09-19T15:00:00
+date: 2026-09-19T15:00:00
 lastmod: 2026-09-19T15:00:00
 slug: 045-the-sovereign-destination
 tags: [суверенная точка назначения, бабочка-монарх, преемственность рода, завершённый цикл, внутренний центр]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-045-the-sovereign-destination.webp
 alt: Бабочка-монарх с полностью расправленными оранжево-чёрными крыльями сидит на светящемся архитектурном кристалле в центре древнего каменного святилища, окружённая отражающей водой и осенней растительностью под золотым небом.
-related: [/ru/docs/the-majestic-discipline/, /ru/docs/timeline/]
+related: [/ru/docs/the-majestic-discipline/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/045-the-sovereign-destination/

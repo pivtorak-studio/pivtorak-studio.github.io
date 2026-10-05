@@ -4,6 +4,7 @@ title: 007 Аксіома Надії
 weight: 7
 event_date: 2025-10-03T11:00:00
 publication_date: 2025-10-03T11:00:00
+date: 2025-10-03T11:00:00
 ---
 
 

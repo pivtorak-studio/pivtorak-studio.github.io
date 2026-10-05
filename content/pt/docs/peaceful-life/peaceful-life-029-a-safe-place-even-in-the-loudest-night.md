@@ -7,6 +7,7 @@ description: Uma reflexão sobre segurança, vulnerabilidade, compaixão e a pro
 summary: Inspirado pelo resgate de uma jovem corça presa debaixo de um automóvel em Kyiv após uma noite de ataques, este ensaio explora a necessidade comum a todos os seres vivos de encontrar proteção, segurança e paz.
 event_date: 2026-06-03T14:00:00+01:00
 publication_date: 2026-06-03T14:00:00+01:00
+date: 2026-06-03T14:00:00+01:00
 lastmod: 2026-06-03T14:00:00+01:00
 slug: 029-a-safe-place-even-in-the-loudest-night
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp
 alt: Uma jovem corça escondida debaixo de um velho automóvel branco, envolvida por uma cúpula simbólica de paz que representa segurança, compaixão e esperança.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

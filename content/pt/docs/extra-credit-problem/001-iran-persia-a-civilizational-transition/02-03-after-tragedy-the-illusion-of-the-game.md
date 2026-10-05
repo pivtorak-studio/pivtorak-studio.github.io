@@ -7,6 +7,7 @@ description: Um estudo sobre como sistemas autoritários imitam a competição p
 summary: Esta obra examina a ilusão da participação política em regimes autoritários, onde os procedimentos se transformam em instrumentos teatrais que ocultam resultados predeterminados e repressão sistémica.
 event_date: 2026-01-19T13:00:00
 publication_date: 2026-01-19T13:00:00
+date: 2026-01-19T13:00:00
 lastmod: 2026-01-19T13:00:00
 slug: 02-03-after-tragedy-the-illusion-of-the-game
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: execution-disguised-as-procedure
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

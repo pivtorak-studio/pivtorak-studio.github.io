@@ -7,6 +7,7 @@ description: The right to remain a child means growing up without rehearsing los
 summary: The twenty-sixth work of the PeacefulLife series reflects on childhood as a protected state of being. A child sleeping peacefully in their own bed becomes a symbol of safety, continuity, and the right to grow without adapting to loss.
 event_date: 2026-02-01T12:00:00
 publication_date: 2026-02-01T12:00:00
+date: 2026-02-01T12:00:00
 lastmod: 2026-02-01T12:00:00
 slug: 026-the-right-to-remain-a-child
 tags:
@@ -50,7 +51,7 @@ image: /images/peaceful-life-026-the-right-to-remain-a-child.webp
 alt: A child sleeps peacefully in their own bed beside a favorite toy and a gentle night light, surrounded by a sense of safety and parental presence.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

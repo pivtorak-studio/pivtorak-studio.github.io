@@ -7,6 +7,7 @@ description: Uma reflexão sobre uma parceria construída na igualdade, no respe
 summary: As relações mais fortes constroem-se na igualdade, não no poder.
 event_date: 2026-07-01T16:00:00+01:00
 publication_date: 2026-07-01T16:00:00+01:00
+date: 2026-07-01T16:00:00+01:00
 lastmod: 2026-07-01T16:00:00+01:00
 slug: 032-equal-side-by-side
 tags:
@@ -42,7 +43,7 @@ authors:
   - Anna Pivtorak
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/032-equal-side-by-side/
 weight: 32
 completion: 100

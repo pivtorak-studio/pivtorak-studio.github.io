@@ -7,6 +7,7 @@ description: Персидский орнамент возвращается ка
 summary: Цивилизационное восстановление, в котором орнамент превращается из украшения в культурную инфраструктуру, восстанавливая коллективную память, чувство принадлежности и общественную устойчивость.
 event_date: 2026-01-27T13:00:00
 publication_date: 2026-01-27T13:00:00
+date: 2026-01-27T13:00:00
 lastmod: 2026-01-27T13:00:00
 slug: 07-03-revival-of-identity-cultural-code-of-survival-ornament
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-03-revival-of-identity-cultural-code-of-survival-ornament.webp
 alt: Персидский орнамент прорастает сквозь бетонные городские стены, заполняя трещины золотыми и бирюзовыми линиями.
 related:
-  - /timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - ethics
   - freedom
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Они пытались стереть нас, но мы были вписаны в каждый узор нашей земли.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

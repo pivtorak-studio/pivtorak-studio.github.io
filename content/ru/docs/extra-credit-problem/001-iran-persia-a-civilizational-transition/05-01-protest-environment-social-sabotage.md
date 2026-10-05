@@ -7,6 +7,7 @@ description: Исследование социального саботажа к
 summary: Работа исследует переход от сопротивления к осознанному неучастию. Когда общество перестаёт подпитывать механизмы диктатуры, власть утрачивает свою функциональность. Работа рассматривает тишину, паузу и коллективное бездействие как инструменты цивилизационного перехода.
 event_date: 2026-01-23T11:00:00
 publication_date: 2026-01-23T11:00:00
+date: 2026-01-23T11:00:00
 lastmod: 2026-01-23T11:00:00
 slug: 05-01-protest-environment-social-sabotage
 tags:
@@ -80,7 +81,7 @@ related_domains:
   - freedom
   - collective_behavior
   - social_physics
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Машина останавливается, когда шестерёнки отказываются вращаться.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

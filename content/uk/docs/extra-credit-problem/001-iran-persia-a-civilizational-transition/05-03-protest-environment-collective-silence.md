@@ -7,6 +7,7 @@ description: Дослідження колективної тиші як син�
 summary: Робота досліджує колективну тишу як координоване соціальне явище. Вона показує, як спільна присутність без гасел і лідерів позбавляє авторитарні системи їхніх інструментів репресії та накопичує трансформаційну громадянську енергію.
 event_date: 2026-01-23T13:00:00
 publication_date: 2026-01-23T13:00:00
+date: 2026-01-23T13:00:00
 lastmod: 2026-01-23T13:00:00
 slug: 05-03-protest-environment-collective-silence
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - social_physics
   - collective_behavior
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Тиша — це ревіння океану, що готується до припливу.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

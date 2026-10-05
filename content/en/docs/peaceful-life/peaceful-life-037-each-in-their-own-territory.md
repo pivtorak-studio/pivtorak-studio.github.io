@@ -6,6 +6,7 @@ title: 037 Each in Their Own Territory
 description: A peaceful life begins with respect for natural boundaries. A polar bear in the Arctic and an orca in the ocean remind us that different territories do not have to become reasons for conflict.
 event_date: 2026-09-01T15:00:00+01:00
 publication_date: 2026-09-01T15:00:00+01:00
+date: 2026-09-01T15:00:00+01:00
 lastmod: 2026-09-01T15:00:00+01:00
 slug: 037-each-in-their-own-territory
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-037-each-in-their-own-territory.webp
 alt: "A detailed chalk drawing on a school blackboard: on the left, a polar bear among Arctic snow, ice, and mountains; on the right, an orca swimming in a deep ocean beneath the waves; the two worlds are separated by a peaceful boundary."
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/037-each-in-their-own-territory/

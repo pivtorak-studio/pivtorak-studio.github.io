@@ -7,6 +7,7 @@ description: A segunda etapa da jornada da andorinha-do-mar-ártica. Uma reflex�
 summary: Voando entre os polos da Terra, a andorinha-do-mar-ártica segue um eixo invisível sobre o oceano aberto. Trânsito Eixo Planetário explora resistência, precisão e a disciplina da continuidade.
 event_date: 2026-06-07T09:00:00
 publication_date: 2026-06-07T09:00:00
+date: 2026-06-07T09:00:00
 lastmod: 2026-06-07T09:00:00
 slug: 035-planetary-axis-transit
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-035-planetary-axis-transit.webp
 alt: Uma andorinha-do-mar-ártica plana sobre um profundo oceano ultramarino. Uma fina linha vertical do meridiano atravessa o seu corpo. Correntes oceânicas desenham padrões elegantes abaixo.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

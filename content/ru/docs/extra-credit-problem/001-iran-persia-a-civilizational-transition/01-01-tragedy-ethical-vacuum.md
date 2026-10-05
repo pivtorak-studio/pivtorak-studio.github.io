@@ -7,6 +7,7 @@ description: "Первичный диагноз иранской трагеди�
 summary: Исследование этического вакуума в центре авторитарной структуры и системных последствий управления без моральной ответственности.
 event_date: 2026-01-16T11:00:00
 publication_date: 2026-01-16T11:00:00
+date: 2026-01-16T11:00:00
 lastmod: 2026-01-16T11:00:00
 slug: 01-01-tragedy-ethical-vacuum
 tags:
@@ -80,7 +81,7 @@ geographic_scope:
 related_domains:
   - afghanistan
   - pakistan
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Где нет сердца, нет закона.
 manifesto_type: diagnosis
 project: "Иран – Персия: Цивилизационный Переход"

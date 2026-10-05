@@ -7,6 +7,7 @@ description: Ліси, тварини та екосистеми не є міше
 summary: Природа — не поле бою. Ця стаття досліджує ідею того, що ліси й дика природа заслуговують на захист, збереження та можливість жити без руйнування.
 event_date: 2025-06-01T12:00:00
 publication_date: 2025-06-01T12:00:00
+date: 2025-06-01T12:00:00
 lastmod: 2025-06-01T12:00:00
 slug: 002-nature-has-the-right-to-live
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-002-nature-has-the-right-to-live.webp
 alt: Спокійний лісовий пейзаж із тваринами, що вільно живуть серед дерев, захищені від руйнування та оточені м’яким світлом початку літа.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/002-nature-has-the-right-to-live/

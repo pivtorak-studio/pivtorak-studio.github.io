@@ -7,6 +7,7 @@ description: A real Hugo SEO investigation showing how robots.txt can exist at t
 summary: The robots.txt file existed, but Hugo generated unexpected content from a catch-all template. The fix was an explicit layouts/robots.txt template, verified through Source → Build → Live.
 event_date: 2026-09-22T15:00:00
 publication_date: 2026-09-22T15:00:00
+date: 2026-09-22T15:00:00
 slug: robots-txt-when-a-file-exists-but-doesnt-work
 tags:
   - robots.txt
@@ -33,7 +34,7 @@ image: /images/seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work.webp
 alt: A dark technical illustration showing a robots.txt investigation through Source, Build, and Live verification levels.
 related:
   - /en/docs/seo-tricks/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

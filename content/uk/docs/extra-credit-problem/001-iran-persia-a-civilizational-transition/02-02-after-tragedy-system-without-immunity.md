@@ -7,6 +7,7 @@ description: Дослідження державної структури, як�
 summary: Діагноз інституційної проникності, за якої зло не зустрічає опору, оскільки сама архітектура перестала розрізняти захист і загрозу.
 event_date: 2026-01-19T12:00:00
 publication_date: 2026-01-19T12:00:00
+date: 2026-01-19T12:00:00
 lastmod: 2026-01-19T12:00:00
 slug: 02-02-after-tragedy-system-without-immunity
 tags:
@@ -75,7 +76,7 @@ related_domains:
   - безпека
   - право
   - цивілізація
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Там, де немає структури, зло стає законом.
 manifesto_type: діагноз
 project: ЗадачаПідвищеноїСкладності

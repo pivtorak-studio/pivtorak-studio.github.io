@@ -7,6 +7,7 @@ description: Дослідження процесу, через який захо
 summary: Аналіз того, як злочинне управління маскується під законну державність і як легітимність руйнується через повернення речам їхніх справжніх назв.
 event_date: 2026-01-18T11:00:00
 publication_date: 2026-01-18T11:00:00
+date: 2026-01-18T11:00:00
 lastmod: 2026-01-18T11:00:00
 slug: 02-01-after-tragedy-delegitimation
 tags:
@@ -70,7 +71,7 @@ related_domains:
   - ethics
   - political_design
   - institutional_analysis
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Назва — лише маскування злочину.
 manifesto_type: diagnosis
 project: Iran-Persia-A-Civilizational-Transition

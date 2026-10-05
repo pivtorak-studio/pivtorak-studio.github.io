@@ -7,6 +7,7 @@ description: Дослідження того, як авторитарні сис
 summary: Робота діагностує архітектуру страху всередині авторитарних режимів, показуючи, як примусові ієрархії споживають власних учасників і стають структурно крихкими.
 event_date: 2026-01-20T11:00:00
 publication_date: 2026-01-20T11:00:00
+date: 2026-01-20T11:00:00
 lastmod: 2026-01-20T11:00:00
 slug: 03-01-system-diagnosis-vertical-of-fear
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - democracy
   - civilizational-transition
   - political-systems
-timeline: /uk/timeline/
+timeline: /uk/archive/
 ethical_resonance: fear-loses-its-adhesion
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

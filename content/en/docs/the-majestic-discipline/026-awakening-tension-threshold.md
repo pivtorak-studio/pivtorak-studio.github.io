@@ -7,6 +7,7 @@ description: "A bear emerging from the shadows becomes a symbol of disciplined a
 summary: "The second stage of the European Bear strategy: awakening, strategic readiness, and the responsible demonstration of strength."
 event_date: 2025-11-20T12:00:00
 publication_date: 2025-11-20T12:00:00
+date: 2025-11-20T12:00:00
 lastmod: 2025-11-20T12:00:00
 slug: 026-awakening-tension-threshold
 tags: [Awakening, TensionThreshold, Bear, EuropeanBear, Strategy, Discipline, Readiness, Boundaries, Strength, Responsibility, TheMajesticDiscipline]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-026-awakening-tension-threshold.webp
 alt: "A large bear steps out of a dark thicket. It rises onto its hind legs, partly illuminated by daylight. Its roar travels through the air in visible sound waves, and a broken branch nearby signals that the awakening has already begun."
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: ["Anna Pivtorak"]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/026-awakening-tension-threshold/

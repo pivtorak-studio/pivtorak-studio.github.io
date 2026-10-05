@@ -7,6 +7,7 @@ description: A natureza merece estações tranquilas. Uma reflexão sobre calor,
 summary: A luz do sol atravessa as folhas de outono, um coelho repousa entre as ervas e a natureza segue o seu próprio ritmo. Este artigo explora o valor da tranquilidade sazonal.
 event_date: 2025-10-13T12:00:00
 publication_date: 2025-10-13T12:00:00
+date: 2025-10-13T12:00:00
 lastmod: 2025-10-13T12:00:00
 slug: 014-the-right-to-a-warm-autumn
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-014-the-right-to-a-warm-autumn.webp
 alt: Um coelho repousa tranquilamente entre folhas de outono numa floresta aquecida pela luz suave do sol.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/014-the-right-to-a-warm-autumn/

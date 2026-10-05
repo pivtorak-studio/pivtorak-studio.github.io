@@ -7,6 +7,7 @@ description: Uma análise da transformação da repressão em prova. O medo desa
 summary: Esta obra documenta a etapa final da dessacralização do medo. As grades da prisão transformam-se em protocolos jurídicos, as vítimas tornam-se testemunhas e a ditadura perde a sua capacidade de ocultar a violência à medida que a própria história começa a registar cada ato.
 event_date: 2026-01-25T13:00:00
 publication_date: 2026-01-25T13:00:00
+date: 2026-01-25T13:00:00
 lastmod: 2026-01-25T13:00:00
 slug: 06-03-desacralization-of-fear-inevitability-of-tribunal
 tags:
@@ -43,7 +44,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal.webp
 alt: Uma cela escura onde as sombras das grades formam linhas semelhantes a um protocolo judicial. O chão está rachado e uma fissura central brilha em vermelho.
 related:
-  - /timeline/
+  - /pt/archive/
   - /docs/extra-credit-problem/
 authors: Anna Pivtorak
 draft: false
@@ -74,7 +75,7 @@ related_domains:
   - governance
   - freedom
   - civilization
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: O medo termina quando a própria história começa a testemunhar.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

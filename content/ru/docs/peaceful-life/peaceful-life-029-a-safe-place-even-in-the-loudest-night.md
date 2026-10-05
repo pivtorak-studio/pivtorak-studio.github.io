@@ -7,6 +7,7 @@ description: Размышление о безопасности, уязвимо�
 summary: Вдохновлённое спасением молодой косули, застрявшей под автомобилем в Киеве после ночной атаки, это эссе исследует общую для всех живых существ потребность в защите, безопасности и мире.
 event_date: 2026-06-03T14:00:00+01:00
 publication_date: 2026-06-03T14:00:00+01:00
+date: 2026-06-03T14:00:00+01:00
 lastmod: 2026-06-03T14:00:00+01:00
 slug: 029-a-safe-place-even-in-the-loudest-night
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp
 alt: Молодая косуля прячется под старым белым автомобилем, а над сценой возвышается символический купол мира, олицетворяющий безопасность, сострадание и надежду.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

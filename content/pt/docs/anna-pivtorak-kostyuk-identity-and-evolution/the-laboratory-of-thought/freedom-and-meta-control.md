@@ -6,6 +6,7 @@ title: "Liberdade e Meta-Controlo"
 description: "Uma exploração filosófica da liberdade, da responsabilidade interna e da sistematização sem controlo rígido. Sobre confiança no próprio profissionalismo, prioridade do facto sobre o plano e a estética da folha em branco."
 event_date: 2026-05-07T10:00:00
 publication_date: 2026-05-12T15:00:00
+date: 2026-05-12T15:00:00
 tags:
   - liberdade
   - meta-controlo

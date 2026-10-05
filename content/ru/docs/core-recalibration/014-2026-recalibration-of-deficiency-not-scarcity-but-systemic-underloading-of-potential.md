@@ -8,6 +8,7 @@ description: Формализация перехода от мышления д�
 summary: Исследование CoreRecalibration, вводящее Принцип Согласованности Масштабов, Физику Сдерживания и Физику Суверенности для объяснения экзистенциального давления при внешнем благополучии.
 event_date: 2026-06-15T09:00:00+01:00
 publication_date: 2026-06-15T09:00:00+01:00
+date: 2026-06-15T09:00:00+01:00
 lastmod: 2026-06-15T09:00:00+01:00
 tags:
   - дефицитарность
@@ -46,7 +47,7 @@ image: /images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarc
 alt: Инфографика, иллюстрирующая переход от Физики Сдерживания к Физике Суверенности посредством гидродинамики, кибернетического моделирования и принципов согласованности масштабов.
 related:
   - /ru/docs/core-recalibration/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/ru/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/

@@ -7,6 +7,7 @@ description: Персія відновлює візуальний суверен
 summary: Цивілізаційне відновлення, у якому візуальна деокупація перетворює архітектуру з носія нав’язаних сенсів на живе середовище для вільних громадян.
 event_date: 2026-01-28T15:00:00
 publication_date: 2026-01-28T15:00:00
+date: 2026-01-28T15:00:00
 lastmod: 2026-01-28T15:00:00
 slug: 07-06-revival-of-identity-symbolic-cleansing
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-06-revival-of-identity-symbolic-cleansing.webp
 alt: Руки дбайливо змивають чорну фарбу з кам’яного барельєфа, натхненного Персеполем, чистою водою, відкриваючи білий і світло-сірий мармур. На поверхні мерехтять легкі відблиски.
 related:
-  - /timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - ethics
   - freedom
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Місто вільно дихає, коли неправду змито.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

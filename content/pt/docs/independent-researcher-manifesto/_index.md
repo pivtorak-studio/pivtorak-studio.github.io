@@ -45,7 +45,7 @@ featured: true
 image: /images/independent-researcher-manifesto.webp
 alt: Uma estrutura central de ressonância rodeada por volumes interligados de manifestos, representando nós sequenciais dentro de um sistema unificado de investigação.
 related:
-  - /pt/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

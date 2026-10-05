@@ -4,6 +4,7 @@ title: 001 Axiom Of Strength
 weight: 1
 event_date: 2025-10-01T11:00:00
 publication_date: 2025-10-01T11:00:00
+date: 2025-10-01T11:00:00
 ---
 
 ![Axiom Of Strength](/images/shield-001.webp)

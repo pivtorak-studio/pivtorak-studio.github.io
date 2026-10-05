@@ -4,6 +4,7 @@ title: 010 Аксіома Пам’яті
 weight: 10
 event_date: 2025-10-14T11:00:00
 publication_date: 2025-10-14T11:00:00
+date: 2025-10-14T11:00:00
 ---
 
 

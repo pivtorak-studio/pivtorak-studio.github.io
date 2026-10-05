@@ -6,6 +6,7 @@ title: "038 Здравый смысл — основа мира"
 description: "Мир зависит не только от границ, договоров и институтов, но и от способности тех, кто обладает властью, ясно видеть реальность, понимать последствия и принимать ответственные решения."
 event_date: 2026-09-04T21:00:00+01:00
 publication_date: 2026-09-04T21:00:00+01:00
+date: 2026-09-04T21:00:00+01:00
 lastmod: 2026-09-04T21:00:00+01:00
 slug: 038-common-sense-is-the-foundation-of-peace
 tags: [Мирная жизнь, мир, здравый смысл, политическая ответственность, лидерство, сосуществование, ответственность]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-038-common-sense-is-the-foundation-of-peace.webp
 alt: "Подробный рисунок мелом на школьной доске, разделённой на две контрастные сцены: урок мира в детстве с глобусом, голубем с оливковой ветвью и книгами о дружбе, уважении, понимании и доброте; и политическая деятельность во взрослой жизни с дронами, взрывами, горящими зданиями и разрушением."
-related: [/ru/docs/peaceful-life/, /ru/docs/timeline/]
+related: [/ru/docs/peaceful-life/, /ru/archive/]
 authors: Анна Півторак (Костюк)
 draft: false
 canonical: /ru/docs/peaceful-life/038-common-sense-is-the-foundation-of-peace/

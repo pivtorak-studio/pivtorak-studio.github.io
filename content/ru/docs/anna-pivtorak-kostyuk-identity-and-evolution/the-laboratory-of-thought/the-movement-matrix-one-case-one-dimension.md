@@ -6,6 +6,7 @@ title: "Матрица Движения: Одно дело — одно изме
 description: "Матрица Движения — это локальная система ясности для сверхсложных задач, где хаос заменяется структурой движения через пять измерений: Base, Action, Context, Expression и Status."
 event_date: 2026-05-16T09:00:00
 publication_date: 2026-05-16T11:00:00
+date: 2026-05-16T11:00:00
 tags:
   - movement matrix
   - Path

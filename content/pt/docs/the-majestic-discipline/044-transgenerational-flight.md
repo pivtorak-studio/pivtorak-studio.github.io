@@ -7,6 +7,7 @@ description: Voo Transgeracional explora a continuidade do movimento entre gera�
 summary: Uma grande viagem não precisa de ser concluída durante uma única vida para permanecer um movimento contínuo. A borboleta-monarca simboliza a forma como cada geração leva a viagem mais longe, acrescentando a sua própria parte a um caminho que começou antes dela.
 event_date: 2026-09-19T12:00:00
 publication_date: 2026-09-19T12:00:00
+date: 2026-09-19T12:00:00
 lastmod: 2026-09-19T12:00:00
 slug: 044-transgenerational-flight
 tags: [voo transgeracional, borboleta-monarca, continuidade entre gerações, sucessão, direção herdada]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-044-transgenerational-flight.webp
 alt: Uma borboleta-monarca voa sobre uma vasta floresta dourada de outono, enquanto um rasto de pequenas borboletas-monarca a segue, formando um caminho luminoso em direção às montanhas distantes sob um céu quente.
-related: [/pt/docs/the-majestic-discipline/, /pt/docs/timeline/]
+related: [/pt/docs/the-majestic-discipline/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/the-majestic-discipline/044-transgenerational-flight/

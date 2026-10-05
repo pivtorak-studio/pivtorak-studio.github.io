@@ -7,6 +7,7 @@ description: Um estudo do silêncio coletivo como forma sincronizada de presenç
 summary: Este trabalho explora o silêncio coletivo como um fenómeno social coordenado. Analisa a forma como a presença partilhada, sem slogans nem líderes, priva os sistemas autoritários dos seus instrumentos de repressão e acumula energia cívica transformadora.
 event_date: 2026-01-23T13:00:00
 publication_date: 2026-01-23T13:00:00
+date: 2026-01-23T13:00:00
 lastmod: 2026-01-23T13:00:00
 slug: 05-03-protest-environment-collective-silence
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - governance
   - social_physics
   - collective_behavior
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: O silêncio é o rugido do oceano a preparar a maré.
 manifesto_type: transition
 project: IranPersiaCivilizationalTransition

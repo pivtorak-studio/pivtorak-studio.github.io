@@ -6,6 +6,7 @@ title: "004 A Anatomia do Ritmo. O Duolingo Max como Polígono de Pensamento Est
 description: Uma reflexão sobre como o Duolingo Max se tornou um simulador cognitivo antes da transição para código, arquitetura digital e pensamento sistémico.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
+date: 2026-05-18T15:00:00
 tags:
   - Duolingo Max
   - pensamento estratégico
@@ -25,7 +26,7 @@ alt: Uma composição digital futurista mostrando a transição do ritmo de apre
 related:
   - /pt/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
-  - /pt/docs/timeline/
+  - /pt/archive/
 weight: 4
 draft: false
 toc: true

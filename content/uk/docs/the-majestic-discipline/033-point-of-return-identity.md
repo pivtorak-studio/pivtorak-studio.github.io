@@ -7,6 +7,7 @@ description: Морська черепаха повертається на бе�
 summary: Третій етап Стратегії Морської Черепахи досліджує точку повернення як збіг внутрішньої навігації та реальності, де десятиліття вірного руху стають втіленою ідентичністю.
 event_date: 2026-01-07T13:00:00
 publication_date: 2026-01-07T13:00:00
+date: 2026-01-07T13:00:00
 lastmod: 2026-01-07T13:00:00
 slug: 033-point-of-return-identity
 tags:
@@ -44,7 +45,7 @@ image: /images/the-majestic-discipline-033-point-of-return-identity.webp
 alt: Велична морська черепаха виходить із нічного океану на тихий піщаний берег під зоряним небом, завершуючи свою багаторічну подорож до місця свого народження.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

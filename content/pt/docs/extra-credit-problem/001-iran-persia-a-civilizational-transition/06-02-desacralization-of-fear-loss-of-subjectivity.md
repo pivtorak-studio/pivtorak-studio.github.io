@@ -7,6 +7,7 @@ description: Uma análise do colapso da subjetividade política nos sistemas aut
 summary: Esta obra documenta a dissolução da subjetividade autoritária como um ponto de viragem civilizacional. Um gabinete vazio, símbolos que desaparecem e ordens sem peso revelam que a ditadura só existe enquanto as pessoas participam na sua rede de relações.
 event_date: 2026-01-25T12:00:00
 publication_date: 2026-01-25T12:00:00
+date: 2026-01-25T12:00:00
 lastmod: 2026-01-25T12:00:00
 slug: 06-02-desacralization-of-fear-loss-of-subjectivity
 tags:
@@ -43,7 +44,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity.webp
 alt: Um gabinete presidencial iraniano vazio com uma secretária coberta de pó, ordens espalhadas, uma cadeira a desaparecer e uma bandeira a desfazer-se em pó. Sem pessoas presentes.
 related:
-  - /timeline/
+  - /pt/archive/
   - /docs/extra-credit-problem/
 authors: Anna Pivtorak
 draft: false
@@ -74,7 +75,7 @@ related_domains:
   - ethics
   - identity
   - civilization
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: O poder dissolve-se quando as pessoas deixam de lhe emprestar o seu consentimento.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

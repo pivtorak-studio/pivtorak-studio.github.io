@@ -11,6 +11,7 @@ summary: "De um trabalho concluído por dia para sistemas de investigação inte
 
 event_date: 2026-06-30T17:00:00+01:00
 publication_date: 2026-06-30T17:00:00+01:00
+date: 2026-06-30T17:00:00+01:00
 lastmod: 2026-06-30T17:00:00+01:00
 
 tags: [Evolução de Escala, Unidade de Pensamento, Pensamento Sistémico, Movimento Browniano, Processo Criativo, Arquitetura da Investigação, Recalibração do Núcleo, Investigação Independente]
@@ -26,7 +27,7 @@ featured: true
 image: /images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp
 alt: "Infografia sobre a Evolução de Escala ilustrando a transformação do trabalho criativo diário num programa autónomo de investigação através da evolução sistémica da unidade de pensamento."
 
-related: [/pt/docs/core-recalibration/, /pt/docs/timeline/]
+related: [/pt/docs/core-recalibration/, /pt/archive/]
 
 authors: [Anna Pivtorak]
 

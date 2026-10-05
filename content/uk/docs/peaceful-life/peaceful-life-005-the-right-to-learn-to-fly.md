@@ -7,6 +7,7 @@ description: Кожна жива істота заслуговує на безп
 summary: Молоді птахи вчаться літати через практику, невпевненість і сміливість. Ця стаття досліджує універсальне право вчитися, безпечно помилятися та відкривати власні крила.
 event_date: 2025-07-01T12:00:00
 publication_date: 2025-07-01T12:00:00
+date: 2025-07-01T12:00:00
 lastmod: 2025-07-01T12:00:00
 slug: 005-the-right-to-learn-to-fly
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-005-the-right-to-learn-to-fly.webp
 alt: Молодий птах розправляє крила на краю гілки, готуючись до одного з перших польотів у спокійному літньому пейзажі.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

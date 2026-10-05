@@ -7,6 +7,7 @@ description: A recalibração final que explora a arquitetura como disciplina de
 summary: A construção cria objetos. A arquitetura projeta os ambientes onde esses objetos se tornam possíveis. Este artigo apresenta a arquitetura dos ambientes de sentido como uma disciplina de pensamento sistémico soberano.
 event_date: 2026-05-31T23:00:00+01:00
 publication_date: 2026-05-31T23:00:00+01:00
+date: 2026-05-31T23:00:00+01:00
 lastmod: 2026-05-31T23:00:00+01:00
 tags:
   - CoreRecalibration
@@ -44,7 +45,7 @@ image: /images/core-recalibration-012-2026-the-architecture-of-meaning-environme
 alt: Uma arquiteta diante de uma estrutura geométrica luminosa inspirada em Vitrúvio, simbolizando Utilidade, Resiliência e Beleza.
 related:
   - /pt/docs/core-recalibration/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 weight: 12

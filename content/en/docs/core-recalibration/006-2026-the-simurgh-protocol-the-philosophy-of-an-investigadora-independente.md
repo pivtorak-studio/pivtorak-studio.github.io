@@ -6,6 +6,7 @@ title: "006 The Simurgh Protocol. The Philosophy of an Investigadora Independent
 description: A manifesto of sovereign science and independent research. An exploration of the transition from institutional legitimation toward autonomous knowledge architecture, where the website becomes a laboratory, the digital archive becomes the system of record, and discipline becomes the guarantor of quality.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
+date: 2026-05-20T15:00:00
 tags:
   - CoreRecalibration
   - SimurghProtocol
@@ -27,7 +28,7 @@ alt: "Symbolic infographic titled 'The Simurgh Protocol': an independent researc
 related:
   - /en/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /en/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
-  - /en/docs/timeline/
+  - /en/archive/
 weight: 6
 draft: false
 toc: true

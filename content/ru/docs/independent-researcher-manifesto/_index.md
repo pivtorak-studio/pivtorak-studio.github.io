@@ -27,7 +27,7 @@ featured: true
 image: /images/independent-researcher-manifesto.webp
 alt: "Центральная резонансная структура окружена связанными томами манифестов, представляющими последовательные узлы единой исследовательской системы."
 
-related: ["/ru/timeline/"]
+related: ["/ru/archive/"]
 authors: ["Anna Pivtorak"]
 
 draft: false

@@ -6,6 +6,7 @@ title: 034 Коли у зла закінчується ресурс
 description: Мирне дитинство починається там, де у зла більше немає ресурсу дістатися до дитини.
 event_date: 2026-08-12T06:00:00+01:00
 publication_date: 2026-08-12T06:00:00+01:00
+date: 2026-08-12T06:00:00+01:00
 lastmod: 2026-08-12T06:00:00+01:00
 slug: 034-when-evil-runs-out-of-resources
 tags:
@@ -32,7 +33,7 @@ image: /images/peaceful-life-034-when-evil-runs-out-of-resources.webp
 alt: Спокійна дитяча кімната вночі, у яку через вікно м’яко проникає місячне світло. За вікном темне небо поступово розсіюється на окремі частинки, а кімната залишається спокійною та захищеною.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /uk/docs/peaceful-life/034-when-evil-runs-out-of-resources/

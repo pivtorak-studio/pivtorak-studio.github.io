@@ -7,6 +7,7 @@ description: "Этический и методологический кодек�
 summary: "Код поведения формализует поведенческую основу методологии Pivtorak.Studio. Он закрепляет качество как обязательное условие, присутствие как дисциплину, структуру как приоритет и ответственность как неизменную подпись автора."
 event_date: 2026-04-29T11:00:00
 publication_date: 2026-04-29T11:00:00
+date: 2026-04-29T11:00:00
 lastmod: 2026-04-29T11:00:00
 slug: 005-pivtorak-studio-diamond-code-of-conduct
 tags: [код-поведения, методология, качество, ответственность, присутствие, структура, трансформация, системное-мышление, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp
 alt: "Геометрический алмаз с белой птицей в центре, окружённый четырьмя принципами: качество, присутствие, структура и ответственность."
-related: [/ru/docs/pivtorak-studio/, /ru/docs/timeline/]
+related: [/ru/docs/pivtorak-studio/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/pivtorak-studio/005-pivtorak-studio-diamond-code-of-conduct/

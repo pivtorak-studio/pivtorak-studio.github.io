@@ -7,6 +7,7 @@ description: Животные — не символы, а часть целог�
 summary: Двадцать седьмая работа серии «Мирная Жизнь» размышляет о принадлежности как форме мира. Собака, отдыхающая у двери, становится символом непрерывности, доверия и общей жизни, соединяющей членов семьи независимо от вида.
 event_date: 2026-02-01T13:00:00
 publication_date: 2026-02-01T13:00:00
+date: 2026-02-01T13:00:00
 lastmod: 2026-02-01T13:00:00
 slug: 027-those-who-wait-together
 tags:
@@ -50,7 +51,7 @@ image: /images/peaceful-life-027-those-who-wait-together.webp
 alt: Собака спокойно отдыхает на своём месте рядом с входной дверью дома, окружённая атмосферой тепла, доверия и принадлежности.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -7,6 +7,7 @@ description: "Манифест, утверждающий человеческу�
 summary: "Системы, модели и институции являются инструментами навигации. Их ценность определяется тем, помогают ли они людям жить, любить, творить, возвращаться домой и строить будущее."
 event_date: 2026-06-09T10:00:00
 publication_date: 2026-06-09T10:00:00
+date: 2026-06-09T10:00:00
 lastmod: 2026-06-09T10:00:00
 slug: 006-the-right-to-human-outcomes
 tags: [независимый-исследователь, манифест, человеческий-результат, человекоцентричность, системное-мышление, суверенность, достоинство, свобода, peaceful-life]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/independent-researcher-manifesto-006-the-right-to-human-outcomes.webp
 alt: "Защищённое человеческое ядро, окружённое навигационными структурами, символизирующее системы, служащие жизни, а не заменяющие её."
-related: [/ru/docs/independent-researcher-manifesto/, /ru/docs/timeline/]
+related: [/ru/docs/independent-researcher-manifesto/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/independent-researcher-manifesto/006-the-right-to-human-outcomes/

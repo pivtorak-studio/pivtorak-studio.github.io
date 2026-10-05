@@ -7,6 +7,7 @@ description: The second stage of the Arctic Tern's journey. A reflection on endu
 summary: Gliding between Earth's poles, the Arctic Tern follows an invisible axis through the open ocean. Planetary Axis Transit explores endurance, precision, and the discipline of sustaining movement over time.
 event_date: 2026-06-07T09:00:00
 publication_date: 2026-06-07T09:00:00
+date: 2026-06-07T09:00:00
 lastmod: 2026-06-07T09:00:00
 slug: 035-planetary-axis-transit
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-035-planetary-axis-transit.webp
 alt: An Arctic Tern glides above a deep ultramarine ocean. A thin vertical line of the Prime Meridian passes through its body. Ocean currents form elegant patterns below.
 related:
   - /en/docs/the-majestic-discipline/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

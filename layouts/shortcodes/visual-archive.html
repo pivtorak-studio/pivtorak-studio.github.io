@@ -1,0 +1,29 @@
+{{/* Collect dated, illustrated articles from docs only. Section pages are excluded by RegularPagesRecursive. */}}
+{{ $pages := slice }}
+{{ with site.GetPage "/docs" }}
+  {{ range .RegularPagesRecursive }}
+    {{ $source := .File.Path }}
+    {{ $isStructural := or (strings.HasSuffix $source "site-completion-matrix.md") (strings.HasSuffix $source "atlas.md") (strings.Contains $source "docs/calculators/") (strings.Contains $source "docs/converters/") }}
+    {{ if and .Params.date .Params.image (not $isStructural) }}
+      {{ $pages = $pages | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<div class="visual-archive" aria-label="{{ i18n "archive" }}">
+  {{ range sort $pages "Date" "desc" }}
+    <article class="visual-archive-card">
+      <a class="visual-archive-card__image" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+        <img src="{{ .Params.image | safeURL }}" alt="{{ with .Params.alt }}{{ . }}{{ else }}{{ .Title }}{{ end }}" loading="lazy" decoding="async">
+      </a>
+      <div class="visual-archive-card__body">
+        <h2 class="visual-archive-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <time class="visual-archive-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+        {{ with .Params.series }}
+          <p class="visual-archive-card__meta">{{ if reflect.IsSlice . }}{{ delimit . ", " }}{{ else }}{{ . }}{{ end }}</p>
+        {{ end }}
+        {{ with .Params.project }}<p class="visual-archive-card__meta">{{ . }}</p>{{ end }}
+      </div>
+    </article>
+  {{ end }}
+</div>

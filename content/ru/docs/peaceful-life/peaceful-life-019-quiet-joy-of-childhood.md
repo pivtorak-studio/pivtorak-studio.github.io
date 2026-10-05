@@ -6,6 +6,7 @@ description: Размышление о тихом счастье детства,
 summary: Детству не нужны громкие праздники, чтобы быть счастливым. Тихие моменты тепла, снега, света и защищённости часто становятся самыми яркими воспоминаниями жизни.
 event_date: 2025-12-02T11:00:00
 publication_date: 2025-12-02T11:00:00
+date: 2025-12-02T11:00:00
 lastmod: 2025-12-02T11:00:00
 slug: 019-quiet-joy-of-childhood
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-019-quiet-joy-of-childhood.webp
 alt: Ребёнок сидит у окна и смотрит на падающий снег. Рядом горит маленькая свеча, наполняя комнату теплом, безопасностью и тихой зимней радостью.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

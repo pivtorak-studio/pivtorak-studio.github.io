@@ -19,7 +19,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline.webp
 alt: "Символічний атлас дисципліни, представлений через тварин, птахів, комах, планетарну навігацію та центральний знак ⊙."
-related: [/uk/docs/the-majestic-discipline/, /uk/docs/timeline/]
+related: [/uk/docs/the-majestic-discipline/, /uk/archive/]
 authors: ["Анна Півторак"]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/the-majestic-discipline/

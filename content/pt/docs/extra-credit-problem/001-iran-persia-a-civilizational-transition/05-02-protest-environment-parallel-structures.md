@@ -7,6 +7,7 @@ description: Um estudo das estruturas paralelas como sistemas descentralizados d
 summary: Este trabalho explora a forma como as comunidades criam redes autónomas de apoio, educação e ajuda mútua dentro de ambientes autoritários. Analisa as estruturas paralelas como infraestruturas vivas que contornam o controlo e se tornam a base da futura soberania cívica.
 event_date: 2026-01-23T12:00:00
 publication_date: 2026-01-23T12:00:00
+date: 2026-01-23T12:00:00
 lastmod: 2026-01-23T12:00:00
 slug: 05-02-protest-environment-parallel-structures
 tags:
@@ -80,7 +81,7 @@ related_domains:
   - ethics
   - freedom
   - network_theory
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Construímos o nosso, sem pedir permissão à ferrugem.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

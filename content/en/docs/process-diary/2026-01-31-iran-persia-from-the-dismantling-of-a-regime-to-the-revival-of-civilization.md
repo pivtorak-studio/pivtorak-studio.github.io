@@ -7,6 +7,7 @@ description: Documentation of the emergence, evolution, and completion of a civi
 summary: A Process Diary entry recording the transition from analyzing authoritarian structures to designing a civilizational future through the Persia 2.0 framework.
 event_date: 2026-01-31T23:30:00
 publication_date: 2026-01-31T23:30:00
+date: 2026-01-31T23:30:00
 lastmod: 2026-01-31T23:30:00
 slug: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 tags:

@@ -7,6 +7,7 @@ description: "Define o modelo de execução do Pivtorak.Studio, onde cada projet
 summary: "A estrutura de execução explica como os projetos nascem, evoluem e são publicados sem encomendas externas nem fragmentação de responsabilidades."
 event_date: 2026-04-30T13:00:00
 publication_date: 2026-04-30T13:00:00
+date: 2026-04-30T13:00:00
 lastmod: 2026-04-30T13:00:00
 slug: 007-pivtorak-studio-execution-framework
 tags: [estrutura-de-execucao, metodologia, sistema-autonomo, ciclo-do-projeto, publicacao, investigacao, pivtorak-studio]
@@ -21,7 +22,7 @@ image: /images/pivtorak-studio-007-pivtorak-studio-execution-framework.webp
 alt: "Ilustração intitulada 'Estrutura de Execução — Pivtorak.Studio'. Um núcleo geométrico semelhante a um diamante está envolvido por um ciclo circular de execução que representa seis princípios: comissão interna, tarefa auto definida, processo autónomo, ausência de pressão externa, ciclo fechado e publicação como conclusão."
 related:
   - /pt/docs/pivtorak-studio/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: ["Anna Pivtorak"]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/pivtorak-studio/007-pivtorak-studio-execution-framework/

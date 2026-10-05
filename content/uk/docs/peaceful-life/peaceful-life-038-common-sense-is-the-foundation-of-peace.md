@@ -6,6 +6,7 @@ title: "038 Здоровий глузд — основа миру"
 description: "Мир залежить не лише від кордонів, договорів та інституцій, а й від здатності тих, хто має владу, ясно бачити реальність, розуміти наслідки та ухвалювати відповідальні рішення."
 event_date: 2026-09-04T21:00:00+01:00
 publication_date: 2026-09-04T21:00:00+01:00
+date: 2026-09-04T21:00:00+01:00
 lastmod: 2026-09-04T21:00:00+01:00
 slug: 038-common-sense-is-the-foundation-of-peace
 tags: [Мирне життя, мир, здоровий глузд, політична відповідальність, лідерство, співіснування, відповідальність]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-038-common-sense-is-the-foundation-of-peace.webp
 alt: "Детальний малюнок крейдою на шкільній дошці, розділеній на дві контрастні сцени: урок миру в дитинстві з глобусом, голубом миру з оливковою гілкою та книжками про дружбу, повагу, розуміння й доброту; і політична діяльність у дорослому житті з дронами, вибухами, палаючими будівлями та руйнуванням."
-related: [/uk/docs/peaceful-life/, /uk/docs/timeline/]
+related: [/uk/docs/peaceful-life/, /uk/archive/]
 authors: Анна Півторак (Костюк)
 draft: false
 canonical: /uk/docs/peaceful-life/038-common-sense-is-the-foundation-of-peace/

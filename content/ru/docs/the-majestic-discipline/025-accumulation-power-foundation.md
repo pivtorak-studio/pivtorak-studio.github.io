@@ -7,6 +7,7 @@ description: Медведь, спящий в зимней берлоге, ста
 summary: "Первый этап стратегии Европейского Медведя: накопление ресурсов, стратегическое терпение и тихое формирование долговечной силы."
 event_date: 2025-11-20T11:00:00
 publication_date: 2025-11-20T11:00:00
+date: 2025-11-20T11:00:00
 lastmod: 2025-11-20T11:00:00
 slug: 025-accumulation-power-foundation
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-025-accumulation-power-foundation.webp
 alt: Большой бурый медведь дремлет в зимней берлоге. Его массивное тело скрыто тенями, но ощущение накопленной силы и тихой мощи ясно считывается даже в покое. Вокруг — снег, деревья и холодный зимний свет.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

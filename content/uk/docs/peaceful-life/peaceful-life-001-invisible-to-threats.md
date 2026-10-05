@@ -7,6 +7,7 @@ description: Діти й тварини мають залишатися поза
 summary: Мир починається там, де захищені дитинство й природа. Ця стаття досліджує ідею того, що найвразливіші мають залишатися невидимими для загроз.
 event_date: 2025-06-01T11:00:00
 publication_date: 2025-06-01T11:00:00
+date: 2025-06-01T11:00:00
 lastmod: 2025-06-01T11:00:00
 slug: 001-invisible-to-threats
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-001-invisible-to-threats.webp
 alt: Діти й тварини спокійно відпочивають серед природи, захищені від небезпеки та оточені м’яким літнім світлом.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/001-invisible-to-threats/

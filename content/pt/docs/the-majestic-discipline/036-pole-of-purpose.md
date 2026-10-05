@@ -7,6 +7,7 @@ description: A etapa final da jornada da andorinha-do-mar-ártica. Uma reflexão
 summary: Depois de atravessar o planeta de polo a polo, a andorinha-do-mar-ártica alcança o seu destino. Polo do Propósito explora conclusão, integração e a disciplina de cumprir uma longa jornada sem perder a direção.
 event_date: 2026-06-07T17:00:00
 publication_date: 2026-06-07T17:00:00
+date: 2026-06-07T17:00:00
 lastmod: 2026-06-07T17:00:00
 slug: 036-pole-of-purpose
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-036-pole-of-purpose.webp
 alt: Uma andorinha-do-mar-ártica pousa sobre o gelo espelhado da Antártida. As luzes polares brilham ao redor enquanto o céu permanece claro. O reflexo da ave forma a imagem de uma ampulheta.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

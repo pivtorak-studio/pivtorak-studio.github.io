@@ -7,6 +7,7 @@ description: Todo o verdadeiro regresso começa no zero. Inspirada na formiga-do
 summary: A primeira obra do ciclo de julho da Cataglyphis apresenta o Ponto Zero — a origem de toda a orientação. Antes de existir uma direção, um sistema autónomo estabelece o seu próprio centro. O zero não é vazio, mas calibração perfeita.
 event_date: 2026-07-03T15:00:00
 publication_date: 2026-07-03T15:00:00
+date: 2026-07-03T15:00:00
 lastmod: 2026-07-03T15:00:00
 slug: 037-zero-navigation
 tags:
@@ -49,7 +50,7 @@ image: /images/the-majestic-discipline-037-zero-navigation.webp
 alt: Uma formiga-do-deserto dourada Cataglyphis sobre a areia quente do Sara ao nascer do sol, acima de um ponto zero luminoso, sem quaisquer pegadas ou referências.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

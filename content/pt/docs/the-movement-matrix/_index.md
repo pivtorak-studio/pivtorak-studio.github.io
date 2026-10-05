@@ -39,7 +39,7 @@ image: /images/the-movement-matrix.webp
 alt: Uma rede luminosa semelhante a uma constelação irradia a partir de um símbolo central, representando um sistema vivo de conhecimento que liga artigos, traduções, metadados e estruturas em evolução.
 related:
   - /pt/docs/the-movement-matrix/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

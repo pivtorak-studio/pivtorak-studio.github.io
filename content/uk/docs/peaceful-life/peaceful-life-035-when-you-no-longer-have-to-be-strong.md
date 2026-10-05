@@ -6,6 +6,7 @@ title: 035 Коли більше не потрібно бути сильним
 description: Мирне життя починається тоді, коли більше не потрібно бути сильним щодня.
 event_date: 2026-08-12T07:00:00+01:00
 publication_date: 2026-08-12T07:00:00+01:00
+date: 2026-08-12T07:00:00+01:00
 lastmod: 2026-08-12T07:00:00+01:00
 slug: 035-when-you-no-longer-have-to-be-strong
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp
 alt: Доросла людина спокійно сидить біля вікна на світанку, а позаду неї розчиняється важка тінь, схожа на камінь. Поруч лежить простий компас, а м’яке ранкове світло входить до спокійної кімнати.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /uk/docs/peaceful-life/035-when-you-no-longer-have-to-be-strong/

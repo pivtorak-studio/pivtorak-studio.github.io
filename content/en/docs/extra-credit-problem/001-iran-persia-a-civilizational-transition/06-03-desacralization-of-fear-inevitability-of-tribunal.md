@@ -7,6 +7,7 @@ description: An analysis of the transformation of repression into evidence. Fear
 summary: This work documents the final stage of the desacralization of fear. Prison bars become legal protocols, victims become witnesses, and dictatorship loses its ability to conceal violence as history itself begins to register every act.
 event_date: 2026-01-25T13:00:00
 publication_date: 2026-01-25T13:00:00
+date: 2026-01-25T13:00:00
 lastmod: 2026-01-25T13:00:00
 slug: 06-03-desacralization-of-fear-inevitability-of-tribunal
 tags:
@@ -43,7 +44,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-06-03-desacralization-of-fear-inevitability-of-tribunal.webp
 alt: A dark prison cell where shadows of prison bars form lines resembling a legal protocol. The floor is cracked and a central fissure glows red from within.
 related:
-  - /timeline/
+  - /en/archive/
   - /docs/extra-credit-problem/
 authors: Anna Pivtorak
 draft: false
@@ -74,7 +75,7 @@ related_domains:
   - governance
   - freedom
   - civilization
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: Fear ends when history itself begins to testify.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

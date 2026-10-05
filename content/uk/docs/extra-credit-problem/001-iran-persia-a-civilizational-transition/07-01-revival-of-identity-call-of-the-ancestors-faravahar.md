@@ -7,6 +7,7 @@ description: Розпад тиранії відкриває глибший ци�
 summary: Цивілізаційний перехід, у якому Фаравахар стає компасом для відновлення ідентичності, гідності та історичної безперервності після занепаду авторитарної влади.
 event_date: 2026-01-26T11:00:00
 publication_date: 2026-01-26T11:00:00
+date: 2026-01-26T11:00:00
 lastmod: 2026-01-26T11:00:00
 slug: 07-01-revival-of-identity-call-of-the-ancestors-faravahar
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-01-revival-of-identity-call-of-the-ancestors-faravahar.webp
 alt: Темний зруйнований міський пейзаж із розірваними прапорами старого режиму на землі, тріщиною в асфальті з червоним сяйвом усередині та променем світла, що відкриває золотий символ Фаравахар.
 related:
-  - /timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - ethics
   - governance
   - civilization
-timeline: /timeline/
+timeline: /uk/archive/
 ethical_resonance: Ми не починаємо з нуля; ми повертаємося до власної величі.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

@@ -7,6 +7,7 @@ description: "A practical technical SEO check of robots.txt: what the file does,
 summary: Robots.txt is a crawling directive, not an indexing or ranking command. This SEO check shows how to verify that the file exists, contains the intended instructions, and reaches the live website correctly.
 event_date: 2026-09-07T21:00:00
 publication_date: 2026-09-07T21:00:00
+date: 2026-09-07T21:00:00
 lastmod: 2026-09-07T21:00:00
 slug: robots-txt-the-file-that-search-engines-read-first
 tags:
@@ -40,7 +41,7 @@ image: /images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first
 alt: Three-level robots.txt verification diagram showing Source, Generated Build, and Live website checks.
 related:
   - /en/docs/seo-tricks/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

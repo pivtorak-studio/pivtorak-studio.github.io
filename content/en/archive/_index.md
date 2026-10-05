@@ -1,4 +1,4 @@
----
+﻿---
 id: archive
 language: en
 translation_of: archive
@@ -85,7 +85,7 @@ alt: A dark archival still life with books, index cards, maps, photographs, and 
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "Timeline",
+        "name": "Timeline â€” Visual Archive",
         "url": "https://pivtorak.studio/en/docs/timeline/"
       },
       {
@@ -102,13 +102,13 @@ alt: A dark archival still life with books, index cards, maps, photographs, and 
 
 # Archive
 
-![_Archive. AP | Pivtorak.Studio. 03.10.2026_ © Anna Pivtorak (Kostyuk)](/images/archive.webp)
+![_Archive. AP | Pivtorak.Studio. 03.10.2026_ Â© Anna Pivtorak (Kostyuk)](/images/archive.webp)
 
 The Archive preserves the documented chronology, projects, and structural records that trace the development of Pivtorak.Studio.
 
 It brings together materials that are useful for understanding not only what has been created, but also how the studio's body of work has developed over time.
 
-## Timeline
+## Timeline â€” Visual Archive
 
 A chronological record of the studio's development, projects, publications, research, and significant stages.
 
@@ -124,8 +124,8 @@ A structural record of the studio's work, showing how projects, ideas, research,
 
 The Archive is an evolving record. New materials are added as projects develop and previously documented work is organised into a clearer structure.
 
-**Alt-text:**   
+**Alt-text:**
 A dark archival still life with books, index cards, maps, photographs, and a brass compass, with the title ARCHIVE in large editorial lettering.
 
-_Archive. AP | Pivtorak.Studio. 03.10.2026_  
-© Anna Pivtorak (Kostyuk)
+_Archive. AP | Pivtorak.Studio. 03.10.2026_
+Â© Anna Pivtorak (Kostyuk)

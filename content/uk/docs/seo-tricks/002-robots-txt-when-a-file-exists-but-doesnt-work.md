@@ -7,6 +7,7 @@ description: Реальне SEO-розслідування в Hugo, яке по�
 summary: Файл robots.txt існував, але Hugo генерував неочікуваний вміст із універсального шаблону. Виправленням стало створення явного шаблону layouts/robots.txt і перевірка за ланцюжком Source → Build → Live.
 event_date: 2026-09-22T15:00:00
 publication_date: 2026-09-22T15:00:00
+date: 2026-09-22T15:00:00
 slug: robots-txt-when-a-file-exists-but-doesnt-work
 tags:
   - robots.txt
@@ -33,7 +34,7 @@ image: /images/seo-tricks-002-robots-txt-when-a-file-exists-but-doesnt-work.webp
 alt: Темна технічна ілюстрація, що показує розслідування robots.txt через рівні Source, Build і Live.
 related:
   - /uk/docs/seo-tricks/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

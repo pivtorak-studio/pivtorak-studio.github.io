@@ -4,6 +4,7 @@ title: 012 Axioma Da Fé
 weight: 12
 event_date: 2025-10-14T13:00:00
 publication_date: 2025-10-14T13:00:00
+date: 2025-10-14T13:00:00
 ---
 
 

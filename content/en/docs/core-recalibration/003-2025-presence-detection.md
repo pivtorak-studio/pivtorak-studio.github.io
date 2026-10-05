@@ -6,6 +6,7 @@ title: 003 Presence Detection
 description: A moment where body, time, and movement synchronize into one system, and presence becomes a rhythm that has been detected.
 event_date: 2025-06-21T17:00:00
 publication_date: 2025-06-21T17:00:00
+date: 2025-06-21T17:00:00
 tags:
   - PresenceDetection
   - DesignMoments
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-003-2025-presence-detection.webp
 alt: "Minimalist digital illustration: a dark background with the outline of a watch glowing softly, a pulse graph, a breathing circle, and a subtle gesture resembling a touch on a wristband. The atmosphere conveys deep concentration without tension."
 related:
-  - /en/docs/timeline/
+  - /en/archive/
   - /en/docs/core-recalibration/
 weight: 3
 draft: false

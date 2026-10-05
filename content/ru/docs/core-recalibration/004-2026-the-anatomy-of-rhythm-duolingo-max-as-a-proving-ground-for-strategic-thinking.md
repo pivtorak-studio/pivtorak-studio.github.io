@@ -6,6 +6,7 @@ title: "004 Анатомия Ритма. Duolingo Max как полигон ст
 description: Размышление о том, как Duolingo Max стал когнитивным тренажёром перед переходом к архитектуре сайтов, системному мышлению и работе с кодом.
 event_date: 2026-05-18T15:00:00
 publication_date: 2026-05-18T15:00:00
+date: 2026-05-18T15:00:00
 tags:
   - Duolingo Max
   - стратегическое мышление
@@ -25,7 +26,7 @@ alt: Футуристическая цифровая композиция, по�
 related:
   - /ru/docs/core-recalibration/006-2026-the-simurgh-protocol-the-philosophy-of-an-investigadora-independente/
   - /ru/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
-  - /ru/docs/timeline/
+  - /ru/archive/
 weight: 4
 draft: false
 toc: true

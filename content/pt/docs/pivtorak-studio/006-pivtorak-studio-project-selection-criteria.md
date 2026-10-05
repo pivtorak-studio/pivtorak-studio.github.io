@@ -7,6 +7,7 @@ description: Os critérios pelos quais a Pivtorak.Studio determina se um projeto
 summary: Define os seis critérios de ressonância que determinam se um projeto é adequado à metodologia Pivtorak.Studio.
 event_date: 2026-04-30T12:00:00
 publication_date: 2026-04-30T12:00:00
+date: 2026-04-30T12:00:00
 lastmod: 2026-04-30T12:00:00
 slug: 006-pivtorak-studio-project-selection-criteria
 tags:
@@ -42,7 +43,7 @@ image: /images/pivtorak-studio-006-pivtorak-studio-project-selection-criteria.we
 alt: 'Ilustração intitulada "Critérios de Seleção de Projetos da Pivtorak.Studio". No centro encontra-se uma moeda histórica do século XVII da Comunidade Polaco-Lituana (półtorak), inserida numa estrutura geométrica poliédrica semelhante a um diamante. A moeda simboliza valor, seleção e critérios de entrada no sistema. Em redor apresentam-se seis princípios de seleção de projetos: alinhamento de escala, clareza de intenção, preparação para a precisão, abertura à estrutura, alinhamento de valores e presença no processo. A composição combina geometria de engenharia, símbolos de ligação e marcadores de observação, enfatizando a seleção intencional e o pensamento sistémico.'
 related:
   - /pt/docs/pivtorak-studio/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

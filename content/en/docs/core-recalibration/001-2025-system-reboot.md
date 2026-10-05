@@ -6,6 +6,7 @@ title: 001 System Reboot
 description: A moment of silent internal activation where the system is already running and presence no longer requires announcements.
 event_date: 2025-06-21T15:00:00
 publication_date: 2025-06-21T15:00:00
+date: 2025-06-21T15:00:00
 tags:
   - SystemReboot
   - CoreRecalibration
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-001-2025-system-reboot.webp
 alt: "Digital illustration in the style of a dark system interface: a black and dark-blue screen with BIOS elements and startup lines — 'Initializing…', 'Loading drivers…', 'Reboot complete'. A pressed power button. The atmosphere conveys control, precision, and silence before work begins."
 related:
-  - /en/docs/timeline/
+  - /en/archive/
   - /en/docs/core-recalibration/
 weight: 1
 draft: false

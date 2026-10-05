@@ -7,6 +7,7 @@ description: Декларация о том, чтобы выйти на собс
 summary: Момент, когда путь становится личным. Красная дорожка перестаёт быть символом чужого успеха и становится дорогой, созданной собственными шагами.
 event_date: 2023-07-19T10:00:00
 publication_date: 2025-07-07T10:00:00
+date: 2025-07-07T10:00:00
 lastmod: 2025-07-07T10:00:00
 slug: 002-on-the-red-carpet
 tags: [идентичность, трансформация, творчество, автономия, свобода, собственный-путь, авторство, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-002-on-the-red-carpet.webp
 alt: Женщина идёт по красной велосипедной дорожке вдоль океана в наушниках. Дорожка становится её собственной красной дорожкой.
-related: [/ru/docs/pivtorak-studio/, /ru/docs/timeline/]
+related: [/ru/docs/pivtorak-studio/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/pivtorak-studio/002-on-the-red-carpet/

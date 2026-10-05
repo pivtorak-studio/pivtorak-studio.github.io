@@ -7,6 +7,7 @@ description: Ведмідь, що дрімає у зимовому барлоз�
 summary: "Перший етап стратегії Європейського Ведмедя: накопичення ресурсів, стратегічне терпіння та тихе формування довготривалої сили."
 event_date: 2025-11-20T11:00:00
 publication_date: 2025-11-20T11:00:00
+date: 2025-11-20T11:00:00
 lastmod: 2025-11-20T11:00:00
 slug: 025-accumulation-power-foundation
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-025-accumulation-power-foundation.webp
 alt: Великий бурий ведмідь дрімає у своїй барлозі серед зимового лісу. Його масивне тіло частково приховане тінями, але відчуття сили та спокою випромінюється навіть у нерухомості. Довкола — холодне світло, дерева, сніг і виразна атмосфера накопиченої, прихованої могутності.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -4,6 +4,7 @@ title: "02.03 🐉⚖️ ESMÉE. 🌀 Ironia de Luz"
 weight: 6
 event_date: 2025-10-09T12:00:00 # Data do evento 
 publication_date: 2025-10-09 # Data de publicação
+date: 2025-10-09 # Data de publicação
 event_type: transformation
 ---
 

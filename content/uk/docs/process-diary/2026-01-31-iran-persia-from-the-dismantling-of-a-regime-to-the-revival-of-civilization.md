@@ -7,6 +7,7 @@ description: Документація виникнення, розвитку т�
 summary: Запис Щоденника Процесу, що фіксує перехід від аналізу авторитарних структур до проєктування цивілізаційного майбутнього через концепцію Персія 2.0.
 event_date: 2026-01-31T23:30:00
 publication_date: 2026-01-31T23:30:00
+date: 2026-01-31T23:30:00
 lastmod: 2026-01-31T23:30:00
 slug: process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization
 tags:

@@ -7,6 +7,7 @@ description: "Практическая проверка robots.txt в техни
 summary: Robots.txt — это директива для сканирования, а не команда для индексации или ранжирования. Эта SEO-проверка показывает, как убедиться, что файл существует, содержит нужные инструкции и корректно доступен на работающем сайте.
 event_date: 2026-09-07T21:00:00
 publication_date: 2026-09-07T21:00:00
+date: 2026-09-07T21:00:00
 lastmod: 2026-09-07T21:00:00
 slug: robots-txt-the-file-that-search-engines-read-first
 tags:
@@ -40,7 +41,7 @@ image: /images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first
 alt: "Диаграмма проверки robots.txt на трех уровнях: Source, Generated Build и Live website."
 related:
   - /ru/docs/seo-tricks/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

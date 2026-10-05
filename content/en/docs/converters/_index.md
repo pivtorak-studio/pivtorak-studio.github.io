@@ -40,7 +40,7 @@ featured: true
 image: /images/converters.webp
 alt: Minimalist geometric illustration representing the Converters collection on Pivtorak.Studio.
 related:
-  - /en/timeline/
+  - /en/archive/
   - /en/docs/calculators/
   - /en/docs/templates/
 authors:

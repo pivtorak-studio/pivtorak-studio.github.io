@@ -7,6 +7,7 @@ description: A primeira etapa da jornada da andorinha-do-mar-ártica. Uma reflex
 summary: A andorinha-do-mar-ártica segue a luz através dos hemisférios. Dia Infinito Horizonte explora clareza, direção e a disciplina de ver para além das circunstâncias imediatas.
 event_date: 2026-06-06T21:00:00
 publication_date: 2026-06-06T21:00:00
+date: 2026-06-06T21:00:00
 lastmod: 2026-06-06T21:00:00
 slug: 034-endless-day-horizon
 tags:
@@ -45,7 +46,7 @@ image: /images/the-majestic-discipline-034-endless-day-horizon.webp
 alt: Uma andorinha-do-mar-ártica voa sobre o oceano polar diante de um enorme sol que nunca se põe, com linhas geodésicas douradas a surgir no céu.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

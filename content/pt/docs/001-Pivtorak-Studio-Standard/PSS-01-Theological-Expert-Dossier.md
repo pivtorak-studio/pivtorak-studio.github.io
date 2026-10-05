@@ -1,5 +1,7 @@
 ---
 title: PSS-01 Dossier de Especialista Teológico
+date: 2026-01-07
+image: /images/001-pivtorak-studio-standard.webp
 description: Padrão aberto para o desenvolvimento de dossiers periciais para objetos de significado teológico e sagrado.
 ---
 

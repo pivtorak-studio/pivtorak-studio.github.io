@@ -6,6 +6,7 @@ description: Взрослые осознанно создают структур
 summary: Двадцать третья работа серии «Мирная Жизнь» размышляет о мире как о сознательном акте созидания. Через простые линии, круги, дома и пути взрослые формируют условия, в которых жизнь может развиваться без страха.
 event_date: 2026-01-01T12:00:00
 publication_date: 2026-01-01T12:00:00
+date: 2026-01-01T12:00:00
 lastmod: 2026-01-01T12:00:00
 slug: 023-peace-drawn-with-awareness
 tags:
@@ -47,7 +48,7 @@ image: /images/peaceful-life-023-peace-drawn-with-awareness.webp
 alt: Руки нескольких взрослых рисуют круг, дом и путь белым мелом, символизируя осознанную архитектуру мира.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

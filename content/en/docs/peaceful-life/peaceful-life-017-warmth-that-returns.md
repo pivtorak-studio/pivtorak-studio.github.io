@@ -7,6 +7,7 @@ description: A reflection on kindness, trust, and the warmth that comes back to 
 summary: True warmth is born in care, trust, and quiet companionship. What we give sincerely to others often returns when we need it most.
 event_date: 2025-11-01T12:00:00
 publication_date: 2025-11-01T12:00:00
+date: 2025-11-01T12:00:00
 lastmod: 2025-11-01T12:00:00
 slug: 017-warmth-that-returns
 tags:
@@ -40,7 +41,7 @@ image: /images/peaceful-life-017-warmth-that-returns.webp
 alt: A child wearing a scarf sits beside a dog near a small fire. Their shared warmth blends with the glow of the flames, creating an atmosphere of trust, comfort, and mutual care.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

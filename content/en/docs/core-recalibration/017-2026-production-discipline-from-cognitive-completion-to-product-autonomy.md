@@ -8,6 +8,7 @@ description: "Quality is not perfection but the disciplined transition from cogn
 summary: "The concluding article of the Power Recalibration trilogy (014 → 016 → 017). It presents Product Autonomy as the final stage of intellectual production, where a completed work becomes capable of existing independently of its author through semantic and engineering quality assurance."
 event_date: 2026-06-27T12:00:00+01:00
 publication_date: 2026-06-27T12:00:00+01:00
+date: 2026-06-27T12:00:00+01:00
 lastmod: 2026-06-27T12:00:00+01:00
 tags: [production discipline, product autonomy, cognitive completion, quality assurance, calibrated perfectionism, production pipeline, semantic quality, engineering quality, systems thinking, independent research, core recalibration]
 keywords: [production discipline, cognitive completion, product autonomy, QA, quality management, semantic quality, engineering quality, publication workflow, product lifecycle, sovereignty, systems architecture]
@@ -18,7 +19,7 @@ status: published
 featured: true
 image: /images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp
 alt: "Production Discipline. From Cognitive Completion to Product Autonomy — engineering infographic illustrating Product Autonomy, dual Quality Assurance circuits, the Production Pipeline, and the transition from author responsibility to autonomous product life."
-related: [/en/docs/core-recalibration/, /en/docs/timeline/]
+related: [/en/docs/core-recalibration/, /en/archive/]
 authors: [Anna Pivtorak]
 canonical: https://pivtorak.studio/en/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/
 weight: 17

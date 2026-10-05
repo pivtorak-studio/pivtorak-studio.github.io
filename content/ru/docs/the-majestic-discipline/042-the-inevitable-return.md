@@ -7,6 +7,7 @@ description: Когда внутренний вектор остаётся то�
 summary: Устойчивый внутренний вектор задаёт движению точную цель. Когда намерение, ориентация и действие сходятся, окружающее поле начинает открывать путь к точке возвращения.
 event_date: 2026-08-27T12:00:00
 publication_date: 2026-08-27T12:00:00
+date: 2026-08-27T12:00:00
 lastmod: 2026-08-27T12:00:00
 slug: 042-the-inevitable-return
 tags: [величественная-дисциплина, почтовый-голубь, навигация, магниторецепция, ориентация, фокус, намерение, возвращение]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-042-the-inevitable-return.webp
 alt: Почтовый голубь складывает крылья перед посадкой на золотую архитектурную сферу над облаками; позади него проходит прямая светящаяся траектория, а тонкие золотые линии сходятся к той же точке.
-related: [/ru/docs/the-majestic-discipline/, /ru/docs/timeline/]
+related: [/ru/docs/the-majestic-discipline/, /ru/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/the-majestic-discipline/042-the-inevitable-return/

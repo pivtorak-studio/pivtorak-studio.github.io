@@ -8,6 +8,7 @@ description: "An exploration of long-distance intellectual endurance, where rhyt
 summary: "From Duolingo Max to a rowing machine, this recalibration examines the transition from daily regularity to sovereign rhythm, introducing civilizational endurance as a new paradigm of Ultra Deep Work."
 event_date: 2026-06-17T15:00:00+01:00
 publication_date: 2026-06-17T15:00:00+01:00
+date: 2026-06-17T15:00:00+01:00
 lastmod: 2026-06-17T15:00:00+01:00
 tags: [CoreRecalibration, CivilizationalEndurance, UltraDeepWork, SovereignRhythm, LongDistanceThinking, OceanPrinciple, SystemsThinking, ResearchArchitecture, IntellectualLabor, SocialMemory]
 keywords: [architecture of endurance, sovereign rhythm, ultra deep work, civilizational endurance, long-distance research, cognitive architecture, systems thinking, ethical compass, rowing machine, ocean principle, social memory, rhythm over willpower]
@@ -18,7 +19,7 @@ status: published
 featured: true
 image: /images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp
 alt: "A digital illustration of a young woman exercising on an outdoor rowing machine by the ocean at sunset. Wearing black sports pants, a white T-shirt, and large black headphones, she appears in the distance while diagrams, matrices, and symbols visualize the transition from regularity to sovereign rhythm and civilizational endurance."
-related: [/en/docs/core-recalibration/, /en/docs/timeline/]
+related: [/en/docs/core-recalibration/, /en/archive/]
 authors: [Anna Pivtorak]
 canonical: https://pivtorak.studio/en/docs/core-recalibration/015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm/
 weight: 15

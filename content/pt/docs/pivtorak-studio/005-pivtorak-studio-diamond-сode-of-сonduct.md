@@ -7,6 +7,7 @@ description: "O código ético e operacional da Pivtorak.Studio, que define qual
 summary: "O Código de Conduta formaliza a base comportamental da metodologia Pivtorak.Studio. Estabelece a qualidade como condição inicial, a presença como disciplina, a estrutura como prioridade e a responsabilidade como assinatura permanente do autor."
 event_date: 2026-04-29T11:00:00
 publication_date: 2026-04-29T11:00:00
+date: 2026-04-29T11:00:00
 lastmod: 2026-04-29T11:00:00
 slug: 005-pivtorak-studio-diamond-code-of-conduct
 tags: [código-de-conduta, metodologia, qualidade, responsabilidade, presença, estrutura, transformação, pensamento-sistémico, pivtorak-studio]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/pivtorak-studio-005-pivtorak-studio-diamond-code-of-conduct.webp
 alt: "Um diamante geométrico envolvendo uma ave branca rodeada por quatro princípios: qualidade, presença, estrutura e responsabilidade."
-related: [/pt/docs/pivtorak-studio/, /pt/docs/timeline/]
+related: [/pt/docs/pivtorak-studio/, /pt/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/pivtorak-studio/005-pivtorak-studio-diamond-code-of-conduct/

@@ -6,6 +6,7 @@ title: "A Matriz de Movimento: Um Caso — Uma Dimensão"
 description: "A Matriz de Movimento é um sistema local de clareza para desafios altamente complexos, onde o caos é substituído por movimento estruturado através de cinco dimensões: Base, Action, Context, Expression e Status."
 event_date: 2026-05-16T09:00:00
 publication_date: 2026-05-16T11:00:00
+date: 2026-05-16T11:00:00
 tags:
   - movement matrix
   - Path

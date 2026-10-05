@@ -6,6 +6,7 @@ title: "006 O Protocolo Simurg. A Filosofia de uma Investigadora Independente"
 description: Um manifesto da ciência soberana e da investigação independente. Um estudo sobre a transição da legitimação institucional para uma arquitetura autónoma do conhecimento, onde o website se torna laboratório, o arquivo digital se torna sistema de registo e a disciplina se torna garantia de qualidade.
 event_date: 2026-05-20T15:00:00
 publication_date: 2026-05-20T15:00:00
+date: 2026-05-20T15:00:00
 tags:
   - CoreRecalibration
   - SimurghProtocol
@@ -27,7 +28,7 @@ alt: "Infográfico simbólico 'O Protocolo Simurg': uma investigadora independen
 related:
   - /pt/docs/core-recalibration/004-2026-the-anatomy-of-rhythm-duolingo-max-as-a-proving-ground-for-strategic-thinking/
   - /pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/
-  - /pt/docs/timeline/
+  - /pt/archive/
 weight: 6
 draft: false
 toc: true

@@ -7,6 +7,7 @@ description: As crianças e os animais devem permanecer fora da zona de perigo. 
 summary: A paz começa quando a infância e a vida selvagem são protegidas. Este artigo explora a ideia de que os mais vulneráveis devem permanecer invisíveis às ameaças.
 event_date: 2025-06-01T11:00:00
 publication_date: 2025-06-01T11:00:00
+date: 2025-06-01T11:00:00
 lastmod: 2025-06-01T11:00:00
 slug: 001-invisible-to-threats
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-001-invisible-to-threats.webp
 alt: Crianças e animais descansam tranquilamente na natureza, protegidos do perigo e rodeados pela luz suave do verão.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/001-invisible-to-threats/

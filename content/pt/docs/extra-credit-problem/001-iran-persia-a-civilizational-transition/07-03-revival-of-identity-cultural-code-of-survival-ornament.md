@@ -7,6 +7,7 @@ description: O ornamento persa regressa como um sistema distribuído de memória
 summary: Uma reconstrução civilizacional em que o ornamento deixa de ser decoração e se torna infraestrutura cultural, restaurando a memória coletiva, o sentimento de pertença e a resiliência social.
 event_date: 2026-01-27T13:00:00
 publication_date: 2026-01-27T13:00:00
+date: 2026-01-27T13:00:00
 lastmod: 2026-01-27T13:00:00
 slug: 07-03-revival-of-identity-cultural-code-of-survival-ornament
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-03-revival-of-identity-cultural-code-of-survival-ornament.webp
 alt: O ornamento persa cresce através das paredes de betão da cidade, preenchendo as fissuras com linhas douradas e turquesa.
 related:
-  - /timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - identity
   - ethics
   - freedom
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: Tentaram apagar-nos, mas estávamos escritos em cada padrão da nossa terra.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

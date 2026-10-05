@@ -40,7 +40,7 @@ featured: true
 image: /images/converters.webp
 alt: Ilustração geométrica minimalista que representa a coleção de Conversores do Pivtorak.Studio.
 related:
-  - /pt/timeline/
+  - /pt/archive/
   - /pt/docs/calculators/
   - /pt/docs/templates/
 authors:

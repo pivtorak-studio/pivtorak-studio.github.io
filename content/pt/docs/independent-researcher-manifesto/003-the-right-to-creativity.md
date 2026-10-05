@@ -7,6 +7,7 @@ description: Um manifesto que afirma a criatividade como uma forma legítima de 
 summary: Este manifesto estabelece a criatividade como método de investigação capaz de gerar conhecimento, testar hipóteses e conceber novas realidades para além dos limites da linguagem analítica.
 event_date: 2026-04-12T11:00:00
 publication_date: 2026-04-12T11:00:00
+date: 2026-04-12T11:00:00
 lastmod: 2026-04-12T11:00:00
 slug: 003-the-right-to-creativity
 tags:

@@ -7,6 +7,7 @@ description: Поиск завершён. Работа, вдохновлённа
 summary: Третья работа июльского цикла Cataglyphis завершает архитектуру квантовой навигации. После интегрирования всех векторов кратчайший путь возникает естественно благодаря целостной внутренней системе.
 event_date: 2026-07-04T06:00:00
 publication_date: 2026-07-04T06:00:00
+date: 2026-07-04T06:00:00
 lastmod: 2026-07-04T06:00:00
 slug: 039-direct-return
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-039-direct-return.webp
 alt: Золотая пустынная муравьиха Cataglyphis стоит перед идеально прямым лучом света, пересекающим Сахару, а позади остаётся сеть поисковых траекторий.
 related:
   - /ru/docs/the-majestic-discipline/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false

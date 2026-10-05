@@ -6,6 +6,7 @@ keywords: father, legacy, thinking, structure, responsibility, principles, engin
 weight: 10
 event_date: 2015-06-14 # Date of the event mentioned in the article (for Timeline)
 publication_date: 2025-06-14 # Date the article was published
+date: 2025-06-14 # Date the article was published
 event_type: life_node
 ---
 

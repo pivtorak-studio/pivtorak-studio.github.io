@@ -6,6 +6,7 @@ title: 035 When You No Longer Have to Be Strong
 description: Peaceful life begins when being strong is no longer required every day.
 event_date: 2026-08-12T07:00:00+01:00
 publication_date: 2026-08-12T07:00:00+01:00
+date: 2026-08-12T07:00:00+01:00
 lastmod: 2026-08-12T07:00:00+01:00
 slug: 035-when-you-no-longer-have-to-be-strong
 tags:
@@ -33,7 +34,7 @@ image: /images/peaceful-life-035-when-you-no-longer-have-to-be-strong.webp
 alt: An adult sitting quietly by a window at dawn, with a heavy stone-like shadow dissolving behind them. A simple compass rests nearby, while soft morning light enters the peaceful room.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/035-when-you-no-longer-have-to-be-strong/

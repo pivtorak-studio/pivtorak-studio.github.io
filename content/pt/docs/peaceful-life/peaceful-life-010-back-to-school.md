@@ -7,6 +7,7 @@ description: Um novo ano letivo começa com curiosidade, confiança e expectativ
 summary: As mochilas estão prontas, o caminho é familiar e novas descobertas esperam. Este artigo explora o valor da educação e a alegria de iniciar um novo ano escolar em paz.
 event_date: 2025-09-01T11:00:00
 publication_date: 2025-09-01T11:00:00
+date: 2025-09-01T11:00:00
 lastmod: 2025-09-01T11:00:00
 slug: 010-back-to-school
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-010-back-to-school.webp
 alt: Duas crianças do ensino básico caminham confiantes para uma escola moderna com mochilas, iniciando um novo ano letivo.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/010-back-to-school/

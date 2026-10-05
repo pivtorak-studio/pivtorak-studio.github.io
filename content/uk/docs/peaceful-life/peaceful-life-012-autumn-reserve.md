@@ -7,6 +7,7 @@ description: Осінь — час підготовки. Роздуми про �
 summary: Білочка збирає горішки, природа сповільнює свій ритм, а пора року нагадує, що підготовка — це прояв турботи, а не страху.
 event_date: 2025-09-01T13:00:00
 publication_date: 2025-09-01T13:00:00
+date: 2025-09-01T13:00:00
 lastmod: 2025-09-01T13:00:00
 slug: 012-autumn-reserve
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-012-autumn-reserve.webp
 alt: Білочка сидить на гілці дерева з горішком серед осіннього листя, готуючись до зими в спокійному природному середовищі.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/peaceful-life/012-autumn-reserve/

@@ -7,6 +7,7 @@ description: August is still summer, but school is already on the horizon. A ref
 summary: New notebooks, backpacks, and supplies are more than objects. They represent stability, opportunity, and a child's right to learn in peace.
 event_date: 2025-08-01T11:00:00
 publication_date: 2025-08-01T11:00:00
+date: 2025-08-01T11:00:00
 lastmod: 2025-08-01T11:00:00
 slug: 007-back-to-school-preparations
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-007-back-to-school-preparations.webp
 alt: Two school-age children happily preparing new notebooks, pencils, and school supplies for the upcoming academic year.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/007-back-to-school-preparations/

@@ -7,6 +7,7 @@ description: Um urso a descansar na sua toca de inverno torna-se símbolo da acu
 summary: "Primeira etapa da estratégia do Urso Europeu: acumulação de recursos, paciência estratégica e construção silenciosa de uma força duradoura."
 event_date: 2025-11-20T11:00:00
 publication_date: 2025-11-20T11:00:00
+date: 2025-11-20T11:00:00
 lastmod: 2025-11-20T11:00:00
 slug: 025-accumulation-power-foundation
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-025-accumulation-power-foundation.webp
 alt: Um grande urso pardo dorme dentro da sua toca de inverno. O seu corpo maciço está parcialmente coberto por sombras, mas emana uma sensação clara de força acumulada e presença silenciosa. À volta — neve, árvores, luz fria de inverno e a atmosfera de poder oculto.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

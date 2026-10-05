@@ -6,6 +6,7 @@ title: 000 High Standards
 description: The moment when surpassing your own standards stops being a challenge and becomes a natural rhythm of inner growth.
 event_date: 2024-10-18T15:00:00
 publication_date: 2024-10-18T15:00:00
+date: 2024-10-18T15:00:00
 tags:
   - CoreRecalibration
   - HighStandards
@@ -23,7 +24,7 @@ featured: true
 image: /images/core-recalibration-000-2024-high-standards.webp
 alt: Digital illustration on a classroom board background. A symbolic figure climbs suspended steps beside a Gantt chart and a growth graph labeled 'Your Own High Standards'. The image represents inner growth, self-discipline, and continuously raising personal standards.
 related:
-  - /en/docs/timeline/
+  - /en/archive/
   - /en/docs/core-recalibration/
 weight: 1
 draft: false

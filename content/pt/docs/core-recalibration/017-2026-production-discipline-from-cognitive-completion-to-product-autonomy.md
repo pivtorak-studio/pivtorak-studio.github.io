@@ -8,6 +8,7 @@ description: "A qualidade não é perfeição, mas a transição disciplinada da
 summary: "Artigo final da trilogia Recalibração da Potência (014 → 016 → 017). Apresenta a Autonomia do Produto como a fase final da produção intelectual, na qual uma obra concluída se torna capaz de existir independentemente do seu autor graças à qualidade semântica e à qualidade de engenharia."
 event_date: 2026-06-27T12:00:00+01:00
 publication_date: 2026-06-27T12:00:00+01:00
+date: 2026-06-27T12:00:00+01:00
 lastmod: 2026-06-27T12:00:00+01:00
 tags: [disciplina de produção, autonomia do produto, conclusão cognitiva, garantia da qualidade, perfeccionismo calibrado, pipeline de produção, qualidade semântica, qualidade de engenharia, pensamento sistémico, investigação independente, recalibração do núcleo]
 keywords: [disciplina de produção, conclusão cognitiva, autonomia do produto, garantia da qualidade, gestão da qualidade, qualidade semântica, qualidade de engenharia, fluxo editorial, ciclo de vida do produto, soberania, arquitetura de sistemas]
@@ -18,7 +19,7 @@ status: published
 featured: true
 image: /images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp
 alt: "Disciplina de Produção. Da Conclusão Cognitiva à Autonomia do Produto — infografia de engenharia que apresenta a Autonomia do Produto, dois circuitos de Garantia da Qualidade, o Pipeline de Produção e a transição da responsabilidade do autor para a autonomia do produto."
-related: [/pt/docs/core-recalibration/, /pt/docs/timeline/]
+related: [/pt/docs/core-recalibration/, /pt/archive/]
 authors: [Anna Pivtorak]
 canonical: https://pivtorak.studio/pt/docs/core-recalibration/017-2026-production-discipline-from-cognitive-completion-to-product-autonomy/
 weight: 17

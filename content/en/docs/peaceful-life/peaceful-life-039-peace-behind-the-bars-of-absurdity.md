@@ -6,6 +6,7 @@ title: "039 Peace Behind the Bars of Absurdity"
 description: "A reflection on the paradox of a world where peace and freedom can become constrained while destruction and absurdity are given space to act."
 event_date: 2026-09-05T12:00:00+01:00
 publication_date: 2026-09-05T12:00:00+01:00
+date: 2026-09-05T12:00:00+01:00
 lastmod: 2026-09-05T12:00:00+01:00
 slug: 039-peace-behind-the-bars-of-absurdity
 tags: [Peaceful Life, peace, absurdity, freedom, responsibility, political absurdity, boundaries, destruction]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-039-peace-behind-the-bars-of-absurdity.webp
 alt: "A chalk drawing on a school blackboard showing a white dove bound with rope behind prison bars topped with barbed wire, a damaged peace sign, large letters spelling “АБСУРД”, a marked boundary line, and destruction with a monster beyond it."
-related: [/en/docs/peaceful-life/, /en/docs/timeline/]
+related: [/en/docs/peaceful-life/, /en/archive/]
 authors: Anna Pivtorak
 draft: false
 canonical: /en/docs/peaceful-life/039-peace-behind-the-bars-of-absurdity/

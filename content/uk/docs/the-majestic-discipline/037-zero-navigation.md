@@ -7,6 +7,7 @@ description: Будь-яке справжнє повернення почина�
 summary: Перша робота липневого циклу Cataglyphis представляє Точку Нуля — джерело будь-якої орієнтації. Ще до появи напрямку автономна система знаходить власний центр. Нуль — це не порожнеча, а ідеальне калібрування.
 event_date: 2026-07-03T15:00:00
 publication_date: 2026-07-03T15:00:00
+date: 2026-07-03T15:00:00
 lastmod: 2026-07-03T15:00:00
 slug: 037-zero-navigation
 tags:
@@ -49,7 +50,7 @@ image: /images/the-majestic-discipline-037-zero-navigation.webp
 alt: Золота пустельна мураха Cataglyphis стоїть на гарячому піску Сахари на світанку над сяючою точкою нуля без жодних слідів чи орієнтирів.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

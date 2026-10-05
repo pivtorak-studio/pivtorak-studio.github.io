@@ -7,6 +7,7 @@ description: The human being becomes the ethical center of civilization. Persia 
 summary: Persia establishes Human-Centricity as a civilizational doctrine. The state becomes infrastructure that serves human potential, while every individual regains agency as a citizen of the world with a Persian heart.
 event_date: 2026-01-31T13:00:00
 publication_date: 2026-01-31T13:00:00
+date: 2026-01-31T13:00:00
 lastmod: 2026-01-31T13:00:00
 slug: 09-03-global-dimension-human-as-subject
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - freedom
   - security
   - civilization
-timeline: /timeline/
+timeline: /en/archive/
 ethical_resonance: The human is the measure of all our victories.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition
@@ -217,7 +218,7 @@ navigation_order: 09-03
         "@id":"https://pivtorak.studio/#extra-credit-problem-series"
       },
 
-      "url":"https://pivtorak.studio/timeline/",
+      "url":"https://pivtorak.studio/en/archive/",
 
       "keywords":[
         "Persia 2.0",

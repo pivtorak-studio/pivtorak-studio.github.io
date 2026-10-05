@@ -6,6 +6,7 @@ keywords: батько, спадщина, мислення, структура, 
 weight: 10
 event_date: 2015-06-14
 publication_date: 2025-06-14
+date: 2025-06-14
 event_type: life_node
 ---
 

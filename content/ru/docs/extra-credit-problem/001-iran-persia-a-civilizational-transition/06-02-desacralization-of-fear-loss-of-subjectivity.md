@@ -7,6 +7,7 @@ description: Анализ разрушения политической субъ
 summary: Эта работа фиксирует распад авторитарной субъектности как цивилизационный перелом. Пустой кабинет, исчезающие символы и невесомые приказы показывают, что диктатура существует лишь до тех пор, пока люди участвуют в её сети отношений.
 event_date: 2026-01-25T12:00:00
 publication_date: 2026-01-25T12:00:00
+date: 2026-01-25T12:00:00
 lastmod: 2026-01-25T12:00:00
 slug: 06-02-desacralization-of-fear-loss-of-subjectivity
 tags:
@@ -43,7 +44,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-06-02-desacralization-of-fear-loss-of-subjectivity.webp
 alt: "Пустой кабинет президента Ирана: пыльный стол, разбросанные приказы, исчезающее кресло и флаг, рассыпающийся в пыль. Людей нет."
 related:
-  - /timeline/
+  - /ru/archive/
   - /docs/extra-credit-problem/
 authors: Anna Pivtorak
 draft: false
@@ -74,7 +75,7 @@ related_domains:
   - ethics
   - identity
   - civilization
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Власть растворяется тогда, когда люди перестают давать ей своё согласие.
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

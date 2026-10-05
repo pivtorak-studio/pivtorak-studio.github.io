@@ -7,6 +7,7 @@ description: Uma análise de como os sistemas autoritários sobrevivem através 
 summary: Esta obra diagnostica a arquitetura parasitária da tirania, revelando como a extração de recursos, a coerção e a dependência de fluxos externos se tornam as principais condições de sobrevivência do regime.
 event_date: 2026-01-20T12:00:00
 publication_date: 2026-01-20T12:00:00
+date: 2026-01-20T12:00:00
 lastmod: 2026-01-20T12:00:00
 slug: 03-02-system-diagnosis-resource-dependence
 tags:
@@ -83,7 +84,7 @@ related_domains:
   - security
   - civilizational-transition
   - political-systems
-timeline: /pt/timeline/
+timeline: /pt/archive/
 ethical_resonance: collapse-through-resource-depletion
 manifesto_type: diagnosis
 project: IranPersiaCivilizationalTransition

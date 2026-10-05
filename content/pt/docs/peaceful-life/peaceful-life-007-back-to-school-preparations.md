@@ -7,6 +7,7 @@ description: Agosto ainda é verão, mas a escola já se aproxima. Uma reflexão
 summary: Cadernos, mochilas e material escolar representam mais do que objetos. Representam estabilidade, oportunidade e o direito da criança a aprender em paz.
 event_date: 2025-08-01T11:00:00
 publication_date: 2025-08-01T11:00:00
+date: 2025-08-01T11:00:00
 lastmod: 2025-08-01T11:00:00
 slug: 007-back-to-school-preparations
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-007-back-to-school-preparations.webp
 alt: Duas crianças preparam cadernos, lápis e material escolar para o início do novo ano letivo.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/peaceful-life/007-back-to-school-preparations/

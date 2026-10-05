@@ -7,6 +7,7 @@ description: Дети и животные должны оставаться вн
 summary: Мир начинается там, где детство и природа защищены. Эта статья исследует идею о том, что самые уязвимые должны оставаться невидимыми для угроз.
 event_date: 2025-06-01T11:00:00
 publication_date: 2025-06-01T11:00:00
+date: 2025-06-01T11:00:00
 lastmod: 2025-06-01T11:00:00
 slug: 001-invisible-to-threats
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-001-invisible-to-threats.webp
 alt: Дети и животные спокойно отдыхают на природе, защищённые от опасности и окружённые мягким летним светом.
 related:
   - /ru/docs/peaceful-life/
-  - /ru/docs/timeline/
+  - /ru/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/peaceful-life/001-invisible-to-threats/

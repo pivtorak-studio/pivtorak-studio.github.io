@@ -7,6 +7,7 @@ description: Перший етап Стратегії Фенікса. Усвід
 summary: Фенікс спокійно приймає вогонь. Справжнє оновлення починається тоді, коли ми свідомо відпускаємо те, що більше не служить майбутньому.
 event_date: 2025-12-01T11:00:00
 publication_date: 2025-12-01T11:00:00
+date: 2025-12-01T11:00:00
 lastmod: 2025-12-01T11:00:00
 slug: 028-flame-of-renewal
 tags:
@@ -50,7 +51,7 @@ image: /images/the-majestic-discipline-028-flame-of-renewal.webp
 alt: Фенікс спокійно стоїть у очищувальному полум’ї на вершині скелі, символізуючи усвідомлену трансформацію, стійкість і початок відродження.
 related:
   - /uk/docs/the-majestic-discipline/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

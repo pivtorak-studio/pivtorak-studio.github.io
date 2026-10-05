@@ -7,6 +7,7 @@ description: Исследование процесса, посредством �
 summary: Анализ того, как преступное управление маскируется под законную власть и как легитимность разрушается через возвращение вещам их настоящих имён.
 event_date: 2026-01-18T11:00:00
 publication_date: 2026-01-18T11:00:00
+date: 2026-01-18T11:00:00
 lastmod: 2026-01-18T11:00:00
 slug: 02-01-after-tragedy-delegitimation
 tags:
@@ -70,7 +71,7 @@ related_domains:
   - ethics
   - political_design
   - institutional_analysis
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Название — лишь маскировка преступления.
 manifesto_type: diagnosis
 project: Iran-Persia-A-Civilizational-Transition

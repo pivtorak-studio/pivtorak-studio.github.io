@@ -11,6 +11,7 @@ summary: "From one finished work per day to interconnected research systems: a s
 
 event_date: 2026-06-30T17:00:00+01:00
 publication_date: 2026-06-30T17:00:00+01:00
+date: 2026-06-30T17:00:00+01:00
 lastmod: 2026-06-30T17:00:00+01:00
 
 tags: [Scale Evolution, Unit of Thought, Systems Thinking, Brownian Motion, Creative Process, Research Architecture, Core Recalibration, Independent Research]
@@ -26,7 +27,7 @@ featured: true
 image: /images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp
 alt: "Scale Evolution infographic illustrating the transformation from daily creative work to an autonomous research program through systemic evolution of the unit of thought."
 
-related: [/en/docs/core-recalibration/, /en/docs/timeline/]
+related: [/en/docs/core-recalibration/, /en/archive/]
 
 authors: [Anna Pivtorak]
 

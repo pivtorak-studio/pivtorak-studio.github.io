@@ -23,7 +23,7 @@ keywords:
 image: /images/living-topography-series.webp
 alt: Superfície topográfica escura com caminhos, traços, nós e ligações fluidas, representando Living Topography
 related:
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/living-topography/

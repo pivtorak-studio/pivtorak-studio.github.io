@@ -7,6 +7,7 @@ description: A reflection on the transition from project-based thinking to sover
 summary: Projects pursue results. Systems generate conditions for continuous evolution. This Core Recalibration explores the architectural shift from linear execution to sovereign environments capable of replication, adaptation, and long-term development.
 event_date: 2026-05-30T23:00:00+01:00
 publication_date: 2026-05-30T23:00:00+01:00
+date: 2026-05-30T23:00:00+01:00
 lastmod: 2026-05-30T23:00:00+01:00
 tags:
   - Core Recalibration
@@ -39,7 +40,7 @@ image: /images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-
 alt: Conceptual diagram illustrating the transition from linear project-based thinking toward autonomous sovereign systems capable of evolution, replication, and long-term development.
 related:
   - /en/docs/core-recalibration/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 weight: 11

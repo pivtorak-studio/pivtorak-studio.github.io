@@ -6,6 +6,7 @@ description: Uma reflexão sobre a força silenciosa da natureza, onde abrigo, c
 summary: As florestas de inverno não são lugares vazios, mas comunidades vivas de cuidado. Cada ser cria calor, confiança e pertença dentro da harmonia da natureza.
 event_date: 2025-12-02T12:00:00
 publication_date: 2025-12-02T12:00:00
+date: 2025-12-02T12:00:00
 lastmod: 2025-12-02T12:00:00
 slug: 020-the-forest-that-protects
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-020-the-forest-that-protects.webp
 alt: Uma raposa enrolada sob um abeto numa floresta coberta de neve. Uma luz suave atravessa os ramos, criando uma sensação de calor, segurança e proteção.
 related:
   - /pt/docs/peaceful-life/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

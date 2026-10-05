@@ -7,6 +7,7 @@ description: A liberdade torna-se uma arquitetura de Estado. A Pérsia transform
 summary: A Pérsia propõe um novo modelo global em que a liberdade funciona como infraestrutura. Protocolos abertos, instituições transparentes e fluxos sistémicos visíveis criam estabilidade através da abertura e não da força.
 event_date: 2026-01-30T11:00:00
 publication_date: 2026-01-30T11:00:00
+date: 2026-01-30T11:00:00
 lastmod: 2026-01-30T11:00:00
 slug: 09-01-global-dimension-freedom-as-structure
 tags:
@@ -81,7 +82,7 @@ related_domains:
   - freedom
   - ethics
   - civilization
-timeline: /timeline/
+timeline: /pt/archive/
 ethical_resonance: A liberdade não é caos; é a forma mais elevada de ordem.
 manifesto_type: future_model
 project: IranPersiaCivilizationalTransition

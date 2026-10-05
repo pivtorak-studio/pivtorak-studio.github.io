@@ -7,6 +7,7 @@ description: A reflection on safety, vulnerability, compassion, and the universa
 summary: Inspired by the rescue of a young roe deer trapped beneath a car in Kyiv after a night of attacks, this essay explores the shared need of all living beings to find safety, protection, and peace.
 event_date: 2026-06-03T14:00:00+01:00
 publication_date: 2026-06-03T14:00:00+01:00
+date: 2026-06-03T14:00:00+01:00
 lastmod: 2026-06-03T14:00:00+01:00
 slug: 029-a-safe-place-even-in-the-loudest-night
 tags:
@@ -42,7 +43,7 @@ image: /images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp
 alt: A young roe deer hides beneath an old white car while a symbolic dome of peace surrounds the scene, representing safety, compassion, and hope amidst chaos.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

@@ -6,6 +6,7 @@ title: "039 Мир за решёткой абсурда"
 description: "Размышление о парадоксе мира, в котором мир и свобода могут оказаться скованными, тогда как разрушение и абсурд получают пространство для действий."
 event_date: 2026-09-05T12:00:00+01:00
 publication_date: 2026-09-05T12:00:00+01:00
+date: 2026-09-05T12:00:00+01:00
 lastmod: 2026-09-05T12:00:00+01:00
 slug: 039-peace-behind-the-bars-of-absurdity
 tags: [Мирная жизнь, мир, абсурд, свобода, ответственность, абсурд власти, границы, разрушение]
@@ -17,7 +18,7 @@ status: published
 featured: true
 image: /images/peaceful-life-039-peace-behind-the-bars-of-absurdity.webp
 alt: "Рисунок мелом на школьной доске: белый голубь, связанный верёвкой, находится за тюремными решётками с колючей проволокой; рядом лежит повреждённая табличка «МИР», перед решётками стоят большие буквы «АБСУРД», на земле обозначена граница, а за ней видны разрушения и монстр на свободе."
-related: [/ru/docs/peaceful-life/, /ru/docs/timeline/]
+related: [/ru/docs/peaceful-life/, /ru/archive/]
 authors: Anna Pivtorak
 draft: false
 canonical: /ru/docs/peaceful-life/039-peace-behind-the-bars-of-absurdity/

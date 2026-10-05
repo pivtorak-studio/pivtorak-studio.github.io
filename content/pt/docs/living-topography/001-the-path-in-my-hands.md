@@ -9,6 +9,7 @@ description: Uma experiência intercultural e corporal em Esposende, onde movime
 summary: Uma experiência de grupo criativo onde caminhos de tecido branco, movimento, música e diálogo intercultural transformaram um tapete cinzento numa topografia viva.
 event_date: 2026-10-01T21:00:00+01:00
 publication_date: 2026-10-01T21:00:00+01:00
+date: 2026-10-01T21:00:00+01:00
 lastmod: 2026-10-02T17:00:00+01:00
 tags:
   - Living Topography
@@ -45,7 +46,7 @@ image: /images/living-topography-001-the-path-in-my-hands.webp
 alt: Mãos a segurar um caminho de tecido branco sobre um tapete cinzento escuro
 related:
   - /pt/docs/living-topography/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/living-topography/001-the-path-in-my-hands/

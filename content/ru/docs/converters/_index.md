@@ -19,7 +19,7 @@ status: published
 featured: true
 image: /images/converters.webp
 alt: "Минималистичная геометрическая иллюстрация, представляющая коллекцию конвертеров Pivtorak.Studio."
-related: [/ru/timeline/, /ru/docs/calculators/, /ru/docs/templates/]
+related: [/ru/archive/, /ru/docs/calculators/, /ru/docs/templates/]
 authors: ["Anna Pivtorak"]
 license: "CC BY-NC-ND 4.0"
 draft: false

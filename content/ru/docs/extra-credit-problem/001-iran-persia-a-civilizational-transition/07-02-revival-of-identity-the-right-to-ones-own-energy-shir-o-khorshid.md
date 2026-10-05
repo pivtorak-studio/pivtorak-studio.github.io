@@ -7,6 +7,7 @@ description: Лев и Солнце возвращаются как живые �
 summary: Цивилизационное восстановление, в котором Лев и Солнце возвращают людям их собственный источник энергии, превращая страх в присутствие, а зависимость — в суверенность.
 event_date: 2026-01-27T12:00:00
 publication_date: 2026-01-27T12:00:00
+date: 2026-01-27T12:00:00
 lastmod: 2026-01-27T12:00:00
 slug: 07-02-revival-of-identity-the-right-to-ones-own-energy-shir-o-khorshid
 tags:
@@ -44,7 +45,7 @@ featured: true
 image: /images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-02-revival-of-identity-the-right-to-ones-own-energy-shir-o-khorshid.webp
 alt: Могучий лев стоит на руинах разрушенного города. Позади него восходит большое солнце, лучи которого пронзают дым и освещают пространство вокруг.
 related:
-  - /timeline/
+  - /ru/archive/
 authors:
   - Anna Pivtorak
 draft: false
@@ -81,7 +82,7 @@ related_domains:
   - ethics
   - civilization
   - memory
-timeline: /timeline/
+timeline: /ru/archive/
 ethical_resonance: Солнце Персии не погасло; оно просто ждало рассвета.
 manifesto_type: reconstruction
 project: IranPersiaCivilizationalTransition

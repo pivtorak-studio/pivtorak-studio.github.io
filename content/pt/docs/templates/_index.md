@@ -39,7 +39,7 @@ featured: true
 image: /images/templates.webp
 alt: Ilustração geométrica minimalista que representa a coleção de Modelos do Pivtorak.Studio.
 related:
-  - /pt/timeline/
+  - /pt/archive/
   - /pt/docs/calculators/
   - /pt/docs/converters/
 authors:

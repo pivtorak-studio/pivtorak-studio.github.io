@@ -7,6 +7,7 @@ description: The criteria through which Pivtorak.Studio determines whether a pro
 summary: Defines the six resonance criteria that determine whether a project is suitable for the Pivtorak.Studio methodology.
 event_date: 2026-04-30T12:00:00
 publication_date: 2026-04-30T12:00:00
+date: 2026-04-30T12:00:00
 lastmod: 2026-04-30T12:00:00
 slug: 006-pivtorak-studio-project-selection-criteria
 tags:
@@ -43,7 +44,7 @@ image: /images/pivtorak-studio-006-pivtorak-studio-project-selection-criteria.we
 alt: 'An illustration titled "Pivtorak.Studio Project Selection Criteria". At the center is a historical 17th-century Polish-Lithuanian coin (półtorak), embedded within a geometric polyhedral structure resembling a diamond. The coin symbolizes value, selection, and criteria for entering the system. Around it are six project selection principles: alignment of scale, clarity of intent, readiness for precision, openness to structure, value alignment, and presence in the process. The composition combines engineering geometry, connection symbols, and observation markers, emphasizing intentional selection and systemic thinking.'
 related:
   - /en/docs/pivtorak-studio/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

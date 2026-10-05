@@ -7,6 +7,7 @@ description: "A sea turtle returns to the shore where its journey began, reveali
 summary: "The third stage of the Sea Turtle Strategy explores the point of return as the convergence of inner navigation and reality, where decades of faithful movement become identity fulfilled."
 event_date: 2026-01-07T13:00:00
 publication_date: 2026-01-07T13:00:00
+date: 2026-01-07T13:00:00
 lastmod: 2026-01-07T13:00:00
 slug: 033-point-of-return-identity
 tags: [Point of Return, Identity, Sea Turtle, Homecoming, Completion, Destination, Shore, Quantum Navigation, Wisdom, January]
@@ -19,7 +20,7 @@ status: published
 featured: true
 image: /images/the-majestic-discipline-033-point-of-return-identity.webp
 alt: "A majestic sea turtle emerges from the night ocean onto a quiet sandy shore beneath the stars, completing its lifelong journey back to its place of origin."
-related: [/en/docs/the-majestic-discipline/, /en/docs/timeline/]
+related: [/en/docs/the-majestic-discipline/, /en/archive/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/en/docs/the-majestic-discipline/033-point-of-return-identity/

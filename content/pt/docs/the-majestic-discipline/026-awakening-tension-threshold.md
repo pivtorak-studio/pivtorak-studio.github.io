@@ -7,6 +7,7 @@ description: Um urso que emerge das sombras torna-se símbolo do despertar disci
 summary: "A segunda etapa da estratégia do Urso Europeu: despertar, prontidão estratégica e demonstração responsável de força."
 event_date: 2025-11-20T12:00:00
 publication_date: 2025-11-20T12:00:00
+date: 2025-11-20T12:00:00
 lastmod: 2025-11-20T12:00:00
 slug: 026-awakening-tension-threshold
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-026-awakening-tension-threshold.webp
 alt: Um grande urso emerge de uma mata escura. Ele ergue-se sobre as patas traseiras, parcialmente iluminado pela luz do dia. O seu rugido espalha ondas no ar, e um ramo partido ao lado indica que o despertar já começou.
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

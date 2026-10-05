@@ -7,6 +7,7 @@ description: Тварини — не символи, а частина ціло�
 summary: Двадцять сьома робота серії «Мирне Життя» розмірковує про належність як форму миру. Собака, що відпочиває біля дверей, стає символом безперервності, довіри та спільного життя, яке поєднує членів родини незалежно від виду.
 event_date: 2026-02-01T13:00:00
 publication_date: 2026-02-01T13:00:00
+date: 2026-02-01T13:00:00
 lastmod: 2026-02-01T13:00:00
 slug: 027-those-who-wait-together
 tags:
@@ -50,7 +51,7 @@ image: /images/peaceful-life-027-those-who-wait-together.webp
 alt: Собака спокійно відпочиває на своєму місці біля вхідних дверей дому, оточена атмосферою тепла, довіри та належності.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors:
   - Anna Pivtorak
 draft: false

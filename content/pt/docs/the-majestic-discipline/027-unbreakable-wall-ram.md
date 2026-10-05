@@ -7,6 +7,7 @@ description: Um urso em pleno movimento torna-se símbolo de determinação inqu
 summary: "A terceira etapa da estratégia do Urso Europeu: ação decisiva, defesa resiliente e aplicação disciplinada da força."
 event_date: 2025-11-20T13:00:00
 publication_date: 2025-11-20T13:00:00
+date: 2025-11-20T13:00:00
 lastmod: 2025-11-20T13:00:00
 slug: 027-unbreakable-wall-ram
 tags:
@@ -47,7 +48,7 @@ image: /images/the-majestic-discipline-027-unbreakable-wall-ram.webp
 alt: "Um urso em movimento poderoso: ou a destruir uma barreira de pedra com a pata, ou numa postura defensiva maciça, como uma muralha viva. Em redor — vento, detritos e correntes de ar que sublinham o impacto ou a firmeza inabalável."
 related:
   - /pt/docs/the-majestic-discipline/
-  - /pt/docs/timeline/
+  - /pt/archive/
 authors:
   - Anna Pivtorak
 draft: false

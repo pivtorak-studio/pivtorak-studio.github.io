@@ -6,6 +6,7 @@ description: Роздуми про тиху силу природи, де теп
 summary: Зимовий ліс — не порожній простір, а жива спільнота турботи. Кожна істота створює тепло, довіру та відчуття належності в гармонії природи.
 event_date: 2025-12-02T12:00:00
 publication_date: 2025-12-02T12:00:00
+date: 2025-12-02T12:00:00
 lastmod: 2025-12-02T12:00:00
 slug: 020-the-forest-that-protects
 tags:
@@ -39,7 +40,7 @@ image: /images/peaceful-life-020-the-forest-that-protects.webp
 alt: Лисиця згорнулася клубком під ялиною в засніженому лісі. Крізь гілки проходить м’яке світло, створюючи відчуття тепла, безпеки та захисту.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 canonical:

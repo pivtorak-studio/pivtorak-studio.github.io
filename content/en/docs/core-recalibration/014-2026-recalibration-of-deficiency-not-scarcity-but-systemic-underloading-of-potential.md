@@ -8,6 +8,7 @@ description: Formalizing the transition from scarcity thinking to systemic under
 summary: A CoreRecalibration study introducing The Principle of Scale Congruence, the Physics of Containment, and the Physics of Sovereignty to explain existential pressure amid external well-being.
 event_date: 2026-06-15T09:00:00+01:00
 publication_date: 2026-06-15T09:00:00+01:00
+date: 2026-06-15T09:00:00+01:00
 lastmod: 2026-06-15T09:00:00+01:00
 tags:
   - deficiency
@@ -46,7 +47,7 @@ image: /images/core-recalibration-014-2026-recalibration-of-deficiency-not-scarc
 alt: Infographic illustrating the transition from the Physics of Containment to the Physics of Sovereignty using fluid dynamics, cybernetic modeling, and scale congruence principles.
 related:
   - /en/docs/core-recalibration/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/core-recalibration/014-2026-recalibration-of-deficiency-not-scarcity-but-systemic-underloading-of-potential/

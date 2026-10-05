@@ -38,7 +38,7 @@ image: /images/peaceful-life.webp
 alt: Діти разом малюють символи миру та добрі послання, створюючи образ майбутнього, побудованого на турботі, природі та людській гідності.
 related:
   - /uk/docs/peaceful-life/
-  - /uk/docs/timeline/
+  - /uk/archive/
 authors: Anna Pivtorak
 draft: false
 toc: true
@@ -87,7 +87,7 @@ search: indexed
   "isPartOf": {
     "@type": "CollectionPage",
     "name": "Хронологія: Шлях та Еволюція",
-    "url": "https://annapivtorak.com/uk/timeline/"
+    "url": "https://annapivtorak.com/uk/archive/"
   }
 }
 </script>

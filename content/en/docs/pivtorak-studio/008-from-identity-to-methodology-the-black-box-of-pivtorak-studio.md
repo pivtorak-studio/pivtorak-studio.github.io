@@ -9,6 +9,7 @@ summary: |
   The visual redesign of Pivtorak.Studio unexpectedly revealed the cybernetic structure underlying the entire project. This article introduces the Black Box model, the Transformation Operator ℙ, and establishes the conceptual foundation of the Transformation Framework.
 event_date: 2026-07-21T09:00:00
 publication_date: 2026-07-21T09:00:00
+date: 2026-07-21T09:00:00
 lastmod: 2026-07-21T09:00:00
 slug: 008-from-identity-to-methodology-the-black-box-of-pivtorak-studio
 tags:
@@ -48,7 +49,7 @@ image: /images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of
 alt: A minimalist cybernetic black box crossed by cyan input and coral output rays, representing the Transformation Operator ℙ of Pivtorak.Studio.
 related:
   - /en/docs/pivtorak-studio/
-  - /en/docs/timeline/
+  - /en/archive/
 authors:
   - Anna Pivtorak
 draft: false

@@ -7,6 +7,7 @@ description: Some of life's most important moments happen without schedules or c
 summary: A blanket on the grass, simple food, conversation, and laughter. This article explores the value of spending time together and creating memories in peaceful everyday life.
 event_date: 2025-08-01T13:00:00
 publication_date: 2025-08-01T13:00:00
+date: 2025-08-01T13:00:00
 lastmod: 2025-08-01T13:00:00
 slug: 009-family-picnic
 tags:
@@ -37,7 +38,7 @@ image: /images/peaceful-life-009-family-picnic.webp
 alt: A family enjoying a picnic outdoors on a warm summer day, sharing food, conversation, and peaceful time together.
 related:
   - /en/docs/peaceful-life/
-  - /en/docs/timeline/
+  - /en/archive/
 authors: Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/peaceful-life/009-family-picnic/

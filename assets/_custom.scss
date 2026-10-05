@@ -72,6 +72,7 @@
 /* Image */
 .visual-archive-card__image {
   display: block;
+  width: 100%;
   max-width: 34rem;
   aspect-ratio: 1 / 1;
   align-self: start;
@@ -423,14 +424,3 @@
     width: auto !important;
 }
 
-/* =========================
-   Visual Archive
-   ========================= */
-
-.visual-archive-card {
-  border-radius: 8px;
-}
-
-.visual-archive-card__image {
-  border-radius: 8px;
-}

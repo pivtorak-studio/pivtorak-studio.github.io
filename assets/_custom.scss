@@ -76,14 +76,10 @@
   max-width: 34rem;
   aspect-ratio: 1 / 1;
   align-self: start;
-  position: relative;
-  overflow: hidden;
   box-sizing: border-box;
 }
 
 .visual-archive-card__image img {
-  position: absolute;
-  inset: 0;
   display: block;
   width: 100% !important;
   height: 100% !important;

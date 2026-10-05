@@ -77,7 +77,6 @@
   align-self: start;
   position: relative;
   overflow: hidden;
-  border: 1px solid var(--gray-200);
   box-sizing: border-box;
 }
 
@@ -90,6 +89,9 @@
   margin: 0 !important;
   float: none !important;
   object-fit: cover;
+  border: 1px solid var(--gray-200);
+  box-sizing: border-box;
+  border-radius: 8px;
 }
 
 /* Information */

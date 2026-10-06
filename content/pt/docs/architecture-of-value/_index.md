@@ -109,7 +109,7 @@ bookCollapseSection: true
 
 ![*∀ ◉ ∃ Arquitetura de Valor. AP | Pivtorak.Studio. 14.04.2026* © Anna Pivtorak (Kostyuk)](/images/architecture-of-value.webp)
 
-*#ArchitectureOfValue é uma série de investigação e aplicação dedicada à construção de valor como sistema arquitetónico.*
+***Arquitetura de Valor** é uma série de investigação e aplicação dedicada à construção de valor como sistema arquitetónico.*
 
 Esta série considera o valor não como propriedade de um objeto, mas como resultado de um contexto projetado.  
 Cada protocolo funciona como um módulo que descreve como o valor emerge, se estabiliza e se expande.

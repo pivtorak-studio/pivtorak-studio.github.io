@@ -100,7 +100,8 @@ Direct participation in the mechanisms of the global jewelry market.
 ## 7. Final Statement  
 > **We do not evaluate the past. We construct the assets of the future.**  
 
-*Architecture of Value. Value Construction Protocol. The Architecture of Context. AP | Pivtorak.Studio. 14.04.2026*
-
 **Alt-text:**    
 A minimalist and sophisticated cover design for the **∀ ◉ ∃ Architecture of Value** (Architecture of Value) White Paper, rendered in the style of a prestigious fine art journal or a Sotheby’s gemological report. The central composition is built around the silver-gray mathematical axiom **∀V ∃C : V = f(C)**, engraved on a deep Midnight Blue background resembling archival paper. Prominent at the top is the unique symbol **∀ ◉ ∃**, where the core (◉) is integrated as a flawless diamond radiating a warm amber light, symbolizing context emanating from a core asset. The title **∀ ◉ ∃ Architecture of Value** and subtitle **Value Construction Protocol: The Architecture of Context** are in platinum-gray letters. The background is interwoven with semi-transparent embossed lines of classical European library blueprints and golden geometric networks, symbolizing Provenance and Expertise. A subtle, stylized graphic element near the bottom references **Source 3-6-9**. The image is static, with a strong focus on texture and light, optimized as a document or book cover.
+
+*Architecture of Value. Value Construction Protocol. The Architecture of Context. AP | Pivtorak.Studio. 14.04.2026*
+© Anna Pivtorak (Kostyuk)

@@ -100,7 +100,8 @@ O protocolo baseia-se numa combinação híbrida:
 ## 7. Declaração Final  
 > **Nós não avaliamos o passado. Construímos os ativos do futuro.**
 
-*Arquitetura de Valor. Protocolo de Construção de Valor. A Arquitetura do Contexto. AP | Pivtorak.Studio. 14.04.2026*  
-
 **Alt-text:**    
 Um design de capa minimalista e sofisticado para o White Paper **∀ ◉ ∃ Architecture of Value** (Arquitetura de Valor), criado no estilo de uma prestigiada revista de arte ou um relatório gemológico da Sotheby’s. A composição central baseia-se na inscrição em prata da axioma matemática **∀V ∃C : V = f(C)**, gravada num fundo deep Midnight Blue que recorda o papel de arquivo. Na parte superior, destaca-se o símbolo único **∀ ◉ ∃**, onde o núcleo (◉) está integrado como um diamante impecável que irradia uma luz âmbar quente, simbolizando o contexto que emana de um ativo central. O título **∀ ◉ ∃ Architecture of Value** e o subtítulo **Value Construction Protocol: The Architecture of Context** estão em letras platinadas. O fundo está entrelaçado com linhas gravadas semi-transparentes de plantas arquitetónicas de bibliotecas europeias clássicas e redes geométricas douradas, simbolizando Proveniência (Origem) e Perícia (Expertise). Um subtil elemento gráfico estilizado na parte inferior faz referência a **Source 3-6-9**. A imagem é estática, com um forte foco na textura e na luz, otimizada como uma capa de documento.
+
+*Arquitetura de Valor. Protocolo de Construção de Valor. A Arquitetura do Contexto. AP | Pivtorak.Studio. 14.04.2026*    
+© Anna Pivtorak (Kostyuk)

@@ -155,7 +155,7 @@ A minha primeira reação foi recuar. _Eu não sou uma pessoa do teatro._ Repres
 
 Em vez de recusar, enviei uma pequena mensagem para esclarecer:
 
-> _"A participação implica necessariamente atuar em palco, ou haverá também outras formas de participação?"_  >
+> _"A participação implica necessariamente atuar em palco, ou haverá também outras formas de participação?"_  
 
 A resposta chegou rapidamente e de forma calorosa:
 

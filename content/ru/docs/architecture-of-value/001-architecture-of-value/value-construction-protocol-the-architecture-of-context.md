@@ -7,11 +7,13 @@ weight: 1
 
 
 
-![Протокол Конструирования Ценности: Архитектура Контекста](/images/architecture-of-value-001-value-construction-protocol-the-architecture-of-context-pivtorak-studio-2026.webp)
 
 
 **∀ ◉ ∃ Architecture of Value**  
 # Протокол Конструирования Ценности: Архитектура Контекста  
+
+![Протокол Конструирования Ценности: Архитектура Контекста](/images/architecture-of-value-001-value-construction-protocol-the-architecture-of-context-pivtorak-studio-2026.webp)
+
 
 ## 0. Статус и Идентификация  
 - **Тип:** Концептуальный / Прикладной Протокол (White Paper)  

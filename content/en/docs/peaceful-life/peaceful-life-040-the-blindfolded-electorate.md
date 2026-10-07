@@ -164,7 +164,7 @@ It is also:
 
 **“What are we refusing to see?”**
 
-Blindfolded electorate · political hypocrisy · propaganda and destruction · closed eyes · false slogans
+**Blindfolded electorate · political hypocrisy · propaganda and destruction · closed eyes · false slogans**
 
 **Before:** We hear the slogan and accept the picture it creates for us.  
 **After:** We hear the slogan — and look for the reality behind it.  

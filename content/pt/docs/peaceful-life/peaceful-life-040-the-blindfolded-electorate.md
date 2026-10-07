@@ -180,7 +180,7 @@ A questão não é apenas **“O que nos estão a dizer?”**
 
 **“O que estamos a recusar-nos a ver?”**
 
-Eleitorado vendado · hipocrisia política · propaganda e destruição · olhos fechados · slogans falsos
+**Eleitorado vendado · hipocrisia política · propaganda e destruição · olhos fechados · slogans falsos**
 
 **Antes:** Ouvimos o slogan e aceitamos a imagem que ele cria para nós.  
 **Depois:** Ouvimos o slogan — e procuramos a realidade por detrás dele.  

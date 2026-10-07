@@ -3,15 +3,15 @@ id: peaceful-life-003-the-right-to-work
 language: pt
 translation_of: peaceful-life-003-the-right-to-work
 title: 003 Direito ao Trabalho
-description: Ganhar a vida nÃ£o Ã© um luxo. Uma reflexÃ£o sobre a dignidade do trabalho, a vida econÃ³mica pacÃ­fica e o direito de contribuir para a sociedade.
-summary: O trabalho Ã© mais do que rendimento. Ã‰ participaÃ§Ã£o, criatividade, responsabilidade e independÃªncia. Este artigo explora o direito ao trabalho como fundamento da vida pacÃ­fica.
+description: Ganhar a vida não é um luxo. Uma reflexão sobre a dignidade do trabalho, a vida económica pacífica e o direito de contribuir para a sociedade.
+summary: O trabalho é mais do que rendimento. É participação, criatividade, responsabilidade e independência. Este artigo explora o direito ao trabalho como fundamento da vida pacífica.
 event_date: 2025-06-01T13:00:00
 publication_date: 2025-06-01T13:00:00
 date: 2025-06-01T13:00:00
 lastmod: 2025-06-01T13:00:00
 slug: 003-the-right-to-work
 tags:
-  - Vida PacÃ­fica
+  - Vida Pacífica
   - Trabalho
   - Emprego
   - Dignidade Humana
@@ -21,20 +21,20 @@ tags:
   - Comunidade
 keywords:
   - direito ao trabalho
-  - vida pacÃ­fica
+  - vida pacífica
   - dignidade humana
   - trabalho com significado
-  - estabilidade econÃ³mica
-  - sociedade pacÃ­fica
+  - estabilidade económica
+  - sociedade pacífica
 categories:
-  - Vida PacÃ­fica
+  - Vida Pacífica
 series: PeacefulLife
 series_index: 3
 country: PT
 status: published
 featured: true
 image: /images/peaceful-life-003-the-right-to-work.webp
-alt: Jovens a trabalhar em conjunto num ambiente pacÃ­fico, contribuindo para a comunidade atravÃ©s do trabalho e da cooperaÃ§Ã£o.
+alt: Jovens a trabalhar em conjunto num ambiente pacífico, contribuindo para a comunidade através do trabalho e da cooperação.
 related:
   - /pt/docs/peaceful-life/
   - /pt/archive/
@@ -56,7 +56,7 @@ search: indexed
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/peaceful-life/003-the-right-to-work/",
   "headline": "Direito ao Trabalho",
-  "description": "Ganhar a vida nÃ£o Ã© um luxo. Uma reflexÃ£o sobre a dignidade do trabalho, a vida econÃ³mica pacÃ­fica e o direito de contribuir para a sociedade.",
+  "description": "Ganhar a vida não é um luxo. Uma reflexão sobre a dignidade do trabalho, a vida económica pacífica e o direito de contribuir para a sociedade.",
   "inLanguage": "pt-PT",
   "datePublished": "2025-06-01T13:00:00+01:00",
   "dateModified": "2025-06-01T13:00:00+01:00",
@@ -75,7 +75,7 @@ search: indexed
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Vida PacÃ­fica"
+    "name": "Vida Pacífica"
   },
   "keywords": [
     "Trabalho",
@@ -92,35 +92,36 @@ search: indexed
 
 ![Direito ao Trabalho](/images/peaceful-life-003-the-right-to-work.webp)
 
-# ðŸ§‘ðŸ½â€ðŸŒ¾ðŸŒ¾ðŸ”§ Direito ao Trabalho | Vida PacÃ­fica
+# 🧑🏽‍🌾🌾🔧 Direito ao Trabalho | Vida Pacífica
 
-_Trabalhar nÃ£o Ã© um luxo_
+_Trabalhar não é um luxo_
 
 Cada pessoa tem o direito de trabalhar.
-Em silÃªncio.
+Em silêncio.
 Com foco.
-No seu prÃ³prio ritmo.
-Com seguranÃ§a.
+No seu próprio ritmo.
+Com segurança.
 
-Onde hÃ¡ trabalho â€” hÃ¡ vida.
-HÃ¡ dignidade.
-HÃ¡ o ritmo dos dias que sustenta o mundo.
+Onde há trabalho — há vida.
+Há dignidade.
+Há o ritmo dos dias que sustenta o mundo.
 
-NÃ£o Ã© um privilÃ©gio.
-NÃ£o depende do local.
-Nem das circunstÃ¢ncias.
+Não é um privilégio.
+Não depende do local.
+Nem das circunstâncias.
 
-Ã‰ um espaÃ§o onde se pode ser quem se Ã©.
+É um espaço onde se pode ser quem se é.
 E partilhar o resultado.
 
-Vida pacÃ­fica Ã© ter um motivo para acordar de manhÃ£.
-E saber que ninguÃ©m tem o direito de tirar isso de ti.
+Vida pacífica é ter um motivo para acordar de manhã.
+E saber que ninguém tem o direito de tirar isso de ti.
 
 **Alt-text:**    
-Numa sala iluminada, trÃªs pessoas trabalham: uma estÃ¡ a embalar uma encomenda, outra escreve perto da janela e a terceira digita no portÃ¡til. HÃ¡ uma planta na parede. A atmosfera Ã© de silÃªncio, concentraÃ§Ã£o e tranquilidade.
+Numa sala iluminada, três pessoas trabalham: uma está a embalar uma encomenda, outra escreve perto da janela e a terceira digita no portátil. Há uma planta na parede. A atmosfera é de silêncio, concentração e tranquilidade.
 
-#DireitoAoTrabalho #TrabalharSemAmeaÃ§as #GanharNÃ£oÃ‰Luxo #VidaPacÃ­fica #EspaÃ§oDeTrabalho #DignidadeAtravÃ©sDaAÃ§Ã£o #SilÃªncioEFoco #CondiÃ§ÃµesSeguras #TrabalhoÃ‰Vida #RitmoDosDias #QuandoHÃ¡Sentido #PessoaETrabalho #LiberdadeParaCriar #SemPressÃ£oSemMedo #JustiÃ§aDoDiaADia #TrabalhoEConfianÃ§a #LuzNoLocalDeTrabalho #EspaÃ§oPartilhado #OfÃ­cioESilÃªncio #JunhoTrabalhador #TarefasComSentido #OrdemEResultado #VidaEmAÃ§Ã£o #TodosTÃªmDireito #CriaEVive #DiaDeTrabalhoEmPaz #TrabalharComSeguranÃ§a #ViverEGanhar #SustentadoPelaDignidade #PazNoCotidiano
+#DireitoAoTrabalho #TrabalharSemAmeaças #GanharNãoÉLuxo #VidaPacífica #EspaçoDeTrabalho #DignidadeAtravésDaAção #SilêncioEFoco #CondiçõesSeguras #TrabalhoÉVida #RitmoDosDias #QuandoHáSentido #PessoaETrabalho #LiberdadeParaCriar #SemPressãoSemMedo #JustiçaDoDiaADia #TrabalhoEConfiança #LuzNoLocalDeTrabalho #EspaçoPartilhado #OfícioESilêncio #JunhoTrabalhador #TarefasComSentido #OrdemEResultado #VidaEmAção #TodosTêmDireito #CriaEVive #DiaDeTrabalhoEmPaz #TrabalharComSegurança #ViverEGanhar #SustentadoPelaDignidade #PazNoCotidiano
 
-_Vida PacÃ­fica. Direito ao Trabalho. AP | Pivtorak.Studio. 01.06.2025_    
-Â© Anna Pivtorak (Kostyuk) 
+_Vida Pacífica. Direito ao Trabalho. AP | Pivtorak.Studio. 01.06.2025_    
+© Anna Pivtorak (Kostyuk) 
+
 

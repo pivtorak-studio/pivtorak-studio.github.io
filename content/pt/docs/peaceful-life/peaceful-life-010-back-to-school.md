@@ -2,39 +2,39 @@
 id: peaceful-life-010-back-to-school
 language: pt
 translation_of: peaceful-life-010-back-to-school
-title: 010 Volta Ã s Aulas
-description: Um novo ano letivo comeÃ§a com curiosidade, confianÃ§a e expectativas tranquilas. Uma reflexÃ£o sobre educaÃ§Ã£o, crescimento e o direito das crianÃ§as a aprender sem medo.
-summary: As mochilas estÃ£o prontas, o caminho Ã© familiar e novas descobertas esperam. Este artigo explora o valor da educaÃ§Ã£o e a alegria de iniciar um novo ano escolar em paz.
+title: 010 Volta às Aulas
+description: Um novo ano letivo começa com curiosidade, confiança e expectativas tranquilas. Uma reflexão sobre educação, crescimento e o direito das crianças a aprender sem medo.
+summary: As mochilas estão prontas, o caminho é familiar e novas descobertas esperam. Este artigo explora o valor da educação e a alegria de iniciar um novo ano escolar em paz.
 event_date: 2025-09-01T11:00:00
 publication_date: 2025-09-01T11:00:00
 date: 2025-09-01T11:00:00
 lastmod: 2025-09-01T11:00:00
 slug: 010-back-to-school
 tags:
-  - Vida PacÃ­fica
-  - EducaÃ§Ã£o
-  - CrianÃ§as
+  - Vida Pacífica
+  - Educação
+  - Crianças
   - Escola
   - Aprendizagem
   - Setembro
   - Paz
-  - InfÃ¢ncia
+  - Infância
 keywords:
-  - volta Ã s aulas
+  - volta às aulas
   - ano letivo
-  - educaÃ§Ã£o
-  - crianÃ§as
-  - vida pacÃ­fica
+  - educação
+  - crianças
+  - vida pacífica
   - aprendizagem
 categories:
-  - Vida PacÃ­fica
+  - Vida Pacífica
 series: PeacefulLife
 series_index: 10
 country: PT
 status: published
 featured: true
 image: /images/peaceful-life-010-back-to-school.webp
-alt: Duas crianÃ§as do ensino bÃ¡sico caminham confiantes para uma escola moderna com mochilas, iniciando um novo ano letivo.
+alt: Duas crianças do ensino básico caminham confiantes para uma escola moderna com mochilas, iniciando um novo ano letivo.
 related:
   - /pt/docs/peaceful-life/
   - /pt/archive/
@@ -54,8 +54,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/peaceful-life/010-back-to-school/",
-  "headline": "Volta Ã s Aulas",
-  "description": "Um novo ano letivo comeÃ§a com curiosidade, confianÃ§a e expectativas tranquilas. Uma reflexÃ£o sobre educaÃ§Ã£o, crescimento e o direito das crianÃ§as a aprender sem medo.",
+  "headline": "Volta às Aulas",
+  "description": "Um novo ano letivo começa com curiosidade, confiança e expectativas tranquilas. Uma reflexão sobre educação, crescimento e o direito das crianças a aprender sem medo.",
   "inLanguage": "pt-PT",
   "datePublished": "2025-09-01T11:00:00+01:00",
   "dateModified": "2025-09-01T11:00:00+01:00",
@@ -74,33 +74,34 @@ search: indexed
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Vida PacÃ­fica"
+    "name": "Vida Pacífica"
   }
 }
 </script>
 
-![Volta Ã s Aulas](/images/peaceful-life-010-back-to-school.webp)
+![Volta às Aulas](/images/peaceful-life-010-back-to-school.webp)
 
-# ðŸ“šðŸšŒðŸ§  Volta Ã s Aulas | Vida PacÃ­fica
+# 📚🚌🧠 Volta às Aulas | Vida Pacífica
 
-_A escola Ã© um espaÃ§o de futuro, nÃ£o de medo_
+_A escola é um espaço de futuro, não de medo_
 
-Em setembro, as crianÃ§as voltam Ã  escola.  
-Elas nÃ£o se escondem, nÃ£o tremem. Sabem que estÃ£o seguras.  
-O uniforme Ã© para o conforto, nÃ£o para controle.  
-A mochila â€” para carregar sonhos, nÃ£o para fugir.
+Em setembro, as crianças voltam à escola.  
+Elas não se escondem, não tremem. Sabem que estão seguras.  
+O uniforme é para o conforto, não para controle.  
+A mochila — para carregar sonhos, não para fugir.
 
 A cidade desperta com elas.  
-A vida nÃ£o pausa â€” ela cresce.
+A vida não pausa — ela cresce.
 
-NÃ£o se trata apenas de conhecimento. Trata-se de confianÃ§a.  
-E onde hÃ¡ confianÃ§a â€” nasce o futuro.
+Não se trata apenas de conhecimento. Trata-se de confiança.  
+E onde há confiança — nasce o futuro.
 
 **Alt-text:**  
-Duas crianÃ§as do ensino primÃ¡rio caminham por uma cidade moderna com mochilas, indo calmamente para a escola. A rua Ã© tranquila e clara. A atmosfera Ã© segura e cheia de esperanÃ§a.
+Duas crianças do ensino primário caminham por uma cidade moderna com mochilas, indo calmamente para a escola. A rua é tranquila e clara. A atmosfera é segura e cheia de esperança.
 
-#VidaPacÃ­fica #VoltaÃ€sAulas #SetembroNaEscola #PrimeiroSino #MochilaDeSonhos #UniformeConfortÃ¡vel #CrianÃ§asNaEscola #EscolaSemMedo #DireitoÃ€EducaÃ§Ã£o #ManhÃ£Tranquila #InÃ­cioEscolar #ConfianÃ§aNaVida #CidadeDesperta #PazNasCrianÃ§as #RitmoDeSetembro #EspaÃ§oEducativo #ConhecimentoÃ‰Liberdade #EscolaComConfianÃ§a #AprenderEmPaz #DireitoDeAprender #ManhÃ£NaEscola #FuturoComeÃ§aAqui #SetembroCalmo #SemAmeaÃ§as #SilÃªncioNasRuas #CaminhoPacÃ­fico #EnsinoPrimÃ¡rio #CrescerComEducaÃ§Ã£o #RegressoComEsperanÃ§a #ComeÃ§oSemMedo
+#VidaPacífica #VoltaÀsAulas #SetembroNaEscola #PrimeiroSino #MochilaDeSonhos #UniformeConfortável #CriançasNaEscola #EscolaSemMedo #DireitoÀEducação #ManhãTranquila #InícioEscolar #ConfiançaNaVida #CidadeDesperta #PazNasCrianças #RitmoDeSetembro #EspaçoEducativo #ConhecimentoÉLiberdade #EscolaComConfiança #AprenderEmPaz #DireitoDeAprender #ManhãNaEscola #FuturoComeçaAqui #SetembroCalmo #SemAmeaças #SilêncioNasRuas #CaminhoPacífico #EnsinoPrimário #CrescerComEducação #RegressoComEsperança #ComeçoSemMedo
 
-_Vida PacÃ­fica. Volta Ã s Aulas. AP | Pivtorak.Studio. 01.09.2025_    
-Â© Anna Pivtorak (Kostyuk) 
+_Vida Pacífica. Volta às Aulas. AP | Pivtorak.Studio. 01.09.2025_    
+© Anna Pivtorak (Kostyuk) 
+
 

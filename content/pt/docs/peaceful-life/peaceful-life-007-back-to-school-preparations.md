@@ -2,39 +2,39 @@
 id: peaceful-life-007-back-to-school-preparations
 language: pt
 translation_of: peaceful-life-007-back-to-school-preparations
-title: 007 PreparaÃ§Ã£o para a Escola
-description: Agosto ainda Ã© verÃ£o, mas a escola jÃ¡ se aproxima. Uma reflexÃ£o sobre aprendizagem, seguranÃ§a e preparaÃ§Ã£o para um novo ano letivo com confianÃ§a.
-summary: Cadernos, mochilas e material escolar representam mais do que objetos. Representam estabilidade, oportunidade e o direito da crianÃ§a a aprender em paz.
+title: 007 Preparação para a Escola
+description: Agosto ainda é verão, mas a escola já se aproxima. Uma reflexão sobre aprendizagem, segurança e preparação para um novo ano letivo com confiança.
+summary: Cadernos, mochilas e material escolar representam mais do que objetos. Representam estabilidade, oportunidade e o direito da criança a aprender em paz.
 event_date: 2025-08-01T11:00:00
 publication_date: 2025-08-01T11:00:00
 date: 2025-08-01T11:00:00
 lastmod: 2025-08-01T11:00:00
 slug: 007-back-to-school-preparations
 tags:
-  - Vida PacÃ­fica
-  - EducaÃ§Ã£o
-  - CrianÃ§as
+  - Vida Pacífica
+  - Educação
+  - Crianças
   - Escola
   - Aprendizagem
   - Paz
   - Agosto
-  - InfÃ¢ncia
+  - Infância
 keywords:
-  - preparaÃ§Ã£o para a escola
+  - preparação para a escola
   - ano letivo
-  - educaÃ§Ã£o
-  - crianÃ§as
-  - vida pacÃ­fica
-  - direito Ã  aprendizagem
+  - educação
+  - crianças
+  - vida pacífica
+  - direito à aprendizagem
 categories:
-  - Vida PacÃ­fica
+  - Vida Pacífica
 series: PeacefulLife
 series_index: 7
 country: PT
 status: published
 featured: true
 image: /images/peaceful-life-007-back-to-school-preparations.webp
-alt: Duas crianÃ§as preparam cadernos, lÃ¡pis e material escolar para o inÃ­cio do novo ano letivo.
+alt: Duas crianças preparam cadernos, lápis e material escolar para o início do novo ano letivo.
 related:
   - /pt/docs/peaceful-life/
   - /pt/archive/
@@ -54,8 +54,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/peaceful-life/007-back-to-school-preparations/",
-  "headline": "PreparaÃ§Ã£o para a Escola",
-  "description": "Agosto ainda Ã© verÃ£o, mas a escola jÃ¡ se aproxima. Uma reflexÃ£o sobre aprendizagem, seguranÃ§a e preparaÃ§Ã£o para um novo ano letivo com confianÃ§a.",
+  "headline": "Preparação para a Escola",
+  "description": "Agosto ainda é verão, mas a escola já se aproxima. Uma reflexão sobre aprendizagem, segurança e preparação para um novo ano letivo com confiança.",
   "inLanguage": "pt-PT",
   "datePublished": "2025-08-01T11:00:00+01:00",
   "dateModified": "2025-08-01T11:00:00+01:00",
@@ -74,39 +74,40 @@ search: indexed
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Vida PacÃ­fica"
+    "name": "Vida Pacífica"
   }
 }
 </script>
 
-![PreparaÃ§Ã£o para a Escola](/images/peaceful-life-007-back-to-school-preparations.webp)
+![Preparação para a Escola](/images/peaceful-life-007-back-to-school-preparations.webp)
 
-# ðŸ§’ðŸŽ’ðŸ“ PreparaÃ§Ã£o para a Escola | Vida PacÃ­fica
+# 🧒🎒📝 Preparação para a Escola | Vida Pacífica
 
-_Quando a paz abre espaÃ§o para lÃ¡pis â€” nÃ£o para o medo._
+_Quando a paz abre espaço para lápis — não para o medo._
 
-Agosto ainda Ã© verÃ£o.  
-Mas na mente das crianÃ§as â€” jÃ¡ Ã© tempo de escola.  
-Elas nÃ£o tÃªm medo. Sabem que estarÃ£o seguras.
+Agosto ainda é verão.  
+Mas na mente das crianças — já é tempo de escola.  
+Elas não têm medo. Sabem que estarão seguras.
 
 Estamos reunindo os novos materiais:  
 canetas, cadernos, camisetas polo, mochilas.  
-Tudo estÃ¡ pronto â€” sem medo, sem pressÃ£o.  
-A camiseta nÃ£o Ã© para formar filas. Ã‰ para o conforto.  
-A mochila nÃ£o Ã© para fugir. Ã‰ para carregar sonhos.
+Tudo está pronto — sem medo, sem pressão.  
+A camiseta não é para formar filas. É para o conforto.  
+A mochila não é para fugir. É para carregar sonhos.
 
-A escola em um paÃ­s pacÃ­fico nÃ£o Ã© um castigo.  
-NÃ£o Ã© um â€œdever cÃ­vicoâ€.  
-Ã‰ um espaÃ§o de crescimento.
+A escola em um país pacífico não é um castigo.  
+Não é um “dever cívico”.  
+É um espaço de crescimento.
 
-E toda crianÃ§a tem o direito de se preparar para a escola â€”  
-nÃ£o com lÃ¡grimas, mas com expectativa.
+E toda criança tem o direito de se preparar para a escola —  
+não com lágrimas, mas com expectativa.
 
 **Alt-text:**  
-IlustraÃ§Ã£o de duas crianÃ§as sorridentes olhando para materiais escolares recÃ©m-desempacotados. Uma menina e um menino com camisetas simples organizam seus itens. A atmosfera Ã© alegre e leve â€” uma sensaÃ§Ã£o tranquila de preparaÃ§Ã£o para o novo ano escolar. Sem pressÃ£o. Apenas vida.
+Ilustração de duas crianças sorridentes olhando para materiais escolares recém-desempacotados. Uma menina e um menino com camisetas simples organizam seus itens. A atmosfera é alegre e leve — uma sensação tranquila de preparação para o novo ano escolar. Sem pressão. Apenas vida.
 
-#VidaPacÃ­fica #PreparaÃ§Ã£oParaEscola #MaterialEscolar #AgostoSemMedo #NovaMochila #UniformeConfortÃ¡vel #DireitoDeAprender #SemCastigo #AprenderComAlegria #CrianÃ§asEPaz #EscolaSemAnsiedade #ManhÃ£sPacÃ­ficas #InfÃ¢nciaSemGuerra #PlanosPacÃ­ficos #EmpacotarSonhos #PoloEJeans #EscolaÃ‰Alegria #EducaÃ§Ã£oPacÃ­fica #SemSirenes #NovasCanetasECadernos #SonhosEscolares #AprendizadoEmPaz #EscolaÃ‰UmDireito #SemViolÃªnciaNaEscola #MochilaDeSonhos #DireitosDasCrianÃ§as #AgostoPreparativo #EscolaDeConfianÃ§a #InÃ­cioPacÃ­fico
+#VidaPacífica #PreparaçãoParaEscola #MaterialEscolar #AgostoSemMedo #NovaMochila #UniformeConfortável #DireitoDeAprender #SemCastigo #AprenderComAlegria #CriançasEPaz #EscolaSemAnsiedade #ManhãsPacíficas #InfânciaSemGuerra #PlanosPacíficos #EmpacotarSonhos #PoloEJeans #EscolaÉAlegria #EducaçãoPacífica #SemSirenes #NovasCanetasECadernos #SonhosEscolares #AprendizadoEmPaz #EscolaÉUmDireito #SemViolênciaNaEscola #MochilaDeSonhos #DireitosDasCrianças #AgostoPreparativo #EscolaDeConfiança #InícioPacífico
 
-_Vida PacÃ­fica. PreparaÃ§Ã£o para a Escola. AP | Pivtorak.Studio. 01.08.2025_    
-Â© Anna Pivtorak (Kostyuk) 
+_Vida Pacífica. Preparação para a Escola. AP | Pivtorak.Studio. 01.08.2025_    
+© Anna Pivtorak (Kostyuk) 
+
 

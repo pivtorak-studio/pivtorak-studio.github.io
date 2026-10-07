@@ -92,7 +92,7 @@ search: indexed
 
 ![The Right to Work](/images/peaceful-life-003-the-right-to-work.webp)
 
-# ðŸ§‘ðŸ½â€ðŸŒ¾ðŸŒ¾ðŸ”§ The Right to Work | Peaceful Life
+# 🧑🏽‍🌾🌾🔧 The Right to Work | Peaceful Life
 
 _Earning a living is not a luxury_
 
@@ -102,7 +102,7 @@ With focus.
 At their own pace.
 In safety.
 
-Where there is work â€” there is life.
+Where there is work — there is life.
 There is dignity.
 
 There is the rhythm of daily tasks that hold the world together.
@@ -122,5 +122,6 @@ In a bright room, three people are working: one is packing a box, another is wri
 #RightToWork #WorkWithoutThreats #EarningIsNotALuxury #PeacefulLife #SpaceForWork #DignityThroughAction #QuietAndFocused #SafeConditions #WorkIsLife #PurposeInAction #RhythmOfDays #WhenThereIsMeaning #PersonAndWork #FreedomToCreate #NoPressureNoFear #EverydayJustice #WorkAndTrust #LightInTheWorkplace #SharedSpace #SkillAndSilence #JuneAtWork #TasksWithPurpose #OrderAndOutcome #LifeInAction #EveryoneHasTheRight #CreateAndLive #WorkdayInPeace #SafeToWork #LiveAndEarn #SustainedByDignity
 
 _Peaceful Life. The Right to Work. AP | Pivtorak.Studio. 01.06.2025_  
-Â© Anna Pivtorak (Kostyuk)
+© Anna Pivtorak (Kostyuk)
+
 

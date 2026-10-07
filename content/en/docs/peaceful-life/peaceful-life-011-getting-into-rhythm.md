@@ -81,16 +81,16 @@ search: indexed
 
 ![Getting Into Rhythm](/images/peaceful-life-011-getting-into-rhythm.webp)
 
-# ðŸ§‘â€ðŸ’»ðŸ“†â˜• Getting Into Rhythm | Peaceful Life
+# 🧑‍💻📆☕ Getting Into Rhythm | Peaceful Life
 
 _When morning coffee opens the space for new possibilities_
 
 September marks a fresh beginning.  
 After the warmth of August, we return to our working pace.  
-For some â€” a first Zoom call. For others â€” back to the office.  
+For some — a first Zoom call. For others — back to the office.  
 Plans get structured. Notebooks open.
 
-Itâ€™s not about hustle. Itâ€™s about clarity.  
+It’s not about hustle. It’s about clarity.  
 Not about exhaustion. But about balance.  
 When the table holds silence, and the heart is ready for action.
 
@@ -103,5 +103,6 @@ A cozy kitchen with a laptop and a cup of coffee on the table. Morning light pou
 #PeacefulLife #SeptemberWork #GettingIntoRhythm #CoffeeAndLaptop #HomeOffice #BackToWork #MorningRoutine #NewProjects #QuietFocus #ZoomAndPlans #TimeToWork #AutumnStart #TrustInWork #PlanningWithCalm #NotebookAndCup #GentleStart #BalancedWorkflow #PeacefulWorkday #NoPressure #CozyWorkSpace #InnerOffice #ReadyToAct #ClarityMatters #CoffeeInTheMorning #DeskAndPeace #AutumnTasks #MeaningfulStart #WorkWithDignity #CalmPace #RightToWork
 
 _Peaceful Life. Getting Into Rhythm. AP | Pivtorak.Studio. 01.09.2025_  
-Â© Anna Pivtorak (Kostyuk)
+© Anna Pivtorak (Kostyuk)
+
 

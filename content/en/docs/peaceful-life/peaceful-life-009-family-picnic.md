@@ -81,15 +81,15 @@ search: indexed
 
 ![Family Picnic](/images/peaceful-life-009-family-picnic.webp)
 
-# ðŸ§ºðŸŒ³â˜€ï¸  Family Picnic | Peaceful Life
+# 🧺🌳☀️  Family Picnic | Peaceful Life
 
-_Where there is no war â€” gratitude ripens_
+_Where there is no war — gratitude ripens_
 
-In August, thereâ€™s no rush.  
+In August, there’s no rush.  
 Mornings are still warm, days generous, and evenings soft.  
-Itâ€™s the perfect time to be together. Simply â€” together.
+It’s the perfect time to be together. Simply — together.
 
-On the blanket â€” fruit, bread, a bit of cheese.  
+On the blanket — fruit, bread, a bit of cheese.  
 Children are playing nearby. Adults are close.  
 No one is checking the news. No one flinches at sounds.
 
@@ -103,6 +103,7 @@ A traditional-style illustration of a family picnic on a green meadow. Food is l
 #PeacefulLife #AugustPicnic #FamilyTime #NoFearHere #PicnicInNature #PeacefulAugust #QuietAndJoyful #GratitudeForPeace #HappyFamily #LifeOnABlanket #TogetherInAugust #CalmDay #PeaceInDetails #NoNewsNoStress #SimpleHappiness #PeacefulChildhood #SunnyDay #FamilyCloseness #WarmSummer #NoAnxiety #JoyfulMoments #PicnicInAGoodWorld #LivingTogether #PeaceAndLove #InnerPeace #PeacefulWeekend #GardenPicnic #WithoutNoise #FamilyComfort #PicnicAsGratitude
 
 _Peaceful Life. Family Picnic. AP | Pivtorak.Studio. 01.08.2025_  
-Â© Anna Pivtorak (Kostyuk)
+© Anna Pivtorak (Kostyuk)
+
 
 

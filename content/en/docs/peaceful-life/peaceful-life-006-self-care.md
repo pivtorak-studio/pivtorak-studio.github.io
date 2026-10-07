@@ -1,4 +1,4 @@
----
+﻿---
 id: peaceful-life-006-self-care
 language: en
 translation_of: peaceful-life-006-self-care
@@ -28,8 +28,7 @@ keywords:
   - personal renewal
 categories:
   - Peaceful Life
-series:
-  - PeacefulLife
+series: PeacefulLife
 series_index: 6
 country: PT
 status: published
@@ -83,12 +82,12 @@ search: indexed
 
 ![Self-Care](/images/peaceful-life-006-self-care.webp)
 
-# ☕🌿🏡 Self-Care | Peaceful Life 
+# â˜•ðŸŒ¿ðŸ¡ Self-Care | Peaceful Life 
 
 *When silence speaks louder than plans*
 
-July is not yet vacation. But it’s no longer a race.  
-It is the space between duties — and yourself.  
+July is not yet vacation. But itâ€™s no longer a race.  
+It is the space between duties â€” and yourself.  
 You still believe things will work out.  
 But you no longer want to burn out.  
 And so: silence.  
@@ -97,18 +96,19 @@ A veranda. A chair. And a flower field in the distance.
 In this moment, no one is calling.  
 No one is competing.  
 
-You — simply are.
+You â€” simply are.
 
 That too is an answer.  
-And that — is an act.  
+And that â€” is an act.  
 Because sometimes the most important thing  
 is to allow yourself to be alive.  
 And not to rush.
 
 **Alt-text:**   
-A woman sits in a woven chair on the veranda of a countryside house. In the distance — a flower field. The atmosphere is one of calm, self-sufficiency, and gentle care. Her expression carries a quiet smile — reserved, because she sees her future.
+A woman sits in a woven chair on the veranda of a countryside house. In the distance â€” a flower field. The atmosphere is one of calm, self-sufficiency, and gentle care. Her expression carries a quiet smile â€” reserved, because she sees her future.
 
 #PeacefulLife #SelfCare #LiveUnhurried #SilenceOnTheVeranda #SpaceNotRace #GentleLiving #LifeInDetails #TimeForYourself #WhenNoOneCalls #PeaceWithin #HealingWithoutNoise #SaturdayInACup #JulySilence #DontBurnOut #AnswerWithoutWords #HumanityInAction #TimeThatHeals #LiveWithoutExplaining #SunAndVeranda #FieldInTheDistance #MorningStillness #NoRushNeeded #RestInsideLife #JulyForYourself #HerbalCalm #RightToBeQuiet #TimeAlone #SimpleDay #QuietHappiness
 
 _Peaceful Life. Self-Care. AP | Pivtorak.Studio. 01.07.2025_  
-© Anna Pivtorak (Kostyuk)
+Â© Anna Pivtorak (Kostyuk)
+

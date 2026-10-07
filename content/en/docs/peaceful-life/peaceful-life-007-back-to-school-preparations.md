@@ -1,4 +1,4 @@
----
+﻿---
 id: peaceful-life-007-back-to-school-preparations
 language: en
 translation_of: peaceful-life-007-back-to-school-preparations
@@ -28,8 +28,7 @@ keywords:
   - right to learn
 categories:
   - Peaceful Life
-series:
-  - PeacefulLife
+series: PeacefulLife
 series_index: 7
 country: PT
 status: published
@@ -82,31 +81,32 @@ search: indexed
 
 ![Back-to-School Preparations](/images/peaceful-life-007-back-to-school-preparations.webp)
 
-# 🧒🎒📝 Back-to-School Preparations | Peaceful Life
+# ðŸ§’ðŸŽ’ðŸ“ Back-to-School Preparations | Peaceful Life
 
 _When peace makes space for pencils, not fear._
 
 August is still summer.  
-But in children’s minds — it’s already school time.  
+But in childrenâ€™s minds â€” itâ€™s already school time.  
 They are not afraid. They know they will be safe.
 
-We’re gathering new things:  
+Weâ€™re gathering new things:  
 pens, notebooks, polo shirts, backpacks.  
-Everything is ready — with no fear, no pressure.  
-The polo shirt is not for lining up. It’s for comfort.  
-The backpack is not for running. It’s for carrying dreams.
+Everything is ready â€” with no fear, no pressure.  
+The polo shirt is not for lining up. Itâ€™s for comfort.  
+The backpack is not for running. Itâ€™s for carrying dreams.
 
 School in a peaceful country is not punishment.  
-It is not “a duty to the state.”  
+It is not â€œa duty to the state.â€  
 It is a space for growth.
 
-And every child has the right to prepare for school —  
+And every child has the right to prepare for school â€”  
 not with tears, but with anticipation.
 
 **Alt-text:**  
-An illustration of two smiling children looking at unpacked school supplies. A girl and a boy in simple shirts prepare their materials. The atmosphere is joyful and elevated — a quiet sense of readiness for the new school year. No pressure. Just life.
+An illustration of two smiling children looking at unpacked school supplies. A girl and a boy in simple shirts prepare their materials. The atmosphere is joyful and elevated â€” a quiet sense of readiness for the new school year. No pressure. Just life.
 
 #PeacefulLife #BackToSchool #SchoolSupplies #AugustWithoutFear #NewBackpack #ComfortableUniform #RightToLearn #NoPunishment #LearningWithJoy #ChildrenAndPeace #NoAnxietyAtSchool #PeacefulMornings #ChildhoodWithoutWar #HopefulPlans #PackingDreams #PoloAndJeans #SchoolIsJoy #PeacefulEducation #NoSirensHere #NewPensAndNotebooks #SchoolDreams #LearningInPeace #SchoolIsARight #NoViolenceInSchool #BackpackOfHope #ChildrensRights #AugustPrep #TrustingSchool #PeacefulStart
 
 _Peaceful Life. Back-to-School Preparations. AP | Pivtorak.Studio. 01.08.2025_  
-© Anna Pivtorak (Kostyuk)
+Â© Anna Pivtorak (Kostyuk)
+

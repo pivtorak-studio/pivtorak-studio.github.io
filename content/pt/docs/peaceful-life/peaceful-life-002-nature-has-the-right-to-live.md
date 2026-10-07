@@ -1,41 +1,40 @@
----
+﻿---
 id: peaceful-life-002-nature-has-the-right-to-live
 language: pt
 translation_of: peaceful-life-002-nature-has-the-right-to-live
-title: 002 A Natureza Tem Direito à Vida
-description: As florestas, os animais e os ecossistemas não são alvos. Uma reflexão sobre o direito da natureza de existir, crescer e prosperar em paz.
-summary: A natureza não é um campo de batalha. Este artigo explora a ideia de que as florestas e a vida selvagem merecem proteção, continuidade e liberdade para florescer.
+title: 002 A Natureza Tem Direito Ã  Vida
+description: As florestas, os animais e os ecossistemas nÃ£o sÃ£o alvos. Uma reflexÃ£o sobre o direito da natureza de existir, crescer e prosperar em paz.
+summary: A natureza nÃ£o Ã© um campo de batalha. Este artigo explora a ideia de que as florestas e a vida selvagem merecem proteÃ§Ã£o, continuidade e liberdade para florescer.
 event_date: 2025-06-01T12:00:00
 publication_date: 2025-06-01T12:00:00
 date: 2025-06-01T12:00:00
 lastmod: 2025-06-01T12:00:00
 slug: 002-nature-has-the-right-to-live
 tags:
-  - Vida Pacífica
+  - Vida PacÃ­fica
   - Natureza
   - Florestas
   - Vida Selvagem
   - Paz
   - Ambiente
-  - Proteção
+  - ProteÃ§Ã£o
   - Biodiversidade
 keywords:
-  - a natureza tem direito à vida
-  - vida pacífica
-  - proteção das florestas
-  - conservação da natureza
+  - a natureza tem direito Ã  vida
+  - vida pacÃ­fica
+  - proteÃ§Ã£o das florestas
+  - conservaÃ§Ã£o da natureza
   - paz ambiental
   - biodiversidade
 categories:
-  - Vida Pacífica
-series:
-  - PeacefulLife
+  - Vida PacÃ­fica
+series: PeacefulLife
 series_index: 2
 country: PT
 status: published
 featured: true
 image: /images/peaceful-life-002-nature-has-the-right-to-live.webp
-alt: Uma paisagem florestal tranquila com animais a viver livremente entre as árvores, protegidos da destruição e envolvidos pela luz suave do início do verão.
+alt: Uma paisagem florestal tranquila com animais a viver livremente entre as Ã¡rvores, protegidos da destruiÃ§Ã£o e envolvidos pela luz suave do inÃ­cio do verÃ£o.
 related:
   - /pt/docs/peaceful-life/
   - /pt/archive/
@@ -55,8 +54,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/peaceful-life/002-nature-has-the-right-to-live/",
-  "headline": "A Natureza Tem Direito à Vida",
-  "description": "As florestas, os animais e os ecossistemas não são alvos. Uma reflexão sobre o direito da natureza de existir, crescer e prosperar em paz.",
+  "headline": "A Natureza Tem Direito Ã  Vida",
+  "description": "As florestas, os animais e os ecossistemas nÃ£o sÃ£o alvos. Uma reflexÃ£o sobre o direito da natureza de existir, crescer e prosperar em paz.",
   "inLanguage": "pt-PT",
   "datePublished": "2025-06-01T12:00:00+01:00",
   "dateModified": "2025-06-01T12:00:00+01:00",
@@ -75,7 +74,7 @@ search: indexed
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Vida Pacífica"
+    "name": "Vida PacÃ­fica"
   },
   "keywords": [
     "Natureza",
@@ -84,37 +83,38 @@ search: indexed
     "Ambiente",
     "Paz",
     "Biodiversidade",
-    "Proteção"
+    "ProteÃ§Ã£o"
   ]
 }
 </script>
 
-![A Natureza Tem Direito à Vida](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
+![A Natureza Tem Direito Ã  Vida](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
-# 🌳🦌🌿 A Natureza Tem Direito à Vida | Vida Pacífica
+# ðŸŒ³ðŸ¦ŒðŸŒ¿ A Natureza Tem Direito Ã  Vida | Vida PacÃ­fica
 
-_As florestas não são alvos_
+_As florestas nÃ£o sÃ£o alvos_
 
-Ela estava aqui muito antes de nós.
-E continuará depois.
-Mas agora — está em risco.
-A natureza não é barreira, nem abrigo, nem objeto estratégico.
+Ela estava aqui muito antes de nÃ³s.
+E continuarÃ¡ depois.
+Mas agora â€” estÃ¡ em risco.
+A natureza nÃ£o Ã© barreira, nem abrigo, nem objeto estratÃ©gico.
 
-Ela é casa.
+Ela Ã© casa.
 Para cada raiz.
-Para cada olhar em direção ao céu.
-Quando o mundo perde o chão,
+Para cada olhar em direÃ§Ã£o ao cÃ©u.
+Quando o mundo perde o chÃ£o,
 a floresta ainda respira.
-Em silêncio.
+Em silÃªncio.
 Com firmeza.
 Viva.
 
-E nós — somos aqueles que podem proteger esse silêncio.
+E nÃ³s â€” somos aqueles que podem proteger esse silÃªncio.
 
 **Alt-text:**   
-No centro da imagem — uma clareira na floresta. Em primeiro plano, um cervo tranquilo olha para a frente. Ao redor — luz suave num ambiente enevoado. A zona cinzenta fica fora do enquadramento; a natureza permanece intacta, íntegra.
+No centro da imagem â€” uma clareira na floresta. Em primeiro plano, um cervo tranquilo olha para a frente. Ao redor â€” luz suave num ambiente enevoado. A zona cinzenta fica fora do enquadramento; a natureza permanece intacta, Ã­ntegra.
 
-#ANaturezaTemDireitoÀVida #FlorestasNãoSãoAlvos #SilêncioDaFloresta #ProtegerANatureza #LuzNaMata #MundoVivo #NaturezaSelvagem #AmbienteProtegido #CalmaEntreÁrvores #CampoSemMedo #PazParaAsFlorestas #VidaSemAmeaças #SilêncioComoForça #RefúgioVerde #AFlorestaÉCasa #NaturezaIntocada #CervoNaLuz #HarmoniaComANatureza #NovaRealidade #LugarQueVive #ÁrvoresELuz #ObservarEProteger #TodosMerecemViver #CampoVivo #VidaPacífica #JunhoDaNatureza #CampoDoSilêncio #SemAlvosAqui #ForçaDoIntocado #MundoInquebrável
+#ANaturezaTemDireitoÃ€Vida #FlorestasNÃ£oSÃ£oAlvos #SilÃªncioDaFloresta #ProtegerANatureza #LuzNaMata #MundoVivo #NaturezaSelvagem #AmbienteProtegido #CalmaEntreÃrvores #CampoSemMedo #PazParaAsFlorestas #VidaSemAmeaÃ§as #SilÃªncioComoForÃ§a #RefÃºgioVerde #AFlorestaÃ‰Casa #NaturezaIntocada #CervoNaLuz #HarmoniaComANatureza #NovaRealidade #LugarQueVive #ÃrvoresELuz #ObservarEProteger #TodosMerecemViver #CampoVivo #VidaPacÃ­fica #JunhoDaNatureza #CampoDoSilÃªncio #SemAlvosAqui #ForÃ§aDoIntocado #MundoInquebrÃ¡vel
 
-_Vida Pacífica. A Natureza Tem Direito à Vida. AP | Pivtorak.Studio. 01.06.2025_    
-© Anna Pivtorak (Kostyuk)
+_Vida PacÃ­fica. A Natureza Tem Direito Ã  Vida. AP | Pivtorak.Studio. 01.06.2025_    
+Â© Anna Pivtorak (Kostyuk)
+

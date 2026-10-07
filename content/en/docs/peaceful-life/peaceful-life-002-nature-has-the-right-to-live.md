@@ -1,4 +1,4 @@
----
+﻿---
 id: peaceful-life-002-nature-has-the-right-to-live
 language: en
 translation_of: peaceful-life-002-nature-has-the-right-to-live
@@ -28,8 +28,7 @@ keywords:
   - biodiversity
 categories:
   - Peaceful Life
-series:
-  - PeacefulLife
+series: PeacefulLife
 series_index: 2
 country: PT
 status: published
@@ -91,13 +90,13 @@ search: indexed
 
 ![Nature Has the Right to Live](/images/peaceful-life-002-nature-has-the-right-to-live.webp)
 
-# 🌳🦌🌿 Nature Has the Right to Live | Peaceful Life
+# ðŸŒ³ðŸ¦ŒðŸŒ¿ Nature Has the Right to Live | Peaceful Life
 
 _Forests are not a target_
 
 She was here long before us.
 And she will remain after.
-But right now — she is at risk.
+But right now â€” she is at risk.
 Nature is not a barrier, not a shelter, not a strategic object.
 
 She is home.
@@ -109,12 +108,13 @@ Quietly.
 Steadily.
 Alive.
 
-And we — we are the ones who can protect that silence.
+And we â€” we are the ones who can protect that silence.
 
 **Alt-text:**   
-At the center of the image is a forest clearing. In the foreground stands a calm deer, gazing forward. Around it — soft light amidst a misty landscape. The grey zone remains outside the frame; nature is untouched and whole.
+At the center of the image is a forest clearing. In the foreground stands a calm deer, gazing forward. Around it â€” soft light amidst a misty landscape. The grey zone remains outside the frame; nature is untouched and whole.
 
 #NatureHasTheRightToLive #ForestsAreNotATarget #SilenceOfTheForest #ProtectNature #LightInTheWoods #LivingWorld #WildlifeMatters #GuardedEnvironment #CalmAmongTrees #FieldWithoutFear #PeaceForForests #LifeBeyondThreats #SilenceAsStrength #GreenSanctuary #TheForestIsHome #UndestroyedNature #DeerInTheLight #HarmonyWithNature #NewReality #PlaceThatLives #TreesAndLight #ObserveAndProtect #AllDeserveToLive #LivingField #PeacefulLife #JuneOfNature #FieldOfSilence #NoTargetsHere #PowerOfTheUntouched #UnbrokenWorld
 
 _Peaceful Life. Nature Has the Right to Live. AP | Pivtorak.Studio. 01.06.2025_  
-© Anna Pivtorak (Kostyuk)
+Â© Anna Pivtorak (Kostyuk)
+

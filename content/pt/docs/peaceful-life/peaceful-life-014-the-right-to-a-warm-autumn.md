@@ -1,35 +1,34 @@
----
+﻿---
 id: peaceful-life-014-the-right-to-a-warm-autumn
 language: pt
 translation_of: peaceful-life-014-the-right-to-a-warm-autumn
 title: 014 O Direito a um Outono Aconchegante
-description: A natureza merece estações tranquilas. Uma reflexão sobre calor, equilíbrio e o direito dos seres vivos de viver o outono em paz.
-summary: A luz do sol atravessa as folhas de outono, um coelho repousa entre as ervas e a natureza segue o seu próprio ritmo. Este artigo explora o valor da tranquilidade sazonal.
+description: A natureza merece estaÃ§Ãµes tranquilas. Uma reflexÃ£o sobre calor, equilÃ­brio e o direito dos seres vivos de viver o outono em paz.
+summary: A luz do sol atravessa as folhas de outono, um coelho repousa entre as ervas e a natureza segue o seu prÃ³prio ritmo. Este artigo explora o valor da tranquilidade sazonal.
 event_date: 2025-10-13T12:00:00
 publication_date: 2025-10-13T12:00:00
 date: 2025-10-13T12:00:00
 lastmod: 2025-10-13T12:00:00
 slug: 014-the-right-to-a-warm-autumn
 tags:
-  - Vida Pacífica
+  - Vida PacÃ­fica
   - Natureza
   - Outono
   - Coelho
   - Vida Selvagem
   - Outubro
-  - Estações
+  - EstaÃ§Ãµes
   - Paz
 keywords:
   - outono aconchegante
   - coelho
   - floresta de outono
   - natureza
-  - vida pacífica
-  - equilíbrio sazonal
+  - vida pacÃ­fica
+  - equilÃ­brio sazonal
 categories:
-  - Vida Pacífica
-series:
-  - PeacefulLife
+  - Vida PacÃ­fica
+series: PeacefulLife
 series_index: 14
 country: PT
 status: published
@@ -56,7 +55,7 @@ search: indexed
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/peaceful-life/014-the-right-to-a-warm-autumn/",
   "headline": "O Direito a um Outono Aconchegante",
-  "description": "A natureza merece estações tranquilas. Uma reflexão sobre calor, equilíbrio e o direito dos seres vivos de viver o outono em paz.",
+  "description": "A natureza merece estaÃ§Ãµes tranquilas. Uma reflexÃ£o sobre calor, equilÃ­brio e o direito dos seres vivos de viver o outono em paz.",
   "inLanguage": "pt-PT",
   "datePublished": "2025-10-13T12:00:00+01:00",
   "dateModified": "2025-10-13T12:00:00+01:00",
@@ -75,7 +74,7 @@ search: indexed
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Vida Pacífica"
+    "name": "Vida PacÃ­fica"
   }
 }
 </script>
@@ -83,31 +82,32 @@ search: indexed
 ![O Direito a um Outono Aconchegante](/images/peaceful-life-014-the-right-to-a-warm-autumn.webp)
 
 
-# 🐇🍁🌾 O Direito a um Outono Aconchegante | Vida Pacífica
+# ðŸ‡ðŸðŸŒ¾ O Direito a um Outono Aconchegante | Vida PacÃ­fica
 
-_Mesmo quando o mundo arrefece — a vida tem direito ao calor._
+_Mesmo quando o mundo arrefece â€” a vida tem direito ao calor._
 
-Em outubro, o outono ainda não é inverno.  
-A floresta respira devagar, mas com confiança.  
-As folhas caem, não por medo, mas porque chegou o momento.
+Em outubro, o outono ainda nÃ£o Ã© inverno.  
+A floresta respira devagar, mas com confianÃ§a.  
+As folhas caem, nÃ£o por medo, mas porque chegou o momento.
 
-Um coelho corre entre as árvores, deixando marcas suaves no musgo.  
-O seu movimento não é fuga — é parte do ritmo da natureza.  
-Ele não teme o silêncio. Sabe que esta calma é vida.
+Um coelho corre entre as Ã¡rvores, deixando marcas suaves no musgo.  
+O seu movimento nÃ£o Ã© fuga â€” Ã© parte do ritmo da natureza.  
+Ele nÃ£o teme o silÃªncio. Sabe que esta calma Ã© vida.
 
 Quando o dia fica mais curto, a luz torna-se mais preciosa.  
-E mesmo agora, há espaço para a ternura,  
+E mesmo agora, hÃ¡ espaÃ§o para a ternura,  
 para o sopro da terra que se prepara para descansar.
 
-A paz não é ausência de movimento.  
-É a capacidade de respirar no silêncio.  
+A paz nÃ£o Ã© ausÃªncia de movimento.  
+Ã‰ a capacidade de respirar no silÃªncio.  
 O tempo em que a bondade caminha devagar,  
-porque não precisa de se proteger do inverno.
+porque nÃ£o precisa de se proteger do inverno.
 
 **Alt-text:**  
-Ilustração de um coelho na floresta entre folhas caídas. Luz suave de outono, tons quentes — amarelo, laranja, verde-dourado. A atmosfera é tranquila e segura, símbolo do direito de cada ser vivo ao calor e à paz durante as mudanças da estação.
+IlustraÃ§Ã£o de um coelho na floresta entre folhas caÃ­das. Luz suave de outono, tons quentes â€” amarelo, laranja, verde-dourado. A atmosfera Ã© tranquila e segura, sÃ­mbolo do direito de cada ser vivo ao calor e Ã  paz durante as mudanÃ§as da estaÃ§Ã£o.
 
-#VidaPacífica #DireitoAoCalor #OutonoAconchegante #NaturezaEmPaz #FlorestaDeOutono #CoelhoNaFloresta #LuzDeOutono #CalmaESilêncio #VidaSemMedo #SilêncioQueAquece #DireitoÀPaz #FlorestaDeConfiança #PazDeOutono #PreparaçãoParaOInverno #SemFrio #FolhasDouradas #RespirarANatureza #ProteçãoSemArmas #ToqueDePaz #SilêncioSemAmeaça #VidaProtegida #PazEmOutubro #EstaçãoDourada
+#VidaPacÃ­fica #DireitoAoCalor #OutonoAconchegante #NaturezaEmPaz #FlorestaDeOutono #CoelhoNaFloresta #LuzDeOutono #CalmaESilÃªncio #VidaSemMedo #SilÃªncioQueAquece #DireitoÃ€Paz #FlorestaDeConfianÃ§a #PazDeOutono #PreparaÃ§Ã£oParaOInverno #SemFrio #FolhasDouradas #RespirarANatureza #ProteÃ§Ã£oSemArmas #ToqueDePaz #SilÃªncioSemAmeaÃ§a #VidaProtegida #PazEmOutubro #EstaÃ§Ã£oDourada
 
-_Vida Pacífica. O Direito a um Outono Aconchegante. AP | Pivtorak.Studio. 13.10.2025_    
-© Anna Pivtorak (Kostyuk) 
+_Vida PacÃ­fica. O Direito a um Outono Aconchegante. AP | Pivtorak.Studio. 13.10.2025_    
+Â© Anna Pivtorak (Kostyuk) 
+

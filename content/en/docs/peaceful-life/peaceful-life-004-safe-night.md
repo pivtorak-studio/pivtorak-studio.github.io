@@ -1,4 +1,4 @@
----
+﻿---
 id: peaceful-life-004-safe-night-circle-of-trust
 language: en
 translation_of: peaceful-life-004-safe-night-circle-of-trust
@@ -28,8 +28,7 @@ keywords:
   - peaceful life
 categories:
   - Peaceful Life
-series:
-  - PeacefulLife
+series: PeacefulLife
 series_index: 4
 country: PT
 status: published
@@ -92,24 +91,24 @@ search: indexed
 
 ![Safe Night. Circle of Trust](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
 
-# 🪵🔥🌌 Safe Night. Circle of Trust | Peaceful Life
+# ðŸªµðŸ”¥ðŸŒŒ Safe Night. Circle of Trust | Peaceful Life
 
 *Teenagers have the right to a peaceful hike*
 
 This is not a special operation.  
 Not a raid. Not an alarm. Not survival.  
-It’s just a hike.  
+Itâ€™s just a hike.  
 With sleeping bags, a kettle, and songs.  
 With laughter rising into the sky.  
-And a night that doesn’t hide a threat.  
-Because it’s just that — a night.  
+And a night that doesnâ€™t hide a threat.  
+Because itâ€™s just that â€” a night.  
 For talking, for silence, for dreaming.  
 They all sit together.  
 No one looks over their shoulder.  
 No one is tense.  
 This is what safety is.  
-When you don’t have to think about it.  
-When it’s simply there.  
+When you donâ€™t have to think about it.  
+When itâ€™s simply there.  
 Invisible.  
 Like a good grown-up presence that holds the space.
 
@@ -119,4 +118,5 @@ A nighttime scene: teenagers sit around a glowing campfire that gently lights th
 #PeacefulLife #TeensOnTheTrail #SafeNight #RightToSilence #CircleOfTrust #CampfireCalm #NoThreatsHere #JustAForestNight #SongsAndSafety #CampWithoutFear #TeensInPeace #HikeNotSurvival #TogetherInLight #StillnessAndStars #CampIsForLife #FreedomToSleep #GuitarUnderTheSky #NoParanoia #PresenceThatProtects #FieldWithoutTension #SafeChildhood #YouthThatBreathes #EveningOfTrust #PeacefulCamp #TalkAndListen #StargazingTogether #ForestCircle #RightToWander #HikeWithDignity #NightThatHeals
 
 _Peaceful Life. Safe Night. Circle of Trust. AP | Pivtorak.Studio. 01.07.2025_  
-© Anna Pivtorak (Kostyuk)
+Â© Anna Pivtorak (Kostyuk)
+

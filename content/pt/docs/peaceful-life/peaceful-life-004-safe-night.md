@@ -1,41 +1,40 @@
----
+﻿---
 id: peaceful-life-004-safe-night-circle-of-trust
 language: pt
 translation_of: peaceful-life-004-safe-night-circle-of-trust
-title: 004 Noite Segura. Círculo de Confiança
-description: Uma noite tranquila ao ar livre deve ser vivida com amizade, conversa e segurança. Uma reflexão sobre confiança, comunidade e liberdade de descansar sem medo.
-summary: À volta de uma fogueira, as pessoas partilham histórias, risos e silêncio. Este artigo explora o direito de sentir segurança durante a noite e o valor da confiança na vida pacífica.
+title: 004 Noite Segura. CÃ­rculo de ConfianÃ§a
+description: Uma noite tranquila ao ar livre deve ser vivida com amizade, conversa e seguranÃ§a. Uma reflexÃ£o sobre confianÃ§a, comunidade e liberdade de descansar sem medo.
+summary: Ã€ volta de uma fogueira, as pessoas partilham histÃ³rias, risos e silÃªncio. Este artigo explora o direito de sentir seguranÃ§a durante a noite e o valor da confianÃ§a na vida pacÃ­fica.
 event_date: 2025-07-01T11:00:00
 publication_date: 2025-07-01T11:00:00
 date: 2025-07-01T11:00:00
 lastmod: 2025-07-01T11:00:00
 slug: peaceful-life-004-safe-night-circle-of-trust
 tags:
-  - Vida Pacífica
+  - Vida PacÃ­fica
   - Noite Segura
   - Campismo
-  - Confiança
+  - ConfianÃ§a
   - Comunidade
   - Amizade
   - Paz
-  - Verão
+  - VerÃ£o
 keywords:
   - noite segura
-  - círculo de confiança
-  - campismo pacífico
-  - noite de verão
+  - cÃ­rculo de confianÃ§a
+  - campismo pacÃ­fico
+  - noite de verÃ£o
   - amizade
-  - vida pacífica
+  - vida pacÃ­fica
 categories:
-  - Vida Pacífica
-series:
-  - PeacefulLife
+  - Vida PacÃ­fica
+series: PeacefulLife
 series_index: 4
 country: PT
 status: published
 featured: true
 image: /images/peaceful-life-004-safe-night-circle-of-trust.webp
-alt: Pessoas sentadas à volta de uma fogueira sob um céu tranquilo de verão, partilhando uma noite de confiança e segurança.
+alt: Pessoas sentadas Ã  volta de uma fogueira sob um cÃ©u tranquilo de verÃ£o, partilhando uma noite de confianÃ§a e seguranÃ§a.
 related:
   - /pt/docs/peaceful-life/
   - /pt/archive/
@@ -56,8 +55,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/peaceful-life/004-safe-night-circle-of-trust/",
-  "headline": "Noite Segura. Círculo de Confiança",
-  "description": "Uma noite tranquila ao ar livre deve ser vivida com amizade, conversa e segurança. Uma reflexão sobre confiança, comunidade e liberdade de descansar sem medo.",
+  "headline": "Noite Segura. CÃ­rculo de ConfianÃ§a",
+  "description": "Uma noite tranquila ao ar livre deve ser vivida com amizade, conversa e seguranÃ§a. Uma reflexÃ£o sobre confianÃ§a, comunidade e liberdade de descansar sem medo.",
   "inLanguage": "pt-PT",
   "datePublished": "2025-07-01T11:00:00+01:00",
   "dateModified": "2025-07-01T11:00:00+01:00",
@@ -76,50 +75,51 @@ search: indexed
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Vida Pacífica"
+    "name": "Vida PacÃ­fica"
   },
   "keywords": [
     "Noite Segura",
-    "Círculo de Confiança",
+    "CÃ­rculo de ConfianÃ§a",
     "Campismo",
     "Amizade",
     "Comunidade",
     "Paz",
-    "Verão"
+    "VerÃ£o"
   ]
 }
 </script>
 
-![Noite Segura. Círculo de Confiança](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
+![Noite Segura. CÃ­rculo de ConfianÃ§a](/images/peaceful-life-004-safe-night-circle-of-trust.webp)
 
-# 🪵🔥🌌 Noite Segura. Círculo de Confiança | Vida Pacífica
+# ðŸªµðŸ”¥ðŸŒŒ Noite Segura. CÃ­rculo de ConfianÃ§a | Vida PacÃ­fica
 
-*Adolescentes têm direito a um acampamento tranquilo*
+*Adolescentes tÃªm direito a um acampamento tranquilo*
 
-Isto não é uma operação.  
-Nem uma patrulha. Nem um alarme. Nem sobrevivência.  
-É apenas um acampamento.  
-Com sacos de dormir, chaleira e canções.  
-Com risos que sobem ao céu.  
-E uma noite que não esconde ameaça.  
-Porque é apenas isso — uma noite.  
+Isto nÃ£o Ã© uma operaÃ§Ã£o.  
+Nem uma patrulha. Nem um alarme. Nem sobrevivÃªncia.  
+Ã‰ apenas um acampamento.  
+Com sacos de dormir, chaleira e canÃ§Ãµes.  
+Com risos que sobem ao cÃ©u.  
+E uma noite que nÃ£o esconde ameaÃ§a.  
+Porque Ã© apenas isso â€” uma noite.  
 Para conversar, para calar, para sonhar.  
 Todos sentam juntos.  
-Ninguém olha por cima do ombro.  
-Ninguém está tenso.  
-É isso que é segurança.  
-Quando não se pensa nela.  
-Quando ela está — presente.  
-Invisível.  
-Como a sombra boa de um adulto que sustenta o espaço.
+NinguÃ©m olha por cima do ombro.  
+NinguÃ©m estÃ¡ tenso.  
+Ã‰ isso que Ã© seguranÃ§a.  
+Quando nÃ£o se pensa nela.  
+Quando ela estÃ¡ â€” presente.  
+InvisÃ­vel.  
+Como a sombra boa de um adulto que sustenta o espaÃ§o.
 
 **Alt-text:**    
-Cena noturna: adolescentes sentados ao redor de uma fogueira iluminada, que aquece suavemente seus rostos. Sentam-se em troncos. Ao fundo — silhuetas de barracas. Um deles toca violão. Ao redor — floresta e céu estrelado. O ambiente é calmo, acolhedor e tranquilo.
+Cena noturna: adolescentes sentados ao redor de uma fogueira iluminada, que aquece suavemente seus rostos. Sentam-se em troncos. Ao fundo â€” silhuetas de barracas. Um deles toca violÃ£o. Ao redor â€” floresta e cÃ©u estrelado. O ambiente Ã© calmo, acolhedor e tranquilo.
 
-#VidaPacífica #AdolescentesNoAcampamento #NoiteSegura #DireitoAoSilêncio #CírculoDeConfiança #FogueiraTranquila #SemAmeaçasAqui #ApenasUmaNoiteNaFloresta #CançõesESegurança #AcampamentoSemMedo #JuventudeEmPaz #TrilhaNãoSobrevivência #JuntosNaLuz #SilêncioEEstrelas #AcampamentoÉVida #LiberdadeParaDormir #ViolãoSobOCéu #SemParanoia #PresençaQueProtege #CampoSemTensão #InfânciaSegura #JuventudeQueRespira #NoiteDeConfiança #AcampamentoPacífico #ConversarEOuvir #OlharAsEstrelasJuntos #CírculoNaFloresta #DireitoDeExplorar #TrilhaComDignidade #NoiteQueCura
+#VidaPacÃ­fica #AdolescentesNoAcampamento #NoiteSegura #DireitoAoSilÃªncio #CÃ­rculoDeConfianÃ§a #FogueiraTranquila #SemAmeaÃ§asAqui #ApenasUmaNoiteNaFloresta #CanÃ§ÃµesESeguranÃ§a #AcampamentoSemMedo #JuventudeEmPaz #TrilhaNÃ£oSobrevivÃªncia #JuntosNaLuz #SilÃªncioEEstrelas #AcampamentoÃ‰Vida #LiberdadeParaDormir #ViolÃ£oSobOCÃ©u #SemParanoia #PresenÃ§aQueProtege #CampoSemTensÃ£o #InfÃ¢nciaSegura #JuventudeQueRespira #NoiteDeConfianÃ§a #AcampamentoPacÃ­fico #ConversarEOuvir #OlharAsEstrelasJuntos #CÃ­rculoNaFloresta #DireitoDeExplorar #TrilhaComDignidade #NoiteQueCura
 
-_Vida Pacífica. Noite Segura. Círculo de Confiança. AP | Pivtorak.Studio. 01.07.2025_    
-© Anna Pivtorak (Kostyuk) 
+_Vida PacÃ­fica. Noite Segura. CÃ­rculo de ConfianÃ§a. AP | Pivtorak.Studio. 01.07.2025_    
+Â© Anna Pivtorak (Kostyuk) 
 
 
-<a href="[https://memoryon.net/pages/o-duolingo-max-e-mais-do-que-um-jogo?pageId=6a0b224bd7aa62000b4640f5">`O Duolingo Max é Mais do Que um Jogo`</a>
+<a href="[https://memoryon.net/pages/o-duolingo-max-e-mais-do-que-um-jogo?pageId=6a0b224bd7aa62000b4640f5">`O Duolingo Max Ã© Mais do Que um Jogo`</a>
+

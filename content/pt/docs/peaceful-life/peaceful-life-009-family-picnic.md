@@ -1,41 +1,40 @@
----
+﻿---
 id: peaceful-life-009-family-picnic
 language: pt
 translation_of: peaceful-life-009-family-picnic
-title: 009 Piquenique em Família
-description: Alguns dos momentos mais importantes da vida acontecem sem horários nem cerimónias. Uma reflexão sobre família, presença e tempo partilhado.
-summary: Uma manta sobre a relva, comida simples, conversas e risos. Este artigo explora o valor de estar juntos e criar memórias numa vida pacífica.
+title: 009 Piquenique em FamÃ­lia
+description: Alguns dos momentos mais importantes da vida acontecem sem horÃ¡rios nem cerimÃ³nias. Uma reflexÃ£o sobre famÃ­lia, presenÃ§a e tempo partilhado.
+summary: Uma manta sobre a relva, comida simples, conversas e risos. Este artigo explora o valor de estar juntos e criar memÃ³rias numa vida pacÃ­fica.
 event_date: 2025-08-01T13:00:00
 publication_date: 2025-08-01T13:00:00
 date: 2025-08-01T13:00:00
 lastmod: 2025-08-01T13:00:00
 slug: 009-family-picnic
 tags:
-  - Vida Pacífica
-  - Família
+  - Vida PacÃ­fica
+  - FamÃ­lia
   - Piquenique
-  - Convívio
-  - Verão
-  - Crianças
+  - ConvÃ­vio
+  - VerÃ£o
+  - CrianÃ§as
   - Paz
-  - Memórias
+  - MemÃ³rias
 keywords:
-  - piquenique em família
-  - tempo em família
-  - vida pacífica
-  - memórias de verão
-  - convívio
+  - piquenique em famÃ­lia
+  - tempo em famÃ­lia
+  - vida pacÃ­fica
+  - memÃ³rias de verÃ£o
+  - convÃ­vio
   - tempo de qualidade
 categories:
-  - Vida Pacífica
-series:
-  - PeacefulLife
+  - Vida PacÃ­fica
+series: PeacefulLife
 series_index: 9
 country: PT
 status: published
 featured: true
 image: /images/peaceful-life-009-family-picnic.webp
-alt: Uma família desfruta de um piquenique ao ar livre num dia quente de verão, partilhando comida, conversas e momentos tranquilos.
+alt: Uma famÃ­lia desfruta de um piquenique ao ar livre num dia quente de verÃ£o, partilhando comida, conversas e momentos tranquilos.
 related:
   - /pt/docs/peaceful-life/
   - /pt/archive/
@@ -55,8 +54,8 @@ search: indexed
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "https://pivtorak.studio/pt/docs/peaceful-life/009-family-picnic/",
-  "headline": "Piquenique em Família",
-  "description": "Alguns dos momentos mais importantes da vida acontecem sem horários nem cerimónias. Uma reflexão sobre família, presença e tempo partilhado.",
+  "headline": "Piquenique em FamÃ­lia",
+  "description": "Alguns dos momentos mais importantes da vida acontecem sem horÃ¡rios nem cerimÃ³nias. Uma reflexÃ£o sobre famÃ­lia, presenÃ§a e tempo partilhado.",
   "inLanguage": "pt-PT",
   "datePublished": "2025-08-01T13:00:00+01:00",
   "dateModified": "2025-08-01T13:00:00+01:00",
@@ -75,33 +74,34 @@ search: indexed
   },
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Vida Pacífica"
+    "name": "Vida PacÃ­fica"
   }
 }
 </script>
 
-![Piquenique em família](/images/peaceful-life-009-family-picnic.webp)
+![Piquenique em famÃ­lia](/images/peaceful-life-009-family-picnic.webp)
 
-# 🧺🌳☀️ Piquenique em família | Vida Pacífica
+# ðŸ§ºðŸŒ³â˜€ï¸ Piquenique em famÃ­lia | Vida PacÃ­fica
 
-_Onde não há guerra — amadurece a gratidão_
+_Onde nÃ£o hÃ¡ guerra â€” amadurece a gratidÃ£o_
 
-Em agosto, não há pressa.  
-As manhãs ainda são quentes, os dias generosos e as noites suaves.  
-É o momento ideal para estar juntos. Simplesmente — juntos.
+Em agosto, nÃ£o hÃ¡ pressa.  
+As manhÃ£s ainda sÃ£o quentes, os dias generosos e as noites suaves.  
+Ã‰ o momento ideal para estar juntos. Simplesmente â€” juntos.
 
-Sobre a toalha — frutas, pão, um pouco de queijo.  
-As crianças brincam por perto. Os adultos estão próximos.  
-Ninguém verifica as notícias. Ninguém se assusta com os sons.
+Sobre a toalha â€” frutas, pÃ£o, um pouco de queijo.  
+As crianÃ§as brincam por perto. Os adultos estÃ£o prÃ³ximos.  
+NinguÃ©m verifica as notÃ­cias. NinguÃ©m se assusta com os sons.
 
-Este dia não é para conquistas.  
-Este dia é para respirar.  
-Para agradecer: pela paz, pela união, por mais um agosto tranquilo.
+Este dia nÃ£o Ã© para conquistas.  
+Este dia Ã© para respirar.  
+Para agradecer: pela paz, pela uniÃ£o, por mais um agosto tranquilo.
 
 **Alt-text:**  
-Ilustração em estilo tradicional de um piquenique em família num prado verde. A comida está disposta sobre a toalha, com uma cesta ao lado. As crianças brincam, os adultos estão sentados juntos. A atmosfera é pacífica, acolhedora e serena. Um dia de verão sem preocupações.
+IlustraÃ§Ã£o em estilo tradicional de um piquenique em famÃ­lia num prado verde. A comida estÃ¡ disposta sobre a toalha, com uma cesta ao lado. As crianÃ§as brincam, os adultos estÃ£o sentados juntos. A atmosfera Ã© pacÃ­fica, acolhedora e serena. Um dia de verÃ£o sem preocupaÃ§Ãµes.
 
-#VidaPacífica #PiqueniqueDeAgosto #TempoEmFamília #SemMedoAqui #PiqueniqueNaNatureza #AgostoTranquilo #CalmoEAlegre #GratidãoPelaPaz #FamíliaFeliz #VidaSobreAToalha #JuntosEmAgosto #DiaCalmo #PazNosDetalhes #SemNotíciasSemEstresse #FelicidadeSimples #InfânciaPacífica #DiaEnsolarado #ProximidadeFamiliar #VerãoAconchegante #SemAnsiedade #MomentosFelizes #PiqueniqueNumBomMundo #VivendoJuntos #PazEAmor #PazInterior #FimDeSemanaPacífico #PiqueniqueNoJardim #SemRuído #ConfortoEmFamília #PiqueniqueComoGratidão
+#VidaPacÃ­fica #PiqueniqueDeAgosto #TempoEmFamÃ­lia #SemMedoAqui #PiqueniqueNaNatureza #AgostoTranquilo #CalmoEAlegre #GratidÃ£oPelaPaz #FamÃ­liaFeliz #VidaSobreAToalha #JuntosEmAgosto #DiaCalmo #PazNosDetalhes #SemNotÃ­ciasSemEstresse #FelicidadeSimples #InfÃ¢nciaPacÃ­fica #DiaEnsolarado #ProximidadeFamiliar #VerÃ£oAconchegante #SemAnsiedade #MomentosFelizes #PiqueniqueNumBomMundo #VivendoJuntos #PazEAmor #PazInterior #FimDeSemanaPacÃ­fico #PiqueniqueNoJardim #SemRuÃ­do #ConfortoEmFamÃ­lia #PiqueniqueComoGratidÃ£o
 
-_Vida Pacífica. Piquenique em família. AP | Pivtorak.Studio. 01.08.2025_    
-© Anna Pivtorak (Kostyuk) 
+_Vida PacÃ­fica. Piquenique em famÃ­lia. AP | Pivtorak.Studio. 01.08.2025_    
+Â© Anna Pivtorak (Kostyuk) 
+

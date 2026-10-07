@@ -1,4 +1,4 @@
----
+﻿---
 id: peaceful-life-010-back-to-school
 language: en
 translation_of: peaceful-life-010-back-to-school
@@ -28,8 +28,7 @@ keywords:
   - learning
 categories:
   - Peaceful Life
-series:
-  - PeacefulLife
+series: PeacefulLife
 series_index: 10
 country: PT
 status: published
@@ -82,20 +81,20 @@ search: indexed
 
 ![Back to School](/images/peaceful-life-010-back-to-school.webp)
 
-# 📚🚌🧠 Back to School | Peaceful Life
+# ðŸ“šðŸšŒðŸ§  Back to School | Peaceful Life
 
 _School is a space for future, not for fear_
 
 In September, children head back to school.  
-They don’t hide. They don’t tremble. They know — it’s safe here.  
+They donâ€™t hide. They donâ€™t tremble. They know â€” itâ€™s safe here.  
 Uniforms are for comfort, not control.  
-Backpacks aren’t for fleeing, but for carrying dreams.
+Backpacks arenâ€™t for fleeing, but for carrying dreams.
 
 The city wakes up with them.  
-Life doesn’t pause — it grows.
+Life doesnâ€™t pause â€” it grows.
 
-This isn’t just about knowledge. It’s about trust.  
-And where there is trust — the future is born.
+This isnâ€™t just about knowledge. Itâ€™s about trust.  
+And where there is trust â€” the future is born.
 
 **Alt-text:**  
 Two young schoolchildren walk through a modern city with backpacks, heading calmly toward school. The street is quiet and bright, the mood is safe and full of hope.
@@ -103,4 +102,5 @@ Two young schoolchildren walk through a modern city with backpacks, heading calm
 #PeacefulLife #BackToSchool #SeptemberBegins #FirstBell #BackpackOfDreams #UniformForComfort #ChildrenWalkToSchool #SchoolWithoutFear #RightToEducation #PeacefulMorning #SchoolStart #TrustInLife #CityAwakens #PeaceInChildren #SeptemberRhythm #EducationSpace #KnowledgeIsFreedom #SchoolInTrust #KidsAndLearning #FreeToLearn #RightToLearn #SchoolMorning #FutureBeginsHere #CalmSeptember #NoThreats #SilenceOnTheStreets #PeacefulWalk #PrimaryYears #LearningInPeace #StartWithoutFear
 
 _Peaceful Life. Back to School. AP | Pivtorak.Studio. 01.09.2025_  
-© Anna Pivtorak (Kostyuk)
+Â© Anna Pivtorak (Kostyuk)
+

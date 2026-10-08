@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp
-title: "02.04 🐉⚖️ ESMÉE. 🌀 Peaceful Presence"
+image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp
+title: 02.04 🐉⚖️ ESMÉE. 🌀 Peaceful Presence
 weight: 7
-event_date: 2025-10-09T13:00:00 # Date of the event (framework formulation)
-publication_date: 2025-10-09 # Publication date
-date: 2025-10-09 # Publication date
+event_date: 2025-10-09T13:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -12,7 +12,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Peaceful Presence | The Dragon of Balance 
 
-![🐉⚖️ ESMÉE. 🌀 Peaceful Presence](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Peaceful Presence](/images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp)
 
 _When the dragon sleeps, the world grows._
 
@@ -28,4 +28,5 @@ Esmée resting in soft grass, eyes closed. Around her — warm light, flowers, b
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #PeacefulPresence #PeacefulLife #GentlePower #CalmAndLight #NaturalHarmony #WhimsicalCalm #LivingMyth #Pivtorak #HarmonyInRest #InnerPeace
 
-_🐉⚖️ ESMÉE. Peaceful Presence. Pivtorak.Studio. 09.10.2025_  
+_The Dragon of Balance. 🐉⚖️ ESMÉE. Peaceful Presence. AP | Pivtorak.Studio. 09.10.2025_  
+© Anna Pivtorak (Kostyuk)

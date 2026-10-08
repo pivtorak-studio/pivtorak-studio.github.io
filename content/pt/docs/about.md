@@ -54,4 +54,4 @@ Como fundadora do **Pivtorak.Studio**, desenvolvo sistemas que ajudam a manter e
 [Explorar Percurso e Conquistas](/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/)
 
 *Anna Pivtorak (Kostyuk) — Página Oficial. Pivtorak.Studio. 08.05.2026*  
-<p>© Anna Pivtorak (Kostyuk)</p>
+© Anna Pivtorak (Kostyuk)

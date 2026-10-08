@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp
-title: "02.06 🐉⚖️ ESMÉE. 🌀 Невидимий Міст"
+image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp
+title: 02.06 🐉⚖️ ESMÉE. 🌀 Невидимий Міст
 weight: 9
-event_date: 2025-10-09T15:00:00 # Дата події, про яку йдеться (для Хронології)
-publication_date: 2025-10-09 # Дата, коли стаття була опублікована
-date: 2025-10-09 # Дата, коли стаття була опублікована
+event_date: 2025-10-09T15:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE.🌀 Невидимий Міст | Дракон Рівноваги
 
-![🐉⚖️ ESMÉE. 🌀 Невидимий Міст](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Невидимий Міст](/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp)
 
 _Ваги Нової Долі. Там, де впевненість замінює мрію._
 
@@ -31,4 +31,5 @@ Esmée стоїть над світлом туману, у руках — ваг
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #TheMajesticDiscipline #InvisibleBridge #ВагиНовоїДолі #TrajectoryOfConfidence #HarmonyBeyondHope #WhimsicalFuture #ArtOfTrust #InnerCompass #CreativeMyth
 
-_🐉⚖️ ESMÉE.🌀 Невидимий Міст. Pivtorak.Studio. 09.10.2025_  
+_Дракон Рівноваги. 🐉⚖️ ESMÉE. Невидимий Міст. AP | Pivtorak.Studio. 09.10.2025_      
+© Анна Півторак (Костюк)

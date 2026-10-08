@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp
-title: "01.02 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores"
+image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp
+title: 01.02 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores
 weight: 2
-event_date: 2025-05-16T11:00:00 # Data do evento (formulação da estrutura)
-publication_date: 2025-05-16 # Data de publicação
-date: 2025-05-16 # Data de publicação
+event_date: 2025-05-16T11:00:00
+publication_date: 2025-05-16
+date: 2025-05-16
 event_type: transformation
 ---
 
@@ -14,7 +14,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores](/images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp)
 
 *Ela não salva. Ela semeia.*
 
@@ -41,4 +41,5 @@ Uma menina-dragão caminha sobre um campo cinzento e coberto de cinzas. Os seus 
 
 #Esmée #DragãoDoEquilíbrio #SementesDeVida #CinzasEFlores #SoproSemExpectativa #SemeaduraSilenciosa #ForçaSuave #MissãoFeminina #SemArmas #MeninaDragão #CampoCinzento #NovaEsperança #FloresDasCinzas #LuzInterior #ElaSemeia #AçãoSemDrama #SoloVivo #MissãoPeloSilêncio #BalançaNoPeito #PoderSemViolência #OndeElaPisa #PresençaDeEsmée #NãoSalvaSemeia #CaminhoPelaLuz #AçãoVerdadeira #RespirarNoRitmoDaVida #DragãoEFlorescimento #MissãoSemObssessão #CinzaComoSolo #LuzSemConvocação
 
-_🐉⚖️ ESMÉE. Onde ela pisa, nascem flores. Pivtorak.Studio. 16.05.2025_
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Onde ela pisa, nascem flores. AP | Pivtorak.Studio. 16.05.2025_  
+© Anna Pivtorak (Kostyuk)

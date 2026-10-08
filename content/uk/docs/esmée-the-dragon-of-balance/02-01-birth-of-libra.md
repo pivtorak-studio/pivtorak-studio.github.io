@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp
-title: "02.01 🐉⚖️ ESMÉE. 🌀 Народження Ваги"
+image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp
+title: 02.01 🐉⚖️ ESMÉE. 🌀 Народження Ваги
 weight: 4
-event_date: 2025-10-09T10:00:00 # Дата події, про яку йдеться (для Хронології)
-publication_date: 2025-10-09 # Дата, коли стаття була опублікована
-date: 2025-10-09 # Дата, коли стаття була опублікована
+event_date: 2025-10-09T10:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE.🌀 Народження Ваги | Дракон Рівноваги
 
-![🐉⚖️ ESMÉE. 🌀 Народження Ваги](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Народження Ваги](/images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp)
 
 _Рівновага Першопочатку._
 
@@ -29,4 +29,5 @@ Esmée стоїть у променях світла, між двома крил
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #РівновагаПершопочатку #SelfAcceptance #MythAlive #CreativeSoul #Pivtorak #SpiritualArt #Balance #Harmony #Awakening #LightAndFire
 
-_🐉⚖️ ESMÉE.🌀 Народження Ваги. Pivtorak.Studio. 09.10.2025  
+_Дракон Рівноваги. 🐉⚖️ ESMÉE. Народження Ваги. AP | Pivtorak.Studio. 09.10.2025_      
+© Анна Півторак (Костюк)

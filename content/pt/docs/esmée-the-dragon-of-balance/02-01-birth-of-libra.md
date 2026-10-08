@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp
-title: "02.01 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança"
+image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp
+title: 02.01 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança
 weight: 4
-event_date: 2025-10-09T10:00:00 # Data do evento (formulação da estrutura)
-publication_date: 2025-10-09 # Data de publicação
-date: 2025-10-09 # Data de publicação
+event_date: 2025-10-09T10:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Nascimento da Balança | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌀 Nascimento da Balança](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Nascimento da Balança](/images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp)
 
 _O Equilíbrio da Origem._
 
@@ -29,4 +29,5 @@ Esmée em feixes de luz, entre asas humana e dracônica. Fogo e ar fundem-se em 
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #EquilíbrioDaOrigem #Aceitação #MitoVivo #Harmonia #NovoEu #LuzEFogo #Pivtorak #ArteEspiritual #Equilíbrio #SerInteira
 
-_🐉⚖️ ESMÉE. Nascimento da Balança. Pivtorak.Studio. 09.10.2025_
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Nascimento da Balança. AP | Pivtorak.Studio. 09.10.2026_  
+© Anna Pivtorak (Kostyuk)

@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp
-title: "02.04 🐉⚖️ ESMÉE. 🌀 Presença Pacífica"
+image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp
+title: 02.04 🐉⚖️ ESMÉE. 🌀 Presença Pacífica
 weight: 7
-event_date: 2025-10-09T13:00:00 # Data do evento
-publication_date: 2025-10-09 # Data de publicação
-date: 2025-10-09 # Data de publicação
+event_date: 2025-10-09T13:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -14,7 +14,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Presença Pacífica | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌀 Presença Pacífica](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Presença Pacífica](/images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp)
 
 _Quando o dragão dorme, o mundo cresce._
 
@@ -30,4 +30,5 @@ Esmée deitada na relva, olhos fechados. À sua volta — luz suave, flores, bor
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #PresençaPacífica #VidaPacífica #SuavidadeDaForça #CalmaELuz #HarmoniaNatural #PazInterior #MitoVivo #Pivtorak
 
-_🐉⚖️ ESMÉE. Presença Pacífica. Pivtorak.Studio. 09.10.2025_  
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Presença Pacífica. AP | Pivtorak.Studio. 09.10.2026_  
+© Anna Pivtorak (Kostyuk)

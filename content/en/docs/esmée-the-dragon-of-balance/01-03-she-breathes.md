@@ -1,16 +1,16 @@
 ---
-image: /images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp
-title: "01.03 🐉⚖️ ESMÉE. 🌈 She doesn’t open the Gate. She breathes — and it appears"
+image: /images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp
+title: 01.03 🐉⚖️ ESMÉE. 🌈 She doesn’t open the Gate. She breathes — and it appears
 weight: 3
-event_date: 2025-05-16T12:00:00 # Date of the event (framework formulation)
-publication_date: 2025-05-16 # Publication date
-date: 2025-05-16 # Publication date
+event_date: 2025-05-16T12:00:00
+publication_date: 2025-05-16
+date: 2025-05-16
 event_type: transformation
 ---
 
 # 🐉⚖️ ESMÉE. 🌈 She doesn’t open the Gate. She breathes — and it appears | Whimsical World 
 
-![🐉⚖️ ESMÉE. 🌈 She doesn’t open the Gate. She breathes — and it appears](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌈 She doesn’t open the Gate. She breathes — and it appears](/images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp)
 
 *She is not a leader. But somehow, everything begins to bloom behind her.*
 
@@ -42,4 +42,6 @@ A blooming valley nestled between hills and forest. In the clearing stands a dra
 
 #Esmée #DragonOfBalance #ThirdScene #TheHiddenGate #ThresholdOfPresence #SheBreathesAndItAppears #BreathIntoLight #ClearingAndGreens #GateWithoutColor #ArcOfLight #SoftPresence #ScalesWithin #NotALeaderABeacon #SilentThreshold #HarmonyOfFields #DragonInAction #FloraAndSpace #LightWithoutAppointment #KindnessAndStrength #FeminineEssence #LivingLandscape #PassageForTheReady #WithoutSummons #FieldEnergy #QuietWonder #GateForTheHeart #TrueOpening #EsméeInBalance #BreathAndRecognition
 
-_🐉⚖️ ESMÉE. She doesn’t open the Gate. She breathes — and it appears. Pivtorak.Studio. 16.05.2025_
+_The Dragon of Balance. 🐉⚖️ ESMÉE. She doesn’t open the Gate. She breathes — and it appears. AP | Pivtorak.Studio. 16.05.2025_  
+© Anna Pivtorak (Kostyuk)
+

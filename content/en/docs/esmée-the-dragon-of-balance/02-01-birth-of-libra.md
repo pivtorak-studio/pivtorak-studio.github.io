@@ -1,17 +1,17 @@
 ---
-image: /images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp
-title: "02.01 🐉⚖️ ESMÉE. 🌀 Birth of Libra"
+image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp
+title: 02.01 🐉⚖️ ESMÉE. 🌀 Birth of Libra
 weight: 4
-event_date: 2025-10-09T10:00:00 # Date of the event (framework formulation)
-publication_date: 2025-10-09 # Publication date
-date: 2025-10-09 # Publication date
+event_date: 2025-10-09T10:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
 
 # 🐉⚖️ ESMÉE. 🌀 Birth of Libra | The Dragon of Balance 
 
-![🐉⚖️ ESMÉE. 🌀 Birth of Libra](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Birth of Libra](/images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp)
 
 _The Equilibrium of Origin._
 
@@ -27,4 +27,5 @@ Esmée stands in beams of light, between human and dragon wings. Flame and air m
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #EquilibriumOfOrigin #SelfAcceptance #LivingMyth #SpiritualArt #Harmony #Balance #NewSelf #LightAndFire #Pivtorak #CreativeSoul #MythAwakening
 
-_🐉⚖️ ESMÉE. Birth of Libra. Pivtorak.Studio. 09.10.2025_
+_The Dragon of Balance. 🐉⚖️ ESMÉE. Birth of Libra. AP | Pivtorak.Studio. 09.10.2025_  
+© Anna Pivtorak (Kostyuk)

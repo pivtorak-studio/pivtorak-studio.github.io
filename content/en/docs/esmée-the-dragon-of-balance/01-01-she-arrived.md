@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp
-title: "01.01 🐉⚖️ ESMÉE. 📍She arrived. And that is enough"
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
+title: 01.01 🐉⚖️ ESMÉE. 📍She arrived. And that is enough
 weight: 1
-event_date: 2025-05-16T10:00:00 # Date of the event (framework formulation)
-publication_date: 2025-05-16 # Publication date
-date: 2025-05-16 # Publication date
+event_date: 2025-05-16T10:00:00
+publication_date: 2025-05-16
+date: 2025-05-16
 event_type: transformation
 ---
 
@@ -12,7 +12,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 📍She arrived. And that is enough | The Dragon of Balance 
 
-![🐉⚖️ ESMÉE. 📍She arrived. And that is enough](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 📍She arrived. And that is enough](/images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp)
 
 _From now on, everything will be seen._  
 _Every action. Every decision. Every measure._  
@@ -45,4 +45,5 @@ A young European-style dragon girl with gentle features and expressive eyes stan
 
 #DragonOfBalance #Esmée #SheHasCome #NewChapter #BreathOfTruth #ScalesWithin #DragonGirl #GentleStrength #NoAppointment #ScorchedField #ArrivalOfEsmée #QuietReturn #PowerOfPresence #EuropeanDragon #LightWithoutCommand #NoRevenge #EverythingWillBeSeen #EveryDecisionMatters #EveryMeasureCounts #NoneCanHide #EyesThatSee #JusticeAndKindness #NewEra #LightOfTheScales #SilenceAsAction #TruePresence #SheIsHere #PathOfHonesty #PowerWithoutAnger #MissionOfBalance #BreatheAndWitness
 
-_🐉⚖️ ESMÉE. She arrived. And that is enough. Pivtorak.Studio. 16.05.2025_
+_The Dragon of Balance. 🐉⚖️ ESMÉE. She arrived. And that is enough. AP | Pivtorak.Studio. 16.05.2025_  
+© Anna Pivtorak (Kostyuk)

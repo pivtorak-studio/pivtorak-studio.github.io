@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp
-title: "02.03 🐉⚖️ ESMÉE. 🌀 Світла Іронія"
+image: /images/esmée-the-dragon-of-balance-02-03-light-irony-pivtorak-studio.webp
+title: 02.03 🐉⚖️ ESMÉE. 🌀 Світла Іронія
 weight: 6
-event_date: 2025-10-09T12:00:00 # Дата події, про яку йдеться (для Хронології)
-publication_date: 2025-10-09 # Дата, коли стаття була опублікована
-date: 2025-10-09 # Дата, коли стаття була опублікована
+event_date: 2025-10-09T12:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE.🌀 Світла Іронія | Дракон Рівноваги
 
-![🐉⚖️ ESMÉE. 🌀 Світла Іронія](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Світла Іронія](/images/esmée-the-dragon-of-balance-02-03-light-irony-pivtorak-studio.webp)
 
 _Дракон, який сміється._
 
@@ -29,4 +29,5 @@ Esmée сидить серед казкових істот — маленьки�
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #СвітлаІронія #WhimsicalEnergy #CreativeMyth #LightnessOfWisdom #InnerSmile #Pivtorak #LivingMyth #Balance #DragonLaughs #CalmAndJoy
 
-_🐉⚖️ ESMÉE.🌀 Світла Іронія. Pivtorak.Studio. 09.10.2025_  
+_Дракон Рівноваги. 🐉⚖️ ESMÉE. Світла Іронія. AP | Pivtorak.Studio. 09.10.2025_      
+© Анна Півторак (Костюк)

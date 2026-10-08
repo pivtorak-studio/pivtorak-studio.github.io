@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp
-title: "02.02 🐉⚖️ ESMÉE. 🌀 Discipline of Balance"
+image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp
+title: 02.02 🐉⚖️ ESMÉE. 🌀 Discipline of Balance
 weight: 5
-event_date: 2025-10-09T11:00:00 # Date of the event 
-publication_date: 2025-10-09 # Publication date
-date: 2025-10-09 # Publication date
+event_date: 2025-10-09T11:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -12,7 +12,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Discipline of Balance | The Dragon of Balance 
 
-![🐉⚖️ ESMÉE. 🌀 Discipline of Balance](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Discipline of Balance](/images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp)
 
 _Silence that holds the wings._
 
@@ -28,4 +28,5 @@ Esmée stands in the wind with open wings — one human, one draconic. Dawn ligh
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #DisciplineOfBalance #InnerStrength #HarmonyInMotion #GraceAndWill #Pivtorak #MajesticCalm #SpiritualArt #LivingMyth #AirAndFire #CreativeDiscipline
 
-_🐉⚖️ ESMÉE. Discipline of Balance. Pivtorak.Studio. 09.10.2025_
+_The Dragon of Balance. 🐉⚖️ ESMÉE. Discipline of Balance. AP | Pivtorak.Studio. 09.10.2025_  
+© Anna Pivtorak (Kostyuk)

@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp
-title: "02.03 🐉⚖️ ESMÉE. 🌀 Ironia de Luz"
+image: /images/esmée-the-dragon-of-balance-02-03-light-irony-pivtorak-studio.webp
+title: 02.03 🐉⚖️ ESMÉE. 🌀 Ironia de Luz
 weight: 6
-event_date: 2025-10-09T12:00:00 # Data do evento 
-publication_date: 2025-10-09 # Data de publicação
-date: 2025-10-09 # Data de publicação
+event_date: 2025-10-09T12:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -14,7 +14,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Ironia de Luz | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌀 Ironia de Luz](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Ironia de Luz](/images/esmée-the-dragon-of-balance-02-03-light-irony-pivtorak-studio.webp)
 
 _O dragão que sorri._
 
@@ -30,4 +30,5 @@ Esmée entre criaturas fantásticas — pequenos espíritos, borboletas e sombra
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #IroniaDeLuz #SabedoriaCriativa #SorrisoInterior #LevezaDaVida #MitoVivo #Pivtorak #DragãoQueSorri
 
-_Esmée 🐉⚖️. Ironia de Luz. Pivtorak.Studio. 09.10.2025_  
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Ironia de Luz. AP | Pivtorak.Studio. 09.10.2026_  
+© Anna Pivtorak (Kostyuk)

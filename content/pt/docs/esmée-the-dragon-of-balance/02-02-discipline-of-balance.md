@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp
-title: "02.02 🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio"
+image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp
+title: 02.02 🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio
 weight: 5
-event_date: 2025-10-09T11:00:00 # Data do evento (formulação da estrutura)
-publication_date: 2025-10-09 # Data de publicação
-date: 2025-10-09 # Data de publicação
+event_date: 2025-10-09T11:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -14,7 +14,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Disciplina do Equilíbrio](/images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp)
 
 _Silêncio que sustenta as asas._
 
@@ -30,4 +30,5 @@ Esmée de pé ao vento, asas abertas — uma humana, outra dracônica. A luz do 
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #DisciplinaDoEquilíbrio #ForçaInterior #HarmoniaEmMovimento #GraçaEControle #MitoVivo #Pivtorak #EquilíbrioDaAlma #MajesticCalm #ArEFogo
 
-_🐉⚖️ ESMÉE. Disciplina do Equilíbrio. Pivtorak.Studio. 09.10.2025_  
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Disciplina do Equilíbrio. AP | Pivtorak.Studio. 09.10.2026_  
+© Anna Pivtorak (Kostyuk)

@@ -1,16 +1,16 @@
 ---
-image: /images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp
-title: "02.05 🐉⚖️ ESMÉE. 🌀 The Released Phantoms"
+image: /images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp
+title: 02.05 🐉⚖️ ESMÉE. 🌀 The Released Phantoms
 weight: 8
-event_date: 2025-10-09T14:00:00 # Date of the event (framework formulation)
-publication_date: 2025-10-09 # Publication date
-date: 2025-10-09 # Publication date
+event_date: 2025-10-09T14:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
 # 🐉⚖️ ESMÉE. 🌀 The Released Phantoms | The Dragon of Balance 
 
-![🐉⚖️ ESMÉE. 🌀 The Released Phantoms](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 The Released Phantoms](/images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp)
 
 _Alchemy of memory. Where fear becomes knowledge._
 
@@ -28,4 +28,5 @@ Esmée seated among translucent shadows — echoes of the past dissolving into l
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ReleasedPhantomNodes #AlchemyOfMemory #ArtOfUnderstanding #Transformation #HealingThroughKnowledge #CodeOfPhantoms #WhimsicalWorld #AnalyticalSpirit #CreativeMyth
 
-_🐉⚖️ ESMÉE. 🌀 The Released Phantoms. Pivtorak.Studio. 09.10.2025_  
+_The Dragon of Balance. 🐉⚖️ ESMÉE. The Released Phantoms. AP | Pivtorak.Studio. 09.10.2025_  
+© Anna Pivtorak (Kostyuk)

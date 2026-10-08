@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp
-title: "01.03 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece"
+image: /images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp
+title: 01.03 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece
 weight: 3
-event_date: 2025-05-16T12:00:00 # Data do evento (formulação da estrutura)
-publication_date: 2025-05-16 # Data de publicação
-date: 2025-05-16 # Data de publicação
+event_date: 2025-05-16T12:00:00
+publication_date: 2025-05-16
+date: 2025-05-16
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
  
 # 🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece](/images/whimsical-world-esmée-01-03-she-breathes-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌈 Ela não abre o Portal. Ela respira — e ele aparece](/images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp)
 
 *Ela não é líder. Mas, por alguma razão, tudo começa a florescer atrás dela.*  
 
@@ -44,4 +44,5 @@ Um vale florido entre colinas e floresta. Numa clareira está uma menina-dragão
 
 #Esmée #DragãoDoEquilíbrio #TerceiraCena #OPortalOculto #LimiarDaPresença #ElaRespiraEOPortalAparece #SoproParaALuz #ClareiraEVerde #PortalSemCor #ArcoDeLuz #PresençaSuave #BalançaInterior #NãoÉLíderÉFarol #LimiarSilencioso #HarmoniaDosCampos #DragãoEmAção #FloraEEspaço #LuzSemNomeação #TernuraEForça #EssênciaFeminina #PaisagemViva #PassagemParaQuemEstáPronto #SemConvocação #EnergiaDoCampo #MilagreSilencioso #PortalParaOCoração #AberturaVerdadeira #EsméeEmEquilíbrio #SoproEReconhecimento
 
-_🐉⚖️ ESMÉE. Ela não abre o Portal. Ela respira — e ele aparece. Pivtorak.Studio. 16.05.2025_
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Ela não abre o Portal. Ela respira — e ele aparece. AP | Pivtorak.Studio. 16.05.2025_  
+© Anna Pivtorak (Kostyuk)

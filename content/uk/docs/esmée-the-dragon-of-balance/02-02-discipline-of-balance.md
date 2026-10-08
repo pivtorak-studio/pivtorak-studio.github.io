@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp
-title: "02.02 🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги"
+image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp
+title: 02.02 🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги
 weight: 5
-event_date: 2025-10-09T11:00:00 # Дата події, про яку йдеться (для Хронології)
-publication_date: 2025-10-09 # Дата, коли стаття була опублікована
-date: 2025-10-09 # Дата, коли стаття була опублікована
+event_date: 2025-10-09T11:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE.🌀 Дисципліна Рівноваги | Дракон Рівноваги
 
-![🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги](/images/whimsical-world-esmée-02-02-discipline-of-balance-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги](/images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp)
 
 _Тиша, що тримає крила._
 
@@ -29,4 +29,5 @@ Esmée стоїть на вітрі, з розправленими крилам�
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #DisciplineOfBalance #InnerStrength #CalmPower #HarmonyInMotion #Pivtorak #CreativeMyth #AirAndFire #LivingDiscipline #Balance #GraceInControl #MajesticCalm
 
-_🐉⚖️ ESMÉE. Pivtorak.Studio. Дисципліна Рівноваги. 09.10.2025_  
+_Дракон Рівноваги. 🐉⚖️ ESMÉE. Дисципліна Рівноваги. AP | Pivtorak.Studio. 09.10.2025_      
+© Анна Півторак (Костюк)

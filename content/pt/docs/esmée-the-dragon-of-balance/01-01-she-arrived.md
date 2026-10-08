@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp
-title: "01.01 🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta"
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
+title: 01.01 🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta
 weight: 1
-event_date: 2025-05-16T10:00:00 # Data do evento (formulação da estrutura)
-publication_date: 2025-05-16 # Data de publicação
-date: 2025-05-16 # Data de publicação
+event_date: 2025-05-16T10:00:00
+publication_date: 2025-05-16
+date: 2025-05-16
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta](/images/whimsical-world-esmée-01-01-she-arrived-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 📍Ela chegou. E isso basta](/images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp)
 
 *A partir de agora, tudo será visto.*  
 *Cada ação. Cada decisão. Cada medida.*
@@ -48,4 +48,5 @@ Uma jovem dragão europeia, de feições suaves e olhos expressivos, está de p�
 
 #DragãoDaBalança #Esmée #ElaChegou #NovoCapítulo #SoproSemEngano #BalançaInterior #MeninaDragão #ForçaSuave #SemNomeação #CampoQueimado #ChegadaDeEsmée #RegressoSilencioso #PoderDaPresença #DragãoEuropeu #LuzSemComando #SemVingança #TudoSeráVisto #CadaDecisãoConta #CadaMedidaImporta #NinguémPodeEsconder #OlhosQueVêem #JustiçaEDoçura #NovaEra #LuzDaBalança #SilêncioComoAção #PresençaVerdadeira #ElaEstáAqui #CaminhoDaHonestidade #PoderSemRaiva #MissãoDoEquilíbrio #RespirarEVer
 
-_🐉⚖️ ESMÉE. Ela chegou. E isso basta. Pivtorak.Studio. 16.05.2025_
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Ela chegou. E isso basta. AP | Pivtorak.Studio. 16.05.2025_  
+© Anna Pivtorak (Kostyuk)

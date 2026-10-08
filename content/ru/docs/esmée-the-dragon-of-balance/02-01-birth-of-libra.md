@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp
-title: "02.01 🐉⚖️ ESMÉE. 🌀 Рождение Весов"
+image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp
+title: 02.01 🐉⚖️ ESMÉE. 🌀 Рождение Весов
 weight: 4
-event_date: 2025-10-09T10:00:00 # Дата события (формулирование контура)
-publication_date: 2025-10-09 # Дата публикации
-date: 2025-10-09 # Дата публикации
+event_date: 2025-10-09T10:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Рождение Весов | Дракон Равновесия
 
-![🐉⚖️ ESMÉE. 🌀 Рождение Весов](/images/whimsical-world-esmée-02-01-birth-of-libra-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Рождение Весов](/images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp)
 
 _Равновесие Истока._
 
@@ -33,4 +33,5 @@ Esmée в лучах света, между человеческим и драк
 
 #WhimsicalWorld #Esmée #PivtorakStudio #ДевушкаДраконВесы #ИскусствоГармонии #РавновесиеИстока #Самопринятие #ЖивойМиф #Гармония #Баланс #НовыйЯ #Пивторак #ТворческаяДуша
 
-_🐉⚖️ ESMÉE. Рождение Весов. Pivtorak.Studio. 09.10.2025_
+_Дракон Равновесия. 🐉⚖️ ESMÉE. Рождение Весов. AP | Pivtorak.Studio. 09.10.2025_    
+© Анна Пивторак (Костюк)

@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp
-title: "02.05 🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы"
+image: /images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp
+title: 02.05 🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы
 weight: 8
-event_date: 2025-10-09T14:00:00 # Дата события 
-publication_date: 2025-10-09 # Дата публикации
-date: 2025-10-09 # Дата публикации
+event_date: 2025-10-09T14:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы | Дракон Равновесия
 
-![🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы](/images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp)
 
 _Алхимия воспоминаний. Там, где страх превращается в знание._
 
@@ -29,4 +29,5 @@ Esmée среди теней и линий, что складываются в �
 
 #WhimsicalWorld #Esmée #PivtorakStudio #ОсвобождённыеФантомы #АлхимияПамяти #Понимание #Трансформация #HealingThroughKnowledge #DragonOfBalance #CreativeMyth #WhimsicalWisdom
 
-_🐉⚖️ ESMÉE. 🌀 Освобождённые Фантомы. Pivtorak.Studio. 09.10.2025_  
+_Дракон Равновесия. 🐉⚖️ ESMÉE. Освобождённые Фантомы. AP | Pivtorak.Studio. 09.10.2025_    
+© Анна Пивторак (Костюк)

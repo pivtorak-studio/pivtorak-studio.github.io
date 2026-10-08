@@ -1,19 +1,19 @@
 ---
-image: /images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp
-title: "02.05 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados"
+image: /images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp
+title: 02.05 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados
 weight: 8
-event_date: 2025-10-09T14:00:00 # Data do evento 
-publication_date: 2025-10-09 # Data de publicação
-date: 2025-10-09 # Data de publicação
+event_date: 2025-10-09T14:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
 
 
 
-# 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados | O Dragão do Equilíbrio
+# 🐉⚖️ ESMÉE. 🌀 Os Fantasmas Desmascarados | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados](/images/whimsical-world-esmée-02-05-the-released-phantoms-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Os Fantasmas Libertados](/images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp)
 
 _Alquimia da memória. Onde o medo se transforma em conhecimento._
 
@@ -31,4 +31,5 @@ Esmée sentada entre sombras translúcidas — ecos do passado que se dissolvem 
 
 #MundoCaprichoso #Esmée #PivtorakStudio #DragãoDoEquilíbrio #FantasmasLibertados #AlquimiaDaMemória #ArteDoEntendimento #Transformação #CuraPelaConsciência #Conhecimento #WhimsicalWorld
 
-_🐉⚖️ ESMÉE. Os Fantasmas Libertados. Pivtorak.Studio. 09.10.2025_  
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Os Fantasmas Desmascarados. AP | Pivtorak.Studio. 09.10.2026_  
+© Anna Pivtorak (Kostyuk)

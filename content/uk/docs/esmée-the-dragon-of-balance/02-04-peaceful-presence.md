@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp
-title: "02.04 🐉⚖️ ESMÉE. 🌀 Мирна Присутність"
+image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp
+title: 02.04 🐉⚖️ ESMÉE. 🌀 Мирна Присутність
 weight: 7
-event_date: 2025-10-09T13:00:00 # Дата події, про яку йдеться (для Хронології)
-publication_date: 2025-10-09 # Дата, коли стаття була опублікована
-date: 2025-10-09 # Дата, коли стаття була опублікована
+event_date: 2025-10-09T13:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE.🌀 Мирна Присутність | Дракон Рівноваги
 
-![🐉⚖️ ESMÉE. 🌀 Мирна Присутність](/images/whimsical-world-esmée-02-04-peaceful-presence-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Мирна Присутність](/images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp)
 
 _Коли дракон спить, світ росте._
 
@@ -29,4 +29,5 @@ Esmée сидить у траві, очі заплющені. Навколо —
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #PeacefulPresence #МирнаПрисутність #PeacefulLife #МякістьСили #CalmAndLight #NaturalHarmony #CreativeMyth #DragonResting #WhimsicalCalm #InnerPeace
 
-_🐉⚖️ ESMÉE. Мирна Присутність. Pivtorak.Studio. 09.10.2025_  
+_Дракон Рівноваги. 🐉⚖️ ESMÉE. Мирна Присутність. AP | Pivtorak.Studio. 09.10.2025_      
+© Анна Півторак (Костюк)

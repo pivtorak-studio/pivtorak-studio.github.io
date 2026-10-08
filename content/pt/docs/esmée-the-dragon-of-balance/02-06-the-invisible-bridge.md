@@ -1,10 +1,10 @@
 ---
-image: /images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp
-title: "02.06 🐉⚖️ ESMÉE. 🌀 A Ponte Invisível"
+image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp
+title: 02.06 🐉⚖️ ESMÉE. 🌀 A Ponte Invisível
 weight: 9
-event_date: 2025-10-09T15:00:00 # Data do evento 
-publication_date: 2025-10-09 # Data de publicação
-date: 2025-10-09 # Data de publicação
+event_date: 2025-10-09T15:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
@@ -13,7 +13,7 @@ event_type: transformation
 
 # 🐉⚖️ ESMÉE. 🌀 A Ponte Invisível | O Dragão do Equilíbrio
 
-![🐉⚖️ ESMÉE. 🌀 A Ponte Invisível](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 A Ponte Invisível](/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp)
 
 _As Balanças do Novo Destino. Onde a confiança substitui o sonho._
 
@@ -31,4 +31,6 @@ Esmée de pé sobre a névoa luminosa, segurando balanças que brilham suavement
 
 #MundoCaprichoso #Esmée #PivtorakStudio #DragãoDoEquilíbrio #PonteInvisível #ConfiançaNoCaminho #ArteDaConfiança #WhimsicalFuture #BalançasDoDestino #TrajetóriaSemSonho #CreativeMyth
 
-_🐉⚖️ ESMÉE. A Ponte Invisível. Pivtorak.Studio. 09.10.2025_  
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. A Ponte Invisível. AP | Pivtorak.Studio. 09.10.2025_  
+© Anna Pivtorak (Kostyuk)
+

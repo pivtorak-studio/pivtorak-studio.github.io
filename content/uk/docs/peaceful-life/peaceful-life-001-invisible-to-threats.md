@@ -1,4 +1,4 @@
-﻿---
+---
 id: peaceful-life-001-invisible-to-threats
 language: uk
 translation_of: peaceful-life-001-invisible-to-threats

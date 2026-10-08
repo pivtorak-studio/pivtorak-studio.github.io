@@ -1,17 +1,17 @@
 ---
-image: /images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp
-title: "01.02 🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow"
+image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp
+title: 01.02 🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow
 weight: 2
-event_date: 2025-05-16T11:00:00 # Date of the event (framework formulation)
-publication_date: 2025-05-16 # Publication date
-date: 2025-05-16 # Publication date
+event_date: 2025-05-16T11:00:00
+publication_date: 2025-05-16
+date: 2025-05-16
 event_type: transformation
 ---
 
 
 # 🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow | The Dragon of Balance 
 
-![🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow](/images/whimsical-world-esmée-01-02-where-she-steps-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌸 Where she steps, flowers grow](/images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp)
 
 *She doesn’t save. She sows.*  
 
@@ -38,5 +38,7 @@ A dragon girl walks across a grey, ashen field. Her movements are soft, her brea
 
 #Esmée #DragonOfBalance #SeedsOfLife #AshAndFlowers #BreathWithoutExpectation #SilentSowing #GentleStrength #FeminineMission #WithoutWeapons #DragonGirl #GreyField #NewHope #FlowersFromAshes #LightWithin #SheSows #ActionWithoutDrama #LivingSoil #MissionThroughSilence #ScalesInHerHeart #PowerWithoutViolence #WhereSheSteps #PresenceOfEsmée #NotSavingButSowing #PathThroughLight #TrueAction #BreathInLifeRhythm #DragonAndBloom #MissionWithoutObsession #AshAsSoil #LightWithoutSummons
 
-_🐉⚖️ ESMÉE. Where she steps, flowers grow. Pivtorak.Studio. 16.05.2025_
+_The Dragon of Balance. 🐉⚖️ ESMÉE. Where she steps, flowers grow. AP | Pivtorak.Studio. 16.05.2025_  
+© Anna Pivtorak (Kostyuk)
+
 

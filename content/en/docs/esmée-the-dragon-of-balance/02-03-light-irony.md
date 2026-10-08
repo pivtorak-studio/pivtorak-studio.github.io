@@ -1,17 +1,17 @@
 ---
-image: /images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp
-title: "02.03 🐉⚖️ ESMÉE. 🌀 Light Irony"
+image: /images/esmée-the-dragon-of-balance-02-03-light-irony-pivtorak-studio.webp
+title: 02.03 🐉⚖️ ESMÉE. 🌀 Light Irony
 weight: 6
-event_date: 2025-10-09T12:00:00 # Date of the event (framework formulation)
-publication_date: 2025-10-09 # Publication date
-date: 2025-10-09 # Publication date
+event_date: 2025-10-09T12:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
 
 # 🐉⚖️ ESMÉE. 🌀 Light Irony | The Dragon of Balance 
 
-![🐉⚖️ ESMÉE. 🌀 Light Irony](/images/whimsical-world-esmée-02-03-light-irony-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 Light Irony](/images/esmée-the-dragon-of-balance-02-03-light-irony-pivtorak-studio.webp)
 
 _The dragon who laughs._
 
@@ -27,4 +27,5 @@ Esmée sits among fantastical creatures — little spirits, butterflies, and sof
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #LightIrony #LivingMyth #CreativeWisdom #InnerSmile #PlayfulBalance #WhimsicalSpirit #LightnessAndPower #HarmonyInJoy #Pivtorak #DragonLaughs
 
-_🐉⚖️ ESMÉE. Light Irony. Pivtorak.Studio. 09.10.2025_
+_The Dragon of Balance. 🐉⚖️ ESMÉE. Light Irony. AP | Pivtorak.Studio. 09.10.2025_  
+© Anna Pivtorak (Kostyuk)

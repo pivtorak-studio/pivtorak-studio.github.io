@@ -1,17 +1,17 @@
 ---
-image: /images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp
-title: "02.06 🐉⚖️ ESMÉE. 🌀 The Invisible Bridge"
+image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp
+title: 02.06 🐉⚖️ ESMÉE. 🌀 The Invisible Bridge
 weight: 9
-event_date: 2025-10-09T15:00:00 # Date of the event (framework formulation)
-publication_date: 2025-10-09 # Publication date
-date: 2025-10-09 # Publication date
+event_date: 2025-10-09T15:00:00
+publication_date: 2025-10-09
+date: 2025-10-09
 event_type: transformation
 ---
 
 
 # 🐉⚖️ ESMÉE. 🌀 The Invisible Bridge | The Dragon of Balance  
 
-![🐉⚖️ ESMÉE. 🌀 The Invisible Bridge](/images/whimsical-world-esmée-02-06-the-invisible-bridge-pivtorak-studio-2025.webp)
+![🐉⚖️ ESMÉE. 🌀 The Invisible Bridge](/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp)
 
 _The Scales of a New Destiny. Where confidence replaces dreams._
 
@@ -29,4 +29,5 @@ Esmée standing over a misty expanse, holding glowing scales. The bridge ahead s
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #TheMajesticDiscipline #InvisibleBridge #ScalesOfDestiny #TrajectoryOfConfidence #WhimsicalFuture #ArtOfTrust #CreativeMyth
 
-_🐉⚖️ ESMÉE. The Invisible Bridge. Pivtorak.Studio. 09.10.2025_  
+_The Dragon of Balance. 🐉⚖️ ESMÉE. The Invisible Bridge. AP | Pivtorak.Studio. 09.10.2025_  
+© Anna Pivtorak (Kostyuk)

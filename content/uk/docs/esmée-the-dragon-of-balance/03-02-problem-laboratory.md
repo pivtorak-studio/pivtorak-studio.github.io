@@ -96,7 +96,7 @@ visual_archive: true
 </script>
 
 
-# 🐉⚖️ ESMÉE. ✯ Лабораторія Задач
+# 🐉⚖️ ESMÉE. ✯ Лабораторія Задач | Дракон Рівноваги
 
 ![_Дракон Рівноваги. 🐉⚖️ ESMÉE. Лабораторія Задач. AP | Pivtorak.Studio. 09.10.2026_ © Анна Півторак (Костюк)](/images/esmée-the-dragon-of-balance-03-02-problem-laboratory.webp)
 

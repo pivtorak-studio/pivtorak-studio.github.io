@@ -80,8 +80,8 @@ visual_archive: true
   "@id": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/03-03-destiny-laboratory/",
   "headline": "03-03 🐉⚖️ ESMÉE. ✯ Лабораторія Долі",
   "description": "ESMÉE входить до третьої камери своєї підземної лабораторії, де те, що колись здавалося загрозою, повертається як енергія, сила та вогонь, яким вона навчилася керувати.",
-  "datePublished": "2026-10-09T09:00:00",
-  "dateModified": "2026-10-09T09:00:00",
+  "datePublished": "2026-10-09T09:00:00+01:00",
+  "dateModified": "2026-10-09T09:00:00+01:00",
   "inLanguage": "uk",
   "author": {
     "@type": "Person",

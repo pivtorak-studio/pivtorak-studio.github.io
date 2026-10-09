@@ -77,8 +77,8 @@ visual_archive: true
   "@id": "https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/03-02-problem-laboratory/",
   "headline": "03-02 🐉⚖️ ESMÉE. ✯ Problem Laboratory",
   "description": "ESMÉE enters the second chamber of her underground laboratory, where complex problems are explored through experiments, connections, mechanisms, and the patient construction of a path toward an answer.",
-  "datePublished": "2026-10-09T06:00:00",
-  "dateModified": "2026-10-09T06:00:00",
+  "datePublished": "2026-10-09T06:00:00+01:00",
+  "dateModified": "2026-10-09T06:00:00+01:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

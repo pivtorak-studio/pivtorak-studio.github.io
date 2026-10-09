@@ -73,8 +73,8 @@ visual_archive: true
   "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/03-01-world-laboratory/",
   "headline": "03-01 🐉⚖️ ESMÉE. ✯ Лаборатория Миров",
   "description": "ESMÉE входит в первую камеру своей подземной лаборатории, где фрагменты, структуры, знания и связи постепенно превращаются в миры.",
-  "datePublished": "2026-10-09T03:00:00",
-  "dateModified": "2026-10-09T03:00:00",
+  "datePublished": "2026-10-09T03:00:00+01:00",
+  "dateModified": "2026-10-09T03:00:00+01:00",
   "inLanguage": "ru",
   "author": {
     "@type": "Person",

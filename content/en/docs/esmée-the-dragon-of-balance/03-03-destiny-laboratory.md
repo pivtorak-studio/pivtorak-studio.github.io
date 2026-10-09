@@ -80,8 +80,8 @@ visual_archive: true
   "@id": "https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/03-03-destiny-laboratory/",
   "headline": "03-03 🐉⚖️ ESMÉE. ✯ Destiny Laboratory",
   "description": "ESMÉE enters the third chamber of her underground laboratory, where what once seemed threatening returns as energy, strength, and a fire she has learned to hold.",
-  "datePublished": "2026-10-09T09:00:00",
-  "dateModified": "2026-10-09T09:00:00",
+  "datePublished": "2026-10-09T09:00:00+01:00",
+  "dateModified": "2026-10-09T09:00:00+01:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

@@ -77,8 +77,8 @@ visual_archive: true
   "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/03-02-problem-laboratory/",
   "headline": "03-02 🐉⚖️ ESMÉE. ✯ Лаборатория Задач",
   "description": "ESMÉE входит во вторую камеру своей подземной лаборатории, где сложные задачи исследуются через эксперименты, связи, механизмы и терпеливое построение пути к ответу.",
-  "datePublished": "2026-10-09T06:00:00",
-  "dateModified": "2026-10-09T06:00:00",
+  "datePublished": "2026-10-09T06:00:00+01:00",
+  "dateModified": "2026-10-09T06:00:00+01:00",
   "inLanguage": "ru",
   "author": {
     "@type": "Person",

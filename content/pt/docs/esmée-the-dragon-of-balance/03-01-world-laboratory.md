@@ -74,8 +74,8 @@ visual_archive: true
   "@id": "https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/03-01-world-laboratory/",
   "headline": "03-01 🐉⚖️ ESMÉE. ✯ Laboratório dos Mundos",
   "description": "ESMÉE entra na primeira câmara do seu laboratório subterrâneo, onde fragmentos, estruturas, conhecimento e ligações se transformam gradualmente em mundos.",
-  "datePublished": "2026-10-09T03:00:00",
-  "dateModified": "2026-10-09T03:00:00",
+  "datePublished": "2026-10-09T03:00:00+01:00",
+  "dateModified": "2026-10-09T03:00:00+01:00",
   "inLanguage": "pt-PT",
   "author": {
     "@type": "Person",

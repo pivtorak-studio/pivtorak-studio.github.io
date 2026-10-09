@@ -5,10 +5,10 @@ translation_of: esmée-the-dragon-of-balance-03-03-destiny-laboratory
 title: 03-03 🐉⚖️ ESMÉE. ✯ Laboratório do Destino
 description: ESMÉE entra na terceira câmara do seu laboratório subterrâneo, onde aquilo que outrora parecia ameaçador regressa como energia, força e um fogo que aprendeu a segurar.
 summary: A terceira câmara é um lugar de regresso e transformação, onde 3 + 3 = 6 se torna um código silencioso do destino e o fogo se transforma em energia controlada em vez de perigo.
-event_date: 2026-10-09T09:00:00-01:00
-publication_date: 2026-10-09T09:00:00-01:00
-date: 2026-10-09T09:00:00-01:00
-lastmod: 2026-10-09T09:00:00-01:00
+event_date: 2026-10-09T09:00:00+01:00
+publication_date: 2026-10-09T09:00:00+01:00
+date: 2026-10-09T09:00:00+01:00
+lastmod: 2026-10-09T09:00:00+01:00
 slug: 03-03-destiny-laboratory
 tags:
   - ESMÉE

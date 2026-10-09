@@ -5,10 +5,10 @@ translation_of: esmée-the-dragon-of-balance-03-03-destiny-laboratory
 title: 03-03 🐉⚖️ ESMÉE. ✯ Destiny Laboratory
 description: ESMÉE enters the third chamber of her underground laboratory, where what once seemed threatening returns as energy, strength, and a fire she has learned to hold.
 summary: The third chamber is a place of return and transformation, where 3 + 3 = 6 becomes a quiet code of destiny and fire becomes controlled energy rather than danger.
-event_date: 2026-10-09T09:00:00-01:00
-publication_date: 2026-10-09T09:00:00-01:00
-date: 2026-10-09T09:00:00-01:00
-lastmod: 2026-10-09T09:00:00-01:00
+event_date: 2026-10-09T09:00:00+01:00
+publication_date: 2026-10-09T09:00:00+01:00
+date: 2026-10-09T09:00:00+01:00
+lastmod: 2026-10-09T09:00:00+01:00
 slug: 03-03-destiny-laboratory
 tags:
   - ESMÉE

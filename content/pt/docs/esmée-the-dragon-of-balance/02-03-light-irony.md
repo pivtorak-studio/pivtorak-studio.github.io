@@ -14,7 +14,7 @@ tags: [Esmée, O Dragão do Equilíbrio, Ironia de Luz, Mito Vivo, Sabedoria Cri
 keywords: [Esmée, O Dragão do Equilíbrio, Ironia de Luz, sabedoria através do humor, aceitação da imperfeição, sabedoria lúdica, sorriso interior, consciência alegre, harmonia no caos, leveza e poder, ironia delicada, sabedoria criativa, mito vivo, fantasia, aceitação e alegria]
 categories: [O Dragão do Equilíbrio, Obras Criativas]
 series: TheDragonOfBalance
-series_index: "06"
+series_index: 06
 research_origin: pivtorak.studio
 status: published
 featured: true

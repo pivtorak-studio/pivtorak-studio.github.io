@@ -14,7 +14,7 @@ tags: [ESMÉE, O Dragão do Equilíbrio, A Majestosa Disciplina, Ponte Invisíve
 keywords: [Esmée, A Ponte Invisível, O Dragão do Equilíbrio, balança do destino, trajetória de confiança, confiança em vez de sonhos, autoconfiança, alinhamento interior, arte simbólica, mundo fantástico]
 categories: [O Dragão do Equilíbrio, Mitologia Criativa]
 series: TheDragonOfBalance
-series_index: "09"
+series_index: 09
 research_origin: pivtorak.studio
 status: published
 featured: true

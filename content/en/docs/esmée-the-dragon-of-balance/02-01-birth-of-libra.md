@@ -42,7 +42,7 @@ categories:
   - The Dragon of Balance
   - Creative Works
 series: TheDragonOfBalance
-series_index: "04"
+series_index: 04
 research_origin: pivtorak.studio
 status: published
 featured: true

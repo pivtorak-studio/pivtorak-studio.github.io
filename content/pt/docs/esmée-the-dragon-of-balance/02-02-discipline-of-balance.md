@@ -14,7 +14,7 @@ tags: [Esmée, O Dragão do Equilíbrio, Disciplina do Equilíbrio, Força Inter
 keywords: [Esmée, O Dragão do Equilíbrio, Disciplina do Equilíbrio, disciplina viva, força interior, harmonia em movimento, graça e vontade, disciplina consciente, equilíbrio e consciência, força e ternura, vontade e confiança, autodomínio, asas humanas e dracónicas, arte espiritual, mito vivo]
 categories: [O Dragão do Equilíbrio, Obras Criativas]
 series: TheDragonOfBalance
-series_index: "05"
+series_index: 05
 research_origin: pivtorak.studio
 status: published
 featured: true

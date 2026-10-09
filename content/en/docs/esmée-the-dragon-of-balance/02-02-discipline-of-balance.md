@@ -14,7 +14,7 @@ tags: [Esmée, The Dragon of Balance, Discipline of Balance, Inner Strength, Har
 keywords: [Esmée, The Dragon of Balance, Discipline of Balance, living discipline, inner strength, harmony in motion, grace and will, conscious discipline, balance and awareness, strength and tenderness, will and trust, self-mastery, human and dragon wings, spiritual art, living myth]
 categories: [The Dragon of Balance, Creative Works]
 series: TheDragonOfBalance
-series_index: "05"
+series_index: 05
 research_origin: pivtorak.studio
 status: published
 featured: true

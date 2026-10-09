@@ -14,7 +14,7 @@ tags: [Esmée, The Dragon of Balance, Peaceful Presence, Peaceful Life, Gentle P
 keywords: [Esmée, The Dragon of Balance, Peaceful Presence, gentle strength, peaceful stillness, inner peace, natural harmony, mindful presence, trust and vulnerability, harmony with nature, restorative rest, living myth, peaceful life, awakened soul, calm and light]
 categories: [The Dragon of Balance, Creative Works]
 series: TheDragonOfBalance
-series_index: "07"
+series_index: 07
 research_origin: pivtorak.studio
 status: published
 featured: true

@@ -1,15 +1,125 @@
 ---
-image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp
-title: 02.06 🐉⚖️ ESMÉE. 🌀 Невидимий Міст
-weight: 9
-event_date: 2025-10-09T15:00:00
-publication_date: 2025-10-09
-date: 2025-10-09
-event_type: transformation
+id: 02-06-the-invisible-bridge
+language: uk
+translation_of: esmée-the-dragon-of-balance-02-06-the-invisible-bridge
+title: "02-06 🐉⚖️ ESMÉE. 🌀 Невидимий Міст"
+description: "Відкрийте Есме, яка стоїть між відомим і невідомим, де впевненість замінює мрії, а невидимий міст постає завдяки ясності, довірі до себе та внутрішній узгодженості з новим призначенням."
+summary: "Есме стоїть між двома світами, тримаючи терези не для суду, а для визначення напрямку. Позаду неї — розуміння; попереду — світло можливостей. Вона більше не шукає шлях — вона сама стає шляхом. Там, де вогонь зустрічається з повітрям, а знання перетворюється на рух, під її ногами виникає невидимий міст. Це символ зрілої віри у власну траєкторію, гармонії без надії та впевненості, що ґрунтується на ясності."
+event_date: 2025-10-09T16:00:00
+publication_date: 2025-10-09T16:00:00
+date: 2025-10-09T16:00:00
+lastmod: 2026-10-09T13:35:00
+slug: 02-06-the-invisible-bridge
+tags: [ESMÉE, Дракон Рівноваги, Велична Дисципліна, Невидимий Міст, Упевненість, Нове Призначення, Внутрішня Узгодженість]
+keywords: [Есме, Невидимий Міст, Дракон Рівноваги, терези долі, траєкторія впевненості, упевненість замість мрій, довіра до себе, внутрішня узгодженість, символічне мистецтво, фантастичний світ]
+categories: [Дракон Рівноваги, Творча Міфологія]
+series: TheDragonOfBalance
+series_index: "09"
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge.webp
+alt: "Есме стоїть над туманним простором, тримаючи сяйні терези. Попереду ледь мерехтить невидимий міст, що поєднує знайомий світ за її спиною з можливостями, які відкриваються перед нею."
+related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
+authors: [Anna Pivtorak]
+draft: false
+canonical: https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/02-06-the-invisible-bridge/
+toc: true
+weight: 09
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/02-06-the-invisible-bridge/#creativework",
+  "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/02-06-the-invisible-bridge/",
+  "name": "02-06 🐉⚖️ ESMÉE. 🌀 Невидимий Міст",
+  "headline": "ESMÉE. Невидимий Міст | Дракон Рівноваги",
+  "alternativeHeadline": "Терези Нового Призначення. Де впевненість замінює мрії.",
+  "description": "Відкрийте Есме, яка стоїть між відомим і невідомим, де впевненість замінює мрії, а невидимий міст постає завдяки ясності, довірі до себе та внутрішній узгодженості з новим призначенням.",
+  "inLanguage": "uk",
+  "dateCreated": "2025-10-09T16:00:00+01:00",
+  "datePublished": "2025-10-09T16:00:00+01:00",
+  "dateModified": "2026-10-09T13:35:00+01:00",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge.webp",
+    "caption": "Есме стоїть над туманним простором, тримаючи сяйні терези. Попереду ледь мерехтить невидимий міст, що поєднує знайомий світ за її спиною з можливостями, які відкриваються перед нею."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak",
+    "url": "https://pivtorak.studio/"
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "genre": [
+    "Творче письмо",
+    "Міфологічне мистецтво",
+    "Символічне мистецтво",
+    "Духовне мистецтво"
+  ],
+  "keywords": [
+    "Есме",
+    "Невидимий Міст",
+    "Дракон Рівноваги",
+    "Велична Дисципліна",
+    "терези долі",
+    "траєкторія впевненості",
+    "довіра до себе",
+    "внутрішня узгодженість",
+    "символічне мистецтво",
+    "фантастичний світ"
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Упевненість і Довіра до Себе"
+    },
+    {
+      "@type": "Thing",
+      "name": "Особисте Призначення"
+    },
+    {
+      "@type": "Thing",
+      "name": "Внутрішня Узгодженість"
+    },
+    {
+      "@type": "Thing",
+      "name": "Перетворення Знання на Дію"
+    },
+    {
+      "@type": "Thing",
+      "name": "Дракон Рівноваги"
+    }
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Дракон Рівноваги",
+    "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/02-06-the-invisible-bridge/"
+  },
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "copyrightNotice": "© Anna Pivtorak (Kostyuk)"
+}
+</script>
 
 # 🐉⚖️ ESMÉE. 🌀 Невидимий Міст | Дракон Рівноваги
 

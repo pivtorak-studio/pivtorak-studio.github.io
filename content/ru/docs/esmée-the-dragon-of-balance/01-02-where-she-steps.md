@@ -1,15 +1,98 @@
 ---
-image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp
-title: 01.02 🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы
+id: 01-02-where-she-steps
+language: ru
+translation_of: esmée-the-dragon-of-balance-01-02-where-she-steps
+title: "01-02 🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы"
+description: "Эсме идёт по полю, покрытому пеплом, и рассыпает семена без плана и ожиданий. Там, где они касаются земли, расцветают цветы, словно сама земля вспоминает, что она жива. Она не спасает. Она сеет."
+summary: "После разрушения Эсме не приносит оружия, обещаний или требований. Она рассыпает семена в ритме собственного дыхания, и там, где они касаются земли, расцветают цветы. Её тихое присутствие знаменует переход от разрушения к жизни, от пепла к почве, от спасения к посеву."
+event_date: 2025-05-16T12:00:00
+publication_date: 2025-05-16T12:00:00
+date: 2025-05-16T12:00:00
+lastmod: 2026-10-09T12:00:00
+slug: 01-02-where-she-steps
+tags: [Эсме, Дракон Равновесия, семена жизни, цветы, обновление, возрождение, пепел, рост, мягкая сила, тихое действие, жизнь, надежда, присутствие, преображение, ненасилие]
+keywords: [Эсме Дракон Равновесия, Там где она ступает прорастают цветы, семена жизни, цветы из пепла, тихий посев, дыхание без ожиданий, мягкая сила, действие без драматизма, живая почва, сила без насилия, не спасать а сеять, Pivtorak Studio]
+categories: [The Dragon of Balance]
+series: TheDragonOfBalance
+series_index: 02
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp
+alt: "Молодая драконица идёт по серому полю, покрытому пеплом, и мягко рассыпает семена из рук. Там, где семена касаются земли, расцветают цветы, образуя естественный, хаотично разбросанный узор. Она движется плавно и спокойно дышит, продолжая идти вперёд, не оглядываясь, и безмолвно возвращая жизнь опустошённому пейзажу."
+related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
+authors: [Anna Pivtorak]
+draft: false
+canonical: https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/
+toc: true
 weight: 2
-event_date: 2025-05-16T11:00:00
-publication_date: 2025-05-16
-date: 2025-05-16
-event_type: transformation
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/#article",
+  "url": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/"
+  },
+  "headline": "01-02 🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы",
+  "description": "Эсме идёт по полю, покрытому пеплом, и рассыпает семена без плана и ожиданий. Там, где они касаются земли, расцветают цветы, словно сама земля вспоминает, что она жива. Она не спасает. Она сеет.",
+  "abstract": "После разрушения Эсме не приносит оружия, обещаний или требований. Она рассыпает семена в ритме собственного дыхания, и там, где они касаются земли, расцветают цветы. Её тихое присутствие знаменует переход от разрушения к жизни, от пепла к почве, от спасения к посеву.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp",
+    "caption": "Молодая драконица идёт по серому полю, покрытому пеплом, и рассыпает семена. Там, где они касаются земли, расцветают цветы."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "inLanguage": "ru",
+  "datePublished": "2025-05-16T12:00:00+01:00",
+  "dateModified": "2026-10-09T12:00:00+01:00",
+  "articleSection": "The Dragon of Balance",
+  "keywords": [
+    "Эсме",
+    "Дракон Равновесия",
+    "семена жизни",
+    "цветы из пепла",
+    "тихий посев",
+    "дыхание без ожиданий",
+    "мягкая сила",
+    "живая почва",
+    "сила без насилия",
+    "не спасать а сеять",
+    "Pivtorak Studio"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Dragon of Balance",
+    "identifier": "TheDragonOfBalance",
+    "url": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/"
+  },
+  "position": 2,
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>
 
 # 🐉⚖️ ESMÉE. 🌸 Там, где она ступает — прорастают цветы | Дракон Равновесия
 

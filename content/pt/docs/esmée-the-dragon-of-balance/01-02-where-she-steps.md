@@ -1,16 +1,99 @@
 ---
-image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp
-title: 01.02 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores
+id: 01-02-where-she-steps
+language: pt
+translation_of: esmée-the-dragon-of-balance-01-02-where-she-steps
+title: "01-02 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores"
+description: "Esmée caminha por um campo coberto de cinzas, espalhando sementes sem plano nem expectativa. Onde estas tocam a terra, nascem flores, como se o próprio terreno se lembrasse de estar vivo. Ela não salva. Semeia."
+summary: "Depois da destruição, Esmée não traz armas, promessas nem exigências. Espalha sementes ao ritmo da sua respiração, e flores nascem onde estas tocam a terra. A sua presença serena assinala a passagem da destruição à vida, das cinzas ao solo e do ato de salvar ao ato de semear."
+event_date: 2025-05-16T12:00:00
+publication_date: 2025-05-16T12:00:00
+date: 2025-05-16T12:00:00
+lastmod: 2026-10-09T12:00:00
+slug: 01-02-where-she-steps
+tags: [Esmée, Dragão do Equilíbrio, sementes de vida, flores, renovação, renascimento, cinzas, crescimento, força serena, ação silenciosa, vida, esperança, presença, transformação, não violência]
+keywords: [Esmée o Dragão do Equilíbrio, Onde ela pisa nascem flores, sementes de vida, flores das cinzas, sementeira silenciosa, respiração sem expectativas, força serena, ação sem dramatismo, terra viva, poder sem violência, não salvar mas semear, Pivtorak Studio]
+categories: [The Dragon of Balance]
+series: TheDragonOfBalance
+series_index: 02
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp
+alt: "Uma jovem dragão caminha por um campo cinzento coberto de cinzas, espalhando suavemente sementes com as mãos. Flores desabrocham onde as sementes tocam a terra, formando um padrão natural e disperso. Os seus movimentos são suaves e a respiração tranquila enquanto continua a caminhar sem olhar para trás, devolvendo silenciosamente a vida a uma paisagem devastada."
+related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
+authors: [Anna Pivtorak]
+draft: false
+canonical: https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/
+toc: true
 weight: 2
-event_date: 2025-05-16T11:00:00
-publication_date: 2025-05-16
-date: 2025-05-16
-event_type: transformation
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
 
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/#article",
+  "url": "https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/01-02-where-she-steps/"
+  },
+  "headline": "01-02 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores",
+  "description": "Esmée caminha por um campo coberto de cinzas, espalhando sementes sem plano nem expectativa. Onde estas tocam a terra, nascem flores, como se o próprio terreno se lembrasse de estar vivo. Ela não salva. Semeia.",
+  "abstract": "Depois da destruição, Esmée não traz armas, promessas nem exigências. Espalha sementes ao ritmo da sua respiração, e flores nascem onde estas tocam a terra. A sua presença serena assinala a passagem da destruição à vida, das cinzas ao solo e do ato de salvar ao ato de semear.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp",
+    "caption": "Uma jovem dragão caminha por um campo cinzento coberto de cinzas, espalhando sementes com as mãos. As flores desabrocham onde as sementes tocam a terra."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "inLanguage": "pt-PT",
+  "datePublished": "2025-05-16T12:00:00+01:00",
+  "dateModified": "2026-10-09T12:00:00+01:00",
+  "articleSection": "The Dragon of Balance",
+  "keywords": [
+    "Esmée",
+    "Dragão do Equilíbrio",
+    "sementes de vida",
+    "flores das cinzas",
+    "sementeira silenciosa",
+    "respiração sem expectativas",
+    "força serena",
+    "terra viva",
+    "poder sem violência",
+    "não salvar mas semear",
+    "Pivtorak Studio"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Dragon of Balance",
+    "identifier": "TheDragonOfBalance",
+    "url": "https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/"
+  },
+  "position": 2,
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>
 
 # 🐉⚖️ ESMÉE. 🌸 Onde ela pisa, nascem flores | O Dragão do Equilíbrio
 

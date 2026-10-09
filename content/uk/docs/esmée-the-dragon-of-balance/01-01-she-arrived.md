@@ -45,7 +45,7 @@ related:
   - /docs/timeline/
   - /docs/esmée-the-dragon-of-balance/
   - /chronology/
-  - /uk/archive/
+  - /archive/
 authors:
   - Anna Pivtorak
 draft: false

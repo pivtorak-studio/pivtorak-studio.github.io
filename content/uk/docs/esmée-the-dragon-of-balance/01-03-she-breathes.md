@@ -1,15 +1,100 @@
 ---
-image: /images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp
-title: 01.03 🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється
+id: 01-03-she-breathes
+language: uk
+translation_of: esmée-the-dragon-of-balance-01-03-she-breathes
+title: "01-03 🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється"
+description: "Есме спокійно стоїть у квітучій долині й дихає в напрямку майже невидимої Брами, що виникає, наче дуга світла. Вона не веде за собою, не кличе й не відкриває її. Брама просто з’являється, очікуючи на тих, хто готовий увійти."
+summary: "Світ, колись випалений, знову ожив. На галявині між пагорбами та лісом Есме дихає — і з’являється майже непомітна Брама. Вона не кличе, не дає вказівок і не вимагає доказів. Це прохід не для тих, хто шукає дозволу, а для тих, хто вже досяг внутрішньої узгодженості й готовий увійти."
+event_date: 2025-05-16T13:00:00
+publication_date: 2025-05-16T13:00:00
+date: 2025-05-16T13:00:00
+lastmod: 2026-10-09T13:00:00
+slug: 01-03-she-breathes
+tags: [Есме, Дракон Балансу, прихована Брама, поріг, дихання, присутність, внутрішня готовність, гармонія, світло, перетворення, тиха дивовижа, живий краєвид, жіноча сутність, баланс, перехід]
+keywords: [Есме Дракон Балансу, Вона дихає і Брама з’являється, прихована Брама, поріг присутності, дихання назустріч світлу, дуга світла, мовчазний поріг, прохід для готових, Брама для серця, гармонія полів, світло без заклику, внутрішня узгодженість, Pivtorak Studio]
+categories: [The Dragon of Balance]
+series: TheDragonOfBalance
+series_index: 03
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-01-03-she-breathes.webp
+alt: "Квітуча долина розкинулася між пагорбами та лісом. Трохи збоку на галявині стоїть молода дракониця з нагрудником, на якому м’яко сяє символ Терезів. Вона дивиться на майже невидиму Браму, схожу на ледь помітну дугу світла. Краєвид здається оновленим, пробудженим і спокійним, а Есме дихає, ніби простір навколо відповідає їй тим самим."
+related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
+authors: [Anna Pivtorak]
+draft: false
+canonical: https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-03-she-breathes/
+toc: true
 weight: 3
-event_date: 2025-05-16T12:00:00
-publication_date: 2025-05-16
-date: 2025-05-16
-event_type: transformation
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-03-she-breathes/#article",
+  "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-03-she-breathes/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-03-she-breathes/"
+  },
+  "headline": "01-03 🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється",
+  "description": "Есме спокійно стоїть у квітучій долині й дихає в напрямку майже невидимої Брами, що виникає, наче дуга світла. Вона не веде за собою, не кличе й не відкриває її. Брама просто з’являється, очікуючи на тих, хто готовий увійти.",
+  "abstract": "Світ, колись випалений, знову ожив. На галявині між пагорбами та лісом Есме дихає — і з’являється майже непомітна Брама. Вона не кличе, не дає вказівок і не вимагає доказів. Це прохід не для тих, хто шукає дозволу, а для тих, хто вже досяг внутрішньої узгодженості й готовий увійти.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-03-she-breathes.webp",
+    "caption": "Молода дракониця стоїть у квітучій долині й дивиться на майже невидиму Браму, схожу на ледь помітну дугу світла. Есме дихає, ніби простір навколо відповідає їй тим самим."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "inLanguage": "uk",
+  "datePublished": "2025-05-16T13:00:00+01:00",
+  "dateModified": "2026-10-09T13:00:00+01:00",
+  "articleSection": "The Dragon of Balance",
+  "keywords": [
+    "Есме",
+    "Дракон Балансу",
+    "прихована Брама",
+    "поріг присутності",
+    "дихання назустріч світлу",
+    "дуга світла",
+    "мовчазний поріг",
+    "прохід для готових",
+    "Брама для серця",
+    "гармонія полів",
+    "світло без заклику",
+    "внутрішня узгодженість",
+    "Pivtorak Studio"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Dragon of Balance",
+    "identifier": "TheDragonOfBalance",
+    "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/"
+  },
+  "position": 3,
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>
 
 # 🐉⚖️ ESMÉE. 🌈 Вона не відкриває Браму. Вона дихає — і брама з’являється | Дракон Рівноваги
 

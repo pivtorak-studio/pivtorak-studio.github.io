@@ -1,14 +1,100 @@
 ---
-image: /images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp
-title: 01.03 🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются
+id: 01-03-she-breathes
+language: ru
+translation_of: esmée-the-dragon-of-balance-01-03-she-breathes
+title: "01-03 🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются"
+description: "Эсме спокойно стоит в цветущей долине и дышит в направлении почти невидимых Врат, возникающих подобно дуге света. Она не ведёт за собой, не призывает и не открывает их. Врата просто появляются, ожидая тех, кто готов войти."
+summary: "Мир, некогда выжженный, вновь ожил. На поляне между холмами и лесом Эсме дышит — и появляются почти незаметные Врата. Они не зовут, не дают указаний и не требуют доказательств. Это проход не для тех, кто ищет разрешения, а для тех, кто уже обрёл внутреннее согласие и готов войти."
+event_date: 2025-05-16T13:00:00
+publication_date: 2025-05-16T13:00:00
+date: 2025-05-16T13:00:00
+lastmod: 2026-10-09T13:00:00
+slug: 01-03-she-breathes
+tags: [Эсме, Дракон Равновесия, скрытые Врата, порог, дыхание, присутствие, внутренняя готовность, гармония, свет, преображение, тихое чудо, живой ландшафт, женская сущность, равновесие, переход]
+keywords: [Эсме Дракон Равновесия, Она дышит и Врата появляются, скрытые Врата, порог присутствия, дыхание навстречу свету, дуга света, безмолвный порог, проход для готовых, Врата для сердца, гармония полей, свет без призыва, внутреннее согласие, Pivtorak Studio]
+categories: [The Dragon of Balance]
+series: TheDragonOfBalance
+series_index: 03
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-01-03-she-breathes.webp
+alt: "Цветущая долина расположена между холмами и лесом. Чуть в стороне на поляне стоит молодая драконица с мягко светящимся нагрудником, украшенным символом Весов. Она смотрит на почти невидимые Врата, похожие на едва различимую дугу света. Пейзаж кажется обновлённым, пробуждённым и спокойным, а Эсме дышит, словно пространство вокруг отвечает ей тем же."
+related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
+authors: [Anna Pivtorak]
+draft: false
+canonical: https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-03-she-breathes/
+toc: true
 weight: 3
-event_date: 2025-05-16T12:00:00
-publication_date: 2025-05-16
-date: 2025-05-16
-event_type: transformation
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-03-she-breathes/#article",
+  "url": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-03-she-breathes/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-03-she-breathes/"
+  },
+  "headline": "01-03 🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются",
+  "description": "Эсме спокойно стоит в цветущей долине и дышит в направлении почти невидимых Врат, возникающих подобно дуге света. Она не ведёт за собой, не призывает и не открывает их. Врата просто появляются, ожидая тех, кто готов войти.",
+  "abstract": "Мир, некогда выжженный, вновь ожил. На поляне между холмами и лесом Эсме дышит — и появляются почти незаметные Врата. Они не зовут, не дают указаний и не требуют доказательств. Это проход не для тех, кто ищет разрешения, а для тех, кто уже обрёл внутреннее согласие и готов войти.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-03-she-breathes.webp",
+    "caption": "Молодая драконица стоит в цветущей долине и смотрит на почти невидимые Врата, похожие на едва различимую дугу света. Эсме дышит, словно пространство вокруг отвечает ей тем же."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "inLanguage": "ru",
+  "datePublished": "2025-05-16T13:00:00+01:00",
+  "dateModified": "2026-10-09T13:00:00+01:00",
+  "articleSection": "The Dragon of Balance",
+  "keywords": [
+    "Эсме",
+    "Дракон Равновесия",
+    "скрытые Врата",
+    "порог присутствия",
+    "дыхание навстречу свету",
+    "дуга света",
+    "безмолвный порог",
+    "проход для готовых",
+    "Врата для сердца",
+    "гармония полей",
+    "свет без призыва",
+    "внутреннее согласие",
+    "Pivtorak Studio"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Dragon of Balance",
+    "identifier": "TheDragonOfBalance",
+    "url": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/"
+  },
+  "position": 3,
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>
 
 # 🐉⚖️ ESMÉE. 🌈 Она не открывает Врата. Она дышит — и они появляются  | Дракон Равновесия
 

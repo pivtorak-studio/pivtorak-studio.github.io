@@ -14,7 +14,7 @@ tags: [ESMÉE, Дракон Рівноваги, Велична Дисциплі�
 keywords: [Есме, Невидимий Міст, Дракон Рівноваги, терези долі, траєкторія впевненості, упевненість замість мрій, довіра до себе, внутрішня узгодженість, символічне мистецтво, фантастичний світ]
 categories: [Дракон Рівноваги, Творча Міфологія]
 series: TheDragonOfBalance
-series_index: 09
+series_index: 9
 research_origin: pivtorak.studio
 status: published
 featured: true

@@ -1,0 +1,18 @@
+
+{{- $pages := .Page.Pages -}}
+{{- if .Page.Params.series -}}
+  {{- $pages = sort $pages "Params.series_index" "asc" -}}
+{{- end -}}
+
+<dl>
+{{ range $pages }}
+  <dt>
+    <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
+  </dt>
+  {{ if (in $.Params "summary") -}}
+  <dd class="markdown-inner">
+    {{- or .Description .Summary site.Params.description | plainify | htmlUnescape }}
+  </dd>
+  {{ end -}}
+{{ end }}
+</dl>

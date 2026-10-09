@@ -14,7 +14,7 @@ tags: [Esmée, Dragon of Balance, seeds of life, flowers, renewal, rebirth, ash,
 keywords: [Esmée the Dragon of Balance, Where she steps flowers grow, seeds of life, flowers from ashes, silent sowing, breath without expectation, gentle strength, action without drama, living soil, power without violence, not saving but sowing, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 02
+series_index: 2
 research_origin: pivtorak.studio
 status: published
 featured: true

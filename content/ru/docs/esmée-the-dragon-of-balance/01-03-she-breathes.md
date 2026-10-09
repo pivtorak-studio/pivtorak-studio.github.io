@@ -14,7 +14,7 @@ tags: [Эсме, Дракон Равновесия, скрытые Врата, �
 keywords: [Эсме Дракон Равновесия, Она дышит и Врата появляются, скрытые Врата, порог присутствия, дыхание навстречу свету, дуга света, безмолвный порог, проход для готовых, Врата для сердца, гармония полей, свет без призыва, внутреннее согласие, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 03
+series_index: 3
 research_origin: pivtorak.studio
 status: published
 featured: true

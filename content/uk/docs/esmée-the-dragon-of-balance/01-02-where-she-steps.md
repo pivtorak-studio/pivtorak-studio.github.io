@@ -14,7 +14,7 @@ tags: [Есме, Дракон Балансу, насіння життя, кві�
 keywords: [Есме Дракон Балансу, Де вона ступає там ростуть квіти, насіння життя, квіти з попелу, тихе засівання, дихання без очікувань, м’яка сила, дія без драматизму, живий ґрунт, сила без насильства, не рятувати а сіяти, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 02
+series_index: 2
 research_origin: pivtorak.studio
 status: published
 featured: true

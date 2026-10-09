@@ -14,7 +14,7 @@ tags: [Esmée, Dragão do Equilíbrio, Portal oculto, limiar, respiração, pres
 keywords: [Esmée o Dragão do Equilíbrio, Ela respira e o Portal aparece, Portal oculto, limiar da presença, respiração em direção à luz, arco de luz, limiar silencioso, passagem para quem está preparado, Portal para o coração, harmonia dos campos, luz sem convocação, alinhamento interior, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 03
+series_index: 3
 research_origin: pivtorak.studio
 status: published
 featured: true

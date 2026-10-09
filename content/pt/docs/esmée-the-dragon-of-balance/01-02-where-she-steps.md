@@ -14,7 +14,7 @@ tags: [Esmée, Dragão do Equilíbrio, sementes de vida, flores, renovação, re
 keywords: [Esmée o Dragão do Equilíbrio, Onde ela pisa nascem flores, sementes de vida, flores das cinzas, sementeira silenciosa, respiração sem expectativas, força serena, ação sem dramatismo, terra viva, poder sem violência, não salvar mas semear, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 02
+series_index: 2
 research_origin: pivtorak.studio
 status: published
 featured: true

@@ -14,7 +14,7 @@ tags: [Эсме, Дракон Равновесия, семена жизни, ц�
 keywords: [Эсме Дракон Равновесия, Там где она ступает прорастают цветы, семена жизни, цветы из пепла, тихий посев, дыхание без ожиданий, мягкая сила, действие без драматизма, живая почва, сила без насилия, не спасать а сеять, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 02
+series_index: 2
 research_origin: pivtorak.studio
 status: published
 featured: true

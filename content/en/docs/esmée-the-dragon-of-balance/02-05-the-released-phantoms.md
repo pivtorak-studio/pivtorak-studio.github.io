@@ -14,7 +14,7 @@ tags: [Esmée, The Dragon of Balance, The Released Phantoms, Released Phantom No
 keywords: [Esmée, The Dragon of Balance, The Released Phantoms, alchemy of memory, released phantom nodes, transforming fear into knowledge, memory and healing, analytical awareness, trauma into clarity, understanding the past, symbolic structures, patterns of control, transformation through knowledge, architecture of awareness, creative myth]
 categories: [The Dragon of Balance, Creative Works]
 series: TheDragonOfBalance
-series_index: 08
+series_index: 8
 research_origin: pivtorak.studio
 status: published
 featured: true

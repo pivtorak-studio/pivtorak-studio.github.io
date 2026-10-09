@@ -14,7 +14,7 @@ tags: [Есме, Дракон Балансу, прихована Брама, п�
 keywords: [Есме Дракон Балансу, Вона дихає і Брама з’являється, прихована Брама, поріг присутності, дихання назустріч світлу, дуга світла, мовчазний поріг, прохід для готових, Брама для серця, гармонія полів, світло без заклику, внутрішня узгодженість, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 03
+series_index: 3
 research_origin: pivtorak.studio
 status: published
 featured: true

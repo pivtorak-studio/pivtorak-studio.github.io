@@ -42,7 +42,7 @@ categories:
   - Дракон Рівноваги
   - Творчі Роботи
 series: TheDragonOfBalance
-series_index: 04
+series_index: 4
 research_origin: pivtorak.studio
 status: published
 featured: true

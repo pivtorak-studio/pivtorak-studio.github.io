@@ -14,7 +14,7 @@ tags: [Esmée, O Dragão do Equilíbrio, Presença Pacífica, Vida Pacífica, Fo
 keywords: [Esmée, O Dragão do Equilíbrio, Presença Pacífica, força gentil, quietude pacífica, paz interior, harmonia natural, presença consciente, confiança e vulnerabilidade, harmonia com a natureza, repouso restaurador, mito vivo, vida pacífica, alma desperta, calma e luz]
 categories: [O Dragão do Equilíbrio, Obras Criativas]
 series: TheDragonOfBalance
-series_index: 07
+series_index: 7
 research_origin: pivtorak.studio
 status: published
 featured: true

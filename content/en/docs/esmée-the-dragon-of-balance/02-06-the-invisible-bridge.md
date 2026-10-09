@@ -14,7 +14,7 @@ tags: [ESMÉE, The Dragon of Balance, The Majestic Discipline, Invisible Bridge,
 keywords: [Esmée, The Invisible Bridge, The Dragon of Balance, scales of destiny, trajectory of confidence, confidence over dreams, self-trust, inner alignment, symbolic art, whimsical world]
 categories: [The Dragon of Balance, Creative Mythology]
 series: TheDragonOfBalance
-series_index: 09
+series_index: 9
 research_origin: pivtorak.studio
 status: published
 featured: true

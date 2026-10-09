@@ -14,7 +14,7 @@ tags: [Esmée, Dragon of Balance, hidden Gate, threshold, breath, presence, inne
 keywords: [Esmée the Dragon of Balance, She breathes and the Gate appears, hidden Gate, threshold of presence, breath into light, arc of light, silent threshold, passage for the ready, Gate for the heart, harmony of fields, light without summons, inner alignment, Pivtorak Studio]
 categories: [The Dragon of Balance]
 series: TheDragonOfBalance
-series_index: 03
+series_index: 3
 research_origin: pivtorak.studio
 status: published
 featured: true

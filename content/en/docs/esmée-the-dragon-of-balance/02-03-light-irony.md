@@ -14,7 +14,7 @@ tags: [Esmée, The Dragon of Balance, Light Irony, Living Myth, Creative Wisdom,
 keywords: [Esmée, The Dragon of Balance, Light Irony, wisdom through humour, embracing imperfection, playful wisdom, inner smile, joyful awareness, harmony in chaos, lightness and power, gentle irony, creative wisdom, living myth, whimsical fantasy, acceptance and joy]
 categories: [The Dragon of Balance, Creative Works]
 series: TheDragonOfBalance
-series_index: 06
+series_index: 6
 research_origin: pivtorak.studio
 status: published
 featured: true

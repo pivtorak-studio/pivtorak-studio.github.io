@@ -14,7 +14,7 @@ tags: [ESMÉE, Дракон Равновесия, Величественная �
 keywords: [Эсме, Невидимый Мост, Дракон Равновесия, весы судьбы, траектория уверенности, уверенность вместо мечтаний, доверие к себе, внутренняя согласованность, символическое искусство, фантастический мир]
 categories: [Дракон Равновесия, Творческая Мифология]
 series: TheDragonOfBalance
-series_index: 09
+series_index: 9
 research_origin: pivtorak.studio
 status: published
 featured: true

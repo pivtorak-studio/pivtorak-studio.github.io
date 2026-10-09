@@ -14,7 +14,7 @@ tags: [Esmée, O Dragão do Equilíbrio, Os Fantasmas Desmascarados, Nós Fantas
 keywords: [Esmée, O Dragão do Equilíbrio, Os Fantasmas Desmascarados, alquimia da memória, nós fantasmáticos libertados, transformar o medo em conhecimento, memória e cura, consciência analítica, transformar trauma em clareza, compreender o passado, estruturas simbólicas, padrões de controlo, transformação através do conhecimento, arquitetura da consciência, mito criativo]
 categories: [O Dragão do Equilíbrio, Obras Criativas]
 series: TheDragonOfBalance
-series_index: 08
+series_index: 8
 research_origin: pivtorak.studio
 status: published
 featured: true

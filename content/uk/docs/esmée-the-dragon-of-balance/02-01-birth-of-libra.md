@@ -146,7 +146,7 @@ visual_archive: true
 }
 </script>
 
-# 🐉⚖️ ESMÉE.🌀 Народження Ваги | Дракон Рівноваги
+# 🐉⚖️ ESMÉE. 🌀 Народження Ваги | Дракон Рівноваги
 
 ![🐉⚖️ ESMÉE. 🌀 Народження Ваги](/images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp)
 

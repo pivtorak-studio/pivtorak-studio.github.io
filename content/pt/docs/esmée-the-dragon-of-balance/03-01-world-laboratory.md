@@ -125,7 +125,7 @@ visual_archive: true
 }
 </script>
 
-## 🐉⚖️ ESMÉE. ✯ Laboratório dos Mundos | O Dragão do Equilíbrio
+# 🐉⚖️ ESMÉE. ✯ Laboratório dos Mundos | O Dragão do Equilíbrio
 
 ![_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Laboratório dos Mundos. AP | Pivtorak.Studio. 09.10.2026_ © Anna Pivtorak (Kostyuk)](/images/esmée-the-dragon-of-balance-03-01-world-laboratory.webp)
 

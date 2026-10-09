@@ -125,7 +125,7 @@ visual_archive: true
 }
 </script>
 
-## 🐉⚖️ ESMÉE. ✯ World Laboratory | The Dragon of Balance
+# 🐉⚖️ ESMÉE. ✯ World Laboratory | The Dragon of Balance
 
 ![_The Dragon of Balance. 🐉⚖️ ESMÉE. World Laboratory. AP | Pivtorak.Studio. 09.10.2026_ © Anna Pivtorak (Kostyuk)](/images/esmée-the-dragon-of-balance-03-01-world-laboratory.webp)
 

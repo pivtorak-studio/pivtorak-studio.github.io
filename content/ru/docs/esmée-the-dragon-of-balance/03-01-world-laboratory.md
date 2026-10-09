@@ -124,7 +124,7 @@ visual_archive: true
 }
 </script>
 
-## 🐉⚖️ ESMÉE. ✯ Лаборатория Миров | Дракон Равновесия
+# 🐉⚖️ ESMÉE. ✯ Лаборатория Миров | Дракон Равновесия
 
 ![_Дракон Равновесия. 🐉⚖️ ESMÉE. ✯ Лаборатория Миров. AP | Pivtorak.Studio. 09.10.2026_ © Анна Пивторак (Костюк)](/images/esmée-the-dragon-of-balance-03-01-world-laboratory.webp)
 

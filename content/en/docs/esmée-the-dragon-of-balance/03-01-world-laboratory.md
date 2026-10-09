@@ -5,14 +5,42 @@ translation_of: esmée-the-dragon-of-balance-03-01-world-laboratory
 title: 03-01 🐉⚖️ ESMÉE. ✯ World Laboratory
 description: ESMÉE enters the first chamber of her underground laboratory, where fragments, structures, knowledge, and connections gradually become worlds.
 summary: The first chamber of ESMÉE's laboratory is a place where scattered fragments discover their connections and begin to form worlds.
-event_date: 2026-10-09T03:00:00
-publication_date: 2026-10-09T03:00:00
-date: 2026-10-09T03:00:00
-lastmod: 2026-10-09T03:00:00
+event_date: 2026-10-09T03:00:00+01:00
+publication_date: 2026-10-09T03:00:00+01:00
+date: 2026-10-09T03:00:00+01:00
+lastmod: 2026-10-09T03:00:00+01:00
 slug: 03-01-world-laboratory
-tags: [ESMÉE, Dragon of Balance, World Laboratory, world-building, architecture, structure, knowledge, languages, archive, visual archive, series, connections, creative process]
-keywords: [ESMÉE, Dragon of Balance, World Laboratory, world-building, architecture, structure, knowledge, languages, archive, visual archive, connections, creative process]
-categories: [The Dragon of Balance, Creative Process, World-Building]
+tags:
+  - ESMÉE
+  - Dragon of Balance
+  - World Laboratory
+  - world-building
+  - architecture
+  - structure
+  - knowledge
+  - languages
+  - archive
+  - visual archive
+  - series
+  - connections
+  - creative process
+keywords:
+  - ESMÉE
+  - Dragon of Balance
+  - World Laboratory
+  - world-building
+  - architecture
+  - structure
+  - knowledge
+  - languages
+  - archive
+  - visual archive
+  - connections
+  - creative process
+categories:
+  - The Dragon of Balance
+  - Creative Process
+  - World-Building
 series: TheDragonOfBalance
 series_index: 10
 research_origin: pivtorak.studio
@@ -20,8 +48,11 @@ status: published
 featured: true
 image: /images/esmée-the-dragon-of-balance-03-01-world-laboratory.webp
 alt: ESMÉE, the Dragon-Girl with long wavy hair, two curved golden-brown dragon horns, a distinctive dragon ear, scaled skin, and dragon hands, stands in the first chamber of her enormous underground laboratory. She is beside a large stone worktable covered with maps, diagrams, books, mechanical instruments, geometric puzzles, and glowing sapphires. Warm golden light from lamps and candles mixes with the sapphire-blue glow of crystals throughout the cavern. Stone arches, bridges, waterfalls, suspended mechanisms, and distant laboratory structures dissolve into the vast underground space. The scene combines ancient stone architecture with subtle elements of cybernetics and science, creating the feeling of a hidden laboratory where worlds are projected, connected, and assembled into a whole.
-related: [03-02-problem-laboratory, 03-03-destiny-laboratory]
-authors: [Anna Pivtorak]
+related:
+  - 03-02-problem-laboratory
+  - 03-03-destiny-laboratory
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/03-01-world-laboratory/
 toc: true

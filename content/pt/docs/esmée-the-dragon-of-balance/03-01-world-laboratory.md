@@ -5,14 +5,42 @@ translation_of: esmée-the-dragon-of-balance-03-01-world-laboratory
 title: 03-01 🐉⚖️ ESMÉE. ✯ Laboratório dos Mundos
 description: ESMÉE entra na primeira câmara do seu laboratório subterrâneo, onde fragmentos, estruturas, conhecimento e ligações se transformam gradualmente em mundos.
 summary: A primeira câmara do laboratório de ESMÉE é um lugar onde fragmentos dispersos descobrem as suas ligações e começam a formar mundos.
-event_date: 2026-10-09T03:00:00
-publication_date: 2026-10-09T03:00:00
-date: 2026-10-09T03:00:00
-lastmod: 2026-10-09T03:00:00
+event_date: 2026-10-09T03:00:00+01:00
+publication_date: 2026-10-09T03:00:00+01:00
+date: 2026-10-09T03:00:00+01:00
+lastmod: 2026-10-09T03:00:00+01:00
 slug: 03-01-world-laboratory
-tags: [ESMÉE, Dragão do Equilíbrio, Laboratório dos Mundos, criação de mundos, arquitetura, estrutura, conhecimento, línguas, arquivo, arquivo visual, séries, ligações, processo criativo]
-keywords: [ESMÉE, Dragão do Equilíbrio, Laboratório dos Mundos, criação de mundos, arquitetura, estrutura, conhecimento, línguas, arquivo, arquivo visual, ligações, processo criativo]
-categories: [Dragão do Equilíbrio, Processo Criativo, Criação de Mundos]
+tags:
+  - ESMÉE
+  - Dragão do Equilíbrio
+  - Laboratório dos Mundos
+  - criação de mundos
+  - arquitetura
+  - estrutura
+  - conhecimento
+  - línguas
+  - arquivo
+  - arquivo visual
+  - séries
+  - ligações
+  - processo criativo
+keywords:
+  - ESMÉE
+  - Dragão do Equilíbrio
+  - Laboratório dos Mundos
+  - criação de mundos
+  - arquitetura
+  - estrutura
+  - conhecimento
+  - línguas
+  - arquivo
+  - arquivo visual
+  - ligações
+  - processo criativo
+categories:
+  - Dragão do Equilíbrio
+  - Processo Criativo
+  - Criação de Mundos
 series: TheDragonOfBalance
 series_index: 10
 research_origin: pivtorak.studio
@@ -20,8 +48,11 @@ status: published
 featured: true
 image: /images/esmée-the-dragon-of-balance-03-01-world-laboratory.webp
 alt: ESMÉE, a Rapariga-Dragão com cabelo longo e ondulado, dois chifres de dragão curvos em tons de dourado e castanho, uma característica orelha de dragão, pele escamada e mãos de dragão, encontra-se na primeira câmara do seu enorme laboratório subterrâneo. Está junto a uma grande mesa de trabalho em pedra, coberta de mapas, esquemas, livros, instrumentos mecânicos, puzzles geométricos e safiras luminosas. A luz dourada e quente das lâmpadas e velas mistura-se com o brilho azul-safira dos cristais por toda a gruta. Ao fundo, arcos de pedra, pontes, cascatas, mecanismos suspensos e estruturas laboratoriais distantes dissolvem-se no imenso espaço subterrâneo. A cena combina arquitetura ancestral em pedra com elementos subtis de cibernética e ciência, criando a sensação de um laboratório oculto onde os mundos são projetados, ligados e reunidos num todo.
-related: [03-02-problem-laboratory, 03-03-destiny-laboratory]
-authors: [Anna Pivtorak]
+related:
+  - 03-02-problem-laboratory
+  - 03-03-destiny-laboratory
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/03-01-world-laboratory/
 toc: true

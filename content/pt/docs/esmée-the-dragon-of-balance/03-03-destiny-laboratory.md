@@ -5,14 +5,49 @@ translation_of: esmée-the-dragon-of-balance-03-03-destiny-laboratory
 title: 03-03 🐉⚖️ ESMÉE. ✯ Laboratório do Destino
 description: ESMÉE entra na terceira câmara do seu laboratório subterrâneo, onde aquilo que outrora parecia ameaçador regressa como energia, força e um fogo que aprendeu a segurar.
 summary: A terceira câmara é um lugar de regresso e transformação, onde 3 + 3 = 6 se torna um código silencioso do destino e o fogo se transforma em energia controlada em vez de perigo.
-event_date: 2026-10-09T09:00:00
-publication_date: 2026-10-09T09:00:00
-date: 2026-10-09T09:00:00
-lastmod: 2026-10-09T09:00:00
+event_date: 2026-10-09T09:00:00+01:00
+publication_date: 2026-10-09T09:00:00+01:00
+date: 2026-10-09T09:00:00+01:00
+lastmod: 2026-10-09T09:00:00+01:00
 slug: 03-03-destiny-laboratory
-tags: [ESMÉE, Dragão do Equilíbrio, Laboratório do Destino, destino, 3+3=6, seis, regresso, aceitação, vermelho, rubi, fogo, energia, força, transformação, vida, liberdade]
-keywords: [ESMÉE, Dragão do Equilíbrio, Laboratório do Destino, destino, 3+3=6, seis, regresso, aceitação, vermelho, rubi, fogo, energia controlada, força, transformação, vida, liberdade]
-categories: [Dragão do Equilíbrio, Processo Criativo, Destino e Transformação]
+tags:
+  - ESMÉE
+  - Dragão do Equilíbrio
+  - Laboratório do Destino
+  - destino
+  - 3+3=6
+  - seis
+  - regresso
+  - aceitação
+  - vermelho
+  - rubi
+  - fogo
+  - energia
+  - força
+  - transformação
+  - vida
+  - liberdade
+keywords:
+  - ESMÉE
+  - Dragão do Equilíbrio
+  - Laboratório do Destino
+  - destino
+  - 3+3=6
+  - seis
+  - regresso
+  - aceitação
+  - vermelho
+  - rubi
+  - fogo
+  - energia controlada
+  - força
+  - transformação
+  - vida
+  - liberdade
+categories:
+  - Dragão do Equilíbrio
+  - Processo Criativo
+  - Destino e Transformação
 series: TheDragonOfBalance
 series_index: 12
 research_origin: pivtorak.studio
@@ -20,8 +55,11 @@ status: published
 featured: true
 image: /images/esmée-the-dragon-of-balance-03-03-destiny-laboratory.webp
 alt: ESMÉE, a Rapariga-Dragão com cabelo escuro, ondulado e até às omoplatas, dois chifres de dragão curvos em tons de dourado e castanho, uma característica orelha de dragão, pele escamada, mãos de dragão, asas e uma cauda que se prolonga naturalmente na estrutura do vestido, encontra-se na terceira câmara do seu enorme laboratório subterrâneo. A câmara é mais ampla e está mais próxima de uma abertura, sugerindo uma passagem para o exterior. Cristais vermelhos de rubi iluminam a gruta com um brilho quente e profundo, misturando-se com luz dourada suave, água, pedra e grandes formas orgânicas. ESMÉE segura uma camada controlada de fogo numa das suas mãos de dragão, em vez de expelir chamas. O fogo não a queima; repousa calmamente na sua mão como símbolo de energia e força controladas. A sua natureza de dragão e a sua forma humana aparecem naturalmente integradas, com a cauda a tornar-se parte do vestido. A cena combina arquitetura ancestral em pedra, água, cristais de rubi, formas orgânicas e elementos científicos subtis, criando uma sensação de transformação, aceitação, liberdade e regresso em direção à luz.
-related: [03-01-world-laboratory, 03-02-problem-laboratory]
-authors: [Anna Pivtorak]
+related:
+  - 03-01-world-laboratory
+  - 03-02-problem-laboratory
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/03-03-destiny-laboratory/
 toc: true

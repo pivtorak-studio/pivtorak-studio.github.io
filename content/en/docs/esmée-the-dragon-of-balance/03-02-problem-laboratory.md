@@ -5,14 +5,45 @@ translation_of: esmée-the-dragon-of-balance-03-02-problem-laboratory
 title: 03-02 🐉⚖️ ESMÉE. ✯ Problem Laboratory
 description: ESMÉE enters the second chamber of her underground laboratory, where complex problems are explored through experiments, connections, mechanisms, and the patient construction of a path toward an answer.
 summary: The second chamber is a laboratory of problem solving, where the answer is not given but gradually built through logic, experimentation, connections, and persistence.
-event_date: 2026-10-09T06:00:00
-publication_date: 2026-10-09T06:00:00
-date: 2026-10-09T06:00:00
-lastmod: 2026-10-09T06:00:00
+event_date: 2026-10-09T06:00:00+01:00
+publication_date: 2026-10-09T06:00:00+01:00
+date: 2026-10-09T06:00:00+01:00
+lastmod: 2026-10-09T06:00:00+01:00
 slug: 03-02-problem-laboratory
-tags: [ESMÉE, Dragon of Balance, Problem Laboratory, problem solving, complexity, process, logic, experimentation, mechanisms, connections, transformation, amethyst, answer, creative process]
-keywords: [ESMÉE, Dragon of Balance, Problem Laboratory, problem solving, complexity, solving process, logic, experimentation, mechanisms, connections, transformation, amethyst, answer, creative process]
-categories: [The Dragon of Balance, Creative Process, Problem Solving]
+tags:
+  - ESMÉE
+  - Dragon of Balance
+  - Problem Laboratory
+  - problem solving
+  - complexity
+  - process
+  - logic
+  - experimentation
+  - mechanisms
+  - connections
+  - transformation
+  - amethyst
+  - answer
+  - creative process
+keywords:
+  - ESMÉE
+  - Dragon of Balance
+  - Problem Laboratory
+  - problem solving
+  - complexity
+  - solving process
+  - logic
+  - experimentation
+  - mechanisms
+  - connections
+  - transformation
+  - amethyst
+  - answer
+  - creative process
+categories:
+  - The Dragon of Balance
+  - Creative Process
+  - Problem Solving
 series: TheDragonOfBalance
 series_index: 11
 research_origin: pivtorak.studio
@@ -20,8 +51,11 @@ status: published
 featured: true
 image: /images/esmée-the-dragon-of-balance-03-02-problem-laboratory.webp
 alt: ESMÉE, the Dragon-Girl with long wavy dark hair, two curved golden-brown dragon horns, a distinctive dragon ear, scaled skin, dragon hands, wings, and a tail integrated into her dress, enters the second chamber of her enormous underground laboratory. The scene is viewed from a different, more distant angle within the same subterranean system. A large worktable is covered with puzzles, diagrams, mechanical structures, symbols, interconnected elements, tools, and fragments of problems whose relationships are not yet obvious. Amethyst crystals cast a deep purple glow across the chamber, blending with subtle warm light from the laboratory. Around ESMÉE, mechanisms, drawings, geometric constructions, and unfinished structures suggest a complex problem-solving process rather than a finished answer. She approaches the table with her tools, preparing to examine, connect, test, and reconstruct the elements before her. The scene combines ancient stone architecture with subtle scientific and mechanical details, creating the feeling of a hidden laboratory dedicated to the process of solving complex problems.
-related: [03-01-world-laboratory, 03-03-destiny-laboratory]
-authors: [Anna Pivtorak]
+related:
+  - 03-01-world-laboratory
+  - 03-03-destiny-laboratory
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/03-02-problem-laboratory/
 toc: true

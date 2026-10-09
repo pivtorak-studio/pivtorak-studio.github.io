@@ -1,15 +1,121 @@
 ---
-image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
-title: 01.01 🐉⚖️ ESMÉE. 📍Она прибыла. И этого достаточно
+id: 01-01-she-arrived
+language: ru
+translation_of: esmée-the-dragon-of-balance-01-01-she-arrived
+title: 01-01 🐉⚖️ ESMÉE. 📍Она прибыла. И этого достаточно
+description: Эсме, Дракон Равновесия, появляется после того, как всё сгорело. У неё нет медалей, права на месть и желания судить. Весы внутри неё живы и откликаются на ложь, уклонение от ответственности и молчание там, где необходима правда.
+summary: Эсме здесь. Не как замена, обещание или триумф, а как тихое присутствие, чьи живые весы реагируют на обман, бездействие и отсутствие правды. Она ничего не требует, но видит всё.
+event_date: 2025-05-16T11:00:00
+publication_date: 2025-05-16T11:00:00
+date: 2025-05-16T11:00:00
+lastmod: 2026-10-09T11:00:00
+slug: 01-01-she-arrived
+tags:
+  - Эсме
+  - Дракон Равновесия
+  - прибытие
+  - правда
+  - справедливость
+  - равновесие
+  - присутствие
+  - мягкая сила
+  - ответственность
+  - новое начало
+keywords:
+  - Эсме Дракон Равновесия
+  - Она прибыла и этого достаточно
+  - Дракон Равновесия
+  - живые весы
+  - дыхание правды
+  - справедливость и доброта
+  - сила присутствия
+  - свет без приказа
+  - ответственность
+  - Pivtorak Studio
+categories:
+  - The Dragon of Balance
+series: TheDragonOfBalance
+series_index: 1
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived.webp
+alt: Молодая драконица в европейском стиле с мягкими чертами лица и выразительными глазами стоит под дождём на выжженном поле. На её груди сияет светлый нагрудник с символом Весов. Спокойная поза, мягкое дыхание и уверенный взгляд передают тихую силу и ощущение начала чего-то значимого.
+related:
+  - /chronology/
+  - /docs/timeline/
+  - /ru/archive/
+  - /docs/esmée-the-dragon-of-balance/
+authors:
+  - Anna Pivtorak
+draft: false
+canonical: https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-01-she-arrived/
+toc: true
 weight: 1
-event_date: 2025-05-16T10:00:00
-publication_date: 2025-05-16
-date: 2025-05-16
-event_type: transformation
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-01-she-arrived/#article",
+  "url": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-01-she-arrived/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/01-01-she-arrived/"
+  },
+  "headline": "01-01 🐉⚖️ ESMÉE. 📍Она прибыла. И этого достаточно",
+  "description": "Эсме, Дракон Равновесия, появляется после того, как всё сгорело. У неё нет медалей, права на месть и желания судить. Весы внутри неё живы и откликаются на ложь, уклонение от ответственности и молчание там, где необходима правда.",
+  "abstract": "Эсме здесь. Не как замена, обещание или триумф, а как тихое присутствие, чьи живые весы реагируют на обман, бездействие и отсутствие правды. Она ничего не требует, но видит всё.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-01-she-arrived.webp",
+    "caption": "Молодая драконица в европейском стиле стоит под дождём на выжженном поле. На её груди сияет нагрудник с символом Весов."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "inLanguage": "ru",
+  "datePublished": "2025-05-16T11:00:00+01:00",
+  "dateModified": "2026-10-09T11:00:00+01:00",
+  "articleSection": "The Dragon of Balance",
+  "keywords": [
+    "Эсме Дракон Равновесия",
+    "Она прибыла и этого достаточно",
+    "живые весы",
+    "дыхание правды",
+    "справедливость и доброта",
+    "сила присутствия",
+    "мягкая сила",
+    "ответственность",
+    "Pivtorak Studio"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Dragon of Balance",
+    "url": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/"
+  },
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>
 
 # 🐉⚖️ ESMÉE.📍Она прибыла. И этого достаточно | Дракон Равновесия
 

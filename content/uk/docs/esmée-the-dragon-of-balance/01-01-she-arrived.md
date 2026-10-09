@@ -1,15 +1,120 @@
 ---
-image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
-title: 01.01 🐉⚖️ ESMÉE. 📍Вона прибула. І цього достатньо
+id: 01-01-she-arrived
+language: uk
+translation_of: esmée-the-dragon-of-balance-01-01-she-arrived
+title: 01-01 🐉⚖️ ESMÉE. 📍Вона прибула. І цього достатньо
+description: Есме, Дракон Балансу, з’являється після того, як усе згоріло. У неї немає медалей, права на помсту чи бажання судити. Терези всередині неї живі й відгукуються на брехню, ухилення від відповідальності та мовчання там, де потрібна правда.
+summary: Есме тут. Не як заміна, обіцянка чи тріумф, а як тиха присутність, чиї живі терези реагують на обман, бездіяльність і відсутність правди. Вона нічого не вимагає, але бачить усе.
+event_date: 2025-05-16T11:00:00
+publication_date: 2025-05-16T11:00:00
+date: 2025-05-16T11:00:00
+lastmod: 2026-10-09T11:00:00
+slug: 01-01-she-arrived
+tags:
+  - Есме
+  - Дракон Балансу
+  - прибуття
+  - правда
+  - справедливість
+  - баланс
+  - присутність
+  - м’яка сила
+  - відповідальність
+  - новий початок
+keywords:
+  - Есме Дракон Балансу
+  - Вона прибула і цього достатньо
+  - Дракон Балансу
+  - живі терези
+  - подих правди
+  - справедливість і доброта
+  - сила присутності
+  - світло без наказу
+  - відповідальність
+  - Pivtorak Studio
+categories:
+  - The Dragon of Balance
+series: TheDragonOfBalance
+series_index: 1
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived.webp
+alt: Молода дракониця в європейському стилі з м’якими рисами обличчя та виразними очима стоїть під дощем на випаленому полі. На її грудях сяє нагрудник із символом Терезів. Спокійна постава, м’який подих і впевнений погляд передають тиху силу та відчуття початку чогось значущого.
+related:
+  - /docs/timeline/
+  - /docs/esmée-the-dragon-of-balance/
+  - /chronology/
+  - /uk/archive/
+authors:
+  - Anna Pivtorak
+draft: false
+canonical: https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-01-she-arrived/
+toc: true
 weight: 1
-event_date: 2025-05-16T10:00:00
-publication_date: 2025-05-16
-date: 2025-05-16
-event_type: transformation
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-01-she-arrived/#article",
+  "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-01-she-arrived/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/01-01-she-arrived/"
+  },
+  "headline": "01-01 🐉⚖️ ESMÉE. 📍Вона прибула. І цього достатньо",
+  "description": "Есме, Дракон Балансу, з’являється після того, як усе згоріло. У неї немає медалей, права на помсту чи бажання судити. Терези всередині неї живі й відгукуються на брехню, ухилення від відповідальності та мовчання там, де потрібна правда.",
+  "abstract": "Есме тут. Не як заміна, обіцянка чи тріумф, а як тиха присутність, чиї живі терези реагують на обман, бездіяльність і відсутність правди. Вона нічого не вимагає, але бачить усе.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-01-she-arrived.webp",
+    "caption": "Молода дракониця в європейському стилі стоїть під дощем на випаленому полі. На її грудях сяє нагрудник із символом Терезів."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "inLanguage": "uk",
+  "datePublished": "2025-05-16T11:00:00+01:00",
+  "dateModified": "2026-10-09T11:00:00+01:00",
+  "articleSection": "The Dragon of Balance",
+  "keywords": [
+    "Есме Дракон Балансу",
+    "Вона прибула і цього достатньо",
+    "живі терези",
+    "подих правди",
+    "справедливість і доброта",
+    "сила присутності",
+    "м’яка сила",
+    "відповідальність",
+    "Pivtorak Studio"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Dragon of Balance",
+    "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/"
+  },
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>
 
 # 🐉⚖️ ESMÉE. 📍Вона прибула. І цього достатньо | Дракон Рівноваги
 

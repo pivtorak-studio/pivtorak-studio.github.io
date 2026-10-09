@@ -1,14 +1,120 @@
 ---
-image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
-title: 01.01 🐉⚖️ ESMÉE. 📍She arrived. And that is enough
+id: 01-01-she-arrived
+language: en
+translation_of: esmée-the-dragon-of-balance-01-01-she-arrived
+title: 01-01 🐉⚖️ ESMÉE. 📍She arrived. And that is enough
+description: Esmée, the Dragon of Balance, arrives after everything has burned. She carries no medals, no right to vengeance, and no urge to judge. The scales within her are alive, responding to lies, evasion, and silence where truth is needed.
+summary: Esmée is here. Not as a replacement, a promise, or a triumph, but as a quiet presence whose living scales respond to deception, inaction, and the absence of truth. She asks for nothing, but sees everything.
+event_date: 2025-05-16T11:00:00
+publication_date: 2025-05-16T11:00:00
+date: 2025-05-16T11:00:00
+lastmod: 2026-10-09T11:00:00
+slug: 01-01-she-arrived
+tags:
+  - Esmée
+  - Dragon of Balance
+  - arrival
+  - truth
+  - justice
+  - balance
+  - presence
+  - gentle strength
+  - accountability
+  - new beginning
+keywords:
+  - Esmée the Dragon of Balance
+  - She arrived and that is enough
+  - Dragon of Balance
+  - living scales
+  - breath of truth
+  - justice and kindness
+  - power of presence
+  - light without command
+  - accountability
+  - Pivtorak Studio
+categories:
+  - The Dragon of Balance
+series: TheDragonOfBalance
+series_index: 1
+research_origin: pivtorak.studio
+status: published
+featured: true
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived.webp
+alt: A young European-style dragon girl with gentle features and expressive eyes stands in the rain on a scorched field. A glowing breastplate bearing the symbol of the Scales shines from her chest. Her calm posture, soft breath, and steady gaze convey quiet strength and the beginning of something meaningful.
+related:
+  - /chronology/
+  - /docs/timeline/
+  - /en/archive/
+  - /docs/esmée-the-dragon-of-balance/
+authors:
+  - Anna Pivtorak
+draft: false
+canonical: https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/01-01-she-arrived/
+toc: true
 weight: 1
-event_date: 2025-05-16T10:00:00
-publication_date: 2025-05-16
-date: 2025-05-16
-event_type: transformation
+completion: 100
+seo: true
+distribution: true
+search: indexed
+timeline: true
+archive: true
+visual_archive: true
 ---
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/01-01-she-arrived/#article",
+  "url": "https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/01-01-she-arrived/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/01-01-she-arrived/"
+  },
+  "headline": "01-01 🐉⚖️ ESMÉE. 📍She arrived. And that is enough",
+  "description": "Esmée, the Dragon of Balance, arrives after everything has burned. She carries no medals, no right to vengeance, and no urge to judge. The scales within her are alive, responding to lies, evasion, and silence where truth is needed.",
+  "abstract": "Esmée is here. Not as a replacement, a promise, or a triumph, but as a quiet presence whose living scales respond to deception, inaction, and the absence of truth. She asks for nothing, but sees everything.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-01-she-arrived.webp",
+    "caption": "A young European-style dragon girl stands in the rain on a scorched field, her glowing breastplate bearing the symbol of the Scales."
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "inLanguage": "en",
+  "datePublished": "2025-05-16T11:00:00+01:00",
+  "dateModified": "2026-10-09T11:00:00+01:00",
+  "articleSection": "The Dragon of Balance",
+  "keywords": [
+    "Esmée the Dragon of Balance",
+    "She arrived and that is enough",
+    "living scales",
+    "breath of truth",
+    "justice and kindness",
+    "power of presence",
+    "gentle strength",
+    "accountability",
+    "Pivtorak Studio"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Dragon of Balance",
+    "url": "https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/"
+  },
+  "copyrightYear": 2025,
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  }
+}
+</script>
 
 # 🐉⚖️ ESMÉE. 📍She arrived. And that is enough | The Dragon of Balance 
 

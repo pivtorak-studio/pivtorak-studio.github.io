@@ -135,7 +135,7 @@ visual_archive: true
 }
 </script>
 
-# 03-03 🐉⚖️ ESMÉE. ✯ Destiny Laboratory | The Dragon of Balance
+# 🐉⚖️ ESMÉE. ✯ Destiny Laboratory | The Dragon of Balance
 
 ![_The Dragon of Balance. 🐉⚖️ ESMÉE. Destiny Laboratory. AP | Pivtorak.Studio. 09.10.2026_ © Anna Pivtorak (Kostyuk)](/images/esmée-the-dragon-of-balance-03-03-destiny-laboratory.webp)
 

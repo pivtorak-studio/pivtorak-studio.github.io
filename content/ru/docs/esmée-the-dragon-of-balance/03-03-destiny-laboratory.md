@@ -135,7 +135,7 @@ visual_archive: true
 }
 </script>
 
-# 03-03 🐉⚖️ ESMÉE. ✯ Лаборатория Судьбы | Дракон Равновесия
+# 🐉⚖️ ESMÉE. ✯ Лаборатория Судьбы | Дракон Равновесия
 
 ![_Дракон Равновесия. 🐉⚖️ ESMÉE. Лаборатория Судьбы. AP | Pivtorak.Studio. 09.10.2026_ © Анна Пивторак (Костюк)](/images/esmée-the-dragon-of-balance-03-03-destiny-laboratory.webp)
 

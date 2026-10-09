@@ -119,7 +119,7 @@ visual_archive: true
 }
 </script>
 
-# 🐉⚖️ ESMÉE.🌀 Дисципліна Рівноваги | Дракон Рівноваги
+# 🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги | Дракон Рівноваги
 
 ![🐉⚖️ ESMÉE. 🌀 Дисципліна Рівноваги](/images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp)
 

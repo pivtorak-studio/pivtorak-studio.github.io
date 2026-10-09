@@ -11,7 +11,7 @@ event_type: transformation
 
 
 
-# 🐉⚖️ ESMÉE.🌀 Невидимий Міст | Дракон Рівноваги
+# 🐉⚖️ ESMÉE. 🌀 Невидимий Міст | Дракон Рівноваги
 
 ![🐉⚖️ ESMÉE. 🌀 Невидимий Міст](/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp)
 

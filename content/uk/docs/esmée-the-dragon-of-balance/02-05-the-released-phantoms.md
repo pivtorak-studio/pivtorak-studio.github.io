@@ -11,7 +11,7 @@ event_type: transformation
 
 
 
-# 🐉⚖️ ESMÉE.🌀 Фантоми, які Відпущено | Дракон Рівноваги
+# 🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено | Дракон Рівноваги
 
 ![🐉⚖️ ESMÉE. 🌀 Фантоми, які Відпущено](/images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp)
 

@@ -3,6 +3,7 @@ title: ⎚ Political Design
 description: Political Design is a research series exploring politics as system design. From debt traps to elections and governance, the state is reimagined as a product.
 bookCollapseSection: true
 weight: 161
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

@@ -70,6 +70,7 @@ system_role: estrutura-diagnostica
 system_position: meta-serie
 framework_type: mapa-de-transformacao
 entry_point: tragedia
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

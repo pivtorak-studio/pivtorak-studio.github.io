@@ -71,6 +71,7 @@ system_role: navegação
 system_position: observatório
 framework_type: atlas
 entry_point: observação
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

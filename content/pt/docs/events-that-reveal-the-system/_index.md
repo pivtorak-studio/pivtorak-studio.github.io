@@ -166,6 +166,7 @@ seo: true
 distribution: true
 search: pending
 bookCollapseSection: true
+show_in_series_projects: true
 ---
 
 

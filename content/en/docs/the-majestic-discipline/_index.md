@@ -71,6 +71,7 @@ system_role: navigation
 system_position: observatory
 framework_type: atlas
 entry_point: observation
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

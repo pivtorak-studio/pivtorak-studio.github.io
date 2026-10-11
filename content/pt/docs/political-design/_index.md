@@ -3,6 +3,7 @@ title: ⎚ Design Político
 description: "Série Political Design: análise da política como design de sistemas. Dívida, eleições, poder e Estado reinterpretados como produto e arquitetura."
 bookCollapseSection: true
 weight: 161
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

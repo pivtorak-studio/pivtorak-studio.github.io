@@ -128,53 +128,7 @@ Series & Projects brings together the thematic bodies of work developed through 
 
 Some projects unfold as structured series, while others develop as independent research or creative bodies. Together, they form an evolving map of ideas, questions, methods, and observations explored through Pivtorak.Studio.
 
-## Living Topography
-
-A long-form exploration of place, movement, perception, and the relationships between lived experience and changing environments.
-
-[Explore Living Topography](/en/docs/living-topography/)
-
-## ESMÉE
-
-A developing narrative and conceptual project exploring balance, transformation, identity, and the relationship between symbolic and lived experience.
-
-[Explore ESMÉE](/en/docs/esmée-the-dragon-of-balance/)
-
-## The Majestic Discipline
-
-A series examining discipline as a practice of transformation, structure, attention, and personal development.
-
-[Explore The Majestic Discipline](/en/docs/the-majestic-discipline/)
-
-## Core Recalibration
-
-A research and reflection series focused on re-examining internal structures, assumptions, values, and patterns of thought.
-
-[Explore Core Recalibration](/en/docs/core-recalibration/)
-
-## Political Design
-
-An analytical series examining how political ideas, structures, symbols, and systems are designed, communicated, and interpreted.
-
-[Explore Political Design](/en/docs/political-design/)
-
-## Shield of Nation
-
-A research series exploring national identity, protection, collective structures, and the symbolic dimensions of security and belonging.
-
-[Explore Shield of Nation](/en/docs/shield-of-nation/)
-
-## Peaceful Life
-
-A continuing series focused on everyday life, balance, observation, and the practical construction of a more peaceful environment.
-
-[Explore Peaceful Life](/en/docs/peaceful-life/)
-
-## Extra Credit Problem
-
-A research and analytical series built around questions that require additional investigation, alternative perspectives, and work beyond the expected framework.
-
-[Explore Extra Credit Problem](/en/docs/extra-credit-problem/)
+{{< series-projects-list >}}
 
 ---
 

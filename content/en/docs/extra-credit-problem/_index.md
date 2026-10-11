@@ -70,6 +70,7 @@ system_role: diagnostic-framework
 system_position: meta-series
 framework_type: transformation-map
 entry_point: tragedy
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

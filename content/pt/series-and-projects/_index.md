@@ -129,53 +129,7 @@ Séries e Projetos reúne os corpos de trabalho temáticos desenvolvidos atravé
 
 Alguns projetos desenvolvem-se como séries estruturadas, enquanto outros assumem a forma de projetos independentes de investigação ou criação. Em conjunto, formam um mapa em evolução de ideias, questões, métodos e observações explorados através da Pivtorak.Studio.
 
-## Topografia Viva
-
-Uma exploração de longo prazo do lugar, do movimento, da perceção e das relações entre a experiência vivida e os ambientes em transformação.
-
-[Explorar Topografia Viva](/pt/docs/living-topography/)
-
-## ESMÉE
-
-Um projeto narrativo e conceptual em desenvolvimento que explora equilíbrio, transformação, identidade e a relação entre a experiência simbólica e a experiência vivida.
-
-[Explorar ESMÉE](/pt/docs/esmée-the-dragon-of-balance/)
-
-## A Disciplina Majestosa
-
-Uma série que analisa a disciplina como prática de transformação, estrutura, atenção e desenvolvimento pessoal.
-
-[Explorar A Disciplina Majestosa](/pt/docs/the-majestic-discipline/)
-
-## Recalibração do Núcleo
-
-Uma série de investigação e reflexão centrada na reavaliação de estruturas internas, pressupostos, valores e padrões de pensamento.
-
-[Explorar Recalibração do Núcleo](/pt/docs/core-recalibration/)
-
-## Design Político
-
-Uma série analítica que examina como ideias, estruturas, símbolos e sistemas políticos são concebidos, comunicados e interpretados.
-
-[Explorar Design Político](/pt/docs/political-design/)
-
-## Escudo da Nação
-
-Uma série de investigação sobre identidade nacional, proteção, estruturas coletivas e as dimensões simbólicas da segurança e da pertença.
-
-[Explorar Escudo da Nação](/pt/docs/shield-of-nation/)
-
-## Vida Pacífica
-
-Uma série contínua dedicada à vida quotidiana, ao equilíbrio, à observação e à construção prática de um ambiente mais tranquilo.
-
-[Explorar Vida Pacífica](/pt/docs/peaceful-life/)
-
-## Desafio de Nível Superior
-
-Uma série de investigação e análise construída em torno de questões que exigem investigação adicional, perspetivas alternativas e trabalho para além do enquadramento esperado.
-
-[Explorar Desafio de Nível Superior](/pt/docs/extra-credit-problem/)
+{{< series-projects-list >}}
 
 ---
 

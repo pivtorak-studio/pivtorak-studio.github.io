@@ -5,7 +5,7 @@
 {{- with $pages }}
   {{- range . }}
     <section class="series-project-item">
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <h2>{{ .Title }}</h2>
       {{ with .Description }}
         <p>{{ . }}</p>
       {{ else }}

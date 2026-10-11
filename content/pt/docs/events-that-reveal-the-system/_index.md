@@ -257,7 +257,7 @@ Cada artigo desenvolve uma linha de análise própria, relacionando circunstânc
 **Alt-text:**   
 Ilustração editorial desenhada à mão com uma observadora pensativa, os media, um tribunal e uma balança da justiça, representando a análise dos acontecimentos e dos sistemas que revelam.
 
-_Acontecimentos que Revelam o Sistema. AP | Pivtorak.Studio. 10.10.2026_    
+_Acontecimentos que Revelam o Sistema. AP | Pivtorak.Studio. 11.10.2026_    
 © Anna Pivtorak (Kostyuk)
 
 ---

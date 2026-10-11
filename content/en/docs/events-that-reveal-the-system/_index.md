@@ -256,7 +256,7 @@ Each article develops an independent line of analysis, connecting specific circu
 **Alt-text:**   
 Hand-drawn editorial illustration of a thoughtful observer, media, a courthouse, and scales of justice, representing the analysis of events and the systems they reveal.
 
-_Events That Reveal the System. AP | Pivtorak.Studio. 10.10.2026_  
+_Events That Reveal the System. AP | Pivtorak.Studio. 11.10.2026_  
 © Anna Pivtorak (Kostyuk)
 
 ---

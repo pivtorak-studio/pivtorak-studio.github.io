@@ -25,7 +25,7 @@ alt: "Намальована від руки редакційна ілюстра
 related:
   - /uk/docs/timeline/
   - /uk/docs/events-that-reveal-the-system/
-  - /uk/archive/
+  - /uk/series-and-projects/
   - /uk/categories/
   - /uk/docs/the-movement-matrix/
 authors:

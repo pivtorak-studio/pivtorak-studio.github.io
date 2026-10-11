@@ -25,7 +25,7 @@ alt: Hand-drawn editorial illustration of a thoughtful observer, media, a courth
 related:
   - /en/docs/timeline/
   - /en/docs/events-that-reveal-the-system/
-  - /en/archive/
+  - /en/series-and-projects/
   - /en/categories/
   - /en/docs/the-movement-matrix/
 authors:

@@ -25,7 +25,7 @@ alt: "Рисованная от руки редакционная иллюстр
 related:
   - /ru/docs/timeline/
   - /ru/docs/events-that-reveal-the-system/
-  - /ru/archive/
+  - /ru/series-and-projects/
   - /ru/categories/
   - /ru/docs/the-movement-matrix/
 authors:

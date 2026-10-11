@@ -25,7 +25,7 @@ alt: Ilustração editorial desenhada à mão com uma observadora pensativa, os 
 related:
   - /pt/docs/timeline/
   - /pt/docs/events-that-reveal-the-system/
-  - /pt/archive/
+  - /pt/series-and-projects/
   - /pt/categories/
   - /pt/docs/the-movement-matrix/
 authors:

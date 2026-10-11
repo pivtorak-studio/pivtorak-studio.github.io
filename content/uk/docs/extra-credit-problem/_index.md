@@ -42,6 +42,7 @@ system_role: діагностична-модель
 system_position: мета-серія
 framework_type: карта-трансформації
 entry_point: трагедія
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

@@ -40,6 +40,7 @@ system_role: навігація
 system_position: обсерваторія
 framework_type: атлас
 entry_point: спостереження
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

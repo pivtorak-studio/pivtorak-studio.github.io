@@ -1,4 +1,8 @@
 ---
+id: expertise
+language: uk
+translation_of: expertise
+slug: expertise
 title: "🔬 Експертиза та Атрибуція"
 description: "Професійна експертиза та атрибуція об’єктів культури і мистецтва. Формування повноцінних досьє міжнародного рівня для банків, аукціонів та інституцій."
 bookCollapseSection: true

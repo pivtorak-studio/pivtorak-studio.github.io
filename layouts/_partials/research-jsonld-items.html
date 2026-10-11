@@ -1,0 +1,30 @@
+
+{{- $ids := slice
+  "knowledge-base"
+  "knowledge-graph"
+  "architecture-of-value"
+  "expertise"
+  "academic-publications"
+-}}
+
+{{- $items := slice -}}
+{{- $position := 0 -}}
+
+{{- range $ids -}}
+  {{- $id := . -}}
+  {{- $pages := where site.Pages "Params.id" $id -}}
+
+  {{- range $pages -}}
+    {{- if eq .Kind "section" -}}
+      {{- $position = add $position 1 -}}
+      {{- $items = $items | append (dict
+        "@type" "ListItem"
+        "position" $position
+        "name" .Title
+        "url" .Permalink
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $items | jsonify -}}

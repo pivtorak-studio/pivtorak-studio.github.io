@@ -1,4 +1,4 @@
----
+﻿---
 id: research
 language: pt
 translation_of: research
@@ -67,38 +67,7 @@ alt: "Uma secretária de investigação em tons escuros com livros, diagramas, n
     "@type": "ItemList",
     "name": "Áreas de Investigação",
     "numberOfItems": 5,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Base de Conhecimento",
-        "url": "https://pivtorak.studio/pt/docs/knowledge-base/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Grafo de Conhecimento",
-        "url": "https://pivtorak.studio/pt/docs/knowledge-graph/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Arquitetura do Valor",
-        "url": "https://pivtorak.studio/pt/docs/architecture-of-value/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Perícia e Atribuição",
-        "url": "https://pivtorak.studio/pt/docs/expertise/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Publicações Académicas",
-        "url": "https://pivtorak.studio/pt/docs/academic-publications/"
-      }
-    ]
+    "itemListElement": {{< research-jsonld-items >}}
   }
 }
 </script>
@@ -115,31 +84,31 @@ Esta secção reúne os sistemas e as linhas de investigação utilizados para a
 
 Uma coleção estruturada de conhecimentos documentados, fontes, conceitos e materiais de investigação.
 
-[Explorar a Base de Conhecimento](/pt/docs/knowledge-base/)
+{{< research-link id="knowledge-base" label="Explorar a Base de Conhecimento" >}}
 
 ## Grafo de Conhecimento
 
 Um sistema para mapear relações entre conceitos, fontes, temas e áreas de investigação.
 
-[Explorar o Grafo de Conhecimento](/pt/docs/knowledge-graph/)
+{{< research-link id="knowledge-graph" label="Explorar o Grafo de Conhecimento" >}}
 
 ## Arquitetura do Valor
 
 Um quadro de investigação para analisar como o contexto, o significado, a evidência e as relações contribuem para a construção do valor.
 
-[Explorar a Arquitetura do Valor](/pt/docs/architecture-of-value/)
+{{< research-link id="architecture-of-value" label="Explorar a Arquitetura do Valor" >}}
 
 ## Perícia e Atribuição
 
 Investigação e dossiês de peritagem centrados na atribuição, interpretação, proveniência e avaliação de objetos culturais e intelectuais.
 
-[Explorar Perícia e Atribuição](/pt/docs/expertise/)
+{{< research-link id="expertise" label="Explorar Perícia e Atribuição" >}}
 
 ## Publicações Académicas
 
 Uma coleção de investigação e publicações académicas desenvolvidas nos domínios cultural, económico, social e interdisciplinar.
 
-[Explorar as Publicações Académicas](/pt/docs/academic-publications/)
+{{< research-link id="academic-publications" label="Explorar as Publicações Académicas" >}}
 
 ---
 

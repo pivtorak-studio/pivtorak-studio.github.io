@@ -1,4 +1,8 @@
 ---
+id: academic-publications
+language: pt
+translation_of: academic-publications
+slug: academic-publications
 title: 📚 Publicações Académicas
 description: Investigação académica de Anna Pivtorak nas áreas de economia do trabalho, demografia, políticas sociais e desenvolvimento territorial.
 bookCollapseSection: true

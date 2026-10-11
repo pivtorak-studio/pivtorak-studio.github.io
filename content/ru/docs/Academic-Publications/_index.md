@@ -1,4 +1,8 @@
 ---
+id: academic-publications
+language: ru
+translation_of: academic-publications
+slug: academic-publications
 title: "📚 Академические Публикации"
 description: "Академические исследования Anna Pivtorak в области экономики труда, демографии и социальной политики."
 bookCollapseSection: true

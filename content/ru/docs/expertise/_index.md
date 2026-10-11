@@ -1,4 +1,8 @@
 ---
+id: expertise
+language: ru
+translation_of: expertise
+slug: expertise
 title: "🔬 Экспертиза и Атрибуция"
 description: "Профессиональная экспертиза и атрибуция объектов культуры и искусства. Формирование полноценных досье для банков, аукционов и институций."
 bookCollapseSection: true

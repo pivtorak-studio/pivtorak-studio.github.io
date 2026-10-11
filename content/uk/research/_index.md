@@ -1,4 +1,4 @@
----
+﻿---
 id: research
 language: uk
 translation_of: research
@@ -67,38 +67,7 @@ alt: "Темний дослідницький стіл із книжками, с
     "@type": "ItemList",
     "name": "Напрями досліджень",
     "numberOfItems": 5,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "База знань",
-        "url": "https://pivtorak.studio/uk/docs/knowledge-base/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Граф знань",
-        "url": "https://pivtorak.studio/uk/docs/knowledge-graph/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Архітектура цінності",
-        "url": "https://pivtorak.studio/uk/docs/architecture-of-value/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Експертиза та атрибуція",
-        "url": "https://pivtorak.studio/uk/docs/expertise/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Академічні публікації",
-        "url": "https://pivtorak.studio/uk/docs/academic-publications/"
-      }
-    ]
+    "itemListElement": {{< research-jsonld-items >}}
   }
 }
 </script>
@@ -115,31 +84,31 @@ alt: "Темний дослідницький стіл із книжками, с
 
 Структурована колекція документованих знань, джерел, концепцій і дослідницьких матеріалів.
 
-[Перейти до Бази знань](/uk/docs/knowledge-base/)
+{{< research-link id="knowledge-base" label="Перейти до Бази знань" >}}
 
 ## Граф знань
 
 Система для відображення зв’язків між концепціями, джерелами, об’єктами та напрямами досліджень.
 
-[Перейти до Графа знань](/uk/docs/knowledge-graph/)
+{{< research-link id="knowledge-graph" label="Перейти до Графа знань" >}}
 
 ## Архітектура цінності
 
 Дослідницька модель для вивчення того, як контекст, значення, докази та взаємозв’язки беруть участь у формуванні цінності.
 
-[Перейти до Архітектури цінності](/uk/docs/architecture-of-value/)
+{{< research-link id="architecture-of-value" label="Перейти до Архітектури цінності" >}}
 
 ## Експертиза та атрибуція
 
 Дослідження та експертні досьє, присвячені атрибуції, інтерпретації, походженню та оцінюванню культурних та інтелектуальних об’єктів.
 
-[Перейти до Експертизи та атрибуції](/uk/docs/expertise/)
+{{< research-link id="expertise" label="Перейти до Експертизи та атрибуції" >}}
 
 ## Академічні публікації
 
 Колекція академічних досліджень і публікацій у культурній, економічній, соціальній та міждисциплінарній сферах.
 
-[Перейти до Академічних публікацій](/uk/docs/academic-publications/)
+{{< research-link id="academic-publications" label="Перейти до Академічних публікацій" >}}
 
 ---
 

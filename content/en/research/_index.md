@@ -1,4 +1,4 @@
----
+﻿---
 id: research
 language: en
 translation_of: research
@@ -67,38 +67,7 @@ alt: "A dark research desk with books, diagrams, notes, a knowledge network, and
     "@type": "ItemList",
     "name": "Research Areas",
     "numberOfItems": 5,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Knowledge Base",
-        "url": "https://pivtorak.studio/en/docs/knowledge-base/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Knowledge Graph",
-        "url": "https://pivtorak.studio/en/docs/knowledge-graph/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Architecture of Value",
-        "url": "https://pivtorak.studio/en/docs/architecture-of-value/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Expertise & Attribution",
-        "url": "https://pivtorak.studio/en/docs/expertise/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Academic Publications",
-        "url": "https://pivtorak.studio/en/docs/academic-publications/"
-      }
-    ]
+    "itemListElement": {{< research-jsonld-items >}}
   }
 }
 </script>
@@ -115,31 +84,31 @@ This section brings together the systems and research directions used to examine
 
 A structured collection of documented knowledge, sources, concepts, and research materials.
 
-[Explore the Knowledge Base](/en/docs/knowledge-base/)
+{{< research-link id="knowledge-base" label="Explore the Knowledge Base" >}}
 
 ## Knowledge Graph
 
 A system for mapping relationships between concepts, sources, subjects, and areas of research.
 
-[Explore the Knowledge Graph](/en/docs/knowledge-graph/)
+{{< research-link id="knowledge-graph" label="Explore the Knowledge Graph" >}}
 
 ## Architecture of Value
 
 A research framework for examining how context, meaning, evidence, and relationships contribute to the construction of value.
 
-[Explore Architecture of Value](/en/docs/architecture-of-value/)
+{{< research-link id="architecture-of-value" label="Explore Architecture of Value" >}}
 
 ## Expertise & Attribution
 
 Research and expert dossiers focused on attribution, interpretation, provenance, and the evaluation of cultural and intellectual objects.
 
-[Explore Expertise & Attribution](/en/docs/expertise/)
+{{< research-link id="expertise" label="Explore Expertise & Attribution" >}}
 
 ## Academic Publications
 
 A collection of academic research and publications developed across cultural, economic, social, and interdisciplinary fields.
 
-[Explore Academic Publications](/en/docs/academic-publications/)
+{{< research-link id="academic-publications" label="Explore Academic Publications" >}}
 
 ---
 

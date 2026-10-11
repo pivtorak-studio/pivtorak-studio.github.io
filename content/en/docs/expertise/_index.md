@@ -1,4 +1,8 @@
 ---
+id: expertise
+language: en
+translation_of: expertise
+slug: expertise
 title: 🔬 Expertise & Attribution
 description: Professional expertise and attribution of cultural and art objects. Full-scale dossier creation for banks, auctions, and institutions.
 bookCollapseSection: true

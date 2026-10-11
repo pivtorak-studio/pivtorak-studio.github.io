@@ -1,4 +1,8 @@
 ---
+id: academic-publications
+language: uk
+translation_of: academic-publications
+slug: academic-publications
 title: "📚 Академічні Публікації"
 description: "Академічні дослідження Anna Pivtorak: ринок праці, демографія, соціальна політика та механізми розвитку територій. Формування дослідницької бази для подальших міждисциплінарних проєктів."
 bookCollapseSection: true

@@ -7,6 +7,9 @@ event_date: 2025-01-07
 publication_date: 2025-01-07
 image: /images/001-pivtorak-studio-standard.webp
 show_in_series_studio: true
+id: pivtorak-studio-standard
+language: pt
+translation_of: pivtorak-studio-standard
 ---
 ![Pivtorak Studio Standard](/images/001-pivtorak-studio-standard.webp)
 

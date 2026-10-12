@@ -9,7 +9,6 @@ bookCollapseSection: true
 weight: 81
 show_in_series_research: true
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

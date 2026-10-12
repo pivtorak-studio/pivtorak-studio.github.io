@@ -2,18 +2,35 @@
 id: studio
 language: en
 translation_of: studio
-title: "Studio"
-description: "The working environment of Pivtorak.Studio, where ideas, research, projects, and visual systems are developed, tested, documented, and refined."
-summary: "Studio presents the principles, working practices, and ongoing process behind the development of Pivtorak.Studio."
+title: Studio
+description: The working environment of Pivtorak.Studio, where ideas, research, projects, and visual systems are developed, tested, documented, and refined.
+summary: Studio presents the principles, working practices, and ongoing process behind the development of Pivtorak.Studio.
 slug: studio
-tags: [studio, creative practice, process, standards, Pivtorak.Studio]
-keywords: [Studio, Pivtorak.Studio Studio, creative practice, studio process, working methods, Pivtorak Studio Standard, Process Diary]
-categories: [Studio, Creative Practice, Process, Pivtorak.Studio]
+tags:
+  - studio
+  - creative practice
+  - process
+  - standards
+  - Pivtorak.Studio
+keywords:
+  - Studio
+  - Pivtorak.Studio Studio
+  - creative practice
+  - studio process
+  - working methods
+  - Pivtorak Studio Standard
+  - Process Diary
+categories:
+  - Studio
+  - Creative Practice
+  - Process
+  - Pivtorak.Studio
 series: Studio
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/studio/
 toc: false
@@ -21,9 +38,9 @@ weight: 3
 seo: true
 distribution: true
 search: indexed
-search_intent: "Pivtorak.Studio studio, working methods, and creative process"
-article_type: "studio landing page"
-primary_topic: "Pivtorak.Studio studio"
+search_intent: Pivtorak.Studio studio, working methods, and creative process
+article_type: studio landing page
+primary_topic: Pivtorak.Studio studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +48,7 @@ event_date: 2026-10-03T09:00:00+01:00
 publication_date: 2026-10-03T09:00:00+01:00
 lastmod: 2026-10-03T09:00:00+01:00
 image: /images/studio.webp
-alt: "A dark studio workspace with two monitors, books, project notes, photographs, diagrams, a geometric object, and a warm desk lamp, with the title STUDIO."
+alt: A dark studio workspace with two monitors, books, project notes, photographs, diagrams, a geometric object, and a warm desk lamp, with the title STUDIO.
 ---
 
 

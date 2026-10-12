@@ -1,19 +1,37 @@
-﻿---
+---
 id: research
 language: ru
 translation_of: research
-title: "Исследования"
+title: Исследования
 description: "Интеллектуальное ядро Pivtorak.Studio: структурированный корпус работы, объединяющий знания, анализ, атрибуцию и развитие идей."
-summary: "Исследования объединяют системы и направления работы, используемые для анализа сложных тем, установления связей между свидетельствами и контекстом и разработки новых моделей понимания."
+summary: Исследования объединяют системы и направления работы, используемые для анализа сложных тем, установления связей между свидетельствами и контекстом и разработки новых моделей понимания.
 slug: research
-tags: [исследования, знания, анализ, атрибуция, Pivtorak.Studio]
-keywords: [Исследования, Исследования Pivtorak.Studio, знания, анализ, атрибуция, направления исследований, академические исследования, системы знаний]
-categories: [Исследования, Знания, Анализ, Pivtorak.Studio]
+tags:
+  - исследования
+  - знания
+  - анализ
+  - атрибуция
+  - Pivtorak.Studio
+keywords:
+  - Исследования
+  - Исследования Pivtorak.Studio
+  - знания
+  - анализ
+  - атрибуция
+  - направления исследований
+  - академические исследования
+  - системы знаний
+categories:
+  - Исследования
+  - Знания
+  - Анализ
+  - Pivtorak.Studio
 series: Research
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/research/
 toc: false
@@ -21,9 +39,9 @@ weight: 1
 seo: true
 distribution: true
 search: indexed
-search_intent: "исследования и системы знаний Pivtorak.Studio"
-article_type: "исследовательская landing page"
-primary_topic: "исследования Pivtorak.Studio"
+search_intent: исследования и системы знаний Pivtorak.Studio
+article_type: исследовательская landing page
+primary_topic: исследования Pivtorak.Studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +49,7 @@ event_date: 2026-10-03T07:00:00+01:00
 publication_date: 2026-10-03T07:00:00+01:00
 lastmod: 2026-10-03T07:00:00+01:00
 image: /images/research.webp
-alt: "Тёмный исследовательский стол с книгами, схемами, заметками, сетью знаний и лупой, с крупным заголовком RESEARCH."
+alt: Тёмный исследовательский стол с книгами, схемами, заметками, сетью знаний и лупой, с крупным заголовком RESEARCH.
 ---
 
 

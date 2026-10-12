@@ -33,7 +33,6 @@ search: indexed
 bookCollapseSection: true
 show_in_series_tools: true
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

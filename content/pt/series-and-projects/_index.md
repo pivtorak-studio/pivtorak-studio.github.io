@@ -2,18 +2,35 @@
 id: series-and-projects
 language: pt
 translation_of: series-and-projects
-title: "Séries e Projetos"
-description: "Uma coleção estruturada de séries temáticas e projetos independentes desenvolvidos através de investigação continuada, experimentação, documentação e publicação."
-summary: "Séries e Projetos reúne corpos de trabalho em evolução que exploram ideias, questões, métodos e observações através da Pivtorak.Studio."
+title: Séries e Projetos
+description: Uma coleção estruturada de séries temáticas e projetos independentes desenvolvidos através de investigação continuada, experimentação, documentação e publicação.
+summary: Séries e Projetos reúne corpos de trabalho em evolução que exploram ideias, questões, métodos e observações através da Pivtorak.Studio.
 slug: series-and-projects
-tags: [séries, projetos, investigação, prática criativa, Pivtorak.Studio]
-keywords: [Séries e Projetos, Séries Pivtorak.Studio, Projetos Pivtorak.Studio, séries temáticas, projetos de investigação, projetos criativos, trabalho experimental]
-categories: [Séries e Projetos, Investigação, Projetos, Pivtorak.Studio]
+tags:
+  - séries
+  - projetos
+  - investigação
+  - prática criativa
+  - Pivtorak.Studio
+keywords:
+  - Séries e Projetos
+  - Séries Pivtorak.Studio
+  - Projetos Pivtorak.Studio
+  - séries temáticas
+  - projetos de investigação
+  - projetos criativos
+  - trabalho experimental
+categories:
+  - Séries e Projetos
+  - Investigação
+  - Projetos
+  - Pivtorak.Studio
 series: Series&Projects
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/series-and-projects/
 toc: false
@@ -21,9 +38,9 @@ weight: 2
 seo: true
 distribution: true
 search: indexed
-search_intent: "séries e projetos da Pivtorak.Studio"
-article_type: "página de entrada de séries e projetos"
-primary_topic: "séries e projetos da Pivtorak.Studio"
+search_intent: séries e projetos da Pivtorak.Studio
+article_type: página de entrada de séries e projetos
+primary_topic: séries e projetos da Pivtorak.Studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +48,7 @@ event_date: 2026-10-03T08:00:00+01:00
 publication_date: 2026-10-03T08:00:00+01:00
 lastmod: 2026-10-03T08:00:00+01:00
 image: /images/series-and-projects.webp
-alt: "Um espaço de trabalho de estúdio em tons escuros com livros, notas de projetos, fotografias, diagramas e um candeeiro de mesa quente, com o título SERIES & PROJECTS."
+alt: Um espaço de trabalho de estúdio em tons escuros com livros, notas de projetos, fotografias, diagramas e um candeeiro de mesa quente, com o título SERIES & PROJECTS.
 ---
 
 

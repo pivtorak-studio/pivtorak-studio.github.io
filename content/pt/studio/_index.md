@@ -2,18 +2,35 @@
 id: studio
 language: pt
 translation_of: studio
-title: "Estúdio"
-description: "O ambiente de trabalho da Pivtorak.Studio, onde ideias, investigação, projetos e sistemas visuais são desenvolvidos, testados, documentados e aperfeiçoados."
-summary: "O Estúdio apresenta os princípios, métodos de trabalho e processo contínuo por detrás do desenvolvimento da Pivtorak.Studio."
+title: Estúdio
+description: O ambiente de trabalho da Pivtorak.Studio, onde ideias, investigação, projetos e sistemas visuais são desenvolvidos, testados, documentados e aperfeiçoados.
+summary: O Estúdio apresenta os princípios, métodos de trabalho e processo contínuo por detrás do desenvolvimento da Pivtorak.Studio.
 slug: studio
-tags: [estúdio, prática criativa, processo, padrões, Pivtorak.Studio]
-keywords: [Estúdio, Estúdio Pivtorak.Studio, prática criativa, processo de estúdio, métodos de trabalho, Pivtorak Studio Standard, Diário do Processo]
-categories: [Estúdio, Prática Criativa, Processo, Pivtorak.Studio]
+tags:
+  - estúdio
+  - prática criativa
+  - processo
+  - padrões
+  - Pivtorak.Studio
+keywords:
+  - Estúdio
+  - Estúdio Pivtorak.Studio
+  - prática criativa
+  - processo de estúdio
+  - métodos de trabalho
+  - Pivtorak Studio Standard
+  - Diário do Processo
+categories:
+  - Estúdio
+  - Prática Criativa
+  - Processo
+  - Pivtorak.Studio
 series: Studio
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/studio/
 toc: false
@@ -21,9 +38,9 @@ weight: 3
 seo: true
 distribution: true
 search: indexed
-search_intent: "Estúdio Pivtorak.Studio, métodos de trabalho e processo criativo"
-article_type: "studio landing page"
-primary_topic: "Pivtorak.Studio studio"
+search_intent: Estúdio Pivtorak.Studio, métodos de trabalho e processo criativo
+article_type: studio landing page
+primary_topic: Pivtorak.Studio studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +48,7 @@ event_date: 2026-10-03T09:00:00+01:00
 publication_date: 2026-10-03T09:00:00+01:00
 lastmod: 2026-10-03T09:00:00+01:00
 image: /images/studio.webp
-alt: "Um espaço de trabalho de estúdio em tons escuros, com dois monitores, livros, notas de projetos, fotografias, diagramas, um objeto geométrico e um candeeiro de mesa acolhedor, com o título STUDIO."
+alt: Um espaço de trabalho de estúdio em tons escuros, com dois monitores, livros, notas de projetos, fotografias, diagramas, um objeto geométrico e um candeeiro de mesa acolhedor, com o título STUDIO.
 ---
 
 

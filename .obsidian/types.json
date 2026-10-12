@@ -10,6 +10,10 @@
     "systemic_level": "multitext",
     "navigation_order": "number",
     "event_date": "text",
-    "publication_date": "text"
+    "publication_date": "text",
+    "show_in_series_research": "checkbox",
+    "show_in_series_studio": "checkbox",
+    "show_in_series_tools": "checkbox",
+    "show_in_series_archive": "checkbox"
   }
 }

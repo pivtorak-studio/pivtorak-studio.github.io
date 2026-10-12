@@ -2,8 +2,10 @@
 title: "Timeline — Visual Archive"
 description: "A visual chronology of Pivtorak.Studio — works, projects, ideas, and documented developments arranged by date."
 show_in_series_archive: true
+id: timeline
+language: en
+translation_of: timeline
 ---
-
 # Timeline — Visual Archive
 
 A visual chronology of Pivtorak.Studio.

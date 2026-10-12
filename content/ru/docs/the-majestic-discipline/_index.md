@@ -42,7 +42,6 @@ framework_type: атлас
 entry_point: наблюдение
 show_in_series_projects: true
 ---
-
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",

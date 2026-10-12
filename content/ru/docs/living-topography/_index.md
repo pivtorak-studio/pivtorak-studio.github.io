@@ -39,7 +39,6 @@ publication_date: 2026-10-01T18:30:00+01:00
 lastmod: 2026-10-01T18:30:00+01:00
 show_in_series_projects: true
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -2,18 +2,37 @@
 id: tools
 language: pt
 translation_of: tools
-title: "Ferramentas"
-description: "Uma coleção prática de ferramentas desenvolvidas para apoiar a investigação, a análise, os cálculos, as conversões, a documentação e o trabalho técnico da Pivtorak.Studio."
-summary: "As Ferramentas reúnem instrumentos práticos para cálculos, conversões, estruturas reutilizáveis e métodos técnicos utilizados na Pivtorak.Studio."
+title: Ferramentas
+description: Uma coleção prática de ferramentas desenvolvidas para apoiar a investigação, a análise, os cálculos, as conversões, a documentação e o trabalho técnico da Pivtorak.Studio.
+summary: As Ferramentas reúnem instrumentos práticos para cálculos, conversões, estruturas reutilizáveis e métodos técnicos utilizados na Pivtorak.Studio.
 slug: tools
-tags: [ferramentas, calculadoras, conversores, modelos, SEO, Pivtorak.Studio]
-keywords: [Ferramentas, Ferramentas Pivtorak.Studio, calculadoras, conversores, modelos, Truques de SEO, ferramentas práticas, métodos técnicos]
-categories: [Ferramentas, Cálculos, Documentação, Pivtorak.Studio]
+tags:
+  - ferramentas
+  - calculadoras
+  - conversores
+  - modelos
+  - SEO
+  - Pivtorak.Studio
+keywords:
+  - Ferramentas
+  - Ferramentas Pivtorak.Studio
+  - calculadoras
+  - conversores
+  - modelos
+  - Truques de SEO
+  - ferramentas práticas
+  - métodos técnicos
+categories:
+  - Ferramentas
+  - Cálculos
+  - Documentação
+  - Pivtorak.Studio
 series: Tools
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/tools/
 toc: false
@@ -21,9 +40,9 @@ weight: 4
 seo: true
 distribution: true
 search: indexed
-search_intent: "Ferramentas Pivtorak.Studio, calculadoras, conversores, modelos e métodos de SEO"
-article_type: "tools landing page"
-primary_topic: "Ferramentas Pivtorak.Studio"
+search_intent: Ferramentas Pivtorak.Studio, calculadoras, conversores, modelos e métodos de SEO
+article_type: tools landing page
+primary_topic: Ferramentas Pivtorak.Studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +50,7 @@ event_date: 2026-10-03T10:00:00+01:00
 publication_date: 2026-10-03T10:00:00+01:00
 lastmod: 2026-10-03T10:00:00+01:00
 image: /images/tools.webp
-alt: "Um espaço de trabalho técnico em tons escuros com instrumentos de medição, um ábaco, uma calculadora, uma régua de engenharia, desenhos técnicos, livros e um candeeiro de mesa acolhedor, com o título TOOLS."
+alt: Um espaço de trabalho técnico em tons escuros com instrumentos de medição, um ábaco, uma calculadora, uma régua de engenharia, desenhos técnicos, livros e um candeeiro de mesa acolhedor, com o título TOOLS.
 ---
 
 

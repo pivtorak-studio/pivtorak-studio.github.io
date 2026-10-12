@@ -4,8 +4,10 @@ description: "Series #ProcessDiary: documentation of research process, decisions
 bookCollapseSection: true
 weight: 121
 show_in_series_studio: true
+id: process-diary
+language: en
+translation_of: process-diary
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -6,8 +6,10 @@ weight: 31
 event_date: 2025-01-07
 publication_date: 2025-01-07
 show_in_series_studio: true
+id: pivtorak-studio-standard
+language: en
+translation_of: pivtorak-studio-standard
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

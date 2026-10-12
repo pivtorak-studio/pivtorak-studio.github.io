@@ -2,18 +2,37 @@
 id: tools
 language: ru
 translation_of: tools
-title: "Инструменты"
-description: "Практическая коллекция инструментов, разработанных для поддержки исследований, анализа, расчётов, преобразований, документации и технической работы Pivtorak.Studio."
-summary: "Инструменты объединяют практические средства для расчётов, преобразований, многоразовых структур и технических методов, используемых в Pivtorak.Studio."
+title: Инструменты
+description: Практическая коллекция инструментов, разработанных для поддержки исследований, анализа, расчётов, преобразований, документации и технической работы Pivtorak.Studio.
+summary: Инструменты объединяют практические средства для расчётов, преобразований, многоразовых структур и технических методов, используемых в Pivtorak.Studio.
 slug: tools
-tags: [инструменты, калькуляторы, конвертеры, шаблоны, SEO, Pivtorak.Studio]
-keywords: [Инструменты, Инструменты Pivtorak.Studio, калькуляторы, конвертеры, шаблоны, SEO Хитрости, практические инструменты, технические методы]
-categories: [Инструменты, Расчёты, Документация, Pivtorak.Studio]
+tags:
+  - инструменты
+  - калькуляторы
+  - конвертеры
+  - шаблоны
+  - SEO
+  - Pivtorak.Studio
+keywords:
+  - Инструменты
+  - Инструменты Pivtorak.Studio
+  - калькуляторы
+  - конвертеры
+  - шаблоны
+  - SEO Хитрости
+  - практические инструменты
+  - технические методы
+categories:
+  - Инструменты
+  - Расчёты
+  - Документация
+  - Pivtorak.Studio
 series: Tools
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/tools/
 toc: false
@@ -21,9 +40,9 @@ weight: 4
 seo: true
 distribution: true
 search: indexed
-search_intent: "Инструменты Pivtorak.Studio, калькуляторы, конвертеры, шаблоны и методы SEO"
-article_type: "tools landing page"
-primary_topic: "Инструменты Pivtorak.Studio"
+search_intent: Инструменты Pivtorak.Studio, калькуляторы, конвертеры, шаблоны и методы SEO
+article_type: tools landing page
+primary_topic: Инструменты Pivtorak.Studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +50,7 @@ event_date: 2026-10-03T10:00:00+01:00
 publication_date: 2026-10-03T10:00:00+01:00
 lastmod: 2026-10-03T10:00:00+01:00
 image: /images/tools.webp
-alt: "Тёмное техническое рабочее пространство с измерительными инструментами, счётами, калькулятором, инженерной линейкой, техническими чертежами, книгами и тёплой настольной лампой, с крупной надписью TOOLS."
+alt: Тёмное техническое рабочее пространство с измерительными инструментами, счётами, калькулятором, инженерной линейкой, техническими чертежами, книгами и тёплой настольной лампой, с крупной надписью TOOLS.
 ---
 
 

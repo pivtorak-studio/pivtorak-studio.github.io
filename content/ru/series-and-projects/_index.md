@@ -2,18 +2,35 @@
 id: series-and-projects
 language: ru
 translation_of: series-and-projects
-title: "Серии и проекты"
-description: "Структурированная коллекция тематических серий и самостоятельных проектов, развиваемых посредством последовательного исследования, эксперимента, документирования и публикации."
-summary: "Серии и проекты объединяют развивающиеся корпуса работ, исследующих идеи, вопросы, методы и наблюдения в рамках Pivtorak.Studio."
+title: Серии и проекты
+description: Структурированная коллекция тематических серий и самостоятельных проектов, развиваемых посредством последовательного исследования, эксперимента, документирования и публикации.
+summary: Серии и проекты объединяют развивающиеся корпуса работ, исследующих идеи, вопросы, методы и наблюдения в рамках Pivtorak.Studio.
 slug: series-and-projects
-tags: [серии, проекты, исследования, творческая практика, Pivtorak.Studio]
-keywords: [Серии и проекты, Серии Pivtorak.Studio, Проекты Pivtorak.Studio, тематические серии, исследовательские проекты, творческие проекты, экспериментальная работа]
-categories: [Серии и проекты, Исследования, Проекты, Pivtorak.Studio]
+tags:
+  - серии
+  - проекты
+  - исследования
+  - творческая практика
+  - Pivtorak.Studio
+keywords:
+  - Серии и проекты
+  - Серии Pivtorak.Studio
+  - Проекты Pivtorak.Studio
+  - тематические серии
+  - исследовательские проекты
+  - творческие проекты
+  - экспериментальная работа
+categories:
+  - Серии и проекты
+  - Исследования
+  - Проекты
+  - Pivtorak.Studio
 series: Series&Projects
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/series-and-projects/
 toc: false
@@ -21,9 +38,9 @@ weight: 2
 seo: true
 distribution: true
 search: indexed
-search_intent: "серии и проекты Pivtorak.Studio"
-article_type: "landing page серий и проектов"
-primary_topic: "серии и проекты Pivtorak.Studio"
+search_intent: серии и проекты Pivtorak.Studio
+article_type: landing page серий и проектов
+primary_topic: серии и проекты Pivtorak.Studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +48,7 @@ event_date: 2026-10-03T08:00:00+01:00
 publication_date: 2026-10-03T08:00:00+01:00
 lastmod: 2026-10-03T08:00:00+01:00
 image: /images/series-and-projects.webp
-alt: "Тёмное рабочее пространство студии с книгами, заметками о проектах, фотографиями, схемами и тёплой настольной лампой, с крупным заголовком SERIES & PROJECTS."
+alt: Тёмное рабочее пространство студии с книгами, заметками о проектах, фотографиями, схемами и тёплой настольной лампой, с крупным заголовком SERIES & PROJECTS.
 ---
 
 <script type="application/ld+json">

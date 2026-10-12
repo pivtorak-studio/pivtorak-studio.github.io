@@ -2,8 +2,10 @@
 title: "Хронологія — Візуальний архів"
 description: "Візуальна хронологія Pivtorak.Studio — роботи, проєкти, ідеї та документовані етапи розвитку, упорядковані за датами."
 show_in_series_archive: true
+id: timeline
+language: uk
+translation_of: timeline
 ---
-
 # Хронологія — Візуальний архів
 
 Візуальна хронологія Pivtorak.Studio.

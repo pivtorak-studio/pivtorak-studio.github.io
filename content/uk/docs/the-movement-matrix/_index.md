@@ -54,7 +54,6 @@ search: indexed
 bookCollapseSection: true
 show_in_series_archive: true
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

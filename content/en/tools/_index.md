@@ -2,18 +2,37 @@
 id: tools
 language: en
 translation_of: tools
-title: "Tools"
-description: "A practical collection of tools developed to support research, analysis, calculation, conversion, documentation, and the technical work of Pivtorak.Studio."
-summary: "Tools brings together practical instruments for calculations, conversions, reusable structures, and technical methods used across Pivtorak.Studio."
+title: Tools
+description: A practical collection of tools developed to support research, analysis, calculation, conversion, documentation, and the technical work of Pivtorak.Studio.
+summary: Tools brings together practical instruments for calculations, conversions, reusable structures, and technical methods used across Pivtorak.Studio.
 slug: tools
-tags: [tools, calculators, converters, templates, SEO, Pivtorak.Studio]
-keywords: [Tools, Pivtorak.Studio Tools, calculators, converters, templates, SEO tools, practical tools, technical methods]
-categories: [Tools, Calculations, Documentation, Pivtorak.Studio]
+tags:
+  - tools
+  - calculators
+  - converters
+  - templates
+  - SEO
+  - Pivtorak.Studio
+keywords:
+  - Tools
+  - Pivtorak.Studio Tools
+  - calculators
+  - converters
+  - templates
+  - SEO tools
+  - practical tools
+  - technical methods
+categories:
+  - Tools
+  - Calculations
+  - Documentation
+  - Pivtorak.Studio
 series: Tools
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/tools/
 toc: false
@@ -21,9 +40,9 @@ weight: 4
 seo: true
 distribution: true
 search: indexed
-search_intent: "Pivtorak.Studio tools, calculators, converters, templates, and SEO methods"
-article_type: "tools landing page"
-primary_topic: "Pivtorak.Studio tools"
+search_intent: Pivtorak.Studio tools, calculators, converters, templates, and SEO methods
+article_type: tools landing page
+primary_topic: Pivtorak.Studio tools
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +50,7 @@ event_date: 2026-10-03T10:00:00+01:00
 publication_date: 2026-10-03T10:00:00+01:00
 lastmod: 2026-10-03T10:00:00+01:00
 image: /images/tools.webp
-alt: "A dark technical workspace with measuring instruments, an abacus, a calculator, an engineering ruler, technical drawings, books, and a warm desk lamp, with the title TOOLS."
+alt: A dark technical workspace with measuring instruments, an abacus, a calculator, an engineering ruler, technical drawings, books, and a warm desk lamp, with the title TOOLS.
 ---
 
 

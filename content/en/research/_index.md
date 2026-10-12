@@ -1,19 +1,37 @@
-﻿---
+---
 id: research
 language: en
 translation_of: research
-title: "Research"
+title: Research
 description: "The intellectual core of Pivtorak.Studio: a structured body of inquiry connecting knowledge, analysis, attribution, and the development of ideas."
-summary: "Research brings together the systems and research directions used to examine complex subjects, connect evidence with context, and develop new models of understanding."
+summary: Research brings together the systems and research directions used to examine complex subjects, connect evidence with context, and develop new models of understanding.
 slug: research
-tags: [research, knowledge, analysis, attribution, Pivtorak.Studio]
-keywords: [Research, Pivtorak.Studio Research, knowledge, analysis, attribution, research directions, academic research, knowledge systems]
-categories: [Research, Knowledge, Analysis, Pivtorak.Studio]
+tags:
+  - research
+  - knowledge
+  - analysis
+  - attribution
+  - Pivtorak.Studio
+keywords:
+  - Research
+  - Pivtorak.Studio Research
+  - knowledge
+  - analysis
+  - attribution
+  - research directions
+  - academic research
+  - knowledge systems
+categories:
+  - Research
+  - Knowledge
+  - Analysis
+  - Pivtorak.Studio
 series: Research
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/research/
 toc: false
@@ -21,9 +39,9 @@ weight: 1
 seo: true
 distribution: true
 search: indexed
-search_intent: "Pivtorak.Studio research and knowledge systems"
-article_type: "research landing page"
-primary_topic: "Pivtorak.Studio research"
+search_intent: Pivtorak.Studio research and knowledge systems
+article_type: research landing page
+primary_topic: Pivtorak.Studio research
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +49,7 @@ event_date: 2026-10-03T07:00:00+01:00
 publication_date: 2026-10-03T07:00:00+01:00
 lastmod: 2026-10-03T07:00:00+01:00
 image: /images/research.webp
-alt: "A dark research desk with books, diagrams, notes, a knowledge network, and a magnifying glass, with the title RESEARCH."
+alt: A dark research desk with books, diagrams, notes, a knowledge network, and a magnifying glass, with the title RESEARCH.
 ---
 
 

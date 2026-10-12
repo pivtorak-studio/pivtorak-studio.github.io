@@ -36,7 +36,6 @@ visual_archive: true
 bookCollapseSection: true
 show_in_series_projects: true
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

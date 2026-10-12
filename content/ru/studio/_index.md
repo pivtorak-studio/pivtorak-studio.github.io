@@ -2,18 +2,35 @@
 id: studio
 language: ru
 translation_of: studio
-title: "Студия"
-description: "Рабочая среда Pivtorak.Studio, где идеи, исследования, проекты и визуальные системы разрабатываются, тестируются, документируются и совершенствуются."
-summary: "Студия представляет принципы, методы работы и непрерывный процесс развития Pivtorak.Studio."
+title: Студия
+description: Рабочая среда Pivtorak.Studio, где идеи, исследования, проекты и визуальные системы разрабатываются, тестируются, документируются и совершенствуются.
+summary: Студия представляет принципы, методы работы и непрерывный процесс развития Pivtorak.Studio.
 slug: studio
-tags: [студия, творческая практика, процесс, стандарты, Pivtorak.Studio]
-keywords: [Студия, Студия Pivtorak.Studio, творческая практика, процесс студии, методы работы, Pivtorak Studio Standard, Дневник процесса]
-categories: [Студия, Творческая практика, Процесс, Pivtorak.Studio]
+tags:
+  - студия
+  - творческая практика
+  - процесс
+  - стандарты
+  - Pivtorak.Studio
+keywords:
+  - Студия
+  - Студия Pivtorak.Studio
+  - творческая практика
+  - процесс студии
+  - методы работы
+  - Pivtorak Studio Standard
+  - Дневник процесса
+categories:
+  - Студия
+  - Творческая практика
+  - Процесс
+  - Pivtorak.Studio
 series: Studio
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-authors: [Anna Pivtorak]
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/studio/
 toc: false
@@ -21,9 +38,9 @@ weight: 3
 seo: true
 distribution: true
 search: indexed
-search_intent: "Студия Pivtorak.Studio, методы работы и творческий процесс"
-article_type: "studio landing page"
-primary_topic: "Pivtorak.Studio studio"
+search_intent: Студия Pivtorak.Studio, методы работы и творческий процесс
+article_type: studio landing page
+primary_topic: Pivtorak.Studio studio
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: false
@@ -31,7 +48,7 @@ event_date: 2026-10-03T09:00:00+01:00
 publication_date: 2026-10-03T09:00:00+01:00
 lastmod: 2026-10-03T09:00:00+01:00
 image: /images/studio.webp
-alt: "Тёмное рабочее пространство студии с двумя мониторами, книгами, заметками о проектах, фотографиями, схемами, геометрическим объектом и тёплой настольной лампой, с крупной надписью STUDIO."
+alt: Тёмное рабочее пространство студии с двумя мониторами, книгами, заметками о проектах, фотографиями, схемами, геометрическим объектом и тёплой настольной лампой, с крупной надписью STUDIO.
 ---
 
 

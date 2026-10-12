@@ -39,7 +39,6 @@ technical_status: verified
 bookCollapseSection: true
 show_in_series_research: true
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

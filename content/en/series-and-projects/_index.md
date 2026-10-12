@@ -65,57 +65,8 @@ alt: "A dark studio workspace with books, project notes, photographs, diagrams, 
   "mainEntity": {
     "@type": "ItemList",
     "name": "Series & Projects",
-    "numberOfItems": 8,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Living Topography",
-        "url": "https://pivtorak.studio/en/docs/living-topography/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "ESMÉE",
-        "url": "https://pivtorak.studio/en/docs/esmée-the-dragon-of-balance/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "The Majestic Discipline",
-        "url": "https://pivtorak.studio/en/docs/the-majestic-discipline/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Core Recalibration",
-        "url": "https://pivtorak.studio/en/docs/core-recalibration/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Political Design",
-        "url": "https://pivtorak.studio/en/docs/political-design/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Shield of Nation",
-        "url": "https://pivtorak.studio/en/docs/shield-of-nation/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Peaceful Life",
-        "url": "https://pivtorak.studio/en/docs/peaceful-life/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Extra Credit Problem",
-        "url": "https://pivtorak.studio/en/docs/extra-credit-problem/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "projects" >}},
+    "itemListElement": {{< projects-jsonld-items >}}
   }
 }
 </script>

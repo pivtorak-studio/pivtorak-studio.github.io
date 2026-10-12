@@ -7,6 +7,7 @@ title: "📚 Академические Публикации"
 description: "Академические исследования Anna Pivtorak в области экономики труда, демографии и социальной политики."
 bookCollapseSection: true
 weight: 30
+show_in_series_research: true
 ---
 
 # 📚 Академические Публикации  

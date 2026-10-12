@@ -1,30 +1,13 @@
-
-{{- $ids := slice
-  "knowledge-base"
-  "knowledge-graph"
-  "architecture-of-value"
-  "expertise"
-  "academic-publications"
--}}
-
+{{- $docs := site.GetPage "docs" -}}
+{{- $pages := where $docs.Sections "Params.show_in_series_research" true -}}
+{{- $pages = sort $pages "Weight" -}}
 {{- $items := slice -}}
-{{- $position := 0 -}}
-
-{{- range $ids -}}
-  {{- $id := . -}}
-  {{- $pages := where site.Pages "Params.id" $id -}}
-
-  {{- range $pages -}}
-    {{- if eq .Kind "section" -}}
-      {{- $position = add $position 1 -}}
-      {{- $items = $items | append (dict
-        "@type" "ListItem"
-        "position" $position
-        "name" .Title
-        "url" .Permalink
-      ) -}}
-    {{- end -}}
-  {{- end -}}
+{{- range $pages -}}
+  {{- $items = $items | append (dict
+    "@type" "ListItem"
+    "position" (add (len $items) 1)
+    "name" .Title
+    "url" .Permalink
+  ) -}}
 {{- end -}}
-
 {{- $items | jsonify -}}

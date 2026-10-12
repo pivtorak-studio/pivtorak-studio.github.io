@@ -65,57 +65,8 @@ alt: "Тёмное рабочее пространство студии с кн�
   "mainEntity": {
     "@type": "ItemList",
     "name": "Серии и проекты",
-    "numberOfItems": 8,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Живая Топография",
-        "url": "https://pivtorak.studio/ru/docs/living-topography/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "ESMÉE",
-        "url": "https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Величественная Дисциплина",
-        "url": "https://pivtorak.studio/ru/docs/the-majestic-discipline/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Перекалибровка Ядра",
-        "url": "https://pivtorak.studio/ru/docs/core-recalibration/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Политический Дизайн",
-        "url": "https://pivtorak.studio/ru/docs/political-design/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Щит Нации",
-        "url": "https://pivtorak.studio/ru/docs/shield-of-nation/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Мирная Жизнь",
-        "url": "https://pivtorak.studio/ru/docs/peaceful-life/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Задача Повышенной Сложности",
-        "url": "https://pivtorak.studio/ru/docs/extra-credit-problem/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "projects" >}},
+    "itemListElement": {{< projects-jsonld-items >}}
   }
 }
 </script>

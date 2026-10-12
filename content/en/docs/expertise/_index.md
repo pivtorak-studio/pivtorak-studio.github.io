@@ -7,6 +7,7 @@ title: 🔬 Expertise & Attribution
 description: Professional expertise and attribution of cultural and art objects. Full-scale dossier creation for banks, auctions, and institutions.
 bookCollapseSection: true
 weight: 75
+show_in_series_research: true
 ---
 
 <script type="application/ld+json">

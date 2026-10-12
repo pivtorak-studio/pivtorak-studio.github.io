@@ -67,39 +67,8 @@ alt: "Тёмный исследовательский стол с книгами
   "mainEntity": {
     "@type": "ItemList",
     "name": "Направления исследований",
-    "numberOfItems": 5,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "База знаний",
-        "url": "https://pivtorak.studio/ru/docs/knowledge-base/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Граф знаний",
-        "url": "https://pivtorak.studio/ru/docs/knowledge-graph/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Архитектура ценности",
-        "url": "https://pivtorak.studio/ru/docs/architecture-of-value/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Экспертиза и атрибуция",
-        "url": "https://pivtorak.studio/ru/docs/expertise/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Академические публикации",
-        "url": "https://pivtorak.studio/ru/docs/academic-publications/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "research" >}},
+    "itemListElement": {{< research-jsonld-items >}}
   }
 }
 </script>
@@ -112,35 +81,7 @@ alt: "Тёмный исследовательский стол с книгами
 
 Этот раздел объединяет системы и направления исследований, используемые для анализа сложных тем, установления связей между свидетельствами и контекстом и разработки новых моделей понимания.
 
-## База знаний
-
-Структурированная коллекция документированных знаний, источников, концепций и исследовательских материалов.
-
-{{< research-link id="knowledge-base" label="Перейти к Базе знаний" >}}
-
-## Граф знаний
-
-Система для отображения связей между концепциями, источниками, объектами и направлениями исследований.
-
-{{< research-link id="knowledge-graph" label="Перейти к Графу знаний" >}}
-
-## Архитектура ценности
-
-Исследовательская модель для изучения того, как контекст, значение, свидетельства и взаимосвязи участвуют в формировании ценности.
-
-{{< research-link id="architecture-of-value" label="Перейти к Архитектуре ценности" >}}
-
-## Экспертиза и атрибуция
-
-Исследования и экспертные досье, посвящённые атрибуции, интерпретации, происхождению и оценке культурных и интеллектуальных объектов.
-
-{{< research-link id="expertise" label="Перейти к Экспертизе и атрибуции" >}}
-
-## Академические публикации
-
-Коллекция академических исследований и публикаций в культурной, экономической, социальной и междисциплинарной областях.
-
-{{< research-link id="academic-publications" label="Перейти к Академическим публикациям" >}}
+{{< series-research-list >}}
 
 ---
 

@@ -66,21 +66,8 @@ alt: "Um espaço de trabalho de estúdio em tons escuros, com dois monitores, li
   "mainEntity": {
     "@type": "ItemList",
     "name": "Secções do Estúdio",
-    "numberOfItems": 2,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Padrão Pivtorak Studio",
-        "url": "https://pivtorak.studio/pt/docs/001-pivtorak-studio-standard/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Diário do Processo",
-        "url": "https://pivtorak.studio/pt/docs/process-diary/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "studio" >}},
+    "itemListElement": {{< studio-jsonld-items >}}
   }
 }
 </script>
@@ -93,17 +80,7 @@ O Estúdio é o ambiente de trabalho da Pivtorak.Studio: o espaço onde ideias, 
 
 Esta secção apresenta os princípios e métodos de trabalho do estúdio, bem como o registo contínuo da forma como os projetos individuais tomam forma.
 
-## Padrão Pivtorak Studio
-
-Um enquadramento que define os princípios, padrões e abordagem estrutural utilizados em toda a Pivtorak.Studio.
-
-[Explorar o Padrão Pivtorak Studio](/pt/docs/001-pivtorak-studio-standard/)
-
-## Diário do Processo
-
-Um registo de trabalho de experiências, decisões, iterações, desenvolvimento técnico e evolução prática dos projetos do estúdio.
-
-[Explorar o Diário do Processo](/pt/docs/process-diary/)
+{{< series-studio-list >}}
 
 ---
 

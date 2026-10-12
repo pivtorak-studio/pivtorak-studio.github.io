@@ -2,9 +2,10 @@
 title: 🏛️ Pivtorak Studio Standard
 description: "Система стандартів Pivtorak Studio: методологія створення експертних досьє, досліджень та інституційних документів."
 bookCollapseSection: true
-weight: 10
+weight: 31
 event_date: 2025-01-07
 publication_date: 2025-01-07
+show_in_series_studio: true
 ---
 
 <script type="application/ld+json">

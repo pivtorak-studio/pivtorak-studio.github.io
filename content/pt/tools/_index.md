@@ -66,33 +66,8 @@ alt: "Um espaço de trabalho técnico em tons escuros com instrumentos de mediç
   "mainEntity": {
     "@type": "ItemList",
     "name": "Secções das Ferramentas",
-    "numberOfItems": 4,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Calculadoras",
-        "url": "https://pivtorak.studio/pt/docs/calculators/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Conversores",
-        "url": "https://pivtorak.studio/pt/docs/converters/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Modelos",
-        "url": "https://pivtorak.studio/pt/docs/templates/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Truques de SEO",
-        "url": "https://pivtorak.studio/pt/docs/seo-tricks/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "tools" >}},
+    "itemListElement": {{< tools-jsonld-items >}}
   }
 }
 </script>
@@ -105,29 +80,7 @@ As Ferramentas reúnem instrumentos práticos desenvolvidos para apoiar a invest
 
 Esta secção inclui ferramentas para trabalhar com números e unidades, estruturas e modelos reutilizáveis, bem como métodos práticos para melhorar e manter a presença digital do estúdio.
 
-## Calculadoras
-
-Uma coleção de calculadoras desenvolvidas para cálculos práticos, análise, comparação e apoio à tomada de decisões.
-
-[Explorar as Calculadoras](/pt/docs/calculators/)
-
-## Conversores
-
-Ferramentas para converter valores, medidas, unidades e outros dados entre diferentes formatos e sistemas.
-
-[Explorar os Conversores](/pt/docs/converters/)
-
-## Modelos
-
-Estruturas e modelos reutilizáveis concebidos para apoiar a documentação consistente, a investigação, o desenvolvimento de conteúdos e o trabalho de projeto.
-
-[Explorar os Modelos](/pt/docs/templates/)
-
-## Truques de SEO
-
-Uma coleção prática de observações, métodos, experiências e soluções técnicas relacionadas com visibilidade nos motores de pesquisa, indexação, dados estruturados e otimização de websites.
-
-[Explorar Truques de SEO](/pt/docs/seo-tricks/)
+{{< series-tools-list >}}
 
 ---
 

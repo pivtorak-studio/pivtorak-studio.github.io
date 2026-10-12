@@ -1,6 +1,7 @@
 ---
 title: "Linha do Tempo — Arquivo Visual"
 description: "Uma cronologia visual da Pivtorak.Studio — obras, projetos, ideias e desenvolvimentos documentados organizados por data."
+show_in_series_archive: true
 ---
 
 # Linha do Tempo — Arquivo Visual

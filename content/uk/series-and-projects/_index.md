@@ -65,57 +65,8 @@ alt: "Темний робочий простір студії з книжкам�
   "mainEntity": {
     "@type": "ItemList",
     "name": "Серії та проєкти",
-    "numberOfItems": 8,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Жива Топографія",
-        "url": "https://pivtorak.studio/uk/docs/living-topography/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "ESMÉE",
-        "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Велична Дисципліна",
-        "url": "https://pivtorak.studio/uk/docs/the-majestic-discipline/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Перекалібрування Ядра",
-        "url": "https://pivtorak.studio/uk/docs/core-recalibration/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Політичний Дизайн",
-        "url": "https://pivtorak.studio/uk/docs/political-design/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Щит Нації",
-        "url": "https://pivtorak.studio/uk/docs/shield-of-nation/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Мирне Життя",
-        "url": "https://pivtorak.studio/uk/docs/peaceful-life/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Задача Підвищеної Складності",
-        "url": "https://pivtorak.studio/uk/docs/extra-credit-problem/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "projects" >}},
+    "itemListElement": {{< projects-jsonld-items >}}
   }
 }
 </script>

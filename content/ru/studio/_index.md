@@ -67,21 +67,8 @@ alt: "Тёмное рабочее пространство студии с дв�
   "mainEntity": {
     "@type": "ItemList",
     "name": "Разделы студии",
-    "numberOfItems": 2,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Стандарт Pivtorak Studio",
-        "url": "https://pivtorak.studio/ru/docs/001-pivtorak-studio-standard/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Дневник процесса",
-        "url": "https://pivtorak.studio/ru/docs/process-diary/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "studio" >}},
+    "itemListElement": {{< studio-jsonld-items >}}
   }
 }
 </script>
@@ -94,17 +81,7 @@ alt: "Тёмное рабочее пространство студии с дв�
 
 Этот раздел описывает принципы и рабочие методы студии, а также постоянно обновляемую историю того, как формируются отдельные проекты.
 
-## Стандарт Pivtorak Studio
-
-Система принципов, стандартов и структурного подхода, используемых в работе Pivtorak.Studio.
-
-[Открыть Стандарт Pivtorak Studio](/ru/docs/001-pivtorak-studio-standard/)
-
-## Дневник процесса
-
-Рабочая хроника экспериментов, решений, итераций, технической разработки и практического развития проектов студии.
-
-[Открыть Дневник процесса](/ru/docs/process-diary/)
+{{< series-studio-list >}}
 
 ---
 

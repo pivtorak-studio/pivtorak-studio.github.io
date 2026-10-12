@@ -66,7 +66,7 @@ alt: "Uma secretária de investigação em tons escuros com livros, diagramas, n
   "mainEntity": {
     "@type": "ItemList",
     "name": "Áreas de Investigação",
-    "numberOfItems": 5,
+    "numberOfItems": {{< series-item-count "research" >}},
     "itemListElement": {{< research-jsonld-items >}}
   }
 }
@@ -80,35 +80,7 @@ A Investigação constitui o núcleo intelectual da Pivtorak.Studio: um corpo es
 
 Esta secção reúne os sistemas e as linhas de investigação utilizados para analisar temas complexos, estabelecer relações entre evidência e contexto e desenvolver novos modelos de compreensão.
 
-## Base de Conhecimento
-
-Uma coleção estruturada de conhecimentos documentados, fontes, conceitos e materiais de investigação.
-
-{{< research-link id="knowledge-base" label="Explorar a Base de Conhecimento" >}}
-
-## Grafo de Conhecimento
-
-Um sistema para mapear relações entre conceitos, fontes, temas e áreas de investigação.
-
-{{< research-link id="knowledge-graph" label="Explorar o Grafo de Conhecimento" >}}
-
-## Arquitetura do Valor
-
-Um quadro de investigação para analisar como o contexto, o significado, a evidência e as relações contribuem para a construção do valor.
-
-{{< research-link id="architecture-of-value" label="Explorar a Arquitetura do Valor" >}}
-
-## Perícia e Atribuição
-
-Investigação e dossiês de peritagem centrados na atribuição, interpretação, proveniência e avaliação de objetos culturais e intelectuais.
-
-{{< research-link id="expertise" label="Explorar Perícia e Atribuição" >}}
-
-## Publicações Académicas
-
-Uma coleção de investigação e publicações académicas desenvolvidas nos domínios cultural, económico, social e interdisciplinar.
-
-{{< research-link id="academic-publications" label="Explorar as Publicações Académicas" >}}
+{{< series-research-list >}}
 
 ---
 

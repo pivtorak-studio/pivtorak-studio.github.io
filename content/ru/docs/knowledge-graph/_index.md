@@ -37,6 +37,7 @@ verification_model: conceptual
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: true
+show_in_series_research: true
 ---
 
 

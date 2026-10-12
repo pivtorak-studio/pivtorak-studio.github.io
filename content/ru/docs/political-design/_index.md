@@ -3,6 +3,7 @@ title: ⎚ Политический Дизайн
 description: "Серия #PoliticalDesign: политика как система и дизайн. Анализ долга, выборов, власти и государства как продукта и архитектуры."
 bookCollapseSection: true
 weight: 80
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

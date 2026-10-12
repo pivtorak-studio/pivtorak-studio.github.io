@@ -80,21 +80,8 @@ alt: A dark archival still life with books, index cards, maps, photographs, and 
   "mainEntity": {
     "@type": "ItemList",
     "name": "Archive Sections",
-    "numberOfItems": 2,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Timeline — Visual Archive",
-        "url": "https://pivtorak.studio/en/docs/timeline/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "The Movement Matrix",
-        "url": "https://pivtorak.studio/en/docs/the-movement-matrix/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "archive" >}},
+    "itemListElement": {{< archive-jsonld-items >}}
   }
 }
 </script>
@@ -108,17 +95,7 @@ The Archive preserves the documented chronology, projects, and structural record
 
 It brings together materials that are useful for understanding not only what has been created, but also how the studio's body of work has developed over time.
 
-## Timeline — Visual Archive
-
-A chronological record of the studio's development, projects, publications, research, and significant stages.
-
-[Explore the Timeline](/en/docs/timeline/)
-
-## The Movement Matrix
-
-A structural record of the studio's work, showing how projects, ideas, research, and recurring directions connect and evolve.
-
-[Explore The Movement Matrix](/en/docs/the-movement-matrix/)
+{{< series-archive-list >}}
 
 ---
 

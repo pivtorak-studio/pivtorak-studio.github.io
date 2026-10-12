@@ -58,6 +58,7 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

@@ -5,6 +5,7 @@ bookCollapseSection: true
 weight: 31
 event_date: 2025-01-07
 publication_date: 2025-01-07
+show_in_series_studio: true
 ---
 
 <script type="application/ld+json">

@@ -66,21 +66,8 @@ alt: "A dark studio workspace with two monitors, books, project notes, photograp
   "mainEntity": {
     "@type": "ItemList",
     "name": "Studio Sections",
-    "numberOfItems": 2,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Pivtorak Studio Standard",
-        "url": "https://pivtorak.studio/en/docs/001-pivtorak-studio-standard/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Process Diary",
-        "url": "https://pivtorak.studio/en/docs/process-diary/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "studio" >}},
+    "itemListElement": {{< studio-jsonld-items >}}
   }
 }
 </script>
@@ -93,17 +80,7 @@ Studio is the working environment of Pivtorak.Studio: the place where ideas, res
 
 This section describes the principles and working practices behind the studio, as well as the ongoing record of how individual projects take shape.
 
-## Pivtorak Studio Standard
-
-A framework defining the principles, standards, and structural approach used across Pivtorak.Studio.
-
-[Explore Pivtorak Studio Standard](/en/docs/001-pivtorak-studio-standard/)
-
-## Process Diary
-
-A working record of experiments, decisions, iterations, technical development, and the practical evolution of the studio's projects.
-
-[Explore Process Diary](/en/docs/process-diary/)
+{{< series-studio-list >}}
 
 ---
 

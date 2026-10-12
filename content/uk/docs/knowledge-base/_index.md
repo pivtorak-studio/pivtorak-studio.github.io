@@ -37,6 +37,7 @@ verification_model: editorial-research
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: true
+show_in_series_research: true
 ---
 
 <script type="application/ld+json">

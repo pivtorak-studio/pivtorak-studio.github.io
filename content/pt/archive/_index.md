@@ -80,21 +80,8 @@ alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotog
   "mainEntity": {
     "@type": "ItemList",
     "name": "Secções do Arquivo",
-    "numberOfItems": 2,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Cronologia — Arquivo Visual",
-        "url": "https://pivtorak.studio/pt/docs/timeline/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Matriz do Movimento",
-        "url": "https://pivtorak.studio/pt/docs/the-movement-matrix/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "archive" >}},
+    "itemListElement": {{< archive-jsonld-items >}}
   }
 }
 </script>
@@ -108,17 +95,7 @@ O Arquivo preserva a cronologia documentada, os projetos e os registos estrutura
 
 Reúne materiais que ajudam a compreender não apenas o que foi criado, mas também como o corpo de trabalho do estúdio se desenvolveu ao longo do tempo.
 
-## Cronologia — Arquivo Visual
-
-Um registo cronológico do desenvolvimento do estúdio, dos projetos, das publicações, da investigação e das suas etapas significativas.
-
-[Explorar a Cronologia](/pt/docs/timeline/)
-
-## Matriz do Movimento
-
-Um registo estrutural do trabalho do estúdio, mostrando como os projetos, as ideias, a investigação e as direções recorrentes se relacionam e evoluem.
-
-[Explorar a Matriz do Movimento](/pt/docs/the-movement-matrix/)
+{{< series-archive-list >}}
 
 ---
 

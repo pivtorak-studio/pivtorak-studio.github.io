@@ -3,6 +3,7 @@ title: 🧭 Diário do Processo
 description: "Série #ProcessDiary: documentação do processo de investigação, decisões, erros e transformações como base do proveniência a longo prazo."
 bookCollapseSection: true
 weight: 121
+show_in_series_studio: true
 ---
 
 <script type="application/ld+json">

@@ -36,6 +36,7 @@ verification_model: "Source → Generated Build → Live"
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: true
+show_in_series_tools: true
 ---
 
 <script type="application/ld+json">

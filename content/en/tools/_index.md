@@ -66,34 +66,9 @@ alt: "A dark technical workspace with measuring instruments, an abacus, a calcul
   "mainEntity": {
     "@type": "ItemList",
     "name": "Tools Sections",
-    "numberOfItems": 4,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Calculators",
-        "url": "https://pivtorak.studio/en/docs/calculators/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Converters",
-        "url": "https://pivtorak.studio/en/docs/converters/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Templates",
-        "url": "https://pivtorak.studio/en/docs/templates/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "SEO Tricks",
-        "url": "https://pivtorak.studio/en/docs/seo-tricks/"
-      }
-    ]
-  }
+    "numberOfItems": {{< series-item-count "tools" >}},
+    "itemListElement": {{< tools-jsonld-items >}}
+ }
 }
 </script>
 
@@ -105,29 +80,7 @@ Tools brings together practical instruments developed to support research, analy
 
 This section includes tools for working with numbers and units, reusable structures and templates, as well as practical methods for improving and maintaining the studio's digital presence.
 
-## Calculators
-
-A collection of calculators developed for practical calculations, analysis, comparison, and decision-making.
-
-[Explore Calculators](/en/docs/calculators/)
-
-## Converters
-
-Tools for converting values, measurements, units, and other data between different formats and systems.
-
-[Explore Converters](/en/docs/converters/)
-
-## Templates
-
-Reusable structures and templates designed to support consistent documentation, research, content development, and project work.
-
-[Explore Templates](/en/docs/templates/)
-
-## SEO Tricks
-
-A practical collection of observations, methods, experiments, and technical solutions related to search visibility, indexing, structured data, and website optimisation.
-
-[Explore SEO Tricks](/en/docs/seo-tricks/)
+{{< series-tools-list >}}
 
 ---
 

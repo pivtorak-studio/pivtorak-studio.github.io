@@ -1,0 +1,17 @@
+{{- $docs := site.GetPage "docs" -}}
+{{- $pages := where $docs.Sections "Params.show_in_series_studio" true -}}
+{{- $pages = sort $pages "Weight" -}}
+
+{{- $items := slice -}}
+{{- range $pages -}}
+  {{- if eq .Kind "section" -}}
+    {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" (add (len $items) 1)
+      "name" .Title
+      "url" .Permalink
+    ) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $items | jsonify -}}

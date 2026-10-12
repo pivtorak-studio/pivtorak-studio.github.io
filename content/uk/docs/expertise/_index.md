@@ -7,6 +7,7 @@ title: "🔬 Експертиза та Атрибуція"
 description: "Професійна експертиза та атрибуція об’єктів культури і мистецтва. Формування повноцінних досьє міжнародного рівня для банків, аукціонів та інституцій."
 bookCollapseSection: true
 weight: 20
+show_in_series_research: true
 ---
 
 <script type="application/ld+json">

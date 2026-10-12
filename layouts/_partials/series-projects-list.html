@@ -1,5 +1,5 @@
-
-{{- $pages := where .Site.Pages "Params.show_in_series_projects" true -}}
+{{- $docs := .Site.GetPage "docs" -}}
+{{- $pages := where $docs.Sections "Params.show_in_series_projects" true -}}
 {{- $pages = sort $pages "Weight" -}}
 
 {{- with $pages }}
@@ -13,7 +13,7 @@
           <p>{{ . | plainify }}</p>
         {{ end }}
       {{ end }}
-      <p><a href="{{ .RelPermalink }}">Explore {{ .Title }}</a></p>
+      <p><a href="{{ .RelPermalink }}">{{ T "series_explore" }} {{ .Title }}</a></p>
     </section>
   {{- end }}
 {{- end }}

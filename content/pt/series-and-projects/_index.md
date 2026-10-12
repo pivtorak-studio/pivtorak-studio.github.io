@@ -66,57 +66,8 @@ alt: "Um espaço de trabalho de estúdio em tons escuros com livros, notas de pr
   "mainEntity": {
     "@type": "ItemList",
     "name": "Séries e Projetos",
-    "numberOfItems": 8,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Topografia Viva",
-        "url": "https://pivtorak.studio/pt/docs/living-topography/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "ESMÉE",
-        "url": "https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "A Disciplina Majestosa",
-        "url": "https://pivtorak.studio/pt/docs/the-majestic-discipline/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Recalibração do Núcleo",
-        "url": "https://pivtorak.studio/pt/docs/core-recalibration/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Design Político",
-        "url": "https://pivtorak.studio/pt/docs/political-design/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Escudo da Nação",
-        "url": "https://pivtorak.studio/pt/docs/shield-of-nation/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Vida Pacífica",
-        "url": "https://pivtorak.studio/pt/docs/peaceful-life/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Desafio de Nível Superior",
-        "url": "https://pivtorak.studio/pt/docs/extra-credit-problem/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "projects" >}},
+    "itemListElement": {{< projects-jsonld-items >}}
   }
 }
 </script>

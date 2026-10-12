@@ -70,6 +70,7 @@ system_role: диагностическая-модель
 system_position: мета-серия
 framework_type: карта-трансформации
 entry_point: трагедия
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

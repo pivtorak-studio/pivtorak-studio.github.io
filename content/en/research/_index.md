@@ -66,7 +66,7 @@ alt: "A dark research desk with books, diagrams, notes, a knowledge network, and
   "mainEntity": {
     "@type": "ItemList",
     "name": "Research Areas",
-    "numberOfItems": 5,
+    "numberOfItems": {{< series-item-count "research" >}},
     "itemListElement": {{< research-jsonld-items >}}
   }
 }
@@ -80,35 +80,7 @@ Research is the intellectual core of Pivtorak.Studio: a structured body of inqui
 
 This section brings together the systems and research directions used to examine complex subjects, build connections between evidence and context, and develop new models of understanding.
 
-## Knowledge Base
-
-A structured collection of documented knowledge, sources, concepts, and research materials.
-
-{{< research-link id="knowledge-base" label="Explore the Knowledge Base" >}}
-
-## Knowledge Graph
-
-A system for mapping relationships between concepts, sources, subjects, and areas of research.
-
-{{< research-link id="knowledge-graph" label="Explore the Knowledge Graph" >}}
-
-## Architecture of Value
-
-A research framework for examining how context, meaning, evidence, and relationships contribute to the construction of value.
-
-{{< research-link id="architecture-of-value" label="Explore Architecture of Value" >}}
-
-## Expertise & Attribution
-
-Research and expert dossiers focused on attribution, interpretation, provenance, and the evaluation of cultural and intellectual objects.
-
-{{< research-link id="expertise" label="Explore Expertise & Attribution" >}}
-
-## Academic Publications
-
-A collection of academic research and publications developed across cultural, economic, social, and interdisciplinary fields.
-
-{{< research-link id="academic-publications" label="Explore Academic Publications" >}}
+{{< series-research-list >}}
 
 ---
 

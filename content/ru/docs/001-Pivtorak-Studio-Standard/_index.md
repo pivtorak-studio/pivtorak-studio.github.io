@@ -2,9 +2,10 @@
 title: 🏛️ Pivtorak Studio Standard
 description: Система стандартов для экспертных досье и научных документов.
 bookCollapseSection: true
-weight: 10
+weight: 31
 event_date: 2025-01-07
 publication_date: 2025-01-07
+show_in_series_studio: true
 ---
 ![Pivtorak Studio Standard](/images/001-pivtorak-studio-standard.webp)
 

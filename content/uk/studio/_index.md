@@ -66,21 +66,8 @@ alt: "Темний робочий простір студії з двома мо
   "mainEntity": {
     "@type": "ItemList",
     "name": "Розділи студії",
-    "numberOfItems": 2,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Стандарт Pivtorak Studio",
-        "url": "https://pivtorak.studio/uk/docs/001-pivtorak-studio-standard/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Щоденник процесу",
-        "url": "https://pivtorak.studio/uk/docs/process-diary/"
-      }
-    ]
+    "numberOfItems": {{< series-item-count "studio" >}},
+"itemListElement": {{< studio-jsonld-items >}}
   }
 }
 </script>
@@ -93,17 +80,7 @@ alt: "Темний робочий простір студії з двома мо
 
 Цей розділ описує принципи та робочі методи студії, а також постійний запис того, як формуються окремі проєкти.
 
-## Стандарт Pivtorak Studio
-
-Система принципів, стандартів і структурного підходу, що використовується в роботі Pivtorak.Studio.
-
-[Переглянути Стандарт Pivtorak Studio](/uk/docs/001-pivtorak-studio-standard/)
-
-## Щоденник процесу
-
-Робоча хроніка експериментів, рішень, ітерацій, технічної розробки та практичного розвитку проєктів студії.
-
-[Переглянути Щоденник процесу](/uk/docs/process-diary/)
+{{< series-studio-list >}}
 
 ---
 

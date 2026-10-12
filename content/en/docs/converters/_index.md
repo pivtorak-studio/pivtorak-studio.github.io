@@ -55,6 +55,7 @@ seo: true
 distribution: true
 search: indexed
 bookCollapseSection: true
+show_in_series_tools: true
 ---
 
 <script type="application/ld+json">

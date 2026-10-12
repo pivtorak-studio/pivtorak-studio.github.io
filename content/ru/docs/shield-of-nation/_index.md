@@ -4,6 +4,7 @@ description: "Исследовательская серия #ShieldOfNation: с�
 bookCollapseSection: true
 event_date: 2025-10-01T06:00:00
 publication_date: 2025-10-01T06:00:00
+show_in_series_projects: true
 ---
 
 <script type="application/ld+json">

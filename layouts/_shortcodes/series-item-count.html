@@ -1,0 +1,5 @@
+{{- $category := .Get 0 -}}
+{{- $key := printf "show_in_series_%s" $category -}}
+{{- $docs := .Page.Site.GetPage "docs" -}}
+{{- $pages := where $docs.Sections (printf "Params.%s" $key) true -}}
+{{- len $pages -}}

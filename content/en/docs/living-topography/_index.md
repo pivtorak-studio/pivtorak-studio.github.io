@@ -20,7 +20,7 @@ keywords:
   - movement
   - intercultural dialogue
   - creative practice
-image: /images/living-topography-series.webp
+image: /images/living-topography.webp
 alt: Dark topographic surface with flowing paths, traces, nodes and connections, representing Living Topography
 related:
   - /en/archive/

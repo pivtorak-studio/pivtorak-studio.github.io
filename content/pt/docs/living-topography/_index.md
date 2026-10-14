@@ -20,7 +20,7 @@ keywords:
   - movimento
   - diálogo intercultural
   - prática criativa
-image: /images/living-topography-series.webp
+image: /images/living-topography.webp
 alt: Superfície topográfica escura com caminhos, traços, nós e ligações fluidas, representando Living Topography
 related:
   - /pt/archive/

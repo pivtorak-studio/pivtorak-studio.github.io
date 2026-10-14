@@ -20,7 +20,7 @@ keywords:
   - рух
   - міжкультурний діалог
   - творча практика
-image: /images/living-topography-series.webp
+image: /images/living-topography.webp
 alt: Темна топографічна поверхня з плавними шляхами, слідами, вузлами та зв'язками, що представляють Living Topography
 related:
   - /uk/archive/

@@ -1,6 +1,8 @@
 ---
 title: "Linha do Tempo — Arquivo Visual"
 description: "Uma cronologia visual da Pivtorak.Studio — obras, projetos, ideias e desenvolvimentos documentados organizados por data."
+image: /images/archive.webp
+alt: Natureza-morta de arquivo em tons escuros, com livros, fichas, mapas, fotografias e uma bússola de latão, com o título ARCHIVE em grandes letras editoriais.
 show_in_series_archive: true
 id: timeline
 language: pt

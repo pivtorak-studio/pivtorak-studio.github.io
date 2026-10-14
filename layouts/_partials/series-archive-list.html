@@ -4,16 +4,21 @@
 
 {{- with $pages }}
   {{- range . }}
-    <section class="series-archive-item">
-      <h2>{{ .Title }}</h2>
-      {{ with .Description }}
-        <p>{{ . }}</p>
-      {{ else }}
-        {{ with .Summary }}
-          <p>{{ . | plainify }}</p>
-        {{ end }}
+    <section class="series-archive-item series-list-item{{ if not .Params.image }} series-list-item--text-only{{ end }}">
+      {{ if .Params.image }}
+        <img class="series-list-item__thumbnail" src="{{ .Params.image | safeURL }}" alt="{{ .Params.alt }}" loading="lazy" decoding="async">
       {{ end }}
-      <p><a href="{{ .RelPermalink }}">{{ T "series_explore" }} {{ .Title }}</a></p>
+      <div class="series-list-item__text">
+        <h2>{{ .Title }}</h2>
+        {{ with .Description }}
+          <p class="series-list-item__description">{{ . }}</p>
+        {{ else }}
+          {{ with .Summary }}
+            <p class="series-list-item__description">{{ . | plainify }}</p>
+          {{ end }}
+        {{ end }}
+        <p class="series-list-item__link"><a href="{{ .RelPermalink }}">{{ T "series_explore" }} {{ .Title }}</a></p>
+      </div>
     </section>
   {{- end }}
 {{- end }}

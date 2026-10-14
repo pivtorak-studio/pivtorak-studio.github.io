@@ -311,12 +311,15 @@
    Hugo Book Theme provides its own image sizing rules.
    ========================================================= */
 
+
 .book-page article img {
+  box-sizing: border-box;
   width: 260px !important;
   height: auto !important;
   float: right !important;
   margin: 0 0 1rem 1.5rem !important;
   display: block;
+  border: 1px solid var(--gray-200);
   border-radius: 8px;
 }
 

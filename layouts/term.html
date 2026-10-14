@@ -8,13 +8,20 @@
   </article>
 
   {{ range sort .Paginator.Pages }}
-    <article class="book-post markdown">
-      <h2>
-        <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
-      </h2>
+    {{ $page := . }}
+    <article class="book-post book-post--term-list markdown">
+      <div class="book-post-container book-post-container--term-list{{ if not .Params.image }} book-post-container--text-only{{ end }} flex gap">
+        {{ with $page.Params.image }}
+          <div class="book-post-thumbnail">
+            <img src="{{ . }}" alt="{{ $page.Params.alt }}" loading="lazy" />
+          </div>
+        {{ end }}
 
-      <div class="book-post-container flex gap">
-        <div>
+        <div class="book-post-text">
+          <h2>
+            <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
+          </h2>
+
           {{ partial "docs/post-meta" . }}
 
           <div class="book-post-content markdown-inner">
@@ -25,12 +32,6 @@
             {{ end }}
           </div>
         </div>
-
-        {{ with .Params.image }}
-          <div class="book-post-thumbnail">
-            <img src="{{ . }}" alt="{{ $.Params.alt }}" loading="lazy" />
-          </div>
-        {{ end }}
       </div>
     </article>
   {{ end }}

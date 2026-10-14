@@ -14,6 +14,66 @@
   aspect-ratio: 1 / 1;
 }
 
+/* Category and tag term-page article rows */
+.book-post--term-list .book-post-container--term-list {
+  display: grid !important;
+  grid-template-columns: 8rem minmax(0, 1fr);
+  align-items: start;
+  gap: 1rem;
+}
+
+.book-post--term-list .book-post-container--text-only {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.book-post--term-list .book-post-thumbnail {
+  display: block;
+  flex: none;
+  width: 8rem;
+}
+
+.book-post--term-list .book-post-thumbnail img {
+  display: block;
+  box-sizing: border-box;
+  width: 8rem !important;
+  height: 8rem !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  float: none !important;
+  margin: 0 !important;
+  border: 1px solid var(--gray-200);
+  border-radius: 8px;
+}
+
+.book-post--term-list .book-post-text {
+  min-width: 0;
+}
+
+.book-post--term-list .book-post-text > h2 {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 40rem) {
+  .book-post--term-list .book-post-container--term-list {
+    grid-template-columns: 5rem minmax(0, 1fr);
+    gap: 0.75rem;
+  }
+
+  .book-post--term-list .book-post-container--text-only {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .book-post--term-list .book-post-thumbnail,
+  .book-post--term-list .book-post-thumbnail img {
+    width: 5rem;
+  }
+
+  .book-post--term-list .book-post-thumbnail img {
+    width: 5rem !important;
+    height: 5rem !important;
+  }
+}
+
 .series-research-item,
 .series-list-item {
   clear: both;

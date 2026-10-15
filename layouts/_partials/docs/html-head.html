@@ -52,8 +52,11 @@ document.addEventListener("DOMContentLoaded", function () {
 <link rel="manifest" href="{{ $manifest.RelPermalink }}">
 <link rel="canonical" href="{{ .Permalink }}">
 
-{{- range .Translations }}
+{{- $translations := .AllTranslations -}}
+{{- if gt (len $translations) 1 -}}
+{{- range $translations }}
   <link rel="alternate" hreflang="{{ default .Site.Language.Locale .Language.Name }}" href="{{ .Permalink }}" title="{{ partial "docs/title" . }}">
+{{- end -}}
 {{- end -}}
 
 <!-- Theme stylesheet, you can customize scss by creating `assets/custom.scss` in your website -->

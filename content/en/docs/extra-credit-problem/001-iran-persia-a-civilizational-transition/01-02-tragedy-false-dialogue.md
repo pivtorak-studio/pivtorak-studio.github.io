@@ -97,14 +97,8 @@ timeline: /en/archive/
   "url": "https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/01-02-tragedy-false-dialogue/",
   "datePublished": "2026-01-17T11:00:00+00:00",
   "dateModified": "2026-01-17T11:00:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-01-02-tragedy-false-dialogue.webp",
   "keywords": [
     "False Dialogue",

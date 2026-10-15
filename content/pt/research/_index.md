@@ -64,7 +64,7 @@ alt: Uma secretária de investigação em tons escuros com livros, diagramas, no
   "inLanguage": "pt",
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "url": "https://pivtorak.studio/",
     "name": "Pivtorak.Studio"
   },
@@ -72,15 +72,8 @@ alt: Uma secretária de investigação em tons escuros com livros, diagramas, no
     "@type": "Thing",
     "name": "Investigação da Pivtorak.Studio"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "mainEntity": {
     "@type": "ItemList",
     "name": "Áreas de Investigação",

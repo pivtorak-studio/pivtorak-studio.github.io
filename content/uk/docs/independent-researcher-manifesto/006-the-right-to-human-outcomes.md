@@ -66,20 +66,8 @@ symbol: Людське Ядро
     "Гідність",
     "Свобода"
   ],
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/uk/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/pivtorak-studio-logo.webp"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "isPartOf": {
     "@type": "CollectionPage",
     "name": "Маніфест Незалежного Дослідника",

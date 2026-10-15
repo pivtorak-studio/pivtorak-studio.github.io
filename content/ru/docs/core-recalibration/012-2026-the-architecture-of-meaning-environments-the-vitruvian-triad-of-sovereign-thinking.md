@@ -67,10 +67,7 @@ search: indexed
   "inLanguage": "ru",
   "datePublished": "2026-05-31T23:00:00+01:00",
   "dateModified": "2026-05-31T23:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "image": "https://pivtorak.studio/images/core-recalibration-012-2026-the-architecture-of-meaning-environments-the-vitruvian-triad-of-sovereign-thinking.webp",
   "keywords": [
     "Архитектура смысловых сред",
@@ -90,11 +87,7 @@ search: indexed
     "@type": "CreativeWorkSeries",
     "name": "Core Recalibration"
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

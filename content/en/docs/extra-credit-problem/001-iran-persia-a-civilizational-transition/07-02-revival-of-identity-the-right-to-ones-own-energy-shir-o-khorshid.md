@@ -130,16 +130,8 @@ navigation_order: 07-02
     "name": "Extra Credit Problem (The Asterisk Problem)",
     "alternateName": "Iran – Persia: A Civilizational Transition"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-02-revival-of-identity-the-right-to-ones-own-energy-shir-o-khorshid.webp",

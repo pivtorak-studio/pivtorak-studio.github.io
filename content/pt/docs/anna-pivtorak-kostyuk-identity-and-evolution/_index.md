@@ -29,6 +29,7 @@ images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://pivtorak.studio/en/#person",
   "name": "Anna Pivtorak",
   "alternateName": "Anna Kostyuk",
   "description": "Historiadora de arte, investigadora e fundadora da Pivtorak Studio.",

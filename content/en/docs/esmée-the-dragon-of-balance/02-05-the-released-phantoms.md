@@ -54,15 +54,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-05-the-released-phantoms.webp",
     "caption": "Esmée sits among translucent shadows, echoes of the past dissolving into light. Geometric lines and symbols float before her as she observes them with a calm, focused gaze."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Creative Writing",
     "Mythological Art",

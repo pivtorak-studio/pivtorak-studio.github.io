@@ -87,15 +87,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-01-birth-of-libra.webp",
     "caption": "Эсме стоит в потоках света между человеческими и драконьими крыльями. Пламя и воздух сливаются в равновесии."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Художественное творчество",
     "Мифологическое искусство",

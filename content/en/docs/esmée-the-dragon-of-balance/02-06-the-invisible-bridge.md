@@ -54,15 +54,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge.webp",
     "caption": "Esmée stands above a misty expanse, holding glowing scales. An invisible bridge shimmers faintly ahead in the light, connecting the known realm behind her with the possibilities before her."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Creative Writing",
     "Mythological Art",

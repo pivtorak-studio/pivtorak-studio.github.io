@@ -85,16 +85,8 @@ search: indexed
     "Нереалізований Профіцит",
     "Розквіт"
   ],
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "isPartOf":{
     "@type":"CreativeWorkSeries",
     "name":"ПерекалібруванняЯдра"

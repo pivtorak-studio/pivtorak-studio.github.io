@@ -38,14 +38,8 @@ weight: 100
   "headline": "Свобода и Мета-Контроль",
   "description": "Философское исследование свободы, внутренней ответственности и системности без жёсткого контроля.",
   "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-freedom-and-meta-control.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak Kostyuk"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-05-12T15:00:00",
   "dateCreated": "2026-05-07T10:00:00",
   "mainEntityOfPage": {

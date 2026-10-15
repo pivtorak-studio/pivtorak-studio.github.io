@@ -75,7 +75,7 @@ bookCollapseSection: true
   "description":"Uma série original que explora a transformação como transição para um novo sistema através de etapas estruturadas.",
   "isPartOf":{
     "@type":"WebSite",
-    "@id":"https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "name":"Pivtorak.Studio",
     "url":"https://pivtorak.studio/"
   },
@@ -85,10 +85,7 @@ bookCollapseSection: true
     "name":"A Fórmula da Transformação",
     "alternateName":"FormulaOfTransformation",
     "description":"Uma série original sobre a transformação como transição para um novo sistema.",
-    "creator":{
-      "@type":"Person",
-      "name":"Anna Pivtorak"
-    },
+    "creator":{"@id": "https://pivtorak.studio/en/#person"},
     "genre":"Metodologia de Investigação",
     "keywords":[
       "Transformação",
@@ -101,15 +98,8 @@ bookCollapseSection: true
   "image":"https://pivtorak.studio/images/pivtorak-studio-the-formula-of-transformation.webp",
   "datePublished":"2025-07-07T08:00:00+01:00",
   "dateModified":"2025-07-07T08:00:00+01:00",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  }
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}}
 }
 </script>
 

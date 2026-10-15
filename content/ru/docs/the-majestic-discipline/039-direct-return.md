@@ -84,18 +84,8 @@ guiding_question: Достаточно ли я доверяю собственн
   "inLanguage":"ru",
   "datePublished":"2026-07-04T06:00:00+01:00",
   "dateModified":"2026-07-04T06:00:00+01:00",
-  "author":{
-    "@type":"Person",
-    "name":"Анна Пивторак"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "logo":{
-      "@type":"ImageObject",
-      "url":"https://pivtorak.studio/favicon.svg"
-    }
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "image":{
     "@type":"ImageObject",
     "url":"https://pivtorak.studio/images/the-majestic-discipline-039-direct-return.webp",

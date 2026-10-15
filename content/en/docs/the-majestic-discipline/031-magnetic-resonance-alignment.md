@@ -80,16 +80,8 @@ guiding_question: "Can you trust the direction that already lives within you?"
 "@type": "CreativeWorkSeries",  
 "name": "The Majestic Discipline"  
 },  
-"creator": {  
-"@type": "Person",  
-"name": "Anna Pivtorak",  
-"url": "https://pivtorak.studio/"  
-},  
-"publisher": {  
-"@type": "Organization",  
-"name": "Pivtorak.Studio",  
-"url": "https://pivtorak.studio/"  
-},  
+"creator": {"@id": "https://pivtorak.studio/en/#person"},
+"publisher": {{< schema-organization-reference >}},
 "copyrightHolder": {  
 "@type": "Person",  
 "name": "Anna Pivtorak"  

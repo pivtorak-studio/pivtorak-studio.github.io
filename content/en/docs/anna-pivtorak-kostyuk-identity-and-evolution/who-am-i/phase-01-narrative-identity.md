@@ -15,11 +15,7 @@ lastmod: 2025-03-12T09:00:00
   "@type": "Article",
   "headline": "Who am I? — Phase I — Narrative Identity (2025)",
   "description": "The first documented phase of identity as a visual storyteller and researcher.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "alternateName": "Anna Kostyuk"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2025-03",
   "inLanguage": "en",
   "isPartOf": {

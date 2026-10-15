@@ -88,20 +88,8 @@ show_in_series_projects: true
     "name": "Pivtorak.Studio",
     "url": "https://pivtorak.studio/"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/logo.png"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "about": [
     {
       "@type": "Thing",

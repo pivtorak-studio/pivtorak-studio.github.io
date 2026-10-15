@@ -40,16 +40,8 @@ search: indexed
   "description": "Роздуми про парадокс світу, у якому мир і свобода можуть опинитися скутими, тоді як руйнування та абсурд отримують простір для дій.",
   "datePublished": "2026-09-05T12:00:00+01:00",
   "dateModified": "2026-09-05T12:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Анна Півторак (Костюк)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Анна Півторак (Костюк)",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-039-peace-behind-the-bars-of-absurdity.webp",

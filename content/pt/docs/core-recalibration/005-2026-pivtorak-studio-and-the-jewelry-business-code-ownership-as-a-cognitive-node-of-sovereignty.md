@@ -61,10 +61,7 @@ search: indexed
   "@type": "TechArticle",
   "headline": "Pivtorak.Studio & TheJewelry.Business. A Posse do Código como Nó Cognitivo de Soberania",
   "description": "Um ensaio sobre a criação de um ecossistema digital autónomo através do Pivtorak.Studio e do TheJewelry.Business, soberania cognitiva, arquitetura GitHub, SEO, pensamento cibernético e a transição de existir em plataformas alheias para possuir o código e a arquitetura do próprio espaço.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2026-05-19T15:00:00+00:00",
   "dateModified": "2026-05-19T15:00:00+00:00",
   "image": "https://pivtorak.studio/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp",
@@ -80,11 +77,7 @@ search: indexed
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/pt/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/"
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio"
-  }
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

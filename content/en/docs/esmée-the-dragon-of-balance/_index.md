@@ -54,16 +54,8 @@ show_in_series_projects: true
     "url": "https://pivtorak.studio/images/esm%C3%A9e-the-dragon-of-balance.webp",
     "caption": "ESMÉE, the Dragon of Balance, a dragon-like woman with curved horns, dark wavy hair, scaled skin, and expansive wings, portrayed against a luminous fantasy landscape."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "about": [
     {
       "@type": "Thing",
@@ -99,10 +91,7 @@ show_in_series_projects: true
     "@id": "https://pivtorak.studio/en/docs/esm%C3%A9e-the-dragon-of-balance/#series",
     "name": "ESMÉE — The Dragon of Balance",
     "inLanguage": ["en", "pt", "ru", "uk"],
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    }
+    "creator": {"@id": "https://pivtorak.studio/en/#person"}
   },
   "hasPart": [
     {
@@ -125,10 +114,7 @@ show_in_series_projects: true
     "@type": "CreativeWorkSeries",
     "name": "ESMÉE — The Dragon of Balance",
     "description": "An evolving visual and conceptual series exploring balance through presence, inner architecture, and the transformation of perception.",
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    },
+    "creator": {"@id": "https://pivtorak.studio/en/#person"},
     "genre": [
       "Visual Art",
       "Conceptual Art",

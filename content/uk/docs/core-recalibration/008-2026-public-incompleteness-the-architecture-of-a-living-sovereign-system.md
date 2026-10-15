@@ -66,15 +66,8 @@ search: indexed
   "alternativeHeadline": "Жива система дихає відкрито",
   "description": "Філософське та архітектурне осмислення структурованої незавершеності, прозорої розробки та суверенних цифрових екосистем, які розвиваються публічно без приховування чернеток, нестабільності чи процесів реконструкції.",
   "image": "https://pivtorak.studio/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "uk",
   "datePublished": "2026-05-26T21:00:00+01:00",
   "dateModified": "2026-05-26T21:00:00+01:00",

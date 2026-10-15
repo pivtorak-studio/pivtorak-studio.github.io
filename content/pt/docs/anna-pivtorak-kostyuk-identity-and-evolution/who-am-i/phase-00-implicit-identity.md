@@ -106,15 +106,8 @@ search: indexed
     "name": "Jewelry Business 11–12'2008",
     "description": "Entrevista com Anna Pivtorak publicada na edição de dezembro de 2008 da Jewelry Business."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

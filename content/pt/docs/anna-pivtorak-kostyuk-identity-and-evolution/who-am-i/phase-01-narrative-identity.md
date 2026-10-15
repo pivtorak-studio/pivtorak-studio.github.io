@@ -15,11 +15,7 @@ lastmod: 2025-03-12T09:00:00
   "@type": "Article",
   "headline": "Quem sou eu? — Fase I — Identidade Narrativa (2025)",
   "description": "Primeira fase documentada da identidade como narradora visual e investigadora.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "alternateName": "Anna Kostyuk"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2025-03",
   "inLanguage": "pt",
   "isPartOf": {

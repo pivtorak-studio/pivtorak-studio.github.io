@@ -67,15 +67,8 @@ show_in_series_archive: true
   "datePublished": "2026-06-05T10:00:00+00:00",
   "dateModified": "2026-06-05T10:00:00+00:00",
   "image": "https://pivtorak.studio/images/the-movement-matrix.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "isPartOf": {
     "@type": "WebSite",
     "name": "Pivtorak.Studio",

@@ -66,15 +66,8 @@ search: indexed
   "alternativeHeadline": "Um Sistema Vivo Respira Abertamente",
   "description": "Uma reflexão filosófica e arquitetónica sobre incompletude estruturada, desenvolvimento transparente e ecossistemas digitais soberanos que evoluem publicamente sem esconder rascunhos, instabilidade ou processos de reconstrução.",
   "image": "https://pivtorak.studio/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "pt-PT",
   "datePublished": "2026-05-26T21:00:00+01:00",
   "dateModified": "2026-05-26T21:00:00+01:00",

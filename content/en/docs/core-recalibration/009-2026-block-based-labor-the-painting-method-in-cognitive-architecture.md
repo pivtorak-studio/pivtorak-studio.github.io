@@ -67,15 +67,8 @@ search: indexed
   "alternativeHeadline": "Mastery lies in ensuring the system is integrated at every microcycle of its creation.",
   "description": "An exploration of phased integrity, modular cognition, and block-based labor as a sovereign operational method derived from classical painting techniques and transposed into digital architecture, multilingual systems, and cognitive infrastructure.",
   "image": "https://pivtorak.studio/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "en",
   "datePublished": "2026-05-27T12:00:00+01:00",
   "dateModified": "2026-05-27T12:00:00+01:00",

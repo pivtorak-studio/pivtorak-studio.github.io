@@ -73,15 +73,8 @@ search: indexed
   "datePublished": "2026-05-30T18:00:00+01:00",
   "dateModified": "2026-05-30T18:00:00+01:00",
   "image": "https://pivtorak.studio/images/core-recalibration-010-2026-coordinates-of-the-heart-vector-navigation-and-the-ethics-of-inner-honesty.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "keywords": [
     "Core Recalibration",
     "Heart Vector",

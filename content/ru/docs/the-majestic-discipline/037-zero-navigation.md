@@ -86,18 +86,8 @@ guiding_question: Смогу ли я сохранить точную ориен�
   "inLanguage":"ru",
   "datePublished":"2026-07-03T15:00:00+01:00",
   "dateModified":"2026-07-03T15:00:00+01:00",
-  "author":{
-    "@type":"Person",
-    "name":"Анна Пивторак"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "logo":{
-      "@type":"ImageObject",
-      "url":"https://pivtorak.studio/favicon.svg"
-    }
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "image":{
     "@type":"ImageObject",
     "url":"https://pivtorak.studio/images/the-majestic-discipline-037-zero-navigation.webp",

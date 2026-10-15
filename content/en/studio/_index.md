@@ -63,7 +63,7 @@ alt: A dark studio workspace with two monitors, books, project notes, photograph
   "inLanguage": "en",
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "url": "https://pivtorak.studio/",
     "name": "Pivtorak.Studio"
   },
@@ -71,15 +71,8 @@ alt: A dark studio workspace with two monitors, books, project notes, photograph
     "@type": "Thing",
     "name": "Pivtorak.Studio Studio"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "mainEntity": {
     "@type": "ItemList",
     "name": "Studio Sections",

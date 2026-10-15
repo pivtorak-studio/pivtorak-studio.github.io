@@ -66,16 +66,8 @@ entry_point: "исследовательская идентичность"
   "inLanguage": "ru",
   "datePublished": "2026-03-18T09:00:00+00:00",
   "dateModified": "2026-03-18T09:00:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/ru/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/independent-researcher-manifesto.webp",

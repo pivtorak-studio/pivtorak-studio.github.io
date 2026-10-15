@@ -32,6 +32,7 @@ search: indexed
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://pivtorak.studio/en/#person",
   "name": "Anna Pivtorak Kostyuk",
   "alternateName": [
     "Anna Pivtorak",

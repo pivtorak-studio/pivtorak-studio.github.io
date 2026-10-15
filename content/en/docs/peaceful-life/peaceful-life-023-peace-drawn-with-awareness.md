@@ -87,15 +87,8 @@ search: indexed
   },
   "position": 23,
   "keywords": ["PeacefulLife", "Peace", "Awareness", "Responsibility", "Political Design", "Pivtorak Studio"],
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

@@ -33,29 +33,6 @@ related:
 <link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
 <link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Anna Pivtorak (Kostyuk)",
-  "alternateName": [
-    "Анна Півторак",
-    "Анна Костюк",
-    "Anna Kostyuk",
-    "Anna Pivtorak Kostyuk",
-    "Анна Пивторак",
-    "Анна Пивторак Костюк"
-  ],
-  "url": "https://pivtorak.studio",
-  "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-who-am-i-phase-01-narrative-identity.webp",
-  "birthDate": "1976-10-09",
-  "sameAs": [
-    "https://pivtorak.studio/anna-pivtorak"
-  ]
-}
-</script>
-
-
 **∴ 0.01 | Pivtorak.Studio — Офіційний Вебсайт | Анна Півторак (Костюк)**  
 
 # Концептуальна Система Формування Довгострокових Структур Цінності

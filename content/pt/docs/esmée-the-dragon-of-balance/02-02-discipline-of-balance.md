@@ -55,15 +55,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-02-discipline-of-balance.webp",
     "caption": "Esmée está ao vento, com as asas abertas, uma humana e outra dracónica. A luz do amanhecer envolve-a; os seus movimentos são serenos, mas poderosos."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Escrita Criativa",
     "Arte Mitológica",

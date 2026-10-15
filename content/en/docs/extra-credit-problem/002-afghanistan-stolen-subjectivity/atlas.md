@@ -95,17 +95,14 @@ bookCollapseSection: true
   "description":"A semantic navigation layer organizing the Afghanistan Stolen Subjectivity research through knowledge maps, ontologies, systemic relationships, timelines, and recovery pathways.",
   "inLanguage":"en",
   "isPartOf":{
-    "@id":"https://pivtorak.studio/#website"
+    "@id": "https://pivtorak.studio/en/#website"
   },
   "about":{
     "@id":"https://pivtorak.studio/en/docs/extra-credit-problem/002-afghanistan-stolen-subjectivity/#research"
   },
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
   "publisher":{
-    "@id":"https://pivtorak.studio/#organization"
+    "@id": "https://pivtorak.studio/en/#organization"
   },
   "image":"https://pivtorak.studio/images/extra-credit-problem-002-afghanistan-stolen-subjectivity-atlas.webp",
   "datePublished":"2026-07-09T23:00:00+01:00",

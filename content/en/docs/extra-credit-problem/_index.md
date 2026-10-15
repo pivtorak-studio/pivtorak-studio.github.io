@@ -88,14 +88,8 @@ show_in_series_projects: true
     "name":"Pivtorak.Studio",
     "url":"https://pivtorak.studio/"
   },
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{"@id": "https://pivtorak.studio/en/#organization"},
   "about":[
     "Systems Analysis",
     "Civilizational Transformation",

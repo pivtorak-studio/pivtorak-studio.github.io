@@ -54,16 +54,8 @@ show_in_series_projects: true
     "url": "https://pivtorak.studio/images/esm%C3%A9e-the-dragon-of-balance.webp",
     "caption": "ESMÉE, o Dragão do Equilíbrio, uma mulher com traços de dragão, cabelo escuro ondulado, pele com escamas e grandes asas, perante uma paisagem fantástica luminosa."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "about": [
     {
       "@type": "Thing",
@@ -99,10 +91,7 @@ show_in_series_projects: true
     "@id": "https://pivtorak.studio/pt/docs/esm%C3%A9e-the-dragon-of-balance/#series",
     "name": "ESMÉE — O Dragão do Equilíbrio",
     "inLanguage": ["en", "pt", "ru", "uk"],
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    }
+    "creator": {"@id": "https://pivtorak.studio/en/#person"}
   },
   "hasPart": [
     {
@@ -125,10 +114,7 @@ show_in_series_projects: true
     "@type": "CreativeWorkSeries",
     "name": "ESMÉE — O Dragão do Equilíbrio",
     "description": "Uma série visual e conceptual em evolução que explora o equilíbrio através da presença, da arquitetura interior e da transformação da perceção.",
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    },
+    "creator": {"@id": "https://pivtorak.studio/en/#person"},
     "genre": [
       "Arte Visual",
       "Arte Conceptual",

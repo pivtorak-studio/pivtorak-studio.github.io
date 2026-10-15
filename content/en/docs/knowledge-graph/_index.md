@@ -50,16 +50,8 @@ show_in_series_research: true
   "inLanguage": "en",
   "datePublished": "2026-10-05T21:00:00+01:00",
   "dateModified": "2026-10-05T21:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/en/docs/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/knowledge-graph.webp",
   "articleSection": "Research",
   "keywords": [

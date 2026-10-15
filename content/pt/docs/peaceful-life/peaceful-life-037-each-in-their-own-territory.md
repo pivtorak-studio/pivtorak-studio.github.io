@@ -56,15 +56,8 @@ search: indexed
   "description": "Uma vida pacífica começa pelo respeito pelos limites naturais. Um urso-polar no Ártico e uma orca no oceano lembram-nos que territórios diferentes não têm de se transformar em razões para o conflito.",
   "datePublished": "2026-09-01T15:00:00+01:00",
   "dateModified": "2026-09-01T15:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-037-each-in-their-own-territory.webp",

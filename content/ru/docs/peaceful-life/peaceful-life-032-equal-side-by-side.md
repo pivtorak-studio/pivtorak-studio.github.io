@@ -74,18 +74,8 @@ search: indexed
     "url": "https://pivtorak.studio/images/peaceful-life-032-equal-side-by-side.webp",
     "caption": "Равные. Рядом."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/logo.webp"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-07-01T16:00:00+01:00",
   "dateModified": "2026-07-01T16:00:00+01:00",
   "keywords": [

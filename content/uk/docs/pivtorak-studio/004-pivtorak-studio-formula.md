@@ -84,16 +84,8 @@ search: indexed
     "name":"Pivtorak.Studio — The Formula of Transformation",
     "position":4
   },
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/uk/"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/uk/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "dateCreated":"2025-01-05T12:00:00+00:00",
   "datePublished":"2025-07-07T12:00:00+00:00",
   "dateModified":"2025-07-07T12:00:00+00:00",

@@ -59,19 +59,8 @@ search: indexed
   "image": [
     "https://pivtorak.studio/images/core-recalibration-018-2026-scale-evolution-from-daily-work-to-research-program.webp"
   ],
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/logo.webp"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-06-30T17:00:00+01:00",
   "dateModified": "2026-06-30T17:00:00+01:00",
   "keywords": [

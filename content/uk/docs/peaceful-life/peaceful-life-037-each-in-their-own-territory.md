@@ -56,15 +56,8 @@ search: indexed
   "description": "Мирне життя починається з поваги до природних меж. Білий ведмідь в Арктиці та косатка в океані нагадують: різні території не повинні ставати причиною конфлікту.",
   "datePublished": "2026-09-01T15:00:00+01:00",
   "dateModified": "2026-09-01T15:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Анна Півторак (Костюк)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Анна Півторак (Костюк)"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-037-each-in-their-own-territory.webp",

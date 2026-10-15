@@ -59,14 +59,8 @@ search: indexed
   "inLanguage": "pt-PT",
   "datePublished": "2025-10-13T11:00:00+01:00",
   "dateModified": "2025-10-13T11:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/peaceful-life-013-childhood-must-be-warm.webp",
   "mainEntityOfPage": {
     "@type": "WebPage",

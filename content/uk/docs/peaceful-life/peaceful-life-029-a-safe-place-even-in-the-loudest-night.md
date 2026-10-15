@@ -65,14 +65,8 @@ search: indexed
   "inLanguage": "uk",
   "datePublished": "2026-06-03T14:00:00+01:00",
   "dateModified": "2026-06-03T14:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/peaceful-life-029-a-safe-place-even-in-the-loudest-night.webp",
   "isPartOf": {
     "@type": "CreativeWorkSeries",

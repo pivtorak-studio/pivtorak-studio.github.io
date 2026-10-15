@@ -54,15 +54,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-05-the-released-phantoms.webp",
     "caption": "Есме сидить серед напівпрозорих тіней — відлунь минулого, що розчиняються у світлі. Перед нею ширяють геометричні лінії та символи; її погляд спокійний і зосереджений."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Творче письмо",
     "Міфологічне мистецтво",

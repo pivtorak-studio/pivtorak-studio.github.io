@@ -83,15 +83,8 @@ guiding_question: Where do all my paths converge?
   "url":"https://pivtorak.studio/en/docs/the-majestic-discipline/036-pole-of-purpose/",
   "mainEntityOfPage":"https://pivtorak.studio/en/docs/the-majestic-discipline/036-pole-of-purpose/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-036-pole-of-purpose.webp",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "articleSection":"The Majestic Discipline",
   "keywords":[
     "Pole of Purpose",

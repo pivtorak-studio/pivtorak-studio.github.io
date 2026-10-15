@@ -56,14 +56,8 @@ show_in_series_tools: true
     "Штучний інтелект",
     "Технології"
   ],
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": "https://pivtorak.studio/images/converters.webp",
   "datePublished": "2026-07-07T18:00:00+01:00",
   "dateModified": "2026-07-07T18:00:00+01:00"

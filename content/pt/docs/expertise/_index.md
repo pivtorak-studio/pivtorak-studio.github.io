@@ -64,7 +64,7 @@ show_in_series_research: true
       "description": "Uma abordagem interdisciplinar rigorosa ao exame, à atribuição e à documentação de objetos do património cultural, artístico e espiritual.",
       "inLanguage": "pt",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "breadcrumb": {
         "@id": "https://pivtorak.studio/pt/docs/expertise/#breadcrumb"
@@ -78,10 +78,7 @@ show_in_series_research: true
       },
       "datePublished": "2026-01-07T09:00:00+01:00",
       "dateModified": "2026-10-12T13:45:00+01:00",
-      "author": {
-        "@type": "Person",
-        "name": "Anna Pivtorak"
-      }
+      "author": {"@id": "https://pivtorak.studio/en/#person"}
     },
     {
       "@type": "Collection",
@@ -90,10 +87,7 @@ show_in_series_research: true
       "description": "Dossiês Periciais que integram investigação histórica, análise contextual, interpretação e elementos de prova para utilização científica, institucional e prática.",
       "url": "https://pivtorak.studio/pt/docs/expertise/",
       "inLanguage": "pt",
-      "creator": {
-        "@type": "Person",
-        "name": "Anna Pivtorak"
-      },
+      "creator": {"@id": "https://pivtorak.studio/en/#person"},
       "keywords": [
         "dossiê pericial",
         "peritagem e atribuição",

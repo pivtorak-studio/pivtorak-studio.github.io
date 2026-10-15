@@ -137,17 +137,9 @@ navigation_order: 09-02
         "Security Architecture"
       ],
 
-      "author":{
-        "@type":"Person",
-        "name":"Anna Pivtorak",
-        "url":"https://pivtorak.studio/"
-      },
+      "author":{"@id": "https://pivtorak.studio/en/#person"},
 
-      "publisher":{
-        "@type":"Organization",
-        "name":"Pivtorak.Studio",
-        "url":"https://pivtorak.studio/"
-      },
+      "publisher":{{< schema-organization-reference >}},
 
       "datePublished":"2026-01-30T12:00:00",
 
@@ -195,10 +187,7 @@ navigation_order: 09-02
 
       "description":"From the Dismantling of a Regime to the Revival of Civilization.",
 
-      "creator":{
-        "@type":"Person",
-        "name":"Anna Pivtorak"
-      }
+      "creator":{"@id": "https://pivtorak.studio/en/#person"}
     },
 
     {

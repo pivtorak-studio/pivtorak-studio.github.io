@@ -109,17 +109,9 @@ search: indexed
     "url":"https://pivtorak.studio/ru/docs/core-recalibration/"
   },
 
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
 
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "publisher":{{< schema-organization-reference >}},
 
   "image":"https://pivtorak.studio/images/core-recalibration-013-2026-legalization-of-the-inner-cosmos-happiness-as-a-side-effect-of-sovereignty.webp",
 

@@ -87,15 +87,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-01-birth-of-libra.webp",
     "caption": "Esmée encontra-se sob feixes de luz, entre asas humanas e asas de dragão. A chama e o ar fundem-se em equilíbrio."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Escrita Criativa",
     "Arte Mitológica",

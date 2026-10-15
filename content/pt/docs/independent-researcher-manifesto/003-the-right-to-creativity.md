@@ -84,16 +84,8 @@ symbol: Dragão do Equilíbrio (Esmée)
   "inLanguage": "pt-PT",
   "datePublished": "2026-04-12T11:00:00+00:00",
   "dateModified": "2026-04-12T11:00:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/pt/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/independent-researcher-manifesto-003-the-right-to-creativity.webp",

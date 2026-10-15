@@ -64,13 +64,13 @@ show_in_series_projects: true
       "description": "Дослідницька та візуальна серія, що розглядає політику як архітектуру й дизайн систем, розкриваючи приховані механізми влади, економіки, інституцій і соціальної взаємодії.",
       "inLanguage": "uk",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "author": {
-        "@id": "https://pivtorak.studio/uk/#person"
+        "@id": "https://pivtorak.studio/en/#person"
       },
       "publisher": {
-        "@id": "https://pivtorak.studio/#organization"
+        "@id": "https://pivtorak.studio/en/#organization"
       },
       "mainEntity": {
         "@id": "https://pivtorak.studio/#political-design"
@@ -105,10 +105,10 @@ show_in_series_projects: true
       "description": "Міждисциплінарна дослідницька та візуальна серія, що вивчає політичні системи як спроєктовані середовища, сформовані процесами, інтерфейсами, інституціями та рішеннями.",
       "inLanguage": ["en", "pt-PT", "ru", "uk"],
       "creator": {
-        "@id": "https://pivtorak.studio/uk/#person"
+        "@id": "https://pivtorak.studio/en/#person"
       },
       "publisher": {
-        "@id": "https://pivtorak.studio/#organization"
+        "@id": "https://pivtorak.studio/en/#organization"
       },
       "url": "https://pivtorak.studio/uk/docs/political-design/",
       "genre": [

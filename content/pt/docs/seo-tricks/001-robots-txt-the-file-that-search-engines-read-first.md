@@ -74,14 +74,8 @@ technical_status: verified
     "@id": "https://pivtorak.studio/pt/docs/seo-tricks/robots-txt-the-file-that-search-engines-read-first/"
   },
   "image": "https://pivtorak.studio/images/seo-tricks-001-robots-txt-the-file-that-search-engines-read-first.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "datePublished": "2026-09-07T21:00:00+01:00",
   "dateModified": "2026-09-07T21:00:00+01:00",
   "articleSection": ["Truques de SEO", "SEO Técnico", "Crawling"],

@@ -113,15 +113,9 @@ navigation_order: 09-02
 
       "mainEntityOfPage":"https://pivtorak.studio/ru/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-02-global-dimension-peace-as-norm/",
 
-      "author":{
-        "@type":"Person",
-        "name":"Anna Pivtorak"
-      },
+      "author":{"@id": "https://pivtorak.studio/en/#person"},
 
-      "publisher":{
-        "@type":"Organization",
-        "name":"Pivtorak.Studio"
-      },
+      "publisher":{{< schema-organization-reference >}},
 
       "datePublished":"2026-01-30T12:00:00",
 

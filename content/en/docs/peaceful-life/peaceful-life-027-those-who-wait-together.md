@@ -88,15 +88,8 @@ search: indexed
   },
   "position": 27,
   "keywords": ["PeacefulLife", "Animals", "Family", "Home", "Belonging", "Trust", "Human Security", "Political Design", "Pivtorak Studio"],
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

@@ -109,16 +109,8 @@ guiding_question: O que deve ser conscientemente deixado para trás para que um 
     "@type": "CreativeWorkSeries",
     "name": "A Disciplina Majestosa"
   },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

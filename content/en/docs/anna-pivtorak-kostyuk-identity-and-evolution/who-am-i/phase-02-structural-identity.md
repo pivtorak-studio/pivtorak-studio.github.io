@@ -16,11 +16,7 @@ lastmod: 2026-02-26T09:00:00
   "@type": "Article",
   "headline": "Who am I? — Phase II — Structural Identity",
   "description": "The second phase of identity: transition from narrative to system thinking and structural construction.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "alternateName": "Anna Kostyuk"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2026-04",
   "temporalCoverage": "2025-03-12/2026-02-26",
   "inLanguage": "en",

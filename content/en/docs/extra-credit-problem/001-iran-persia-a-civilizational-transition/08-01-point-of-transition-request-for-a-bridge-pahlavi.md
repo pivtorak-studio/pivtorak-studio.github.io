@@ -131,17 +131,9 @@ navigation_order: 08-01
     "statehood"
   ],
 
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
 
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "publisher": {{< schema-organization-reference >}},
 
   "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-08-01-point-of-transition-request-for-a-bridge-pahlavi.webp",
 

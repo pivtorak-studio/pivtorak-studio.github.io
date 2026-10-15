@@ -96,15 +96,8 @@ research_origin: Portugal
   "inLanguage": "en",
   "datePublished": "2026-01-19T12:00:00+00:00",
   "dateModified": "2026-01-19T12:00:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-02-02-after-tragedy-system-without-immunity.webp"

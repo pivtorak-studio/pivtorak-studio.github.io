@@ -62,15 +62,8 @@ lastmod: 2026-09-22T18:00:00
   "inLanguage": "uk",
   "datePublished": "2026-09-22T18:00:00+01:00",
   "dateModified": "2026-09-22T18:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/uk/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/uk/docs/seo-tricks/when-google-search-console-says-missing-object-member-name/"

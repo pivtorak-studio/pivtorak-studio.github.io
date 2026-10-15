@@ -61,10 +61,7 @@ search: indexed
   "alternativeHeadline": "Ритм як розминка перед кодом",
   "description": "Роздуми про те, як Duolingo Max став когнітивним тренажером перед переходом до архітектури сайтів, системного мислення та роботи з кодом.",
   "inLanguage": "uk",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2026-05-18T15:00:00+00:00",
   "dateModified": "2026-05-18T15:00:00+00:00",
   "keywords": [
@@ -80,11 +77,7 @@ search: indexed
     "@type": "CreativeWorkSeries",
     "name": "Core Recalibration"
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio"
-  }
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

@@ -64,20 +64,8 @@ search: indexed
   "dateCreated": "2023-08-10T11:00:00+01:00",
   "datePublished": "2025-07-07T11:00:00+01:00",
   "dateModified": "2025-07-07T11:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/en/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/en/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/logo.png"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/pivtorak-studio-003-the-presence.webp",

@@ -64,18 +64,9 @@ show_in_series_projects: true
   "image": "https://annapivtorak.com/images/peaceful-life.webp",
   "datePublished": "2025-06-01T08:00:00+00:00",
   "dateModified": "2025-06-01T08:00:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "about": [
     "Мир",
     "Права Людини",

@@ -55,15 +55,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-03-light-irony.webp",
     "caption": "Esmée está sentada entre criaturas fantásticas, pequenos espíritos, borboletas e sombras suaves. O seu sorriso é delicado, o seu olhar sereno e o ar brilha como se estivesse cheio de riso."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Escrita Criativa",
     "Arte Mitológica",

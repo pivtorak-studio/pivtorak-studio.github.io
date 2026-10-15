@@ -15,11 +15,7 @@ lastmod: 2025-03-12T09:00:00
   "@type": "Article",
   "headline": "Хто Я? — Фаза I — Наративна Ідентичність (2025)",
   "description": "Перша зафіксована фаза ідентичності Анни Півторак як візуального сторітелера та дослідниці.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "alternateName": "Anna Kostyuk"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2025-03",
   "inLanguage": "uk",
   "isPartOf": {

@@ -131,16 +131,8 @@ navigation_order: 07-06
     "name": "Desafio de Nível Superior",
     "alternateName": "Irão – Pérsia: Uma Transição Civilizacional"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-06-revival-of-identity-symbolic-cleansing.webp",

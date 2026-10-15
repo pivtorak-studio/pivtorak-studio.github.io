@@ -50,15 +50,8 @@ show_in_series_research: true
   "description": "Структурована система знань, що розвивається для збирання, розвитку, організації та взаємозв’язку знань у межах Pivtorak.Studio.",
   "datePublished": "2026-10-06T15:00:00+01:00",
   "dateModified": "2026-10-06T15:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/knowledge-base.webp",
@@ -66,7 +59,7 @@ show_in_series_research: true
   },
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "url": "https://pivtorak.studio/",
     "name": "Pivtorak.Studio"
   },

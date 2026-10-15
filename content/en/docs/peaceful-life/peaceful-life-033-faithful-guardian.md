@@ -76,18 +76,8 @@ search: indexed
     "url": "https://pivtorak.studio/images/peaceful-life-033-faithful-guardian.webp",
     "caption": "Faithful Guardian"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/logo.webp"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-07-01T17:00:00+01:00",
   "dateModified": "2026-07-01T17:00:00+01:00",
   "keywords": [

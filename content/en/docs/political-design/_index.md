@@ -64,13 +64,13 @@ show_in_series_projects: true
       "description": "A research and visual series exploring politics as system architecture and design, revealing the hidden structures of power, economy, institutions, and social interaction.",
       "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "author": {
         "@id": "https://pivtorak.studio/en/#person"
       },
       "publisher": {
-        "@id": "https://pivtorak.studio/#organization"
+        "@id": "https://pivtorak.studio/en/#organization"
       },
       "mainEntity": {
         "@id": "https://pivtorak.studio/#political-design"
@@ -108,7 +108,7 @@ show_in_series_projects: true
         "@id": "https://pivtorak.studio/en/#person"
       },
       "publisher": {
-        "@id": "https://pivtorak.studio/#organization"
+        "@id": "https://pivtorak.studio/en/#organization"
       },
       "url": "https://pivtorak.studio/en/docs/political-design/",
       "genre": [

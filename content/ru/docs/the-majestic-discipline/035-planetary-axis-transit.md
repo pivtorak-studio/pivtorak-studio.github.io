@@ -83,15 +83,8 @@ guiding_question: Как я удерживаю свой курс?
   "url":"https://pivtorak.studio/ru/docs/the-majestic-discipline/035-planetary-axis-transit/",
   "mainEntityOfPage":"https://pivtorak.studio/ru/docs/the-majestic-discipline/035-planetary-axis-transit/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-035-planetary-axis-transit.webp",
-  "author":{
-    "@type":"Person",
-    "name":"Анна Пивторак"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "articleSection":"Величественная Дисциплина",
   "keywords":[
     "Вертикаль Планеты Движения",

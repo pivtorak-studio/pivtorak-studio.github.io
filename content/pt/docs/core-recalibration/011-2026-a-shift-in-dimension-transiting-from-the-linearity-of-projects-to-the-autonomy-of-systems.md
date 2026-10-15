@@ -75,15 +75,8 @@ search: indexed
     "Evolução Pessoal"
   ],
   "image": "https://pivtorak.studio/images/core-recalibration-011-2026-a-shift-in-dimension-transiting-from-the-linearity-of-projects-to-the-autonomy-of-systems.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "isPartOf": {
     "@type": "CreativeWorkSeries",
     "name": "Core Recalibration"

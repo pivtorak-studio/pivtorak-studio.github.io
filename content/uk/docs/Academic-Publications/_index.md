@@ -67,10 +67,10 @@ show_in_series_research: true
       "datePublished": "2018-05-01T09:00:00+01:00",
       "dateModified": "2026-10-12T14:45:00+01:00",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "author": {
-        "@id": "https://pivtorak.studio/uk/#person"
+        "@id": "https://pivtorak.studio/en/#person"
       },
       "about": [
         { "@type": "Thing", "name": "Економіка ринку праці" },

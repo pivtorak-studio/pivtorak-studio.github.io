@@ -63,7 +63,7 @@ show_in_series_studio: true
   "inLanguage": "pt-PT",
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "name": "Pivtorak Studio",
     "url": "https://pivtorak.studio/"
   },
@@ -72,16 +72,8 @@ show_in_series_studio: true
     "name": "Padrões abertos de documentação",
     "description": "Um quadro de referência aberto que articula metodologia, requisitos de evidência, estrutura documental, princípios de qualidade e design."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/pt/studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2025-01-07T06:00:00+01:00",
   "dateModified": "2026-10-13T17:10:00+01:00",
   "image": {

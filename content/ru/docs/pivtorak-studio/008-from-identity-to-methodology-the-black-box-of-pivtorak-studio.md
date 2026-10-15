@@ -103,20 +103,8 @@ search: indexed
   "inLanguage":"ru",
   "datePublished":"2026-07-21T09:00:00+01:00",
   "dateModified":"2026-07-21T09:00:00+01:00",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/ru/about/"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/",
-    "logo":{
-      "@type":"ImageObject",
-      "url":"https://pivtorak.studio/images/logo.png"
-    }
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "image":"https://pivtorak.studio/images/pivtorak-studio-008-from-identity-to-methodology-the-black-box-of-pivtorak-studio.webp",
   "mainEntityOfPage":"https://pivtorak.studio/ru/docs/pivtorak-studio/008-from-identity-to-methodology-the-black-box-of-pivtorak-studio/",
   "isPartOf":{

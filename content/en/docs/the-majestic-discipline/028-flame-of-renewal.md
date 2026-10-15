@@ -77,16 +77,8 @@ guiding_question: What must be consciously released for a stronger future to eme
     "@type": "CreativeWorkSeries",
     "name": "The Majestic Discipline"
   },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

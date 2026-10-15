@@ -1,0 +1,38 @@
+{{- $author := hugo.Data.seo.author -}}
+{{- $organization := hugo.Data.seo.organization -}}
+{{- $schools := slice -}}
+{{- range $author.alumniOf -}}
+  {{- $schools = $schools | append (dict "@type" "CollegeOrUniversity" "name" .) -}}
+{{- end -}}
+{{- $person := dict
+  "@type" "Person"
+  "@id" $author.id
+  "name" $author.name
+  "alternateName" $author.alternateName
+  "description" $author.description
+  "url" $author.url
+  "image" $author.image
+  "birthDate" $author.birthDate
+  "sameAs" $author.sameAs
+  "alumniOf" $schools
+  "worksFor" (dict "@id" $organization.id)
+-}}
+{{- $org := dict
+  "@type" "Organization"
+  "@id" $organization.id
+  "name" $organization.name
+  "url" $organization.url
+  "logo" (dict "@type" "ImageObject" "url" $organization.logo)
+  "founder" (dict "@id" $author.id)
+-}}
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" "https://pivtorak.studio/en/#website"
+  "url" "https://pivtorak.studio/"
+  "name" "Pivtorak.Studio"
+  "inLanguage" (slice "uk" "en" "pt")
+  "publisher" (dict "@id" $organization.id)
+-}}
+{{- if and .IsHome (eq .Lang "en") -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" (slice $person $org $website) | jsonify | safeJS }}</script>
+{{- end -}}

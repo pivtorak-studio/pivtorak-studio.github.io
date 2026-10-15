@@ -106,15 +106,8 @@ search: indexed
     "name": "Ювелірний Бізнес 11–12'2008",
     "description": "Інтерв’ю з Анною Півторак, опубліковане у грудневому випуску 2008 року."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

@@ -97,15 +97,8 @@ research_origin: Portugal
     "name": "Iran – Persia: A Civilizational Transition",
     "url": "https://pivtorak.studio/en/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/en/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "keywords": [
     "Consumable Material",
     "Dehumanization",

@@ -88,15 +88,8 @@ search: indexed
   },
   "position": 26,
   "keywords": ["VidaPacífica", "Infância", "Crianças", "Segurança", "Família", "Confiança", "Segurança Humana", "Design Político", "Pivtorak Studio"],
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

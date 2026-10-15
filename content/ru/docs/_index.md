@@ -34,9 +34,6 @@ weight: 1
   "name": "Исследовательский Архив",
   "description": "Архив исследовательских серий и аналитических публикаций Pivtorak.Studio",
   "inLanguage": "ru",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  }
+  "author": {"@id": "https://pivtorak.studio/en/#person"}
 }
 </script>

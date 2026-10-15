@@ -64,14 +64,8 @@ search: indexed
   "inLanguage": "ru",
   "datePublished": "2026-06-02T21:00:00+01:00",
   "dateModified": "2026-06-02T21:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/peaceful-life-028-the-right-not-to-listen-to-an-anthem-of-aggression.webp",
   "isPartOf": {
     "@type": "CreativeWorkSeries",

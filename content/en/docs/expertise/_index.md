@@ -64,7 +64,7 @@ show_in_series_research: true
       "description": "A rigorous interdisciplinary approach to the examination, attribution, and documentation of cultural, artistic, and spiritual heritage objects.",
       "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "breadcrumb": {
         "@id": "https://pivtorak.studio/en/docs/expertise/#breadcrumb"
@@ -78,10 +78,7 @@ show_in_series_research: true
       },
       "datePublished": "2026-01-07T09:00:00+01:00",
       "dateModified": "2026-10-12T13:45:00+01:00",
-      "author": {
-        "@type": "Person",
-        "name": "Anna Pivtorak"
-      }
+      "author": {"@id": "https://pivtorak.studio/en/#person"}
     },
     {
       "@type": "Collection",
@@ -90,10 +87,7 @@ show_in_series_research: true
       "description": "Expert Dossiers combining historical research, contextual analysis, interpretation, and supporting evidence for scholarly, institutional, and practical use.",
       "url": "https://pivtorak.studio/en/docs/expertise/",
       "inLanguage": "en",
-      "creator": {
-        "@type": "Person",
-        "name": "Anna Pivtorak"
-      },
+      "creator": {"@id": "https://pivtorak.studio/en/#person"},
       "keywords": [
         "expert dossier",
         "expertise and attribution",

@@ -52,7 +52,7 @@ show_in_series_research: true
   "inLanguage": "uk",
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "url": "https://pivtorak.studio/"
   },
   "about": {
@@ -66,16 +66,8 @@ show_in_series_research: true
       "url": "https://pivtorak.studio/images/architecture-of-value.webp",
       "caption": "∀ ◉ ∃ Архітектура Цінності"
     },
-    "author": {
-      "@type": "Person",
-      "name": "Anna Pivtorak",
-      "url": "https://pivtorak.studio/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Pivtorak.Studio",
-      "url": "https://pivtorak.studio/"
-    },
+    "author": {"@id": "https://pivtorak.studio/en/#person"},
+    "publisher": {{< schema-organization-reference >}},
     "inLanguage": "uk",
     "datePublished": "2026-04-14T06:00:00",
     "dateModified": "2026-10-06T06:00:00",
@@ -95,11 +87,7 @@ show_in_series_research: true
     "url": "https://pivtorak.studio/images/architecture-of-value.webp",
     "caption": "∀ ◉ ∃ Архітектура Цінності"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2026-04-14T06:00:00",
   "dateModified": "2026-10-06T06:00:00"
 }

@@ -79,15 +79,8 @@ weight: 20260131
   "inLanguage": "pt-PT",
   "datePublished": "2026-01-31T23:30:00+00:00",
   "dateModified": "2026-01-31T23:30:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/process-diary-2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization.webp",
   "url": "https://pivtorak.studio/pt/docs/process-diary/2026-01-31-iran-persia-from-the-dismantling-of-a-regime-to-the-revival-of-civilization/",
   "mainEntityOfPage": {

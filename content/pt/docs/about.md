@@ -25,6 +25,7 @@ weight: 1
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://pivtorak.studio/en/#person",
   "name": "Anna Pivtorak (Kostyuk)",
   "url": "https://pivtorak.studio/pt/docs/about/",
   "description": "Anna Pivtorak (Kostyuk) é uma investigadora ucraniana, autora de projetos culturais e fundadora do Pivtorak.Studio.",

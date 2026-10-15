@@ -115,15 +115,9 @@ navigation_order: 09-03
 
       "mainEntityOfPage":"https://pivtorak.studio/pt/docs/extra-credit-problem/001-iran-persia-a-civilizational-transition/09-03-global-dimension-human-as-subject/",
 
-      "author":{
-        "@type":"Person",
-        "name":"Anna Pivtorak"
-      },
+      "author":{"@id": "https://pivtorak.studio/en/#person"},
 
-      "publisher":{
-        "@type":"Organization",
-        "name":"Pivtorak.Studio"
-      },
+      "publisher":{{< schema-organization-reference >}},
 
       "datePublished":"2026-01-31T13:00:00",
 

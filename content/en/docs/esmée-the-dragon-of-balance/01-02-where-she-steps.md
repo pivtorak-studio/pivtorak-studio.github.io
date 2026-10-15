@@ -53,15 +53,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp",
     "caption": "A dragon girl walks across a grey, ashen field, scattering seeds from her hands. Flowers bloom wherever the seeds touch the earth."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "en",
   "datePublished": "2025-05-16T12:00:00+01:00",
   "dateModified": "2026-10-09T12:00:00+01:00",

@@ -86,15 +86,8 @@ show_in_series_projects: true
   "datePublished":"2025-03-08T09:00:00+00:00",
   "dateModified":"2025-03-08T09:00:00+00:00",
   "image":"https://pivtorak.studio/images/the-majestic-discipline.webp",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "keywords":[
     "A Disciplina Majestosa",
     "disciplina",

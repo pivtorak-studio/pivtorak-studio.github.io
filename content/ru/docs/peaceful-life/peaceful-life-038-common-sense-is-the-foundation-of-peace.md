@@ -40,16 +40,8 @@ search: indexed
   "description": "Мир зависит не только от границ, договоров и институтов, но и от способности тех, кто обладает властью, ясно видеть реальность, понимать последствия и принимать ответственные решения.",
   "datePublished": "2026-09-04T21:00:00+01:00",
   "dateModified": "2026-09-04T21:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Анна Пивторак (Костюк)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Анна Пивторак (Костюк)",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-038-common-sense-is-the-foundation-of-peace.webp",

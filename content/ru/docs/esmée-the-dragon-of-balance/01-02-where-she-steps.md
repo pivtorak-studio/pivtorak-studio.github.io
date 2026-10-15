@@ -53,15 +53,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp",
     "caption": "Молодая драконица идёт по серому полю, покрытому пеплом, и рассыпает семена. Там, где они касаются земли, расцветают цветы."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "ru",
   "datePublished": "2025-05-16T12:00:00+01:00",
   "dateModified": "2026-10-09T12:00:00+01:00",

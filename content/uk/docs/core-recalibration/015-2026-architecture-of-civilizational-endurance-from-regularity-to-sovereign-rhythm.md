@@ -80,16 +80,8 @@ search: indexed
     "Архітектура Дослідження",
     "Суспільна Пам'ять"
   ],
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "datePublished":"2026-06-17T15:00:00+01:00",
   "dateModified":"2026-06-17T15:00:00+01:00",
   "image":"https://pivtorak.studio/images/core-recalibration-015-2026-architecture-of-civilizational-endurance-from-regularity-to-sovereign-rhythm.webp",

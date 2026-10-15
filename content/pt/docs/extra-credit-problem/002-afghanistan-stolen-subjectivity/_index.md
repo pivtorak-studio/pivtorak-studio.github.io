@@ -64,15 +64,8 @@ navigation_order: 002
     "name": "Pivtorak.Studio",
     "url": "https://pivtorak.studio/"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/extra-credit-problem-002-afghanistan-stolen-subjectivity.webp",
   "datePublished": "2026-06-22T21:00:00",
   "dateModified": "2026-06-22T21:00:00",

@@ -80,15 +80,8 @@ search: indexed
     "Arquitetura do Conhecimento",
     "Pivtorak.Studio"
   ],
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "datePublished":"2026-04-29T11:00:00+01:00",
   "dateModified":"2026-04-29T11:00:00+01:00",
   "image":{
@@ -118,14 +111,8 @@ search: indexed
   "description": "Operational principles defining how projects are initiated, structured, and completed within Pivtorak.Studio.",
   "datePublished": "2026-04-29",
   "dateCreated": "2026-04-29",
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

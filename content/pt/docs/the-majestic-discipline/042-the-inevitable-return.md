@@ -52,14 +52,8 @@ return_coordinates: [50.4501, 30.5234]
   "inLanguage": "pt-PT",
   "datePublished": "2026-08-27T12:00:00",
   "dateModified": "2026-08-27T12:00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": "https://pivtorak.studio/images/the-majestic-discipline-042-the-inevitable-return.webp",
   "mainEntityOfPage": {
     "@type": "WebPage",

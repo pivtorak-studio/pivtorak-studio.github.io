@@ -59,16 +59,8 @@ show_in_series_projects: true
       "url": "https://pivtorak.studio/images/living-topography-series.webp",
       "caption": "Тёмная топографическая поверхность с плавными путями, следами, узлами и связями, представляющими Living Topography"
     },
-    "author": {
-      "@type": "Person",
-      "name": "Anna Pivtorak",
-      "url": "https://pivtorak.studio/ru/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Pivtorak.Studio",
-      "url": "https://pivtorak.studio/"
-    },
+    "author": {"@id": "https://pivtorak.studio/en/#person"},
+    "publisher": {{< schema-organization-reference >}},
     "keywords": [
       "Living Topography",
       "воплощённый опыт",
@@ -91,16 +83,8 @@ show_in_series_projects: true
     "url": "https://pivtorak.studio/images/living-topography-series.webp",
     "caption": "Тёмная топографическая поверхность с плавными путями, следами, узлами и связями, представляющими Living Topography"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/ru/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

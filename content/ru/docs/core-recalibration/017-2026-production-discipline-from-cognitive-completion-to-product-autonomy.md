@@ -44,20 +44,8 @@ search: indexed
     "name": "Перекалибровка Ядра",
     "url": "https://pivtorak.studio/ru/docs/core-recalibration/"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/ru/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/logo.png"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/core-recalibration-017-2026-production-discipline-from-cognitive-completion-to-product-autonomy.webp"

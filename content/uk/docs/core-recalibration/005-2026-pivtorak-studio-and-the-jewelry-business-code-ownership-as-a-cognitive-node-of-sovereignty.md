@@ -61,10 +61,7 @@ search: indexed
   "@type": "TechArticle",
   "headline": "Pivtorak.Studio & TheJewelry.Business. Володіння кодом як когнітивний вузол суверенності",
   "description": "Стаття про створення автономної цифрової екосистеми через Pivtorak.Studio та TheJewelry.Business, когнітивну суверенність, GitHub-архітектуру, SEO, кібернетичне мислення та перехід від присутності на чужих платформах до володіння власним кодом і середовищем.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2026-05-19T15:00:00+00:00",
   "dateModified": "2026-05-19T15:00:00+00:00",
   "image": "https://pivtorak.studio/images/core-recalibration-005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty.webp",
@@ -80,11 +77,7 @@ search: indexed
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/uk/docs/core-recalibration/005-2026-pivtorak-studio-and-the-jewelry-business-code-ownership-as-a-cognitive-node-of-sovereignty/"
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio"
-  }
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

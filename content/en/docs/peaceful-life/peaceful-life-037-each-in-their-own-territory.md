@@ -56,15 +56,8 @@ search: indexed
   "description": "A peaceful life begins with respect for natural boundaries. A polar bear in the Arctic and an orca in the ocean remind us that different territories do not have to become reasons for conflict.",
   "datePublished": "2026-09-01T15:00:00+01:00",
   "dateModified": "2026-09-01T15:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-037-each-in-their-own-territory.webp",

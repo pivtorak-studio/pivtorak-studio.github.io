@@ -77,16 +77,8 @@ search: indexed
     "vida selvagem"
   ],
   "image": "https://pivtorak.studio/images/peaceful-life-036-when-they-can-come-back.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/pt/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/pt/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-08-12T08:00:00+01:00",
   "dateModified": "2026-08-12T08:00:00+01:00",
   "mainEntityOfPage": {

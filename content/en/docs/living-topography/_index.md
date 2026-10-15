@@ -60,16 +60,8 @@ show_in_series_projects: true
       "url": "https://pivtorak.studio/images/living-topography-series.webp",
       "caption": "Dark topographic surface with flowing paths, traces, nodes and connections, representing Living Topography"
     },
-    "author": {
-      "@type": "Person",
-      "name": "Anna Pivtorak",
-      "url": "https://pivtorak.studio/en/"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Pivtorak.Studio",
-      "url": "https://pivtorak.studio/"
-    },
+    "author": {"@id": "https://pivtorak.studio/en/#person"},
+    "publisher": {{< schema-organization-reference >}},
     "keywords": [
       "Living Topography",
       "embodied experience",
@@ -92,16 +84,8 @@ show_in_series_projects: true
     "url": "https://pivtorak.studio/images/living-topography-series.webp",
     "caption": "Dark topographic surface with flowing paths, traces, nodes and connections, representing Living Topography"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/en/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

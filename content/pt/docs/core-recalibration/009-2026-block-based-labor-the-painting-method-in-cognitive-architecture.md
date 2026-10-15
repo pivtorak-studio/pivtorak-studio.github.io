@@ -67,15 +67,8 @@ search: indexed
   "alternativeHeadline": "A mestria reside em garantir que o sistema esteja integrado em cada microciclo da sua criação.",
   "description": "Uma exploração da integridade faseada, cognição modular e trabalho por blocos como método operacional soberano derivado das técnicas clássicas da pintura e transposto para arquitetura digital, sistemas multilíngues e infraestrutura cognitiva.",
   "image": "https://pivtorak.studio/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "pt-PT",
   "datePublished": "2026-05-27T12:00:00+01:00",
   "dateModified": "2026-05-27T12:00:00+01:00",

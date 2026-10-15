@@ -16,11 +16,7 @@ lastmod: 2026-02-26T09:00:00
   "@type": "Article",
   "headline": "Кто Я? — Фаза II — Структурная Идентичность (2026)",
   "description": "Вторая фаза идентичности: переход от нарратива к системному мышлению и построению структуры.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "alternateName": "Anna Kostyuk"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2026-04",
   "temporalCoverage": "2025-03-12/2026-02-26",
   "inLanguage": "ru",

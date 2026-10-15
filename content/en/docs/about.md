@@ -26,6 +26,7 @@ weight: 1
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://pivtorak.studio/en/#person",
   "name": "Anna Pivtorak (Kostyuk)",
   "url": "https://pivtorak.studio/en/docs/about/",
   "mainEntityOfPage": "https://pivtorak.studio/en/docs/about/",

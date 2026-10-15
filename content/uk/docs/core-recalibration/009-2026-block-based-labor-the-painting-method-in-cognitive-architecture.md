@@ -67,15 +67,8 @@ search: indexed
   "alternativeHeadline": "Майстерність полягає в тому, щоб система залишалася цілісною на кожному мікроциклі свого створення.",
   "description": "Осмислення фазової цілісності, модульного мислення та роботи блоками як суверенного операційного методу, що походить із класичного живопису та переноситься у цифрову архітектуру, багатомовні системи й когнітивну інфраструктуру.",
   "image": "https://pivtorak.studio/images/core-recalibration-009-2026-block-based-labor-the-painting-method-in-cognitive-architecture.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "uk",
   "datePublished": "2026-05-27T12:00:00+01:00",
   "dateModified": "2026-05-27T12:00:00+01:00",

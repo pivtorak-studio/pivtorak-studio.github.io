@@ -56,15 +56,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge.webp",
     "caption": "Esmée está de pé sobre uma extensão envolta em neblina, segurando uma balança luminosa. À sua frente, uma ponte invisível cintila suavemente na luz, ligando o mundo conhecido, que fica para trás, às possibilidades que se abrem diante dela."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Escrita Criativa",
     "Arte Mitológica",

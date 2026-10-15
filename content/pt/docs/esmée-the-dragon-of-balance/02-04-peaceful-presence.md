@@ -55,15 +55,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-04-peaceful-presence.webp",
     "caption": "Esmée repousa na relva macia, de olhos fechados. A luz quente, as flores, as borboletas e o ar tranquilo envolvem-na."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Escrita Criativa",
     "Arte Mitológica",

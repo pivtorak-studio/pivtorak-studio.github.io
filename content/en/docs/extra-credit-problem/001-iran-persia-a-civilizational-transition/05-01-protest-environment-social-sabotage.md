@@ -147,21 +147,11 @@ navigation_order: 05-01
     "url":"https://pivtorak.studio/en/docs/extra-credit-problem/"
   },
 
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
 
-  "creator":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
+  "creator":{"@id": "https://pivtorak.studio/en/#person"},
 
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "publisher":{{< schema-organization-reference >}},
 
   "copyrightHolder":{
     "@type":"Person",

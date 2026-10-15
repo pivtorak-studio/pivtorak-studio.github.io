@@ -52,7 +52,7 @@ show_in_series_studio: true
       "description": "Um arquivo vivo que documenta a evolução dos sistemas através de uma proveniência contínua.",
       "inLanguage": "pt-PT",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/pt/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "breadcrumb": {
         "@id": "https://pivtorak.studio/pt/docs/process-diary/#breadcrumb"
@@ -100,10 +100,10 @@ show_in_series_studio: true
         "Pivtorak Studio"
       ],
       "author": {
-        "@id": "https://pivtorak.studio/pt/#person"
+        "@id": "https://pivtorak.studio/en/#person"
       },
       "publisher": {
-        "@id": "https://pivtorak.studio/pt/#organization"
+        "@id": "https://pivtorak.studio/en/#organization"
       },
       "image": {
         "@id": "https://pivtorak.studio/pt/docs/process-diary/#primaryimage"
@@ -114,7 +114,7 @@ show_in_series_studio: true
         "@id": "https://pivtorak.studio/pt/docs/process-diary/#webpage"
       },
       "isPartOf": {
-        "@id": "https://pivtorak.studio/pt/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "about": [
         {

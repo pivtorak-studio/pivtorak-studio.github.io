@@ -75,16 +75,8 @@ search: indexed
     "name": "CoreRecalibration",
     "url": "https://pivtorak.studio/ru/docs/core-recalibration/"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/ru/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-05-20T15:00:00+00:00",
   "dateModified": "2026-05-20T15:00:00+00:00",
   "keywords": [

@@ -37,14 +37,8 @@ weight: 101
   "inLanguage": "en",
   "datePublished": "2026-05-16T11:00:00",
   "dateCreated": "2026-05-16T09:00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak Kostyuk"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-the-movement-matrix-one-case-one-dimension.webp",
   "keywords": [
     "movement matrix",

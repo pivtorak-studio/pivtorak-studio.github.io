@@ -54,16 +54,8 @@ show_in_series_projects: true
     "url": "https://pivtorak.studio/images/esm%C3%A9e-the-dragon-of-balance.webp",
     "caption": "ESMÉE, Дракон Рівноваги: жінка з драконячими рисами, темним хвилястим волоссям, лускатою шкірою та великими крилами на тлі осяйного фантастичного пейзажу."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "about": [
     {
       "@type": "Thing",
@@ -99,10 +91,7 @@ show_in_series_projects: true
     "@id": "https://pivtorak.studio/uk/docs/esm%C3%A9e-the-dragon-of-balance/#series",
     "name": "ESMÉE — Дракон Рівноваги",
     "inLanguage": ["en", "pt", "ru", "uk"],
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    }
+    "creator": {"@id": "https://pivtorak.studio/en/#person"}
   },
   "hasPart": [
     {
@@ -125,10 +114,7 @@ show_in_series_projects: true
     "@type": "CreativeWorkSeries",
     "name": "ESMÉE — Дракон Рівноваги",
     "description": "Відкрита до розвитку візуальна й концептуальна серія, що досліджує рівновагу через присутність, внутрішню архітектуру та трансформацію сприйняття.",
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    },
+    "creator": {"@id": "https://pivtorak.studio/en/#person"},
     "genre": [
       "Візуальне мистецтво",
       "Концептуальне мистецтво",

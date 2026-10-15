@@ -64,7 +64,7 @@ show_in_series_research: true
       "description": "Строгий междисциплинарный подход к исследованию, атрибуции и документированию объектов культурного, художественного и духовного наследия.",
       "inLanguage": "ru",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "breadcrumb": {
         "@id": "https://pivtorak.studio/ru/docs/expertise/#breadcrumb"
@@ -78,10 +78,7 @@ show_in_series_research: true
       },
       "datePublished": "2026-01-07T09:00:00+01:00",
       "dateModified": "2026-10-12T13:45:00+01:00",
-      "author": {
-        "@type": "Person",
-        "name": "Anna Pivtorak"
-      }
+      "author": {"@id": "https://pivtorak.studio/en/#person"}
     },
     {
       "@type": "Collection",
@@ -90,10 +87,7 @@ show_in_series_research: true
       "description": "Экспертные досье, объединяющие историческое исследование, контекстуальный анализ, интерпретацию и доказательную базу для научного, институционального и практического использования.",
       "url": "https://pivtorak.studio/ru/docs/expertise/",
       "inLanguage": "ru",
-      "creator": {
-        "@type": "Person",
-        "name": "Anna Pivtorak"
-      },
+      "creator": {"@id": "https://pivtorak.studio/en/#person"},
       "keywords": [
         "экспертное досье",
         "экспертиза и атрибуция",

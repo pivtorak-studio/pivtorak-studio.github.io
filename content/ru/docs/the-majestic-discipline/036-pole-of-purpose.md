@@ -83,15 +83,8 @@ guiding_question: Где сходятся все мои пути?
   "url":"https://pivtorak.studio/ru/docs/the-majestic-discipline/036-pole-of-purpose/",
   "mainEntityOfPage":"https://pivtorak.studio/ru/docs/the-majestic-discipline/036-pole-of-purpose/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-036-pole-of-purpose.webp",
-  "author":{
-    "@type":"Person",
-    "name":"Анна Пивторак"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "articleSection":"Величественная Дисциплина",
   "keywords":[
     "Полюс Предназначения",

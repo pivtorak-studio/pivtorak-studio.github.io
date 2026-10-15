@@ -54,15 +54,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge.webp",
     "caption": "Есме стоїть над туманним простором, тримаючи сяйні терези. Попереду ледь мерехтить невидимий міст, що поєднує знайомий світ за її спиною з можливостями, які відкриваються перед нею."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Творче письмо",
     "Міфологічне мистецтво",

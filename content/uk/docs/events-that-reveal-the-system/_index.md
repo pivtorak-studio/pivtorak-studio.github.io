@@ -186,20 +186,9 @@ show_in_series_projects: true
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/events-that-reveal-the-system.webp"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {{< schema-author-reference >}},
+  "publisher": {{< schema-organization-reference >}},
+  "isPartOf": { "@id": "https://pivtorak.studio/en/#website" },
   "about": [
     {"@type": "Thing", "name": "Міждисциплінарний аналіз"},
     {"@type": "Thing", "name": "Суспільні системи"},
@@ -217,21 +206,14 @@ show_in_series_projects: true
     "суспільні норми",
     "автономія людини"
   ],
-  "hasPart": {
-    "@type": "CreativeWorkSeries",
-    "@id": "https://pivtorak.studio/uk/docs/events-that-reveal-the-system/#series",
-    "name": "Події, що розкривають систему",
-    "inLanguage": "uk",
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    }
-  },
   "mainEntity": {
     "@type": "CreativeWorkSeries",
-    "@id": "https://pivtorak.studio/uk/docs/events-that-reveal-the-system/#series",
+    "@id": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/#series",
     "name": "Події, що розкривають систему",
-    "description": "Самостійні міждисциплінарні дослідження значущих подій і системних механізмів, які вони розкривають."
+    "inLanguage": "uk",
+    "url": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/",
+    "description": "Самостійні міждисциплінарні дослідження значущих подій і системних механізмів, які вони розкривають.",
+    "creator": {{< schema-author-reference >}}
   },
   "isAccessibleForFree": true
 }

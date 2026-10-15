@@ -79,15 +79,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-01-she-arrived.webp",
     "caption": "A young European-style dragon girl stands in the rain on a scorched field, her glowing breastplate bearing the symbol of the Scales."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "en",
   "datePublished": "2025-05-16T11:00:00+01:00",
   "dateModified": "2026-10-09T11:00:00+01:00",

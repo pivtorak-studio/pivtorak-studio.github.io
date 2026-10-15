@@ -66,20 +66,8 @@ symbol: Human Core
     "Dignity",
     "Freedom"
   ],
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/en/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/pivtorak-studio-logo.webp"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "isPartOf": {
     "@type": "CollectionPage",
     "name": "Independent Researcher Manifesto",

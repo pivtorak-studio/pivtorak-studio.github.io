@@ -65,7 +65,7 @@ alt: A dark technical workspace with measuring instruments, an abacus, a calcula
   "inLanguage": "en",
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "url": "https://pivtorak.studio/",
     "name": "Pivtorak.Studio"
   },
@@ -73,15 +73,8 @@ alt: A dark technical workspace with measuring instruments, an abacus, a calcula
     "@type": "Thing",
     "name": "Pivtorak.Studio Tools"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "mainEntity": {
     "@type": "ItemList",
     "name": "Tools Sections",

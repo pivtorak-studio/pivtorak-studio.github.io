@@ -80,16 +80,8 @@ guiding_question: "When you finally arrive, will you recognize that you have ret
 "@type": "CreativeWorkSeries",  
 "name": "The Majestic Discipline"  
 },  
-"creator": {  
-"@type": "Person",  
-"name": "Anna Pivtorak",  
-"url": "https://pivtorak.studio/"  
-},  
-"publisher": {  
-"@type": "Organization",  
-"name": "Pivtorak.Studio",  
-"url": "https://pivtorak.studio/"  
-},  
+"creator": {"@id": "https://pivtorak.studio/en/#person"},
+"publisher": {{< schema-organization-reference >}},
 "copyrightHolder": {  
 "@type": "Person",  
 "name": "Anna Pivtorak"  

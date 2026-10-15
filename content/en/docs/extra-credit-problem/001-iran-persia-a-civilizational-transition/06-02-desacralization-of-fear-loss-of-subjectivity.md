@@ -99,20 +99,9 @@ navigation_order: 06-02
     "alternateName":"Iran – Persia: A Civilizational Transition",
     "url":"https://pivtorak.studio/en/docs/extra-credit-problem/"
   },
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/"
-  },
-  "creator":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "creator":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "datePublished":"2026-01-25T12:00:00",
   "dateModified":"2026-01-25T12:00:00",
   "keywords":[

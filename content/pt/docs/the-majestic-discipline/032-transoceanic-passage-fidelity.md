@@ -106,16 +106,8 @@ guiding_question: Consegues manter-te fiel à tua direção quando o destino ain
 "@type": "CreativeWorkSeries",  
 "name": "A Disciplina Majestosa"  
 },  
-"creator": {  
-"@type": "Person",  
-"name": "Anna Pivtorak",  
-"url": "https://pivtorak.studio/"  
-},  
-"publisher": {  
-"@type": "Organization",  
-"name": "Pivtorak.Studio",  
-"url": "https://pivtorak.studio/"  
-},  
+"creator": {"@id": "https://pivtorak.studio/en/#person"},
+"publisher": {{< schema-organization-reference >}},
 "copyrightHolder": {  
 "@type": "Person",  
 "name": "Anna Pivtorak"  

@@ -83,15 +83,8 @@ guiding_question: Como mantenho o meu rumo?
   "url":"https://pivtorak.studio/pt/docs/the-majestic-discipline/035-planetary-axis-transit/",
   "mainEntityOfPage":"https://pivtorak.studio/pt/docs/the-majestic-discipline/035-planetary-axis-transit/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-035-planetary-axis-transit.webp",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "articleSection":"A Disciplina Majestosa",
   "keywords":[
     "Trânsito Eixo Planetário",

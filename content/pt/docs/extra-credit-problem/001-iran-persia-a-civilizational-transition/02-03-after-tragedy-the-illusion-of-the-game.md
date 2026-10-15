@@ -106,15 +106,8 @@ research_origin: Portugal
     "@type": "CreativeWorkSeries",
     "name": "Desafio de Nível Superior"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-01-19T13:00:00+00:00",
   "dateModified": "2026-01-19T13:00:00+00:00",
   "image": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-02-03-after-tragedy-the-illusion-of-the-game.webp",

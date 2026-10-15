@@ -109,16 +109,8 @@ guiding_question: Какое тихое начало сегодня заслуж
     "@type": "CreativeWorkSeries",
     "name": "Величественная Дисциплина"
   },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

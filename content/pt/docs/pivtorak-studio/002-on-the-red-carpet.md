@@ -63,20 +63,8 @@ search: indexed
   "dateCreated": "2023-07-19T10:00:00+01:00",
   "datePublished": "2025-07-07T10:00:00+01:00",
   "dateModified": "2025-07-07T10:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/pt/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/logo.png"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/pivtorak-studio-002-on-the-red-carpet.webp",
   "mainEntityOfPage": {
     "@type": "WebPage",

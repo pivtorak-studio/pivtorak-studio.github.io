@@ -35,14 +35,8 @@ weight: "102"
   "inLanguage": "pt-PT",
   "datePublished": "2026-05-15T14:00:00",
   "dateCreated": "2026-05-09T10:00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak Kostyuk"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "/images/anna-pivtorak-kostyuk-identity-and-evolution-the-laboratory-of-thought-path-a-state-visualization-system-a-map-of-movement.webp",
   "keywords": [
     "Path",

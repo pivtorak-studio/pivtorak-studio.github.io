@@ -47,15 +47,8 @@ search: indexed
       },
       "datePublished": "2026-10-07T06:00:00+01:00",
       "dateModified": "2026-10-07T06:00:00+01:00",
-      "author": {
-        "@type": "Person",
-        "name": "Anna Pivtorak",
-        "url": "https://pivtorak.studio/"
-      },
-      "publisher": {
-        "@type": "Person",
-        "name": "Anna Pivtorak"
-      },
+      "author": {"@id": "https://pivtorak.studio/en/#person"},
+      "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
       "image": {
         "@type": "ImageObject",
         "url": "https://pivtorak.studio/images/peaceful-life-040-the-blindfolded-electorate.webp",

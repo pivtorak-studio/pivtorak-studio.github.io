@@ -56,15 +56,8 @@ search: indexed
   "description": "Мирная жизнь начинается с уважения к естественным границам. Белый медведь в Арктике и косатка в океане напоминают: разные территории не должны становиться причиной конфликта.",
   "datePublished": "2026-09-01T15:00:00+01:00",
   "dateModified": "2026-09-01T15:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Анна Пивторак (Костюк)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Анна Пивторак (Костюк)"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-037-each-in-their-own-territory.webp",

@@ -66,15 +66,8 @@ search: indexed
   "alternativeHeadline": "A Living System Breathes Openly",
   "description": "A philosophical and architectural reflection on structured incompleteness, transparent development, and sovereign digital ecosystems that evolve publicly without hiding drafts, instability, or reconstruction processes.",
   "image": "https://pivtorak.studio/images/core-recalibration-008-2026-public-incompleteness-the-architecture-of-a-living-sovereign-system.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "en",
   "datePublished": "2026-05-26T21:00:00+01:00",
   "dateModified": "2026-05-26T21:00:00+01:00",

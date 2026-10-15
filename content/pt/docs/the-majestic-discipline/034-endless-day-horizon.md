@@ -83,15 +83,8 @@ guiding_question: O que vejo para além do horizonte?
   "url":"https://pivtorak.studio/pt/docs/the-majestic-discipline/034-endless-day-horizon/",
   "mainEntityOfPage":"https://pivtorak.studio/pt/docs/the-majestic-discipline/034-endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "articleSection":"A Disciplina Majestosa",
   "keywords":[
     "Dia Infinito Horizonte",

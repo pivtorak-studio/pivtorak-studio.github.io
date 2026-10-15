@@ -62,7 +62,7 @@ alt: Темний робочий простір студії з книжками
   "inLanguage": "uk",
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "url": "https://pivtorak.studio/",
     "name": "Pivtorak.Studio"
   },
@@ -70,15 +70,8 @@ alt: Темний робочий простір студії з книжками
     "@type": "Thing",
     "name": "Серії та проєкти Pivtorak.Studio"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "mainEntity": {
     "@type": "ItemList",
     "name": "Серії та проєкти",

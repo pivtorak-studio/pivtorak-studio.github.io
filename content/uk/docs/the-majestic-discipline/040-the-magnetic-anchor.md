@@ -51,14 +51,8 @@ guiding_question: "Відносно якої точки я вимірюю сві
   "inLanguage": "uk",
   "datePublished": "2026-08-26T17:00:00",
   "dateModified": "2026-08-26T17:00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/the-majestic-discipline-040-the-magnetic-anchor.webp",

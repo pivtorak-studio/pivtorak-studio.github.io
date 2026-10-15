@@ -53,15 +53,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-03-she-breathes.webp",
     "caption": "Uma jovem dragão encontra-se num vale florido, contemplando um Portal quase invisível que surge como um ténue arco de luz. Enquanto Esmée respira, o espaço à sua volta parece responder à sua respiração."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "pt-PT",
   "datePublished": "2025-05-16T13:00:00+01:00",
   "dateModified": "2026-10-09T13:00:00+01:00",

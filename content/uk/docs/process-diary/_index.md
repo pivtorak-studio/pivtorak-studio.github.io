@@ -52,7 +52,7 @@ show_in_series_studio: true
       "description": "Живий архів, що документує еволюцію систем через безперервну фіксацію їхнього походження та розвитку.",
       "inLanguage": "uk",
       "isPartOf": {
-        "@id": "https://pivtorak.studio/uk/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "breadcrumb": {
         "@id": "https://pivtorak.studio/uk/docs/process-diary/#breadcrumb"
@@ -100,10 +100,10 @@ show_in_series_studio: true
         "Pivtorak Studio"
       ],
       "author": {
-        "@id": "https://pivtorak.studio/uk/#person"
+        "@id": "https://pivtorak.studio/en/#person"
       },
       "publisher": {
-        "@id": "https://pivtorak.studio/uk/#organization"
+        "@id": "https://pivtorak.studio/en/#organization"
       },
       "image": {
         "@id": "https://pivtorak.studio/uk/docs/process-diary/#primaryimage"
@@ -114,7 +114,7 @@ show_in_series_studio: true
         "@id": "https://pivtorak.studio/uk/docs/process-diary/#webpage"
       },
       "isPartOf": {
-        "@id": "https://pivtorak.studio/uk/#website"
+        "@id": "https://pivtorak.studio/en/#website"
       },
       "about": [
         {

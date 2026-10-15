@@ -88,15 +88,8 @@ search: indexed
   },
   "position": 26,
   "keywords": ["МирнеЖиття", "Дитинство", "Діти", "Безпека", "Родина", "Довіра", "Людська Безпека", "Політичний Дизайн", "Pivtorak Studio"],
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  }
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

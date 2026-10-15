@@ -40,16 +40,8 @@ search: indexed
   "description": "A paz depende não só de fronteiras, acordos e instituições, mas também da capacidade de quem detém o poder para ver a realidade com clareza, compreender as consequências e tomar decisões responsáveis.",
   "datePublished": "2026-09-04T21:00:00+01:00",
   "dateModified": "2026-09-04T21:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-038-common-sense-is-the-foundation-of-peace.webp",

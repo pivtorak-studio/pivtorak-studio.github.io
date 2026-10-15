@@ -73,16 +73,8 @@ search: indexed
     "wildlife"
   ],
   "image": "https://pivtorak.studio/images/peaceful-life-036-when-they-can-come-back.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/en/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/en/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-08-12T08:00:00+01:00",
   "dateModified": "2026-08-12T08:00:00+01:00",
   "mainEntityOfPage": {

@@ -60,14 +60,8 @@ search: indexed
   "inLanguage": "en",
   "datePublished": "2025-06-01T13:00:00+01:00",
   "dateModified": "2025-06-01T13:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": "https://pivtorak.studio/images/peaceful-life-003-the-right-to-work.webp",
   "mainEntityOfPage": {
     "@type": "WebPage",

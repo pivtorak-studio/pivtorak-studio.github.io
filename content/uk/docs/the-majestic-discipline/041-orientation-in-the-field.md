@@ -51,14 +51,8 @@ guiding_question: "Які невидимі сигнали формують по�
   "inLanguage": "uk",
   "datePublished": "2026-08-27T09:00:00",
   "dateModified": "2026-08-27T09:00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/the-majestic-discipline-041-orientation-in-the-field.webp",

@@ -186,20 +186,9 @@ bookCollapseSection: true
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/events-that-reveal-the-system.webp"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {{< schema-author-reference >}},
+  "publisher": {{< schema-organization-reference >}},
+  "isPartOf": { "@id": "https://pivtorak.studio/en/#website" },
   "about": [
     {"@type": "Thing", "name": "Междисциплинарный анализ"},
     {"@type": "Thing", "name": "Социальные системы"},
@@ -217,21 +206,14 @@ bookCollapseSection: true
     "социальные нормы",
     "автономия человека"
   ],
-  "hasPart": {
-    "@type": "CreativeWorkSeries",
-    "@id": "https://pivtorak.studio/ru/docs/events-that-reveal-the-system/#series",
-    "name": "События, раскрывающие систему",
-    "inLanguage": "ru",
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    }
-  },
   "mainEntity": {
     "@type": "CreativeWorkSeries",
-    "@id": "https://pivtorak.studio/ru/docs/events-that-reveal-the-system/#series",
+    "@id": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/#series",
     "name": "События, раскрывающие систему",
-    "description": "Самостоятельные междисциплинарные исследования значимых событий и раскрываемых ими системных механизмов."
+    "inLanguage": "ru",
+    "url": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/",
+    "description": "Самостоятельные междисциплинарные исследования значимых событий и раскрываемых ими системных механизмов.",
+    "creator": {{< schema-author-reference >}}
   },
   "isAccessibleForFree": true
 }

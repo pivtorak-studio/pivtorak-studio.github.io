@@ -83,15 +83,8 @@ guiding_question: Що я бачу за горизонтом?
   "url":"https://pivtorak.studio/uk/docs/the-majestic-discipline/034-endless-day-horizon/",
   "mainEntityOfPage":"https://pivtorak.studio/uk/docs/the-majestic-discipline/034-endless-day-horizon/",
   "image":"https://pivtorak.studio/images/the-majestic-discipline-034-endless-day-horizon.webp",
-  "author":{
-    "@type":"Person",
-    "name":"Анна Півторак"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "articleSection":"Велична Дисципліна",
   "keywords":[
     "Нескінченний День Масштабу",

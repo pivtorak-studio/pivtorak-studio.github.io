@@ -54,15 +54,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-03-she-breathes.webp",
     "caption": "A dragon girl stands in a blooming valley, gazing toward a nearly invisible Gate that appears as a faint arc of light. As Esmée breathes, the surrounding space seems to breathe back."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "en",
   "datePublished": "2025-05-16T13:00:00+01:00",
   "dateModified": "2026-10-09T13:00:00+01:00",

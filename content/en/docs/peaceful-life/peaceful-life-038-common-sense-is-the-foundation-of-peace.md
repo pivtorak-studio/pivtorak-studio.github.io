@@ -40,16 +40,8 @@ search: indexed
   "description": "Peace depends not only on borders, agreements, and institutions, but also on the ability of those in power to see reality clearly, understand consequences, and make responsible decisions.",
   "datePublished": "2026-09-04T21:00:00+01:00",
   "dateModified": "2026-09-04T21:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak (Kostyuk)",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-038-common-sense-is-the-foundation-of-peace.webp",

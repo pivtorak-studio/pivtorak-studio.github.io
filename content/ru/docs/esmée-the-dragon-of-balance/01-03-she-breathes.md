@@ -53,15 +53,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-01-03-she-breathes.webp",
     "caption": "Молодая драконица стоит в цветущей долине и смотрит на почти невидимые Врата, похожие на едва различимую дугу света. Эсме дышит, словно пространство вокруг отвечает ей тем же."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "inLanguage": "ru",
   "datePublished": "2025-05-16T13:00:00+01:00",
   "dateModified": "2026-10-09T13:00:00+01:00",

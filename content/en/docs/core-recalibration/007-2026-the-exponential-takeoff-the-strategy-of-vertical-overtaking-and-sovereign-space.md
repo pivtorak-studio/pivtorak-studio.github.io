@@ -70,16 +70,8 @@ search: indexed
     "name": "Core Recalibration",
     "url": "https://pivtorak.studio/en/docs/core-recalibration/"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-05-22T14:00:00+00:00",
   "dateModified": "2026-05-22T14:00:00+00:00",
   "image": "https://pivtorak.studio/images/core-recalibration-007-2026-the-exponential-takeoff-the-strategy-of-vertical-overtaking-and-sovereign-space.webp",

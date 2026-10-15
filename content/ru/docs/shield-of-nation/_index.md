@@ -108,21 +108,12 @@ show_in_series_projects: true
   "dateModified": "2026-10-12T22:30:00+01:00",
   "isPartOf": {
     "@type": "WebSite",
-    "@id": "https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "name": "Pivtorak.Studio",
     "url": "https://pivtorak.studio/"
   },
-  "author": {
-    "@type": "Person",
-    "@id": "https://pivtorak.studio/ru/#person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "@id": "https://pivtorak.studio/#organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/shield-of-nation.webp"
@@ -134,7 +125,7 @@ show_in_series_projects: true
     "description": "Исследовательская и визуальная серия, рассматривающая национальную защиту как целостную систему взаимосвязанных функций, ролей и ответственности.",
     "inLanguage": "ru",
     "author": {
-      "@id": "https://pivtorak.studio/ru/#person"
+      "@id": "https://pivtorak.studio/en/#person"
     }
   },
   "mainEntity": {

@@ -39,6 +39,7 @@ image:
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://pivtorak.studio/en/#person",
   "name": "Anna Pivtorak",
   "alternateName": "Anna Kostyuk",
   "description": "Art historian, researcher, and founder of Pivtorak Studio.",

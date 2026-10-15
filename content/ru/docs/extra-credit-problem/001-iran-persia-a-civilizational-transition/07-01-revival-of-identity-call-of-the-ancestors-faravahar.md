@@ -130,16 +130,8 @@ navigation_order: 07-01
     "name": "СверхЗадача",
     "alternateName": "Иран – Персия: Цивилизационный Переход"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/extra-credit-problem-001-iran-persia-a-civilizational-transition-07-01-revival-of-identity-call-of-the-ancestors-faravahar.webp",

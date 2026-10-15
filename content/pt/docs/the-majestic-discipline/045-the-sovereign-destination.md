@@ -51,15 +51,8 @@ guiding_question: O que posso reunir do passado para me tornar uma base para aqu
   "inLanguage": "pt-PT",
   "datePublished": "2026-09-19T15:00:00+01:00",
   "dateModified": "2026-09-19T15:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/the-majestic-discipline-045-the-sovereign-destination.webp",

@@ -10,15 +10,9 @@ weight: 1
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "headline": "Контекстная инженерия в построении ценности: Архитектурная и математико-логическая модель для культурных и ювелирных активов",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "keywords": "JEL: Z11, G32, cultural assets, value engineering",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak Studio"
-  }
+  "publisher": {{< schema-organization-reference >}}
 }
 </script>
 

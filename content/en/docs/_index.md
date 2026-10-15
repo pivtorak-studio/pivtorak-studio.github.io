@@ -39,10 +39,7 @@ It includes:
   "name": "Research Archive",
   "description": "Archive of research series and analytical publications at Pivtorak.Studio",
   "inLanguage": "en",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  }
+  "author": {"@id": "https://pivtorak.studio/en/#person"}
 }
 </script>
 

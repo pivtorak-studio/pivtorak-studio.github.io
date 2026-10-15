@@ -55,14 +55,8 @@ search: indexed
   "inLanguage": "en",
   "datePublished": "2026-06-26T11:00:00+01:00",
   "dateModified": "2026-06-26T11:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": "https://pivtorak.studio/images/core-recalibration-016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum.webp",
   "url": "https://pivtorak.studio/en/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/",
   "mainEntityOfPage": "https://pivtorak.studio/en/docs/core-recalibration/016-2026-management-of-sufficiency-threshold-maximum-is-not-optimum/"

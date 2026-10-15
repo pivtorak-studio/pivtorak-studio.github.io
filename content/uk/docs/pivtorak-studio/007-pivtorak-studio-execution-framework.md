@@ -64,20 +64,8 @@ search: indexed
   "inLanguage":"uk",
   "datePublished":"2026-04-30T13:00:00+01:00",
   "dateModified":"2026-04-30T13:00:00+01:00",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/uk/about/"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/",
-    "logo":{
-      "@type":"ImageObject",
-      "url":"https://pivtorak.studio/images/logo.png"
-    }
-  },
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}},
   "image":{
     "@type":"ImageObject",
     "url":"https://pivtorak.studio/images/pivtorak-studio-007-pivtorak-studio-execution-framework.webp",

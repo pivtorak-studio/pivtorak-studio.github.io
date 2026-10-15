@@ -83,14 +83,8 @@ visual_archive: true
   "datePublished": "2026-10-09T09:00:00+01:00",
   "dateModified": "2026-10-09T09:00:00+01:00",
   "inLanguage": "uk",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-03-03-destiny-laboratory.webp",
   "url": "https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/03-03-destiny-laboratory/",
   "isPartOf": {

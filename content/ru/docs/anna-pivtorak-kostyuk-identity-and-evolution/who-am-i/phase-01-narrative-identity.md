@@ -15,11 +15,7 @@ lastmod: 2025-03-12T09:00:00
   "@type": "Article",
   "headline": "Кто Я? — Фаза I — Наративная Идентичность (2025)",
   "description": "Первая зафиксированная фаза идентичности как визуального сторителлера и исследователя.",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "alternateName": "Anna Kostyuk"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
   "datePublished": "2025-03",
   "inLanguage": "ru",
   "isPartOf": {

@@ -53,14 +53,8 @@ show_in_series_tools: true
     "@id": "https://pivtorak.studio/en/docs/seo-tricks/"
   },
   "image": "https://pivtorak.studio/images/seo-tricks.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "datePublished": "2026-09-07T18:00:00+01:00",
   "dateModified": "2026-09-07T18:00:00+01:00",
   "keywords": "SEO Tricks, technical SEO, SEO investigation, technical SEO troubleshooting, website diagnostics, SEO verification, crawling, indexing, Hugo, technical website audit",

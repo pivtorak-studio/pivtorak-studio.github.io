@@ -54,15 +54,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-03-light-irony.webp",
     "caption": "Эсме сидит среди фантастических существ — маленьких духов, бабочек и мягких теней. Её улыбка нежна, взгляд спокоен, а воздух сияет, словно наполненный смехом."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Художественное творчество",
     "Мифологическое искусство",

@@ -70,16 +70,8 @@ search: indexed
     "peace"
   ],
   "image": "https://pivtorak.studio/images/peaceful-life-034-when-evil-runs-out-of-resources.webp",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/en/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/en/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-08-12T06:00:00+01:00",
   "dateModified": "2026-08-12T06:00:00+01:00",
   "mainEntityOfPage": {

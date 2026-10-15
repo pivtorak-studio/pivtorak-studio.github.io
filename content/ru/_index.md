@@ -33,55 +33,6 @@ related:
 <link rel="alternate" hreflang="pt" href="https://pivtorak.studio/pt/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
 <link rel="alternate" hreflang="ru" href="https://pivtorak.studio/ru/docs/anna-pivtorak-kostyuk-identity-and-evolution/">
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Anna Pivtorak (Kostyuk)",
-  "alternateName": [
-    "Анна Півторак",
-    "Анна Костюк",
-    "Anna Kostyuk",
-    "Anna Pivtorak Kostyuk",
-    "Анна Пивторак",
-    "Анна Пивторак Костюк"
-  ],
-  "url": "https://pivtorak.studio",
-  "image": "https://pivtorak.studio/images/anna-pivtorak-graduation.jpg",
-  "birthDate": "1976-10-09",
-  "sameAs": [
-    "https://pivtorak.studio/anna-pivtorak"
-  ]
-}
-</script>
-
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Анна Півторак (Костюк)",
-  "alternateName": [
-    "Anna Pivtorak", "Anna Kostyuk", "Анна Костюк", 
-    "Anna Pivtorak Kostyuk", "Анна Півторак Костюк", 
-    "Анна Пивторак", "Анна Пивторак Костюк"
-  ],
-  "url": "https://pivtorak.studio",
-  "image": "https://pivtorak.studio/images/anna-pivtorak-kostyuk-identity-and-evolutionwho-am-i-anna-pivtorak-kostyuk-achievements.webp",
-  "jobTitle": "Researcher, Author, Cultural Project Creator",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio"
-  },
-  "sameAs": [
-    "https://www.instagram.com/pivtorak.studio/",
-    "https://www.facebook.com/anna.pivtorak.jb.expert/",
-    "https://memoryon.net/s/eOKTKuOc9l",
-    "https://memoryon.net/s/U6oLQBN9rF",
-    "https://memoryon.net/s/BItTLsxdTx",
-    "https://memoryon.net/s/aM5A-eOTR1"
-  ]
-}
-
-
 **∴ 0.01 | Pivtorak.Studio — Официальный Вебсайт | Анна Пивторак (Костюк)**
 
 # Концептуальная Система Формирования Долгосрочных Структур Ценности

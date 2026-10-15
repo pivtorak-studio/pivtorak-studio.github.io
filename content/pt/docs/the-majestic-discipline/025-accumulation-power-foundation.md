@@ -99,16 +99,8 @@ guiding_question: Que tipo de força se constrói muito antes de se tornar visí
     "@type":"CreativeWorkSeries",
     "name":"A Disciplina Majestosa"
   },
-  "creator":{
-    "@type":"Person",
-    "name":"Anna Pivtorak",
-    "url":"https://pivtorak.studio/"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  }
+  "creator":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}}
 }
 </script>
 

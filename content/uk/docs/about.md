@@ -27,6 +27,7 @@ weight: 1
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://pivtorak.studio/en/#person",
   "name": "Анна Півторак (Костюк)",
   "alternateName": ["Anna Pivtorak", "Anna Kostyuk", "Анна Костюк", "Анна Пивторак", "Anna Pivtorak Kostyuk"],
   "url": "https://pivtorak.studio/uk/docs/about/",

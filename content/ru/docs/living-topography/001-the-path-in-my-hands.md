@@ -76,16 +76,8 @@ search: indexed
     "url": "https://pivtorak.studio/images/living-topography-001-the-path-in-my-hands.webp",
     "caption": "Белые тканевые пути расходятся по тёмно-серому ковру от центрального серого текстильного клубка"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/ru/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "datePublished": "2026-10-01T21:00:00+01:00",
   "dateModified": "2026-10-02T17:00:00+01:00",
   "articleSection": [

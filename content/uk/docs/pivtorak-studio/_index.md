@@ -75,7 +75,7 @@ bookCollapseSection: true
   "description":"Авторська дослідницька серія про трансформацію як перехід до нової системи.",
   "isPartOf":{
     "@type":"WebSite",
-    "@id":"https://pivtorak.studio/#website",
+    "@id": "https://pivtorak.studio/en/#website",
     "name":"Pivtorak.Studio",
     "url":"https://pivtorak.studio/"
   },
@@ -85,10 +85,7 @@ bookCollapseSection: true
     "name":"Формула трансформації",
     "alternateName":"FormulaOfTransformation",
     "description":"Авторська серія, що досліджує трансформацію як перехід до нової системи.",
-    "creator":{
-      "@type":"Person",
-      "name":"Anna Pivtorak"
-    },
+    "creator":{"@id": "https://pivtorak.studio/en/#person"},
     "genre":"Методологія досліджень",
     "keywords":[
       "Трансформація",
@@ -101,15 +98,8 @@ bookCollapseSection: true
   "image":"https://pivtorak.studio/images/pivtorak-studio-the-formula-of-transformation.webp",
   "datePublished":"2025-07-07T08:00:00+01:00",
   "dateModified":"2025-07-07T08:00:00+01:00",
-  "author":{
-    "@type":"Person",
-    "name":"Anna Pivtorak"
-  },
-  "publisher":{
-    "@type":"Organization",
-    "name":"Pivtorak.Studio",
-    "url":"https://pivtorak.studio/"
-  }
+  "author":{"@id": "https://pivtorak.studio/en/#person"},
+  "publisher":{{< schema-organization-reference >}}
 }
 </script>
 

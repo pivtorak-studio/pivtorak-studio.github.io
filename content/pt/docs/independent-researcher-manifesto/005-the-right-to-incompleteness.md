@@ -106,20 +106,8 @@ symbol: Vetor Aberto
     "Estruturas Abertas",
     "Design do Conhecimento"
   ],
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/pt/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://pivtorak.studio/images/pivtorak-studio-logo.webp"
-    }
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {{< schema-organization-reference >}},
   "isPartOf": {
     "@type": "CollectionPage",
     "name": "Manifesto da Investigadora Independente",

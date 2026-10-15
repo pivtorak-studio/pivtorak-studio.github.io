@@ -100,10 +100,10 @@ show_in_series_studio: true
         "Pivtorak Studio"
       ],
       "author": {
-        "@id": "https://pivtorak.studio/ru/#person"
+        "@id": "https://pivtorak.studio/en/#person"
       },
       "publisher": {
-        "@id": "https://pivtorak.studio/ru/#organization"
+        "@id": "https://pivtorak.studio/en/#organization"
       },
       "image": {
         "@id": "https://pivtorak.studio/ru/docs/process-diary/#primaryimage"

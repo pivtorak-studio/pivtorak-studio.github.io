@@ -185,20 +185,9 @@ show_in_series_projects: true
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/events-that-reveal-the-system.webp"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Pivtorak.Studio",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {{< schema-author-reference >}},
+  "publisher": {{< schema-organization-reference >}},
+  "isPartOf": { "@id": "https://pivtorak.studio/en/#website" },
   "about": [
     {"@type": "Thing", "name": "Interdisciplinary analysis"},
     {"@type": "Thing", "name": "Social systems"},
@@ -216,25 +205,20 @@ show_in_series_projects: true
     "social norms",
     "human autonomy"
   ],
-  "hasPart": {
-    "@type": "CreativeWorkSeries",
-    "@id": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/#series",
-    "name": "Events That Reveal the System",
-    "inLanguage": "en",
-    "creator": {
-      "@type": "Person",
-      "name": "Anna Pivtorak"
-    }
-  },
   "mainEntity": {
     "@type": "CreativeWorkSeries",
     "@id": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/#series",
     "name": "Events That Reveal the System",
-    "description": "Independent interdisciplinary analyses of significant events and the systems they reveal."
+    "inLanguage": "en",
+    "url": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/",
+    "description": "Independent interdisciplinary analyses of significant events and the systems they reveal.",
+    "creator": {{< schema-author-reference >}}
   },
   "isAccessibleForFree": true
 }
 </script>
+
+<span id="series"></span>
 
 # Events That Reveal the System
 

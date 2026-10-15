@@ -54,15 +54,8 @@ visual_archive: true
     "url": "https://pivtorak.studio/images/esmée-the-dragon-of-balance-02-02-discipline-of-balance.webp",
     "caption": "Эсме стоит на ветру с расправленными крыльями — одним человеческим, другим драконьим. Свет рассвета окружает её; её движения спокойны, но исполнены силы."
   },
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "creator": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "creator": {"@id": "https://pivtorak.studio/en/#person"},
   "genre": [
     "Художественное творчество",
     "Мифологическое искусство",

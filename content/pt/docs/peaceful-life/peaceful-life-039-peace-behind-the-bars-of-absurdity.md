@@ -40,16 +40,8 @@ search: indexed
   "description": "Uma reflexão sobre o paradoxo de um mundo onde a paz e a liberdade podem ficar condicionadas, enquanto a destruição e o absurdo recebem espaço para agir.",
   "datePublished": "2026-09-05T12:00:00+01:00",
   "dateModified": "2026-09-05T12:00:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
-  "publisher": {
-    "@type": "Person",
-    "name": "Anna Pivtorak",
-    "url": "https://pivtorak.studio/"
-  },
+  "author": {"@id": "https://pivtorak.studio/en/#person"},
+  "publisher": {"@id": "https://pivtorak.studio/en/#organization"},
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/peaceful-life-039-peace-behind-the-bars-of-absurdity.webp",

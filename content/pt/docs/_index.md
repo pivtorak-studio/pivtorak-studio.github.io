@@ -34,9 +34,6 @@ Inclui:
   "name": "Arquivo de Investigação",
   "description": "Arquivo de séries de investigação e publicações analíticas do Pivtorak.Studio",
   "inLanguage": "pt",
-  "author": {
-    "@type": "Person",
-    "name": "Anna Pivtorak"
-  }
+  "author": {"@id": "https://pivtorak.studio/en/#person"}
 }
 </script>

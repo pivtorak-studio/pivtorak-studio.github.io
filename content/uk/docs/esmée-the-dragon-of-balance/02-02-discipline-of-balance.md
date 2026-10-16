@@ -125,7 +125,7 @@ _Тиша, що тримає крила._
 **Esmée як символ:**  
 Дисципліна, що дихає любов’ю. Гармонія волі та довіри.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée стоїть на вітрі, з розправленими крилами — одне людське, інше драконяче. Навколо — світло світанку, її рух спокійний, але сповнений сили.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #DisciplineOfBalance #InnerStrength #CalmPower #HarmonyInMotion #Pivtorak #CreativeMyth #AirAndFire #LivingDiscipline #Balance #GraceInControl #MajesticCalm

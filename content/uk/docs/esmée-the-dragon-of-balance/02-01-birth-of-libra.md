@@ -152,7 +152,7 @@ _Рівновага Першопочатку._
 **Esmée як символ:**  
 Прийняття подвійності як умови гармонії. Свідомий вибір бути цілісною.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée стоїть у променях світла, між двома крилами — людським і драконячим. Полум’я і повітря зливаються у рівновазі.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #РівновагаПершопочатку #SelfAcceptance #MythAlive #CreativeSoul #Pivtorak #SpiritualArt #Balance #Harmony #Awakening #LightAndFire

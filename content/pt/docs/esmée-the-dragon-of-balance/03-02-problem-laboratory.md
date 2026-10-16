@@ -128,7 +128,7 @@ visual_archive: true
 
 ![_The Dragon of Balance. 🐉⚖️ ESMÉE. Laboratório dos Problemas. AP | Pivtorak.Studio. 09.10.2026_ © Anna Pivtorak (Kostyuk)](/images/esmée-the-dragon-of-balance-03-02-problem-laboratory.webp)
 
-> **A resposta não está sobre a mesa. É preciso construí-la.**
+> *A resposta não está sobre a mesa. É preciso construí-la.*
 
 A segunda câmara é diferente.
 
@@ -180,7 +180,7 @@ A segunda câmara do laboratório de ESMÉE não é, portanto, um lugar de respo
 
 **O que foi resolvido.**
 
-**ESMÉE, Dragão do Equilíbrio, Laboratório dos Problemas, resolução de problemas, complexidade, processo, lógica, experimentação, mecanismos, ligações, transformação, ametista, resposta, processo criativo**
+ESMÉE, Dragão do Equilíbrio, Laboratório dos Problemas, resolução de problemas, complexidade, processo, lógica, experimentação, mecanismos, ligações, transformação, ametista, resposta, processo criativo
 
 **Alt-text:**   
 ESMÉE, a Rapariga-Dragão com cabelo escuro, longo e ondulado, dois chifres de dragão curvos em tons de dourado e castanho, uma característica orelha de dragão, pele escamada, mãos de dragão, asas e uma cauda integrada no vestido, entra na segunda câmara do seu enorme laboratório subterrâneo. A cena é vista de um ângulo diferente e mais distante dentro do mesmo sistema subterrâneo. Uma grande mesa de trabalho está coberta de puzzles, diagramas, estruturas mecânicas, símbolos, elementos interligados, ferramentas e fragmentos de problemas cujas relações ainda não são evidentes. Cristais de ametista lançam um brilho púrpura profundo sobre a câmara, misturando-se com a luz quente e subtil do laboratório. À volta de ESMÉE, mecanismos, desenhos, construções geométricas e estruturas inacabadas sugerem um processo complexo de resolução de problemas, e não uma resposta já concluída. Ela aproxima-se da mesa com os seus instrumentos, preparada para examinar, ligar, testar e reconstruir os elementos que tem diante de si. A cena combina arquitetura ancestral em pedra com detalhes subtis de ciência e mecânica, criando a sensação de um laboratório oculto dedicado ao processo de resolução de problemas complexos.

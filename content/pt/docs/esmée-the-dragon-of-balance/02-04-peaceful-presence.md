@@ -126,7 +126,7 @@ Nesse sossego há força: o mundo cresce à sua volta porque já não teme o seu
 **Esmée como símbolo:**  
 Suavidade da força. Paz como estado natural da alma desperta.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée deitada na relva, olhos fechados. À sua volta — luz suave, flores, borboletas, ar tranquilo.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #PresençaPacífica #VidaPacífica #SuavidadeDaForça #CalmaELuz #HarmoniaNatural #PazInterior #MitoVivo #Pivtorak

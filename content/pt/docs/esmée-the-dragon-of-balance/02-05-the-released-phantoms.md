@@ -127,7 +127,7 @@ A luz atravessa Esmée, purificando as sombras e deixando cristais de entendimen
 **Esmée como símbolo:**  
 Análise transformadora. Memória como cura.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée sentada entre sombras translúcidas — ecos do passado que se dissolvem em luz. À sua frente — linhas e círculos de conhecimento.
 
 #MundoCaprichoso #Esmée #PivtorakStudio #DragãoDoEquilíbrio #FantasmasLibertados #AlquimiaDaMemória #ArteDoEntendimento #Transformação #CuraPelaConsciência #Conhecimento #WhimsicalWorld

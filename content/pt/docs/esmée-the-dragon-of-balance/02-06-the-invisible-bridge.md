@@ -131,7 +131,7 @@ Lá, onde o fogo encontra o ar, Esmée dá um passo — e a ponte invisível apa
 **Esmée como símbolo:**  
 Fé madura na própria trajetória. Harmonia sem esperança, mas com clareza.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée de pé sobre a névoa luminosa, segurando balanças que brilham suavemente. À frente — um espaço aberto e claro.
 
 #MundoCaprichoso #Esmée #PivtorakStudio #DragãoDoEquilíbrio #PonteInvisível #ConfiançaNoCaminho #ArteDaConfiança #WhimsicalFuture #BalançasDoDestino #TrajetóriaSemSonho #CreativeMyth

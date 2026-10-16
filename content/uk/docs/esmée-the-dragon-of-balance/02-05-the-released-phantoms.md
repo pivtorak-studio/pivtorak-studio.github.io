@@ -128,7 +128,7 @@ Esmée сидить у світлі, що проходить крізь стар
 **Esmée як символ:**  
 Трансформаційна аналітика. Пам’ять як інструмент зцілення.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée сидить серед примарних тіней — силуетів минулого, що розчиняються у світлі. Перед нею — схеми, лінії, кола. На її обличчі — спокій і зосередження.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ReleasedPhantomNodes #ArtOfUnderstanding #Transformation #AlchemyOfMemory #КодФантомів #СтруктураЗнання #ХимернийСвіт #АналітикаПамяті #HealingThroughKnowledge #CreativeMyth #LightAndShadow

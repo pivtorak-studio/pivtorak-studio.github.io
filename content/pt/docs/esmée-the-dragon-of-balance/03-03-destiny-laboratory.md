@@ -134,7 +134,7 @@ visual_archive: true
 
 ![_The Dragon of Balance. 🐉⚖️ ESMÉE. Laboratório do Destino. AP | Pivtorak.Studio. 09.10.2026_ © Anna Pivtorak (Kostyuk)](/images/esmée-the-dragon-of-balance-03-03-destiny-laboratory.webp)
 
-> **Trouxe o fogo de volta. Agora já não queima.**
+> *Trouxe o fogo de volta. Agora já não queima.*
 
 A terceira câmara é novamente diferente.
 

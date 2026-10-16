@@ -152,7 +152,7 @@ O silêncio enche o espaço quando ela se aceita por inteiro. Não é ressurrei�
 **Esmée como símbolo:**  
 Aceitação da dualidade como condição da harmonia. Escolha consciente de ser inteira.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée em feixes de luz, entre asas humana e dracônica. Fogo e ar fundem-se em equilíbrio.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #EquilíbrioDaOrigem #Aceitação #MitoVivo #Harmonia #NovoEu #LuzEFogo #Pivtorak #ArteEspiritual #Equilíbrio #SerInteira

@@ -133,7 +133,7 @@ visual_archive: true
 
 ![_The Dragon of Balance. 🐉⚖️ ESMÉE. Destiny Laboratory. AP | Pivtorak.Studio. 09.10.2026_ © Anna Pivtorak (Kostyuk)](/images/esmée-the-dragon-of-balance-03-03-destiny-laboratory.webp)
 
-> **I brought the fire back. Now it does not burn.**
+> *I brought the fire back. Now it does not burn.*
 
 The third chamber is different again.
 
@@ -223,7 +223,7 @@ It is a place where something that was already there is finally recognized.
 
 **What was found.**
 
-**ESMÉE, Dragon of Balance, Destiny Laboratory, destiny, 3+3=6, six, return, acceptance, red, ruby, fire, energy, strength, transformation, life, freedom**
+ESMÉE, Dragon of Balance, Destiny Laboratory, destiny, 3+3=6, six, return, acceptance, red, ruby, fire, energy, strength, transformation, life, freedom
 
 **Alt-text:**   
 ESMÉE, the Dragon-Girl with shoulder-blade-length wavy dark hair, two curved golden-brown dragon horns, a distinctive dragon ear, scaled skin, dragon hands, wings, and a tail that naturally flows into the structure of her dress, stands in the third chamber of her enormous underground laboratory. The chamber is wider and closer to an opening, suggesting a passage toward the outside. Ruby-red crystals illuminate the cavern with a deep warm glow that mixes with softer golden light, water, stone, and large organic forms. ESMÉE holds a controlled layer of fire in one dragon hand rather than breathing flames. The fire does not burn her; it rests calmly in her hand as a symbol of controlled energy and strength. Her dragon nature and human form appear naturally integrated, with the tail becoming part of the dress. The scene combines ancient stone architecture, water, ruby crystals, organic forms, and subtle scientific elements, creating a feeling of transformation, acceptance, freedom, and a return toward the light.

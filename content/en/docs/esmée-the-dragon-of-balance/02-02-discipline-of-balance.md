@@ -126,7 +126,7 @@ Balance is not born of equality but of awareness — when one wing is stronger, 
 **Esmée as symbol:**  
 Discipline breathing with love. The harmony of will and trust.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée stands in the wind with open wings — one human, one draconic. Dawn light surrounds her; her movement is serene yet powerful.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #DisciplineOfBalance #InnerStrength #HarmonyInMotion #GraceAndWill #Pivtorak #MajesticCalm #SpiritualArt #LivingMyth #AirAndFire #CreativeDiscipline

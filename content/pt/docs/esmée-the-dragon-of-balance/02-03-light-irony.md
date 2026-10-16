@@ -126,7 +126,7 @@ Esmée não controla o espaço ao redor — ela o compreende. Até o caos tem ri
 **Esmée como símbolo:**  
 Leveza como forma de sabedoria. Alegria que nasce da aceitação da imperfeição.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée entre criaturas fantásticas — pequenos espíritos, borboletas e sombras suaves. Seu sorriso é calmo, seu olhar sereno. O ar brilha como se estivesse cheio de riso.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #IroniaDeLuz #SabedoriaCriativa #SorrisoInterior #LevezaDaVida #MitoVivo #Pivtorak #DragãoQueSorri

@@ -125,7 +125,7 @@ Esmée не контролює простір довкола себе — вон
 **Esmée як символ:**  
 Легкість як форма мудрості. Радість, що народжується з прийняття недосконалості.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée сидить серед казкових істот — маленьких духів, метеликів і тіней. Її усмішка м’яка, погляд теплий. Навколо — м’яке світло, повітря рухається, наче сміх.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #TheDragonOfBalance #ДівчинаДраконТерези #ArtOfHarmony #СвітлаІронія #WhimsicalEnergy #CreativeMyth #LightnessOfWisdom #InnerSmile #Pivtorak #LivingMyth #Balance #DragonLaughs #CalmAndJoy

@@ -153,7 +153,7 @@ Silence fills the air as she accepts herself completely. It’s not resurrection
 **Esmée as symbol:**  
 Acceptance of duality as the essence of harmony. A conscious choice to be whole.
 
-**Alt-text:**  
+**Alt-text:**    
 Esmée stands in beams of light, between human and dragon wings. Flame and air merge in balance.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #EquilibriumOfOrigin #SelfAcceptance #LivingMyth #SpiritualArt #Harmony #Balance #NewSelf #LightAndFire #Pivtorak #CreativeSoul #MythAwakening

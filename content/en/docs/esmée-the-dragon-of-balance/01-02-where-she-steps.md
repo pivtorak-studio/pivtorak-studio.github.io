@@ -111,7 +111,7 @@ And strangely, wherever they touch the earth —  **flowers bloom.**
 
 As if the field itself remembers it is alive.  
 
-**Alt-text EN:**  
+**Alt-text:**     
 A dragon girl walks across a grey, ashen field. Her movements are soft, her breath calm. Seeds fall gently from her hands, and wherever they touch the earth, flowers instantly bloom. The scene is subdued, yet full of quiet vitality. The flowers grow not in rows but in a scattered, natural pattern — as if the land itself chooses where they belong. The dragon does not look back — she continues walking, sowing in silence.
 
 #Esmée #DragonOfBalance #SeedsOfLife #AshAndFlowers #BreathWithoutExpectation #SilentSowing #GentleStrength #FeminineMission #WithoutWeapons #DragonGirl #GreyField #NewHope #FlowersFromAshes #LightWithin #SheSows #ActionWithoutDrama #LivingSoil #MissionThroughSilence #ScalesInHerHeart #PowerWithoutViolence #WhereSheSteps #PresenceOfEsmée #NotSavingButSowing #PathThroughLight #TrueAction #BreathInLifeRhythm #DragonAndBloom #MissionWithoutObsession #AshAsSoil #LightWithoutSummons

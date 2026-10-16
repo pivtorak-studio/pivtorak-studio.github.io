@@ -129,7 +129,7 @@ Where fire meets air, where knowledge turns to motion, she steps forward — and
 **Esmée as symbol:**  
 Mature faith in one’s own trajectory. Harmony without hope, but with clarity.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée standing over a misty expanse, holding glowing scales. The bridge ahead shimmers faintly in light.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #TheMajesticDiscipline #InvisibleBridge #ScalesOfDestiny #TrajectoryOfConfidence #WhimsicalFuture #ArtOfTrust #CreativeMyth

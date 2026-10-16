@@ -112,7 +112,7 @@ E de forma inesperada, onde quer que toquem o solo —  **flores nascem.**
 
 Como se o próprio campo se lembrasse de que está vivo.
 
- **Alt-text:**
+ **Alt-text:**   
 Uma menina-dragão caminha sobre um campo cinzento e coberto de cinzas. Os seus movimentos são suaves, a respiração tranquila. Sementes caem delicadamente das suas patas, e onde tocam o solo, flores nascem imediatamente. A cena é serena, mas cheia de energia vital. As flores não crescem em filas, mas num padrão natural e disperso — como se a terra escolhesse onde florescer. O dragão não olha para trás — continua a caminhar, semeando em silêncio.
 
 #Esmée #DragãoDoEquilíbrio #SementesDeVida #CinzasEFlores #SoproSemExpectativa #SemeaduraSilenciosa #ForçaSuave #MissãoFeminina #SemArmas #MeninaDragão #CampoCinzento #NovaEsperança #FloresDasCinzas #LuzInterior #ElaSemeia #AçãoSemDrama #SoloVivo #MissãoPeloSilêncio #BalançaNoPeito #PoderSemViolência #OndeElaPisa #PresençaDeEsmée #NãoSalvaSemeia #CaminhoPelaLuz #AçãoVerdadeira #RespirarNoRitmoDaVida #DragãoEFlorescimento #MissãoSemObssessão #CinzaComoSolo #LuzSemConvocação

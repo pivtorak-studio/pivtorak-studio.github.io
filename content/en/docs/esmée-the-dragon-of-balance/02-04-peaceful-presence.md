@@ -125,7 +125,7 @@ In this calm lies great strength: the world grows around her because it no longe
 **Esmée as symbol:**  
 Gentleness of strength. Peace as the natural rhythm of an awakened soul.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée resting in soft grass, eyes closed. Around her — warm light, flowers, butterflies, and still air.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #PeacefulPresence #PeacefulLife #GentlePower #CalmAndLight #NaturalHarmony #WhimsicalCalm #LivingMyth #Pivtorak #HarmonyInRest #InnerPeace

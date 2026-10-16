@@ -141,10 +141,10 @@ Nem promessa. Nem triunfo.
 
 **Ela é Esmée. E isso basta.** 
 
-**Alt-text:**
+**Alt-text:**   
 Uma jovem dragão europeia, de feições suaves e olhos expressivos, está de pé sob a chuva num campo queimado. No centro do peito brilha uma placa com o símbolo da Balança. A atmosfera é silenciosa, mas não vazia — a sua presença marca o início de algo verdadeiro. A postura é calma, a respiração serena, o olhar direto. Ela não exige nada, mas vê tudo.
 
 #DragãoDaBalança #Esmée #ElaChegou #NovoCapítulo #SoproSemEngano #BalançaInterior #MeninaDragão #ForçaSuave #SemNomeação #CampoQueimado #ChegadaDeEsmée #RegressoSilencioso #PoderDaPresença #DragãoEuropeu #LuzSemComando #SemVingança #TudoSeráVisto #CadaDecisãoConta #CadaMedidaImporta #NinguémPodeEsconder #OlhosQueVêem #JustiçaEDoçura #NovaEra #LuzDaBalança #SilêncioComoAção #PresençaVerdadeira #ElaEstáAqui #CaminhoDaHonestidade #PoderSemRaiva #MissãoDoEquilíbrio #RespirarEVer
 
-_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Ela chegou. E isso basta. AP | Pivtorak.Studio. 16.05.2025_  
+_O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Ela chegou. E isso basta. AP | Pivtorak.Studio. 16.05.2025_   
 © Anna Pivtorak (Kostyuk)

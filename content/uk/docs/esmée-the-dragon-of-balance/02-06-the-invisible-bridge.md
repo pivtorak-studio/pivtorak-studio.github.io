@@ -129,7 +129,7 @@ Esmée стоїть на межі двох просторів — видимог
 **Esmée як символ:**  
 Зріла віра у власну траєкторію. Гармонія без надії, але з ясністю.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée стоїть над світлом туману, у руках — ваги, що світяться м’яким сяйвом. Попереду — простір, який розчиняється у світлі.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #TheMajesticDiscipline #InvisibleBridge #ВагиНовоїДолі #TrajectoryOfConfidence #HarmonyBeyondHope #WhimsicalFuture #ArtOfTrust #InnerCompass #CreativeMyth

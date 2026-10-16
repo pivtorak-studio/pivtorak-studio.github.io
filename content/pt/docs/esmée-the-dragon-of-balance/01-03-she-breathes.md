@@ -117,7 +117,7 @@ Sem perguntas. Sem instruções. Sem provas.
 
 **Porque, por dentro, já está tudo alinhado.**  
 
-**Alt-text:**  
+**Alt-text:**   
 Um vale florido entre colinas e floresta. Numa clareira está uma menina-dragão, com a placa peitoral suavemente iluminada pelo símbolo da Balança. Ela não está no centro, mas ligeiramente ao lado, olhando para um Portal quase invisível — um arco de luz subtil, como um arco-íris energético. A atmosfera é serena, reverente e viva. A paisagem parece desperta e fresca. Esmée respira, e o espaço parece responder.
 
 #Esmée #DragãoDoEquilíbrio #TerceiraCena #OPortalOculto #LimiarDaPresença #ElaRespiraEOPortalAparece #SoproParaALuz #ClareiraEVerde #PortalSemCor #ArcoDeLuz #PresençaSuave #BalançaInterior #NãoÉLíderÉFarol #LimiarSilencioso #HarmoniaDosCampos #DragãoEmAção #FloraEEspaço #LuzSemNomeação #TernuraEForça #EssênciaFeminina #PaisagemViva #PassagemParaQuemEstáPronto #SemConvocação #EnergiaDoCampo #MilagreSilencioso #PortalParaOCoração #AberturaVerdadeira #EsméeEmEquilíbrio #SoproEReconhecimento

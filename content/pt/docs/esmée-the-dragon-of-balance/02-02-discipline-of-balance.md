@@ -127,7 +127,7 @@ O equilíbrio não nasce da igualdade, mas da consciência — quando uma asa é
 **Esmée como símbolo:**  
 Disciplina que respira amor. Harmonia entre vontade e confiança.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée de pé ao vento, asas abertas — uma humana, outra dracônica. A luz do amanhecer envolve sua forma; seu movimento é sereno e poderoso.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragãoDoEquilíbrio #ArteDaHarmonia #DisciplinaDoEquilíbrio #ForçaInterior #HarmoniaEmMovimento #GraçaEControle #MitoVivo #Pivtorak #EquilíbrioDaAlma #MajesticCalm #ArEFogo

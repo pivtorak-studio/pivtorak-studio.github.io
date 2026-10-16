@@ -119,7 +119,7 @@ No questions. No instructions. No proof.
 
 **Because within, everything already aligned.**
 
-**Alt-text**
+**Alt-text:**   
 A blooming valley nestled between hills and forest. In the clearing stands a dragon girl, her breastplate softly glowing with the symbol of the Scales. She’s not in the center, but slightly to the side, gazing toward a nearly invisible Portal — a faint arc of light, like an energetic rainbow. The atmosphere is still, reverent, and alive. The landscape feels fresh and awakened. Esmée breathes, and the space seems to breathe back.
 
 #Esmée #DragonOfBalance #ThirdScene #TheHiddenGate #ThresholdOfPresence #SheBreathesAndItAppears #BreathIntoLight #ClearingAndGreens #GateWithoutColor #ArcOfLight #SoftPresence #ScalesWithin #NotALeaderABeacon #SilentThreshold #HarmonyOfFields #DragonInAction #FloraAndSpace #LightWithoutAppointment #KindnessAndStrength #FeminineEssence #LivingLandscape #PassageForTheReady #WithoutSummons #FieldEnergy #QuietWonder #GateForTheHeart #TrueOpening #EsméeInBalance #BreathAndRecognition

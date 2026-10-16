@@ -139,7 +139,7 @@ Not a promise. Not a triumph.
 
 **She is Esmée. And that is enough.**  
 
-**Alt-text**  
+**Alt-text:**    
 A young European-style dragon girl with gentle features and expressive eyes stands in the rain on a scorched field. A glowing breastplate with the symbol of the Scales shines from her chest. The atmosphere is quiet, but not empty — her presence marks the beginning of something meaningful. Her posture is calm, her breath soft, her gaze steady. She asks for nothing, but sees everything.
 
 #DragonOfBalance #Esmée #SheHasCome #NewChapter #BreathOfTruth #ScalesWithin #DragonGirl #GentleStrength #NoAppointment #ScorchedField #ArrivalOfEsmée #QuietReturn #PowerOfPresence #EuropeanDragon #LightWithoutCommand #NoRevenge #EverythingWillBeSeen #EveryDecisionMatters #EveryMeasureCounts #NoneCanHide #EyesThatSee #JusticeAndKindness #NewEra #LightOfTheScales #SilenceAsAction #TruePresence #SheIsHere #PathOfHonesty #PowerWithoutAnger #MissionOfBalance #BreatheAndWitness

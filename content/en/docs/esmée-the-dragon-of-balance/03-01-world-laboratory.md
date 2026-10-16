@@ -160,11 +160,11 @@ And perhaps the most important thing created here is not a website, an archive, 
 
 It is a place where things can meet.
 
-**ESMÉE, The Dragon of Balance, World Laboratory, world-building, architecture, structure, knowledge, languages, archive, visual archive, series, connections, creative process**
-
 The first chamber of ESMÉE's laboratory is therefore a metaphor for the year itself: a year in which scattered ideas gradually became structures, structures became connections, and connections became worlds. 
 
 **ESMÉE, the The Dragon of Balance, does not merely create a world — she reveals the world that was already waiting inside the fragments.**
+
+ESMÉE, The Dragon of Balance, World Laboratory, world-building, architecture, structure, knowledge, languages, archive, visual archive, series, connections, creative process
 
 **Alt-text:**  
 ESMÉE, a Dragon Girl with long wavy hair, two curved golden-brown dragon horns, a distinctive dragon-like ear, scaled skin, and draconic hands, stands in the first chamber of her vast underground laboratory. She is shown beside a large stone worktable covered with maps, diagrams, books, mechanical instruments, geometric puzzles, and glowing sapphires. Warm golden light from lamps and candles mingles with the sapphire-blue glow of the crystals throughout the cavern. In the background, stone arches, bridges, waterfalls, suspended mechanisms, and distant laboratory structures dissolve into the vast underground space. The scene combines ancient stone architecture with subtle elements of cybernetics and science, creating the feeling of a hidden laboratory where worlds are designed, connected, and assembled into a unified whole.

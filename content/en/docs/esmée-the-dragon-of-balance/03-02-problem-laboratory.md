@@ -128,7 +128,7 @@ visual_archive: true
 
 ![_The Dragon of Balance. 🐉⚖️ ESMÉE. Problem Laboratory. AP | Pivtorak.Studio. 09.10.2026_ © Anna Pivtorak (Kostyuk)](/images/esmée-the-dragon-of-balance-03-02-problem-laboratory.webp)
 
-> **The answer is not lying on the table. It has to be built.**
+> *The answer is not lying on the table. It has to be built.*
 
 The second chamber is different.
 
@@ -180,7 +180,7 @@ It is a place of **solving**.
 
 **What was solved.**
 
-**ESMÉE, Dragon of Balance, Problem Laboratory, problem solving, complexity, process, logic, experimentation, mechanisms, connections, transformation, amethyst, answer, creative process**
+ESMÉE, Dragon of Balance, Problem Laboratory, problem solving, complexity, process, logic, experimentation, mechanisms, connections, transformation, amethyst, answer, creative process
 
 **Alt-text:**   
 ESMÉE, the Dragon-Girl with long wavy dark hair, two curved golden-brown dragon horns, a distinctive dragon ear, scaled skin, dragon hands, wings, and a tail integrated into her dress, enters the second chamber of her enormous underground laboratory. The scene is viewed from a different, more distant angle within the same subterranean system. A large worktable is covered with puzzles, diagrams, mechanical structures, symbols, interconnected elements, tools, and fragments of problems whose relationships are not yet obvious. Amethyst crystals cast a deep purple glow across the chamber, blending with subtle warm light from the laboratory. Around ESMÉE, mechanisms, drawings, geometric constructions, and unfinished structures suggest a complex problem-solving process rather than a finished answer. She approaches the table with her tools, preparing to examine, connect, test, and reconstruct the elements before her. The scene combines ancient stone architecture with subtle scientific and mechanical details, creating the feeling of a hidden laboratory dedicated to the process of solving complex problems.

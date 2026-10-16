@@ -160,13 +160,13 @@ E talvez aquilo que aqui se cria não seja, em primeiro lugar, um website, um ar
 
 É um lugar onde as coisas podem encontrar-se.
 
-**ESMÉE, O Dragão do Equilíbrio, Laboratório dos Mundos, criação de mundos, arquitetura, estrutura, conhecimento, línguas, arquivo, arquivo visual, séries, ligações, processo criativo**
-
 A primeira câmara do laboratório de ESMÉE é, por isso, uma metáfora para o próprio ano: um ano em que ideias dispersas se transformaram gradualmente em estruturas, as estruturas em ligações e as ligações em mundos. 
 
 **ESMÉE, o O Dragão do Equilíbrio, não cria apenas um mundo — revela o mundo que já esperava dentro dos fragmentos.**
 
-**Alt-text:**  
+ESMÉE, O Dragão do Equilíbrio, Laboratório dos Mundos, criação de mundos, arquitetura, estrutura, conhecimento, línguas, arquivo, arquivo visual, séries, ligações, processo criativo
+
+**Alt-text:**   
 ESMÉE, uma Rapariga-Dragão com longos cabelos e ondulados, dois chifres de dragão curvos em tons dourados e castanhos, uma distinta orelha de dragão, pele escamada e mãos dracónicas, encontra-se na primeira câmara do seu vasto laboratório subterrâneo. É representada junto de uma grande mesa de trabalho em pedra, coberta de mapas, diagramas, livros, instrumentos mecânicos, puzzles geométricos e safiras luminosas. A luz dourada e quente das lâmpadas e das velas mistura-se com o brilho azul-safira dos cristais por toda a caverna. Ao fundo, arcos de pedra, pontes, cascatas, mecanismos suspensos e estruturas laboratoriais distantes dissolvem-se na vastidão do espaço subterrâneo. A cena combina arquitetura ancestral em pedra com elementos subtis de cibernética e ciência, criando a sensação de um laboratório oculto onde os mundos são concebidos, ligados e reunidos numa unidade.
 
 _O Dragão do Equilíbrio. 🐉⚖️ ESMÉE. Laboratório dos Mundos. AP | Pivtorak.Studio. 09.10.2026_  

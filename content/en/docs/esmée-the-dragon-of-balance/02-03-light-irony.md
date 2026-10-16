@@ -125,7 +125,7 @@ Esmée doesn’t control her surroundings — she understands them. Chaos, too, 
 **Esmée as symbol:**  
 Lightness as a form of wisdom. Joy born of embracing imperfection.
 
-**Alt-text:**  
+**Alt-text:**   
 Esmée sits among fantastical creatures — little spirits, butterflies, and soft shadows. Her smile is gentle, her gaze serene. The air glows as if filled with laughter.
 
 #WhimsicalWorld #Esmée #PivtorakStudio #DragonOfBalance #ArtOfHarmony #LightIrony #LivingMyth #CreativeWisdom #InnerSmile #PlayfulBalance #WhimsicalSpirit #LightnessAndPower #HarmonyInJoy #Pivtorak #DragonLaughs

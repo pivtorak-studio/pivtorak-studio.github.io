@@ -3,18 +3,17 @@
   site.Pages includes regular pages, sections, taxonomy pages, and the home page.
   Static assets and non-HTML outputs are not included.
 */}}
-{{ $htmlPages := slice }}
-{{ $seenURLs := newScratch }}
-{{ range site.Pages }}
-  {{ $url := .RelPermalink }}
-  {{ if and (.OutputFormats.Get "HTML") (not ($seenURLs.Get $url)) }}
-    {{ $seenURLs.Set $url true }}
-    {{ $htmlPages = $htmlPages | append . }}
-  {{ end }}
+{{ $pageGroups := partial "site-completion-matrix/pages.html" . }}
+{{ $dated := $pageGroups.dated }}
+{{ $undated := $pageGroups.undated }}
+{{ $datedHeading := "Dated Content" }}
+{{ if eq site.Language.Lang "uk" }}
+  {{ $datedHeading = "Сторінки з датою" }}
+{{ else if eq site.Language.Lang "pt" }}
+  {{ $datedHeading = "Conteúdo com data" }}
 {{ end }}
-{{ $dated := where $htmlPages "Params.publication_date" "!=" nil }}
-{{ $undated := where $htmlPages "Params.publication_date" "==" nil }}
 
+<h2 class="site-completion-matrix__section-heading">{{ $datedHeading }} <span class="site-completion-matrix__count">({{ lang.FormatNumber 0 (len $dated) }} pages)</span></h2>
 <div style="overflow-x:auto;">
 <table style="border-collapse: collapse; width: 100%;">
 <thead>
@@ -61,7 +60,7 @@
 </div>
 
 {{ if gt (len $undated) 0 }}
-<h2 style="margin-top: 2rem;">Undated Content</h2>
+<h2 style="margin-top: 2rem;">Undated Content <span class="site-completion-matrix__count">({{ lang.FormatNumber 0 (len $undated) }} pages)</span></h2>
 <div style="overflow-x:auto;">
 <table style="border-collapse: collapse; width: 100%;">
 <thead>

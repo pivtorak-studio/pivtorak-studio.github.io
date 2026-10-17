@@ -30,6 +30,13 @@
   padding-left: 12px !important;
 }
 
+.site-completion-matrix__count {
+  color: var(--gray-600);
+  font-size: 0.85em;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
 .site-completion-matrix__date {
   box-sizing: border-box;
   width: 104px;

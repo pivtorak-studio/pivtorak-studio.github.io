@@ -1,0 +1,13 @@
+{{ $htmlPages := slice }}
+{{ $seenURLs := newScratch }}
+{{ range site.Pages }}
+  {{ $url := .RelPermalink }}
+  {{ if and (.OutputFormats.Get "HTML") (not ($seenURLs.Get $url)) }}
+    {{ $seenURLs.Set $url true }}
+    {{ $htmlPages = $htmlPages | append . }}
+  {{ end }}
+{{ end }}
+{{ return (dict
+  "dated" (where $htmlPages "Params.publication_date" "!=" nil)
+  "undated" (where $htmlPages "Params.publication_date" "==" nil)
+) }}

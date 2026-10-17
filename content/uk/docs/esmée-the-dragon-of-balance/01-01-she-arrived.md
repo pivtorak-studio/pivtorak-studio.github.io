@@ -39,7 +39,7 @@ series_index: 1
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-01-she-arrived.webp
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
 alt: Молода дракониця в європейському стилі з м’якими рисами обличчя та виразними очима стоїть під дощем на випаленому полі. На її грудях сяє нагрудник із символом Терезів. Спокійна постава, м’який подих і впевнений погляд передають тиху силу та відчуття початку чогось значущого.
 related:
   - /docs/timeline/

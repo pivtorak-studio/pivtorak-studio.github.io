@@ -39,7 +39,7 @@ series_index: 1
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-01-she-arrived.webp
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
 alt: Uma jovem dragão de estilo europeu, com traços delicados e olhos expressivos, está de pé à chuva num campo queimado. Uma couraça luminosa com o símbolo das Balanças brilha no seu peito. A sua postura serena, a respiração suave e o olhar firme transmitem uma força tranquila e o início de algo significativo.
 related:
   - /chronology/

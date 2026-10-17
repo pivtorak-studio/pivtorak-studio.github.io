@@ -18,7 +18,7 @@ series_index: 2
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp
+image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp
 alt: "A dragon girl walks across a grey, ashen field, gently scattering seeds from her hands. Flowers bloom wherever the seeds touch the earth, spreading in a natural, scattered pattern. Her movements are soft and her breath calm as she continues walking without looking back, quietly bringing life to a devastated landscape."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

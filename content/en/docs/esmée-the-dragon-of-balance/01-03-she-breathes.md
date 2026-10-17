@@ -18,7 +18,7 @@ series_index: 3
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-03-she-breathes.webp
+image: /images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp
 alt: "A blooming valley lies between hills and forest. Slightly to one side of a clearing, a dragon girl with a softly glowing breastplate bearing the symbol of the Scales gazes toward a nearly invisible Gate, appearing as a faint arc of light. The landscape feels fresh, awakened, and still as Esmée breathes and the surrounding space seems to breathe back."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

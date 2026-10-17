@@ -18,7 +18,7 @@ series_index: 3
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-03-she-breathes.webp
+image: /images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp
 alt: "Квітуча долина розкинулася між пагорбами та лісом. Трохи збоку на галявині стоїть молода дракониця з нагрудником, на якому м’яко сяє символ Терезів. Вона дивиться на майже невидиму Браму, схожу на ледь помітну дугу світла. Краєвид здається оновленим, пробудженим і спокійним, а Есме дихає, ніби простір навколо відповідає їй тим самим."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

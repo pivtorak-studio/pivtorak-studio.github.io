@@ -39,7 +39,7 @@ series_index: 1
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-01-she-arrived.webp
+image: /images/esmée-the-dragon-of-balance-01-01-she-arrived-pivtorak-studio.webp
 alt: A young European-style dragon girl with gentle features and expressive eyes stands in the rain on a scorched field. A glowing breastplate bearing the symbol of the Scales shines from her chest. Her calm posture, soft breath, and steady gaze convey quiet strength and the beginning of something meaningful.
 related:
   - /chronology/

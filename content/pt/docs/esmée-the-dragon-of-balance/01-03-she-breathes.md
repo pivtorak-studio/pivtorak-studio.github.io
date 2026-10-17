@@ -18,7 +18,7 @@ series_index: 3
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-03-she-breathes.webp
+image: /images/esmée-the-dragon-of-balance-01-03-she-breathes-pivtorak-studio.webp
 alt: "Um vale florido estende-se entre colinas e floresta. Um pouco de lado, numa clareira, uma jovem dragão com uma couraça suavemente luminosa que ostenta o símbolo das Balanças olha para um Portal quase invisível, semelhante a um ténue arco de luz. A paisagem parece renovada, desperta e serena enquanto Esmée respira e o espaço à sua volta parece responder à sua respiração."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

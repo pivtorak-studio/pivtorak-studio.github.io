@@ -18,7 +18,7 @@ series_index: 2
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp
+image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp
 alt: "Uma jovem dragão caminha por um campo cinzento coberto de cinzas, espalhando suavemente sementes com as mãos. Flores desabrocham onde as sementes tocam a terra, formando um padrão natural e disperso. Os seus movimentos são suaves e a respiração tranquila enquanto continua a caminhar sem olhar para trás, devolvendo silenciosamente a vida a uma paisagem devastada."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

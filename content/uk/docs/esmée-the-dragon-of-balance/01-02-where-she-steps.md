@@ -18,7 +18,7 @@ series_index: 2
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps.webp
+image: /images/esmée-the-dragon-of-balance-01-02-where-she-steps-pivtorak-studio.webp
 alt: "Молода дракониця йде сірим полем, укритим попелом, і лагідно розсіює насіння з долонь. Там, де насіння торкається землі, розквітають квіти, утворюючи природний, нерегулярний візерунок. Її рухи м’які, дихання спокійне. Вона продовжує йти, не озираючись, і мовчки повертає життя спустошеному краєвидові."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

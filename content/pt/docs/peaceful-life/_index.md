@@ -2,7 +2,7 @@
 id: peaceful-life
 language: pt
 translation_of: peaceful-life
-title: 🌱☀️ Vida Pacífica
+title: ☀️ Vida Pacífica
 description: Uma série dedicada à infância, à natureza, ao cuidado, à dignidade humana e aos fundamentos simples de uma vida em paz.
 summary: Vida Pacífica é uma série visual de longo prazo sobre direitos humanos, direitos das crianças, direitos da natureza e os momentos quotidianos que tornam a paz possível.
 event_date: 2025-06-01T08:00:00
@@ -58,8 +58,8 @@ show_in_series_projects: true
   "@id": "https://annapivtorak.com/pt/peaceful-life/",
   "url": "https://annapivtorak.com/pt/peaceful-life/",
   "inLanguage": "pt-PT",
-  "name": "Vida Pacífica",
-  "headline": "Vida Pacífica",
+  "name": "☀️ Vida Pacífica",
+  "headline": "☀️ Vida Pacífica",
   "description": "Uma série visual dedicada à infância, à natureza, ao cuidado, à dignidade humana e aos fundamentos de uma vida em paz.",
   "image": "https://annapivtorak.com/images/peaceful-life.webp",
   "datePublished": "2025-06-01T08:00:00+00:00",
@@ -86,7 +86,7 @@ show_in_series_projects: true
 
 ![Vida Pacífica](/images/peaceful-life.webp)
 
-# 🌱☀️ Vida Pacífica
+# ☀️ Vida Pacífica
 
 **Vida Pacífica** é uma série de trabalhos dedicada às coisas simples que tornam possível uma vida em paz.
 
@@ -102,7 +102,7 @@ A série aborda os direitos humanos, os direitos das crianças, os direitos da n
 
 Por vezes, a paz começa não com grandes decisões, mas com uma casa acolhedora, uma chávena de chá, uma floresta de outono ou um desenho feito por uma criança.
 
-É destes momentos que nasce #PeacefulLife.
+É destes momentos que nasce **Vida Pacífica**.
 
 **Alt-text:**   
 Crianças e adultos desenham juntos símbolos e mensagens de paz, representando um futuro construído através do cuidado, da natureza e da dignidade humana.

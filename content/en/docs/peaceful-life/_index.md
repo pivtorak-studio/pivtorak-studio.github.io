@@ -2,7 +2,7 @@
 id: peaceful-life
 language: en
 translation_of: peaceful-life
-title: 🌱☀️ Peaceful Life
+title: ☀️ Peaceful Life
 description: A series exploring childhood, nature, care, dignity, and the simple foundations of a peaceful life.
 summary: Peaceful Life is a long-term visual series dedicated to human rights, children's rights, the rights of nature, and the everyday moments that make peace possible.
 event_date: 2025-06-01T08:00:00
@@ -58,8 +58,8 @@ show_in_series_projects: true
   "@id": "https://annapivtorak.com/en/peaceful-life/",
   "url": "https://annapivtorak.com/en/peaceful-life/",
   "inLanguage": "en",
-  "name": "Peaceful Life",
-  "headline": "Peaceful Life",
+  "name": "☀️ Peaceful Life",
+  "headline": "☀️ Peaceful Life",
   "description": "A visual series exploring childhood, nature, care, dignity, and the simple foundations of a peaceful life.",
   "image": "https://annapivtorak.com/images/peaceful-life.webp",
   "datePublished": "2025-06-01T08:00:00+00:00",
@@ -86,9 +86,9 @@ show_in_series_projects: true
 
 ![Peaceful Life](/images/peaceful-life.webp)
 
-# 🌱☀️ Peaceful Life
+# ☀️ Peaceful Life
 
-#PeacefulLife is a series of artworks about the simple things that make a peaceful life possible.
+**Peaceful Life** is a series of artworks about the simple things that make a peaceful life possible.
 
 A childhood without fear.
 Nature without destruction.
@@ -102,7 +102,7 @@ The series explores human rights, children's rights, the rights of nature, and t
 
 Sometimes peace begins not with great decisions, but with a warm home, a cup of tea, an autumn forest, or a child's drawing.
 
-#PeacefulLife is built from these moments.
+**Peaceful Life** is built from these moments.
 
 **Alt-text:**    
 Children and adults draw peace symbols together, representing a peaceful future built through care, nature, and human dignity.

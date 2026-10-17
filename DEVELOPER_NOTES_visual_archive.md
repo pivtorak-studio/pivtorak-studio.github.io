@@ -210,6 +210,12 @@ Without `image`, the article is excluded from the Timeline.
 
 The image value should point to an existing site image.
 
+For this project, every `image:` path must match an existing file under
+`static/images/` exactly, including the complete filename and any suffixes
+such as `-pivtorak-studio`. When an image file is renamed, update and verify
+all affected Front Matter references in each language, especially those used
+by the Visual Archive.
+
 The shortcode does not independently test whether the referenced file
 exists. A missing or incorrect image path can therefore produce a broken
 image even though the article satisfies the `image` condition.

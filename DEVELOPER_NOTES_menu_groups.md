@@ -58,6 +58,12 @@ For a series to appear in `Series & Projects`:
 
 No separate menu markup is required for the new series.
 
+### Ordering metadata
+
+Hugo numeric weights must be YAML numbers. Use values such as `weight: 8` and
+`weight: 9`, not zero-padded values such as `weight: 08` or `weight: 09`.
+Check that corresponding weights are consistent across UK, EN, PT, and RU.
+
 ---
 
 ##  4. Adding a new series

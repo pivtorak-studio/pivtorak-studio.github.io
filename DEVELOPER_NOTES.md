@@ -100,6 +100,14 @@ RU-мова **вимкнена** і НЕ індексується Google.
   * sitemap зв’язків
   * правильного SEO
 
+## Front Matter consistency
+
+Before publishing, verify Front Matter against the actual Hugo templates,
+shortcodes, content structure, and files in the repository. Values must use
+the expected data types and exact naming conventions; do not rely on remembered
+filenames or metadata from earlier versions. Keep corresponding metadata
+consistent across UK, EN, PT, and RU translations.
+
 ---
 
 ## 🗺 Sitemap

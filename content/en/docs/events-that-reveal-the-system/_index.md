@@ -3,7 +3,7 @@ id: events-that-reveal-the-system
 language: en
 translation_of: events-that-reveal-the-system
 translationKey: events-that-reveal-the-system
-title: Events That Reveal the System
+title: 🛗 Events That Reveal the System
 description: An interdisciplinary series exploring what significant events reveal about social norms, human autonomy, institutional responsibility, and the mechanisms shaping society.
 summary: Interdisciplinary analyses of significant events and the systems they reveal.
 slug: events-that-reveal-the-system
@@ -175,8 +175,8 @@ show_in_series_projects: true
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/",
   "url": "https://pivtorak.studio/en/docs/events-that-reveal-the-system/",
-  "name": "Events That Reveal the System",
-  "headline": "Events That Reveal the System",
+  "name": "🛗 Events That Reveal the System",
+  "headline": "🛗 Events That Reveal the System",
   "description": "An interdisciplinary series exploring what significant events reveal about social norms, human autonomy, institutional responsibility, and the mechanisms shaping society.",
   "inLanguage": "en",
   "datePublished": "2026-10-11T09:00:00+01:00",
@@ -220,7 +220,7 @@ show_in_series_projects: true
 
 <span id="series"></span>
 
-# Events That Reveal the System
+# 🛗 Events That Reveal the System
 
 ![_Events That Reveal the System. AP | Pivtorak.Studio. 10.10.2026_ © Anna Pivtorak (Kostyuk)](/images/events-that-reveal-the-system.webp)
 

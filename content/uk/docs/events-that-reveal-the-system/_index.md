@@ -3,7 +3,7 @@ id: events-that-reveal-the-system
 language: uk
 translation_of: events-that-reveal-the-system
 translationKey: events-that-reveal-the-system
-title: Події, що розкривають систему
+title: 🛗 Події, що розкривають систему
 description: Міждисциплінарна серія досліджень, присвячених тому, що суспільно значущі події відкривають у суспільних нормах, автономії людини, відповідальності інституцій та механізмах функціонування суспільства.
 summary: Міждисциплінарний аналіз значущих подій і системних механізмів, які вони розкривають.
 slug: events-that-reveal-the-system
@@ -176,8 +176,8 @@ show_in_series_projects: true
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/uk/docs/events-that-reveal-the-system/",
   "url": "https://pivtorak.studio/uk/docs/events-that-reveal-the-system/",
-  "name": "Події, що розкривають систему",
-  "headline": "Події, що розкривають систему",
+  "name": "🛗 Події, що розкривають систему",
+  "headline": "🛗 Події, що розкривають систему",
   "description": "Міждисциплінарна серія досліджень, присвячених тому, що суспільно значущі події відкривають у суспільних нормах, автономії людини, відповідальності інституцій та механізмах функціонування суспільства.",
   "inLanguage": "uk",
   "datePublished": "2026-10-11T09:00:00+01:00",
@@ -219,7 +219,7 @@ show_in_series_projects: true
 }
 </script>
 
-# Події, що розкривають систему
+# 🛗 Події, що розкривають систему
 
 ![_Події, що розкривають систему. AP | Pivtorak.Studio. 10.10.2026_ © Анна Півторак (Костюк)](/images/events-that-reveal-the-system.webp)
 

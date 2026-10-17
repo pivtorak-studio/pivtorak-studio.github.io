@@ -3,7 +3,7 @@ id: events-that-reveal-the-system
 language: pt
 translation_of: events-that-reveal-the-system
 translationKey: events-that-reveal-the-system
-title: Acontecimentos que Revelam o Sistema
+title: 🛗 Acontecimentos que Revelam o Sistema
 description: Uma série interdisciplinar que explora o que os acontecimentos de relevância pública revelam sobre as normas sociais, a autonomia humana, a responsabilidade institucional e os mecanismos que moldam a sociedade.
 summary: Análises interdisciplinares de acontecimentos relevantes e dos sistemas que revelam.
 slug: events-that-reveal-the-system
@@ -176,8 +176,8 @@ show_in_series_projects: true
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/pt/docs/events-that-reveal-the-system/",
   "url": "https://pivtorak.studio/pt/docs/events-that-reveal-the-system/",
-  "name": "Acontecimentos que Revelam o Sistema",
-  "headline": "Acontecimentos que Revelam o Sistema",
+  "name": "🛗 Acontecimentos que Revelam o Sistema",
+  "headline": "🛗 Acontecimentos que Revelam o Sistema",
   "description": "Uma série interdisciplinar que explora o que os acontecimentos de relevância pública revelam sobre as normas sociais, a autonomia humana, a responsabilidade institucional e os mecanismos que moldam a sociedade.",
   "inLanguage": "pt-PT",
   "datePublished": "2026-10-11T09:00:00+01:00",

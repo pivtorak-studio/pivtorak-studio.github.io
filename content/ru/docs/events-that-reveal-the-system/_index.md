@@ -3,7 +3,7 @@ id: events-that-reveal-the-system
 language: ru
 translation_of: events-that-reveal-the-system
 translationKey: events-that-reveal-the-system
-title: События, раскрывающие систему
+title: 🛗 События, раскрывающие систему
 description: Междисциплинарная серия исследований, посвящённых тому, что общественно значимые события открывают в социальных нормах, автономии человека, ответственности институтов и механизмах функционирования общества.
 summary: Междисциплинарный анализ значимых событий и раскрываемых ими системных механизмов.
 slug: events-that-reveal-the-system
@@ -176,8 +176,8 @@ bookCollapseSection: true
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/ru/docs/events-that-reveal-the-system/",
   "url": "https://pivtorak.studio/ru/docs/events-that-reveal-the-system/",
-  "name": "События, раскрывающие систему",
-  "headline": "События, раскрывающие систему",
+  "name": "🛗 События, раскрывающие систему",
+  "headline": "🛗 События, раскрывающие систему",
   "description": "Междисциплинарная серия исследований, посвящённых тому, что общественно значимые события открывают в социальных нормах, автономии человека, ответственности институтов и механизмах функционирования общества.",
   "inLanguage": "ru",
   "datePublished": "2026-10-11T09:00:00+01:00",
@@ -219,7 +219,7 @@ bookCollapseSection: true
 }
 </script>
 
-# События, раскрывающие систему
+# 🛗 События, раскрывающие систему
 
 ![_События, раскрывающие систему. AP | Pivtorak.Studio. 10.10.2026_ © Анна Пивторак (Костюк)](/images/events-that-reveal-the-system.webp)
 

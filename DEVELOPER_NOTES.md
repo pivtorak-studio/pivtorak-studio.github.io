@@ -134,6 +134,11 @@ consistent across UK, EN, PT, and RU translations.
 * чи існують всі мовні версії сторінки
 * чи не вимкнена мова в `hugo.toml`
 
+## Site Completion Matrix
+
+Правила включення сторінок і локальної перевірки описані у
+`DEVELOPER_NOTES_site-completion-matrix.md`.
+
 ---
 
 ## 💡 Принцип

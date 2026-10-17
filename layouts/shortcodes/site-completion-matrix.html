@@ -1,8 +1,22 @@
-{{ $dated := where site.RegularPages "Params.publication_date" "!=" nil }}
-{{ $undated := where site.RegularPages "Params.publication_date" "==" nil }}
+{{/*
+  Track every page in the current language that Hugo renders as HTML.
+  site.Pages includes regular pages, sections, taxonomy pages, and the home page.
+  Static assets and non-HTML outputs are not included.
+*/}}
+{{ $htmlPages := slice }}
+{{ $seenURLs := newScratch }}
+{{ range site.Pages }}
+  {{ $url := .RelPermalink }}
+  {{ if and (.OutputFormats.Get "HTML") (not ($seenURLs.Get $url)) }}
+    {{ $seenURLs.Set $url true }}
+    {{ $htmlPages = $htmlPages | append . }}
+  {{ end }}
+{{ end }}
+{{ $dated := where $htmlPages "Params.publication_date" "!=" nil }}
+{{ $undated := where $htmlPages "Params.publication_date" "==" nil }}
 
+<div style="overflow-x:auto;">
 <table style="border-collapse: collapse; width: 100%;">
-
 <thead>
 <tr>
 <th style="border:1px solid #ccc; padding:8px;">Date</th>
@@ -12,54 +26,24 @@
 <th style="border:1px solid #ccc; padding:8px;">Search</th>
 </tr>
 </thead>
-
 <tbody>
-
 {{ range sort $dated ".Params.publication_date" "desc" }}
-
 <tr>
-
-<td style="border:1px solid #ccc; padding:8px;">
-{{ (time.AsTime .Params.publication_date).Format "2006-01-02" }}
-</td>
-
-<td style="border:1px solid #ccc; padding:8px;">
-<a href="{{ .RelPermalink }}">
-{{ .Title }}
-</a>
-</td>
-
-<td style="border:1px solid #ccc; text-align:center; padding:8px;">
-{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}
-</td>
-
-<td style="border:1px solid #ccc; text-align:center; padding:8px;">
-{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}
-</td>
-
-<td style="border:1px solid #ccc; text-align:center; padding:8px;">
-{{ if eq .Params.search "indexed" }}
-🟢
-{{ else if eq .Params.search "submitted" }}
-🟡
-{{ else }}
-⚪
-{{ end }}
-</td>
-
+<td style="border:1px solid #ccc; padding:8px;">{{ time.AsTime .Params.publication_date | time.Format "2006-01-02" }}</td>
+<td style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}</td>
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}</td>
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if eq .Params.search "indexed" }}🟢{{ else if eq .Params.search "submitted" }}🟡{{ else }}⚪{{ end }}</td>
 </tr>
-
 {{ end }}
-
 </tbody>
 </table>
+</div>
 
 {{ if gt (len $undated) 0 }}
-
 <h2 style="margin-top: 2rem;">Undated Content</h2>
-
+<div style="overflow-x:auto;">
 <table style="border-collapse: collapse; width: 100%;">
-
 <thead>
 <tr>
 <th style="border:1px solid #ccc; padding:8px;">Title</th>
@@ -68,42 +52,16 @@
 <th style="border:1px solid #ccc; padding:8px;">Search</th>
 </tr>
 </thead>
-
 <tbody>
-
 {{ range sort $undated "Title" }}
-
 <tr>
-
-<td style="border:1px solid #ccc; padding:8px;">
-<a href="{{ .RelPermalink }}">
-{{ .Title }}
-</a>
-</td>
-
-<td style="border:1px solid #ccc; text-align:center; padding:8px;">
-{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}
-</td>
-
-<td style="border:1px solid #ccc; text-align:center; padding:8px;">
-{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}
-</td>
-
-<td style="border:1px solid #ccc; text-align:center; padding:8px;">
-{{ if eq .Params.search "indexed" }}
-🟢
-{{ else if eq .Params.search "submitted" }}
-🟡
-{{ else }}
-⚪
-{{ end }}
-</td>
-
+<td style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}</td>
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}</td>
+<td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if eq .Params.search "indexed" }}🟢{{ else if eq .Params.search "submitted" }}🟡{{ else }}⚪{{ end }}</td>
 </tr>
-
 {{ end }}
-
 </tbody>
 </table>
-
+</div>
 {{ end }}

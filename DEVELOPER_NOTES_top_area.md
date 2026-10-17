@@ -463,3 +463,6 @@ Update P.S. branding and favicon
 
 **Do not optimize what is already clear.  
 Add evidence before adding decoration.**
+
+For the approved footer scope and its relationship to the top banner, see
+[`DEVELOPER_NOTES_footer.md`](DEVELOPER_NOTES_footer.md).

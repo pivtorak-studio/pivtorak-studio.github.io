@@ -18,7 +18,7 @@ series_index: 7
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence.webp
+image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp
 alt: "Esmée rests in soft grass with her eyes closed. Warm light, flowers, butterflies, and still air surround her."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

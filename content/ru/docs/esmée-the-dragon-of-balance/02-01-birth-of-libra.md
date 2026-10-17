@@ -46,7 +46,7 @@ series_index: 4
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra.webp
+image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp
 alt: Эсме стоит в потоках света между человеческими и драконьими крыльями. Пламя и воздух сливаются в равновесии.
 related:
   - /docs/timeline/

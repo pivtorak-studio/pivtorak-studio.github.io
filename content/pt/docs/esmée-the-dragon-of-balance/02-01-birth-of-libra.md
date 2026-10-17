@@ -46,7 +46,7 @@ series_index: 4
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra.webp
+image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp
 alt: Esmée encontra-se sob feixes de luz, entre asas humanas e asas de dragão. A chama e o ar fundem-se em equilíbrio.
 related:
   - /docs/timeline/

@@ -18,7 +18,7 @@ series_index: 5
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance.webp
+image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp
 alt: "Esmée stands in the wind with open wings, one human and one draconic. Dawn light surrounds her; her movement is serene yet powerful."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

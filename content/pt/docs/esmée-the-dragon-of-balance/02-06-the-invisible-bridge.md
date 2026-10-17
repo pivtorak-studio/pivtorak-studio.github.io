@@ -18,14 +18,14 @@ series_index: 9
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge.webp
+image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp
 alt: "Esmée está de pé sobre uma extensão envolta em neblina, segurando uma balança luminosa. À sua frente, uma ponte invisível cintila suavemente na luz, ligando o mundo conhecido, que fica para trás, às possibilidades que se abrem diante dela."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/pt/docs/esmée-the-dragon-of-balance/02-06-the-invisible-bridge/
 toc: true
-weight: 09
+weight: 9
 completion: 100
 seo: true
 distribution: true

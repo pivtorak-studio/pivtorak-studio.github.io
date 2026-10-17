@@ -18,7 +18,7 @@ series_index: 6
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-03-light-irony.webp
+image: /images/esmée-the-dragon-of-balance-02-03-light-irony-pivtorak-studio.webp
 alt: "Esmée sits among fantastical creatures, little spirits, butterflies, and soft shadows. Her smile is gentle, her gaze serene, and the air glows as if filled with laughter."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

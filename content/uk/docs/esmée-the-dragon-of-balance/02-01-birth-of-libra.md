@@ -46,7 +46,7 @@ series_index: 4
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra.webp
+image: /images/esmée-the-dragon-of-balance-02-01-birth-of-libra-pivtorak-studio.webp
 alt: Есме стоїть у променях світла між людськими та драконячими крилами. Полум’я й повітря зливаються в рівновазі.
 related:
   - /docs/timeline/

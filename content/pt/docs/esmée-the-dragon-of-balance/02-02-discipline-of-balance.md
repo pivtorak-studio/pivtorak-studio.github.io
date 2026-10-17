@@ -18,7 +18,7 @@ series_index: 5
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance.webp
+image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp
 alt: "Esmée está ao vento, com as asas abertas, uma humana e outra dracónica. A luz do amanhecer envolve-a; os seus movimentos são serenos, mas poderosos."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

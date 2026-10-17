@@ -18,14 +18,14 @@ series_index: 9
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge.webp
+image: /images/esmée-the-dragon-of-balance-02-06-the-invisible-bridge-pivtorak-studio.webp
 alt: "Эсме стоит над туманной бездной, держа светящиеся весы. Впереди едва заметно мерцает невидимый мост, соединяющий знакомый мир за её спиной с возможностями, открывающимися перед ней."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/ru/docs/esmée-the-dragon-of-balance/02-06-the-invisible-bridge/
 toc: true
-weight: 09
+weight: 9
 completion: 100
 seo: true
 distribution: true

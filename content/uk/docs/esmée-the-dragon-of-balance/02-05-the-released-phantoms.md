@@ -18,14 +18,14 @@ series_index: 8
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-05-the-released-phantoms.webp
+image: /images/esmée-the-dragon-of-balance-02-05-the-released-phantoms-pivtorak-studio.webp
 alt: "Есме сидить серед напівпрозорих тіней — відлунь минулого, що розчиняються у світлі. Перед нею ширяють геометричні лінії та символи; її погляд спокійний і зосереджений."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]
 draft: false
 canonical: https://pivtorak.studio/uk/docs/esmée-the-dragon-of-balance/02-05-the-released-phantoms/
 toc: true
-weight: 08
+weight: 8
 completion: 100
 seo: true
 distribution: true

@@ -18,7 +18,7 @@ series_index: 7
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence.webp
+image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp
 alt: "Esmée repousa na relva macia, de olhos fechados. A luz quente, as flores, as borboletas e o ar tranquilo envolvem-na."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

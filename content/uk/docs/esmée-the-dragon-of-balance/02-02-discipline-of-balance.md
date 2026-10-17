@@ -18,7 +18,7 @@ series_index: 5
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance.webp
+image: /images/esmée-the-dragon-of-balance-02-02-discipline-of-balance-pivtorak-studio.webp
 alt: "Есме стоїть на вітрі з розпростертими крилами — одним людським, іншим драконячим. Світло світанку огортає її; її рухи спокійні, але сповнені сили."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

@@ -18,7 +18,7 @@ series_index: 7
 research_origin: pivtorak.studio
 status: published
 featured: true
-image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence.webp
+image: /images/esmée-the-dragon-of-balance-02-04-peaceful-presence-pivtorak-studio.webp
 alt: "Эсме отдыхает в мягкой траве с закрытыми глазами. Её окружают тёплый свет, цветы, бабочки и неподвижный воздух."
 related: [/docs/timeline/, /docs/esmée-the-dragon-of-balance/, /archive/, /chronology/]
 authors: [Anna Pivtorak]

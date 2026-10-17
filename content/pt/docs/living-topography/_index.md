@@ -1,7 +1,7 @@
 ---
 id: living-topography
 language: pt
-title: Topografia Viva
+title: 🪢 Topografia Viva
 slug: living-topography
 description: Uma série sobre experiências incorporadas, encontros humanos, movimento e os mapas vivos que se criam entre pessoas, lugares e momentos.
 summary: Living Topography explora experiências que não podem ser totalmente captadas por mapas estáticos — encontros, movimentos, ligações e marcas que surgem através da presença.
@@ -45,7 +45,7 @@ show_in_series_projects: true
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/pt/docs/living-topography/#webpage",
-  "name": "Living Topography",
+  "name": "🪢 Living Topography",
   "description": "Uma série sobre experiências incorporadas, encontros humanos, movimento e os mapas vivos que se criam entre pessoas, lugares e momentos.",
   "inLanguage": "pt-PT",
   "url": "https://pivtorak.studio/pt/docs/living-topography/",
@@ -89,7 +89,7 @@ show_in_series_projects: true
 }
 </script>
 
-# Topografia Viva
+# 🪢 Topografia Viva
 
 ![_Topografia Viva.  AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography.webp)
 

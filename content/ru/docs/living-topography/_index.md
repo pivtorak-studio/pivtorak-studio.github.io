@@ -1,7 +1,7 @@
 ---
 id: living-topography
 language: ru
-title: Living Topography
+title: 🪢 Живая Топография
 slug: living-topography
 description: Серия о воплощённых опытах, человеческих встречах, движении и живых картах, которые возникают между людьми, местами и моментами.
 summary: Living Topography исследует опыт, который невозможно полностью зафиксировать на статичной карте — встречи, движения, связи и следы, возникающие благодаря присутствию.
@@ -44,7 +44,7 @@ show_in_series_projects: true
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/ru/docs/living-topography/#webpage",
-  "name": "Living Topography",
+  "name": "🪢 Живая Топография",
   "description": "Серия о воплощённых опытах, человеческих встречах, движении и живых картах, которые возникают между людьми, местами и моментами.",
   "inLanguage": "ru",
   "url": "https://pivtorak.studio/ru/docs/living-topography/",
@@ -88,7 +88,7 @@ show_in_series_projects: true
 }
 </script>
 
-# Живая Топография
+# 🪢 Живая Топография
 
 ![_Живая Топография.  AP | Pivtorak.Studio. 01.10.2026_ © Анна Пивторак (Костюк)](/images/living-topography.webp)
 

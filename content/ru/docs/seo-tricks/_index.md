@@ -2,25 +2,49 @@
 id: seo-tricks
 language: ru
 translation_of: seo-tricks
-title: "SEO Хитрости"
-description: "Практическая серия исследований технического SEO, посвящённая поиску скрытых проблем, выявлению их причин и проверке того, что исправления работают от исходных файлов до работающего сайта."
+title: 🧲 SEO Хитрости
+description: Практическая серия исследований технического SEO, посвящённая поиску скрытых проблем, выявлению их причин и проверке того, что исправления работают от исходных файлов до работающего сайта.
 summary: "SEO Хитрости превращает технические SEO-проблемы в практические расследования: поставить вопрос, изучить доказательства, найти причину, применить исправление и проверить результат."
 event_date: 2026-09-07T18:00:00
 publication_date: 2026-09-07T18:00:00
 lastmod: 2026-09-07T18:00:00
 slug: seo-tricks
-tags: [техническое SEO, SEO-исследование, диагностика сайтов, устранение технических проблем, сканирование, индексация, проверка сайта, Hugo]
-keywords: [SEO Хитрости, техническое SEO, SEO-исследование, устранение проблем технического SEO, диагностика сайтов, проверка SEO, сканирование, индексация, Hugo, технический аудит сайта]
-categories: [SEO Хитрости, Техническое SEO, Диагностика сайтов]
+tags:
+  - техническое SEO
+  - SEO-исследование
+  - диагностика сайтов
+  - устранение технических проблем
+  - сканирование
+  - индексация
+  - проверка сайта
+  - Hugo
+keywords:
+  - SEO Хитрости
+  - техническое SEO
+  - SEO-исследование
+  - устранение проблем технического SEO
+  - диагностика сайтов
+  - проверка SEO
+  - сканирование
+  - индексация
+  - Hugo
+  - технический аудит сайта
+categories:
+  - SEO Хитрости
+  - Техническое SEO
+  - Диагностика сайтов
 series: SEOTricks
 series_index: 0
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks.webp
-alt: "Тёмная техническая иллюстрация, представляющая SEO-исследование через код, диагностику сайта и скрытые технические проблемы."
-related: [/ru/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /ru/archive/]
-authors: [Anna Pivtorak]
+alt: Тёмная техническая иллюстрация, представляющая SEO-исследование через код, диагностику сайта и скрытые технические проблемы.
+related:
+  - /ru/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/
+  - /ru/archive/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/ru/docs/seo-tricks/
 toc: true
@@ -29,10 +53,10 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "решение проблем технического SEO"
-article_type: "серия по техническому SEO"
-primary_topic: "техническое SEO"
-verification_model: "Source → Generated Build → Live"
+search_intent: решение проблем технического SEO
+article_type: серия по техническому SEO
+primary_topic: техническое SEO
+verification_model: Source → Generated Build → Live
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: true
@@ -43,8 +67,8 @@ show_in_series_tools: true
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/ru/docs/seo-tricks/#collection",
-  "name": "SEO Хитрости",
-  "headline": "SEO Хитрости",
+  "name": "🧲 SEO Хитрости",
+  "headline": "🧲 SEO Хитрости",
   "description": "Практическая серия исследований технического SEO, посвящённая поиску скрытых проблем, выявлению их причин и проверке того, что исправления работают от исходных файлов до работающего сайта.",
   "inLanguage": "ru",
   "url": "https://pivtorak.studio/ru/docs/seo-tricks/",
@@ -73,7 +97,7 @@ show_in_series_tools: true
 
 
 ![SEO Хитрости. AP | Pivtorak.Studio. 07.09.2026 © Анна Пивторак (Костюк)](/images/seo-tricks.webp)
-# SEO Хитрости
+# 🧲 SEO Хитрости
 
 *Маленькие технические детали могут изменить то, как сайт работает на самом деле.*
 

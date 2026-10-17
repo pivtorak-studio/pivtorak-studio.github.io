@@ -2,25 +2,49 @@
 id: seo-tricks
 language: uk
 translation_of: seo-tricks
-title: "SEO Хитрощі"
-description: "Практична серія досліджень технічного SEO, присвячена пошуку прихованих проблем, виявленню їхніх причин і перевірці того, що виправлення працюють від вихідних файлів до робочого сайту."
+title: 🧲 SEO Хитрощі
+description: Практична серія досліджень технічного SEO, присвячена пошуку прихованих проблем, виявленню їхніх причин і перевірці того, що виправлення працюють від вихідних файлів до робочого сайту.
 summary: "SEO Хитрощі перетворює технічні SEO-проблеми на практичні розслідування: поставити запитання, дослідити докази, знайти причину, застосувати виправлення та перевірити результат."
 event_date: 2026-09-07T18:00:00
 publication_date: 2026-09-07T18:00:00
 lastmod: 2026-09-07T18:00:00
 slug: seo-tricks
-tags: [технічне SEO, SEO-дослідження, діагностика сайтів, усунення технічних проблем, сканування, індексація, перевірка сайту, Hugo]
-keywords: [SEO Хитрощі, технічне SEO, SEO-дослідження, усунення проблем технічного SEO, діагностика сайтів, перевірка SEO, сканування, індексація, Hugo, технічний аудит сайту]
-categories: [SEO Хитрощі, Технічне SEO, Діагностика сайтів]
+tags:
+  - технічне SEO
+  - SEO-дослідження
+  - діагностика сайтів
+  - усунення технічних проблем
+  - сканування
+  - індексація
+  - перевірка сайту
+  - Hugo
+keywords:
+  - SEO Хитрощі
+  - технічне SEO
+  - SEO-дослідження
+  - усунення проблем технічного SEO
+  - діагностика сайтів
+  - перевірка SEO
+  - сканування
+  - індексація
+  - Hugo
+  - технічний аудит сайту
+categories:
+  - SEO Хитрощі
+  - Технічне SEO
+  - Діагностика сайтів
 series: SEOTricks
 series_index: 0
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks.webp
-alt: "Темна технічна ілюстрація, що представляє SEO-дослідження через код, діагностику сайту та приховані технічні проблеми."
-related: [/uk/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /uk/archive/]
-authors: [Anna Pivtorak]
+alt: Темна технічна ілюстрація, що представляє SEO-дослідження через код, діагностику сайту та приховані технічні проблеми.
+related:
+  - /uk/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/
+  - /uk/archive/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/uk/docs/seo-tricks/
 toc: true
@@ -29,10 +53,10 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "вирішення проблем технічного SEO"
-article_type: "серія про технічне SEO"
-primary_topic: "технічне SEO"
-verification_model: "Source → Generated Build → Live"
+search_intent: вирішення проблем технічного SEO
+article_type: серія про технічне SEO
+primary_topic: технічне SEO
+verification_model: Source → Generated Build → Live
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: true
@@ -43,8 +67,8 @@ show_in_series_tools: true
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/uk/docs/seo-tricks/#collection",
-  "name": "SEO Хитрощі",
-  "headline": "SEO Хитрощі",
+  "name": "🧲 SEO Хитрощі",
+  "headline": "🧲 SEO Хитрощі",
   "description": "Практична серія досліджень технічного SEO, присвячена пошуку прихованих проблем, виявленню їхніх причин і перевірці того, що виправлення працюють від вихідних файлів до робочого сайту.",
   "inLanguage": "uk",
   "url": "https://pivtorak.studio/uk/docs/seo-tricks/",
@@ -73,7 +97,7 @@ show_in_series_tools: true
 
 ![SEO Хитрощі. AP | Pivtorak.Studio. 07.09.2026 © Анна Півторак (Костюк)](/images/seo-tricks.webp)
 
-# SEO Хитрощі
+# 🧲 SEO Хитрощі
 
 *Маленькі технічні деталі можуть змінити те, як сайт працює насправді.*
 

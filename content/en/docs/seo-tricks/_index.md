@@ -2,25 +2,49 @@
 id: seo-tricks
 language: en
 translation_of: seo-tricks
-title: "SEO Tricks"
-description: "A practical series of technical SEO investigations focused on finding hidden problems, tracing their causes, and verifying that fixes work from source to live website."
+title: 🧲 SEO Tricks
+description: A practical series of technical SEO investigations focused on finding hidden problems, tracing their causes, and verifying that fixes work from source to live website.
 summary: "SEO Tricks turns technical SEO problems into practical investigations: ask the question, inspect the evidence, trace the cause, apply the fix, and verify the result."
 event_date: 2026-09-07T18:00:00
 publication_date: 2026-09-07T18:00:00
 lastmod: 2026-09-07T18:00:00
 slug: seo-tricks
-tags: [technical SEO, SEO investigation, website diagnostics, technical troubleshooting, crawling, indexing, website verification, Hugo]
-keywords: [SEO Tricks, technical SEO, SEO investigation, technical SEO troubleshooting, website diagnostics, SEO verification, crawling, indexing, Hugo, technical website audit]
-categories: [SEO Tricks, Technical SEO, Website Diagnostics]
+tags:
+  - technical SEO
+  - SEO investigation
+  - website diagnostics
+  - technical troubleshooting
+  - crawling
+  - indexing
+  - website verification
+  - Hugo
+keywords:
+  - SEO Tricks
+  - technical SEO
+  - SEO investigation
+  - technical SEO troubleshooting
+  - website diagnostics
+  - SEO verification
+  - crawling
+  - indexing
+  - Hugo
+  - technical website audit
+categories:
+  - SEO Tricks
+  - Technical SEO
+  - Website Diagnostics
 series: SEOTricks
 series_index: 0
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks.webp
-alt: "A dark technical illustration representing SEO investigation through code, website diagnostics, and hidden technical problems."
-related: [/en/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /en/archive/]
-authors: [Anna Pivtorak]
+alt: A dark technical illustration representing SEO investigation through code, website diagnostics, and hidden technical problems.
+related:
+  - /en/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/
+  - /en/archive/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/seo-tricks/
 toc: true
@@ -29,10 +53,10 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "technical SEO problem solving"
-article_type: "technical SEO series"
-primary_topic: "technical SEO"
-verification_model: "Source → Generated Build → Live"
+search_intent: technical SEO problem solving
+article_type: technical SEO series
+primary_topic: technical SEO
+verification_model: Source → Generated Build → Live
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: true
@@ -43,8 +67,8 @@ show_in_series_tools: true
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/en/docs/seo-tricks/#collection",
-  "name": "SEO Tricks",
-  "headline": "SEO Tricks",
+  "name": "🧲 SEO Tricks",
+  "headline": "🧲 SEO Tricks",
   "description": "A practical series of technical SEO investigations focused on finding hidden problems, tracing their causes, and verifying that fixes work from source to live website.",
   "inLanguage": "en",
   "url": "https://pivtorak.studio/en/docs/seo-tricks/",
@@ -73,7 +97,7 @@ show_in_series_tools: true
 
 ![SEO Tricks. AP | Pivtorak.Studio. 07.09.2026 © Anna Pivtorak (Kostyuk)](/images/seo-tricks.webp)
 
-# SEO Tricks
+# 🧲 SEO Tricks
 
 *Small technical details can change what a website actually does.*
 

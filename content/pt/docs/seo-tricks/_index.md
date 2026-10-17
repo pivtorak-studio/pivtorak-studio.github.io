@@ -2,25 +2,49 @@
 id: seo-tricks
 language: pt
 translation_of: seo-tricks
-title: "Truques de SEO"
-description: "Uma série prática de investigações de SEO técnico dedicada a encontrar problemas ocultos, identificar as suas causas e verificar se as correções funcionam desde a origem até ao website em produção."
+title: 🧲 Truques de SEO
+description: Uma série prática de investigações de SEO técnico dedicada a encontrar problemas ocultos, identificar as suas causas e verificar se as correções funcionam desde a origem até ao website em produção.
 summary: "Truques de SEO transforma problemas de SEO técnico em investigações práticas: fazer a pergunta, analisar as evidências, identificar a causa, aplicar a correção e verificar o resultado."
 event_date: 2026-09-07T18:00:00
 publication_date: 2026-09-07T18:00:00
 lastmod: 2026-09-07T18:00:00
 slug: seo-tricks
-tags: [SEO técnico, investigação de SEO, diagnóstico de websites, resolução de problemas técnicos, crawling, indexação, verificação de websites, Hugo]
-keywords: [Truques de SEO, SEO técnico, investigação de SEO, resolução de problemas de SEO técnico, diagnóstico de websites, verificação de SEO, crawling, indexação, Hugo, auditoria técnica de websites]
-categories: [Truques de SEO, SEO Técnico, Diagnóstico de Websites]
+tags:
+  - SEO técnico
+  - investigação de SEO
+  - diagnóstico de websites
+  - resolução de problemas técnicos
+  - crawling
+  - indexação
+  - verificação de websites
+  - Hugo
+keywords:
+  - Truques de SEO
+  - SEO técnico
+  - investigação de SEO
+  - resolução de problemas de SEO técnico
+  - diagnóstico de websites
+  - verificação de SEO
+  - crawling
+  - indexação
+  - Hugo
+  - auditoria técnica de websites
+categories:
+  - Truques de SEO
+  - SEO Técnico
+  - Diagnóstico de Websites
 series: SEOTricks
 series_index: 0
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/seo-tricks.webp
-alt: "Uma ilustração técnica escura que representa uma investigação de SEO através de código, diagnóstico de website e problemas técnicos ocultos."
-related: [/pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/, /pt/archive/]
-authors: [Anna Pivtorak]
+alt: Uma ilustração técnica escura que representa uma investigação de SEO através de código, diagnóstico de website e problemas técnicos ocultos.
+related:
+  - /pt/docs/seo-tricks/001-robots-txt-the-file-that-search-engines-read-first/
+  - /pt/archive/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/seo-tricks/
 toc: true
@@ -29,10 +53,10 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-search_intent: "resolução de problemas de SEO técnico"
-article_type: "série de SEO técnico"
-primary_topic: "SEO técnico"
-verification_model: "Source → Generated Build → Live"
+search_intent: resolução de problemas de SEO técnico
+article_type: série de SEO técnico
+primary_topic: SEO técnico
+verification_model: Source → Generated Build → Live
 research_status: confirmed
 technical_status: verified
 bookCollapseSection: true
@@ -43,8 +67,8 @@ show_in_series_tools: true
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/pt/docs/seo-tricks/#collection",
-  "name": "Truques de SEO",
-  "headline": "Truques de SEO",
+  "name": "🧲 Truques de SEO",
+  "headline": "🧲 Truques de SEO",
   "description": "Uma série prática de investigações de SEO técnico dedicada a encontrar problemas ocultos, identificar as suas causas e verificar se as correções funcionam desde a origem até ao website em produção.",
   "inLanguage": "pt",
   "url": "https://pivtorak.studio/pt/docs/seo-tricks/",
@@ -73,7 +97,7 @@ show_in_series_tools: true
 
 ![Truques de SEO. AP | Pivtorak.Studio. 07.09.2026 © Anna Pivtorak (Kostyuk)](/images/seo-tricks.webp)
 
-# Truques de SEO
+# 🧲 Truques de SEO
 
 *Pequenos detalhes técnicos podem mudar aquilo que um website realmente faz.*
 

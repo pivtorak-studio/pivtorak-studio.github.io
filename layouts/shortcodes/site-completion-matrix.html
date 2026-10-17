@@ -20,6 +20,7 @@
 <thead>
 <tr>
 <th style="border:1px solid #ccc; padding:8px;">Date</th>
+<th class="site-completion-matrix__image-heading" style="border:1px solid #ccc; padding:8px;">Image</th>
 <th style="border:1px solid #ccc; padding:8px;">Title</th>
 <th style="border:1px solid #ccc; padding:8px;">SEO</th>
 <th style="border:1px solid #ccc; padding:8px;">Distribution</th>
@@ -30,6 +31,19 @@
 {{ range sort $dated ".Params.publication_date" "desc" }}
 <tr>
 <td style="border:1px solid #ccc; padding:8px;">{{ time.AsTime .Params.publication_date | time.Format "2006-01-02" }}</td>
+<td class="site-completion-matrix__image-cell" style="border:1px solid #ccc; text-align:center; padding:4px;">
+  {{ $page := . }}
+  {{ $imageValue := $page.Params.image }}
+  {{ if and (reflect.IsSlice $imageValue) (gt (len $imageValue) 0) }}
+    {{ $imageValue = index $imageValue 0 }}
+  {{ end }}
+  {{ with $imageValue }}
+    {{ $imagePath := strings.TrimPrefix "/" . }}
+    {{ if fileExists (printf "static/%s" $imagePath) }}
+      <img class="site-completion-matrix__thumbnail" src="{{ . | safeURL }}" alt="{{ $page.Params.alt | default "" }}" width="32" height="32" loading="lazy" decoding="async">
+    {{ end }}
+  {{ end }}
+</td>
 <td style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}</td>
@@ -46,6 +60,7 @@
 <table style="border-collapse: collapse; width: 100%;">
 <thead>
 <tr>
+<th class="site-completion-matrix__image-heading" style="border:1px solid #ccc; padding:8px;">Image</th>
 <th style="border:1px solid #ccc; padding:8px;">Title</th>
 <th style="border:1px solid #ccc; padding:8px;">SEO</th>
 <th style="border:1px solid #ccc; padding:8px;">Distribution</th>
@@ -55,6 +70,19 @@
 <tbody>
 {{ range sort $undated "Title" }}
 <tr>
+<td class="site-completion-matrix__image-cell" style="border:1px solid #ccc; text-align:center; padding:4px;">
+  {{ $page := . }}
+  {{ $imageValue := $page.Params.image }}
+  {{ if and (reflect.IsSlice $imageValue) (gt (len $imageValue) 0) }}
+    {{ $imageValue = index $imageValue 0 }}
+  {{ end }}
+  {{ with $imageValue }}
+    {{ $imagePath := strings.TrimPrefix "/" . }}
+    {{ if fileExists (printf "static/%s" $imagePath) }}
+      <img class="site-completion-matrix__thumbnail" src="{{ . | safeURL }}" alt="{{ $page.Params.alt | default "" }}" width="32" height="32" loading="lazy" decoding="async">
+    {{ end }}
+  {{ end }}
+</td>
 <td style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}</td>

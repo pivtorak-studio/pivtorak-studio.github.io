@@ -89,6 +89,16 @@ Layout:
 
 Timeline has its own composition, but follows the same square format, border and corner-radius standard.
 
+### C. Site Completion Matrix
+
+Template: `layouts/shortcodes/site-completion-matrix.html`
+
+CSS: `assets/_custom.scss`, scoped to `.site-completion-matrix__thumbnail` and its table cells.
+
+The matrix uses an intentional compact variant at 32 × 32 CSS pixels so its dense status table remains easy to scan. It keeps the square crop, subtle 1px gray border and 8px corner radius. The shortcode reads each page's existing `image` and `alt` Front Matter values. It renders a thumbnail only when the image points to a file present under `static/`; absent or unresolved images leave a blank cell. If a valid image has no `alt` value, the image uses empty alternative text because the adjacent page title supplies the same row's label.
+
+This compact matrix variant is an exception for this table only. It does not change the established 8rem desktop and 5rem narrow-screen thumbnail sizes used by landing-page lists, category and tag lists, or the Timeline.
+
 ## 4. Data Requirements
 
 For list thumbnails, use the existing page Front Matter fields:
@@ -161,5 +171,6 @@ Before publishing changes:
 |Categories and tags|`layouts/term.html`|
 |Shared site-local styling|`assets/_custom.scss`|
 |Timeline — Visual Archive|`layouts/shortcodes/visual-archive.html`|
+|Site Completion Matrix|`layouts/shortcodes/site-completion-matrix.html`; scoped styles in `assets/_custom.scss`|
 
 **Core principle:** one thumbnail standard, multiple layout compositions. Reuse the established styling and preserve each component's existing structure.

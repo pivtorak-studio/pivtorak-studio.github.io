@@ -14,6 +14,35 @@
   aspect-ratio: 1 / 1;
 }
 
+/* Compact 32px thumbnail variant for the Site Completion Matrix table. */
+.site-completion-matrix__image-heading,
+.site-completion-matrix__image-cell {
+  box-sizing: border-box;
+  width: 42px;
+  min-width: 42px;
+  max-width: 42px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 4px !important;
+}
+
+.site-completion-matrix__thumbnail {
+  display: block;
+  box-sizing: border-box;
+  width: 32px !important;
+  min-width: 32px;
+  max-width: none !important;
+  height: 32px !important;
+  min-height: 32px;
+  max-height: none !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 1px solid var(--gray-200);
+  border-radius: 8px;
+  float: none !important;
+  margin: 0 auto !important;
+}
+
 /* Shared, language-aware site footer */
 .studio-footer {
   box-sizing: border-box;

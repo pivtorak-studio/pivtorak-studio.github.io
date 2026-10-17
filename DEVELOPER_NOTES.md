@@ -138,6 +138,8 @@ consistent across UK, EN, PT, and RU translations.
 
 Правила включення сторінок і локальної перевірки описані у
 `DEVELOPER_NOTES_site-completion-matrix.md`.
+Компактний варіант мініатюр і спільний стандарт описані у
+`DEVELOPER_NOTES_thumbnails.md`.
 
 ---
 

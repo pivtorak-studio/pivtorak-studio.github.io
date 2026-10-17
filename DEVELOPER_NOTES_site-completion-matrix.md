@@ -10,6 +10,12 @@ The translated matrix pages are in `content/<language>/docs/the-movement-matrix/
 
 The shortcode uses Hugo's `site.Pages` collection for the current language and retains pages with an HTML output format. Hugo's collection includes the home page, regular content pages, section pages (including `_index.md` pages with `bookCollapseSection: true`), and generated taxonomy/listing pages. This means menu membership, series membership, page date, and section naming do not control inclusion. Each page appears once in the current language's collection and links to its own `.RelPermalink`.
 
+## Matrix columns and thumbnails
+
+The dated table columns are Date, Image, Title, SEO, Distribution, and Search. The undated table omits Date and begins with Image, followed by Title and the same status columns. The title remains the page link.
+
+The Image column uses the row page's existing `image` and `alt` Front Matter fields. A valid local image under `static/` renders at 32 × 32 CSS pixels with a square crop, subtle border, and rounded corners. If the image field is absent, empty, or points to no file under `static/`, the cell stays blank. If a valid image has no alt description, it uses empty alt text because the adjacent title labels the same row. The table remains horizontally scrollable on narrow screens. See `DEVELOPER_NOTES_thumbnails.md` for the compact variant and the shared thumbnail standard; other components retain their established sizes.
+
 Non-HTML output formats and static files are excluded because they are not HTML pages to monitor in Search Console. Technical endpoints such as `sitemap.xml` and `robots.txt`, Hugo alias redirect files, and paginator continuation URLs are also outside `site.Pages`; these are redirect or duplicate listing variants rather than distinct content pages. The canonical section and taxonomy landing pages remain included. There are no content-category exceptions in the shortcode.
 
 ## Language behavior

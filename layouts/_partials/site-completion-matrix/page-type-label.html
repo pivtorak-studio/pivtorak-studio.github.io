@@ -1,0 +1,27 @@
+{{ $label := "" }}
+{{ if eq .Kind "page" }}
+  {{ $label = i18n "site_completion_matrix_type_page" }}
+{{ else if eq .Kind "section" }}
+  {{ $label = i18n "site_completion_matrix_type_section" }}
+{{ else if eq .Kind "home" }}
+  {{ $label = i18n "site_completion_matrix_type_home" }}
+{{ else if eq .Kind "term" }}
+  {{ $label = i18n "site_completion_matrix_type_term" }}
+  {{ with .Data }}
+    {{ if eq .Plural "categories" }}
+      {{ $label = i18n "site_completion_matrix_type_category" }}
+    {{ else if eq .Plural "tags" }}
+      {{ $label = i18n "site_completion_matrix_type_tag" }}
+    {{ end }}
+  {{ end }}
+{{ else if eq .Kind "taxonomy" }}
+  {{ $label = i18n "site_completion_matrix_type_taxonomy" }}
+  {{ with .Data }}
+    {{ if eq .Plural "categories" }}
+      {{ $label = i18n "site_completion_matrix_type_categories" }}
+    {{ else if eq .Plural "tags" }}
+      {{ $label = i18n "site_completion_matrix_type_tags" }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $label }}

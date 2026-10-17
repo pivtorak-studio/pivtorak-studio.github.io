@@ -1,5 +1,23 @@
 tools:
   other: Інструменти
+site_completion_matrix_type_category:
+  other: Категорія
+site_completion_matrix_type_tag:
+  other: Тег
+site_completion_matrix_type_categories:
+  other: Категорії
+site_completion_matrix_type_tags:
+  other: Теги
+site_completion_matrix_type_page:
+  other: Сторінка
+site_completion_matrix_type_section:
+  other: Розділ
+site_completion_matrix_type_home:
+  other: Головна
+site_completion_matrix_type_term:
+  other: Термін
+site_completion_matrix_type_taxonomy:
+  other: Таксономія
 archive:
   other: Архів
 identity:

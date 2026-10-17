@@ -32,6 +32,7 @@
 {{ if not $displayTitle }}
   {{ $displayTitle = humanize (path.Base (strings.TrimSuffix "/" .RelPermalink)) | title }}
 {{ end }}
+{{ $pageTypeLabel := partial "site-completion-matrix/page-type-label.html" . }}
 <tr>
 <td class="site-completion-matrix__date" style="border:1px solid #ccc; padding:8px;">{{ time.AsTime .Params.publication_date | time.Format "2006-01-02" }}</td>
 <td class="site-completion-matrix__image-cell" style="border:1px solid #ccc; text-align:center; padding:4px;">
@@ -49,7 +50,7 @@
     {{ end }}
   {{ end }}
 </td>
-<td class="site-completion-matrix__title" style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ $displayTitle }}</a></td>
+<td class="site-completion-matrix__title" style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ $displayTitle }}</a>{{ with $pageTypeLabel }} <span class="site-completion-matrix__page-type">{{ . }}</span>{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if eq .Params.search "indexed" }}🟢{{ else if eq .Params.search "submitted" }}🟡{{ else }}⚪{{ end }}</td>
@@ -78,6 +79,7 @@
 {{ if not $displayTitle }}
   {{ $displayTitle = humanize (path.Base (strings.TrimSuffix "/" .RelPermalink)) | title }}
 {{ end }}
+{{ $pageTypeLabel := partial "site-completion-matrix/page-type-label.html" . }}
 <tr>
 <td class="site-completion-matrix__image-cell" style="border:1px solid #ccc; text-align:center; padding:4px;">
   {{ $page := . }}
@@ -94,7 +96,7 @@
     {{ end }}
   {{ end }}
 </td>
-<td class="site-completion-matrix__title" style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ $displayTitle }}</a></td>
+<td class="site-completion-matrix__title" style="border:1px solid #ccc; padding:8px;"><a href="{{ .RelPermalink }}">{{ $displayTitle }}</a>{{ with $pageTypeLabel }} <span class="site-completion-matrix__page-type">{{ . }}</span>{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.seo }}🟢{{ else }}⚪{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if .Params.distribution }}🟢{{ else }}⚪{{ end }}</td>
 <td style="border:1px solid #ccc; text-align:center; padding:8px;">{{ if eq .Params.search "indexed" }}🟢{{ else if eq .Params.search "submitted" }}🟡{{ else }}⚪{{ end }}</td>

@@ -1,5 +1,23 @@
 tools:
   other: Ferramentas
+site_completion_matrix_type_category:
+  other: Categoria
+site_completion_matrix_type_tag:
+  other: Etiqueta
+site_completion_matrix_type_categories:
+  other: Categorias
+site_completion_matrix_type_tags:
+  other: Etiquetas
+site_completion_matrix_type_page:
+  other: Página
+site_completion_matrix_type_section:
+  other: Secção
+site_completion_matrix_type_home:
+  other: Início
+site_completion_matrix_type_term:
+  other: Termo
+site_completion_matrix_type_taxonomy:
+  other: Taxonomia
 archive:
   other: Arquivo
 identity:

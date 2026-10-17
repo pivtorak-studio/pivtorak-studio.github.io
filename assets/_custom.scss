@@ -37,6 +37,19 @@
   white-space: nowrap;
 }
 
+.site-completion-matrix__page-type {
+  display: inline-block;
+  margin-left: 0.25em;
+  padding: 1px 4px;
+  border: 1px solid var(--gray-200);
+  border-radius: 3px;
+  color: var(--gray-600);
+  font-size: 0.72em;
+  line-height: 1.2;
+  white-space: nowrap;
+  vertical-align: 0.08em;
+}
+
 .site-completion-matrix__date {
   box-sizing: border-box;
   width: 104px;

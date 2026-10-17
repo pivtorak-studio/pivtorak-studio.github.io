@@ -2,26 +2,45 @@
 id: architecture-of-value
 language: pt
 translation_of: architecture-of-value
-title: "Arquitetura de Valor"
-description: "Arquitetura de Valor é uma série de investigação e aplicação dedicada à construção do valor como um sistema arquitetónico de contexto, proveniência, significado, continuidade e resiliência."
-summary: "Um quadro de investigação e aplicação para compreender e construir valor através de contexto concebido, lógica formal, conhecimento aplicado e arquitetura de sistemas."
+title: ∀ ◉ ∃ Arquitetura de Valor
+description: Arquitetura de Valor é uma série de investigação e aplicação dedicada à construção do valor como um sistema arquitetónico de contexto, proveniência, significado, continuidade e resiliência.
+summary: Um quadro de investigação e aplicação para compreender e construir valor através de contexto concebido, lógica formal, conhecimento aplicado e arquitetura de sistemas.
 event_date: 2026-04-14T06:00:00
 publication_date: 2026-04-14T06:00:00
 date: 2026-04-14T06:00:00
 lastmod: 2026-10-06T06:00:00
 slug: architecture-of-value
-tags: [construção de valor, arquitetura de contexto, proveniência, ancoragem semântica, continuidade digital, resiliência]
-keywords: [arquitetura de valor, construção de valor, arquitetura de contexto, engenharia de proveniência, ancoragem semântica, gémeo digital, resiliência do valor, arquitetura de ativos]
-categories: [Investigação, Sistemas]
+tags:
+  - construção de valor
+  - arquitetura de contexto
+  - proveniência
+  - ancoragem semântica
+  - continuidade digital
+  - resiliência
+keywords:
+  - arquitetura de valor
+  - construção de valor
+  - arquitetura de contexto
+  - engenharia de proveniência
+  - ancoragem semântica
+  - gémeo digital
+  - resiliência do valor
+  - arquitetura de ativos
+categories:
+  - Investigação
+  - Sistemas
 series: ArchitectureOfValue
 series_index: 0
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/architecture-of-value.webp
-alt: "∀ ◉ ∃ Arquitetura de Valor — estrutura de investigação para construir valor através de contexto, proveniência, significado, continuidade e resiliência"
-related: [/pt/docs/timeline/, /pt/archive/]
-authors: [Anna Pivtorak]
+alt: ∀ ◉ ∃ Arquitetura de Valor — estrutura de investigação para construir valor através de contexto, proveniência, significado, continuidade e resiliência
+related:
+  - /pt/docs/timeline/
+  - /pt/archive/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/pt/docs/architecture-of-value/
 toc: true
@@ -47,7 +66,7 @@ show_in_series_research: true
   "@type": "WebPage",
   "@id": "https://pivtorak.studio/pt/docs/architecture-of-value/",
   "url": "https://pivtorak.studio/pt/docs/architecture-of-value/",
-  "name": "Arquitetura de Valor",
+  "name": "∀ ◉ ∃ Arquitetura de Valor",
   "description": "Arquitetura de Valor é uma série de investigação e aplicação dedicada à construção do valor como um sistema arquitetónico de contexto, proveniência, significado, continuidade e resiliência.",
   "inLanguage": "pt-PT",
   "isPartOf": {

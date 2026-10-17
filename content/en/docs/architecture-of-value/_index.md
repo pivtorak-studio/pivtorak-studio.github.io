@@ -2,26 +2,45 @@
 id: architecture-of-value
 language: en
 translation_of: architecture-of-value
-title: "Architecture of Value"
-description: "Architecture of Value is a research and applied series dedicated to value construction as an architectural system of context, provenance, meaning, continuity, and resilience."
-summary: "A research and applied framework for understanding and constructing value through designed context, formal logic, applied expertise, and system architecture."
+title: ∀ ◉ ∃ Architecture of Value
+description: Architecture of Value is a research and applied series dedicated to value construction as an architectural system of context, provenance, meaning, continuity, and resilience.
+summary: A research and applied framework for understanding and constructing value through designed context, formal logic, applied expertise, and system architecture.
 event_date: 2026-04-14T06:00:00
 publication_date: 2026-04-14T06:00:00
 date: 2026-04-14T06:00:00
 lastmod: 2026-10-06T06:00:00
 slug: architecture-of-value
-tags: [value construction, context architecture, provenance, semantic anchoring, digital continuity, resilience]
-keywords: [architecture of value, value construction, context architecture, provenance engineering, semantic anchoring, digital twin, value resilience, asset architecture]
-categories: [Research, Systems]
+tags:
+  - value construction
+  - context architecture
+  - provenance
+  - semantic anchoring
+  - digital continuity
+  - resilience
+keywords:
+  - architecture of value
+  - value construction
+  - context architecture
+  - provenance engineering
+  - semantic anchoring
+  - digital twin
+  - value resilience
+  - asset architecture
+categories:
+  - Research
+  - Systems
 series: ArchitectureOfValue
 series_index: 0
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 image: /images/architecture-of-value.webp
-alt: "∀ ◉ ∃ Architecture of Value — research framework for constructing value through context, provenance, meaning, continuity, and resilience"
-related: [/en/docs/timeline/, /en/archive/]
-authors: [Anna Pivtorak]
+alt: ∀ ◉ ∃ Architecture of Value — research framework for constructing value through context, provenance, meaning, continuity, and resilience
+related:
+  - /en/docs/timeline/
+  - /en/archive/
+authors:
+  - Anna Pivtorak
 draft: false
 canonical: https://pivtorak.studio/en/docs/architecture-of-value/
 toc: true
@@ -46,7 +65,7 @@ show_in_series_research: true
   "@type": "WebPage",
   "@id": "https://pivtorak.studio/en/docs/architecture-of-value/",
   "url": "https://pivtorak.studio/en/docs/architecture-of-value/",
-  "name": "Architecture of Value",
+  "name": "∀ ◉ ∃ Architecture of Value",
   "description": "Architecture of Value is a research and applied series dedicated to value construction as an architectural system of context, provenance, meaning, continuity, and resilience.",
   "inLanguage": "en",
   "isPartOf": {

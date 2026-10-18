@@ -234,7 +234,7 @@ _Примітка_
 
 ## Заключна думка
 
-![_Жива Топографія. Коли наші історії переплітаються. AP | Pivtorak.Studio. 08.10.2026_ © Анна Півторак (Костюк)](/images/living-topography-002-when-our-stories-intertwine-02.webp)
+![_Жива Топографія. Коли наші історії переплітаються. AP | Pivtorak.Studio. 08.10.2026_ © Анна Півторак (Костюк)](/images/living-topography-002-when-our-stories-intertwine-03.webp)
 
 Для мене ця зустріч стала досвідом взаємодії різних історій.
 

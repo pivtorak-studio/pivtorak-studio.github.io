@@ -232,7 +232,7 @@ Isto não significa que compreender os outros não seja importante. Significa qu
 
 Por vezes, basta estar presente, ouvir e deixar espaço para aquilo que não sabemos.
 
-## Reflexão Final
+## Quando as Nossas Histórias se Entrelaçam
 
 ![_Topografia Viva. Quando as Nossas Histórias se Entrelaçam. AP | Pivtorak.Studio. 08.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-002-when-our-stories-intertwine-03.webp)
 

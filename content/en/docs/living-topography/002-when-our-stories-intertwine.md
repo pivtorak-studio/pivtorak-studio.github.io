@@ -232,7 +232,7 @@ This does not mean that understanding others is unimportant. It means that under
 
 Sometimes it is enough to be present, to listen and to leave room for what we do not know.
 
-## Final Reflection
+## When Our Stories Intertwine
 
 ![_Living Topography. When Our Stories Intertwine. AP | Pivtorak.Studio. 08.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-002-when-our-stories-intertwine-03.webp)
 

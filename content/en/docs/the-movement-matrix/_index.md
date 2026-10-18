@@ -107,7 +107,7 @@ Its structure will continue to evolve together with the project itself.
 **Alt-text:**    
 A luminous constellation-like network radiates from a central symbol, representing a living knowledge system connecting articles, translations, metadata, and evolving structures.
 
-_The Movement Matrix. AP | Pivtorak.Studio. 05.06.2026  
+_The Movement Matrix. AP | Pivtorak.Studio. 05.06.2026_  
 © Anna Pivtorak (Kostyuk)
 
 

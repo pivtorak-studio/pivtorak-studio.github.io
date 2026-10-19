@@ -121,9 +121,10 @@ search: true
 
 ![_Living Topography. The Gesture That Stayed. AP | Pivtorak.Studio. 15.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-003-the-gesture-that-stayed.webp)
 
-> I didn't come to the meeting to look for a centre. I wasn't planning to remember kung fu. I wasn't trying to recreate an old gesture.  
-> It simply returned.  
-> And then I realised that I had made that gesture before, even though I'd never really thought about it.
+> As we explored movement and our own interpretations during that evening, I unexpectedly found my way to a familiar gesture.  
+> I brought the fingers of both hands together and, without planning to, found my own centre in that moment.  
+> The gesture came from the past — from the time when I practised kung fu.  
+> Only later did I realise that I had made this gesture before. More than once or twice. I had simply never thought about it.  
 
 ## Behind the Scenes
 

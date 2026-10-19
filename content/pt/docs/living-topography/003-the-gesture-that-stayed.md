@@ -121,9 +121,10 @@ search: true
 
 ![_Topografia Viva. O Gesto Que Ficou. AP | Pivtorak.Studio. 15.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-003-the-gesture-that-stayed.webp)
 
-> Não fui ao encontro à procura de um centro. Não planeava recordar o kung fu. Não estava a tentar reproduzir um gesto antigo.  
-> Simplesmente, ele regressou.  
-> E depois percebi que já tinha feito aquele gesto antes, embora nunca tivesse pensado verdadeiramente nisso.
+> Enquanto explorávamos o movimento e as nossas próprias interpretações naquela noite, encontrei inesperadamente o caminho de volta a um gesto familiar.  
+> Juntei os dedos das duas mãos e, sem o ter planeado, encontrei o meu próprio centro naquele momento.  
+> O gesto vinha do passado — dos tempos em que praticava kung fu.  
+> Só mais tarde percebi que já tinha feito aquele gesto antes. Não uma nem duas vezes. Simplesmente, nunca tinha pensado nisso.
 
 ## Nos Bastidores
 

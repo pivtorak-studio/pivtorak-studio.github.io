@@ -124,7 +124,7 @@ search: true
 > Enquanto explorávamos o movimento e as nossas próprias interpretações esta noite, regressei inesperadamente a um gesto familiar.  
 > Juntei os dedos das duas mãos e, naquele momento, senti uma tranquilidade familiar — o meu próprio centro.  
 > O gesto vinha do passado — dos tempos em que praticava kung fu.  
-> Só mais tarde percebi que já tinha feito aquele gesto antes. Não uma nem duas vezes. Simplesmente, nunca tinha pensado nisso.
+> Só mais tarde percebi que já tinha feito aquele gesto antes. Não uma nem duas vezes.   Simplesmente, nunca tinha pensado nisso.
 
 ## Nos Bastidores
 

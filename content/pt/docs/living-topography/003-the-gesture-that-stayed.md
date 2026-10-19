@@ -121,7 +121,7 @@ search: true
 
 ![_Topografia Viva. O Gesto Que Ficou. AP | Pivtorak.Studio. 15.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-003-the-gesture-that-stayed.webp)
 
-> Enquanto explorávamos o movimento e as nossas próprias interpretações naquela noite, regressei inesperadamente a um gesto familiar.  
+> Enquanto explorávamos o movimento e as nossas próprias interpretações esta noite, regressei inesperadamente a um gesto familiar.  
 > Juntei os dedos das duas mãos e, naquele momento, senti uma tranquilidade familiar — o meu próprio centro.  
 > O gesto vinha do passado — dos tempos em que praticava kung fu.  
 > Só mais tarde percebi que já tinha feito aquele gesto antes. Não uma nem duas vezes. Simplesmente, nunca tinha pensado nisso.

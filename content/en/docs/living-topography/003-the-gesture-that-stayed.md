@@ -121,7 +121,7 @@ search: true
 
 ![_Living Topography. The Gesture That Stayed. AP | Pivtorak.Studio. 15.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-003-the-gesture-that-stayed.webp)
 
-> As we explored movement and our own interpretations that evening, I unexpectedly returned to a familiar gesture.  
+> As we explored movement and our own interpretations this evening, I unexpectedly returned to a familiar gesture.  
 > I brought the fingers of both hands together and, in that moment, felt a familiar calm — my own centre.  
 > The gesture came from the past — from the time when I practised kung fu.  
 > Only later did I realise that I had made this gesture before. More than once or twice. I had simply never thought about it.  

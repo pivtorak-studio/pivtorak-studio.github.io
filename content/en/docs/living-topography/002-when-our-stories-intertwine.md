@@ -112,7 +112,7 @@ search: pending
 
 ![_Living Topography. When Our Stories Intertwine. AP | Pivtorak.Studio. 08.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-002-when-our-stories-intertwine.webp)
 
-> _Note_
+> _Note_   
 > This text is my personal account of the second meeting organised by agirE CLDS 5G in Esposende, Portugal.  
 > My knowledge of Portuguese is not perfect. I understood the instructions, words and participants’ reactions through context, my own understanding and personal impressions.  
 > This is a story about what I observed, how I understood what was happening, and the reflections that arose in me during the meeting.  

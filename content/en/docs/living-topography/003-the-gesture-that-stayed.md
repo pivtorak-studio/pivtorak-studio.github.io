@@ -157,8 +157,6 @@ When the music faded, we sat in a circle and began sharing our impressions. Whic
 
 For me, it wasn't a question of which role was better. I could accept either one. But when guiding another person, I wanted to leave them as comfortable as possible.
 
-Even in a game whose rules allowed us to control someone else's movements, I didn't want to forget the person standing beside me.
-
 ## Four Words
 
 Then came another exercise.

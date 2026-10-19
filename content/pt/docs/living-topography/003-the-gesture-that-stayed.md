@@ -156,8 +156,6 @@ Quando a música parou, sentámo-nos em círculo e começámos a partilhar as no
 
 Para mim, não era uma questão de saber qual dos papéis era melhor. Podia aceitar qualquer um deles. Mas, quando orientava os movimentos de outra pessoa, queria que ela se sentisse o mais confortável possível.
 
-Mesmo num jogo cujas regras permitiam controlar os movimentos de outra pessoa, não queria esquecer-me de quem estava ali comigo.
-
 ## Quatro Palavras
 
 Depois, houve outro exercício.

@@ -112,8 +112,7 @@ search: pending
 
 ![_Topografia Viva. Quando as Nossas Histórias se Entrelaçam. AP | Pivtorak.Studio. 08.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-002-when-our-stories-intertwine.webp)
 
-_Nota_
-
+> _Nota_
 > Este texto é o meu relato pessoal da segunda sessão organizada pelo agirE CLDS 5G, em Esposende, Portugal.   
 > O meu domínio da língua portuguesa não é perfeito. Compreendi as instruções, as palavras e as reações dos participantes através do contexto, da minha própria compreensão e das minhas impressões pessoais.   
 > Esta é uma história sobre aquilo que observei, sobre a forma como compreendi o que estava a acontecer e sobre as reflexões que surgiram em mim durante este encontro.

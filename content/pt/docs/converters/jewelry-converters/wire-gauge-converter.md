@@ -8,6 +8,7 @@ description: Converta dimensões de fios entre AWG, SWG, BWG e diâmetro métric
 summary: Um conversor interativo de calibres de fios para comparar diâmetros AWG, SWG, BWG e métricos, áreas de secção transversal nominais e correspondências aproximadas entre sistemas.
 event_date: 2026-10-23T18:00:00
 publication_date: 2026-10-23T18:00:00
+date: 2026-10-23T18:00:00
 lastmod: 2026-10-23T18:00:00
 slug: wire-gauge-converter
 tags: [calibres de fios, AWG, SWG, BWG, diâmetro do fio, conversão métrica, ferramentas de joalharia]

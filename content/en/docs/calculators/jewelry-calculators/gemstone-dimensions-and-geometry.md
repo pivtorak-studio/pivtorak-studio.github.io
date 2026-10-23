@@ -7,6 +7,7 @@ description: Explore gemstone dimensions, geometric proportions, and measurement
 summary: Tools for examining gemstone dimensions and geometric proportions using measurements and mathematical models.
 event_date: 2026-10-22T06:00:00
 publication_date: 2026-10-22T06:00:00
+date: 2026-10-22T06:00:00
 lastmod: 2026-10-22T06:00:00
 slug: gemstone-dimensions-and-geometry
 tags: [gemstone dimensions, gemstone geometry, gemstone proportions, jewelry calculator]

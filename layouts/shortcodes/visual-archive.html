@@ -3,7 +3,7 @@
 {{ with site.GetPage "/docs" }}
   {{ range .RegularPagesRecursive }}
     {{ $source := .File.Path }}
-    {{ $isStructural := or (strings.HasSuffix $source "site-completion-matrix.md") (strings.HasSuffix $source "atlas.md") (strings.Contains $source "docs/calculators/") (strings.Contains $source "docs/converters/") }}
+    {{ $isStructural := or (strings.HasSuffix $source "site-completion-matrix.md") (strings.HasSuffix $source "atlas.md") }}
     {{ if and .Params.date .Params.image (not $isStructural) }}
       {{ $pages = $pages | append . }}
     {{ end }}

@@ -8,6 +8,7 @@ description: Estime o preço indicativo dos metais preciosos com base na massa d
 summary: Calcule o valor indicativo do metal precioso fino contido numa peça, utilizando a massa, o título e um preço por onça troy introduzido manualmente.
 event_date: 2026-10-20T08:00:00
 publication_date: 2026-10-20T08:00:00
+date: 2026-10-20T08:00:00
 lastmod: 2026-10-20T08:00:00
 slug: precious-metal-price-calculator
 tags:

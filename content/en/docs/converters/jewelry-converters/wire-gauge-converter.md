@@ -8,6 +8,7 @@ description: Convert wire sizes between AWG, SWG, BWG and metric diameter in mil
 summary: An interactive wire gauge converter for comparing AWG, SWG, BWG and metric wire diameters, with nominal cross-sectional areas and approximate cross-system matches.
 event_date: 2026-10-23T18:00:00
 publication_date: 2026-10-23T18:00:00
+date: 2026-10-23T18:00:00
 lastmod: 2026-10-23T18:00:00
 slug: wire-gauge-converter
 tags: [wire gauge, AWG, SWG, BWG, wire diameter, metric conversion, jewelry tools]

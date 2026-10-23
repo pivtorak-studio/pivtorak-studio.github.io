@@ -8,6 +8,7 @@ description: Convert ring sizes between supported international sizing systems u
 summary: An interactive jewelry reference tool for converting ring sizes between EU / ISO 8653, US / Canada, UK / Australia / Ireland, and the Japanese JCS reference scale, with clearly stated input ranges and matching limitations.
 event_date: 2026-10-23T15:00:00
 publication_date: 2026-10-23T15:00:00
+date: 2026-10-23T15:00:00
 lastmod: 2026-10-23T15:00:00
 slug: international-ring-size-converter
 tags: [ring sizing, ring size conversion, jewelry tools, international standards]

@@ -54,7 +54,8 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-image: /images/calculators-jewelry-calculators-precious-meta-reference-value-calculator.webp
+image: /images/calculators-jewelry-calculators-precious-metal-reference-value-calculator.webp
+date: 2026-10-20T09:00:00+01:00
 ---
 
 <script type="application/ld+json">

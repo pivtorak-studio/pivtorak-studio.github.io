@@ -3,7 +3,7 @@ id: precious-metal-reference-value-calculator
 language: ru
 translation_of: precious-metal-reference-value-calculator
 translationKey: precious-metal-reference-value-calculator
-title: Калькулятор справочной стоимости драгоценных металлов
+title: Калькулятор Справочной Стоимости Драгоценных Металлов
 description: Расчёт справочной стоимости драгоценного металла по введённым вручную данным с необязательными пользовательскими корректировками.
 summary: Учебные расчёты для одного компонента из золота, серебра, платины или палладия с проверенным соответствием единицы котировки.
 event_date: 2026-10-20T09:00:00+01:00
@@ -54,8 +54,9 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-image: /images/calculators-jewelry-calculators-precious-meta-reference-value-calculator.webp
+image: /images/calculators-jewelry-calculators-precious-metal-reference-value-calculator.webp
 publication_date: 2026-10-20T09:00:00+01:00
+date: 2026-10-20T09:00:00+01:00
 lastmod: 2026-10-20T09:00:00+01:00
 ---
 
@@ -169,7 +170,7 @@ lastmod: 2026-10-20T09:00:00+01:00
 }
 </script>
 
-# Калькулятор справочной стоимости драгоценных металлов
+# Калькулятор Справочной Стоимости Драгоценных Металлов
 
 ![_Калькуляторы. Ювелирные калькуляторы. Калькулятор справочной стоимости драгоценных металлов. AP | Pivtorak.Studio. 20.10.2026_ © Анна Пивторак (Костюк)](/images/calculators-jewelry-calculators-precious-metal-reference-value-calculator.webp)
 
@@ -275,5 +276,5 @@ LBMA указывает преобразование $1$ тройская унц
 **Alt-text:**   
 Расчёт справочной стоимости драгоценного металла по цене, массе и пробе, введённым вручную.
 
-_Калькуляторы. Ювелирные калькуляторы. Калькулятор справочной стоимости драгоценных металлов. AP | Pivtorak.Studio. 20.10.2026_    
+_Калькуляторы. Ювелирные калькуляторы. Калькулятор Справочной Стоимости Драгоценных Металлов. AP | Pivtorak.Studio. 20.10.2026_    
 © Анна Пивторак (Костюк)

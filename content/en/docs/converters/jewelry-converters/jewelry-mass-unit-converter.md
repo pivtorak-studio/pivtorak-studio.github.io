@@ -8,6 +8,7 @@ description: Convert mass between metric and traditional jewelry units, includin
 summary: A practical jewelry tool for converting known mass values between seven metric and specialized jewelry units.
 event_date: 2026-10-22T15:00:00
 publication_date: 2026-10-22T15:00:00
+date: 2026-10-22T15:00:00
 lastmod: 2026-10-22T15:00:00
 slug: jewelry-mass-unit-converter
 tags: [jewelry, mass-conversion, unit-converter, precious-metals, gemstones]

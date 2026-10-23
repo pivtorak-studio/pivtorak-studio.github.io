@@ -7,6 +7,7 @@ description: Calcule a massa de metais preciosos e ligas a partir do volume e da
 summary: Estime a massa de um metal precioso ou de uma liga a partir do volume medido e da densidade. Compreenda os pressupostos e as limitações do resultado.
 event_date: 2026-10-20T06:00:00+01:00
 publication_date: 2026-10-20T06:00:00+01:00
+date: 2026-10-20T06:00:00+01:00
 lastmod: 2026-10-20T06:00:00+01:00
 slug: precious-metal-mass-calculator
 tags:

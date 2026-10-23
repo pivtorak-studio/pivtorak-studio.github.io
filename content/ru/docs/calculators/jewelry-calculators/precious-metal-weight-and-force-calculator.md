@@ -7,6 +7,7 @@ description: Рассчитайте силу тяжести, действующ�
 summary: Рассчитайте силу тяжести по массе и ускорению свободного падения с возможностью использовать различные материалы и значения ускорения свободного падения.
 event_date: 2026-10-20T07:00:00
 publication_date: 2026-10-20T07:00:00
+date: 2026-10-20T07:00:00
 lastmod: 2026-10-20T07:00:00
 slug: precious-metal-weight-force-calculator
 tags:
@@ -30,7 +31,7 @@ series_index: 2
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-image: /images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp
+image: /images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp
 alt: "Калькулятор веса и силы тяжести для драгоценных металлов: золотой самородок на подвесных весах, формула F = m × g и слитки драгоценных металлов."
 related:
   - /ru/docs/calculators/jewelry-calculators/
@@ -68,7 +69,7 @@ search: indexed
   "name": "Калькулятор веса и силы тяжести для драгоценных металлов",
   "description": "Рассчитайте силу тяжести, действующую на заданную массу драгоценного металла или другого материала, используя массу и ускорение свободного падения.",
   "url": "https://pivtorak.studio/ru/docs/calculators/jewelry-calculators/precious-metal-weight-force-calculator/",
-  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp",
+  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp",
   "inLanguage": "ru",
   "applicationCategory": "UtilitiesApplication",
   "applicationSubCategory": "Ювелирный калькулятор",

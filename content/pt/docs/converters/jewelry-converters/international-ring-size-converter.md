@@ -8,6 +8,7 @@ description: Converta tamanhos de anéis entre sistemas internacionais suportado
 summary: Ferramenta interativa de referência para joalharia que converte tamanhos de anéis entre os sistemas UE / ISO 8653, EUA / Canadá, Reino Unido / Austrália / Irlanda e a escala de referência japonesa JCS, com intervalos de entrada e limitações claramente indicados.
 event_date: 2026-10-23T15:00:00
 publication_date: 2026-10-23T15:00:00
+date: 2026-10-23T15:00:00
 lastmod: 2026-10-23T15:00:00
 slug: international-ring-size-converter
 tags: [tamanhos de anéis, conversão de tamanhos, ferramentas de joalharia, normas internacionais]

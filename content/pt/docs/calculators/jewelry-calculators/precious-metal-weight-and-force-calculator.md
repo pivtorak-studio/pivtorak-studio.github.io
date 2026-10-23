@@ -7,6 +7,7 @@ description: Calcule a força gravítica que atua sobre uma determinada massa de
 summary: Calcule a força peso a partir da massa e da aceleração da gravidade, com suporte para diferentes materiais e valores de gravidade.
 event_date: 2026-10-20T07:00:00
 publication_date: 2026-10-20T07:00:00
+date: 2026-10-20T07:00:00
 lastmod: 2026-10-20T07:00:00
 slug: precious-metal-weight-force-calculator
 tags:
@@ -30,7 +31,7 @@ series_index: 2
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-image: /images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp
+image: /images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp
 alt: Calculadora de peso e força de metais preciosos com uma pepita de ouro suspensa numa balança de precisão, a fórmula F = m × g e lingotes de metais preciosos.
 related:
   - /pt/docs/calculators/jewelry-calculators/
@@ -68,7 +69,7 @@ search: indexed
   "name": "Calculadora de peso e força de metais preciosos",
   "description": "Calcule a força gravítica que atua sobre uma determinada massa de metal precioso ou de outro material, utilizando a massa e a aceleração da gravidade.",
   "url": "https://pivtorak.studio/pt/docs/calculators/jewelry-calculators/precious-metal-weight-force-calculator/",
-  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp",
+  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp",
   "inLanguage": "pt-PT",
   "applicationCategory": "UtilitiesApplication",
   "applicationSubCategory": "Calculadora de Ourivesaria",
@@ -114,7 +115,7 @@ search: indexed
 
 # Calculadora de Peso e Força de Metais Preciosos
 
-![_Calculadoras. Calculadoras de Joalharia. Calculadora de peso e força de metais preciosos. AP | Pivtorak.Studio. 20.10.2026_ © Anna Pivtorak (Kostyuk)](/images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp)
+![_Calculadoras. Calculadoras de Joalharia. Calculadora de peso e força de metais preciosos. AP | Pivtorak.Studio. 20.10.2026_ © Anna Pivtorak (Kostyuk)](/images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp)
 
 Calcule a força gravítica que atua sobre uma determinada massa de metal precioso ou de outro material. Esta calculadora é útil para compreender a relação entre a massa e a força peso, especialmente no contexto da ourivesaria, do manuseamento de materiais e de cálculos básicos de física.
 

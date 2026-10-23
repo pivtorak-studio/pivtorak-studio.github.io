@@ -8,6 +8,7 @@ description: Converta massas entre unidades métricas e unidades tradicionais da
 summary: Uma ferramenta prática de joalharia para converter valores de massa conhecidos entre sete unidades métricas e unidades especializadas da joalharia.
 event_date: 2026-10-22T15:00:00
 publication_date: 2026-10-22T15:00:00
+date: 2026-10-22T15:00:00
 lastmod: 2026-10-22T15:00:00
 slug: jewelry-mass-unit-converter
 tags: [joalharia, conversao-de-massa, conversor-de-unidades, metais-preciosos, pedras-preciosas]

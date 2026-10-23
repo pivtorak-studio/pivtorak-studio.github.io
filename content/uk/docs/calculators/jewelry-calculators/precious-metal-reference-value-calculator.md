@@ -3,7 +3,7 @@ id: precious-metal-reference-value-calculator
 language: uk
 translation_of: precious-metal-reference-value-calculator
 translationKey: precious-metal-reference-value-calculator
-title: Калькулятор довідкової вартості дорогоцінних металів
+title: Калькулятор Довідкової Вартості Дорогоцінних Металів
 description: Обчислюйте довідкову вартість дорогоцінного металу за введеними вручну даними з необов’язковими коригуваннями користувача.
 summary: Навчальні розрахунки для одного компонента із золота, срібла, платини або паладію за перевіреним відповідником одиниці котирування.
 event_date: 2026-10-20T09:00:00+01:00
@@ -54,8 +54,9 @@ completion: 100
 seo: true
 distribution: true
 search: indexed
-image: /images/calculators-jewelry-calculators-precious-meta-reference-value-calculator.webp
+image: /images/calculators-jewelry-calculators-precious-metal-reference-value-calculator.webp
 publication_date: 2026-10-20T09:00:00+01:00
+date: 2026-10-20T09:00:00+01:00
 lastmod: 2026-10-20T09:00:00+01:00
 ---
 
@@ -169,7 +170,7 @@ lastmod: 2026-10-20T09:00:00+01:00
 }
 </script>
 
-# Калькулятор довідкової вартості дорогоцінних металів
+# Калькулятор Довідкової Вартості Дорогоцінних Металів
 
 ![_Калькулятори. Ювелірні калькулятори. Калькулятор довідкової вартості дорогоцінних металів. AP | Pivtorak.Studio. 20.10.2026_ © Анна Півторак (Костюк)](/images/calculators-jewelry-calculators-precious-metal-reference-value-calculator.webp)
 
@@ -275,5 +276,5 @@ LBMA наводить перетворення $1$ тройська унція $
 **Alt-text:**   
 Розрахунок довідкової вартості дорогоцінного металу за введеними вручну ціною, масою та пробою.
 
-_Калькулятори. Ювелірні калькулятори. Калькулятор довідкової вартості дорогоцінних металів. AP | Pivtorak.Studio. 20.10.2026_    
+_Калькулятори. Ювелірні калькулятори. Калькулятор Довідкової Вартості Дорогоцінних Металів. AP | Pivtorak.Studio. 20.10.2026_    
 © Анна Півторак (Костюк)

@@ -7,6 +7,7 @@ description: Розрахуйте силу тяжіння, що діє на за
 summary: Розрахуйте силу тяжіння за масою та прискоренням вільного падіння з можливістю використовувати різні матеріали й значення прискорення вільного падіння.
 event_date: 2026-10-20T07:00:00
 publication_date: 2026-10-20T07:00:00
+date: 2026-10-20T07:00:00
 lastmod: 2026-10-20T07:00:00
 slug: precious-metal-weight-force-calculator
 tags:
@@ -30,7 +31,7 @@ series_index: 2
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-image: /images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp
+image: /images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp
 alt:
 related:
   - /uk/docs/calculators/jewelry-calculators/
@@ -68,7 +69,7 @@ search: indexed
   "name": "Калькулятор ваги та сили тяжіння для дорогоцінних металів",
   "description": "Розрахуйте силу тяжіння, що діє на задану масу дорогоцінного металу або іншого матеріалу, використовуючи масу та прискорення вільного падіння.",
   "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/precious-metal-weight-force-calculator/",
-  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp",
+  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp",
   "inLanguage": "uk",
   "applicationCategory": "UtilitiesApplication",
   "applicationSubCategory": "Ювелірний калькулятор",

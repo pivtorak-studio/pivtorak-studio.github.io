@@ -8,6 +8,7 @@ description: Estimate the indicative price of precious metals based on metal mas
 summary: Calculate the indicative fine-metal content value using mass, fineness, and a manually entered price per troy ounce.
 event_date: 2026-10-20T08:00:00
 publication_date: 2026-10-20T08:00:00
+date: 2026-10-20T08:00:00
 lastmod: 2026-10-20T08:00:00
 slug: precious-metal-price-calculator
 tags:

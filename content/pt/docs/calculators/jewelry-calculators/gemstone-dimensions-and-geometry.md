@@ -7,6 +7,7 @@ description: Explore as dimensões, as proporções geométricas e os cálculos 
 summary: Ferramentas para analisar as dimensões e as proporções geométricas de gemas através de medições e modelos matemáticos.
 event_date: 2026-10-22T06:00:00
 publication_date: 2026-10-22T06:00:00
+date: 2026-10-22T06:00:00
 lastmod: 2026-10-22T06:00:00
 slug: gemstone-dimensions-and-geometry
 tags:

@@ -6,6 +6,7 @@ title: Diamond Carat Mass Estimator
 description: Estimate diamond carat mass from measured dimensions using documented, shape-specific empirical models.
 summary: A manual dimensional estimate for round brilliant, oval, pear, marquise, emerald and heart diamonds, with model limits explained.
 publication_date: 2026-10-21T06:00:00+01:00
+date: 2026-10-21T06:00:00+01:00
 lastmod: 2026-10-21T06:00:00+01:00
 slug: diamond-carat-mass-estimator
 tags:

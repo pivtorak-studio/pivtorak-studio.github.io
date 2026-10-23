@@ -7,6 +7,7 @@ description: Calculate the mass of precious metals and alloys from volume and de
 summary: Estimate the mass of a precious metal or alloy from its measured volume and density. Understand the assumptions and limitations behind the result.
 event_date: 2026-10-20T06:00:00+01:00
 publication_date: 2026-10-20T06:00:00+01:00
+date: 2026-10-20T06:00:00+01:00
 lastmod: 2026-10-20T06:00:00+01:00
 slug: precious-metal-mass-calculator
 tags:

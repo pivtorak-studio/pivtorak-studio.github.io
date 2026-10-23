@@ -6,6 +6,7 @@ title: Estimador da Massa de Diamantes em Quilates
 description: Estime a massa de diamantes em quilates a partir das dimensões medidas, com modelos empíricos por forma.
 summary: Estimativa manual para diamantes redondos, ovais, em gota, navete, esmeralda e coração, com limites explicados.
 publication_date: 2026-10-21T06:00:00+01:00
+date: 2026-10-21T06:00:00+01:00
 lastmod: 2026-10-21T06:00:00+01:00
 slug: diamond-carat-mass-estimator
 tags:

@@ -7,6 +7,7 @@ description: Calculate the gravitational force acting on a given mass of preciou
 summary: Calculate weight force from mass and gravitational acceleration, with support for different materials and gravity values.
 event_date: 2026-10-20T07:00:00
 publication_date: 2026-10-20T07:00:00
+date: 2026-10-20T07:00:00
 lastmod: 2026-10-20T07:00:00
 slug: precious-metal-weight-force-calculator
 tags:
@@ -30,7 +31,7 @@ series_index: 2
 research_origin: Pivtorak.Studio
 status: published
 featured: true
-image: /images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp
+image: /images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp
 alt: Precious Metal Weight Force Calculator illustrating a gold nugget suspended from a precision balance, the gravitational force formula F = m × g, and precious metal bars.
 related:
   - /en/docs/calculators/jewelry-calculators/
@@ -68,7 +69,7 @@ search: indexed
   "name": "Precious Metal Weight & Force Calculator",
   "description": "Calculate the gravitational force acting on a given mass of precious metal or another material using mass and gravitational acceleration.",
   "url": "https://pivtorak.studio/en/docs/calculators/jewelry-calculators/precious-metal-weight-force-calculator/",
-  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp",
+  "image": "https://pivtorak.studio/images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp",
   "inLanguage": "en",
   "applicationCategory": "UtilitiesApplication",
   "applicationSubCategory": "Jewelry Calculator",
@@ -114,7 +115,7 @@ search: indexed
 
 # Precious Metal Weight & Force Calculator
 
-![_Calculators. Jewelry Calculators. Precious Metal Weight & Force Calculator. AP | Pivtorak.Studio. 20.10.2026_ © Anna Pivtorak (Kostyuk)](/images/calculators-jewelry-calculators-precious-metal-weight-force-calculator.webp)
+![_Calculators. Jewelry Calculators. Precious Metal Weight & Force Calculator. AP | Pivtorak.Studio. 20.10.2026_ © Anna Pivtorak (Kostyuk)](/images/calculators-jewelry-calculators-precious-metal-weight-and-force-calculator.webp)
 
 Calculate the gravitational force acting on a given mass of precious metal or another material. This calculator is useful for understanding the relationship between mass and weight force, particularly in jewelry-making, material handling, and basic physics calculations.
 

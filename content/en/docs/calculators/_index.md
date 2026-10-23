@@ -106,4 +106,5 @@ _Calculators. AP | Pivtorak.Studio. 07.07.2026_
 © Anna Pivtorak (Kostyuk)
 
 ---
+
 {{< section >}}

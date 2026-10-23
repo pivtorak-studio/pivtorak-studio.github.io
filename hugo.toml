@@ -19,10 +19,6 @@ enableRobotsTXT = true
     languageName = 'PT'
     contentDir = 'content/pt'
     weight = 3
-  # [languages.ru]
-  #   languageName = 'RU'
-  #   contentDir = 'content/ru'
-  #   weight = 4
 
 [params]
   BookFavicon = "images/favicon.svg"
@@ -38,7 +34,9 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
   [languages.ru]
-  disabled = true
+    label = 'RU'
+    contentDir = 'content/ru'
+    weight = 4
 
   [markup.goldmark.renderer]
   unsafe = true

@@ -1,0 +1,199 @@
+---
+id: jewelry-calculators
+language: uk
+translation_of: jewelry-calculators
+translationKey: jewelry-calculators
+title: Калькулятори для Ювелірної Справи
+description: Практичні калькулятори для проєктування ювелірних виробів, розрахунків геометрії дорогоцінного каміння, вимірювання параметрів дорогоцінних металів, оцінювання матеріалів і виробничих процесів.
+summary: Колекція практичних інструментів для точних вимірювань, аналізу матеріалів та обґрунтованих рішень на різних етапах виготовлення ювелірних виробів.
+event_date: 2026-10-18T06:00:00
+publication_date: 2026-10-18T06:00:00
+lastmod: 2026-10-22T09:00:00
+slug: jewelry-calculators
+tags:
+  - Калькулятори для Ювелірної Справи
+  - проєктування ювелірних виробів
+  - геометрія дорогоцінного каміння
+  - дорогоцінні метали
+  - ювелірне виробництво
+keywords:
+  - Калькулятори для Ювелірної Справи
+  - розрахунки для проєктування ювелірних виробів
+  - вимірювання дорогоцінного каміння
+  - розрахунки дорогоцінних металів
+  - інструменти ювелірного виробництва
+  - виробничі розрахунки
+categories:
+  - Калькулятори
+  - Ювелірна справа
+series: JewelryCalculators
+series_index: 0
+research_origin: Pivtorak.Studio
+status: published
+featured: true
+image: /images/calculators-jewelry-calculators.webp
+alt: Калькулятори для Ювелірної Справи — діаманти, дорогоцінне каміння, зливки дорогоцінних металів, цифрові ваги, золота каблучка та прецизійний штангенциркуль на тлі технічних креслень і математичних формул у золотисто-графітовій гамі.
+related:
+  - /uk/docs/calculators/
+  - /uk/tools/
+  - /uk/docs/timeline/
+  - /uk/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
+license: CC BY-NC-ND 4.0
+timeline: true
+tools: true
+visual_archive: true
+disciplines:
+  - Ювелірна справа
+  - Гемологія
+  - Дорогоцінні метали
+  - Прикладна математика
+  - Виробництво
+calculator_type:
+  - вимірювання
+  - геометрія
+  - маса
+  - оцінювання вартості
+  - фізичні розрахунки
+  - виробництво
+calculator_units:
+  - mm
+  - cm
+  - g
+  - kg
+  - ct
+  - oz t
+  - mm²
+  - cm³
+  - g/cm³
+  - N
+implementation_status: published
+draft: false
+canonical: https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/
+toc: true
+completion: 100
+seo: true
+distribution: true
+search: indexed
+bookCollapseSection: true
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/#webpage",
+      "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/",
+      "name": "Калькулятори для Ювелірної Справи",
+      "description": "Практичні калькулятори для проєктування ювелірних виробів, розрахунків геометрії дорогоцінного каміння, вимірювання параметрів дорогоцінних металів, оцінювання матеріалів і виробничих процесів.",
+      "inLanguage": "uk",
+      "isPartOf": {
+        "@id": "https://pivtorak.studio/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/#breadcrumb"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://pivtorak.studio/images/calculators-jewelry-calculators.webp"
+      },
+      "author": {
+        "@id": "https://pivtorak.studio/#person"
+      },
+      "datePublished": "2026-10-22T09:00:00+01:00",
+      "dateModified": "2026-10-22T09:00:00+01:00",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "mainEntity": {
+        "@id": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/#itemlist"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/#itemlist",
+      "name": "Калькулятори для Ювелірної Справи",
+      "description": "Колекція практичних інструментів для точних вимірювань, аналізу матеріалів та обґрунтованих рішень на різних етапах виготовлення ювелірних виробів.",
+      "numberOfItems": 6,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/diamond-carat-mass-estimator/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/gemstone-dimensions-and-geometry/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/precious-metal-mass-calculator/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/precious-metal-price-calculator/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/precious-metal-weight-force-calculator/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/precious-metal-reference-value-calculator/"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Головна",
+          "item": "https://pivtorak.studio/uk/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Калькулятори",
+          "item": "https://pivtorak.studio/uk/docs/calculators/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Калькулятори для Ювелірної Справи",
+          "item": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+# Калькулятори для Ювелірної Справи
+
+![_Калькулятори. Калькулятори для Ювелірної Справи. AP | Pivtorak.Studio. 18.10.2026_ © Анна Півторак (Костюк)](/images/calculators-jewelry-calculators.webp)
+
+Практичні калькулятори для проєктування ювелірних виробів, розрахунків геометрії дорогоцінного каміння, вимірювання параметрів дорогоцінних металів, оцінювання матеріалів і виробничих процесів у ювелірній справі.
+
+Ця колекція об’єднує інструменти для точних розрахунків та обґрунтованих рішень на різних етапах створення ювелірних виробів — від роботи з вихідними матеріалами до оцінювання готових виробів.
+
+Кожен калькулятор призначений для виконання конкретного завдання та передбачає зрозумілі вхідні дані, прозорі методи розрахунку й результати, корисні для практичної роботи.
+
+**Alt-text:**  
+Калькулятори для Ювелірної Справи — діаманти, дорогоцінне каміння, зливки дорогоцінних металів, цифрові ваги, золота каблучка та прецизійний штангенциркуль на тлі технічних креслень і математичних формул у золотисто-графітовій гамі.
+
+_Калькулятори. Калькулятори для Ювелірної Справи. AP | Pivtorak.Studio. 18.10.2026_    
+© Анна Півторак (Костюк)  
+
+---
+
+{{< section >}}

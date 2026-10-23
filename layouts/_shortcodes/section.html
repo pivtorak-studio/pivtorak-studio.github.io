@@ -9,7 +9,19 @@
   <dt>
     <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
   </dt>
-  {{ if (in $.Params "summary") -}}
+  {{ if .Params.calculator_model -}}
+  {{- $model := .Params.calculator_model | string -}}
+  {{- if in $model "=" -}}
+    {{- $model = replace $model "\\(" "" -}}
+    {{- $model = replace $model "\\)" "" -}}
+    {{- $model = replace $model "valor" "\\text{valor}" -}}
+    {{- $model = replace $model "стоимость" "\\text{стоимость}" -}}
+    {{- $model = replace $model "вартість" "\\text{вартість}" -}}
+    <dd class="markdown-inner">{{ printf "\\(%s\\)" $model }}</dd>
+  {{- else -}}
+    <dd class="markdown-inner">{{ $model }}</dd>
+  {{- end -}}
+  {{ else if and (in $.Params "summary") (ne .Params.translationKey "jewelry-calculators") -}}
   <dd class="markdown-inner">
     {{- or .Description .Summary site.Params.description | plainify | htmlUnescape }}
   </dd>

@@ -1,0 +1,19 @@
+<div class="ps-calculator" data-calculator="{{ .Get "type" }}" data-language="{{ .Page.Language.Lang }}" aria-live="polite">
+  <div class="ps-calculator-fields"></div>
+  <div class="ps-calculator-output" role="status"></div>
+</div>
+<script defer src="/js/calculators.js?v=20261023.2"></script>
+<style>
+.ps-calculator{margin:2rem 0;padding:1.5rem;border:1px solid rgba(127,127,127,.35);border-radius:.5rem;max-width:54rem}
+.ps-calculator-fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,14rem),1fr));gap:1rem}
+.ps-calculator-fields.ps-ring-fields{grid-template-columns:repeat(3,minmax(0,1fr))}
+.ps-calculator label{display:grid;gap:.4rem;font-weight:600}
+.ps-calculator-fields .ps-ring-field{grid-template-rows:3em auto auto;align-content:start}
+.ps-calculator input,.ps-calculator select{box-sizing:border-box;width:100%;padding:.65rem .75rem;border:1px solid rgba(127,127,127,.55);border-radius:.3rem;background:transparent;color:inherit;font:inherit}
+.ps-calculator :focus-visible{outline:3px solid #2563eb;outline-offset:2px}
+.ps-calculator-output{margin-top:1.25rem;min-height:1.5rem;font-size:1.1rem;font-weight:600}
+.ps-calculator-output{overflow-wrap:anywhere}
+.ps-calculator output{font-variant-numeric:tabular-nums}
+.ps-calculator [data-error=true]{color:color-mix(in srgb,var(--body-font-color) 70%,var(--body-background) 30%);font-weight:400}
+@media(max-width:480px){.ps-calculator{box-sizing:border-box;width:100%;padding:1rem}.ps-calculator-fields{grid-template-columns:minmax(0,1fr)}.ps-calculator-fields.ps-ring-fields{grid-template-columns:minmax(0,1fr)}.ps-calculator-fields .ps-ring-field{grid-template-rows:auto auto auto}}
+</style>

@@ -14,6 +14,7 @@
     "show_in_series_research": "checkbox",
     "show_in_series_studio": "checkbox",
     "show_in_series_tools": "checkbox",
-    "show_in_series_archive": "checkbox"
+    "show_in_series_archive": "checkbox",
+    "lastmod": "text"
   }
 }

@@ -434,6 +434,12 @@
   border-radius: 8px;
 }
 
+/* Let the lead paragraph wrap beside the featured image, then ensure
+   calculators and later article sections start below the floated image. */
+.book-page article :is(h2, h3, h4, .ps-calculator) {
+  clear: both;
+}
+
 
 /* =========================================================
    5. ARTICLE IMAGES — MOBILE

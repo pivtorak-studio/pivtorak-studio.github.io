@@ -142,7 +142,7 @@ image: /images/calculators-jewelry-calculators-gemstone-dimensions-and-geometry.
 }
 </script>
 
-# Розміри та геометрія дорогоцінного каміння
+# Розміри та Геометрія Дорогоцінного Каміння
 
 ![_Калькулятори. Ювелірні калькулятори. Розміри та геометрія дорогоцінного каміння. AP | Pivtorak.Studio. 22.10.2026_ © Анна Півторак (Костюк)](/images/calculators-jewelry-calculators-gemstone-dimensions-and-geometry.webp)
 

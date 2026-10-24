@@ -142,7 +142,7 @@ image: /images/calculators-jewelry-calculators-gemstone-dimensions-and-geometry.
 }
 </script>
 
-# Размеры и геометрия драгоценных камней
+# Размеры и Геометрия Драгоценных Камней
 
 ![_Калькуляторы. Ювелирные калькуляторы. Размеры и геометрия драгоценных камней. AP | Pivtorak.Studio. 22.10.2026_ © Анна Пивторак (Костюк)](/images/calculators-jewelry-calculators-gemstone-dimensions-and-geometry.webp)
 

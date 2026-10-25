@@ -35,7 +35,7 @@ series_index: 2
 country: PT
 status: published
 featured: true
-image: /images/site-completion-matrix.webp
+image: /images/the-movement-matrix-site-completion-matrix.webp
 alt: Um painel estruturado que visualiza o estado de conclusão de artigos, metadados, processos de publicação e indexação num arquivo multilingue de conhecimento.
 related:
   - /pt/docs/the-movement-matrix/
@@ -66,7 +66,7 @@ layout: matrix
   "inLanguage": "pt-PT",
   "datePublished": "2026-06-06T12:00:00+00:00",
   "dateModified": "2026-06-06T12:00:00+00:00",
-  "image": "https://pivtorak.studio/images/site-completion-matrix.webp",
+  "image": "https://pivtorak.studio/images/the-movement-matrix-site-completion-matrix.webp",
   "author": {"@id": "https://pivtorak.studio/en/#person"},
   "publisher": {{< schema-organization-reference >}},
   "isPartOf": {

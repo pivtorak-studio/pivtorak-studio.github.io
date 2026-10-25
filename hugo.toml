@@ -33,10 +33,10 @@ enableRobotsTXT = true
   priority = 0.7
   filename = "sitemap.xml"
 
-  [languages.ru]
-    label = 'RU'
-    contentDir = 'content/ru'
-    weight = 4
+  #[languages.ru]
+  #  label = 'RU'
+  #  contentDir = 'content/ru'
+  #  weight = 4
 
   [markup.goldmark.renderer]
   unsafe = true

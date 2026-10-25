@@ -33,7 +33,7 @@ enableRobotsTXT = true
   priority = 0.7
   filename = "sitemap.xml"
 
-  #[languages.ru]
+  # [languages.ru]
   #  label = 'RU'
   #  contentDir = 'content/ru'
   #  weight = 4

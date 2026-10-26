@@ -148,6 +148,10 @@ search: true
 
 ![*Pivtorak.Studio — Website Oficial. AP | Pivtorak.Studio. 19.07.2023* © Anna Pivtorak (Kostyuk)](/images/pivtorak-studio-official-website.webp)
 
+O Studio aborda cada trabalho como parte de uma rede mais ampla de ideias, relações e decisões documentadas. Em vez de considerar as criações como resultados isolados, analisa a forma como se relacionam com estruturas conceptuais mais abrangentes, como os seus contextos evoluem e como o seu significado pode mudar ao longo do tempo.
+
+A documentação é parte integrante deste processo. Preserva a relação entre cada trabalho e as circunstâncias da sua criação, permitindo acompanhar o seu desenvolvimento, distinguir a informação estabelecida das interpretações posteriores e manter um registo coerente para futuras investigações.
+
 ## Uma Prática Independente de Investigação e Criação Conceptual
 
 A Pivtorak.Studio é uma prática independente de investigação e criação conceptual, fundada por Anna Pivtorak em 2023. Reúne objetos materiais, obras visuais, investigação escrita e estruturas analíticas num ambiente intelectual documentado e em permanente evolução.

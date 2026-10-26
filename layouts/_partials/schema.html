@@ -33,6 +33,6 @@
   "inLanguage" (slice "uk" "en" "pt")
   "publisher" (dict "@id" $organization.id)
 -}}
-{{- if and .IsHome (eq .Lang "en") -}}
+{{- if .IsHome -}}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" (slice $person $org $website) | jsonify | safeJS }}</script>
 {{- end -}}

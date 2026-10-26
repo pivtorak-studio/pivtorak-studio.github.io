@@ -3,41 +3,79 @@ id: anna-pivtorak
 language: uk
 translation_of: anna-pivtorak
 translationKey: anna-pivtorak
-title: "∴ 0.01 | Pivtorak.Studio — Офіційний Вебсайт | Анна Півторак (Костюк)"
-description: "Офіційний сайт Pivtorak.Studio, створений Анною Півторак (Костюк), представляє концептуальну систему формування довгострокових структур цінності."
-summary: "Pivtorak.Studio — офіційний сайт Анни Півторак (Костюк), що об’єднує її творчу практику, дослідження, концептуальні системи та довгострокові проєкти."
+title: ∴ 0.01 — Концептуальна основа
+description: Офіційний сайт Pivtorak.Studio, створений Анною Півторак (Костюк), представляє концептуальну систему формування довгострокових структур цінності.
+summary: Pivtorak.Studio — офіційний сайт Анни Півторак (Костюк), що об’єднує її творчу практику, дослідження, концептуальні системи та довгострокові проєкти.
 date: 2023-07-19T06:00:00+01:00
 event_date: 2023-07-19T06:00:00+01:00
 publication_date: 2023-07-19T06:00:00+01:00
 lastmod: 2026-10-26T15:00:00+01:00
 event_type: concept
-tags: [Anna Pivtorak, Анна Півторак, Анна Пивторак, Anna Kostyuk, Анна Костюк, Anna Pivtorak Kostyuk, Анна Півторак Костюк, Анна Пивторак Костюк, Pivtorak Studio, Півторак Студія, Пивторак Студия]
+tags:
+  - Anna Pivtorak
+  - Анна Півторак
+  - Анна Пивторак
+  - Anna Kostyuk
+  - Анна Костюк
+  - Anna Pivtorak Kostyuk
+  - Анна Півторак Костюк
+  - Анна Пивторак Костюк
+  - Pivtorak Studio
+  - Півторак Студія
+  - Пивторак Студия
 draft: false
-canonical: "https://pivtorak.studio/uk/"
+canonical: https://pivtorak.studio/uk/
 toc: true
 status: published
 completion: 100
 research_origin: Pivtorak.Studio
 featured: true
 image: /images/anna-pivtorak-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp
-alt: "Pivtorak.Studio. Концептуальна система формування довгострокових структур цінності"
-related: [/uk/docs/, /uk/docs/the-movement-matrix/site-completion-matrix/, /uk/archive/]
-authors: [Anna Pivtorak]
+alt: Pivtorak.Studio. Концептуальна система формування довгострокових структур цінності
+related:
+  - /uk/docs/
+  - /uk/docs/the-movement-matrix/site-completion-matrix/
+  - /uk/archive/
+authors:
+  - Anna Pivtorak
 timeline: true
 archive: true
 visual_archive: true
 weight: 1
-keywords: [Pivtorak.Studio, Анна Півторак, Анна Костюк, концептуальна система, довгострокові структури цінності, творча практика, дослідження]
-categories: [Pivtorak.Studio]
+keywords:
+  - Pivtorak.Studio
+  - Анна Півторак
+  - Анна Костюк
+  - концептуальна система
+  - довгострокові структури цінності
+  - творча практика
+  - дослідження
+categories:
+  - Pivtorak.Studio
 country: []
 knowledge_type: концепція
 core_domain: Pivtorak.Studio
-disciplines: [творча практика, концептуальні дослідження, культурологія]
+disciplines:
+  - творча практика
+  - концептуальні дослідження
+  - культурологія
 primary_discipline: концептуальні дослідження
-secondary_disciplines: [творча практика, культурологія]
-interdisciplinary_links: [мистецтво, дослідження, культурна спадщина, системне мислення]
-analysis_methods: [концептуальний аналіз, міждисциплінарний синтез]
-analytical_dimensions: [ідентичність, авторство, творча практика, довгострокова цінність]
+secondary_disciplines:
+  - творча практика
+  - культурологія
+interdisciplinary_links:
+  - мистецтво
+  - дослідження
+  - культурна спадщина
+  - системне мислення
+analysis_methods:
+  - концептуальний аналіз
+  - міждисциплінарний синтез
+analytical_dimensions:
+  - ідентичність
+  - авторство
+  - творча практика
+  - довгострокова цінність
 search_intent: інформаційний
 article_type: офіційний вебсайт
 primary_topic: Pivtorak.Studio
@@ -54,7 +92,7 @@ search: true
   "@type": "WebPage",
   "@id": "https://pivtorak.studio/uk/#webpage",
   "url": "https://pivtorak.studio/uk/",
-  "name": "∴ 0.01 | Pivtorak.Studio — Офіційний Вебсайт | Анна Півторак (Костюк)",
+  "name": "∴ 0.01 — Концептуальна основа",
   "description": "Офіційний сайт Pivtorak.Studio, створений Анною Півторак (Костюк), представляє концептуальну систему формування довгострокових структур цінності.",
   "inLanguage": "uk",
   "datePublished": "2023-07-19",
@@ -78,7 +116,7 @@ search: true
 }
 </script>
 
-**∴ 0.01 | Pivtorak.Studio — Офіційний Вебсайт | Анна Півторак (Костюк)**  
+**∴ 0.01 — Концептуальна основа**  
 
 # Концептуальна Система Формування Довгострокових Структур Цінності
 
@@ -147,7 +185,7 @@ Pivtorak.Studio — незалежна концептуальна та досл�
 Профіль: 
 <a href="https://pivtorak.studio/uk/docs/about/">Анна Півторак (Костюк)</a>   
 
-Офіційний Вебсайт: <a href="https://pivtorak.studio/uk/docs/">pivtorak.studio</a>    
+Огляд Студії: <a href="https://pivtorak.studio/uk/docs/">pivtorak.studio</a>    
 
 📧 research@pivtorak.studio
 

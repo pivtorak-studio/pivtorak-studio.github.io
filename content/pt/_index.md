@@ -3,41 +3,79 @@ id: anna-pivtorak
 language: pt
 translation_of: anna-pivtorak
 translationKey: anna-pivtorak
-title: "∴ 0.01 | Pivtorak.Studio — Site Oficial | Anna Pivtorak (Kostyuk)"
-description: "O site oficial da Pivtorak.Studio, criado por Anna Pivtorak (Kostyuk), apresenta um sistema conceptual para a formação de estruturas de valor a longo prazo."
-summary: "A Pivtorak.Studio é o site oficial de Anna Pivtorak (Kostyuk), reunindo a sua prática criativa, investigação, sistemas conceptuais e projetos de longo prazo."
+title: ∴ 0.01 — Fundamentos Conceptuais
+description: O site oficial da Pivtorak.Studio, criado por Anna Pivtorak (Kostyuk), apresenta um sistema conceptual para a formação de estruturas de valor a longo prazo.
+summary: A Pivtorak.Studio é o site oficial de Anna Pivtorak (Kostyuk), reunindo a sua prática criativa, investigação, sistemas conceptuais e projetos de longo prazo.
 date: 2023-07-19T06:00:00+01:00
 event_date: 2023-07-19T06:00:00+01:00
 publication_date: 2023-07-19T06:00:00+01:00
 lastmod: 2026-10-26T15:00:00+01:00
 event_type: concept
-tags: [Anna Pivtorak, Анна Півторак, Анна Пивторак, Anna Kostyuk, Анна Костюк, Anna Pivtorak Kostyuk, Анна Півторак Костюк, Анна Пивторак Костюк, Pivtorak Studio, Півторак Студія, Пивторак Студия]
+tags:
+  - Anna Pivtorak
+  - Анна Півторак
+  - Анна Пивторак
+  - Anna Kostyuk
+  - Анна Костюк
+  - Anna Pivtorak Kostyuk
+  - Анна Півторак Костюк
+  - Анна Пивторак Костюк
+  - Pivtorak Studio
+  - Півторак Студія
+  - Пивторак Студия
 draft: false
-canonical: "https://pivtorak.studio/pt/"
+canonical: https://pivtorak.studio/pt/
 toc: true
 status: published
 completion: 100
 research_origin: Pivtorak.Studio
 featured: true
 image: /images/anna-pivtorak-a-conceptual-system-for-the-formation-of-long-term-value-structures.webp
-alt: "Pivtorak.Studio. Um sistema conceptual para a formação de estruturas de valor a longo prazo"
-related: [/pt/docs/, /pt/docs/the-movement-matrix/site-completion-matrix/, /pt/archive/]
-authors: [Anna Pivtorak]
+alt: Pivtorak.Studio. Um sistema conceptual para a formação de estruturas de valor a longo prazo
+related:
+  - /pt/docs/
+  - /pt/docs/the-movement-matrix/site-completion-matrix/
+  - /pt/archive/
+authors:
+  - Anna Pivtorak
 timeline: true
 archive: true
 visual_archive: true
 weight: 1
-keywords: [Pivtorak.Studio, Anna Pivtorak, Anna Kostyuk, sistema conceptual, estruturas de valor a longo prazo, prática criativa, investigação]
-categories: [Pivtorak.Studio]
+keywords:
+  - Pivtorak.Studio
+  - Anna Pivtorak
+  - Anna Kostyuk
+  - sistema conceptual
+  - estruturas de valor a longo prazo
+  - prática criativa
+  - investigação
+categories:
+  - Pivtorak.Studio
 country: []
 knowledge_type: conceito
 core_domain: Pivtorak.Studio
-disciplines: [prática criativa, investigação conceptual, estudos culturais]
+disciplines:
+  - prática criativa
+  - investigação conceptual
+  - estudos culturais
 primary_discipline: investigação conceptual
-secondary_disciplines: [prática criativa, estudos culturais]
-interdisciplinary_links: [arte, investigação, património cultural, pensamento sistémico]
-analysis_methods: [análise conceptual, síntese interdisciplinar]
-analytical_dimensions: [identidade, autoria, prática criativa, valor a longo prazo]
+secondary_disciplines:
+  - prática criativa
+  - estudos culturais
+interdisciplinary_links:
+  - arte
+  - investigação
+  - património cultural
+  - pensamento sistémico
+analysis_methods:
+  - análise conceptual
+  - síntese interdisciplinar
+analytical_dimensions:
+  - identidade
+  - autoria
+  - prática criativa
+  - valor a longo prazo
 search_intent: informacional
 article_type: site oficial
 primary_topic: Pivtorak.Studio
@@ -54,7 +92,7 @@ search: true
   "@type": "WebPage",
   "@id": "https://pivtorak.studio/pt/#webpage",
   "url": "https://pivtorak.studio/pt/",
-  "name": "∴ 0.01 | Pivtorak.Studio — Site Oficial | Anna Pivtorak (Kostyuk)",
+  "name": "∴ 0.01 — Fundamentos Conceptuais",
   "description": "O site oficial da Pivtorak.Studio, criado por Anna Pivtorak (Kostyuk), apresenta um sistema conceptual para a formação de estruturas de valor a longo prazo.",
   "inLanguage": "pt",
   "datePublished": "2023-07-19",
@@ -78,7 +116,7 @@ search: true
 }
 </script>
 
-**∴ 0.01 | Pivtorak.Studio — Site Oficial | Anna Pivtorak (Kostyuk)**
+**∴ 0.01 — Fundamentos Conceptuais**
 
 # Um Sistema Conceptual Para A Formação De Estruturas De Valor A Longo Prazo  
 
@@ -146,7 +184,7 @@ Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, �
 Perfil: 
 <a href="https://pivtorak.studio/pt/docs/about/">Anna Pivtorak (Kostyuk)</a>   
 
-Site Oficial: <a href="https://pivtorak.studio/pt/docs/">pivtorak.studio</a>    
+Apresentação do Studio: <a href="https://pivtorak.studio/pt/docs/">pivtorak.studio</a>    
 
 📧 research@pivtorak.studio
 

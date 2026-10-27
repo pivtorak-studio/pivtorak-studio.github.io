@@ -19,10 +19,10 @@ enableRobotsTXT = true
     languageName = 'PT'
     contentDir = 'content/pt'
     weight = 3
-  [languages.ru]
-    label = 'RU'
-    contentDir = 'content/ru'
-    weight = 4
+  # [languages.ru]
+    # label = 'RU'
+    # contentDir = 'content/ru'
+    # weight = 4
 
 [params]
   BookFavicon = "images/favicon.svg"

@@ -5,6 +5,8 @@ keywords: ["Anna Pivtorak", "Anna Kostyuk", "идентичность", "эво�
 bookCollapseSection: true
 weight: 65
 
+image: /images/anna-pivtorak-kostyuk-identity-and-evolution.webp
+alt: "Портрет Анны Пивторак (Костюк), исследовательницы и основательницы Pivtorak.Studio."
 images: ["/images/anna-pivtorak-kostyuk-identity-and-evolution.webp"]
 ---
 

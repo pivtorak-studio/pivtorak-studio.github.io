@@ -13,6 +13,7 @@ bookCollapseSection: true
 weight: 111
 image:
   - /images/anna-pivtorak-kostyuk-identity-and-evolution.webp
+alt: "Portrait of Anna Pivtorak (Kostyuk), researcher and founder of Pivtorak.Studio."
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/en/docs/anna-pivtorak-kostyuk-identity-and-evolution/">

@@ -14,6 +14,7 @@ bookCollapseSection: true
 weight: 65
 image:
   - /images/anna-pivtorak-kostyuk-identity-and-evolution.webp
+alt: "Портрет Анни Півторак (Костюк), дослідниці та засновниці Pivtorak.Studio."
 ---
 
 <link rel="canonical" href="https://pivtorak.studio/docs/anna-pivtorak-kostyuk-identity-and-evolution/">

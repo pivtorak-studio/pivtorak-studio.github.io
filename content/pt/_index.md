@@ -184,7 +184,7 @@ Anna Pivtorak (Анна Півторак, Анна Костюк, Anna Kostyuk, �
 Perfil: 
 <a href="https://pivtorak.studio/pt/docs/about/">Anna Pivtorak (Kostyuk)</a>   
 
-Apresentação do Studio: <a href="https://pivtorak.studio/pt/docs/">pivtorak.studio</a>    
+Apresentação do Studio: <a href="/pt/docs/">pivtorak.studio</a>    
 
 📧 research@pivtorak.studio
 

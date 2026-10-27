@@ -81,7 +81,7 @@ show_in_series_projects: true
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://pivtorak.studio/images/living-topography-series.webp",
+    "url": "https://pivtorak.studio/images/living-topography.webp",
     "caption": "Темна топографічна поверхня з плавними шляхами, слідами, вузлами та зв'язками, що представляють Living Topography"
   },
   "author": {"@id": "https://pivtorak.studio/en/#person"},

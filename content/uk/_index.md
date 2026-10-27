@@ -185,7 +185,7 @@ Pivtorak.Studio — незалежна концептуальна та досл�
 Профіль: 
 <a href="https://pivtorak.studio/uk/docs/about/">Анна Півторак (Костюк)</a>   
 
-Огляд Студії: <a href="https://pivtorak.studio/uk/docs/">pivtorak.studio</a>    
+Огляд Студії: <a href="/uk/docs/">pivtorak.studio</a>   
 
 📧 research@pivtorak.studio
 

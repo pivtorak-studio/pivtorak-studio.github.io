@@ -20,7 +20,7 @@ keywords:
   - движение
   - межкультурный диалог
   - творческая практика
-image: /images/living-topography-series.webp
+image: /images/living-topography.webp
 alt: Тёмная топографическая поверхность с плавными путями, следами, узлами и связями, представляющими Living Topography
 related:
   - /ru/archive/
@@ -80,7 +80,7 @@ show_in_series_projects: true
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://pivtorak.studio/images/living-topography-series.webp",
+    "url": "https://pivtorak.studio/images/living-topography.webp",
     "caption": "Тёмная топографическая поверхность с плавными путями, следами, узлами и связями, представляющими Living Topography"
   },
   "author": {"@id": "https://pivtorak.studio/en/#person"},

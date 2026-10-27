@@ -81,7 +81,7 @@ show_in_series_projects: true
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://pivtorak.studio/images/living-topography-series.webp",
+    "url": "https://pivtorak.studio/images/living-topography.webp",
     "caption": "Superfície topográfica escura com caminhos, traços, nós e ligações fluidas, representando Living Topography"
   },
   "author": {"@id": "https://pivtorak.studio/en/#person"},

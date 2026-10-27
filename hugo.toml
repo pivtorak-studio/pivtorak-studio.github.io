@@ -19,6 +19,10 @@ enableRobotsTXT = true
     languageName = 'PT'
     contentDir = 'content/pt'
     weight = 3
+  [languages.ru]
+    label = 'RU'
+    contentDir = 'content/ru'
+    weight = 4
 
 [params]
   BookFavicon = "images/favicon.svg"
@@ -32,11 +36,6 @@ enableRobotsTXT = true
   changefreq = "weekly"
   priority = 0.7
   filename = "sitemap.xml"
-
-  # [languages.ru]
-  #  label = 'RU'
-  #  contentDir = 'content/ru'
-  #  weight = 4
 
   [markup.goldmark.renderer]
   unsafe = true

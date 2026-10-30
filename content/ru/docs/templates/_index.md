@@ -79,3 +79,6 @@ show_in_series_tools: true
 
 _Шаблоны. AP | Pivtorak.Studio. 07.07.2026_    
 © Анна Пивторак (Костюк)   
+
+---
+{{< section >}}

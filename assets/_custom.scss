@@ -245,14 +245,16 @@
   grid-template-columns: minmax(0, 1fr);
 }
 
-.studio-overview-list {
+.studio-overview-list,
+.hierarchical-page-list {
   clear: both;
   display: grid;
   gap: 1.25rem;
   min-width: 0;
 }
 
-.studio-overview-item {
+.studio-overview-item,
+.hierarchical-page-list__item {
   display: grid;
   grid-template-columns: 8rem minmax(0, 1fr);
   align-items: start;
@@ -261,12 +263,13 @@
 }
 
 /* Match the specificity of the global article-image rules, including mobile. */
-.book-page article .studio-overview-item__thumbnail {
+.book-page article .studio-overview-item__thumbnail,
+.book-page article .hierarchical-page-list__thumbnail {
   display: block;
   width: 8rem !important;
   min-width: 8rem !important;
   max-width: 8rem !important;
-  height: auto !important;
+  height: 8rem !important;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border: 1px solid var(--gray-200);
@@ -277,12 +280,14 @@
   justify-self: start;
 }
 
-.studio-overview-item__text {
+.studio-overview-item__text,
+.hierarchical-page-list__text {
   min-width: 0;
   overflow-wrap: anywhere;
 }
 
-.book-page article .studio-overview-item__text > h2 {
+.book-page article .studio-overview-item__text > h2,
+.book-page article .hierarchical-page-list__text > h2 {
   clear: none;
   margin-top: 0;
 }
@@ -291,23 +296,69 @@
   margin-bottom: 0.25rem;
 }
 
-.studio-overview-item--text-only {
+.hierarchical-page-list__description {
+  margin-bottom: 0.25rem;
+}
+
+/* Compact numbered Series Map rows use the dedicated 40px thumbnail variant. */
+.series-map ul {
+  display: grid;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.series-map__item {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  min-width: 0;
+}
+
+.book-page article .series-map__thumbnail {
+  display: block;
+  flex: 0 0 40px;
+  width: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+  height: 40px !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 1px solid var(--gray-200);
+  border-radius: 3px;
+  box-sizing: border-box;
+  float: none !important;
+  margin: 0 !important;
+}
+
+.series-map__item > a {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.studio-overview-item--text-only,
+.hierarchical-page-list__item--text-only {
   grid-template-columns: minmax(0, 1fr);
 }
 
 @media screen and (max-width: 40rem) {
-  .studio-overview-item {
+  .studio-overview-item,
+  .hierarchical-page-list__item {
     grid-template-columns: 5rem minmax(0, 1fr);
     gap: 0.75rem;
   }
 
-  .book-page article .studio-overview-item__thumbnail {
+  .book-page article .studio-overview-item__thumbnail,
+  .book-page article .hierarchical-page-list__thumbnail {
     width: 5rem !important;
     min-width: 5rem !important;
     max-width: 5rem !important;
+    height: 5rem !important;
   }
 
-  .studio-overview-item--text-only {
+  .studio-overview-item--text-only,
+  .hierarchical-page-list__item--text-only {
     grid-template-columns: minmax(0, 1fr);
   }
 }

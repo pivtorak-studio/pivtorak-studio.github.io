@@ -67,7 +67,31 @@ Layout:
 
 Use CSS Grid or Flexbox for the image/text relationship. Preserve existing selection, sorting, metadata, summaries and navigation.
 
-### B. Timeline — Visual Archive
+### B. Universal Hierarchical Child-Page Lists
+
+Applies at every depth when a page displays its immediate children through `{{< section >}}`. The site-local override is `layouts/_shortcodes/section.html`; each nested page renders its own children on its own page. Lists remain hierarchical and are never flattened.
+
+Layout:
+
+- Read `image` and `alt` from each child page.
+- Render the linked title, then a short explanation from `description`, falling back to `summary`.
+- Flag a child for editorial description when both fields are missing; do not insert placeholder copy.
+- Place the thumbnail on the left and child-page information on the right, aligned at the top.
+- Use the same responsive size, square crop, border, radius and row spacing as landing-page lists.
+- Keep text-only rows when a child has no image.
+
+The shared styling is scoped to `.hierarchical-page-list`. This is independent of sidebar collapse behavior, Series Map navigation, and the section's own cover or article images.
+
+### C. Series Map
+
+Template: `layouts/_partials/series-navigation.html`; scoped styles use `.series-map__item` and `.series-map__thumbnail` in `assets/_custom.scss`.
+
+- Use a 40 × 40px square thumbnail with `object-fit: cover`, a 1px gray border and 3px corner radius.
+- Place it left of the existing numbered title link and vertically center the title.
+- Read `image` and `alt` from the listed page. If its image is missing, keep the numbered link.
+- Show no description, summary or metadata; keep row spacing consistent on desktop and mobile.
+
+### D. Timeline — Visual Archive
 
 Template: `layouts/shortcodes/visual-archive.html`
 
@@ -89,7 +113,7 @@ Layout:
 
 Timeline has its own composition, but follows the same square format, border and corner-radius standard.
 
-### C. Site Completion Matrix
+### E. Site Completion Matrix
 
 Template: `layouts/shortcodes/site-completion-matrix.html`
 
@@ -165,12 +189,14 @@ Before publishing changes:
 
 ## 7. Reference Files
 
-|Component|Implementation|
-|---|---|
-|Landing-page lists|`layouts/_partials/series-*-list.html`|
-|Categories and tags|`layouts/term.html`|
-|Shared site-local styling|`assets/_custom.scss`|
-|Timeline — Visual Archive|`layouts/shortcodes/visual-archive.html`|
-|Site Completion Matrix|`layouts/shortcodes/site-completion-matrix.html`; scoped styles in `assets/_custom.scss`|
+| Component                     | Implementation                                                                           |
+| ----------------------------- | ---------------------------------------------------------------------------------------- |
+| Landing-page lists            | `layouts/_partials/series-*-list.html`                                                   |
+| Categories and tags           | `layouts/term.html`                                                                      |
+| Shared site-local styling     | `assets/_custom.scss`                                                                    |
+| Timeline — Visual Archive     | `layouts/shortcodes/visual-archive.html`                                                 |
+| Site Completion Matrix        | `layouts/shortcodes/site-completion-matrix.html`; scoped styles in `assets/_custom.scss` |
+| Hierarchical Child-Page Lists | `layouts/_shortcodes/section.html`                                                       |
+| Series Map                    | `layouts/_partials/series-navigation.html`                                               |
 
-**Core principle:** one thumbnail standard, multiple layout compositions. Reuse the established styling and preserve each component's existing structure.
+**Core principle:** one thumbnail standard, multiple layout compositions. Reuse the established styling, render only immediate children at each level, and preserve each component's existing hierarchy and selection logic.

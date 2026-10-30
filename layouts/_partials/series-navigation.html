@@ -37,7 +37,13 @@
 
       <ul>
         {{ range sort $pages "Params.series_index" }}
-          <li{{ if eq .RelPermalink $.RelPermalink }} class="current"{{ end }}>
+          {{- $page := . -}}
+          <li class="series-map__item{{ if eq .RelPermalink $.RelPermalink }} current{{ end }}">
+            {{ with .Params.image }}
+              {{ $image := . }}
+              {{ if reflect.IsSlice $image }}{{ $image = index $image 0 }}{{ end }}
+              <img class="series-map__thumbnail" src="{{ $image | safeURL }}" alt="{{ $page.Params.alt | default "" }}" loading="lazy" decoding="async">
+            {{ end }}
             <a href="{{ .RelPermalink }}">
               {{ printf "%03d" .Params.series_index }}. {{ .LinkTitle }}
             </a>

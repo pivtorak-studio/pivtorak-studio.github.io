@@ -3,9 +3,9 @@ id: jewelry-templates
 language: pt
 translation_of: jewelry-templates
 translationKey: jewelry-templates
-title: Modelos para Joalharia
-description: Modelos práticos para design de joalharia, documentação técnica, produção e trabalho em oficina.
-summary: Uma coleção em crescimento de recursos profissionais para apoiar o design, a produção, a documentação e o controlo de qualidade em joalharia.
+title: Modelos para Ourivesaria
+description: Modelos práticos para design de Ourivesaria, documentação técnica, produção e trabalho em oficina.
+summary: Uma coleção em crescimento de recursos profissionais para apoiar o design, a produção, a documentação e o controlo de qualidade em Ourivesaria.
 date: 2026-10-30T09:00:00+01:00
 event_date: 2026-10-30T09:00:00+01:00
 publication_date: 2026-10-30T09:00:00+01:00
@@ -23,7 +23,7 @@ weight: 3
 research_origin: Pivtorak.Studio
 featured: true
 image: /images/templates-jewelry-templates.webp
-alt: "Espaço de trabalho de design de joalharia com um anel, gemas, esboços técnicos e ferramentas de desenho sobre uma superfície em tom marfim."
+alt: "Espaço de trabalho de design de Ourivesaria com um anel, gemas, esboços técnicos e ferramentas de desenho sobre uma superfície em tom marfim."
 related: [/pt/docs/templates/, /pt/tools/, /pt/docs/timeline/, /pt/docs/the-movement-matrix/site-completion-matrix/]
 authors: [Anna Pivtorak]
 license: CC BY-NC-ND 4.0
@@ -44,8 +44,8 @@ bookCollapseSection: true
   "@type": "CollectionPage",
   "@id": "https://pivtorak.studio/pt/docs/templates/jewelry-templates/#webpage",
   "url": "https://pivtorak.studio/pt/docs/templates/jewelry-templates/",
-  "name": "Modelos para Joalharia",
-  "description": "Modelos práticos para design de joalharia, documentação técnica, produção e trabalho em oficina.",
+  "name": "Modelos para Ourivesaria",
+  "description": "Modelos práticos para design de Ourivesaria, documentação técnica, produção e trabalho em oficina.",
   "inLanguage": "pt-PT",
   "isPartOf": {
     "@type": "WebSite",
@@ -53,12 +53,12 @@ bookCollapseSection: true
   },
   "about": {
     "@type": "Thing",
-    "name": "Design e documentação de produção de joalharia"
+    "name": "Design e documentação de produção de Ourivesaria"
   },
   "mainEntity": {
     "@type": "ItemList",
-    "name": "Coleção de Modelos para Joalharia",
-    "description": "Recursos profissionais para design, produção, documentação e trabalho em oficina de joalharia.",
+    "name": "Coleção de Modelos para Ourivesaria",
+    "description": "Recursos profissionais para design, produção, documentação e trabalho em oficina de Ourivesaria.",
     "numberOfItems": 6,
     "itemListElement": [
       {
@@ -69,7 +69,7 @@ bookCollapseSection: true
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Modelos de Design de Joalharia"
+        "name": "Modelos de Design de Ourivesaria"
       },
       {
         "@type": "ListItem",
@@ -96,15 +96,15 @@ bookCollapseSection: true
 }
 </script>
 
-# Modelos para Joalharia
+# Modelos para Ourivesaria
 
-![_Modelos. Modelos para Joalharia. AP | Pivtorak.Studio. 30.10.2026_ © Anna Pivtorak (Kostyuk)](/images/templates-jewelry-templates.webp)
+![_Modelos. Modelos para Ourivesaria. AP | Pivtorak.Studio. 30.10.2026_ © Anna Pivtorak (Kostyuk)](/images/templates-jewelry-templates.webp)
 
-O trabalho em joalharia reúne criatividade, conhecimento dos materiais, medições rigorosas e competências práticas. Uma documentação clara ajuda a articular estes elementos ao longo de todo o processo — desde a primeira ideia de design até à peça finalizada. Materiais de trabalho bem estruturados facilitam o registo, a consulta, a partilha e a utilização da informação.
+O trabalho em Ourivesaria reúne criatividade, conhecimento dos materiais, medições rigorosas e competências práticas. Uma documentação clara ajuda a articular estes elementos ao longo de todo o processo — desde a primeira ideia de design até à peça finalizada. Materiais de trabalho bem estruturados facilitam o registo, a consulta, a partilha e a utilização da informação.
 
 Esta coleção disponibiliza recursos para diferentes áreas do design, da produção e da prática em oficina. Cada recurso é desenvolvido com atenção à clareza, à facilidade de utilização e às necessidades do trabalho profissional quotidiano. A coleção continuará a crescer à medida que novos materiais forem preparados e revistos.
 
-## Recursos Práticos para o Trabalho em Joalharia
+## Recursos Práticos para o Trabalho em Ourivesaria
 
 Uma boa documentação contribui para a precisão, a consistência e uma comunicação eficaz. Materiais de trabalho estruturados ajudam a organizar a informação, estabelecer referências claras e simplificar as tarefas do dia a dia.
 
@@ -112,12 +112,12 @@ Estes recursos destinam-se tanto à utilização em contextos profissionais como
 
 ## Uma Coleção em Crescimento
 
-A prática da joalharia evolui, tal como as ferramentas que a apoiam. Esta coleção será alargada com novos recursos, concebidos para responder a necessidades práticas e apoiar diferentes etapas do trabalho em joalharia.
+A prática da Ourivesaria evolui, tal como as ferramentas que a apoiam. Esta coleção será alargada com novos recursos, concebidos para responder a necessidades práticas e apoiar diferentes etapas do trabalho em Ourivesaria.
 
 **Alt-text:**   
-Espaço de trabalho de design de joalharia com um anel, gemas, esboços técnicos e ferramentas de desenho sobre uma superfície em tom marfim.
+Espaço de trabalho de design de Ourivesaria com um anel, gemas, esboços técnicos e ferramentas de desenho sobre uma superfície em tom marfim.
 
-_Modelos. Modelos para Joalharia. AP | Pivtorak.Studio. 30.10.2026_ 
+_Modelos. Modelos para Ourivesaria. AP | Pivtorak.Studio. 30.10.2026_ 
 © Anna Pivtorak (Kostyuk)
 
 ---

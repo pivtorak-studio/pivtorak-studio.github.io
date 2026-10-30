@@ -215,6 +215,8 @@ Os modelos de fabrico e produção destinam-se a organizar e documentar o proces
 
 Estes modelos constituem uma referência didática simplificada para compreender a estrutura e a utilização da documentação de produção em contexto de oficina.
 
+Cada modelo aborda um aspeto específico do processo de fabrico. Em conjunto, ilustram como a informação de produção é registada, organizada e transmitida entre diferentes etapas, ajudando os estudantes a compreender a estrutura e a finalidade dos documentos habitualmente utilizados no fabrico de joalharia.
+
 <div style="border: 1px solid #f2c94c; background-color: #fff8e1; padding: 16px; border-radius: 10px; margin: 20px 0;">  
 <p style="margin: 0 0 10px 0; font-weight: 600;">🚧 Página em Desenvolvimento</p>  
 <p style="margin: 0;">Esta página encontra-se em desenvolvimento. Os modelos de fabrico e produção serão disponibilizados à medida que forem preparados e revistos.</p>  

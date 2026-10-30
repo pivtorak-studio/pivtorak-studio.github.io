@@ -215,6 +215,8 @@ Manufacturing and production templates are designed to organize and document the
 
 These templates provide a simplified educational reference for understanding how jewelry production documentation is structured and used in workshop environments.
 
+Each template focuses on a specific aspect of the manufacturing process. Together, they illustrate how production information is recorded, organized, and transferred between different stages, helping students understand the structure and purpose of common jewelry production documents.
+
 <div style="border: 1px solid #f2c94c; background-color: #fff8e1; padding: 16px; border-radius: 10px; margin: 20px 0;">  
 <p style="margin: 0 0 10px 0; font-weight: 600;">🚧 Page Under Development</p>  
 <p style="margin: 0;">This page is currently being developed. Manufacturing and production templates will be added as they are prepared and reviewed.</p>  

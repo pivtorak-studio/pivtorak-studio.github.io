@@ -117,7 +117,7 @@ A prática da Ourivesaria evolui, tal como as ferramentas que a apoiam. Esta col
 **Alt-text:**   
 Espaço de trabalho de design de Ourivesaria com um anel, gemas, esboços técnicos e ferramentas de desenho sobre uma superfície em tom marfim.
 
-_Modelos. Modelos para Ourivesaria. AP | Pivtorak.Studio. 30.10.2026_ 
+_Modelos. Modelos para Ourivesaria. AP | Pivtorak.Studio. 30.10.2026_    
 © Anna Pivtorak (Kostyuk)
 
 ---

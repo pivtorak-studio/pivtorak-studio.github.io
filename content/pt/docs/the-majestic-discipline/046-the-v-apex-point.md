@@ -170,14 +170,12 @@ Daqui emerge um princípio estratégico poderoso: liderar não significa ocupar 
 
 Um líder não precisa de controlar todos os movimentos que acontecem atrás de si. Precisa de estabelecer uma direção suficientemente clara para que os outros possam coordenar os seus próprios movimentos.
 
-## Núcleo Semântico
-
-- Formação em V e geometria aerodinâmica  
-- Resistência inicial e liderança direcional  
-- Corrente ascendente e eficiência energética coletiva  
-- Responsabilidade partilhada e movimento coordenado  
-- Liderança distribuída e cooperação recíproca  
-- Sinergia sistémica e resiliência coletiva  
+- **Formação em V e geometria aerodinâmica**  
+- **Resistência inicial e liderança direcional**  
+- **Corrente ascendente e eficiência energética coletiva**  
+- **Responsabilidade partilhada e movimento coordenado**  
+- **Liderança distribuída e cooperação recíproca**  
+- **Sinergia sistémica e resiliência coletiva**  
 
 ## Estado Interior
 

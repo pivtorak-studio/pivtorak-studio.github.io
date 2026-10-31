@@ -169,14 +169,12 @@ This offers a powerful strategic principle: leadership is not the permanent owne
 
 A leader does not need to control every movement behind them. They need to establish a direction clear enough for others to coordinate their own movement.
 
-## Semantic Core
-
-- V-shaped formation and aerodynamic geometry  
-- Initial resistance and directional leadership  
-- Upwash and collective energy efficiency  
-- Shared responsibility and coordinated movement  
-- Distributed leadership and reciprocal cooperation  
-- Systemic synergy and collective resilience  
+- **V-shaped formation and aerodynamic geometry**  
+- **Initial resistance and directional leadership**  
+- **Upwash and collective energy efficiency**  
+- **Shared responsibility and coordinated movement**  
+- **Distributed leadership and reciprocal cooperation**  
+- **Systemic synergy and collective resilience**  
 
 ## Inner State
 

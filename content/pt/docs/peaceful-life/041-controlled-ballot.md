@@ -94,7 +94,7 @@ search: indexed
 
 # 🗳️🕊️🚫 Boletim de Voto Controlado | Vida Pacífica
 
-![_Мирне життя. Boletim de Voto Controlado. AP | Pivtorak.Studio. 07.10.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-041-controlled-ballot.webp)
+![_Vida Pacífica. Boletim de Voto Controlado. AP | Pivtorak.Studio. 07.10.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-041-controlled-ballot.webp)
 
 _Quando a escolha é supervisionada, o boletim pode continuar a existir — mas a liberdade por detrás dele já desapareceu._
 

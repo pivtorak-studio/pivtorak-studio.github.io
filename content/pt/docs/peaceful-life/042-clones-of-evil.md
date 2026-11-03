@@ -94,7 +94,7 @@ search: indexed
 
 # 👥🕊️⚙️ Clones do Mal | Vida Pacífica
 
-![_Peaceful Life. Clones do Mal. AP | Pivtorak.Studio. 07.10.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-042-clones-of-evil.webp)
+![_Vida Pacífica. Clones do Mal. AP | Pivtorak.Studio. 07.10.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-042-clones-of-evil.webp)
 
 _O mal não precisa de transformar toda a gente em seus servidores. Precisa apenas de pessoas suficientes dispostas a tornar-se parte da sua maquinaria._
 

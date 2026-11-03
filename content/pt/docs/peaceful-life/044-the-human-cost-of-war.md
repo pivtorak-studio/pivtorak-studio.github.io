@@ -117,7 +117,7 @@ search: indexed
 
 # 🕊️⚰️🪶 O Custo Humano da Guerra | Vida Pacífica
 
-![_Peaceful Life. O Custo Humano da Guerra. AP | Pivtorak.Studio. 02.11.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-044-the-human-cost-of-war.webp)
+![_Vida Pacífica. O Custo Humano da Guerra. AP | Pivtorak.Studio. 02.11.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-044-the-human-cost-of-war.webp)
 
 _Quando as pessoas se tornam descartáveis, o campo de batalha revela o verdadeiro valor que a maquinaria da guerra lhes atribui._
 

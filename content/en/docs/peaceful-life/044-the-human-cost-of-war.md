@@ -171,7 +171,7 @@ Human Cost of War · War Casualties · Killed and Wounded · Military Losses · 
 
 War does not end for families when the battlefield falls silent. For some, the next ordeal begins when a loved one is listed as missing, and the system refuses to give them a clear answer.
 
-**Alt-text:** 
+**Alt-text:**    
 A chalkboard illustration of a devastated battlefield dominated by numerous dead, dirty, plucked birds. In a smaller area, clean white dove medics carry a fallen dove on a stretcher as its luminous spirit rises. More exhausted birds wait in cages on military vehicles beneath a sinister force looming over the burning ruins.
 
 _Peaceful Life. The Human Cost of War. AP | Pivtorak.Studio. 02.11.2026_  

@@ -105,7 +105,7 @@ search: indexed
 
 # 🕊️🪶⚙️ O Custo da Cumplicidade | Vida Pacífica
 
-![_Peaceful Life. O Custo da Cumplicidade. AP | Pivtorak.Studio. 01.11.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-043-the-cost-of-complicity.webp)
+![_Vida Pacífica. O Custo da Cumplicidade. AP | Pivtorak.Studio. 01.11.2026_ © Anna Pivtorak (Kostyuk)](/images/peaceful-life-043-the-cost-of-complicity.webp)
 
 _Quando uma sociedade se torna um recurso voluntário da guerra, a cumplicidade passa a fazer parte da máquina de destruição._
 

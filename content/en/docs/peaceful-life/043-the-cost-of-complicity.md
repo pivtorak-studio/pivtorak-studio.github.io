@@ -165,3 +165,6 @@ A war economy is sustained by more than the decisions of those who command it. I
 
 **Alt-text:**   
 A dark puppet-master figure controls raven-headed soldiers who pluck feathers from grey, willing birds and collect them in a container marked “НА ВОЙНУ” and “FOR THE WAR”. Red stains cover the ground beneath them, while a devastated, burning landscape fills the background. The entire scene is drawn on a school chalkboard.
+
+_Peaceful Life. The Cost of Complicity. AP | Pivtorak.Studio. 01.11.2026_  
+© Anna Pivtorak (Kostyuk)

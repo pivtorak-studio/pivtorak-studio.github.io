@@ -165,3 +165,6 @@ Uma economia de guerra é sustentada por mais do que as decisões de quem a coma
 
 **Alt-text:**    
 Uma figura sombria, semelhante a um titereiro, controla soldados com cabeças de corvo que arrancam penas de aves cinzentas que as entregam voluntariamente, colocando-as num recipiente com a inscrição «НА ВОЙНУ» e «FOR THE WAR». Manchas vermelhas cobrem o chão, enquanto uma paisagem devastada e em chamas preenche o fundo. Toda a cena está desenhada num quadro escolar.
+
+_Vida Pacífica. O Custo da Cumplicidade. AP | Pivtorak.Studio. 01.11.2026_  
+© Anna Pivtorak (Kostyuk)

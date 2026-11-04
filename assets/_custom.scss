@@ -363,7 +363,11 @@
   }
 }
 
-.series-project-item + .series-project-item {
+.series-research-item + .series-research-item,
+.series-project-item + .series-project-item,
+.series-studio-item + .series-studio-item,
+.series-tools-item + .series-tools-item,
+.series-archive-item + .series-archive-item {
   margin-top: 1.25rem;
 }
 

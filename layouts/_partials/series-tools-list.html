@@ -1,4 +1,4 @@
-{{- $docs := .Site.GetPage "docs" -}}
+﻿{{- $docs := .Site.GetPage "docs" -}}
 {{- $pages := where $docs.Sections "Params.show_in_series_tools" true -}}
 {{- $pages = sort $pages "Weight" -}}
 
@@ -9,7 +9,7 @@
         <img class="series-list-item__thumbnail" src="{{ .Params.image | safeURL }}" alt="{{ .Params.alt }}" loading="lazy" decoding="async">
       {{ end }}
       <div class="series-list-item__text">
-        <h2>{{ .Title }}</h2>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{ with .Description }}
           <p class="series-list-item__description">{{ . }}</p>
         {{ else }}
@@ -17,7 +17,7 @@
             <p class="series-list-item__description">{{ . | plainify }}</p>
           {{ end }}
         {{ end }}
-        <p class="series-list-item__link"><a href="{{ .RelPermalink }}">{{ T "series_explore" }} {{ .Title }}</a></p>
+        
       </div>
     </section>
   {{- end }}

@@ -130,7 +130,7 @@ search: true
 
 Naquela noite, o nosso encontro, organizado pelo agirE CLDS 5G em Esposende, decorreu nos bastidores, numa sala luminosa ao lado do palco.
 
-Havia um espelho e uma barra de ballet, uma parede de vidro através da qual se via a rua, cacifos para mudar de roupa, bancos baixos e uma saída para o palco. Lá fora, começava a anoitecer, enquanto a sala era iluminada por luz artificial.
+Havia aqui uma parede de vidro espelhado através da qual se via a rua, cacifos para mudar de roupa, bancos baixos e uma saída para o palco. Lá fora, começava a anoitecer, enquanto a sala era iluminada por luz artificial.
 
 Desta vez, explorámos a interação através do movimento.
 

@@ -131,7 +131,7 @@ search: true
 
 That evening, our meeting, organised by agirE CLDS 5G in Esposende, took place backstage, in a bright room beside the stage.
 
-There was a mirror and a ballet barre, a glass wall overlooking the street, changing lockers, low benches, and an exit onto the stage. Outside, evening was falling, while artificial light illuminated the room.
+There was a mirrored glass wall overlooking the street, changing lockers, low benches, and an exit onto the stage. Outside, evening was falling, while artificial light illuminated the room.
 
 This time, we explored interaction through movement.
 

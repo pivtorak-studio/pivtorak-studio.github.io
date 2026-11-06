@@ -159,11 +159,11 @@ Essa simples garantia mudou tudo. Não havia qualquer pressão para representar.
 
 O local do nosso primeiro encontro foi o _Centro de Informação Turística_. Quando entrei, o ambiente pareceu-me surpreendentemente acolhedor e tranquilo.
 
-O dinamizador explicou as principais regras do nosso espaço comum:
+O dinamizador explicou os principais princípios do nosso espaço partilhado:
 
-- Participar apenas naquilo que nos fizer sentir confortáveis.  
-- Ninguém julga ninguém; os limites pessoais de cada pessoa são respeitados.  
-- Todas as decisões — participar ou afastar-se — são completamente voluntárias.  
+1. Participar apenas naquilo com que nos sentimos confortáveis. Todas as decisões — participar ou optar por não participar — são inteiramente voluntárias.  
+2. Ninguém julga ninguém. As decisões de cada pessoa são respeitadas.  
+3. Se escolher participar, dar o seu melhor, contribuindo para que a atividade resulte e para que a experiência seja positiva para todos.  
 
 Havia um grande tapete cinzento no chão. Foi-nos proposto que tirássemos os sapatos, se quiséssemos, para nos sentirmos mais à vontade. No início, mantive os meus calçados. Mas, cinco minutos depois, tirei-os. Sentar-me descalça no tapete era simplesmente mais confortável.
 

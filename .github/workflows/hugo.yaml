@@ -1,3 +1,4 @@
+
 name: Deploy Hugo site to Pages
 
 on:
@@ -37,6 +38,10 @@ jobs:
           path: ./public
 
   deploy:
+    concurrency:
+      group: github-pages
+      queue: max
+
     environment:
       name: github-pages
     runs-on: ubuntu-latest
@@ -45,3 +50,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+    

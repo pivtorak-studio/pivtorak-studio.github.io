@@ -3,17 +3,37 @@ id: living-topography-003-the-gesture-that-stayed
 language: pt
 translation_of: living-topography-003-the-gesture-that-stayed
 translation_key: living-topography-003-the-gesture-that-stayed
-title: "003 O Gesto Que Ficou"
+title: 003 O Gesto Que Ficou
 slug: 003-the-gesture-that-stayed
-description: "Uma reflexão pessoal sobre uma oficina de movimento em Esposende, onde um gesto inesperado do passado se tornou um ponto familiar de serenidade em meio à incerteza."
-summary: "Durante uma oficina de movimento organizada pelo agirE CLDS 5G, um gesto familiar dos tempos em que praticava kung fu regressou inesperadamente, mudando a forma como a experiência ficou na memória."
+description: Uma reflexão pessoal sobre uma oficina de movimento em Esposende, onde um gesto inesperado do passado se tornou um ponto familiar de serenidade em meio à incerteza.
+summary: Durante uma oficina de movimento organizada pelo agirE CLDS 5G, um gesto familiar dos tempos em que praticava kung fu regressou inesperadamente, mudando a forma como a experiência ficou na memória.
 event_date: 2026-10-15T21:00:00+01:00
 publication_date: 2026-10-15T21:00:00+01:00
 date: 2026-10-15T21:00:00+01:00
-lastmod: 2026-10-18T21:00:00+01:00
-tags: [Topografia Viva, experiência corporal, diálogo intercultural, grupo criativo, movimento, teatro, Esposende]
-keywords: [experiência corporal, diálogo intercultural, experiência criativa em grupo, interação através do movimento, reflexão pessoal, kung fu, centro, gesto, Esposende, Portugal]
-categories: [Experiências, Diálogo Intercultural, Prática Criativa]
+lastmod: 2026-11-08T11:00:00+01:00
+tags:
+  - Topografia Viva
+  - experiência corporal
+  - diálogo intercultural
+  - grupo criativo
+  - movimento
+  - teatro
+  - Esposende
+keywords:
+  - experiência corporal
+  - diálogo intercultural
+  - experiência criativa em grupo
+  - interação através do movimento
+  - reflexão pessoal
+  - kung fu
+  - centro
+  - gesto
+  - Esposende
+  - Portugal
+categories:
+  - Experiências
+  - Diálogo Intercultural
+  - Prática Criativa
 series: LivingTopography
 series_index: 3
 research_origin: Pivtorak.Studio
@@ -25,9 +45,13 @@ status: published
 featured: true
 draft: false
 image: /images/living-topography-003-the-gesture-that-stayed.webp
-alt: "Uma mulher sentada em seiza, vista por trás, a unir suavemente os dedos das duas mãos sobre o colo, num chão de madeira clara."
-related: [/pt/docs/living-topography/, /pt/docs/timeline/, /pt/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+alt: Uma mulher sentada em seiza, vista por trás, a unir suavemente os dedos das duas mãos sobre o colo, num chão de madeira clara.
+related:
+  - /pt/docs/living-topography/
+  - /pt/docs/timeline/
+  - /pt/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/living-topography/003-the-gesture-that-stayed/
 weight: 3
 toc: true
@@ -54,7 +78,7 @@ search: true
   "abstract": "Durante uma oficina de movimento organizada pelo agirE CLDS 5G, um gesto familiar dos tempos em que praticava kung fu regressou inesperadamente, mudando a forma como a experiência ficou na memória.",
   "inLanguage": "pt-PT",
   "datePublished": "2026-10-15T21:00:00+01:00",
-  "dateModified": "2026-10-18T21:00:00+01:00",
+  "dateModified": "2026-11-08T11:00:00+01:00",
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/living-topography-003-the-gesture-that-stayed.webp",
@@ -244,3 +268,21 @@ Uma mulher sentada em seiza, vista por trás, a unir suavemente os dedos das dua
 
 _Topografia Viva. O Gesto Que Ficou. AP | Pivtorak.Studio. 15.10.2026_    
 © Anna Pivtorak (Kostyuk)
+
+## Um Gesto, Quatro Significados
+
+Ao voltar a olhar para aquele gesto, comecei a reparar em algo que não tinha visto antes.
+
+Talvez ele contivesse em si as quatro palavras.
+
+**Centro** — as pontas dos dedos encontram-se num único ponto, criando um centro. Um ponto de regresso, um lugar onde tudo converge.
+
+**Fronteira** — as mãos delineiam um limite. Definem um espaço, mas não o fecham necessariamente.
+
+**Abrigo** — a forma criada pelas mãos lembra um abrigo, um espaço de proteção sob o qual algo pode encontrar refúgio.
+
+**Passagem** — entre as mãos permanece uma abertura. A fronteira não se transforma numa parede; continua a existir espaço para o movimento, para algo passar.
+
+E talvez, por vezes, não seja necessário inventar um gesto diferente para cada palavra. Um único gesto pode conter o significado de todas elas.
+
+08.11.2026

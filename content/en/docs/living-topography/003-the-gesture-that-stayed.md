@@ -3,17 +3,37 @@ id: living-topography-003-the-gesture-that-stayed
 language: en
 translation_of: living-topography-003-the-gesture-that-stayed
 translation_key: living-topography-003-the-gesture-that-stayed
-title: "003 The Gesture That Stayed"
+title: 003 The Gesture That Stayed
 slug: 003-the-gesture-that-stayed
-description: "A personal reflection on a movement workshop in Esposende, where an unexpected gesture from the past became a familiar point of calm amid uncertainty."
-summary: "During a movement workshop organised by agirE CLDS 5G, a familiar hand gesture from past kung fu practice unexpectedly returned, changing how the encounter was remembered."
+description: A personal reflection on a movement workshop in Esposende, where an unexpected gesture from the past became a familiar point of calm amid uncertainty.
+summary: During a movement workshop organised by agirE CLDS 5G, a familiar hand gesture from past kung fu practice unexpectedly returned, changing how the encounter was remembered.
 event_date: 2026-10-15T21:00:00+01:00
 publication_date: 2026-10-15T21:00:00+01:00
 date: 2026-10-15T21:00:00+01:00
-lastmod: 2026-10-18T21:00:00+01:00
-tags: [Living Topography, embodied experience, intercultural dialogue, creative group, movement, theatre, Esposende]
-keywords: [embodied experience, intercultural dialogue, creative group experience, movement-based interaction, personal reflection, kung fu, centre, gesture, Esposende, Portugal]
-categories: [Experiences, Intercultural Dialogue, Creative Practice]
+lastmod: 2026-11-08T11:00:00+01:00
+tags:
+  - Living Topography
+  - embodied experience
+  - intercultural dialogue
+  - creative group
+  - movement
+  - theatre
+  - Esposende
+keywords:
+  - embodied experience
+  - intercultural dialogue
+  - creative group experience
+  - movement-based interaction
+  - personal reflection
+  - kung fu
+  - centre
+  - gesture
+  - Esposende
+  - Portugal
+categories:
+  - Experiences
+  - Intercultural Dialogue
+  - Creative Practice
 series: LivingTopography
 series_index: 3
 research_origin: Pivtorak.Studio
@@ -25,9 +45,13 @@ status: published
 featured: true
 draft: false
 image: /images/living-topography-003-the-gesture-that-stayed.webp
-alt: "A woman seated in seiza, viewed from behind, gently touching the fingers of both hands above her lap on a light wooden floor."
-related: [/en/docs/living-topography/, /en/docs/timeline/, /en/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+alt: A woman seated in seiza, viewed from behind, gently touching the fingers of both hands above her lap on a light wooden floor.
+related:
+  - /en/docs/living-topography/
+  - /en/docs/timeline/
+  - /en/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/living-topography/003-the-gesture-that-stayed/
 weight: 3
 toc: true
@@ -55,7 +79,7 @@ search: true
   "abstract": "During a movement workshop organised by agirE CLDS 5G, a familiar hand gesture from past kung fu practice unexpectedly returned, changing how the encounter was remembered.",
   "inLanguage": "en",
   "datePublished": "2026-10-15T21:00:00+01:00",
-  "dateModified": "2026-10-18T21:00:00+01:00",
+  "dateModified": "2026-11-08T11:00:00+01:00",
   "image": {
     "@type": "ImageObject",
     "url": "https://pivtorak.studio/images/living-topography-003-the-gesture-that-stayed.webp",
@@ -249,3 +273,21 @@ A woman seated in seiza, viewed from behind, gently touching the fingers of both
 
 _Living Topography. The Gesture That Stayed. AP | Pivtorak.Studio. 15.10.2026_    
 © Anna Pivtorak (Kostyuk)
+
+## One Gesture, Four Meanings
+
+Looking at the gesture again, I began to notice something I had not seen before.
+
+Perhaps it held all four words within it.
+
+**Centro** — the fingertips meet at a single point, creating a centre. A point of return, a place where everything comes together.
+
+**Fronteira** — the hands outline a boundary. They define a space, but do not necessarily close it off.
+
+**Abrigo** — the shape formed by the hands resembles a shelter, a protective space beneath which something can find refuge.
+
+**Passagem** — between the hands, an opening remains. The boundary does not become a wall; there is still room for movement, for something to pass through.
+
+And perhaps sometimes there is no need to invent a separate gesture for every word. One gesture can hold the meaning of them all.
+
+08.11.2026

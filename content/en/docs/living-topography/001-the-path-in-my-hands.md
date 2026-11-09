@@ -161,11 +161,11 @@ That simple reassurance changed everything. No pressure to perform. Just an open
 
 The venue for our first meeting was the _Centro de Informação Turística_. When I walked in, the atmosphere felt surprisingly warm and grounding.
 
-The facilitator explained the main principles of our shared space:
+The facilitator explained the three principles of our shared space:
 
-1. Participate only in what feels comfortable. All decisions — whether to take part or step back — are entirely voluntary.  
-2. No one judges anyone. Everyone's choices are respected.  
-3. If you choose to participate, give the activity your best effort, contributing to making the shared experience work.  
+1. No one judges anyone.  
+2. No one is forced to do anything they do not want to do.  
+3. Everyone who takes part in a game contributes to making it happen.  
 
 There was a large grey carpet on the floor. We were invited to take off our shoes if we wished, so that we could feel at home. At first, I kept mine on. But five minutes later, I took them off. Sitting barefoot on the carpet simply felt more comfortable.
 
@@ -273,3 +273,7 @@ Hands holding a white fabric path over a dark grey carpet.
 
 _Living Topography. The Path in My Hands. AP | Pivtorak.Studio. 01.10.2026_  
 © Anna Pivtorak (Kostyuk)
+
+*Facilitator's Note*   
+The session was facilitated by **Hugo Dias**, who kindly shared his preparation notes for this meeting.    
+The planned activities may be adapted to the group and to the moment.

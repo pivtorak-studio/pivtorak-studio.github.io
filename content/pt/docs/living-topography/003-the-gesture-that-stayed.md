@@ -269,6 +269,10 @@ Uma mulher sentada em seiza, vista por trás, a unir suavemente os dedos das dua
 _Topografia Viva. O Gesto Que Ficou. AP | Pivtorak.Studio. 15.10.2026_    
 © Anna Pivtorak (Kostyuk)
 
+*Nota sobre a dinamização*   
+A sessão foi orientada por **Hugo Dias**, que gentilmente partilhou as suas notas de preparação para este encontro.    
+As atividades previstas podem ser adaptadas ao grupo e ao momento.
+
 ## Um Gesto, Quatro Significados
 
 Ao voltar a olhar para aquele gesto, comecei a reparar em algo que não tinha visto antes.

@@ -274,6 +274,10 @@ A woman seated in seiza, viewed from behind, gently touching the fingers of both
 _Living Topography. The Gesture That Stayed. AP | Pivtorak.Studio. 15.10.2026_    
 © Anna Pivtorak (Kostyuk)
 
+*Facilitator's Note*   
+The session was facilitated by **Hugo Dias**, who kindly shared his preparation notes for this meeting.    
+The planned activities may be adapted to the group and to the moment.
+
 ## One Gesture, Four Meanings
 
 Looking at the gesture again, I began to notice something I had not seen before.

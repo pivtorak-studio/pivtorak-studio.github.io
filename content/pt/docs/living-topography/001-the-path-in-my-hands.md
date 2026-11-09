@@ -159,11 +159,11 @@ Essa simples garantia mudou tudo. Não havia qualquer pressão para representar.
 
 O local do nosso primeiro encontro foi o _Centro de Informação Turística_. Quando entrei, o ambiente pareceu-me surpreendentemente acolhedor e tranquilo.
 
-O dinamizador explicou os principais princípios do nosso espaço partilhado:
+O dinamizador explicou os três princípios do nosso espaço partilhado:
 
-1. Participar apenas naquilo com que nos sentimos confortáveis. Todas as decisões — participar ou optar por não participar — são inteiramente voluntárias.  
-2. Ninguém julga ninguém. As decisões de cada pessoa são respeitadas.  
-3. Se escolher participar, dar o seu melhor, contribuindo para que a atividade resulte e para que a experiência seja positiva para todos.  
+1. Não julgamos.  
+2. Não obrigamos ninguém a fazer aquilo que não quer.  
+3. Todos os que participam num jogo contribuem para que ele aconteça.  
 
 Havia um grande tapete cinzento no chão. Foi-nos proposto que tirássemos os sapatos, se quiséssemos, para nos sentirmos mais à vontade. No início, mantive os meus calçados. Mas, cinco minutos depois, tirei-os. Sentar-me descalça no tapete era simplesmente mais confortável.
 
@@ -271,3 +271,7 @@ Mãos a segurar um caminho de tecido branco sobre um tapete cinzento escuro.
 
 _Topografia Viva. O Caminho nas Minhas Mãos. AP | Pivtorak.Studio. 01.10.2026_  
 © Anna Pivtorak (Kostyuk)
+
+*Nota sobre a dinamização*   
+A sessão foi orientada por **Hugo Dias**, que gentilmente partilhou as suas notas de preparação para este encontro.    
+As atividades previstas podem ser adaptadas ao grupo e ao momento.

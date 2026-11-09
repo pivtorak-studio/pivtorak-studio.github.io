@@ -256,3 +256,7 @@ Tiras de tecido branco formam uma locomotiva, uma estrela de cinco pontas, uma p
 
 _Topografia Viva. Quando as Nossas Histórias se Entrelaçam. AP | Pivtorak.Studio. 08.10.2026_  
 © Anna Pivtorak (Kostyuk)
+
+*Nota sobre a dinamização*   
+A sessão foi orientada por **Hugo Dias**, que gentilmente partilhou as suas notas de preparação para este encontro.    
+As atividades previstas podem ser adaptadas ao grupo e ao momento.

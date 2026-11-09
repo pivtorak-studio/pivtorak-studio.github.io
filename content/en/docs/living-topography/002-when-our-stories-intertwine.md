@@ -256,3 +256,7 @@ White fabric strips forming a locomotive, a five-pointed star, a person offering
 
 _Living Topography. When Our Stories Intertwine. AP | Pivtorak.Studio. 08.10.2026_  
 © Anna Pivtorak (Kostyuk)
+
+*Facilitator's Note*   
+The session was facilitated by **Hugo Dias**, who kindly shared his preparation notes for this meeting.    
+The planned activities may be adapted to the group and to the moment.

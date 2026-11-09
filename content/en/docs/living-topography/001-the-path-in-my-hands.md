@@ -133,6 +133,8 @@ search: indexed
 
 ![_Living Topography. The Path in My Hands. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands.webp)
 
+**01 October 2026 | Meeting № 1 | agirE CLDS 5G, Esposende**
+
 _Sometimes a path is not something we simply follow. Sometimes we create it with our own hands — slowly, quickly, with loops, alongside someone else's trajectory — until we reach a place we never even knew we were heading toward._
 
 _In this unexpected experience of a creative group, movement and spatial interaction become a gentle language of intercultural dialogue, where personal stories and shared presence quietly intertwine._

@@ -133,6 +133,8 @@ search: indexed
 
 ![_Topografia Viva. O Caminho nas Minhas Mãos. AP | Pivtorak.Studio. 01.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-001-the-path-in-my-hands.webp)
 
+**01 de outubro de 2026 | Encontro n.º 1 | agirE CLDS 5G, Esposende**
+
 _Às vezes, um caminho não é algo que simplesmente seguimos. Às vezes, criamo-lo com as nossas próprias mãos — devagar, depressa, com curvas e laços, ao lado da trajetória de outra pessoa — até chegarmos a um lugar para onde nem sequer sabíamos que estávamos a caminhar._
 
 _Nesta experiência inesperada de um grupo criativo, o movimento e a interação espacial tornam-se uma linguagem suave de diálogo intercultural, onde as histórias pessoais e a presença partilhada se entrelaçam silenciosamente._

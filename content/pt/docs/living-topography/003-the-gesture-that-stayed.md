@@ -145,6 +145,8 @@ search: true
 
 ![_Topografia Viva. O Gesto Que Ficou. AP | Pivtorak.Studio. 15.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-003-the-gesture-that-stayed.webp)
 
+**15 de outubro de 2026 | Encontro n.º 3 | agirE CLDS 5G, Esposende**
+
 > Enquanto explorávamos o movimento e as nossas próprias interpretações esta noite, regressei inesperadamente a um gesto familiar.  
 > Juntei os dedos das duas mãos e, naquele momento, senti uma tranquilidade familiar — o meu próprio centro.  
 > O gesto vinha do passado — dos tempos em que praticava kung fu.  

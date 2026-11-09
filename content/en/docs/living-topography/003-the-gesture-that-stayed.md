@@ -290,4 +290,4 @@ Perhaps it held all four words within it.
 
 And perhaps sometimes there is no need to invent a separate gesture for every word. One gesture can hold the meaning of them all.
 
-08.11.2026
+_AP | Pivtorak.Studio. 08.11.2026_

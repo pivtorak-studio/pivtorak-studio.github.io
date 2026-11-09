@@ -285,4 +285,4 @@ Talvez ele contivesse em si as quatro palavras.
 
 E talvez, por vezes, não seja necessário inventar um gesto diferente para cada palavra. Um único gesto pode conter o significado de todas elas.
 
-08.11.2026
+_AP | Pivtorak.Studio. 08.11.2026_

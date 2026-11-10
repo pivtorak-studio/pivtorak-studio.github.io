@@ -10,12 +10,37 @@ summary: Театральное занятие, основанное на дви
 event_date: 2026-10-29T21:00:00+00:00
 publication_date: 2026-10-29T21:00:00+00:00
 date: 2026-10-29T21:00:00+00:00
-lastmod: 2026-11-10T09:00:00+00:00
-tags: [Living Topography, embodied experience, emotional expression, body awareness, movement, improvisation, theatre workshop, intercultural dialogue, creative group, Esposende]
-keywords: [телесный опыт, выражение эмоций через движение, осознание тела, эмоциональные состояния, исследование движения, театральная импровизация, принципы движения Рудольфа Лабана, личная рефлексия, творческий групповой опыт, межкультурный диалог, Эшпозенде, Португалия]
-categories: [Experiences, Intercultural Dialogue, Creative Practice]
+lastmod: 2026-11-10T15:00:00+00:00
+tags:
+  - Living Topography
+  - embodied experience
+  - emotional expression
+  - body awareness
+  - movement
+  - improvisation
+  - theatre workshop
+  - intercultural dialogue
+  - creative group
+  - Esposende
+keywords:
+  - телесный опыт
+  - выражение эмоций через движение
+  - осознание тела
+  - эмоциональные состояния
+  - исследование движения
+  - театральная импровизация
+  - принципы движения Рудольфа Лабана
+  - личная рефлексия
+  - творческий групповой опыт
+  - межкультурный диалог
+  - Эшпозенде
+  - Португалия
+categories:
+  - Experiences
+  - Intercultural Dialogue
+  - Creative Practice
 series: LivingTopography
-series_index: 5
+series_index: 4
 research_origin: Pivtorak.Studio
 content_type: reflective essay
 schema_type: Article
@@ -26,8 +51,12 @@ featured: true
 draft: false
 image: /images/living-topography-005-emotions-we-needed-to-experience.webp
 alt: Женщина с тёмными волосами, собранными в пучок, сидит на офисном стуле спиной к зрителю и держит небольшой сложенный листок с надписью desespero urgente на деревянном полу помещения театральной мастерской.
-related: [/ru/docs/living-topography/, /ru/docs/timeline/, /ru/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+related:
+  - /ru/docs/living-topography/
+  - /ru/docs/timeline/
+  - /ru/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/ru/docs/living-topography/005-emotions-we-needed-to-experience/
 weight: 5
 toc: true
@@ -59,7 +88,7 @@ search: true
     "url": "https://pivtorak.studio/"
   },
   "datePublished": "2026-10-29T21:00:00+00:00",
-  "dateModified": "2026-11-10T09:00:00+00:00",
+  "dateModified": "2026-11-10T15:00:00+00:00",
   "inLanguage": "ru",
   "articleSection": [
     "Experiences",

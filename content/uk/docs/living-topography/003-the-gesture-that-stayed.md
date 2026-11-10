@@ -141,7 +141,7 @@ search: true
 </script>
 
 
-# Жест, який залишився | Жива топографія
+# Жест, який залишився | Жива Топографія
 
 ![_Жива топографія. Жест, який залишився. AP | Pivtorak.Studio. 15.10.2026_ © Анна Півторак (Костюк)](/images/living-topography-003-the-gesture-that-stayed.webp)
 

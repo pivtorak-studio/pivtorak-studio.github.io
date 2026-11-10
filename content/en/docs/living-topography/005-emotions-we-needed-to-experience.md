@@ -147,7 +147,7 @@ search: true
 }
 </script>
 
-# Emotions We Needed to Experience
+# Emotions We Needed to Experience | Living Topography
 
 ![_Living Topography. Emotions We Needed to Experience. AP | Pivtorak.Studio. 29.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-005-emotions-we-needed-to-experience.webp)
 

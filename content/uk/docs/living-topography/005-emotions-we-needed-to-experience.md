@@ -147,7 +147,7 @@ search: true
 }
 </script>
 
-## Емоції, Які Треба Було Прожити
+## Емоції, Які Треба Було Прожити | Жива Топографія
 
 ![_Жива топографія. Емоції, Які Треба Було Прожити. AP | Pivtorak.Studio. 29.10.2026_ © Анна Півторак (Костюк)](/images/living-topography-005-emotions-we-needed-to-experience.webp)
 

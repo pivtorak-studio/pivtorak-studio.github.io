@@ -148,7 +148,7 @@ search: true
 </script>
 
 
-# Emoções que Precisávamos de Viver
+# Emoções que Precisávamos de Viver | Topografia Viva
 
 ![_Topografia Viva. Emoções que Precisávamos de Viver. 29.10.2026_ © Anna Pivtorak (Kostyuk)](/images/living-topography-005-emotions-we-needed-to-experience.webp)
 

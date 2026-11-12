@@ -124,7 +124,7 @@ show_in_series_projects: true
 
 # Essay
 
-![_Essay. AP | Pivtorak.Studio. 09.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay.webp)
+![_Essay. AP | Pivtorak.Studio. 06.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay.webp)
 
 An intellectual space for reflection, exploration, and critical thought.
 
@@ -141,7 +141,7 @@ Rather than offering ready-made answers, this section invites thoughtful inquiry
 **Alt-text:**   
 Essay — an intellectual space for reflection and critical thought, represented by an open book, a globe, an hourglass, and a classical sculpture overlooking a sunset.
 
-_Essay. AP | Pivtorak.Studio. 09.11.2025_  
+_Essay. AP | Pivtorak.Studio. 06.11.2025_  
 © Anna Pivtorak (Kostyuk)
 
 ---

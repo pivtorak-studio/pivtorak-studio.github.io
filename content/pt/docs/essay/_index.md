@@ -125,7 +125,7 @@ show_in_series_projects: true
 
 # Ensaio
 
-![_Ensaio. AP | Pivtorak.Studio. 09.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay.webp)
+![_Ensaio. AP | Pivtorak.Studio. 06.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay.webp)
 
 Um espaço intelectual de reflexão, exploração e pensamento crítico.
 
@@ -142,7 +142,7 @@ Em vez de apresentar respostas definitivas, esta secção convida à reflexão, 
 **Alt-text:**   
 Ensaio — um espaço intelectual de reflexão e pensamento crítico, representado por um livro aberto, um globo, uma ampulheta e uma escultura clássica diante de um pôr do sol.
 
-_Ensaio. AP | Pivtorak.Studio. 09.11.2025_    
+_Ensaio. AP | Pivtorak.Studio. 06.11.2025_    
 © Anna Pivtorak (Kostyuk)
 
 ---

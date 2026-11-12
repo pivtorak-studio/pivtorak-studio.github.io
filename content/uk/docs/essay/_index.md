@@ -4,16 +4,32 @@ language: uk
 locale: uk-UA
 translation_of: essay
 translation_key: essay
-title: "Есе"
+title: ◯  Есе
 slug: essay
-description: "Інтелектуальний простір для роздумів, дослідження та критичного осмислення людського досвіду, особистісного розвитку, етики й сил, що формують індивідуальне та колективне життя."
-summary: "Колекція есе, присвячених дослідженню ідей, переосмисленню усталених поглядів, аналізу складних реалій і розвитку самостійного мислення."
+description: Інтелектуальний простір для роздумів, дослідження та критичного осмислення людського досвіду, особистісного розвитку, етики й сил, що формують індивідуальне та колективне життя.
+summary: Колекція есе, присвячених дослідженню ідей, переосмисленню усталених поглядів, аналізу складних реалій і розвитку самостійного мислення.
 event_date: 2025-11-06T06:00:00+00:00
 publication_date: 2025-11-06T06:00:00+00:00
 date: 2025-11-06T06:00:00+00:00
 lastmod: 2026-11-12T16:00:00+00:00
-tags: ["Есе", "Критичне Мислення", "Філософія", "Людський Досвід", "Етика", "Суспільство", "Роздуми"]
-keywords: ["есе", "критичне мислення", "інтелектуальне осмислення", "людський досвід", "особистісний розвиток", "етика", "суспільні реалії", "самостійне мислення", "філософське дослідження"]
+tags:
+  - Есе
+  - Критичне Мислення
+  - Філософія
+  - Людський Досвід
+  - Етика
+  - Суспільство
+  - Роздуми
+keywords:
+  - есе
+  - критичне мислення
+  - інтелектуальне осмислення
+  - людський досвід
+  - особистісний розвиток
+  - етика
+  - суспільні реалії
+  - самостійне мислення
+  - філософське дослідження
 series: Essay
 series_title: Есе
 series_index: 0
@@ -24,14 +40,19 @@ status: published
 featured: true
 draft: false
 image: /images/essay.webp
-alt: "Есе — інтелектуальний простір для роздумів і критичного мислення, представлений розгорнутою книгою, глобусом, пісковим годинником і класичною скульптурою на тлі заходу сонця."
-related: ["/uk/docs/essay/", "/uk/docs/timeline/", "/uk/docs/the-movement-matrix/site-completion-matrix/", "/uk/series-and-projects/"]
-authors: ["Anna Pivtorak"]
+alt: Есе — інтелектуальний простір для роздумів і критичного мислення, представлений розгорнутою книгою, глобусом, пісковим годинником і класичною скульптурою на тлі заходу сонця.
+related:
+  - /uk/docs/essay/
+  - /uk/docs/timeline/
+  - /uk/docs/the-movement-matrix/site-completion-matrix/
+  - /uk/series-and-projects/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/essay/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
+image_ratio: 1:1
+robots: index, follow
 weight: 113
 toc: true
 completion: 100
@@ -123,7 +144,7 @@ show_in_series_projects: true
 </script>
 
 
-# Есе
+# ◯ Есе
 
 ![_Есе. AP | Pivtorak.Studio. 06.11.2025_ © Анна Півторак (Костюк)](/images/essay.webp)
 

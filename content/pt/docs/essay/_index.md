@@ -4,16 +4,32 @@ language: pt
 locale: pt-PT
 translation_of: essay
 translation_key: essay
-title: "Ensaio"
+title: ◯ Ensaio
 slug: essay
-description: "Um espaço intelectual de reflexão, exploração e pensamento crítico sobre a experiência humana, o desenvolvimento pessoal, a ética e as forças que moldam a vida individual e coletiva."
-summary: "Uma coleção de ensaios que explora ideias, questiona perspetivas estabelecidas, analisa realidades complexas e incentiva o pensamento autónomo."
+description: Um espaço intelectual de reflexão, exploração e pensamento crítico sobre a experiência humana, o desenvolvimento pessoal, a ética e as forças que moldam a vida individual e coletiva.
+summary: Uma coleção de ensaios que explora ideias, questiona perspetivas estabelecidas, analisa realidades complexas e incentiva o pensamento autónomo.
 event_date: 2025-11-06T06:00:00+00:00
 publication_date: 2025-11-06T06:00:00+00:00
 date: 2025-11-06T06:00:00+00:00
 lastmod: 2026-11-12T16:00:00+00:00
-tags: ["Ensaio", "Pensamento Crítico", "Filosofia", "Experiência Humana", "Ética", "Sociedade", "Reflexão"]
-keywords: ["ensaio", "pensamento crítico", "reflexão intelectual", "experiência humana", "desenvolvimento pessoal", "ética", "realidades sociais", "pensamento autónomo", "investigação filosófica"]
+tags:
+  - Ensaio
+  - Pensamento Crítico
+  - Filosofia
+  - Experiência Humana
+  - Ética
+  - Sociedade
+  - Reflexão
+keywords:
+  - ensaio
+  - pensamento crítico
+  - reflexão intelectual
+  - experiência humana
+  - desenvolvimento pessoal
+  - ética
+  - realidades sociais
+  - pensamento autónomo
+  - investigação filosófica
 series: Essay
 series_title: Ensaio
 series_index: 0
@@ -24,14 +40,19 @@ status: published
 featured: true
 draft: false
 image: /images/essay.webp
-alt: "Ensaio — um espaço intelectual de reflexão e pensamento crítico, representado por um livro aberto, um globo, uma ampulheta e uma escultura clássica diante de um pôr do sol."
-related: ["/pt/docs/essay/", "/pt/docs/timeline/", "/pt/docs/the-movement-matrix/site-completion-matrix/", "/pt/series-and-projects/"]
-authors: ["Anna Pivtorak"]
+alt: Ensaio — um espaço intelectual de reflexão e pensamento crítico, representado por um livro aberto, um globo, uma ampulheta e uma escultura clássica diante de um pôr do sol.
+related:
+  - /pt/docs/essay/
+  - /pt/docs/timeline/
+  - /pt/docs/the-movement-matrix/site-completion-matrix/
+  - /pt/series-and-projects/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/essay/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
+image_ratio: 1:1
+robots: index, follow
 weight: 113
 toc: true
 completion: 100
@@ -123,7 +144,7 @@ show_in_series_projects: true
 </script>
 
 
-# Ensaio
+# ◯ Ensaio
 
 ![_Ensaio. AP | Pivtorak.Studio. 06.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay.webp)
 

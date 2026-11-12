@@ -4,16 +4,32 @@ language: en
 locale: en-US
 translation_of: essay
 translation_key: essay
-title: "Essay"
+title: ◯ Essay
 slug: essay
-description: "An intellectual space for reflection, exploration, and critical thought on human experience, personal development, ethics, and the forces shaping individual and collective life."
-summary: "A collection of essays exploring ideas, questioning established perspectives, examining complex realities, and encouraging independent thought."
+description: An intellectual space for reflection, exploration, and critical thought on human experience, personal development, ethics, and the forces shaping individual and collective life.
+summary: A collection of essays exploring ideas, questioning established perspectives, examining complex realities, and encouraging independent thought.
 event_date: 2025-11-06T06:00:00+00:00
 publication_date: 2025-11-06T06:00:00+00:00
 date: 2025-11-06T06:00:00+00:00
 lastmod: 2026-11-12T16:00:00+00:00
-tags: ["Essay", "Critical Thinking", "Philosophy", "Human Experience", "Ethics", "Society", "Reflection"]
-keywords: ["essay", "critical thinking", "intellectual reflection", "human experience", "personal development", "ethics", "social realities", "independent thought", "philosophical inquiry"]
+tags:
+  - Essay
+  - Critical Thinking
+  - Philosophy
+  - Human Experience
+  - Ethics
+  - Society
+  - Reflection
+keywords:
+  - essay
+  - critical thinking
+  - intellectual reflection
+  - human experience
+  - personal development
+  - ethics
+  - social realities
+  - independent thought
+  - philosophical inquiry
 series: Essay
 series_title: Essay
 series_index: 0
@@ -24,14 +40,19 @@ status: published
 featured: true
 draft: false
 image: /images/essay.webp
-alt: "Essay — an intellectual space for reflection and critical thought, represented by an open book, a globe, an hourglass, and a classical sculpture overlooking a sunset."
-related: ["/en/docs/essay/", "/en/docs/timeline/", "/en/docs/the-movement-matrix/site-completion-matrix/", "/en/series-and-projects/"]
-authors: ["Anna Pivtorak"]
+alt: Essay — an intellectual space for reflection and critical thought, represented by an open book, a globe, an hourglass, and a classical sculpture overlooking a sunset.
+related:
+  - /en/docs/essay/
+  - /en/docs/timeline/
+  - /en/docs/the-movement-matrix/site-completion-matrix/
+  - /en/series-and-projects/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/essay/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
+image_ratio: 1:1
+robots: index, follow
 weight: 113
 toc: true
 completion: 100
@@ -122,7 +143,7 @@ show_in_series_projects: true
 }
 </script>
 
-# Essay
+# ◯ Essay
 
 ![_Essay. AP | Pivtorak.Studio. 06.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay.webp)
 

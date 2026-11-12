@@ -1,6 +1,126 @@
+---
+id: essay
+language: ru
+locale: ru-RU
+translation_of: essay
+translation_key: essay
+title: "Эссе"
+slug: essay
+description: "Интеллектуальное пространство для размышлений, исследования и критического осмысления человеческого опыта, личностного развития, этики и сил, формирующих индивидуальную и коллективную жизнь."
+summary: "Коллекция эссе, посвящённых исследованию идей, переосмыслению устоявшихся взглядов, анализу сложных реалий и развитию самостоятельного мышления."
+event_date: 2025-11-06T06:00:00+00:00
+publication_date: 2025-11-06T06:00:00+00:00
+date: 2025-11-06T06:00:00+00:00
+lastmod: 2026-11-12T16:00:00+00:00
+tags: ["Эссе", "Критическое Мышление", "Философия", "Человеческий Опыт", "Этика", "Общество", "Размышления"]
+keywords: ["эссе", "критическое мышление", "интеллектуальное осмысление", "человеческий опыт", "личностное развитие", "этика", "социальные реалии", "самостоятельное мышление", "философское исследование"]
+series: Essay
+series_title: Эссе
+series_index: 0
+research_origin: Pivtorak.Studio
+content_type: section
+schema_type: CollectionPage
+status: published
+featured: true
+draft: false
+image: /images/essay.webp
+alt: "Эссе — интеллектуальное пространство для размышлений и критического мышления, представленное открытой книгой, глобусом, песочными часами и классической скульптурой на фоне заката."
+related: ["/ru/docs/essay/", "/ru/docs/timeline/", "/ru/docs/the-movement-matrix/site-completion-matrix/", "/ru/series-and-projects/"]
+authors: ["Anna Pivtorak"]
+canonical: https://pivtorak.studio/ru/docs/essay/
+image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_format: webp
+image_ratio: "1:1"
+robots: "index, follow"
+weight: 113
+toc: true
+completion: 100
+seo: true
+distribution: true
+search: true
+bookCollapseSection: true
+show_in_series_projects: true
+---
 
-
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://pivtorak.studio/ru/docs/essay/#webpage",
+  "url": "https://pivtorak.studio/ru/docs/essay/",
+  "name": "Эссе",
+  "headline": "Эссе",
+  "description": "Интеллектуальное пространство для размышлений, исследования и критического осмысления человеческого опыта, личностного развития, этики и сил, формирующих индивидуальную и коллективную жизнь.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2025-11-06T06:00:00+00:00",
+  "dateModified": "2026-11-12T16:00:00+00:00",
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://pivtorak.studio/#website",
+    "name": "Pivtorak.Studio",
+    "url": "https://pivtorak.studio/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://pivtorak.studio/images/essay.webp",
+    "contentUrl": "https://pivtorak.studio/images/essay.webp",
+    "caption": "Эссе — Размышления, Идеи, Перспективы",
+    "width": 1024,
+    "height": 1024
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Критическое мышление"
+    },
+    {
+      "@type": "Thing",
+      "name": "Философия"
+    },
+    {
+      "@type": "Thing",
+      "name": "Человеческий опыт"
+    },
+    {
+      "@type": "Thing",
+      "name": "Этика"
+    },
+    {
+      "@type": "Thing",
+      "name": "Общество"
+    },
+    {
+      "@type": "Thing",
+      "name": "Личностное развитие"
+    }
+  ],
+  "keywords": [
+    "эссе",
+    "критическое мышление",
+    "интеллектуальное осмысление",
+    "человеческий опыт",
+    "личностное развитие",
+    "этика",
+    "социальные реалии",
+    "самостоятельное мышление",
+    "философское исследование"
+  ],
+  "relatedLink": [
+    "https://pivtorak.studio/ru/docs/timeline/",
+    "https://pivtorak.studio/ru/docs/the-movement-matrix/site-completion-matrix/",
+    "https://pivtorak.studio/ru/series-and-projects/"
+  ],
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anna Pivtorak"
+  },
+  "copyrightYear": 2025
+}
+</script>
 
 # Эссе
 
@@ -19,7 +139,7 @@
 **Думать. Сомневаться. Понимать.**
 
 **Alt-text:**   
-Элегантное рабочее пространство в тёмных тонах: раскрытый блокнот, книги и латунная армиллярная сфера у окна с видом на горы на рассвете. Образ символизирует амбиции, дисциплину и стремление к достижениям.
+Эссе — интеллектуальное пространство для размышлений и критического мышления, представленное открытой книгой, глобусом, песочными часами и классической скульптурой на фоне заката.
 
 _Эссе. AP | Pivtorak.Studio. 09.11.2025_    
 © Анна Пивторак (Костюк)

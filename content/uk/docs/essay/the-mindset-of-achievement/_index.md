@@ -3,35 +3,55 @@ id: the-mindset-of-achievement
 language: uk
 locale: uk-UA
 translation_key: the-mindset-of-achievement
-title: "Ментальність Досягнення"
+title: Ментальність Досягнення
 slug: the-mindset-of-achievement
-description: "Серія есе про амбіції, дисципліну, наполегливість, успіх та особисту самореалізацію, що досліджує значення відповідальності, послідовності, інтелектуальної допитливості й етичної цілісності."
-summary: "Досягнення — це більше, ніж суспільне визнання чи матеріальний успіх. Це безперервний процес втілення ідей у життя, розвитку власного потенціалу, прагнення до якості та створення довготривалої цінності. Серія досліджує ментальність, вибір і принципи, що формують змістовні особисті й професійні досягнення."
+description: Серія есе про амбіції, дисципліну, наполегливість, успіх та особисту самореалізацію, що досліджує значення відповідальності, послідовності, інтелектуальної допитливості й етичної цілісності.
+summary: Досягнення — це більше, ніж суспільне визнання чи матеріальний успіх. Це безперервний процес втілення ідей у життя, розвитку власного потенціалу, прагнення до якості та створення довготривалої цінності. Серія досліджує ментальність, вибір і принципи, що формують змістовні особисті й професійні досягнення.
 date: 2025-11-14T06:00:00+00:00
 publication_date: 2025-11-14T06:00:00+00:00
 lastmod: 2026-11-12T15:00:00+00:00
-tags: ["TheMindsetOfAchievement", "Досягнення", "Амбіції", "Дисципліна", "Наполегливість", "Успіх", "ОсобистіснийРозвиток", "ЕтичнаЦілісність"]
-keywords: ["ментальність досягнення", "особисті досягнення", "амбіції та дисципліна", "наполегливість і успіх", "особистісний розвиток", "самодисципліна", "інтелектуальна допитливість", "етичні амбіції", "якість і самореалізація"]
+tags:
+  - TheMindsetOfAchievement
+  - Досягнення
+  - Амбіції
+  - Дисципліна
+  - Наполегливість
+  - Успіх
+  - ОсобистіснийРозвиток
+  - ЕтичнаЦілісність
+keywords:
+  - ментальність досягнення
+  - особисті досягнення
+  - амбіції та дисципліна
+  - наполегливість і успіх
+  - особистісний розвиток
+  - самодисципліна
+  - інтелектуальна допитливість
+  - етичні амбіції
+  - якість і самореалізація
 series: TheMindsetOfAchievement
-series_title: "Ментальність Досягнення"
+series_title: Ментальність Досягнення
 series_index: 0
 research_origin: Pivtorak.Studio
 content_type: essay_series
 schema_type: CollectionPage
-location: "Ешпозенде, Португалія"
+location: Ешпозенде, Португалія
 status: published
 featured: true
 draft: false
 image: /images/essay-the-mindset-of-achievement.webp
 alt: "Вишуканий робочий простір у темних тонах: розгорнутий блокнот, книжки та латунна арміллярна сфера біля вікна з краєвидом на гори під час сходу сонця. Образ символізує амбіції, дисципліну та прагнення до досягнень."
-related: ["/uk/docs/timeline/", "/uk/docs/the-movement-matrix/site-completion-matrix/"]
-authors: ["Anna Pivtorak"]
+related:
+  - /uk/docs/timeline/
+  - /uk/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/essay/the-mindset-of-achievement/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
-weight: 1
+image_ratio: 1:1
+robots: index, follow
+weight: 2
 toc: true
 completion: 100
 seo: true

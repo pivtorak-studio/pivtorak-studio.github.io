@@ -4,17 +4,51 @@ language: en
 locale: en-US
 translation_of: existence-ethics-and-the-final-choice
 translation_key: existence-ethics-and-the-final-choice
-title: "Existence Ethics and The Final Choice"
+title: Existence Ethics and The Final Choice
 slug: existence-ethics-and-the-final-choice
-description: "A philosophical essay series exploring human existence, individual freedom, personal responsibility, human dignity, suffering, care, and the ethical boundaries of the right to choose."
-summary: "An ongoing philosophical exploration of life and death, autonomy and responsibility, suffering and compassion, medical ethics, human dignity, and the moral consequences of individual choice."
+description: A philosophical essay series exploring human existence, individual freedom, personal responsibility, human dignity, suffering, care, and the ethical boundaries of the right to choose.
+summary: An ongoing philosophical exploration of life and death, autonomy and responsibility, suffering and compassion, medical ethics, human dignity, and the moral consequences of individual choice.
 publication_date: 2026-11-12T06:00:00+00:00
 date: 2026-11-12T06:00:00+00:00
 lastmod: 2026-11-12T16:44:00+00:00
-tags: [ExistenceEthicsAndTheFinalChoice, ExistenceEthics, EthicsOfBeing, TheFinalChoice, PhilosophyOfLife, ExistentialEthics, EndOfLifeEthics, EthicsOfDeath, EthicsOfSuffering, EthicsOfCare, PalliativeCare, HumanDignity, HumanAutonomy, TheRightToChoose, TheRightToDie, MedicalEthics, PersonalResponsibility, EssaySeries]
-keywords: ["existence ethics", "ethics of being", "the final choice", "philosophy of life", "human existence", "human dignity", "individual autonomy", "right to choose", "right to die", "end-of-life ethics", "ethics of suffering", "ethics of care", "palliative care", "medical ethics", "personal responsibility", "existential philosophy"]
+tags:
+  - ExistenceEthicsAndTheFinalChoice
+  - ExistenceEthics
+  - EthicsOfBeing
+  - TheFinalChoice
+  - PhilosophyOfLife
+  - ExistentialEthics
+  - EndOfLifeEthics
+  - EthicsOfDeath
+  - EthicsOfSuffering
+  - EthicsOfCare
+  - PalliativeCare
+  - HumanDignity
+  - HumanAutonomy
+  - TheRightToChoose
+  - TheRightToDie
+  - MedicalEthics
+  - PersonalResponsibility
+  - EssaySeries
+keywords:
+  - existence ethics
+  - ethics of being
+  - the final choice
+  - philosophy of life
+  - human existence
+  - human dignity
+  - individual autonomy
+  - right to choose
+  - right to die
+  - end-of-life ethics
+  - ethics of suffering
+  - ethics of care
+  - palliative care
+  - medical ethics
+  - personal responsibility
+  - existential philosophy
 series: ExistenceEthicsAndTheFinalChoice
-series_title: "Existence Ethics and The Final Choice"
+series_title: Existence Ethics and The Final Choice
 series_index: 0
 research_origin: Pivtorak.Studio
 content_type: essay_series
@@ -23,15 +57,18 @@ status: published
 featured: true
 draft: false
 image: /images/essay-existence-ethics-and-the-final-choice.webp
-alt: "Existence Ethics and The Final Choice — an elegant philosophical study with an open book, tree of life, hourglass, balanced stones, and candle against a sunset landscape, representing human existence, time, dignity, and the freedom of choice."
-related: [/en/docs/timeline/, /en/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+alt: Existence Ethics and The Final Choice — an elegant philosophical study with an open book, tree of life, hourglass, balanced stones, and candle against a sunset landscape, representing human existence, time, dignity, and the freedom of choice.
+related:
+  - /en/docs/timeline/
+  - /en/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/essay/existence-ethics-and-the-final-choice/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
-weight: 2
+image_ratio: 1:1
+robots: index, follow
+weight: 1
 toc: false
 completion: 100
 seo: true

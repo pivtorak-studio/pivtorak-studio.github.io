@@ -67,7 +67,7 @@ image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
 image_ratio: 1:1
 robots: index, follow
-weight: 2
+weight: 1
 toc: false
 completion: 100
 seo: true

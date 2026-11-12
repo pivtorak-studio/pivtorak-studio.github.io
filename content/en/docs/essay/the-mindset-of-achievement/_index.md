@@ -3,35 +3,55 @@ id: the-mindset-of-achievement
 language: en
 locale: en-US
 translation_key: the-mindset-of-achievement
-title: "The Mindset of Achievement"
+title: The Mindset of Achievement
 slug: the-mindset-of-achievement
-description: "An essay series exploring ambition, discipline, perseverance, success, and personal fulfilment through the principles of responsibility, consistency, intellectual curiosity, and ethical integrity."
-summary: "Achievement is more than recognition or material success. It is the ongoing process of turning ideas into reality, developing one's potential, pursuing quality, and creating lasting value. This series examines the mindset, choices, and principles that shape meaningful personal and professional achievement."
+description: An essay series exploring ambition, discipline, perseverance, success, and personal fulfilment through the principles of responsibility, consistency, intellectual curiosity, and ethical integrity.
+summary: Achievement is more than recognition or material success. It is the ongoing process of turning ideas into reality, developing one's potential, pursuing quality, and creating lasting value. This series examines the mindset, choices, and principles that shape meaningful personal and professional achievement.
 date: 2025-11-14T06:00:00+00:00
 publication_date: 2025-11-14T06:00:00+00:00
 lastmod: 2026-11-12T15:00:00+00:00
-tags: ["TheMindsetOfAchievement", "Achievement", "Ambition", "Discipline", "Perseverance", "Success", "PersonalGrowth", "EthicalIntegrity"]
-keywords: ["mindset of achievement", "personal achievement", "ambition and discipline", "perseverance and success", "personal fulfilment", "self-discipline", "intellectual curiosity", "ethical ambition", "quality and personal growth"]
+tags:
+  - TheMindsetOfAchievement
+  - Achievement
+  - Ambition
+  - Discipline
+  - Perseverance
+  - Success
+  - PersonalGrowth
+  - EthicalIntegrity
+keywords:
+  - mindset of achievement
+  - personal achievement
+  - ambition and discipline
+  - perseverance and success
+  - personal fulfilment
+  - self-discipline
+  - intellectual curiosity
+  - ethical ambition
+  - quality and personal growth
 series: TheMindsetOfAchievement
-series_title: "The Mindset of Achievement"
+series_title: The Mindset of Achievement
 series_index: 0
 research_origin: Pivtorak.Studio
 content_type: essay_series
 schema_type: CollectionPage
-location: "Esposende, Portugal"
+location: Esposende, Portugal
 status: published
 featured: true
 draft: false
 image: /images/essay-the-mindset-of-achievement.webp
-alt: "A refined dark workspace with an open notebook, books, and a brass armillary sphere beside a window overlooking mountains at sunrise, representing ambition, discipline, and the pursuit of achievement."
-related: ["/en/docs/timeline/", "/en/docs/the-movement-matrix/site-completion-matrix/"]
-authors: ["Anna Pivtorak"]
+alt: A refined dark workspace with an open notebook, books, and a brass armillary sphere beside a window overlooking mountains at sunrise, representing ambition, discipline, and the pursuit of achievement.
+related:
+  - /en/docs/timeline/
+  - /en/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/essay/the-mindset-of-achievement/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
-weight: 1
+image_ratio: 1:1
+robots: index, follow
+weight: 2
 toc: true
 completion: 100
 seo: true

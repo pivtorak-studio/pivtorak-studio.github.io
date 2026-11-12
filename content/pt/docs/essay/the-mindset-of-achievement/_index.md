@@ -3,35 +3,55 @@ id: the-mindset-of-achievement
 language: pt
 locale: pt-PT
 translation_key: the-mindset-of-achievement
-title: "A Mentalidade da Realização"
+title: A Mentalidade da Realização
 slug: the-mindset-of-achievement
-description: "Uma série de ensaios sobre ambição, disciplina, perseverança, sucesso e realização pessoal, explorando os princípios da responsabilidade, consistência, curiosidade intelectual e integridade ética."
-summary: "A realização é mais do que reconhecimento ou sucesso material. É um processo contínuo de transformar ideias em realidade, desenvolver o próprio potencial, procurar a qualidade e criar valor duradouro. Esta série explora a mentalidade, as escolhas e os princípios que moldam uma realização pessoal e profissional com significado."
+description: Uma série de ensaios sobre ambição, disciplina, perseverança, sucesso e realização pessoal, explorando os princípios da responsabilidade, consistência, curiosidade intelectual e integridade ética.
+summary: A realização é mais do que reconhecimento ou sucesso material. É um processo contínuo de transformar ideias em realidade, desenvolver o próprio potencial, procurar a qualidade e criar valor duradouro. Esta série explora a mentalidade, as escolhas e os princípios que moldam uma realização pessoal e profissional com significado.
 date: 2025-11-14T06:00:00+00:00
 publication_date: 2025-11-14T06:00:00+00:00
 lastmod: 2026-11-12T15:00:00+00:00
-tags: ["TheMindsetOfAchievement", "Realização", "Ambição", "Disciplina", "Perseverança", "Sucesso", "CrescimentoPessoal", "IntegridadeÉtica"]
-keywords: ["mentalidade da realização", "realização pessoal", "ambição e disciplina", "perseverança e sucesso", "desenvolvimento pessoal", "autodisciplina", "curiosidade intelectual", "ambição ética", "qualidade e crescimento pessoal"]
+tags:
+  - TheMindsetOfAchievement
+  - Realização
+  - Ambição
+  - Disciplina
+  - Perseverança
+  - Sucesso
+  - CrescimentoPessoal
+  - IntegridadeÉtica
+keywords:
+  - mentalidade da realização
+  - realização pessoal
+  - ambição e disciplina
+  - perseverança e sucesso
+  - desenvolvimento pessoal
+  - autodisciplina
+  - curiosidade intelectual
+  - ambição ética
+  - qualidade e crescimento pessoal
 series: TheMindsetOfAchievement
-series_title: "A Mentalidade da Realização"
+series_title: A Mentalidade da Realização
 series_index: 0
 research_origin: Pivtorak.Studio
 content_type: essay_series
 schema_type: CollectionPage
-location: "Esposende, Portugal"
+location: Esposende, Portugal
 status: published
 featured: true
 draft: false
 image: /images/essay-the-mindset-of-achievement.webp
-alt: "Um espaço de trabalho elegante e escuro, com um caderno aberto, livros e uma esfera armilar em latão, junto a uma janela com vista para montanhas ao nascer do sol, simbolizando ambição, disciplina e realização."
-related: ["/pt/docs/timeline/", "/pt/docs/the-movement-matrix/site-completion-matrix/"]
-authors: ["Anna Pivtorak"]
+alt: Um espaço de trabalho elegante e escuro, com um caderno aberto, livros e uma esfera armilar em latão, junto a uma janela com vista para montanhas ao nascer do sol, simbolizando ambição, disciplina e realização.
+related:
+  - /pt/docs/timeline/
+  - /pt/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/essay/the-mindset-of-achievement/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
-weight: 1
+image_ratio: 1:1
+robots: index, follow
+weight: 2
 toc: true
 completion: 100
 seo: true

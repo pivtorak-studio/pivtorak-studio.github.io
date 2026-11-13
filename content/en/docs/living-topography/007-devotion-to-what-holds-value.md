@@ -132,7 +132,7 @@ No one was late. And no one arrived without having completed their homework. Eve
 
 No one had asked us to do this. We had received no reminders about the importance of the session, no emphasis on the need to prepare, and no additional motivation.
 
-And yet, everyone came. Everyone was ready.
+Everyone came. Everyone was ready.
 
 I was struck by this 100% attendance. Not as a measure of discipline or organisation, but as an expression of something much deeper. Each person had independently recognised the value of what was happening and responded through their own participation.
 

@@ -132,7 +132,7 @@ Ninguém chegou atrasado. E ninguém apareceu sem ter feito o trabalho de casa. 
 
 Ninguém nos tinha pedido isso. Não recebemos lembretes sobre a importância do encontro, nem insistências sobre a necessidade de preparação, nem qualquer motivação adicional.
 
-E, mesmo assim, todos vieram. Todos estavam preparados.
+Todos vieram. Todos estavam preparados.
 
 Impressionou-me esta presença a 100%. Não como indicador de disciplina ou organização, mas como manifestação de algo muito mais profundo. Cada pessoa reconheceu, por si própria, o valor daquilo que estava a acontecer e respondeu através da sua participação.
 

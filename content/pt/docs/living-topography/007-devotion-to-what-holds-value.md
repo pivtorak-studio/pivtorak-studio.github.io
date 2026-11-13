@@ -223,7 +223,7 @@ Por vezes, a verdadeira união começa precisamente aqui: quando cada pessoa rec
 
 ## P.S.
 
-Por vezes, a verdadeira união começa quando cada um compreende o valor daquilo que é comum.
+A verdadeira união começa quando cada um compreende o valor daquilo que é comum.
 
 **Alt-text:**   
 Um conjunto de cubos de madeira natural encontra-se dentro de um tabuleiro baixo de madeira, com algumas peças cuidadosamente empilhadas sobre as restantes. Cada cubo apresenta os seus próprios veios, tonalidade e características, mas todos fazem parte da mesma composição.   

@@ -230,7 +230,7 @@ Sometimes genuine solidarity begins precisely here: when each person independent
 
 ## P.S.
 
-Sometimes genuine togetherness begins when everyone understands, individually, the value of something shared.
+Genuine togetherness begins when everyone understands, individually, the value of something shared.
 
 **Alt-text:**   
 A collection of natural wooden cubes rests within a shallow wooden tray, with several pieces carefully arranged above the others. Each cube has its own grain, tone and character, yet all belong to the same composition.  

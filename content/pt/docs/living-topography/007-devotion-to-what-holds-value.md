@@ -124,7 +124,7 @@ search: true
 
 Há encontros de que guardamos palavras, movimentos ou vozes em particular. E há outros que nos deixam algo muito mais profundo — a consciência de tudo o que pode nascer entre as pessoas quando cada um chega não apenas para estar presente, mas para participar verdadeiramente. 
 
-Desta vez, o que mais me impressionou não foi um exercício específico, nem sequer a leitura de poesia em várias línguas. Foram os 100% de presença, os 100% de preparação e a dedicação espontânea àquilo que estávamos a construir em conjunto — sem que ninguém o tivesse exigido. Reconheci nisso uma forma especial de respeito: pelo orientador, pelos outros participantes e por aquilo que estamos a criar juntos.
+Desta vez, impressionaram-me os 100% de presença, os 100% de preparação e a dedicação espontânea àquilo que estávamos a construir em conjunto, sem que ninguém a tivesse exigido. Reconheci nisso uma forma especial de respeito: pelo orientador, pelos outros participantes e por aquilo que estamos a criar juntos.
 
 ## Quando Ninguém Precisa de Pedir
 

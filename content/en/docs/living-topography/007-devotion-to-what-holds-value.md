@@ -124,7 +124,7 @@ search: true
 
 There are gatherings after which we remember particular words, movements or voices. And then there are those that leave us with something much deeper — an awareness of how much can emerge between people when everyone comes not merely to be present, but to contribute wholeheartedly. 
 
-This time, it was not a particular exercise, or even the multilingual reading of poetry, that impressed me most. It was the 100% attendance, the 100% preparedness, and the natural devotion to something we were creating together — something no one had demanded. In this, I recognised a special form of respect: for the facilitator, for the other participants, and for what we were building together.  
+This time, I was struck by the 100% attendance, the 100% preparedness, and the natural devotion to our shared endeavour that no one had demanded. In this, I recognised a special form of respect: for the facilitator, for the other participants, and for what we were building together.  
 
 ## When No One Has to Ask
 

@@ -115,7 +115,6 @@ search: true
 
 # Звук, Який Ми Несемо Далі | Жива Топографія
 
-
 ![_Жива топографія. Звук, Який Ми Несемо Далі. AP | Pivtorak.Studio. 05.11.2026_ © Анна Півторак (Костюк)](/images/living-topography-006-the-sound-we-carry.webp)
 
 **05 листопада 2026 року | Зустріч № 6 | agirE CLDS 5G, Esposende**

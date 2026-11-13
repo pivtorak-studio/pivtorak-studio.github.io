@@ -219,8 +219,6 @@ Não nos tornámos iguais. Não abandonámos as nossas línguas, histórias ou e
 
 Simplesmente aprendemos a estar juntos, continuando a ser nós próprios.
 
-Por vezes, a verdadeira união começa precisamente aqui: quando cada pessoa reconhece, por si própria, o valor daquilo que é partilhado.
-
 ## P.S.
 
 A verdadeira união começa quando cada um compreende o valor daquilo que é comum.

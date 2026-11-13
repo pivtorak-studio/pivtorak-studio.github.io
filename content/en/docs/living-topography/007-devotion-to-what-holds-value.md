@@ -136,8 +136,6 @@ Everyone came. Everyone was ready.
 
 I was struck by this 100% attendance. Not as a measure of discipline or organisation, but as an expression of something much deeper. Each person had independently recognised the value of what was happening and responded through their own participation.
 
-I realised that genuine devotion does not always need words. Sometimes it is expressed most clearly when no one is asking for anything.
-
 ## Each with Their Own Voice
 
 This time, our languages took centre stage.
@@ -204,7 +202,7 @@ At the end, we created a collective text. Hugo began a sentence, and each partic
 
 No one knew in advance what the result would be. Each person contributed a small part, and gradually something emerged that belonged to none of us individually.
 
-Each word mattered. Without any one of those contributions, the collective text would have been different. It was a simple illustration of how an individual contribution becomes part of a shared result — something no one could have created alone.
+Each word mattered. Without any one of those contributions, the collective sentence would have been different. It was a simple illustration of how an individual contribution becomes part of a shared result — something no one could have created alone.
 
 ## Devotion That Brings People Together
 

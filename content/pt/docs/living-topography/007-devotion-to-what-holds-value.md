@@ -136,8 +136,6 @@ Todos vieram. Todos estavam preparados.
 
 Impressionou-me esta presença a 100%. Não como indicador de disciplina ou organização, mas como manifestação de algo muito mais profundo. Cada pessoa reconheceu, por si própria, o valor daquilo que estava a acontecer e respondeu através da sua participação.
 
-Percebi que a verdadeira dedicação nem sempre precisa de palavras. Por vezes, manifesta-se da forma mais clara precisamente quando ninguém pede nada.
-
 ## Cada Um com a Sua Voz
 
 Desta vez, as nossas línguas tiveram um lugar especial.
@@ -197,7 +195,7 @@ No final, criámos um texto coletivo. Hugo começou uma frase e cada participant
 
 Ninguém sabia antecipadamente qual seria o resultado. Cada pessoa acrescentava uma pequena parte e, gradualmente, surgia algo que já não pertencia a uma única pessoa.
 
-Cada palavra tinha importância. Sem qualquer uma daquelas contribuições, o texto coletivo teria sido diferente. Foi uma demonstração simples de como o contributo individual se transforma numa parte de um resultado comum — algo que ninguém conseguiria criar sozinho.
+Cada palavra tinha importância. Sem qualquer uma daquelas contribuições, a sentença coletiva teria sido diferente. Foi uma demonstração simples de como o contributo individual se transforma numa parte de um resultado comum — algo que ninguém conseguiria criar sozinho.
 
 ## A Dedicação que Nos Une
 

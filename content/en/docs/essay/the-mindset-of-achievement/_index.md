@@ -7,8 +7,8 @@ title: The Mindset of Achievement
 slug: the-mindset-of-achievement
 description: An essay series exploring ambition, discipline, perseverance, success, and personal fulfilment through the principles of responsibility, consistency, intellectual curiosity, and ethical integrity.
 summary: Achievement is more than recognition or material success. It is the ongoing process of turning ideas into reality, developing one's potential, pursuing quality, and creating lasting value. This series examines the mindset, choices, and principles that shape meaningful personal and professional achievement.
-date: 2025-11-14T06:00:00+00:00
-publication_date: 2025-11-14T06:00:00+00:00
+date: 2025-11-05T06:00:00+00:00
+publication_date: 2025-11-05T06:00:00+00:00
 lastmod: 2026-11-12T15:00:00+00:00
 tags:
   - TheMindsetOfAchievement
@@ -51,7 +51,7 @@ image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
 image_ratio: 1:1
 robots: index, follow
-weight: 2
+weight: 1
 toc: true
 completion: 100
 seo: true
@@ -70,7 +70,7 @@ bookCollapseSection: true
   "description": "An essay series exploring ambition, discipline, perseverance, success, and personal fulfilment through the principles of responsibility, consistency, intellectual curiosity, and ethical integrity.",
   "abstract": "Achievement is more than recognition or material success. It is the ongoing process of turning ideas into reality, developing one's potential, pursuing quality, and creating lasting value. This series examines the mindset, choices, and principles that shape meaningful personal and professional achievement.",
   "inLanguage": "en-US",
-  "datePublished": "2025-11-14T06:00:00+00:00",
+  "datePublished": "2025-11-05T06:00:00+00:00",
   "dateModified": "2026-11-12T15:00:00+00:00",
   "author": {
     "@type": "Person",
@@ -136,7 +136,7 @@ bookCollapseSection: true
 
 # The Mindset of Achievement
 
-![_The Mindset of Achievement. AP | Pivtorak.Studio. 14.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay-the-mindset-of-achievement.webp)
+![_The Mindset of Achievement. AP | Pivtorak.Studio. 05.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay-the-mindset-of-achievement.webp)
 
 This essay series explores the relationship between ambition, discipline, perseverance, success, and personal fulfilment.
 
@@ -153,7 +153,7 @@ Achievement, in this perspective, is not a final destination. It is an ongoing p
 **Alt-text:**   
 A refined dark workspace with an open notebook, books, and a brass armillary sphere beside a window overlooking mountains at sunrise, representing ambition, discipline, and the pursuit of achievement.
 
-_The Mindset of Achievement. AP | Pivtorak.Studio. 14.11.2025_  
+_The Mindset of Achievement. AP | Pivtorak.Studio. 05.11.2025_  
 © Anna Pivtorak (Kostyuk)
 
 ---

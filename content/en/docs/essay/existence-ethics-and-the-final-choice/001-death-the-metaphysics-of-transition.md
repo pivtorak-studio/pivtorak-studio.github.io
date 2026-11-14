@@ -4,7 +4,7 @@ language: en
 locale: en-US
 translation_of: 001-death-the-metaphysics-of-transition
 translation_key: 001-death-the-metaphysics-of-transition
-title: Death. The Metaphysics of Transition
+title: 001 Death. The Metaphysics of Transition
 slug: 001-death-the-metaphysics-of-transition
 description: A personal philosophical reflection on death as a transition, the choices of the soul, human mortality, family responsibility, and the historical experience of Ukraine.
 summary: Death is not merely an ending, but a threshold between states of existence. An essay exploring mortality, metaphysical choice, personal responsibility, and the meaning of continuity.
@@ -135,7 +135,6 @@ However, our personal perception of death does not exempt us from the need to co
 I am not threatened by death; I fully accept it as part of my path. I prefer it to be instantaneous, without burdening my loved ones with prolonged care. If a crisis occurs and I remain here, it simply means I still have a task I still have to fulfil.
 
 > 🖋️ _"Death is not an end but a quiet threshold after which the soul chooses once again."_  
-> Anna Pivtorak Kostyuk
 
 ![_Death. The Metaphysics of Transition | Existence Ethics And The Final Choice. AP | Pivtorak.Studio. 08.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay-existence-ethics-and-the-final-choice-001-death-the-metaphysics-of-transition-01-en.webp)
 

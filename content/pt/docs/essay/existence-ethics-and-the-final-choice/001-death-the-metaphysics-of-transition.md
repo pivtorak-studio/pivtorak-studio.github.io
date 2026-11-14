@@ -4,7 +4,7 @@ language: pt
 locale: pt-PT
 translation_of: 001-death-the-metaphysics-of-transition
 translation_key: 001-death-the-metaphysics-of-transition
-title: Morte. A Metafísica da Transição
+title: 001 Morte. A Metafísica da Transição
 slug: 001-death-the-metaphysics-of-transition
 description: Uma reflexão filosófica pessoal sobre a morte como transição, as escolhas da alma, a mortalidade humana, a responsabilidade familiar e a experiência histórica da Ucrânia.
 summary: A morte não é apenas um fim, mas um limiar entre estados de existência. Um ensaio sobre a mortalidade, a escolha metafísica, a responsabilidade pessoal e o significado da continuidade.
@@ -134,7 +134,6 @@ O contexto atual da Ucrânia torna o tema da morte particularmente doloroso. As 
 A morte não é uma ameaça para mim; aceito-a plenamente como parte do meu caminho. Prefiro que seja imediata, sem exigir cuidados prolongados dos meus familiares. Se uma crise ocorrer e eu permanecer aqui, isso significa apenas que ainda tenho uma tarefa que ainda tenho de cumprir.
 
 > 🖋️ _"A morte não é um fim, mas um limiar silencioso onde a alma escolhe novamente."_  
-> Anna Pivtorak (Kostyuk)
 
 ![_Morte. A Metafísica da Transição | A Ética da Existência e a Escolha Final. AP | Pivtorak.Studio. 08.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay-existence-ethics-and-the-final-choice-001-death-the-metaphysics-of-transition-01-pt.webp)
 

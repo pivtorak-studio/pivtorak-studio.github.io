@@ -8,9 +8,9 @@ title: ◯ Ensaio
 slug: essay
 description: Um espaço intelectual de reflexão, exploração e pensamento crítico sobre a experiência humana, o desenvolvimento pessoal, a ética e as forças que moldam a vida individual e coletiva.
 summary: Uma coleção de ensaios que explora ideias, questiona perspetivas estabelecidas, analisa realidades complexas e incentiva o pensamento autónomo.
-event_date: 2025-11-06T06:00:00+00:00
-publication_date: 2025-11-06T06:00:00+00:00
-date: 2025-11-06T06:00:00+00:00
+event_date: 2025-11-03T06:00:00+00:00
+publication_date: 2025-11-03T06:00:00+00:00
+date: 2025-11-03T06:00:00+00:00
 lastmod: 2026-11-12T16:00:00+00:00
 tags:
   - Ensaio
@@ -73,7 +73,7 @@ show_in_series_projects: true
   "headline": "Ensaio",
   "description": "Um espaço intelectual de reflexão, exploração e pensamento crítico sobre a experiência humana, o desenvolvimento pessoal, a ética e as forças que moldam a vida individual e coletiva.",
   "inLanguage": "pt-PT",
-  "datePublished": "2025-11-06T06:00:00+00:00",
+  "datePublished": "2025-11-03T06:00:00+00:00",
   "dateModified": "2026-11-12T16:00:00+00:00",
   "isPartOf": {
     "@type": "WebSite",
@@ -163,7 +163,7 @@ Em vez de apresentar respostas definitivas, esta secção convida à reflexão, 
 **Alt-text:**   
 Ensaio — um espaço intelectual de reflexão e pensamento crítico, representado por um livro aberto, um globo, uma ampulheta e uma escultura clássica diante de um pôr do sol.
 
-_Ensaio. AP | Pivtorak.Studio. 06.11.2025_    
+_Ensaio. AP | Pivtorak.Studio. 03.11.2025_    
 © Anna Pivtorak (Kostyuk)
 
 ---

@@ -8,9 +8,9 @@ title: ◯ Essay
 slug: essay
 description: An intellectual space for reflection, exploration, and critical thought on human experience, personal development, ethics, and the forces shaping individual and collective life.
 summary: A collection of essays exploring ideas, questioning established perspectives, examining complex realities, and encouraging independent thought.
-event_date: 2025-11-06T06:00:00+00:00
-publication_date: 2025-11-06T06:00:00+00:00
-date: 2025-11-06T06:00:00+00:00
+event_date: 2025-11-03T06:00:00+00:00
+publication_date: 2025-11-03T06:00:00+00:00
+date: 2025-11-03T06:00:00+00:00
 lastmod: 2026-11-12T16:00:00+00:00
 tags:
   - Essay
@@ -73,7 +73,7 @@ show_in_series_projects: true
   "headline": "Essay",
   "description": "An intellectual space for reflection, exploration, and critical thought on human experience, personal development, ethics, and the forces shaping individual and collective life.",
   "inLanguage": "en-US",
-  "datePublished": "2025-11-06T06:00:00+00:00",
+  "datePublished": "2025-11-03T06:00:00+00:00",
   "dateModified": "2026-11-12T16:00:00+00:00",
   "isPartOf": {
     "@type": "WebSite",
@@ -162,7 +162,7 @@ Rather than offering ready-made answers, this section invites thoughtful inquiry
 **Alt-text:**   
 Essay — an intellectual space for reflection and critical thought, represented by an open book, a globe, an hourglass, and a classical sculpture overlooking a sunset.
 
-_Essay. AP | Pivtorak.Studio. 06.11.2025_  
+_Essay. AP | Pivtorak.Studio. 03.11.2025_  
 © Anna Pivtorak (Kostyuk)
 
 ---

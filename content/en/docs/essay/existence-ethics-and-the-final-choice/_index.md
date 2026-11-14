@@ -8,8 +8,8 @@ title: Existence Ethics and The Final Choice
 slug: existence-ethics-and-the-final-choice
 description: A philosophical essay series exploring human existence, individual freedom, personal responsibility, human dignity, suffering, care, and the ethical boundaries of the right to choose.
 summary: An ongoing philosophical exploration of life and death, autonomy and responsibility, suffering and compassion, medical ethics, human dignity, and the moral consequences of individual choice.
-publication_date: 2026-11-12T06:00:00+00:00
-date: 2026-11-12T06:00:00+00:00
+publication_date: 2025-11-08T06:00:00+00:00
+date: 2025-11-08T06:00:00+00:00
 lastmod: 2026-11-12T16:44:00+00:00
 tags:
   - ExistenceEthicsAndTheFinalChoice
@@ -87,7 +87,7 @@ bookCollapseSection: true
   "description": "A philosophical essay series exploring human existence, individual freedom, personal responsibility, human dignity, suffering, care, and the ethical boundaries of the right to choose.",
   "abstract": "An ongoing philosophical exploration of life and death, autonomy and responsibility, suffering and compassion, medical ethics, human dignity, and the moral consequences of individual choice.",
   "inLanguage": "en-US",
-  "datePublished": "2026-11-12T06:00:00+00:00",
+  "datePublished": "2025-11-08T06:00:00+00:00",
   "dateModified": "2026-11-12T16:44:00+00:00",
   "author": {
     "@type": "Person",

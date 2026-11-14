@@ -8,8 +8,8 @@ title: A Ética da Existência e a Escolha Final
 slug: existence-ethics-and-the-final-choice
 description: Uma série de ensaios filosóficos sobre a existência humana, a liberdade individual, a responsabilidade pessoal, a dignidade humana, o sofrimento, o cuidado e os limites éticos do direito de escolher.
 summary: Uma reflexão filosófica contínua sobre a vida e a morte, a autonomia e a responsabilidade, o sofrimento e a compaixão, a ética médica, a dignidade humana e as consequências morais das escolhas individuais.
-publication_date: 2026-11-12T06:00:00+00:00
-date: 2026-11-12T06:00:00+00:00
+publication_date: 2025-11-08T06:00:00+00:00
+date: 2025-11-08T06:00:00+00:00
 lastmod: 2026-11-12T16:44:00+00:00
 tags:
   - ExistenceEthicsAndTheFinalChoice
@@ -86,7 +86,7 @@ bookCollapseSection: true
   "description": "Uma série de ensaios filosóficos sobre a existência humana, a liberdade individual, a responsabilidade pessoal, a dignidade humana, o sofrimento, o cuidado e os limites éticos do direito de escolher.",
   "abstract": "Uma reflexão filosófica contínua sobre a vida e a morte, a autonomia e a responsabilidade, o sofrimento e a compaixão, a ética médica, a dignidade humana e as consequências morais das escolhas individuais.",
   "inLanguage": "pt-PT",
-  "datePublished": "2026-11-12T06:00:00+00:00",
+  "datePublished": "2025-11-08T06:00:00+00:00",
   "dateModified": "2026-11-12T16:44:00+00:00",
   "author": {
     "@type": "Person",

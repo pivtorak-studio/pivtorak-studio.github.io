@@ -29,8 +29,8 @@ keywords:
   - moral responsibility
   - ambition without morality
   - ethical ambition
-series: LifeReconfigured
-series_title: The Mindset of Achievement
+series: TheMindsetOfAchievement
+series_title: The Mindset Of Achievement
 series_index: 1
 research_origin: Pivtorak.Studio
 content_type: essay
@@ -99,8 +99,8 @@ search: true
   ],
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "The Mindset of Achievement",
-    "identifier": "LifeReconfigured"
+    "name": "The Mindset Of Achievement",
+    "identifier": "TheMindsetOfAchievement"
   }
 }
 </script>
@@ -124,7 +124,7 @@ There is a popular saying often attributed to Thomas Jefferson: _"Nothing can st
 ![_Ambitions | The Mindset of Achievement. AP | Pivtorak.Studio. 05.11.2025_ © Anna Pivtorak (Kostyuk)](/images/essay-the-mindset-of-achievement-001-ambitions-01-en.webp)
 
 **Alt-text:**   
-A refined dark workspace with an open notebook, books, and a brass armillary sphere beside a window overlooking mountains at sunrise, representing ambition, discipline, and the pursuit of achievement.
+Minimalist dark workspace with a tablet displaying the title “Ambitions” and the quote “Ambition without morality is a flame without light,” accompanied by a coffee cup, notebook, glasses, and pens.
 
-_The Mindset of Achievement. AP | Pivtorak.Studio. 05.11.2025_  
+_Ambitions | The Mindset of Achievement. AP | Pivtorak.Studio. 05.11.2025_  
 © Anna Pivtorak (Kostyuk)

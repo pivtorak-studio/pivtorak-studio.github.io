@@ -29,8 +29,8 @@ keywords:
   - моральная ответственность
   - амбиции без морали
   - этичные амбиции
-series: LifeReconfigured
-series_title: Ментальность Достижения
+series: TheMindsetOfAchievement
+series_title: The Mindset Of Achievement
 series_index: 1
 research_origin: Pivtorak.Studio
 content_type: essay
@@ -99,8 +99,8 @@ search: true
   ],
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Ментальность Достижения",
-    "identifier": "LifeReconfigured"
+    "name": "The Mindset Of Achievement",
+    "identifier": "TheMindsetOfAchievement"
   }
 }
 </script>

@@ -29,8 +29,8 @@ keywords:
   - моральна відповідальність
   - амбіції без моралі
   - етичні амбіції
-series: LifeReconfigured
-series_title: Ментальність Досягнення
+series: TheMindsetOfAchievement
+series_title: The Mindset Of Achievement
 series_index: 1
 research_origin: Pivtorak.Studio
 content_type: essay
@@ -99,8 +99,8 @@ search: true
   ],
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "Ментальність Досягнення",
-    "identifier": "LifeReconfigured"
+    "name": "The Mindset Of Achievement",
+    "identifier": "TheMindsetOfAchievement"
   }
 }
 </script>

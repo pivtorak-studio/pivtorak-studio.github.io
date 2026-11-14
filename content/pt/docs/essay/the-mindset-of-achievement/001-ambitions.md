@@ -29,8 +29,8 @@ keywords:
   - responsabilidade moral
   - ambição sem moralidade
   - ambição ética
-series: LifeReconfigured
-series_title: A Mentalidade da Realização
+series: TheMindsetOfAchievement
+series_title: The Mindset Of Achievement
 series_index: 1
 research_origin: Pivtorak.Studio
 content_type: essay
@@ -99,8 +99,8 @@ search: true
   ],
   "isPartOf": {
     "@type": "CreativeWorkSeries",
-    "name": "A Mentalidade da Realização",
-    "identifier": "LifeReconfigured"
+    "name": "The Mindset Of Achievement",
+    "identifier": "TheMindsetOfAchievement"
   }
 }
 </script>

@@ -226,6 +226,8 @@ We did not become the same. We did not abandon our languages, stories or persona
 
 We simply learned to be together while remaining ourselves.
 
+Sometimes genuine solidarity begins precisely here: when each person independently recognises the value of what is shared.
+
 ## P.S.
 
 Genuine togetherness begins when everyone understands, individually, the value of something shared.

@@ -4,37 +4,56 @@ language: uk
 locale: uk-UA
 translation_of: 000-emigration-responsibility-for-the-future
 translation_key: 000-emigration-responsibility-for-the-future
-title: "000. Еміграція: Відповідальність за майбутнє"
-subtitle: "Не чекати, поки стане пізно"
+title: "000 Еміграція: Відповідальність за майбутнє"
+subtitle: Не чекати, поки стане пізно
 slug: 000-emigration-responsibility-for-the-future
 seo_title: "Еміграція: Відповідальність за майбутнє | Життя в новій конфігурації"
-description: "Подорож родини з Києва до Португалії у березні 2022 року. Особиста історія про від'їзд із дому під час повномасштабного вторгнення в Україну, захист дітей, прийняття невизначеності та рішення діяти, поки не стало пізно."
-summary: "4 березня 2022 року родина із семи людей і двох собак залишила Київ. Через 17 днів вони оселилися в новому помешканні в Ешпозенде, Португалія. Есе розповідає про дорогу через Європу, документи й небагато речей, які родина взяла із собою, незнайомих людей, що прийшли на допомогу, та момент, коли батьківська відповідальність перетворилася на рішення діяти."
+description: Подорож родини з Києва до Португалії у березні 2022 року. Особиста історія про від'їзд із дому під час повномасштабного вторгнення в Україну, захист дітей, прийняття невизначеності та рішення діяти, поки не стало пізно.
+summary: 4 березня 2022 року родина із п'яти людей і двох собак залишила Київ. Через 17 днів вони оселилися в новому помешканні в Ешпозенде, Португалія. Есе розповідає про дорогу через Європу, документи й небагато речей, які родина взяла із собою, незнайомих людей, що прийшли на допомогу, та момент, коли батьківська відповідальність перетворилася на рішення діяти.
 event_date: 2022-03-04
 publication_date: 2026-11-15T12:00:00+00:00
 date: 2026-11-15T12:00:00+00:00
 lastmod: 2026-11-15T12:00:00+00:00
-tags: [еміграція, Україна, Португалія, родина, вимушене-переселення, війна, особиста-історія, шлях-біженців]
-keywords: [еміграція з України, виїзд із Києва у 2022 році, українська родина в Португалії, шлях з України до Португалії, евакуація родини, батьківська відповідальність, життя після вимушеного переселення]
+tags:
+  - еміграція
+  - Україна
+  - Португалія
+  - родина
+  - вимушене-переселення
+  - війна
+  - особиста-історія
+  - шлях-біженців
+keywords:
+  - еміграція з України
+  - виїзд із Києва у 2022 році
+  - українська родина в Португалії
+  - шлях з України до Португалії
+  - евакуація родини
+  - батьківська відповідальність
+  - життя після вимушеного переселення
 series: LifeReconfigured
 series_title: Життя в новій конфігурації
 series_index: 1
 research_origin: Pivtorak.Studio
 content_type: essay
 schema_type: Article
-location: "Esposende, Portugal"
+location: Esposende, Portugal
 status: published
 featured: true
 draft: false
 image: /images/essay-life-reconfigured-000-emigration-responsibility-for-the-future.webp
 alt: "Родинні документи на тлі мапи Європи: п’ять синіх українських закордонних паспортів, три посвідчення дітей із багатодітної родини, червоне посвідчення батьків багатодітної родини та два ветеринарні паспорти собак. Поруч — мобільний телефон у шкіряному чохлі-книжці, теплий шарф, компас, ручка й фотографія узбережжя. Ці документи родина взяла із собою, залишаючи Київ у березні 2022 року."
-related: [/uk/docs/essay/life-reconfigured/, /uk/docs/timeline/, /uk/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+related:
+  - /uk/docs/essay/life-reconfigured/
+  - /uk/docs/timeline/
+  - /uk/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/essay/life-reconfigured/000-emigration-responsibility-for-the-future/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
+image_ratio: 1:1
+robots: index, follow
 weight: 1
 toc: true
 completion: 100
@@ -52,7 +71,7 @@ search: true
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/uk/docs/essay/life-reconfigured/000-emigration-responsibility-for-the-future/"
   },
-  "headline": "000. Еміграція: Відповідальність за майбутнє",
+  "headline": "000 Еміграція: Відповідальність за майбутнє",
   "alternativeHeadline": "Не чекати, поки стане пізно",
   "description": "Подорож родини з Києва до Португалії у березні 2022 року. Особиста історія про від'їзд із дому під час повномасштабного вторгнення в Україну, захист дітей, прийняття невизначеності та рішення діяти, поки не стало пізно.",
   "image": {

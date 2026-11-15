@@ -9,7 +9,7 @@ subtitle: Not Waiting Until It Is Too Late
 slug: 000-emigration-responsibility-for-the-future
 seo_title: "Emigration: Responsibility for the Future | Life Reconfigured"
 description: A family's journey from Kyiv to Portugal in March 2022. A personal account of leaving home during the full-scale invasion of Ukraine, protecting children, accepting uncertainty, and making a decision before it was too late.
-summary: On 4 March 2022, a family of seven and two dogs left Kyiv. Seventeen days later, they reached their new home in Esposende, Portugal. This essay recounts the journey across Europe, the documents and few belongings they carried, the strangers who helped them, and the moment when parental responsibility became a decision to act.
+summary: On 4 March 2022, a family of five and two dogs left Kyiv. Seventeen days later, they reached their new home in Esposende, Portugal. This essay recounts the journey across Europe, the documents and few belongings they carried, the strangers who helped them, and the moment when parental responsibility became a decision to act.
 event_date: 2022-03-04
 publication_date: 2026-11-15T12:00:00+00:00
 date: 2026-11-15T12:00:00+00:00
@@ -71,7 +71,7 @@ search: true
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/en/docs/essay/life-reconfigured/000-emigration-responsibility-for-the-future/"
   },
-  "headline": "000. Emigration: Responsibility for the Future",
+  "headline": "000 Emigration: Responsibility for the Future",
   "alternativeHeadline": "Not Waiting Until It Is Too Late",
   "description": "A family's journey from Kyiv to Portugal in March 2022. A personal account of leaving home during the full-scale invasion of Ukraine, protecting children, accepting uncertainty, and making a decision before it was too late.",
   "image": {
@@ -147,7 +147,7 @@ _Not waiting until it is too late_
 
 Our life was in Kyiv. Our home, work, children, familiar routines, and plans that never included emigration were all there. We were not packing suitcases or looking for another country. But on 24 February 2022, the war entered our lives not through news reports or air-raid sirens — we woke up to explosions.
 
-Eventually, we had to make a decision we had never anticipated: leave our home or wait. I did not know what awaited us along the way, how we would be received, or what difficulties we would have to face. But I knew exactly where we were going: I was taking the children to a safe place — Portugal, as far away from the war as possible.
+Eventually, we had to make a decision we had never anticipated: leave our home or wait. I did not know what awaited us along the way, how we would be received, or what difficulties we would have to face. But I knew exactly where we were going: I was taking the children to a safe place — as far away from the war as possible.
 
 And I understood one thing clearly: while there was still an opportunity to act, we could not postpone the decision. Especially when the lives and health of our children were at stake.
 
@@ -167,7 +167,7 @@ During the first few days, my husband and I slept in shifts. Whoever was awake s
 
 We could not understand why the president was nowhere to be seen. I believe he appeared on television only on the fourth day. But by then, it no longer mattered to us. We did not listen to him, just as we had not listened to him before.
 
-I was angry with the government at the time. I believed the country had not been prepared for war, and that the decisions made before the invasion had done little to create a sense of readiness for the danger ahead. This was my personal view, which had taken shape even before we began considering leaving.
+I was angry with this government. I believed the country had not been prepared for war, and that the decisions made before the invasion had done little to create a sense of readiness for the danger ahead. This was my personal view, which had taken shape even before we began considering leaving.
 
 The children slept in their own beds, but they were already dressed. We never woke them to take them down to the bomb shelter.
 

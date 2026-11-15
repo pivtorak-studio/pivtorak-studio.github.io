@@ -9,7 +9,7 @@ subtitle: Não Esperar Até Ser Demasiado Tarde
 slug: 000-emigration-responsibility-for-the-future
 seo_title: "Emigração: A Responsabilidade pelo Futuro | Vida Reconfigurada"
 description: A viagem de uma família de Kyiv até Portugal, em março de 2022. Um relato pessoal sobre deixar a casa durante a invasão em grande escala da Ucrânia, proteger os filhos, enfrentar a incerteza e tomar uma decisão antes que fosse demasiado tarde.
-summary: A 4 de março de 2022, uma família de sete pessoas e dois cães saiu de Kyiv. Dezassete dias depois, chegou à sua nova casa em Esposende, Portugal. Este ensaio relata a viagem pela Europa, os documentos e os poucos pertences que levaram consigo, as pessoas desconhecidas que os ajudaram e o momento em que a responsabilidade parental se transformou numa decisão de agir.
+summary: A 4 de março de 2022, uma família de sinco pessoas e dois cães saiu de Kyiv. Dezassete dias depois, chegou à sua nova casa em Esposende, Portugal. Este ensaio relata a viagem pela Europa, os documentos e os poucos pertences que levaram consigo, as pessoas desconhecidas que os ajudaram e o momento em que a responsabilidade parental se transformou numa decisão de agir.
 event_date: 2022-03-04
 publication_date: 2026-11-15T12:00:00+00:00
 date: 2026-11-15T12:00:00+00:00
@@ -71,7 +71,7 @@ search: true
     "@type": "WebPage",
     "@id": "https://pivtorak.studio/pt/docs/essay/life-reconfigured/000-emigration-responsibility-for-the-future/"
   },
-  "headline": "000. Emigração: A Responsabilidade pelo Futuro",
+  "headline": "000 Emigração: A Responsabilidade pelo Futuro",
   "alternativeHeadline": "Não Esperar Até Ser Demasiado Tarde",
   "description": "A viagem de uma família de Kyiv até Portugal, em março de 2022. Um relato pessoal sobre deixar a casa durante a invasão em grande escala da Ucrânia, proteger os filhos, enfrentar a incerteza e tomar uma decisão antes que fosse demasiado tarde.",
   "image": {
@@ -147,7 +147,7 @@ _Não esperar até ser demasiado tarde_
 
 A nossa vida estava em Kyiv. A nossa casa, o trabalho, os filhos, os percursos habituais e os planos que nunca incluíram a emigração estavam todos lá. Não estávamos a fazer malas nem à procura de outro país. Mas, a 24 de fevereiro de 2022, a guerra entrou nas nossas vidas não através das notícias ou das sirenes de alerta aéreo — acordámos com o som das explosões.
 
-Acabámos por ter de tomar uma decisão que nunca tínhamos previsto: deixar a nossa casa ou esperar. Não sabia o que nos esperava durante a viagem, como seríamos recebidos ou que dificuldades teríamos de enfrentar. Mas sabia exatamente para onde íamos: levava os meus filhos para um lugar seguro — Portugal, o mais longe possível da guerra.
+Acabámos por ter de tomar uma decisão que nunca tínhamos previsto: deixar a nossa casa ou esperar. Não sabia o que nos esperava durante a viagem, como seríamos recebidos ou que dificuldades teríamos de enfrentar. Mas sabia exatamente para onde íamos: levava os meus filhos para um lugar seguro — o mais longe possível da guerra.
 
 E compreendia uma coisa com toda a clareza: enquanto ainda houvesse oportunidade de agir, não podíamos adiar a decisão. Sobretudo quando estavam em causa a vida e a saúde dos nossos filhos.
 
@@ -167,7 +167,7 @@ Durante os primeiros dias, eu e o meu marido dormíamos à vez. Quem ficava acor
 
 Não compreendíamos porque não havia sinais do presidente. Penso que só apareceu na televisão ao quarto dia. Mas, nessa altura, isso já tinha deixado de ter importância para nós. Não o ouvíamos, tal como já não o ouvíamos antes.
 
-Sentia raiva daquele governo. Considerava que o país não tinha sido preparado para a guerra e que as decisões tomadas antes da invasão não tinham criado qualquer sensação de preparação para o perigo que se aproximava. Era a minha opinião pessoal, formada ainda antes de começarmos a pensar em partir.
+Sentia raiva deste governo. Considerava que o país não tinha sido preparado para a guerra e que as decisões tomadas antes da invasão não tinham criado qualquer sensação de preparação para o perigo que se aproximava. Era a minha opinião pessoal, formada ainda antes de começarmos a pensar em partir.
 
 As crianças dormiam nas suas próprias camas, mas já vestidas. Nunca as acordámos para as levar ao abrigo antiaéreo.
 
@@ -335,7 +335,7 @@ Tinha uma conhecida em Portugal, voluntária numa instituição ligada a um semi
 
 A ideia agradou-me. Sonhava com Espanha e até andava, em tom de brincadeira, a estudar espanhol, mas Portugal também me parecia uma boa escolha. Para lá dele, só havia o oceano.
 
-O meu irmão dizia que Portugal era um país mais descontraído do que Espanha.
+O meu irmão dizia que Portugal era um país mais *relaxed* do que Espanha.
 
 Hoje já não penso assim, mas naquela altura acreditei nele.
 

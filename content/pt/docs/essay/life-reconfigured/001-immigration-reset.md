@@ -7,17 +7,32 @@ translation_key: 001-immigration-reset
 title: "001 Imigração: Recomeçar do Zero"
 slug: 001-immigration-reset
 seo_title: "Imigração: Recomeçar do Zero | Vida Reconfigurada"
-description: "Um ensaio sobre a imigração como reinício dos sistemas habituais da vida, do estatuto profissional e da geografia familiar — e sobre a redefinição daquilo de que precisamos para viver com sentido."
-summary: "Trouxemos connosco o que era importante. O resto passou a fazer parte do nosso passado. Uma reflexão pessoal sobre imigração, identidade profissional, família e liberdade para construir uma vida diferente sem reconstruir tudo o que ficou para trás."
+description: Um ensaio sobre a imigração como reinício dos sistemas habituais da vida, do estatuto profissional e da geografia familiar — e sobre a redefinição daquilo de que precisamos para viver com sentido.
+summary: Trouxemos connosco o que era importante. O resto passou a fazer parte do nosso passado. Uma reflexão pessoal sobre imigração, identidade profissional, família e liberdade para construir uma vida diferente sem reconstruir tudo o que ficou para trás.
 event_date: 2026-11-12T12:00:00+00:00
 publication_date: 2026-11-12T12:00:00+00:00
 date: 2026-11-12T12:00:00+00:00
 lastmod: 2026-11-12T12:00:00+00:00
-tags: [Imigração, Migração, Vida Reconfigurada, Identidade Profissional, Família, Adaptação, Novos Começos]
-keywords: [imigração, recomeçar do zero, identidade profissional após a imigração, família e migração, reconstruir a vida, adaptação, Portugal, imigração ucraniana]
+tags:
+  - Imigração
+  - Migração
+  - Vida Reconfigurada
+  - Identidade Profissional
+  - Família
+  - Adaptação
+  - Novos Começos
+keywords:
+  - imigração
+  - recomeçar do zero
+  - identidade profissional após a imigração
+  - família e migração
+  - reconstruir a vida
+  - adaptação
+  - Portugal
+  - imigração ucraniana
 series: LifeReconfigured
 series_title: Vida Reconfigurada
-series_index: 1
+series_index: 2
 research_origin: Pivtorak.Studio
 content_type: essay
 schema_type: Article
@@ -26,15 +41,19 @@ status: published
 featured: true
 draft: false
 image: /images/essay-life-reconfigured-001-immigration-reset.webp
-alt: "Cinco mochilas de viagem encostadas a uma parede branca, junto de um Boxer e de um Bulldog Francês de pelo tigrado, ambos a dormir num apartamento limpo e vazio. Um momento tranquilo de chegada e de início de uma nova vida."
-related: [/pt/docs/essay/life-reconfigured/, /pt/docs/timeline/, /pt/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+alt: Cinco mochilas de viagem encostadas a uma parede branca, junto de um Boxer e de um Bulldog Francês de pelo tigrado, ambos a dormir num apartamento limpo e vazio. Um momento tranquilo de chegada e de início de uma nova vida.
+related:
+  - /pt/docs/essay/life-reconfigured/
+  - /pt/docs/timeline/
+  - /pt/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/essay/life-reconfigured/001-immigration-reset/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
-weight: 1
+image_ratio: 1:1
+robots: index, follow
+weight: 2
 toc: true
 completion: 100
 seo: true

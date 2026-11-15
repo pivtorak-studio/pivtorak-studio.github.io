@@ -7,17 +7,32 @@ translation_key: 001-immigration-reset
 title: "001 Імміграція: Обнулення"
 slug: 001-immigration-reset
 seo_title: "Імміграція: Обнулення | Життя в новій конфігурації"
-description: "Есе про імміграцію як обнулення звичних життєвих систем, професійного статусу та географії родини — і про переосмислення того, що насправді потрібно для повноцінного життя."
-summary: "Ми взяли із собою найважливіше. Усе інше стало частиною нашого минулого. Особисті роздуми про імміграцію, професійну ідентичність, родину та свободу будувати інше життя, не відновлюючи всього залишеного позаду."
+description: Есе про імміграцію як обнулення звичних життєвих систем, професійного статусу та географії родини — і про переосмислення того, що насправді потрібно для повноцінного життя.
+summary: Ми взяли із собою найважливіше. Усе інше стало частиною нашого минулого. Особисті роздуми про імміграцію, професійну ідентичність, родину та свободу будувати інше життя, не відновлюючи всього залишеного позаду.
 event_date: 2026-11-12T12:00:00+00:00
 publication_date: 2026-11-12T12:00:00+00:00
 date: 2026-11-12T12:00:00+00:00
 lastmod: 2026-11-12T12:00:00+00:00
-tags: [Імміграція, Міграція, Життя в новій конфігурації, Професійна ідентичність, Родина, Адаптація, Новий початок]
-keywords: [імміграція, обнулення життя, професійна ідентичність після імміграції, родина і міграція, перебудова життя, адаптація, Португалія, українська імміграція]
+tags:
+  - Імміграція
+  - Міграція
+  - Життя в новій конфігурації
+  - Професійна ідентичність
+  - Родина
+  - Адаптація
+  - Новий початок
+keywords:
+  - імміграція
+  - обнулення життя
+  - професійна ідентичність після імміграції
+  - родина і міграція
+  - перебудова життя
+  - адаптація
+  - Португалія
+  - українська імміграція
 series: LifeReconfigured
 series_title: Життя в новій конфігурації
-series_index: 1
+series_index: 2
 research_origin: Pivtorak.Studio
 content_type: essay
 schema_type: Article
@@ -26,15 +41,19 @@ status: published
 featured: true
 draft: false
 image: /images/essay-life-reconfigured-001-immigration-reset.webp
-alt: "П'ять дорожніх рюкзаків біля білої стіни поруч зі сплячими німецьким боксером і тигровим французьким бульдогом у чистій порожній квартирі. Тиха мить прибуття та початку нового життя."
-related: [/uk/docs/essay/life-reconfigured/, /uk/docs/timeline/, /uk/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+alt: П'ять дорожніх рюкзаків біля білої стіни поруч зі сплячими німецьким боксером і тигровим французьким бульдогом у чистій порожній квартирі. Тиха мить прибуття та початку нового життя.
+related:
+  - /uk/docs/essay/life-reconfigured/
+  - /uk/docs/timeline/
+  - /uk/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/essay/life-reconfigured/001-immigration-reset/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
-weight: 1
+image_ratio: 1:1
+robots: index, follow
+weight: 2
 toc: true
 completion: 100
 seo: true

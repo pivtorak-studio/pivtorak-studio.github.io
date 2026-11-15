@@ -7,17 +7,32 @@ translation_key: 001-immigration-reset
 title: "001 Immigration: Reset"
 slug: 001-immigration-reset
 seo_title: "Immigration: Reset | Life Reconfigured"
-description: "An essay about immigration as a reset of familiar life systems, professional status and family geography — and about redefining what we need for a meaningful life."
-summary: "We brought what mattered. The rest became part of our past. A personal reflection on immigration, professional identity, family, and the freedom to build a different life without rebuilding everything left behind."
+description: An essay about immigration as a reset of familiar life systems, professional status and family geography — and about redefining what we need for a meaningful life.
+summary: We brought what mattered. The rest became part of our past. A personal reflection on immigration, professional identity, family, and the freedom to build a different life without rebuilding everything left behind.
 event_date: 2026-11-12T12:00:00+00:00
 publication_date: 2026-11-12T12:00:00+00:00
 date: 2026-11-12T12:00:00+00:00
 lastmod: 2026-11-12T12:00:00+00:00
-tags: [Immigration, Migration, Life Reconfigured, Professional Identity, Family, Adaptation, New Beginnings]
-keywords: [immigration, life reset, professional identity after immigration, family and migration, rebuilding life, adaptation, Portugal, Ukrainian immigration]
+tags:
+  - Immigration
+  - Migration
+  - Life Reconfigured
+  - Professional Identity
+  - Family
+  - Adaptation
+  - New Beginnings
+keywords:
+  - immigration
+  - life reset
+  - professional identity after immigration
+  - family and migration
+  - rebuilding life
+  - adaptation
+  - Portugal
+  - Ukrainian immigration
 series: LifeReconfigured
 series_title: Life Reconfigured
-series_index: 1
+series_index: 2
 research_origin: Pivtorak.Studio
 content_type: essay
 schema_type: Article
@@ -26,15 +41,19 @@ status: published
 featured: true
 draft: false
 image: /images/essay-life-reconfigured-001-immigration-reset.webp
-alt: "Five travel backpacks arranged against a white wall beside a sleeping Boxer and a brindle French Bulldog in a clean, empty apartment. A quiet moment of arrival and the beginning of a new life."
-related: [/en/docs/essay/life-reconfigured/, /en/docs/timeline/, /en/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+alt: Five travel backpacks arranged against a white wall beside a sleeping Boxer and a brindle French Bulldog in a clean, empty apartment. A quiet moment of arrival and the beginning of a new life.
+related:
+  - /en/docs/essay/life-reconfigured/
+  - /en/docs/timeline/
+  - /en/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/essay/life-reconfigured/001-immigration-reset/
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-robots: "index, follow"
-weight: 1
+image_ratio: 1:1
+robots: index, follow
+weight: 4
 toc: true
 completion: 100
 seo: true

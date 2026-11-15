@@ -496,7 +496,7 @@ Now, looking back, I know that I did the most important thing — I did not post
 ![_Emigration: Responsibility for the Future | Life Reconfigured. AP | Pivtorak.Studio. 15.11.2026_ © Anna Pivtorak (Kostyuk)](/images/essay-life-reconfigured-000-emigration-responsibility-for-the-future-03-en.webp)
 
 **Alt-text 1:**   
-Family documents arranged over a map of Europe: five blue Ukrainian international passports, three blue certificates for children from a large family, one red certificate for the parents of a large family, and two international veterinary passports for the dogs. Nearby are a mobile phone in a leather book-style case, a warm scarf, a pen, a compass, and a photograph of the coastline. These were among the documents and personal belongings the family took when leaving Kyiv in March 2022.
+Family documents arranged over a map of Europe: five blue Ukrainian international passports, three blue certificates for children from a large family, one red certificate for the parents of a large family, and two international veterinary passports for the dogs. Nearby are a mobile phone in a leather book-style case, a warm scarf, a pen, and a compass. These were among the documents and personal belongings the family took when leaving Kyiv in March 2022.
 
 **Alt-text 2:**   
 A black Panasonic RX-CT800 double cassette recorder fitted into a purpose-built niche in the kitchen cabinetry. A microwave with dark glass doors is positioned above it, alongside frosted-glass cabinet fronts and glossy yellow-beige cupboards. The family bought this cassette recorder shortly after their wedding in 1995. It was still working 27 years later. The owner sometimes listened to the radio while preparing meals at the other end of the kitchen.

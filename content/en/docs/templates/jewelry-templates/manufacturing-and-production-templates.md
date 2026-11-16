@@ -123,7 +123,6 @@ search: pending
       },
       "workTranslation": [
         { "@id": "https://pivtorak.studio/pt/docs/templates/jewelry-templates/manufacturing-and-production-templates/" },
-        { "@id": "https://pivtorak.studio/ru/docs/templates/jewelry-templates/manufacturing-and-production-templates/" },
         { "@id": "https://pivtorak.studio/uk/docs/templates/jewelry-templates/manufacturing-and-production-templates/" }
       ]
     },

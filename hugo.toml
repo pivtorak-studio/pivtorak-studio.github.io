@@ -8,15 +8,15 @@ enableRobotsTXT = true
 
 [languages]
   [languages.uk]
-    languageName = 'UA'
+    label = 'UA'
     contentDir = 'content/uk'
     weight = 1
   [languages.en]
-    languageName = 'EN'
+    label = 'EN'
     contentDir = 'content/en'
     weight = 2
   [languages.pt]
-    languageName = 'PT'
+    label = 'PT'
     contentDir = 'content/pt'
     weight = 3
   # [languages.ru]

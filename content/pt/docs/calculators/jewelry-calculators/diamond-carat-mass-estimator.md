@@ -89,9 +89,6 @@ translation_of: diamond-carat-mass-estimator
           "@id": "https://pivtorak.studio/en/docs/calculators/jewelry-calculators/diamond-carat-mass-estimator/#webpage"
         },
         {
-          "@id": "https://pivtorak.studio/ru/docs/calculators/jewelry-calculators/diamond-carat-mass-estimator/#webpage"
-        },
-        {
           "@id": "https://pivtorak.studio/uk/docs/calculators/jewelry-calculators/diamond-carat-mass-estimator/#webpage"
         }
       ]

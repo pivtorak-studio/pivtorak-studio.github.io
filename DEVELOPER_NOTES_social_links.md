@@ -264,3 +264,10 @@ DEVELOPER_NOTES_menu_groups.md
 Keep the integration recognizable, lightweight, accessible, and independent from external widgets.
 
 One icon → one verified link → one controlled implementation.
+
+---
+### Production Verification
+
+- Instagram icon successfully rendered on the live website.
+- External link to https://www.instagram.com/pivtorak.studio/ verified.
+- Navigation appearance and existing menu functionality preserved after deployment.

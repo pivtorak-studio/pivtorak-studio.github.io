@@ -30,7 +30,11 @@ jobs:
           extended: true
 
       - name: Install Dart Sass
-        run: sudo snap install dart-sass
+        run: |
+          curl -fsSL https://github.com/sass/dart-sass/releases/download/1.108.2/dart-sass-1.108.2-linux-x64.tar.gz -o /tmp/dart-sass.tar.gz
+          sudo tar -xzf /tmp/dart-sass.tar.gz -C /opt
+          echo "/opt/dart-sass" >> "$GITHUB_PATH"
+          /opt/dart-sass/sass --version
 
       - name: Build with Hugo
         run: hugo --themesDir themes

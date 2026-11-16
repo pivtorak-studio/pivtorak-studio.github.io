@@ -341,7 +341,7 @@ Hoje já não penso assim, mas naquela altura acreditei nele.
 
 O meu marido concordou.
 
-Mas a Zlata, que antes se tinha sentido enjoada no autocarro, começou a chorar. Para ela, a Alemanha era um destino mais familiar do que Portugal. Talvez também a assustasse a longa viagem que ainda tínhamos pela frente.
+Mas a Zlata, que antes se tinha sentido enjoada no miniautocarro, começou a chorar. Para ela, a Alemanha era um destino mais familiar do que Portugal. Talvez também a assustasse a longa viagem que ainda tínhamos pela frente.
 
 ## Alemanha. França. Espanha
 

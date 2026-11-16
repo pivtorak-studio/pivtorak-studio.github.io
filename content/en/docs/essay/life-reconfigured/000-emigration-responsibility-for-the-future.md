@@ -342,7 +342,7 @@ I do not think so now, but I believed him then.
 
 My husband agreed.
 
-But Zlata, who had previously been feeling sick on the bus, began to cry. Germany was more familiar to her than Portugal. Perhaps the long journey still ahead of us frightened her too.
+But Zlata, who had previously been feeling sick on the minibus, began to cry. Germany was more familiar to her than Portugal. Perhaps the long journey still ahead of us frightened her too.
 
 ## Germany. France. Spain
 

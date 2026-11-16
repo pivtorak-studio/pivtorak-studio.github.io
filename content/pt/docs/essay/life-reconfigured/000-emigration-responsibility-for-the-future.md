@@ -155,7 +155,7 @@ E compreendia uma coisa com toda a clareza: enquanto ainda houvesse oportunidade
 
 Eu e o meu marido nascemos em Kyiv. Foi lá que vivemos, trabalhámos, criámos os nossos filhos e construímos a nossa vida.
 
-Quando começou a invasão em grande escala, eu trabalhava como diretora financeira e o meu marido dirigia a sua própria empresa. Tínhamos cinco filhos, dois cães, um apartamento, a nossa rotina habitual e as nossas responsabilidades profissionais. Nada que nos levasse a procurar outro lugar para viver.
+Quando começou a invasão em grande escala, eu trabalhava como diretora financeira e o meu marido dirigia a empresa. Tínhamos cinco filhos, dois cães, um apartamento, a nossa rotina habitual e as nossas responsabilidades profissionais. Nada que nos levasse a procurar outro lugar para viver.
 
 Não nos tínhamos preparado para emigrar. Não tínhamos planos de mudança nem procurávamos um país onde começar de novo. O nosso futuro estava ligado a Kyiv.
 

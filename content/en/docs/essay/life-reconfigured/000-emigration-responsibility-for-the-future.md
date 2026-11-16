@@ -155,7 +155,7 @@ And I understood one thing clearly: while there was still an opportunity to act,
 
 My husband and I were born in Kyiv. We lived there, worked there, raised our children, and built our lives.
 
-When the full-scale invasion began, I was working as a financial director, and my husband was running his own company. We had five children, two dogs, an apartment, our familiar daily routines, and professional commitments. Nothing that would have made us look for another place to live.
+When the full-scale invasion began, I was working as a financial director, and my husband was running  the company. We had five children, two dogs, an apartment, our familiar daily routines, and professional commitments. Nothing that would have made us look for another place to live.
 
 We had not prepared for emigration. We had no relocation plans and were not looking for a country in which to start over. Our future was tied to Kyiv.
 

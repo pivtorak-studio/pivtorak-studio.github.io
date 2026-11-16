@@ -366,6 +366,12 @@ In France, we were accompanied by railway staff. They met us at stations and hel
 
 At the hotel, we were given three rooms. My husband was very tired, so he went straight to his own room. We agreed that I would put the children to bed and then come over to him.
 
+In France, they gave us incredibly tasty canned food and other meals. Every time, five bags.
+
+Then came Spain.
+
+We were accompanied by railway staff again, this time from the Spanish railway service. They helped us at the stations, arranged an overnight hotel stay, and provided food.
+
 At last, we could wash in comfortable conditions. And the children and I secretly washed the dogs without telling my husband. We used up all the shampoo in the hotel room. Afterwards, we scrubbed the room so thoroughly that no one would ever guess that four people and two dogs had been there — and that all of us had even taken a wash.
 
 We were so exhausted that we all fell asleep almost immediately.
@@ -375,12 +381,6 @@ I never went to my husband's room. I simply could not work out how to leave the 
 So I stayed in the room with everyone.
 
 We did not use the third room at all.
-
-In France, they gave us incredibly tasty canned food and other meals. Every time, five bags.
-
-Then came Spain.
-
-We were accompanied by railway staff again, this time from the Spanish railway service. They helped us at the stations, arranged an overnight hotel stay, and provided food.
 
 Spain practically transported us across the entire country. At every station, hot food was brought directly to our carriage. At the railway stations, we were also shown to waiting lounges, where we were fed again. The children were given backpacks filled with treats and sweet drinks to take with them. Warm blankets were offered too, but we simply had no way of carrying them with us.
 

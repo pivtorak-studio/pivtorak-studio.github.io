@@ -365,6 +365,12 @@ Em França, fomos acompanhados por funcionários dos caminhos de ferro. Encontra
 
 No hotel, deram-nos três quartos. O meu marido estava muito cansado e foi imediatamente para o seu quarto. Combinámos que eu deitaria as crianças e depois iria ter com ele.
 
+Em França, davam-nos conservas e outras refeições incrivelmente saborosas. De cada vez, cinco sacos.
+
+Depois veio Espanha.
+
+Voltámos a ser acompanhados por funcionários dos caminhos de ferro, desta vez espanhóis. Ajudavam-nos nas estações, organizavam alojamento num hotel para passar a noite e forneciam-nos comida.
+
 Finalmente, podíamos tomar banho em condições confortáveis. E eu e as crianças demos banho aos cães às escondidas do meu marido. Usámos todo o champô que havia no quarto do hotel. Depois, limpámos tudo tão bem que ninguém poderia sequer imaginar que ali tinham estado quatro pessoas e dois cães — e que, ainda por cima, todos tinham tomado banho.
 
 Estávamos tão cansados que adormecemos quase imediatamente.
@@ -374,12 +380,6 @@ Acabei por não ir ter com o meu marido. Simplesmente não conseguia perceber co
 Por isso, fiquei no quarto com todos.
 
 O terceiro quarto não chegou a ser utilizado.
-
-Em França, davam-nos conservas e outras refeições incrivelmente saborosas. De cada vez, cinco sacos.
-
-Depois veio Espanha.
-
-Voltámos a ser acompanhados por funcionários dos caminhos de ferro, desta vez espanhóis. Ajudavam-nos nas estações, organizavam alojamento num hotel para passar a noite e forneciam-nos comida.
 
 Na prática, Espanha transportou-nos de uma ponta à outra do país. Em cada estação, traziam-nos comida quente diretamente à carruagem. Nas estações ferroviárias, também nos encaminhavam para salas de descanso, onde voltavam a servir-nos refeições. Davam ainda às crianças mochilas com guloseimas e bebidas doces para levarem consigo. Também nos ofereciam mantas quentes, mas simplesmente não tínhamos maneira de as transportar.
 

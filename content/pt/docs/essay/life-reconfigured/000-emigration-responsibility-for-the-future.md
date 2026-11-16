@@ -147,7 +147,7 @@ _Não esperar até ser demasiado tarde_
 
 A nossa vida estava em Kyiv. A nossa casa, o trabalho, os filhos, os percursos habituais e os planos que nunca incluíram a emigração estavam todos lá. Não estávamos a fazer malas nem à procura de outro país. Mas, a 24 de fevereiro de 2022, a guerra entrou nas nossas vidas não através das notícias ou das sirenes de alerta aéreo — acordámos com o som das explosões.
 
-Acabámos por ter de tomar uma decisão que nunca tínhamos previsto: deixar a nossa casa ou esperar. Não sabia o que nos esperava durante a viagem, como seríamos recebidos ou que dificuldades teríamos de enfrentar. Mas sabia exatamente para onde íamos: levava os meus filhos para um lugar seguro — o mais longe possível da guerra.
+Acabámos por ter de tomar uma decisão que nunca tínhamos previsto: esperar deixar a nossa casa . Não sabia o que nos esperava durante a viagem, como seríamos recebidos ou que dificuldades teríamos de enfrentar. Mas sabia exatamente para onde íamos: levava os meus filhos para um lugar seguro — o mais longe possível da guerra.
 
 E compreendia uma coisa com toda a clareza: enquanto ainda houvesse oportunidade de agir, não podíamos adiar a decisão. Sobretudo quando estavam em causa a vida e a saúde dos nossos filhos.
 
@@ -175,7 +175,7 @@ O que era um abrigo antiaéreo no nosso prédio ucraniano? Uma cave vulgar. Chei
 
 Não queria que os nossos filhos vissem aquela cave e tivessem ainda de passar por essa experiência. Por isso, mesmo durante as explosões, ficávamos todos no apartamento, mas deslocávamo-nos para o corredor — um lugar mais seguro.
 
-Para as crianças, a guerra começou dentro de casa.
+Para as crianças, a guerra começou dentro do apartamento. Até inventámos um jogo chamado «Abraçadinhos!» — e abraçávamo-nos tantas vezes quantas fossem necessárias.
 
 O comportamento dos nossos cães também mudou. A nossa Boxer alemã, a nossa menina mais velha, e o nosso Bulldog Francês, o rapaz mais novo, passavam quase todo o tempo deitados, em silêncio, no seu lugar habitual, que partilhavam. Tremiam, escutavam atentamente, por vezes levantavam a cabeça e depois voltavam a enroscar-se um no outro.
 
@@ -277,7 +277,7 @@ Não eram objetos aos quais pretendesse ficar agarrada a qualquer preço. Naquel
 
 A 4 de março de 2022, saímos de Kyiv.
 
-Viajávamos muito depressa. A nossa família ficou sentada na última fila de um miniautocarro.
+Viajávamos muito depressa, com uma placa a indicar «EVACUAÇÃO» no miniautocarro, o que significava que se aplicavam regras especiais à nossa viagem. A nossa família ficou sentada na última fila.
 
 A nossa quarta filha tinha oito anos na altura. Sentia-se constantemente enjoada. Tínhamos receio de incomodar os outros passageiros, por isso escondíamos rapidamente em sacos a roupa suja. Só começava a sentir-se melhor quando conseguia adormecer.
 
@@ -305,7 +305,7 @@ Felizmente, não foi preciso pôr o plano em prática.
 
 Depois da fronteira, fomos recebidos por voluntários. Mais uma vez, batistas.
 
-Não eram da Igreja Ortodoxa que frequentávamos na Ucrânia, mas pessoas que, no nosso país, muitos estavam habituados a considerar membros de uma seita, embora essa ideia fosse errada.
+Não eram da Igreja Ortodoxa que frequentávamos na Ucrânia, mas pessoas que, no nosso país, muitos estavam habituados a não levar muito a sério, embora essa ideia fosse errada.
 
 Perguntaram-nos para onde queríamos seguir. Respondemos que para a Roménia.
 
@@ -361,11 +361,11 @@ Depois de Munique, havia menos refugiados nos transportes. A viagem tornou-se ma
 
 A França e a Espanha deixaram-nos as recordações mais calorosas.
 
-Em França, fomos acompanhados por funcionários da Cruz Vermelha. Encontravam-se connosco nas estações e ajudavam a organizar o alojamento nos hotéis.
+Em França, fomos acompanhados por funcionários dos caminhos de ferro. Encontravam-se connosco nas estações e ajudavam a organizar o alojamento em hotéis. Na prática, estabeleceram um modelo de acompanhamento das pessoas que fugiam da guerra e, mais tarde, passaram-nos aos cuidados dos seus colegas dos caminhos de ferro espanhóis.
 
 No hotel, deram-nos três quartos. O meu marido estava muito cansado e foi imediatamente para o seu quarto. Combinámos que eu deitaria as crianças e depois iria ter com ele.
 
-Finalmente, podíamos tomar banho em condições confortáveis. E eu e as crianças demos banho aos cães às escondidas do meu marido. Usámos até à última gota todo o champô que havia no quarto do hotel.
+Finalmente, podíamos tomar banho em condições confortáveis. E eu e as crianças demos banho aos cães às escondidas do meu marido. Usámos todo o champô que havia no quarto do hotel. Depois, limpámos tudo tão bem que ninguém poderia sequer imaginar que ali tinham estado quatro pessoas e dois cães — e que, ainda por cima, todos tinham tomado banho.
 
 Estávamos tão cansados que adormecemos quase imediatamente.
 
@@ -379,17 +379,17 @@ Em França, davam-nos conservas e outras refeições incrivelmente saborosas. De
 
 Depois veio Espanha.
 
-Voltámos a ser acompanhados por funcionários da Cruz Vermelha. Ajudavam-nos nas estações, organizavam alojamento num hotel para passar a noite e forneciam-nos comida.
+Voltámos a ser acompanhados por funcionários dos caminhos de ferro, desta vez espanhóis. Ajudavam-nos nas estações, organizavam alojamento num hotel para passar a noite e forneciam-nos comida.
 
-Na prática, Espanha transportou-nos de uma ponta à outra do país. Em cada estação, traziam-nos comida quente diretamente para a carruagem.
+Na prática, Espanha transportou-nos de uma ponta à outra do país. Em cada estação, traziam-nos comida quente diretamente à carruagem. Nas estações ferroviárias, também nos encaminhavam para salas de descanso, onde voltavam a servir-nos refeições. Davam ainda às crianças mochilas com guloseimas e bebidas doces para levarem consigo. Também nos ofereciam mantas quentes, mas simplesmente não tínhamos maneira de as transportar.
 
-Tínhamos a possibilidade de ficar em Espanha. Vinham ter connosco várias delegações, incluindo representantes da Cruz Vermelha, para confirmar se havia mesmo alguém à nossa espera em Portugal.
+Podíamos ter ficado em Espanha. Vinham ter connosco várias delegações, incluindo representantes da Cruz Vermelha, para confirmar se havia mesmo alguém à nossa espera em Portugal.
 
 Estávamos certos de que sim.
 
 Mas surgiu outro problema mesmo antes da última etapa da viagem.
 
-Na última estação de metro, os funcionários espanhóis avisaram-nos de que Portugal era muito rigoroso no transporte de cães. Aconselharam-nos a arranjar transportadoras e açaimes.
+Na última estação ferroviária, os funcionários espanhóis avisaram-nos de que Portugal tinha regras muito rigorosas relativamente ao transporte de cães. Aconselharam-nos a arranjar transportadoras e açaimes.
 
 Mostrámos todos os nossos bilhetes das viagens anteriores pela Europa e explicámos que em mais lado nenhum nos tinham imposto tais exigências. Pelo contrário, até tinham emitido bilhetes de comboio para os cães.
 
@@ -423,19 +423,19 @@ Disseram-me que não havia nenhum desses serviços na estação. Mas sugeriram q
 
 A palavra «polícia» não nos transmitia uma sensação de segurança no contexto pós-soviético. Estávamos habituados a olhar para as autoridades policiais com alguma desconfiança.
 
-Mas, desta vez, foi precisamente a polícia que nos salvou. E, já agora, foram eles que sugeriram que tirássemos os açaimes aos cães.
+Mas, desta vez, foi precisamente a polícia que nos salvou. E, já agora, sugeriram que tirássemos os açaimes aos cães. O meu marido recorda que o tratador aproximou a mão do focinho de cada cão, e eles limitaram-se a cheirá-la. Foi assim que se verificou que os nossos cães não eram agressivos.
 
-Os portugueses revelaram-se muito amigos dos cães.
+De um modo geral, os portugueses revelaram-se muito amigos dos animais. E todas as restrições relativas aos cães acabaram por não ser tão assustadoras como nos tinham dito.
 
-Foram necessárias cerca de quatro horas para organizar a ajuda, já na noite de sexta-feira.
+Foram necessárias cerca de quatro horas até ser possível organizar apoio por parte das autoridades públicas, já tarde na noite de sexta-feira.
 
 Estávamos tão exaustos que começávamos a adormecer sentados na estação.
 
-![_Emigração: A Responsabilidade pelo Futuro | Vida Reconfigurada. AP | Pivtorak.Studio. 15.11.2026_ © Anna Pivtorak (Kostyuk)](/images/essay-life-reconfigured-000-emigration-responsibility-for-the-future-02.webp)
-
 A polícia levou-nos para passar a noite no Parque Biológico de Gaia, em Vila Nova de Gaia.
 
-Havia muitas camas — espaço suficiente para todos. Na manhã seguinte, os nossos cães receberam uma injeção contra as carraças e foram identificados com microchips portugueses, em substituição das tatuagens ucranianas.
+Havia muitas camas — espaço suficiente para todos. Na manhã seguinte, os nossos cães receberam uma injeção e foram identificados com microchips portugueses, em substituição das tatuagens ucranianas.
+
+![_Emigração: A Responsabilidade pelo Futuro | Vida Reconfigurada. AP | Pivtorak.Studio. 15.11.2026_ © Anna Pivtorak (Kostyuk)](/images/essay-life-reconfigured-000-emigration-responsibility-for-the-future-02.webp)
 
 Conservámos uma fotografia tirada a 11 de março, às 11h16. Mostra três dos nossos filhos mais novos junto à entrada do Parque Biológico de Gaia. Depois de tudo o que tinham passado, podiam simplesmente voltar a ser crianças.
 
@@ -449,17 +449,15 @@ A 21 de março, mudámo-nos para a nossa nova casa.
 
 ## Pessoas que deram uma parte de si
 
-Há ainda um episódio que não quero deixar de contar.
+Há ainda um episódio que quero guardar.
 
-Um dia, quando as nossas reservas de comida tinham acabado, comprámos às crianças uma refeição grande no Burger King, numa estação de comboios em França. Custou-nos mais de 40 euros. Era uma quantia considerável para nós, pois não estávamos habituados a gastar tanto numa única refeição.
+Um dia, quando as nossas reservas de comida se esgotaram (na verdade, já não tínhamos quaisquer reservas desde que saímos da Alemanha), comprámos às crianças uma refeição grande no Burger King, numa estação ferroviária em França. Custou-nos mais de 40 euros. Era uma quantia considerável para nós, pois não estávamos habituados a gastar tanto numa única refeição.
 
 Mas, pouco depois, aconteceu algo inesperado.
 
 Num comboio francês, uma senhora idosa estava prestes a sair da nossa carruagem quando decidiu oferecer-nos 50 euros.
 
 As crianças correram até ela e ofereceram-lhe a nossa moeda de uma hryvnia — uma moeda ucraniana como recordação.
-
-Ela deu-nos dinheiro e as crianças deram-lhe um pequeno pedaço da Ucrânia.
 
 Foi uma pequena troca entre pessoas desconhecidas. Mas ainda hoje nos lembramos dela.
 
@@ -475,7 +473,7 @@ Saímos de Kyiv a 4 de março.
 
 Dezassete dias depois, a 21 de março de 2022, estávamos na nossa nova casa em Esposende.
 
-Atravessámos a Ucrânia, a Moldávia, a Roménia, a Hungria, a Áustria, a Alemanha, a França, a Espanha e Portugal.
+Atravessámos a Ucrânia, a Moldávia, a Roménia, a Hungria, a Áustria, a Alemanha, a França, a Espanha e Portugal. Passámos sete dias em viagem, sem permanecer em nenhum lugar, para chegarmos a Portugal o mais rapidamente possível.
 
 E continuávamos sem saber como seria a nossa vida dali em diante.
 

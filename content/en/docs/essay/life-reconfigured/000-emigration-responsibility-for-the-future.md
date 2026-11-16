@@ -147,7 +147,7 @@ _Not waiting until it is too late_
 
 Our life was in Kyiv. Our home, work, children, familiar routines, and plans that never included emigration were all there. We were not packing suitcases or looking for another country. But on 24 February 2022, the war entered our lives not through news reports or air-raid sirens — we woke up to explosions.
 
-Eventually, we had to make a decision we had never anticipated: leave our home or wait. I did not know what awaited us along the way, how we would be received, or what difficulties we would have to face. But I knew exactly where we were going: I was taking the children to a safe place — as far away from the war as possible.
+Eventually, we had to make a decision we had never anticipated: wait or leave our home. I did not know what awaited us along the way, how we would be received, or what difficulties we would have to face. But I knew exactly where we were going: I was taking the children to a safe place — as far away from the war as possible.
 
 And I understood one thing clearly: while there was still an opportunity to act, we could not postpone the decision. Especially when the lives and health of our children were at stake.
 
@@ -175,7 +175,7 @@ What was a bomb shelter in our Ukrainian apartment block? An ordinary basement. 
 
 I did not want our children to see that basement and have to endure that experience as well. So even during the explosions, we all stayed in the apartment, moving into the hallway — a safer place.
 
-For the children, the war began inside our apartment.
+For the children, the war began in our apartment. We even invented a game called “Hug Time!” — and hugged each other as often as we needed to.
 
 Our dogs' behaviour changed too. Our German Boxer, our older girl, and our French Bulldog, our younger boy, spent almost all their time lying quietly in their shared favourite spot. They trembled, listened intently, sometimes lifted their heads, and then curled up together again.
 
@@ -277,7 +277,8 @@ These were not things I intended to hold on to at any cost. At that moment, they
 
 On 4 March 2022, we left Kyiv.
 
-We travelled very fast. Our family was seated in the back row of a minibus.
+We were travelling very fast, with an “EVACUATION” sign displayed on the minibus, which meant that special rules applied to us.
+Our family was seated in the back row.
 
 Our fourth child was eight years old at the time. She kept feeling sick. We were afraid of disturbing the other passengers, so we quickly hid the soiled clothes in bags. She only began to feel better when she managed to fall asleep.
 
@@ -305,7 +306,7 @@ Fortunately, they did not need to put their plan into action.
 
 After the border, volunteers met us. Baptists again.
 
-Not the Orthodox Church we had attended in Ukraine, but people whom many back home were accustomed to regarding as members of a sect, although that perception was mistaken.
+They were not from the Orthodox Church we attended in Ukraine, but people whom many back home tended not to take seriously, although that perception was mistaken.
 
 They asked where we wanted to go next. We said Romania.
 
@@ -361,11 +362,11 @@ After Munich, there were fewer refugees on the trains. The journey became more c
 
 France and Spain left us with the warmest impressions.
 
-In France, Red Cross staff accompanied us. They met us at stations and helped arrange accommodation in hotels.
+In France, we were accompanied by railway staff. They met us at stations and helped arrange accommodation in hotels. In effect, they established the standard for assisting people fleeing the war, and later handed us over to their colleagues from the Spanish railway service.
 
 At the hotel, we were given three rooms. My husband was very tired, so he went straight to his own room. We agreed that I would put the children to bed and then come over to him.
 
-At last, we could wash in comfortable conditions. And the children and I secretly washed the dogs without telling my husband. We used every bit of shampoo in the hotel room.
+At last, we could wash in comfortable conditions. And the children and I secretly washed the dogs without telling my husband. We used up all the shampoo in the hotel room. Afterwards, we scrubbed the room so thoroughly that no one would ever guess that four people and two dogs had been there — and that all of us had even taken a wash.
 
 We were so exhausted that we all fell asleep almost immediately.
 
@@ -379,17 +380,17 @@ In France, they gave us incredibly tasty canned food and other meals. Every time
 
 Then came Spain.
 
-Red Cross staff accompanied us again. They helped us at the stations, arranged an overnight hotel stay, and provided food.
+We were accompanied by railway staff again, this time from the Spanish railway service. They helped us at the stations, arranged an overnight hotel stay, and provided food.
 
-Spain practically transported us across the entire country. At every station, warm food was brought directly to our train carriage.
+Spain practically transported us across the entire country. At every station, hot food was brought directly to our carriage. At the railway stations, we were also shown to waiting lounges, where we were fed again. The children were given backpacks filled with treats and sweet drinks to take with them. Warm blankets were offered too, but we simply had no way of carrying them with us.
 
-We had the option of staying in Spain. Delegations, including representatives of the Red Cross, came to see us and asked whether we were really expected in Portugal.
+We could have stayed in Spain. Delegations, including representatives of the Red Cross, came to see us and asked whether we were really expected in Portugal.
 
 We were sure that we were.
 
 But another problem arose just before the final part of the journey.
 
-At the last metro station, the Spanish staff warned us that Portugal was very strict about transporting dogs. They advised us to find crates and muzzles for them.
+At the last railway station, the Spanish staff warned us that Portugal had very strict rules regarding the transport of dogs. They advised us to find crates and muzzles for them.
 
 We showed them all our tickets for the previous journeys across Europe and explained that no one had imposed such requirements on us anywhere else. In fact, the dogs had even been issued tickets for travelling by train.
 
@@ -423,19 +424,19 @@ They told me that there were no such services at the station. But they suggested
 
 The word “police” did not make us feel safe in the post-Soviet world. We were used to viewing law enforcement with caution.
 
-But this time, it was the police who came to our rescue. And, by the way, they suggested taking the dogs' muzzles off.
+But this time, it was the police who came to our rescue. By the way, they suggested taking the dogs' muzzles off. My husband remembers that the dog handler held his hand close to each dog's nose, and all they did was sniff it. That was how it was established that our dogs were not aggressive.
 
-The Portuguese turned out to be very dog-friendly.
+In general, the Portuguese turned out to be very friendly towards animals. And all the restrictions concerning dogs turned out to be far less daunting than we had been led to believe.
 
-It took about four hours to arrange help, late on Friday evening.
+It took about four hours before assistance could be arranged through the state authorities, late on Friday evening.
 
 We were so exhausted that we were beginning to fall asleep sitting on the station benches.
 
-![_Emigration: Responsibility for the Future | Life Reconfigured. AP | Pivtorak.Studio. 15.11.2026_ © Anna Pivtorak (Kostyuk)](/images/essay-life-reconfigured-000-emigration-responsibility-for-the-future-02.webp)
-
 The police took us to spend the night at Parque Biológico de Gaia in Vila Nova de Gaia.
 
-There were plenty of beds — enough room for everyone. The following morning, our dogs received tick injections and were given Portuguese microchips instead of their Ukrainian tattoos.
+There were plenty of beds — enough room for everyone. The following morning, our dogs received injections and were given Portuguese microchips instead of their Ukrainian tattoos.
+
+![_Emigration: Responsibility for the Future | Life Reconfigured. AP | Pivtorak.Studio. 15.11.2026_ © Anna Pivtorak (Kostyuk)](/images/essay-life-reconfigured-000-emigration-responsibility-for-the-future-02.webp)
 
 A photograph taken on 11 March at 11:16 a.m. has survived. It shows three of our younger children posing at the entrance to Parque Biológico de Gaia. After everything they had been through, they could simply be children again.
 
@@ -449,17 +450,15 @@ On 21 March, we moved into our new home.
 
 ## People Who Gave a Part of Themselves
 
-There is one more episode I do not want to leave out.
+There is one more episode I want to preserve.
 
-One day, when our food supplies had run out, we bought the children a large meal at Burger King at a railway station in France. It cost us more than 40 euros. That was a considerable amount for us, as we were not accustomed to spending so much on a single meal.
+One day, when our food supplies had run out (in fact, we had had no supplies left since Germany), we bought the children a large meal at Burger King at a railway station in France. It cost us more than 40 euros. That was a considerable amount for us, as we were not accustomed to spending so much on a single meal.
 
 But almost immediately afterwards, something unexpected happened.
 
 On a French train, an elderly woman was about to leave our carriage when she decided to give us 50 euros.
 
 The children ran up to her and gave her our one-hryvnia coin — a Ukrainian hryvnia as a souvenir.
-
-She gave us money, and the children gave her a little piece of Ukraine.
 
 It was a small exchange between strangers. But we still remember it.
 
@@ -475,7 +474,7 @@ We left Kyiv on 4 March.
 
 Seventeen days later, on 21 March 2022, we found ourselves in our new home in Esposende.
 
-We had travelled through Ukraine, Moldova, Romania, Hungary, Austria, Germany, France, Spain, and Portugal.
+We travelled through Ukraine, Moldova, Romania, Hungary, Austria, Germany, France, Spain, and Portugal. We spent seven days on the road, without stopping anywhere for a longer stay, in order to reach Portugal as quickly as possible.
 
 And we still did not know how our lives would unfold.
 

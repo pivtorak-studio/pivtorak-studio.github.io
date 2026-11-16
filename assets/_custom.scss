@@ -688,6 +688,7 @@
 }
 
 
+
 /* =========================================================
    11. DESKTOP UPPER NAVIGATION GEOMETRY
    ========================================================= */
@@ -725,6 +726,32 @@
     padding: 0;
     margin: 0;
     list-style: none;
+  }
+
+  .upper-navigation-brand-group {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .upper-navigation-instagram {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    transition: color 0.2s ease;
+  }
+
+  .upper-navigation-instagram svg {
+    display: block;
+    width: 21px;
+    height: 21px;
+  }
+
+  .upper-navigation-instagram:hover,
+  .upper-navigation-instagram:focus-visible {
+    color: var(--color-link);
   }
 }
 

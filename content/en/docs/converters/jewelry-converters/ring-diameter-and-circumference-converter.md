@@ -147,7 +147,7 @@ The calculated values describe the ring’s inner geometry and can support measu
 
 ## Model and limits
 
-For a circular ring opening, the inner circumference is calculated from the inner diameter using (C = \pi d), while the inner diameter is obtained from the circumference using (d = C/\pi). Both measurements are expressed in millimetres (mm).
+For a circular ring opening, the inner circumference is calculated from the inner diameter using $C = \pi d$, while the inner diameter is obtained from the circumference using $d = C/\pi$. Both measurements are expressed in millimetres (mm).
 
 The result represents a geometric conversion, not a standardized ring size. This tool does not account for national ring-sizing systems, differences between sizing standards, ring profile, or individual fitting preferences. Measurement accuracy depends on the accuracy of the input and the assumption that the inner opening is circular.
 

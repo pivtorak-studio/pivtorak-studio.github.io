@@ -44,7 +44,6 @@ disciplines:
   - Драгоценные металлы
   - Прикладная математика
 calculator_type: справочная-стоимость-драгоценного-металла-по-введённым-данным
-calculator_model: m_f = m_g × F / 1000; P_g = P_u / B_u; V_r = m_f × P_g; V_a = V_r ± A; V_c = V_r + Σ(s_i × C_i)
 calculator_units: "масса: г; проба: ‰; справочная цена: валюта/проверенная единица котировки; стоимость: указанная валюта"
 implementation_status: content-prepared
 draft: false

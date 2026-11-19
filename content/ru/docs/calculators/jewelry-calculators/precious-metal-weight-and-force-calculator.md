@@ -49,7 +49,6 @@ disciplines:
   - Физика
   - Метрология
 calculator_type: force
-calculator_model: F = m × g
 calculator_units: "масса: кг; ускорение свободного падения: м/с²; сила: Н"
 implementation_status: client-side
 draft: false

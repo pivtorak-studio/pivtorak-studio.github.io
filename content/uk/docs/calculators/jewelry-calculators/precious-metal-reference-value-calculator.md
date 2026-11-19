@@ -44,7 +44,6 @@ disciplines:
   - Дорогоцінні метали
   - Прикладна математика
 calculator_type: довідкова-вартість-дорогоцінного-металу-за-введеними-даними
-calculator_model: m_f = m_g × F / 1000; P_g = P_u / B_u; V_r = m_f × P_g; V_a = V_r ± A; V_c = V_r + Σ(s_i × C_i)
 calculator_units: "маса: г; проба: ‰; довідкова ціна: валюта/перевірена одиниця котирування; вартість: зазначена валюта"
 implementation_status: content-prepared
 draft: false

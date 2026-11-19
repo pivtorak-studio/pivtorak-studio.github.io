@@ -44,7 +44,6 @@ disciplines:
   - прикладная математика
   - ювелирное дело
 calculator_type: diamond-mass-estimator
-calculator_model: эмпирические оценки по размерам для отдельных форм; см. каждую модель
 calculator_units: "размеры: мм; оценочная масса: метрические караты (ct)"
 implementation_status: client-side
 draft: false

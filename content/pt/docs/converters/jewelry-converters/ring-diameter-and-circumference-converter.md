@@ -147,7 +147,7 @@ Os valores calculados descrevem a geometria interna do anel e podem ajudar a ver
 
 ## Modelo e limites
 
-Para uma abertura circular, o perímetro interno calcula-se a partir do diâmetro interno através da fórmula (C = \pi d), enquanto o diâmetro interno se obtém a partir do perímetro através da fórmula (d = C/\pi). Ambas as medidas são expressas em milímetros (mm).
+Para uma abertura circular, o perímetro interno calcula-se a partir do diâmetro interno através da fórmula $C = \pi d$, enquanto o diâmetro interno se obtém a partir do perímetro através da fórmula $d = C/\pi$. Ambas as medidas são expressas em milímetros (mm).
 
 O resultado corresponde a uma conversão geométrica, não a um tamanho normalizado de anel. Esta ferramenta não contempla os sistemas nacionais de tamanhos de anéis, as diferenças entre normas de dimensionamento, o perfil do anel ou as preferências individuais de ajuste. A precisão do resultado depende da exatidão do valor introduzido e do pressuposto de que a abertura interna é circular.
 

@@ -44,7 +44,6 @@ disciplines:
   - Metais Preciosos
   - Matemática Aplicada
 calculator_type: valor-de-referencia-de-metal-precioso-introduzido-manualmente
-calculator_model: m_f = m_g × F / 1000; P_g = P_u / B_u; V_r = m_f × P_g; V_a = V_r ± A; V_c = V_r + Σ(s_i × C_i)
 calculator_units: "massa: g; fineza: ‰; preço de referência: moeda/unidade de cotação verificada; valor: moeda introduzida"
 implementation_status: content-prepared
 draft: false

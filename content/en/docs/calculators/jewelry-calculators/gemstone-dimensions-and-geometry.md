@@ -10,24 +10,44 @@ publication_date: 2026-10-22T06:00:00
 date: 2026-10-22T06:00:00
 lastmod: 2026-10-22T06:00:00
 slug: gemstone-dimensions-and-geometry
-tags: [gemstone dimensions, gemstone geometry, gemstone proportions, jewelry calculator]
-keywords: [gemstone dimensions calculator, gemstone geometry calculator, length-to-width ratio, gemstone measurements, bounding-box volume]
-categories: [Calculators, Jewelry]
+tags:
+  - gemstone dimensions
+  - gemstone geometry
+  - gemstone proportions
+  - jewelry calculator
+keywords:
+  - gemstone dimensions calculator
+  - gemstone geometry calculator
+  - length-to-width ratio
+  - gemstone measurements
+  - bounding-box volume
+categories:
+  - Calculators
+  - Jewelry
 series: JewelryCalculators
 series_index: 6
 research_origin: Pivtorak.Studio
 status: published
 featured: true
 alt: Gemstone Dimensions & Geometry — gemstone measurements, geometric proportions, and dimensional diagrams
-related: [/en/docs/calculators/, /en/tools/, /en/docs/timeline/, /en/docs/the-movement-matrix/site-completion-matrix/]
-authors: [Anna Pivtorak]
+related:
+  - /en/docs/calculators/
+  - /en/tools/
+  - /en/docs/timeline/
+  - /en/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 license: CC BY-NC-ND 4.0
 timeline: true
-tools: [Gemstone Dimensions & Geometry Calculator]
+tools:
+  - Gemstone Dimensions & Geometry Calculator
 visual_archive: true
-disciplines: [Jewelry, Gemology, Applied Mathematics, Geometry]
+disciplines:
+  - Jewelry
+  - Gemology
+  - Applied Mathematics
+  - Geometry
 calculator_type: dimensional-geometry
-calculator_model: "R = L / W; V_box = L × W × D"
 calculator_units: "L, W, D: mm; R: dimensionless; V_box: mm³"
 implementation_status: client-side
 draft: false

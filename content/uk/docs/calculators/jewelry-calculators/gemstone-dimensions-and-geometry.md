@@ -27,7 +27,6 @@ tools: [Калькулятор розмірів і геометрії дорог
 visual_archive: true
 disciplines: [Ювелірна справа, Гемологія, Прикладна математика, Геометрія]
 calculator_type: dimensional-geometry
-calculator_model: "R = L / W; V_box = L × W × D"
 calculator_units: "L, W, D: мм; R: безрозмірна величина; V_box: мм³"
 implementation_status: client-side
 draft: false

@@ -51,7 +51,6 @@ disciplines:
   - Metais Preciosos
   - Matemática Aplicada
 calculator_type: valor-indicativo-do-metal-fino-baseado-em-cotacao
-calculator_model: m_fine = m × (f / 1000); \(P_{\mathrm{item}}\) = (m_fine / 31.1034768) × P
 calculator_units: "massa: g; título: ‰; preço: moeda/onça troy; valor: moeda"
 implementation_status: client-side
 draft: false

@@ -49,7 +49,6 @@ disciplines:
   - Physics
   - Measurement Science
 calculator_type: force
-calculator_model: F = m × g
 calculator_units: "mass: kg; gravitational acceleration: m/s²; force: N"
 implementation_status: client-side
 draft: false

@@ -44,7 +44,6 @@ disciplines:
   - matemática aplicada
   - joalharia
 calculator_type: diamond-mass-estimator
-calculator_model: estimativas dimensionais empíricas específicas por forma; consultar cada modelo
 calculator_units: "dimensões: mm; massa estimada: quilates métricos (ct)"
 implementation_status: client-side
 draft: false

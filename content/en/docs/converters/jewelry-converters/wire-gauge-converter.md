@@ -151,7 +151,7 @@ Select the input system and the target system. Enter an AWG size from 0000 throu
 
 ## Model and limits
 
-For AWG, the nominal diameter is `d_mm = 0.127 × 92^((36 − n)/39)`, where `n` is the AWG number (`0000` is represented by `n = −3`; ordinary sizes use 0–40). SWG and BWG use the listed diameter tables; no AWG formula is applied to them. Metric input is already a diameter in millimetres. For every system, the solid-round area is `A_mm² = π × d_mm² / 4`. Inches are derived using `d_in = d_mm / 25.4` and `A_in² = A_mm² / 25.4²`.
+For AWG, the nominal diameter is $d_{\mathrm{mm}} = 0.127 \times 92^{(36 - n)/39}$, where $n$ is the AWG number (`0000` is represented by $n = -3$; ordinary sizes use 0–40). SWG and BWG use the listed diameter tables; no AWG formula is applied to them. Metric input is already a diameter in millimetres. For every system, the solid-round area is $A_{\mathrm{mm}^2} = \pi d_{\mathrm{mm}}^2 / 4$. Inches are derived using $d_{\mathrm{in}} = d_{\mathrm{mm}} / 25.4$ and $A_{\mathrm{in}^2} = A_{\mathrm{mm}^2} / 25.4^2$.
 
 Diameters are nominal; real wire can differ by manufacturing tolerance, material and measurement method. The area assumes a solid circular cross-section and does not describe stranded wire, insulation, tube wall thickness or electrical current capacity. Cross-system matching uses the nearest available nominal diameter, with a strict 2% threshold; a match remains approximate.
 
@@ -160,7 +160,7 @@ Diameters are nominal; real wire can differ by manufacturing tolerance, material
 - AWG defining relationship and standard values: [ASTM B258, Standard Specification for Standard Nominal Diameters and Cross-Sectional Areas of AWG Sizes](https://www.astm.org/b0258-18r24.html).
 - SWG listed diameters: [My Local Components, AWG and SWG diameter chart](https://mlc.org.uk/guides/awg-wire-gauge-chart), which identifies the SWG figures as BS 3737 table values. Only the entries listed in the calculator are accepted.
 - BWG sizes 28–36: [Thai Yazaki technical data, wire gauges](https://www.trp.co.th/downloads/BW%26LV_Catalogue.pdf), explicitly headed “Birmingham Iron Wire Gauge” in its wire-gauge section. Tube wall-thickness charts are not used.
-- Solid circular area and inch conversion are geometric/unit conversions: `A = πd²/4`; `1 in = 25.4 mm`.
+- Solid circular area and inch conversion are geometric/unit conversions: $A = \pi d^2/4$; $1\ \mathrm{in} = 25.4\ \mathrm{mm}$.
 
 **Alt-text:**  
 Wire Gauge Converter — AWG, SWG, BWG and metric wire sizes illustrated with brass gauge plate, coiled metal wires, diameter diagrams and cross-sectional area formula.

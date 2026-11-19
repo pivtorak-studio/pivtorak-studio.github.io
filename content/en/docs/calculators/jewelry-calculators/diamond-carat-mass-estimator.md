@@ -44,7 +44,6 @@ disciplines:
   - applied mathematics
   - jewelry
 calculator_type: diamond-mass-estimator
-calculator_model: shape-specific empirical dimensional estimates; see each model
 calculator_units: "dimensions: mm; estimated mass: metric carats (ct)"
 implementation_status: client-side
 draft: false

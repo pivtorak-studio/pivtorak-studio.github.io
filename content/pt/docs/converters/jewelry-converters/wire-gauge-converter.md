@@ -151,7 +151,7 @@ Selecione o sistema de entrada e o sistema de destino. Introduza um tamanho AWG 
 
 ## Modelo e limites
 
-Para AWG, o diâmetro nominal é `d_mm = 0,127 × 92^((36 − n)/39)`, em que `n` é o número AWG (`0000` corresponde a `n = −3`; os tamanhos comuns usam 0–40). SWG e BWG utilizam as tabelas de diâmetros indicadas; não se aplica a fórmula AWG a esses sistemas. A entrada métrica já é um diâmetro em milímetros. Em todos os sistemas, a área de secção transversal de um fio redondo sólido é `A_mm² = π × d_mm² / 4`. As polegadas são calculadas por `d_in = d_mm / 25,4` e `A_in² = A_mm² / 25,4²`.
+Para AWG, o diâmetro nominal é $d_{\mathrm{mm}} = 0{,}127 \times 92^{(36 - n)/39}$, em que $n$ é o número AWG (`0000` corresponde a $n = -3$; os tamanhos comuns usam 0–40). SWG e BWG utilizam as tabelas de diâmetros indicadas; não se aplica a fórmula AWG a esses sistemas. A entrada métrica já é um diâmetro em milímetros. Em todos os sistemas, a área de secção transversal de um fio redondo sólido é $A_{\mathrm{mm}^2} = \pi d_{\mathrm{mm}}^2 / 4$. As polegadas são calculadas por $d_{\mathrm{in}} = d_{\mathrm{mm}} / 25{,}4$ e $A_{\mathrm{in}^2} = A_{\mathrm{mm}^2} / 25{,}4^2$.
 
 Os diâmetros são nominais; o fio real pode diferir devido às tolerâncias de fabrico, ao material e ao método de medição. A área pressupõe uma secção circular sólida e não descreve fio entrançado, isolamento, espessura de parede de tubos nem capacidade de corrente elétrica. A correspondência entre sistemas utiliza o diâmetro nominal disponível mais próximo, com um limite estrito de 2%; continua a ser aproximada.
 
@@ -160,7 +160,7 @@ Os diâmetros são nominais; o fio real pode diferir devido às tolerâncias de 
 - Relação definidora e valores AWG: [ASTM B258, Standard Specification for Standard Nominal Diameters and Cross-Sectional Areas of AWG Sizes](https://www.astm.org/b0258-18r24.html).
 - Diâmetros SWG: [My Local Components, tabela de diâmetros AWG e SWG](https://mlc.org.uk/guides/awg-wire-gauge-chart), que identifica os valores SWG como dados tabelados segundo BS 3737. Só são aceites as entradas incluídas no conversor.
 - Calibres BWG 28–36: [dados técnicos da Thai Yazaki, calibres de fio](https://www.trp.co.th/downloads/BW%26LV_Catalogue.pdf), cuja secção de calibres de fio identifica expressamente “Birmingham Iron Wire Gauge”. Não são usadas tabelas de espessura de parede de tubos.
-- Área circular sólida e conversão de polegadas: conversões geométricas e de unidades, `A = πd²/4`; `1 in = 25,4 mm`.
+- Área circular sólida e conversão de polegadas: conversões geométricas e de unidades, $A = \pi d^2/4$; $1\ \mathrm{in} = 25{,}4\ \mathrm{mm}$.
 
 **Alt-text:**  
 Conversor de Calibres de Fios — sistemas AWG, SWG, BWG e métricos ilustrados com uma placa calibradora de latão, bobinas de fios metálicos, diagramas de diâmetro e fórmula da área da secção transversal.

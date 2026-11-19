@@ -51,7 +51,6 @@ disciplines:
   - Дорогоцінні метали
   - Прикладна математика
 calculator_type: орієнтовна-вартість-чистого-металу-за-котируванням
-calculator_model: m_fine = m × (f / 1000); \(P_{\mathrm{item}}\) = (m_fine / 31.1034768) × P
 calculator_units: "маса: г; проба: ‰; ціна: валюта/тройська унція; вартість: валюта"
 implementation_status: client-side
 draft: false

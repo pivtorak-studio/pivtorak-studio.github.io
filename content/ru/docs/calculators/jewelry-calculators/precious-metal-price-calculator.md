@@ -51,7 +51,6 @@ disciplines:
   - Драгоценные металлы
   - Прикладная математика
 calculator_type: ориентировочная-стоимость-чистого-металла-по-котировке
-calculator_model: m_fine = m × (f / 1000); \(P_{\mathrm{item}}\) = (m_fine / 31.1034768) × P
 calculator_units: "масса: г; проба: ‰; цена: валюта/тройская унция; стоимость: валюта"
 implementation_status: client-side
 draft: false

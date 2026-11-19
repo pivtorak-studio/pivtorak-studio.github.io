@@ -27,7 +27,6 @@ tools: [Калькулятор размеров и геометрии драго
 visual_archive: true
 disciplines: [Ювелирное дело, Геммология, Прикладная математика, Геометрия]
 calculator_type: dimensional-geometry
-calculator_model: "R = L / W; V_box = L × W × D"
 calculator_units: "L, W, D: мм; R: безразмерная величина; V_box: мм³"
 implementation_status: client-side
 draft: false

@@ -51,7 +51,6 @@ disciplines:
   - матеріалознавство
   - ювелірна справа
 calculator_type: mass
-calculator_model: m = ρV
 calculator_units: "volume: cm³; density: g/cm³; mass: g, kg"
 implementation_status: client-side
 draft: false

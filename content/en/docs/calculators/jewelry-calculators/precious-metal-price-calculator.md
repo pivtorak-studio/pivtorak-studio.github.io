@@ -51,7 +51,6 @@ disciplines:
   - Precious Metals
   - Applied Mathematics
 calculator_type: market-quote-based-fine-metal-content-value
-calculator_model: m_fine = m × (f / 1000); \(P_{\mathrm{item}}\) = (m_fine / 31.1034768) × P
 calculator_units: "mass: g; fineness: ‰; price: currency/troy oz; value: currency"
 implementation_status: client-side
 draft: false

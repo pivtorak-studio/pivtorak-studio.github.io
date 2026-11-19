@@ -48,7 +48,6 @@ disciplines:
   - Matemática Aplicada
   - Geometria
 calculator_type: dimensional-geometry
-calculator_model: R = L / W; V_box = L × W × D
 calculator_units: "L, W, D: mm; R: adimensional; V_box: mm³"
 implementation_status: client-side
 draft: false

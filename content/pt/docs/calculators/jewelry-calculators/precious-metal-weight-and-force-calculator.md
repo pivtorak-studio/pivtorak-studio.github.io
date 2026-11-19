@@ -49,7 +49,6 @@ disciplines:
   - Física
   - Ciência da Medição
 calculator_type: force
-calculator_model: F = m × g
 calculator_units: "massa: kg; aceleração da gravidade: m/s²; força: N"
 implementation_status: client-side
 draft: false

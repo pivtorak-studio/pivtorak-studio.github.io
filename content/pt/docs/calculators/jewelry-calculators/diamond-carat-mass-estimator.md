@@ -184,6 +184,49 @@ $$
 
 O valor apresentado é arredondado, não resulta de uma pesagem. Fontes: [GCAL, instruções de avaliação de diamantes](https://www.gcalusa.com/instructional-diamond-grading.html); [CISGEM, dimensões e massa do diamante](https://www.cisgem.com/gemmologia/diamante/le-4c).
 
+### Brilhante redondo: estimativa apenas pelo diâmetro, com profundidade assumida
+
+Use este modo ilustrativo quando conhecer o diâmetro médio do rondízio, mas não tiver medido a profundidade total. A calculadora começa com uma razão de profundidade assumida de 61%; é um exemplo ajustável, não uma proporção universal. Se dispuser da profundidade total medida, use o modelo anterior.
+
+**Fórmulas:**
+
+$$
+h_a = D_m r,\qquad m_{\mathrm{ct}} = D_m^2 h_a k_r = D_m^3 r k_r,\qquad k_r=0{,}0061
+$$
+
+- $m_{\mathrm{ct}}$: massa estimada de uma pedra, em quilates métricos (ct).
+- $D_m$: diâmetro médio do rondízio, em milímetros (mm), calculado como a média dos diâmetros mínimo e máximo.
+- $h_a$: profundidade total assumida, em mm.
+- $r$: razão assumida entre profundidade e diâmetro, expressa como fração decimal; por exemplo, 61% é introduzido como 61% e usado como $r=0{,}61$.
+- $k_r$: o mesmo coeficiente empírico para brilhante redondo do modelo com profundidade medida, 0,0061.
+
+Esta estimativa substitui a profundidade medida por uma profundidade assumida; não determina a profundidade real da pedra. Proporções diferentes podem produzir outra massa. É uma estimativa, não uma massa medida ou garantida, e não se aplica a outras formas ou gemas. A fonte do coeficiente é [GCAL, instruções de avaliação de diamantes](https://www.gcalusa.com/instructional-diamond-grading.html); o valor inicial de 61% é uma hipótese ilustrativa ajustável, não uma norma universal.
+
+**Exemplo.** Para $D_m=1{,}50\ \mathrm{mm}$ e $r=0{,}61$:
+
+$$
+h_a=1{,}50\times0{,}61=0{,}915\ \mathrm{mm},\qquad m_{\mathrm{ct}}=1{,}50^2\times0{,}915\times0{,}0061=0{,}012558375\ \mathrm{ct}\approx0{,}013\ \mathrm{ct}
+$$
+
+### Totais para vários grupos de diâmetros
+
+Use o resumo por grupos para estimar em conjunto diferentes diâmetros ou quantidades. O subtotal de cada grupo é calculado com a estimativa não arredondada por pedra; os valores arredondados apresentados por pedra não são multiplicados para calcular os totais.
+
+**Fórmulas:**
+
+$$
+S_i=q_i m_i,\qquad N_{\mathrm{total}}=\sum_i q_i,\qquad M_{\mathrm{total}}=\sum_i S_i
+$$
+
+- $i$: índice do grupo.
+- $q_i$: quantidade inteira de pedras no grupo $i$ (pedras).
+- $m_i$: massa estimada não arredondada por pedra no grupo $i$ (ct), calculada pela fórmula anterior.
+- $S_i$: subtotal estimado não arredondado do grupo $i$ (ct).
+- $N_{\mathrm{total}}$: número total de pedras (pedras).
+- $M_{\mathrm{total}}$: massa estimada total de todos os grupos (ct).
+
+No exemplo anterior, com 48 pedras, $S_i=48\times0{,}012558375=0{,}602802\ \mathrm{ct}$, apresentado como 0,603 ct. A estimativa continua a depender da razão de profundidade assumida; não é um peso obtido por pesagem. Os valores dos grupos e os totais são arredondados apenas na apresentação.
+
 ### Brilhante oval: modelo por razão
 
 Use este modelo para um brilhante oval. Multiplique o comprimento, a largura e a profundidade pelo fator da razão comprimento/largura de referência selecionada. Escolha a razão publicada mais próxima e compare-a com a razão medida apresentada pela calculadora.
@@ -378,6 +421,45 @@ Estes modelos dimensionais empíricos aplicam-se apenas aos talhes de diamante i
 - [GIA, Observations of Oval-, Pear-, and Marquise-Shaped Diamonds](https://www.gia.edu/gems-gemology/fall-2024-fancy-shaped-diamonds) — investigação da variedade de contornos e proporções dos talhes fantasia.
 
 Os fatores são aproximações empíricas e as fontes diferem na estrutura dos modelos e nas correções. Identificamos o conjunto usado, sem afirmar que seja universal ou equivalente a uma avaliação profissional.
+
+## Calculadora da Massa de Diamantes Melee
+
+Neste contexto, os diamantes melee são diamantes pequenos, calibrados e agrupados pelo diâmetro nominal ou calibre. Para o planeamento preliminar de uma oficina, pode usar-se uma massa de referência por pedra para cada tamanho e multiplicá-la pela quantidade desse grupo. Este método de produção usa diretamente a massa de referência introduzida; não estima a geometria da pedra a partir do diâmetro e de uma profundidade assumida, como faz a calculadora geométrica acima.
+
+Para cada grupo de tamanhos, calcule o subtotal com a massa de referência introduzida por pedra e a respetiva quantidade. Depois, some os subtotais e as quantidades dos grupos:
+
+$$
+S_i = r_i n_i,\qquad N_{\mathrm{total}} = \sum_i n_i,\qquad M_{\mathrm{total}} = \sum_i S_i
+$$
+
+- $i$: índice do grupo de tamanhos (adimensional).
+- $d_i$: diâmetro nominal ou calibre que identifica o grupo $i$, em milímetros (mm). O diâmetro identifica o grupo, mas não é um fator geométrico neste cálculo.
+- $r_i$: massa de referência introduzida pelo utilizador para uma pedra do grupo $i$, em quilates métricos por pedra (ct/pedra).
+- $n_i$: número de pedras do grupo $i$, introduzido como número inteiro positivo (pedras).
+- $S_i$: subtotal estimado do grupo, em quilates métricos (ct).
+- $N_{\mathrm{total}}$: número total de pedras dos vários grupos (pedras).
+- $M_{\mathrm{total}}$: massa total estimada dos grupos (ct).
+
+A calculadora começa com quatro valores de referência editáveis: 1,0 mm — 0,005 ct por pedra; 1,5 mm — 0,015 ct; 2,0 mm — 0,030 ct; e 3,0 mm — 0,100 ct. Estes valores foram fornecidos para um exemplo de produção; não constituem uma tabela universal ou certificada de conversão. A oficina pode alterá-los e adicionar ou remover grupos de tamanhos. Os valores são usados durante a sessão nesta página e não ficam guardados permanentemente.
+
+**Exemplo de produção.** Com as referências iniciais, uma pulseira agrupada por calibre apresenta:
+
+| Diâmetro nominal | Massa de referência por pedra | Quantidade | Subtotal do grupo |
+|---:|---:|---:|---:|
+| 1,0 mm | 0,005 ct | 3 pedras | 3 × 0,005 = 0,015 ct |
+| 1,5 mm | 0,015 ct | 120 pedras | 120 × 0,015 = 1,800 ct |
+| 2,0 mm | 0,030 ct | 3 pedras | 3 × 0,030 = 0,090 ct |
+| 3,0 mm | 0,100 ct | 1 pedra | 1 × 0,100 = 0,100 ct |
+
+$$
+N_{\mathrm{total}} = 3+120+3+1 = 127\ \mathrm{pedras},\qquad M_{\mathrm{total}} = 0{,}015+1{,}800+0{,}090+0{,}100 = 2{,}005\ \mathrm{ct}
+$$
+
+O resultado depende das massas de referência introduzidas. As referências dos fornecedores, as tolerâncias de calibração, as proporções do talhe e as práticas de produção podem variar. O valor apresentado é uma estimativa para planeamento preliminar da produção, não é uma massa total medida, especificação do fornecedor ou peso garantido, nem substitui a pesagem das pedras ou a consulta dos dados aplicáveis do fornecedor. A cor não é uma variável do cálculo; as pedras são agrupadas apenas por tamanho.
+
+**Base das referências:** as quatro massas iniciais são os valores fornecidos pelo utilizador para o exemplo da pulseira acima. Não se afirma que exista uma norma universal ou uma conversão certificada entre diâmetro e massa.
+
+{{< calculator type="diamond-melee" >}}
 
 Relacionado: [Dimensões e Geometria de Gemas](/pt/docs/calculators/jewelry-calculators/gemstone-dimensions-and-geometry/).
 

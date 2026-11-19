@@ -189,6 +189,49 @@ $$
 
 The displayed value is rounded, not weighed. Sources: [GCAL instructional diamond grading](https://www.gcalusa.com/instructional-diamond-grading.html); [CISGEM diamond dimensions and mass](https://www.cisgem.com/gemmologia/diamante/le-4c).
 
+### Round brilliant: diameter-only estimate with assumed depth
+
+Use this illustrative mode when the average girdle diameter is known but total depth has not been measured. The calculator starts with an assumed depth ratio of 61%; this is an editable example, not a universal proportion. If actual total depth is available, use the measured-depth model above.
+
+**Formula:**
+
+$$
+h_a = D_a r,\qquad m_{mathrm{ct}} = D_a^2 h_a k_r = D_a^3 r k_r,\qquad k_r=0.0061
+$$
+
+- $m_{mathrm{ct}}$: estimated mass of one stone, in metric carats (ct).
+- $D_a$: average girdle diameter, in millimetres (mm), entered as the mean of the minimum and maximum diameters.
+- $h_a$: assumed total depth, in mm.
+- $r$: assumed depth-to-diameter ratio as a decimal fraction; for example, 61% is entered as 61% and used as $r=0.61$.
+- $k_r$: the same empirical round-brilliant coefficient used by the measured-depth model, 0.0061.
+
+This estimate substitutes the assumed depth for a measured depth; it does not make the stone's actual depth known. Different proportions can produce a different weight. It is an estimate, not a measured or guaranteed weight, and it does not apply to fancy shapes or other gemstones. The coefficient source is [GCAL instructional diamond grading](https://www.gcalusa.com/instructional-diamond-grading.html); the 61% starting ratio is an adjustable illustrative assumption, not a universal standard.
+
+**Worked example.** For $D_a=1.50\ \mathrm{mm}$ and $r=0.61$:
+
+$$
+h_a=1.50\times0.61=0.915\ \mathrm{mm},\qquad m_{mathrm{ct}}=1.50^2\times0.915\times0.0061=0.012558375\ \mathrm{ct}\approx0.013\ \mathrm{ct}
+$$
+
+### Totals for multiple diameter groups
+
+Use the group summary when estimating several sizes or quantities together. Each group's subtotal is calculated from its unrounded per-stone estimate; the displayed rounded per-stone values are not multiplied to obtain totals.
+
+**Formula:**
+
+$$
+S_i=q_i m_i,\qquad N_{\mathrm{total}}=\sum_i q_i,\qquad M_{\mathrm{total}}=\sum_i S_i
+$$
+
+- $i$: group index.
+- $q_i$: whole-stone quantity in group $i$ (stones).
+- $m_i$: unrounded estimated mass per stone for group $i$ (ct), calculated with the diameter-only formula above.
+- $S_i$: unrounded estimated mass subtotal for group $i$ (ct).
+- $N_{\mathrm{total}}$: total number of stones (stones).
+- $M_{\mathrm{total}}$: total estimated mass across all groups (ct).
+
+For the example above with 48 stones, $S_i=48\times0.012558375=0.602802\ \mathrm{ct}$, displayed as 0.603 ct. The estimate still depends on the selected assumed depth ratio; it is not a weighed total. Group values and totals are rounded only for display.
+
 ### Oval brilliant: ratio-specific model
 
 Use this for an oval brilliant. Multiply length, width and depth by the factor for the selected reference length-to-width ratio. Select the closest listed ratio and compare it with the measured ratio shown by the calculator.
@@ -428,6 +471,45 @@ These are empirical dimensional models for the specified diamond cuts only. Fact
 - [GIA, Observations of Oval-, Pear-, and Marquise-Shaped Diamonds](https://www.gia.edu/gems-gemology/fall-2024-fancy-shaped-diamonds) — research on variation in fancy-shape outlines and proportions.
 
 The factors are empirical approximations; sources differ in their model structure and corrections. The selected factor set is identified here, without claiming universal factors or professional certification.
+
+## Diamond Melee Weight Calculator
+
+Calibrated melee diamonds are small diamonds sorted and supplied by nominal diameter or caliber. For preliminary workshop planning, a jeweler may use a reference carat mass for each size and multiply it by the number of stones in that group. This production method uses the entered reference mass directly; it does not estimate stone geometry from diameter and assumed depth as the geometric calculator above does.
+
+For each size group, calculate its subtotal from the user-entered reference mass per stone and quantity. Then add the group subtotals and quantities:
+
+$$
+S_i = r_i n_i,\qquad N_{\mathrm{total}} = \sum_i n_i,\qquad M_{\mathrm{total}} = \sum_i S_i
+$$
+
+- $i$: size-group index (dimensionless).
+- $d_i$: nominal diameter or caliber identifying group $i$, in millimetres (mm). Diameter identifies the group but is not a geometric factor in this calculation.
+- $r_i$: user-entered reference mass per stone for group $i$, in metric carats per stone (ct/stone).
+- $n_i$: number of stones in group $i$, entered as a positive whole number (stones).
+- $S_i$: estimated group subtotal, in metric carats (ct).
+- $N_{\mathrm{total}}$: total number of stones across the groups (stones).
+- $M_{\mathrm{total}}$: total estimated mass across the groups (ct).
+
+The calculator starts with four editable reference entries: 1.0 mm — 0.005 ct per stone; 1.5 mm — 0.015 ct; 2.0 mm — 0.030 ct; and 3.0 mm — 0.100 ct. These values were supplied for a manufacturing example; they are not a universal or certified conversion table. A workshop can edit them and add or remove size groups. Entries are used for the current page session and are not permanently saved.
+
+**Worked production example.** With the starting references, a bracelet grouped by caliber gives:
+
+| Nominal diameter | Reference mass per stone | Quantity | Group subtotal |
+|---:|---:|---:|---:|
+| 1.0 mm | 0.005 ct | 3 stones | 3 × 0.005 = 0.015 ct |
+| 1.5 mm | 0.015 ct | 120 stones | 120 × 0.015 = 1.800 ct |
+| 2.0 mm | 0.030 ct | 3 stones | 3 × 0.030 = 0.090 ct |
+| 3.0 mm | 0.100 ct | 1 stone | 1 × 0.100 = 0.100 ct |
+
+$$
+N_{\mathrm{total}} = 3+120+3+1 = 127\ \mathrm{stones},\qquad M_{\mathrm{total}} = 0.015+1.800+0.090+0.100 = 2.005\ \mathrm{ct}
+$$
+
+Results depend on the reference weights entered. Supplier references, calibration tolerances, cut proportions and production practices can differ. The displayed result is an estimate for preliminary production planning, not a measured total, supplier specification, guaranteed weight or substitute for weighing the stones or checking the applicable supplier data. Color is not a calculation input; stones are aggregated by size only.
+
+**Source basis:** the four initial reference weights are the user-supplied values for the bracelet example above. No external universal standard or certified diameter-to-weight conversion is claimed.
+
+{{< calculator type="diamond-melee" >}}
 
 Related: [Gemstone Dimensions & Geometry](/en/docs/calculators/jewelry-calculators/gemstone-dimensions-and-geometry/).
 

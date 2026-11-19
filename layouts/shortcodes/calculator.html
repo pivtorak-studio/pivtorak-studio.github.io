@@ -2,7 +2,7 @@
   <div class="ps-calculator-fields"></div>
   <div class="ps-calculator-output" role="status"></div>
 </div>
-<script defer src="/js/calculators.js?v=20261119.1"></script>
+<script defer src="/js/calculators.js?v=20261119.2"></script>
 <style>
 .ps-calculator{margin:2rem 0;padding:1.5rem;border:1px solid rgba(127,127,127,.35);border-radius:.5rem;max-width:54rem}
 .ps-calculator-fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,14rem),1fr));gap:1rem}
@@ -17,5 +17,12 @@
 .ps-calculator [data-error=true]{color:color-mix(in srgb,var(--body-font-color) 70%,var(--body-background) 30%);font-weight:400}
 .ps-gold-fineness-presets{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem}
 .ps-gold-fineness-presets button{font:inherit}
+.ps-calculator[data-calculator=diamond] .ps-diamond-groups{grid-column:1/-1;display:grid;gap:.75rem}
+.ps-calculator[data-calculator=diamond] .ps-diamond-group{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr) auto;gap:.75rem;align-items:end;padding:.75rem;border:1px solid rgba(127,127,127,.25);border-radius:.35rem}
+.ps-calculator[data-calculator=diamond-melee] .ps-diamond-melee-groups{grid-column:1/-1;display:grid;gap:.75rem}
+.ps-calculator[data-calculator=diamond-melee] .ps-diamond-melee-group{display:grid;grid-template-columns:repeat(3,minmax(0,1fr)) auto;gap:.75rem;align-items:end;padding:.75rem;border:1px solid rgba(127,127,127,.25);border-radius:.35rem}
+.ps-calculator[data-calculator=diamond-melee] .ps-diamond-melee-group button{align-self:end}
 @media(max-width:480px){.ps-calculator{box-sizing:border-box;width:100%;padding:1rem}.ps-calculator-fields{grid-template-columns:minmax(0,1fr)}.ps-calculator-fields.ps-ring-fields{grid-template-columns:minmax(0,1fr)}.ps-calculator-fields .ps-ring-field{grid-template-rows:auto auto auto}}
+@media(max-width:480px){.ps-calculator[data-calculator=diamond] .ps-diamond-group{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){.ps-calculator[data-calculator=diamond-melee] .ps-diamond-melee-group{grid-template-columns:minmax(0,1fr)}}
 </style>

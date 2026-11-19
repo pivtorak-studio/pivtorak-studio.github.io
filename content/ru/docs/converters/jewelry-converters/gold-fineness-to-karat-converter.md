@@ -1,0 +1,297 @@
+---
+id: gold-fineness-to-karat-converter
+language: ru
+locale: ru-RU
+translation_of: gold-fineness-to-karat-converter
+translationKey: gold-fineness-to-karat-converter
+title: Конвертер Пробы Золота в Караты
+description: Переводите пробу золота в тысячных долях (‰) в караты (K) и обратно. Изучайте точные математические соответствия, традиционные обозначения чистоты золота, формулы и справочные значения.
+summary: Интерактивный двусторонний конвертер пробы золота и каратности. Рассчитывайте чистоту золота, сравнивайте распространённые значения проб и изучайте разницу между точным математическим пересчётом и традиционными пробирными обозначениями.
+event_date: 2026-11-19T15:00:00
+publication_date: 2026-11-19T15:00:00
+date: 2026-11-19T15:00:00
+lastmod: 2026-11-19T15:00:00
+slug: gold-fineness-to-karat-converter
+tags: [золото, проба-золота, караты, чистота-золота, ювелирное-дело, конвертер]
+keywords: [конвертер пробы золота, перевод пробы в караты, перевод карат в пробу, чистота золота, проба золота, каратность золота, таблица проб золота, золото 585, золото 750, золото 999]
+categories: [Converters, Jewelry]
+series: JewelryConverters
+series_index: 1
+weight: 5
+research_origin: Anna Pivtorak | Pivtorak.Studio
+location: Portugal
+image_credit: Anna Pivtorak | Pivtorak.Studio
+image_format: webp
+image_ratio: "1:1"
+robots: "index, follow"
+status: published
+featured: false
+image: /images/converters-jewelry-converters-gold-fineness-to-karat-converter.webp
+alt: Конвертер Пробы Золота в Караты — небольшие золотые слитки с обозначениями проб, золотые кольца и круговая схема двустороннего пересчёта.
+related: [/ru/docs/converters/, /ru/tools/, /ru/docs/timeline/, /ru/docs/the-movement-matrix/site-completion-matrix/]
+authors: [Anna Pivtorak]
+license: CC BY-NC-ND 4.0
+timeline: true
+tools: true
+visual_archive: true
+disciplines: [Ювелирное дело, Математика, Материаловедение, Метрология]
+converter_type: Пересчёт Чистоты Золота
+converter_model: Двусторонний Пересчёт Пробы в Караты
+converter_units: [‰, K]
+implementation_status: production
+draft: false
+canonical: https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/
+toc: true
+completion: 100
+seo: true
+distribution: true
+search: indexed
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#webpage",
+      "url": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/",
+      "name": "Конвертер Пробы Золота в Караты",
+      "description": "Переводите пробу золота в тысячных долях (‰) в караты (K) и обратно. Изучайте точные математические соответствия, традиционные обозначения чистоты золота, формулы и справочные значения.",
+      "inLanguage": "ru",
+      "isPartOf": {
+        "@id": "https://pivtorak.studio/#website"
+      },
+      "author": {
+        "@id": "https://pivtorak.studio/#anna-pivtorak"
+      },
+      "publisher": {
+        "@id": "https://pivtorak.studio/#organization"
+      },
+      "datePublished": "2026-11-19T15:00:00",
+      "dateModified": "2026-11-19T15:00:00",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://pivtorak.studio/images/converters-jewelry-converters-gold-fineness-to-karat-converter.webp",
+        "caption": "Конвертер Пробы Золота в Караты"
+      },
+      "breadcrumb": {
+        "@id": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#application"
+      },
+      "keywords": [
+        "конвертер пробы золота",
+        "перевод пробы в караты",
+        "перевод карат в пробу",
+        "чистота золота",
+        "проба золота",
+        "каратность золота",
+        "таблица проб золота",
+        "золото 585",
+        "золото 750",
+        "золото 999"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "workTranslation": [
+        {
+          "@id": "https://pivtorak.studio/en/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#webpage"
+        },
+        {
+          "@id": "https://pivtorak.studio/pt/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#webpage"
+        },
+        {
+          "@id": "https://pivtorak.studio/uk/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#webpage"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#application",
+      "name": "Конвертер Пробы Золота в Караты",
+      "description": "Интерактивный двусторонний конвертер для расчёта пробы золота в тысячных долях (‰) и каратах (K), с точными математическими результатами и традиционными обозначениями чистоты золота.",
+      "url": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/",
+      "image": "https://pivtorak.studio/images/converters-jewelry-converters-gold-fineness-to-karat-converter.webp",
+      "applicationCategory": "UtilitiesApplication",
+      "applicationSubCategory": "Ювелирные Измерения и Пересчёт Чистоты Золота",
+      "operatingSystem": "Any",
+      "browserRequirements": "Требуется включённая поддержка JavaScript в современном браузере.",
+      "inLanguage": "ru",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "EUR"
+      },
+      "author": {
+        "@id": "https://pivtorak.studio/#anna-pivtorak"
+      },
+      "creator": {
+        "@id": "https://pivtorak.studio/#anna-pivtorak"
+      },
+      "publisher": {
+        "@id": "https://pivtorak.studio/#organization"
+      },
+      "isPartOf": {
+        "@id": "https://pivtorak.studio/#website"
+      },
+      "featureList": [
+        "Двусторонний пересчёт пробы золота и каратности",
+        "Перевод тысячных долей (‰) в караты (K)",
+        "Перевод каратности (K) в тысячные доли (‰)",
+        "Восемь стандартных значений пробы: 375, 500, 585, 750, 900, 916, 958 и 999",
+        "Точные математические результаты пересчёта",
+        "Справочные традиционные обозначения чистоты золота",
+        "Проверка входных данных и граничных значений",
+        "Математические формулы и практическая справочная таблица"
+      ],
+      "keywords": [
+        "проба золота",
+        "каратность",
+        "чистота золота",
+        "ювелирный конвертер",
+        "пробирное клеймо"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Главная",
+          "item": "https://pivtorak.studio/ru/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Конвертеры",
+          "item": "https://pivtorak.studio/ru/docs/converters/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ювелирные Конвертеры",
+          "item": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Конвертер Пробы Золота в Караты",
+          "item": "https://pivtorak.studio/ru/docs/converters/jewelry-converters/gold-fineness-to-karat-converter/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+# Конвертер Пробы Золота в Караты
+
+![_Конвертеры. Ювелирные Конвертеры. Конвертер Пробы Золота в Караты. AP | Pivtorak.Studio. 19.11.2026_ © Анна Пивторак (Костюк)](/images/converters-jewelry-converters-gold-fineness-to-karat-converter.webp)
+
+Чистота золота может выражаться двумя способами: в пробе, измеряемой в тысячных долях, или в каратах, рассчитываемых по шкале из 24 частей. Обе системы показывают долю чистого золота в сплаве, но используют разные числовые шкалы.   
+
+Этот конвертер позволяет выполнять пересчёт в обоих направлениях, сравнивать распространённые значения золотых проб и понимать разницу между точным математическим результатом и традиционным обозначением пробы в ювелирной практике.
+
+{{< calculator type="gold-fineness" >}}
+
+## Что такое проба золота и каратность
+
+Проба золота показывает, сколько частей чистого золота содержится в 1000 частях сплава. Она выражается в тысячных долях (‰).
+
+Например, проба 585 означает, что из 1000 частей сплава 585 частей составляют чистое золото, а оставшиеся 415 частей приходятся на другие металлы.
+
+Каратная система выражает чистоту золота по шкале из 24 частей. Чистому золоту соответствует 24 карата, а меньшие значения указывают на меньшую долю золота в сплаве.
+
+Обе системы описывают одно и то же физическое свойство: массовую долю чистого золота.
+
+## Математические формулы пересчёта
+
+Пересчёт между пробой золота и каратностью основан на соотношении 1000 частей и 24 частей.
+
+**Пересчёт пробы в караты:**
+
+$$
+K = \frac{F \times 24}{1000}
+$$
+
+**Пересчёт каратности в пробу:**
+
+$$
+F = \frac{K \times 1000}{24}
+$$
+
+Где:
+
+- $F$ — проба золота в тысячных долях (‰).
+- $K$ — чистота золота в каратах (K).
+
+### Примеры расчётов
+
+**Пример 1: Перевод пробы 585 в караты**
+
+$$
+K = \frac{585 \times 24}{1000} = 14{,}04
+$$
+
+Точный математический результат — 14,04K. Традиционное обозначение этой золотой пробы — 14K.
+
+**Пример 2: Перевод 14K в пробу**
+
+$$
+F = \frac{14 \times 1000}{24} = 583{,}333333\ldots
+$$
+
+Точное математическое соответствие 14K составляет приблизительно 583,33‰, а не 585‰.
+
+Эти значения близки, но математически не идентичны.
+
+## Справочная таблица проб золота и каратности
+
+В таблице представлены распространённые значения золотых проб, их точные математические эквиваленты в каратах и традиционные обозначения.
+
+| Проба золота (‰) | Точный эквивалент (K) | Традиционное обозначение |
+|---:|---:|---:|
+| 375 | 9,000 | 9K |
+| 500 | 12,000 | 12K |
+| 585 | 14,040 | 14K |
+| 750 | 18,000 | 18K |
+| 900 | 21,600 | Нет единого обозначения |
+| 916 | 21,984 | 22K |
+| 958 | 22,992 | 23K |
+| 999 | 23,976 | 24K |
+
+Точный математический эквивалент рассчитывается по шкале из 24 карат. Традиционные обозначения являются общепринятыми коммерческими или пробирными ориентирами и не должны восприниматься как точные математические соответствия.
+
+## Точные математические значения и традиционные обозначения проб
+
+Важно различать расчётную чистоту сплава и традиционное обозначение, используемое для его идентификации.
+
+Например:
+
+- **585‰** математически соответствует **14,04K**, но традиционно обозначается как 14K.
+- **14K** математически соответствует приблизительно **583,33‰**, а не 585‰.
+- **999‰** математически соответствует **23,976K**, но традиционно обозначается как 24K.
+
+Разница обусловлена сложившимися коммерческими и пробирными соглашениями. Традиционное обозначение не обязательно является точным математическим результатом пересчёта.
+
+Конвертер показывает математическую взаимосвязь двух систем измерения, не подменяя расчётное значение традиционным обозначением пробы.
+
+## Ограничения и особенности государственного пробирного контроля
+
+Этот конвертер выполняет математический пересчёт между пробой золота и каратностью. Он не определяет фактический состав ювелирного сплава, не подтверждает подлинность золота и не заменяет лабораторный анализ.
+
+Требования к пробированию и клеймению, допустимые значения проб, предельные отклонения и правила нанесения маркировки различаются в зависимости от страны и юрисдикции.
+
+Значения в справочной таблице предназначены для обучения и сравнения. Их не следует рассматривать как подтверждение того, что определённая проба или каратное обозначение официально разрешены во всех странах.
+
+Для коммерческих операций, официального клеймения, таможенной документации и соблюдения законодательства необходимо обращаться к действующим национальным нормативным требованиям и уполномоченным пробирным организациям.
+
+**Alt-text:**  
+Конвертер Пробы Золота в Караты — небольшие золотые слитки с обозначениями проб, золотые кольца и круговая схема двустороннего пересчёта.
+
+_Конвертеры. Ювелирные Конвертеры. Конвертер Пробы Золота в Караты. AP | Pivtorak.Studio. 19.11.2026_    
+© Анна Пивторак (Костюк)

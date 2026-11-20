@@ -192,9 +192,9 @@ search: indexed
 
 ![_Conversores. Conversores para Ourivesaria. Conversor de Toque de Ouro para Quilates. AP | Pivtorak.Studio. 19.11.2026_ © Anna Pivtorak (Kostyuk)](/images/converters-jewelry-converters-gold-fineness-to-karat-converter.webp)
 
-A pureza do ouro pode ser expressa de duas formas: através do toque, medido em partes por mil, ou através dos quilates, numa escala de 24 partes. Ambos os sistemas descrevem a proporção de ouro puro numa liga metálica, mas utilizam escalas numéricas diferentes. 
+A pureza do ouro pode ser expressa de duas formas: através do toque, medido em partes por mil, ou através dos quilates, numa escala de 24 partes. Ambos os sistemas descrevem a proporção de ouro puro numa liga metálica, mas utilizam escalas numéricas diferentes. Este conversor permite calcular o valor equivalente em qualquer dos sentidos, comparar os toques mais comuns e compreender a diferença entre um resultado matemático exato e uma designação convencional de contraste do ouro.
 
-Este conversor permite calcular o valor equivalente em qualquer dos sentidos, comparar os toques mais comuns e compreender a diferença entre um resultado matemático exato e uma designação convencional de contraste do ouro.
+O conversor também permite interpretar marcas de toque do ouro históricas e atuais utilizadas em joalharia, incluindo valores que já não fazem parte das normas nacionais em vigor. Apresenta separadamente os equivalentes matemáticos exatos e as designações tradicionais em quilates, tornando as comparações mais claras e fiáveis.
 
 {{< calculator type="gold-fineness" >}}
 
@@ -265,6 +265,22 @@ A tabela seguinte compara os valores comuns de toque do ouro com os respetivos e
 | 999 | 23,976 | 24K |
 
 O equivalente matemático exato é calculado com base na escala de 24 quilates. As designações convencionais são referências comerciais ou de contraste habitualmente utilizadas e não devem ser interpretadas como equivalências matemáticas exatas.
+
+## O Toque Histórico do Ouro: o Padrão 583
+
+O toque 583 está historicamente associado à ourivesaria soviética. A Resolução n.º 5016 do Conselho de Ministros da URSS, de 22 de dezembro de 1950, na redação alterada em 28 de maio de 1956, incluía o toque 583 entre os valores estabelecidos para o ouro utilizado em artigos de joalharia. Esta alteração ocorreu dentro de um sistema métrico de toque: a lista soviética já exprimia o teor de ouro em milésimos. Na Ucrânia atual, a lista estabelecida inclui 375, 500, 585, 750, 958 e 999; por isso, 583 não faz parte dessa lista vigente.
+
+O resultado matemático mantém-se exato e distinto de qualquer convenção de contrastaria:
+
+$$
+583\text{‰} \times \frac{24}{1000}=13{,}992\text{K}
+$$
+
+Este valor difere tanto de 14K exatos, que correspondem a $583{,}333333\ldots\text{‰}$, como de 585‰, que corresponde exatamente a 14,04K. Uma marca histórica 583 não deve ser considerada inválida apenas por não constar da lista moderna ucraniana. O texto consolidado da Lei ucraniana n.º 637/97-VR estabelece separadamente que artigos de ouro dos toques 333 e 583 com marca de contrastaria estatal permanecem em circulação e são comercializados. Este contexto histórico e legal não autentica uma peça específica; a genuinidade e o estado das marcas exigem uma análise adequada.
+
+Material histórico de referência ucraniano documenta também artigos de ouro marcados com 333 e uma marca de contrastaria estatal. O seu equivalente matemático exato é $333\text{‰} \times 24/1000=7{,}992\text{K}$; 8K é uma referência convencional, não o resultado exato. Para comparação, a tabela indica 375‰ = 9K, 500‰ = 12K e 585‰ = 14,04K exatos.
+
+**Fontes:** [Lei ucraniana n.º 637/97-VR, texto consolidado em vigor](https://zakon.rada.gov.ua/laws/show/637/97-%D0%B2%D1%80#Text); [Resolução n.º 5016 do Conselho de Ministros da URSS, alterada em 28 de maio de 1956](https://rags.ru/documents/dop_documents/2/instr_25458/0/posta.html).
 
 ## Valores Matemáticos Exatos e Contrastaria Convencional
 

@@ -192,9 +192,9 @@ search: indexed
 
 ![_Converters. Jewelry Converters. Gold Fineness to Karat Converter. AP | Pivtorak.Studio. 19.11.2026_ © Anna Pivtorak (Kostyuk)](/images/converters-jewelry-converters-gold-fineness-to-karat-converter.webp)
 
-Gold purity can be expressed in two different ways: as fineness, measured in parts per thousand, or as karats, measured on a scale of 24 parts. Both systems describe the proportion of pure gold in an alloy, but they use different numerical scales. 
+Gold purity can be expressed in two different ways: as fineness, measured in parts per thousand, or as karats, measured on a scale of 24 parts. Both systems describe the proportion of pure gold in an alloy, but they use different numerical scales. This converter allows you to calculate the equivalent value in either direction, compare standard gold purity grades and understand the difference between an exact mathematical result and a conventional gold hallmark designation.
 
-This converter allows you to calculate the equivalent value in either direction, compare standard gold purity grades and understand the difference between an exact mathematical result and a conventional gold hallmark designation.
+The converter also helps interpret historical and contemporary gold fineness marks used in jewellery, including values that are no longer part of current national standards. It presents exact mathematical equivalents separately from conventional karat designations, making comparisons clearer and more reliable.
 
 {{< calculator type="gold-fineness" >}}
 
@@ -265,6 +265,22 @@ The following table compares common gold fineness values with their exact mathem
 | 999 | 23.976 | 24K |
 
 The exact mathematical equivalent is calculated using the 24-karat scale. Conventional designations are commonly used commercial or hallmark references and should not be interpreted as exact mathematical equivalents.
+
+## Historical Gold Fineness: The 583 Standard
+
+Fineness 583 is historically associated with Soviet jewellery. Resolution No. 5016 of the USSR Council of Ministers (22 December 1950), as amended on 28 May 1956, included 583 among the established gold finenesses for jewellery. This was a change within a metric fineness system: the Soviet list already expressed gold content in parts per thousand. In modern Ukraine, the established list includes 375, 500, 585, 750, 958 and 999, so 583 is not part of that current list.
+
+The mathematical result remains exact and separate from any hallmark convention:
+
+$$
+583\text{‰} \times \frac{24}{1000}=13.992\text{K}
+$$
+
+That is different from both 14K exactly, which converts to $583.333333\ldots\text{‰}$, and 585‰, which converts to 14.04K. A historical 583 mark should not be treated as invalid solely because 583 is absent from the modern Ukrainian list. The consolidated text of Ukrainian Law No. 637/97-VR separately states that gold articles of 333 and 583 fineness bearing a state assay hallmark remain in circulation and are sold. This historical and legal context does not authenticate an individual item; the genuineness and condition of its marks require appropriate examination.
+
+Historical Ukrainian reference material also documents gold articles marked 333 with a state assay hallmark. Its exact mathematical equivalent is $333\text{‰} \times 24/1000=7.992\text{K}$, while 8K is a conventional reference rather than the exact result. For comparison, the table gives 375‰ = 9K, 500‰ = 12K and 585‰ = 14.04K exactly.
+
+**Sources:** [Ukrainian Law No. 637/97-VR, current consolidated text](https://zakon.rada.gov.ua/laws/show/637/97-%D0%B2%D1%80#Text); [USSR Council of Ministers Resolution No. 5016, as amended on 28 May 1956](https://rags.ru/documents/dop_documents/2/instr_25458/0/posta.html).
 
 ## Exact Mathematical Values vs Conventional Gold Markings
 

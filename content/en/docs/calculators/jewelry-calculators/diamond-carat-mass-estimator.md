@@ -163,13 +163,13 @@ Use this model for a standard round brilliant when two girdle diameters are avai
 **Formula:**
 
 $$
-m_{\mathrm{ct}}=D_a^2\times h\times k_r,\qquad k_r=0.0061
+m_{\mathrm{ct}}=D_a^2\times h\times k_r,\qquad k_r=0.0061\ \mathrm{ct/mm^3}
 $$
 
 - `m_ct`: estimated mass, in metric carats (ct).
 - `D_a`: average girdle diameter, in millimetres (mm), entered as the mean of the minimum and maximum diameters.
 - `h`: total depth, in mm.
-- `k_r`: empirical round-brilliant coefficient, 0.0061.
+- `k_r`: empirical round-brilliant coefficient, 0.0061 ct/mm³ when dimensions are in mm and mass is in ct.
 
 Enter the already averaged diameter, not the two readings separately. This approximation does not correct for an unusually thick or thin girdle or atypical proportions. Do not use it for other outlines or gemstones.
 
@@ -196,21 +196,21 @@ Use this illustrative mode when the average girdle diameter is known but total d
 **Formula:**
 
 $$
-h_a = D_a r,\qquad m_{mathrm{ct}} = D_a^2 h_a k_r = D_a^3 r k_r,\qquad k_r=0.0061
+h_a = D_a r,\qquad m_{\mathrm{ct}} = D_a^2 h_a k_r = D_a^3 r k_r,\qquad k_r=0.0061\ \mathrm{ct/mm^3}
 $$
 
-- $m_{mathrm{ct}}$: estimated mass of one stone, in metric carats (ct).
+- $m_{\mathrm{ct}}$: estimated mass of one stone, in metric carats (ct).
 - $D_a$: average girdle diameter, in millimetres (mm), entered as the mean of the minimum and maximum diameters.
 - $h_a$: assumed total depth, in mm.
 - $r$: assumed depth-to-diameter ratio as a decimal fraction; for example, 61% is entered as 61% and used as $r=0.61$.
-- $k_r$: the same empirical round-brilliant coefficient used by the measured-depth model, 0.0061.
+- $k_r$: the same empirical round-brilliant coefficient used by the measured-depth model, 0.0061 ct/mm³ when dimensions are in mm and mass is in ct.
 
 This estimate substitutes the assumed depth for a measured depth; it does not make the stone's actual depth known. Different proportions can produce a different weight. It is an estimate, not a measured or guaranteed weight, and it does not apply to fancy shapes or other gemstones. The coefficient source is [GCAL instructional diamond grading](https://www.gcalusa.com/instructional-diamond-grading.html); the 61% starting ratio is an adjustable illustrative assumption, not a universal standard.
 
 **Worked example.** For $D_a=1.50\ \mathrm{mm}$ and $r=0.61$:
 
 $$
-h_a=1.50\times0.61=0.915\ \mathrm{mm},\qquad m_{mathrm{ct}}=1.50^2\times0.915\times0.0061=0.012558375\ \mathrm{ct}\approx0.013\ \mathrm{ct}
+h_a=1.50\times0.61=0.915\ \mathrm{mm},\qquad m_{\mathrm{ct}}=1.50^2\times0.915\times0.0061=0.012558375\ \mathrm{ct}\approx0.013\ \mathrm{ct}
 $$
 
 ### Totals for multiple diameter groups

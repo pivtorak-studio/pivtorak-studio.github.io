@@ -157,19 +157,19 @@ Cada coeficiente pertence ao modelo da forma indicada. Quatro modelos de talhes 
 
 ### Brilhante redondo: modelo do diâmetro médio
 
-Use este modelo para um diamante de talhe brilhante redondo quando dispuser de dois diâmetros do rondízio. O  rado do diâmetro médio é multiplicado pela profundidade total e pelo coeficiente do brilhante redondo.
+Use este modelo para um diamante de talhe brilhante redondo quando dispuser de dois diâmetros do rondízio. O quadrado do diâmetro médio é multiplicado pela profundidade total e pelo coeficiente do brilhante redondo.
 
 **Fórmula:**
 
 $$
-m_{\mathrm{ct}} = D_m^2 \times h \times k_r; k_r = 0{,}0061
+m_{\mathrm{ct}} = D_m^2 \times h \times k_r; k_r = 0{,}0061\ \mathrm{ct/mm^3}
 $$
 
 
 - $m_{\mathrm{ct}}$: massa estimada, em quilates métricos (ct).
 - $D_m$: diâmetro médio do rondízio, em milímetros (mm), introduzido como a média dos diâmetros mínimo e máximo.
 - $h$: profundidade total, em mm.
-- $k_r$: coeficiente empírico para brilhante redondo, 0,0061.
+- $k_r$: coeficiente empírico para o brilhante redondo: 0,0061 ct/mm³ quando as dimensões estão em mm e a massa em ct.
 
 Introduza o diâmetro já calculado, não as duas medições separadas. A aproximação não corrige um rondízio invulgarmente espesso ou fino nem proporções atípicas. Não a utilize para outras formas ou gemas.
 
@@ -191,14 +191,14 @@ Use este modo ilustrativo quando conhecer o diâmetro médio do rondízio, mas n
 **Fórmulas:**
 
 $$
-h_a = D_m r,\qquad m_{\mathrm{ct}} = D_m^2 h_a k_r = D_m^3 r k_r,\qquad k_r=0{,}0061
+h_a = D_m r,\qquad m_{\mathrm{ct}} = D_m^2 h_a k_r = D_m^3 r k_r,\qquad k_r=0{,}0061\ \mathrm{ct/mm^3}
 $$
 
 - $m_{\mathrm{ct}}$: massa estimada de uma pedra, em quilates métricos (ct).
 - $D_m$: diâmetro médio do rondízio, em milímetros (mm), calculado como a média dos diâmetros mínimo e máximo.
 - $h_a$: profundidade total assumida, em mm.
 - $r$: razão assumida entre profundidade e diâmetro, expressa como fração decimal; por exemplo, 61% é introduzido como 61% e usado como $r=0{,}61$.
-- $k_r$: o mesmo coeficiente empírico para brilhante redondo do modelo com profundidade medida, 0,0061.
+- $k_r$: o mesmo coeficiente empírico para brilhante redondo do modelo com profundidade medida: 0,0061 ct/mm³ quando as dimensões estão em mm e a massa em ct.
 
 Esta estimativa substitui a profundidade medida por uma profundidade assumida; não determina a profundidade real da pedra. Proporções diferentes podem produzir outra massa. É uma estimativa, não uma massa medida ou garantida, e não se aplica a outras formas ou gemas. A fonte do coeficiente é [GCAL, instruções de avaliação de diamantes](https://www.gcalusa.com/instructional-diamond-grading.html); o valor inicial de 61% é uma hipótese ilustrativa ajustável, não uma norma universal.
 

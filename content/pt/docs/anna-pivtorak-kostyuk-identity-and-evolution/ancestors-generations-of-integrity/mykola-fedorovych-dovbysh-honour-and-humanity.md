@@ -227,7 +227,9 @@ As condecorações de guerra e os respetivos documentos são preservados no arqu
 
 A sua infância foi difícil. O pai, Fedir, trabalhava na milícia e faleceu em consequência de ferimentos sofridos durante o cumprimento das suas funções. A família tinha dois filhos: Mykola e o irmão mais novo, Oleksandr. Conhecido em casa por Shura, Oleksandr morreu de pneumonia ainda muito pequeno. Mykola Fedorovych recordou o irmão durante toda a vida e, mais tarde, pediu que alguns dos netos recebessem o nome de Oleksandr em sua homenagem.
 
-Após a morte do pai, a família atravessou um período difícil. Desde muito novo, Mykola teve de trabalhar bastante e ajudar nas tarefas domésticas. Apesar das dificuldades, queria continuar a estudar. A mãe, Kateryna, insistia especialmente em que o filho concluísse o ensino secundário. Depois de terminar o sétimo ano, Mykola decidiu prosseguir os estudos em Konotop. No entanto, nessa altura, já não havia vagas no oitavo ano. Por isso, teve de frequentar novamente o sétimo ano, para poder continuar os estudos no ano seguinte. Para chegar à escola, deslocava-se diariamente de comboio até Konotop e percorria a pé o restante caminho. Concluiu a Escola Secundária de Popivka em 1940.
+Após a morte do pai, a família atravessou um período difícil. Desde muito novo, Mykola ajudava a mãe nas tarefas domésticas e nos trabalhos da casa. Durante as férias escolares, também trabalhava com o padrasto, ajudando a cobrir os telhados das casas da aldeia com colmo. Por isso, mesmo nas pausas das aulas, tinha pouco tempo para descansar.
+
+Apesar das dificuldades, queria continuar a estudar. A mãe, Kateryna, insistia especialmente em que o filho concluísse o ensino secundário. Depois de terminar o sétimo ano, Mykola decidiu prosseguir os estudos em Konotop. No entanto, nessa altura, já não havia vagas no oitavo ano. Por isso, teve de frequentar novamente o sétimo ano, para poder continuar os estudos no ano seguinte. Para chegar à escola, deslocava-se diariamente de comboio até Konotop e percorria a pé o restante caminho. Concluiu a Escola Secundária de Popivka em 1940.
 
 Depois de terminar os estudos, Mykola foi convocado para o serviço militar. Devido à sua formação escolar, foi encaminhado para uma escola de preparação de intérpretes militares de língua alemã. No entanto, não conseguiu concluir a formação: começou a Segunda Guerra Mundial.
 
@@ -237,7 +239,7 @@ Pela sua participação na guerra e pelo serviço militar, recebeu numerosas con
 
 Foi também depois da guerra que conheceu a futura esposa, Kateryna Oleksiivna. O conhecimento transformou-se rapidamente em amor e, cerca de dois meses depois, casaram-se. Viveram juntos durante setenta anos. Tiveram duas filhas: Nadiia e Vira.
 
-Depois da guerra, Mykola Fedorovych trabalhou como funcionário de caixa nos Caminhos de Ferro do Sudoeste. Mais tarde, a organização sindical enviou-o para estudar na Escola Superior do Movimento Sindical, em Minsk. Inicialmente, foi sozinho e, mais tarde, levou a família para junto de si.
+Depois da guerra, Mykola Fedorovych trabalhou como funcionário de caixa nos Caminhos de Ferro do Sudoeste. Mais tarde, a organização sindical enviou-o para estudar durante dois anos na Escola Superior do Movimento Sindical, em Minsk. Inicialmente, foi sozinho e, mais tarde, levou a família para junto de si.
 
 Nas recordações da família e dos habitantes da sua aldeia, Mykola Fedorovych ficou conhecido não só como um trabalhador consciencioso, mas também como alguém disposto a ajudar os outros. Enquanto tesoureiro, procurava ajudar os trabalhadores ferroviários que lhe pediam uma pequena quantia até receberem o salário. Estes empréstimos de curto prazo eram concedidos através da caixa da empresa e registados na contabilidade de caixa habitual. Assim, procurava ajudar as pessoas quando precisavam.
 
@@ -255,7 +257,7 @@ A sua memória permanece na família, nas recordações de todos os que o conhec
 
 O nosso avô Mykola Fedorovych estava quase sempre ocupado com alguma tarefa na horta e no jardim da família. Gostava muito do seu jardim, cuidava das árvores, plantava legumes e acompanhava com atenção as colheitas. Não era apenas um passatempo, mas uma parte natural da sua vida quotidiana. Sempre que o visitávamos, havia na mesa legumes e frutas frescos, vindos da horta e do jardim da família, cultivados pelas suas próprias mãos e não comprados numa loja.
 
-Chamávamos-lhe carinhosamente «Chocolatinho». O sol de Mykolaiv fazia o seu trabalho: podia passar o dia inteiro ao ar livre, na horta, e ficava com um bronzeado tão intenso que a alcunha lhe assentava na perfeição.
+O sol de Mykolaiv fazia o seu trabalho: podia passar o dia inteiro ao ar livre, na horta, e ficava com um bronzeado tão intenso que chamávamos-lhe carinhosamente «Chocolatinho». 
 
 Era muito carinhoso com os netos, atencioso e extremamente culto e distinto nas suas maneiras. Sabia contar histórias de uma forma muito bonita e envolvente. Cada história trazia consigo a experiência de uma vida inteira e a sua maneira própria de ver o mundo.
 
@@ -263,7 +265,7 @@ Amava profundamente a sua esposa, Kateryna Oleksiivna, e tratava as filhas com e
 
 É assim que permanece na minha memória: um homem trabalhador, dedicado ao seu jardim, um avô carinhoso e um verdadeiro cavalheiro. Alguém que sabia amar a família, cuidar dos seus e encontrar alegria nas coisas simples da vida.
 
-**Alt-text:**
+**Alt-text:**   
 Retrato de Mykola Fedorovych Dovbysh (1921–2015), recordado pela família pela sua honra e humanidade.
 
 _Mykola Fedorovych Dovbysh. Honra e Humanidade | Ancestrais: Gerações de Integridade. AP | Pivtorak.Studio. 20.11.2026_    

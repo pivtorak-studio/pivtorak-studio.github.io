@@ -228,7 +228,9 @@ His wartime medals and accompanying documents are preserved in the family archiv
 
 His childhood was difficult. His father, Fedir, served in the militia and died from injuries sustained while performing his official duties. There were two sons in the family: Mykola and his younger brother, Oleksandr. Known at home as Shura, Oleksandr died of pneumonia when he was still very young. Mykola Fedorovych remembered his brother throughout his life and later asked that grandchildren be named Oleksandr in his honour.
 
-After his father's death, the family went through a difficult period. From an early age, Mykola had to work hard and help with household tasks. Despite these circumstances, he was determined to continue his education. His mother, Kateryna, was particularly insistent that he complete his secondary schooling. After finishing the seventh grade, Mykola decided to continue his studies in Konotop. However, there were no places available in the eighth grade at the time. He therefore had to spend another year in the seventh grade so that he could progress with his education the following year. To attend school, he travelled to Konotop by train every day and walked the remaining distance. He graduated from Popivka Secondary School in 1940.
+After his father's death, the family went through a difficult period. From an early age, Mykola helped his mother with the household and farm work. During school holidays, he also worked alongside his stepfather, helping to thatch the roofs of village houses. Even when school was out, there was little time for rest.
+
+Despite these circumstances, he was determined to continue his education. His mother, Kateryna, was particularly insistent that he complete his secondary schooling. After finishing the seventh grade, Mykola decided to continue his studies in Konotop. However, there were no places available in the eighth grade at the time. He therefore had to spend another year in the seventh grade so that he could progress with his education the following year. To attend school, he travelled to Konotop by train every day and walked the remaining distance. He graduated from Popivka Secondary School in 1940.
 
 After graduating, Mykola was drafted into the army. Because of his education, he was assigned to a school for military German-language interpreters. However, he was unable to complete his training: the Second World War began.
 
@@ -238,7 +240,7 @@ In recognition of his participation in the war and his military service, he rece
 
 It was also after the war that he met his future wife, Kateryna Oleksiivna. Their acquaintance quickly developed into love, and they married approximately two months later. They spent seventy years together. They had two daughters, Nadiia and Vira.
 
-After the war, Mykola Fedorovych worked as a cashier for the South-Western Railway. Later, the trade union organisation sent him to study at the Higher School of the Trade Union Movement in Minsk. He initially went there alone and later brought his family to join him.
+After the war, Mykola Fedorovych worked as a cashier for the South-Western Railway. Later, the trade union organisation sent him to two-year study at the Higher School of the Trade Union Movement in Minsk. He initially went there alone and later brought his family to join him.
 
 In the memories of his family and fellow villagers, Mykola Fedorovych is remembered not only as a conscientious worker but also as someone willing to help others. As a cashier, he tried to accommodate railway employees who asked for a small advance until payday. These short-term loans were issued from the enterprise's cash office and recorded through the ordinary cash accounting system. He was willing to help people when they needed it.
 
@@ -256,7 +258,7 @@ His memory lives on in his family, in the recollections of those who knew him, a
 
 Our grandfather, Mykola Fedorovych was almost always busy with something at the family garden plot. He loved his garden, looked after the trees, planted vegetables and took great care of the harvest. It was not simply a hobby for him, but a natural part of everyday life. Whenever we visited him, there were always fresh vegetables and fruit on the table, grown in the family garden rather than bought from a shop.
 
-We affectionately called him “Chocolate”. The Mykolaiv sun certainly played its part: he could spend the entire day outdoors at the garden plot and became so deeply tanned that the nickname seemed perfectly fitting.
+The Mykolaiv sun certainly played its part: he could spend the entire day outdoors at the garden plot and became so deeply tanned that цe affectionately called him “Chocolate”. 
 
 He was very kind to his grandchildren, attentive and exceptionally refined in manner. He had a wonderful way of telling stories, making them both vivid and engaging. Every story carried the weight of a life lived, his experience and his own perspective on the world.
 

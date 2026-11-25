@@ -232,5 +232,5 @@ _Topografia Viva. Dedicação ao que Tem Valor. AP | Pivtorak.Studio. 12.11.2026
 © Anna Pivtorak (Kostyuk)
 
 *Nota sobre a dinamização*   
-A sessão foi orientada por **Hugo Dias**, que gentilmente partilhou as suas notas de preparação para este encontro.    
+A sessão foi orientada por **Hugo Direito Dias**, que gentilmente partilhou as suas notas de preparação para este encontro.    
 As atividades previstas podem ser adaptadas ao grupo e ao momento.

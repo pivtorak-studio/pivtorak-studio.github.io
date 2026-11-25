@@ -260,5 +260,5 @@ _Topografia Viva. Quando as Nossas Histórias se Entrelaçam. AP | Pivtorak.Stud
 © Anna Pivtorak (Kostyuk)
 
 *Nota sobre a dinamização*   
-A sessão foi orientada por **Hugo Dias**, que gentilmente partilhou as suas notas de preparação para este encontro.    
+A sessão foi orientada por **Hugo Direito Dias**, que gentilmente partilhou as suas notas de preparação para este encontro.    
 As atividades previstas podem ser adaptadas ao grupo e ao momento.

@@ -235,5 +235,5 @@ _Living Topography. The Picture We Cannot See Yet. AP | Pivtorak.Studio. 22.10.2
 © Anna Pivtorak (Kostyuk)
 
 *Facilitator's Note*   
-The session was facilitated by **Hugo Dias**, who kindly shared his preparation notes for this meeting.    
+The session was facilitated by **Hugo Direito Dias**, who kindly shared his preparation notes for this meeting.    
 The planned activities may be adapted to the group and to the moment.

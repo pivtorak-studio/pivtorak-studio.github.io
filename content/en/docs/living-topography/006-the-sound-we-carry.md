@@ -240,5 +240,5 @@ _Living Topography. The Sound We Carry. AP | Pivtorak.Studio. 05.11.2026_
 © Anna Pivtorak (Kostyuk)
 
 *Facilitator's Note*   
-The session was facilitated by **Hugo Dias**, who kindly shared his preparation notes for this meeting.    
+The session was facilitated by **Hugo Direito Dias**, who kindly shared his preparation notes for this meeting.    
 The planned activities may be adapted to the group and to the moment.

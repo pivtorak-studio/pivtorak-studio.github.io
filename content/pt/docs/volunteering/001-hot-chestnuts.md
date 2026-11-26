@@ -166,6 +166,8 @@ E voltamos às castanhas de Kyiv. Os frutos castanhos e brilhantes que os ucrani
 
 Ao mesmo tempo, preparados padronizados à base de sementes de castanheiro-da-Índia são utilizados na medicina para aliviar os sintomas da insuficiência venosa crónica, incluindo inchaço, dor e sensação de peso nas pernas. Para esse fim, utilizam-se extratos especialmente processados, e não sementes em estado natural.
 
+No quotidiano, as castanhas-da-Índia tinham também outra utilização. Eram apanhadas no outono e colocadas nas gavetas e nos armários da roupa, sobretudo junto das peças de lã e das roupas de inverno, na esperança de as proteger das traças. Este costume não existia apenas na Ucrânia: também se encontram referências à utilização das castanhas-da-Índia para proteger a roupa em manuais de conselhos domésticos europeus do século XIX. Hoje, podemos encará-lo sobretudo como um exemplo de tradição doméstica, e não como um método comprovado de combate às traças.
+
 Por isso, apesar da semelhança dos nomes e da aparência, trata-se de espécies botânicas diferentes, com utilizações distintas.
 
 ## Voluntariado

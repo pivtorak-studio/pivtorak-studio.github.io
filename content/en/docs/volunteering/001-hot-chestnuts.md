@@ -167,6 +167,8 @@ And so we return to Kyiv’s chestnuts. The familiar shiny brown fruits known to
 
 At the same time, standardised preparations made from horse chestnut seeds are used in medicine to relieve symptoms of chronic venous insufficiency, including swelling, pain and a feeling of heaviness in the legs. These preparations are made from specially processed extracts, not raw seeds.
 
+In everyday life, horse chestnuts had another use. They were collected in autumn and placed in drawers and wardrobes with clothes, especially woollen and winter garments, in the hope of protecting them from moths. This custom was not limited to Ukraine: references to using horse chestnuts to protect clothing can also be found in European household advice books from the nineteenth century. Today, this can be regarded primarily as an example of a domestic tradition rather than a proven method of moth control.
+
 So, despite the similarity in names and appearance, these are different botanical species with different uses.
 
 ## Volunteering

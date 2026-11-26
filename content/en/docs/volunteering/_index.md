@@ -9,8 +9,8 @@ seo_title: Volunteering | Community Participation and Shared Activities
 slug: volunteering
 description: A documentary series exploring volunteering in Portugal through practical activities, shared responsibilities, cooperation and participation in community life.
 summary: Personal documentary essays about volunteering experiences in Portugal, exploring cultural, educational, social and environmental activities, practical skills, shared knowledge and everyday community life.
-publication_date: 2026-11-26T01:00:00+00:00
-date: 2026-11-26T01:00:00+00:00
+publication_date: 2026-10-07T01:00:00+00:00
+date: 2026-10-07T01:00:00+00:00
 lastmod: 2026-11-26T01:00:00+00:00
 tags:
   - volunteering
@@ -74,7 +74,7 @@ show_in_series_projects: true
   "headline": "Volunteering",
   "description": "A documentary series exploring volunteering in Portugal through practical activities, shared responsibilities, cooperation and participation in community life.",
   "inLanguage": "en-US",
-  "datePublished": "2026-11-26T01:00:00+00:00",
+  "datePublished": "2026-10-07T01:00:00+00:00",
   "dateModified": "2026-11-26T01:00:00+00:00",
   "isPartOf": {
     "@type": "WebSite",

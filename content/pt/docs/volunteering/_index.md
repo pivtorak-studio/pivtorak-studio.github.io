@@ -9,8 +9,8 @@ seo_title: Voluntariado | Participação Comunitária e Atividades Partilhadas
 slug: volunteering
 description: Uma série documental sobre o voluntariado em Portugal, através de atividades práticas, responsabilidades partilhadas, cooperação e participação na vida das comunidades.
 summary: Ensaios documentais pessoais sobre experiências de voluntariado em Portugal, explorando atividades culturais, educativas, sociais e ambientais, competências práticas, conhecimentos partilhados e vida quotidiana das comunidades.
-publication_date: 2026-11-26T01:00:00+00:00
-date: 2026-11-26T01:00:00+00:00
+publication_date: 2026-10-07T01:00:00+00:00
+date: 2026-10-07T01:00:00+00:00
 lastmod: 2026-11-26T01:00:00+00:00
 tags:
   - voluntariado
@@ -74,7 +74,7 @@ show_in_series_projects: true
   "headline": "Voluntariado",
   "description": "Uma série documental sobre o voluntariado em Portugal, através de atividades práticas, responsabilidades partilhadas, cooperação e participação na vida das comunidades.",
   "inLanguage": "pt-PT",
-  "datePublished": "2026-11-26T01:00:00+00:00",
+  "datePublished": "2026-10-07T01:00:00+00:00",
   "dateModified": "2026-11-26T01:00:00+00:00",
   "isPartOf": {
     "@type": "WebSite",

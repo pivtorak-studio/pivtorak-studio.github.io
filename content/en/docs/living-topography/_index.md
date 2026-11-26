@@ -127,7 +127,7 @@ And what do we carry with us when we leave?
 **Alt-text:**    
 Dark topographic surface with flowing paths, traces, nodes and connections, representing Living Topography.
 
-_Living Topography. AP | Pivtorak.Studio. 01.06.2025_  
+_Living Topography. AP | Pivtorak.Studio. 01.10.2026_  
 © Anna Pivtorak (Kostyuk)
 
 ---

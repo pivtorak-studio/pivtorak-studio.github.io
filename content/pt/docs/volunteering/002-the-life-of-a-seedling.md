@@ -185,7 +185,9 @@ A criação e manutenção dos espaços verdes urbanos começa muito antes de um
 
 ![_A Vida das Mudas | Voluntariado. AP | Pivtorak.Studio. 25.11.2026_ © Anna Pivtorak (Kostyuk)](/images/volunteering-002-the-life-of-a-seedling-05.webp)
 
-Nesse dia, não plantámos árvores nas ruas da cidade nem criámos novos canteiros. Participámos numa fase muito anterior deste processo — quando as plantas ainda crescem em vasos e estão a ser preparadas para o seu futuro lugar.
+Nesse dia, não plantámos árvores nas ruas da cidade nem criámos novos canteiros.   
+
+Participámos numa fase muito anterior deste processo — quando as plantas ainda crescem em vasos e estão a ser preparadas para o seu futuro lugar.
 
 Assim, por detrás do surgimento de cada nova zona verde em Esposende existe toda uma cadeia de pequenas tarefas quotidianas que muitas vezes passam despercebidas. 
 

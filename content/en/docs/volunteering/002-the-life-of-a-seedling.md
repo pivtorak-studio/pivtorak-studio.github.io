@@ -185,7 +185,9 @@ Urban landscaping begins long before a new tree appears on a street or a flower 
 
 ![_The Life of Seedlings | Volunteering. AP | Pivtorak.Studio. 25.11.2026_ © Anna Pivtorak (Kostyuk)](/images/volunteering-002-the-life-of-a-seedling-05.webp)
 
-That day, we did not plant trees along the town's streets or create new flower beds. We joined the process much earlier, at the stage when plants are still growing in pots and being prepared for their future locations.
+That day, we did not plant trees along the town's streets or create new flower beds.   
+
+We joined the process much earlier, at the stage when plants are still growing in pots and being prepared for their future locations.
 
 So, behind the emergence of each new green space in Esposende is a whole chain of everyday tasks that often go unnoticed. 
 

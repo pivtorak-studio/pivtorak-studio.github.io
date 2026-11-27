@@ -165,7 +165,7 @@ verification_model: independent-analysis-with-factual-verification
 research_status: confirmed
 seo: true
 distribution: true
-search: pending
+search: indexed
 bookCollapseSection: true
 ---
 

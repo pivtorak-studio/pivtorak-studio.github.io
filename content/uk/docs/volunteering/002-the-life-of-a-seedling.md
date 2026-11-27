@@ -4,54 +4,64 @@ language: uk
 locale: uk-UA
 translation_of: 002-the-life-of-a-seedling
 translation_key: 002-the-life-of-a-seedling
-
-title: "002 Життя саджанців"
-seo_title: "Життя саджанців | Волонтерство"
+title: 002 Життя саджанців
+seo_title: Життя саджанців | Волонтерство
 slug: 002-the-life-of-a-seedling
-
-description: "Документальне есе про волонтерську роботу в муніципальному розсаднику Маріньяша, де молоді рослини очищають від бур'янів, пересаджують і готують до висаджування в громадських просторах Ешпозенде. Знайомство з роллю повзучого розмарину в міському озелененні."
-summary: "Від видалення бур'янів навколо вже вирощених рослин до підготовки саджанців у нових горщиках — день у муніципальному розсаднику відкриває практичний бік створення міських зелених просторів. Повзучий розмарин стає прикладом того, як ґрунтопокривні рослини використовують в озелененні."
-
-event: "25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2"
+description: Документальне есе про волонтерську роботу в муніципальному розсаднику Маріньяша, де молоді рослини очищають від бур'янів, пересаджують і готують до висаджування в громадських просторах Ешпозенде. Знайомство з роллю повзучого розмарину в міському озелененні.
+summary: Від видалення бур'янів навколо вже вирощених рослин до підготовки саджанців у нових горщиках — день у муніципальному розсаднику відкриває практичний бік створення міських зелених просторів. Повзучий розмарин стає прикладом того, як ґрунтопокривні рослини використовують в озелененні.
+event: 25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 event_date: 2026-11-25T21:00:00+00:00
 publication_date: 2026-11-25T21:00:00+00:00
 date: 2026-11-25T21:00:00+00:00
 lastmod: 2026-11-26T18:00:00+00:00
-
-tags: [волонтерство, екологічна освіта, муніципальний розсадник, догляд за рослинами, повзучий розмарин, міське озеленення]
-keywords: [муніципальний розсадник, догляд за саджанцями, повзучий розмарин, Rosmarinus prostratus, ґрунтопокривні рослини, розмноження рослин, міські зелені простори, екологічне волонтерство, Ешпозенде]
-categories: [Volunteering]
-
+tags:
+  - волонтерство
+  - екологічна освіта
+  - муніципальний розсадник
+  - догляд за рослинами
+  - повзучий розмарин
+  - міське озеленення
+keywords:
+  - муніципальний розсадник
+  - догляд за саджанцями
+  - повзучий розмарин
+  - Rosmarinus prostratus
+  - ґрунтопокривні рослини
+  - розмноження рослин
+  - міські зелені простори
+  - екологічне волонтерство
+  - Ешпозенде
+categories:
+  - Volunteering
 series: Volunteering
 series_index: 2
-
-research_origin: "Anna Pivtorak | Pivtorak.Studio"
+research_origin: Anna Pivtorak | Pivtorak.Studio
 content_type: documentary-essay
 schema_type: Article
-
-location: "Marinhas, Esposende, Portugal"
+location: Marinhas, Esposende, Portugal
 status: published
 featured: true
 draft: false
-
 image: /images/volunteering-002-the-life-of-a-seedling.webp
-alt: "Чорний розсадний лоток із 12 окремими комірками, у кожній з яких росте молодий саджанець повзучого розмарину. Лоток стоїть на білому робочому столі просто неба в муніципальному розсаднику."
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+alt: Чорний розсадний лоток із 12 окремими комірками, у кожній з яких росте молодий саджанець повзучого розмарину. Лоток стоїть на білому робочому столі просто неба в муніципальному розсаднику.
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-
-related: [/uk/docs/volunteering/, /uk/docs/timeline/, /uk/docs/the-movement-matrix/site-completion-matrix/]
-
-authors: [Anna Pivtorak]
+image_ratio: 1:1
+related:
+  - /uk/docs/volunteering/
+  - /uk/docs/timeline/
+  - /uk/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/uk/docs/volunteering/002-the-life-of-a-seedling/
-
 weight: 2
-robots: "index, follow"
+robots: index, follow
 toc: true
 completion: 100
 seo: true
 distribution: true
 search: indexed
+project: VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 ---
 
 <script type="application/ld+json">

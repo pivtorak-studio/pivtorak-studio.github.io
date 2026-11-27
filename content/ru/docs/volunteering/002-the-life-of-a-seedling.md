@@ -4,54 +4,64 @@ language: ru
 locale: ru-RU
 translation_of: 002-the-life-of-a-seedling
 translation_key: 002-the-life-of-a-seedling
-
-title: "002 Жизнь саженцев"
-seo_title: "Жизнь саженцев | Волонтёрство"
+title: 002 Жизнь саженцев
+seo_title: Жизнь саженцев | Волонтёрство
 slug: 002-the-life-of-a-seedling
-
-description: "Документальное эссе о волонтёрской работе в муниципальном питомнике Мариньяша, где молодые растения очищают от сорняков, пересаживают и готовят к высадке в общественных пространствах Эшпозенде. Знакомство с ролью ползучего розмарина в городском озеленении."
-summary: "От удаления сорняков вокруг уже выращенных растений до подготовки саженцев в новых горшках — день в муниципальном питомнике раскрывает практическую сторону создания городских зелёных пространств. Ползучий розмарин становится примером того, как почвопокровные растения используются в ландшафтном озеленении."
-
-event: "25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2"
+description: Документальное эссе о волонтёрской работе в муниципальном питомнике Мариньяша, где молодые растения очищают от сорняков, пересаживают и готовят к высадке в общественных пространствах Эшпозенде. Знакомство с ролью ползучего розмарина в городском озеленении.
+summary: От удаления сорняков вокруг уже выращенных растений до подготовки саженцев в новых горшках — день в муниципальном питомнике раскрывает практическую сторону создания городских зелёных пространств. Ползучий розмарин становится примером того, как почвопокровные растения используются в ландшафтном озеленении.
+event: 25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 event_date: 2026-11-25T21:00:00+00:00
 publication_date: 2026-11-25T21:00:00+00:00
 date: 2026-11-25T21:00:00+00:00
 lastmod: 2026-11-26T18:00:00+00:00
-
-tags: [волонтёрство, экологическое образование, муниципальный питомник, уход за растениями, ползучий розмарин, городское озеленение]
-keywords: [муниципальный питомник, уход за саженцами, ползучий розмарин, Rosmarinus prostratus, почвопокровные растения, размножение растений, городские зелёные пространства, экологическое волонтёрство, Эшпозенде]
-categories: [Volunteering]
-
+tags:
+  - волонтёрство
+  - экологическое образование
+  - муниципальный питомник
+  - уход за растениями
+  - ползучий розмарин
+  - городское озеленение
+keywords:
+  - муниципальный питомник
+  - уход за саженцами
+  - ползучий розмарин
+  - Rosmarinus prostratus
+  - почвопокровные растения
+  - размножение растений
+  - городские зелёные пространства
+  - экологическое волонтёрство
+  - Эшпозенде
+categories:
+  - Volunteering
 series: Volunteering
 series_index: 2
-
-research_origin: "Anna Pivtorak | Pivtorak.Studio"
+research_origin: Anna Pivtorak | Pivtorak.Studio
 content_type: documentary-essay
 schema_type: Article
-
-location: "Marinhas, Esposende, Portugal"
+location: Marinhas, Esposende, Portugal
 status: published
 featured: true
 draft: false
-
 image: /images/volunteering-002-the-life-of-a-seedling.webp
-alt: "Чёрный рассадный лоток с 12 отдельными ячейками, в каждой из которых растёт молодой саженец ползучего розмарина. Лоток стоит на белом рабочем столе под открытым небом в муниципальном питомнике."
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+alt: Чёрный рассадный лоток с 12 отдельными ячейками, в каждой из которых растёт молодой саженец ползучего розмарина. Лоток стоит на белом рабочем столе под открытым небом в муниципальном питомнике.
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-
-related: [/ru/docs/volunteering/, /ru/docs/timeline/, /ru/docs/the-movement-matrix/site-completion-matrix/]
-
-authors: [Anna Pivtorak]
+image_ratio: 1:1
+related:
+  - /ru/docs/volunteering/
+  - /ru/docs/timeline/
+  - /ru/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/ru/docs/volunteering/002-the-life-of-a-seedling/
-
 weight: 2
-robots: "index, follow"
+robots: index, follow
 toc: true
 completion: 100
 seo: true
 distribution: true
 search: indexed
+project: VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 ---
 
 <script type="application/ld+json">

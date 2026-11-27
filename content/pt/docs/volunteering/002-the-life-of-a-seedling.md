@@ -4,54 +4,64 @@ language: pt
 locale: pt-PT
 translation_of: 002-the-life-of-a-seedling
 translation_key: 002-the-life-of-a-seedling
-
-title: "002 A Vida das Mudas"
-seo_title: "A Vida das Mudas | Voluntariado"
+title: 002 A Vida das Mudas
+seo_title: A Vida das Mudas | Voluntariado
 slug: 002-the-life-of-a-seedling
-
-description: "Um ensaio documental sobre uma atividade de voluntariado no viveiro municipal de Marinhas, onde as plantas jovens são limpas, transplantadas e preparadas para futura plantação nos espaços públicos de Esposende. Uma abordagem ao papel do alecrim-rasteiro na criação de espaços verdes urbanos."
-summary: "Desde a remoção de ervas espontâneas junto às plantas já desenvolvidas até à preparação de novas mudas em vasos, um dia no viveiro municipal revela o trabalho prático que está por detrás dos espaços verdes urbanos. Pelo caminho, o alecrim-rasteiro mostra como as plantas de cobertura do solo contribuem para a organização da paisagem."
-
-event: "25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2"
+description: Um ensaio documental sobre uma atividade de voluntariado no viveiro municipal de Marinhas, onde as plantas jovens são limpas, transplantadas e preparadas para futura plantação nos espaços públicos de Esposende. Uma abordagem ao papel do alecrim-rasteiro na criação de espaços verdes urbanos.
+summary: Desde a remoção de ervas espontâneas junto às plantas já desenvolvidas até à preparação de novas mudas em vasos, um dia no viveiro municipal revela o trabalho prático que está por detrás dos espaços verdes urbanos. Pelo caminho, o alecrim-rasteiro mostra como as plantas de cobertura do solo contribuem para a organização da paisagem.
+event: 25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 event_date: 2026-11-25T21:00:00+00:00
 publication_date: 2026-11-25T21:00:00+00:00
 date: 2026-11-25T21:00:00+00:00
 lastmod: 2026-11-26T18:00:00+00:00
-
-tags: [voluntariado, educação ambiental, viveiro municipal, cuidados com plantas, alecrim-rasteiro, espaços verdes urbanos]
-keywords: [viveiro municipal, cuidados com mudas, alecrim-rasteiro, Rosmarinus prostratus, plantas de cobertura do solo, propagação de plantas, espaços verdes urbanos, voluntariado ambiental, Esposende]
-categories: [Volunteering]
-
+tags:
+  - voluntariado
+  - educação ambiental
+  - viveiro municipal
+  - cuidados com plantas
+  - alecrim-rasteiro
+  - espaços verdes urbanos
+keywords:
+  - viveiro municipal
+  - cuidados com mudas
+  - alecrim-rasteiro
+  - Rosmarinus prostratus
+  - plantas de cobertura do solo
+  - propagação de plantas
+  - espaços verdes urbanos
+  - voluntariado ambiental
+  - Esposende
+categories:
+  - Volunteering
 series: Volunteering
 series_index: 2
-
-research_origin: "Anna Pivtorak | Pivtorak.Studio"
+research_origin: Anna Pivtorak | Pivtorak.Studio
 content_type: documentary-essay
 schema_type: Article
-
-location: "Marinhas, Esposende, Portugal"
+location: Marinhas, Esposende, Portugal
 status: published
 featured: true
 draft: false
-
 image: /images/volunteering-002-the-life-of-a-seedling.webp
-alt: "Um tabuleiro preto de viveiro com 12 compartimentos, cada um com uma jovem planta de alecrim-rasteiro, colocado sobre uma mesa de trabalho branca, ao ar livre, num viveiro municipal."
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+alt: Um tabuleiro preto de viveiro com 12 compartimentos, cada um com uma jovem planta de alecrim-rasteiro, colocado sobre uma mesa de trabalho branca, ao ar livre, num viveiro municipal.
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-
-related: [/pt/docs/volunteering/, /pt/docs/timeline/, /pt/docs/the-movement-matrix/site-completion-matrix/]
-
-authors: [Anna Pivtorak]
+image_ratio: 1:1
+related:
+  - /pt/docs/volunteering/
+  - /pt/docs/timeline/
+  - /pt/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/pt/docs/volunteering/002-the-life-of-a-seedling/
-
 weight: 2
-robots: "index, follow"
+robots: index, follow
 toc: true
 completion: 100
 seo: true
 distribution: true
 search: indexed
+project: VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 ---
 
 <script type="application/ld+json">

@@ -4,54 +4,64 @@ language: en
 locale: en-US
 translation_of: 002-the-life-of-a-seedling
 translation_key: 002-the-life-of-a-seedling
-
-title: "002 The Life of a Seedling"
-seo_title: "The Life of a Seedling | Volunteering"
+title: 002 The Life of a Seedling
+seo_title: The Life of a Seedling | Volunteering
 slug: 002-the-life-of-a-seedling
-
-description: "A documentary essay about volunteering at the municipal nursery in Marinhas, where young plants are cleaned, repotted and prepared for future planting in the public spaces of Esposende. Discover the role of creeping rosemary in urban greening."
-summary: "From removing weeds around established seedlings to preparing plants in new pots, a day at the municipal nursery reveals the practical work behind urban green spaces. Along the way, creeping rosemary offers an example of how ground-cover plants contribute to landscape design."
-
-event: "25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2"
+description: A documentary essay about volunteering at the municipal nursery in Marinhas, where young plants are cleaned, repotted and prepared for future planting in the public spaces of Esposende. Discover the role of creeping rosemary in urban greening.
+summary: From removing weeds around established seedlings to preparing plants in new pots, a day at the municipal nursery reveals the practical work behind urban green spaces. Along the way, creeping rosemary offers an example of how ground-cover plants contribute to landscape design.
+event: 25 November 2026 | VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 event_date: 2026-11-25T21:00:00+00:00
 publication_date: 2026-11-25T21:00:00+00:00
 date: 2026-11-25T21:00:00+00:00
 lastmod: 2026-11-26T18:00:00+00:00
-
-tags: [volunteering, environmental education, municipal nursery, plant care, creeping rosemary, urban greening]
-keywords: [municipal nursery, seedling care, creeping rosemary, Rosmarinus prostratus, ground-cover plants, plant propagation, urban green spaces, environmental volunteering, Esposende]
-categories: [Volunteering]
-
+tags:
+  - volunteering
+  - environmental education
+  - municipal nursery
+  - plant care
+  - creeping rosemary
+  - urban greening
+keywords:
+  - municipal nursery
+  - seedling care
+  - creeping rosemary
+  - Rosmarinus prostratus
+  - ground-cover plants
+  - plant propagation
+  - urban green spaces
+  - environmental volunteering
+  - Esposende
+categories:
+  - Volunteering
 series: Volunteering
 series_index: 2
-
-research_origin: "Anna Pivtorak | Pivtorak.Studio"
+research_origin: Anna Pivtorak | Pivtorak.Studio
 content_type: documentary-essay
 schema_type: Article
-
-location: "Marinhas, Esposende, Portugal"
+location: Marinhas, Esposende, Portugal
 status: published
 featured: true
 draft: false
-
 image: /images/volunteering-002-the-life-of-a-seedling.webp
-alt: "A black 12-cell nursery tray, with each compartment containing a young creeping rosemary plant, arranged on a white worktable outdoors in a municipal plant nursery."
-image_credit: "Anna Pivtorak | Pivtorak.Studio"
+alt: A black 12-cell nursery tray, with each compartment containing a young creeping rosemary plant, arranged on a white worktable outdoors in a municipal plant nursery.
+image_credit: Anna Pivtorak | Pivtorak.Studio
 image_format: webp
-image_ratio: "1:1"
-
-related: [/en/docs/volunteering/, /en/docs/timeline/, /en/docs/the-movement-matrix/site-completion-matrix/]
-
-authors: [Anna Pivtorak]
+image_ratio: 1:1
+related:
+  - /en/docs/volunteering/
+  - /en/docs/timeline/
+  - /en/docs/the-movement-matrix/site-completion-matrix/
+authors:
+  - Anna Pivtorak
 canonical: https://pivtorak.studio/en/docs/volunteering/002-the-life-of-a-seedling/
-
 weight: 2
-robots: "index, follow"
+robots: index, follow
 toc: true
 completion: 100
 seo: true
 distribution: true
 search: indexed
+project: VOL'MIG | Pista Mágica | Loja Social de Esposende | G2
 ---
 
 <script type="application/ld+json">
